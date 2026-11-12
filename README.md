@@ -146,7 +146,7 @@ Giữa các dòng chỉ khác **danh sách chunk trong khối Sources**.
 | 4 | + ② tín hiệu ngữ nghĩa | 238 | **59,05 ± 1,00** | 26,39 | 14,56 | 58/36 · 67/30 · 61/36 (p ≤ 0,03) |
 | 5 | + ③ chọn tập (*đầy đủ*) | **241** | 58,93 ± 0,20 | 26,16 | 14,92 | 61/37 · 66/34 · 65/35 (p ≤ 0,02) |
 
-**Phi-3.5-mini-instruct** (server đã vá LongRoPE, mục 4.5)
+**Phi-3.5-mini-instruct**
 
 | # | Cấu hình | Đủ bằng chứng (/385) | ACC ↑ | ERR ↓ | Neither | ACC so với baseline (lượt 1 / 2 / 3) |
 |---|---|---:|---:|---:|---:|---|
