@@ -1,0 +1,17 @@
+{
+  "body_sha256": "cb885737803ae573397734e3e13a108d3f6c669bfb80a78814c1b6814591c589",
+  "finish_reason": "stop",
+  "latency_s": 5.366228458005935,
+  "prediction": " In the conversation regarding the Manchester City vs. Chelsea match, Phil Foden from Manchester City scored a goal that was described as a \"stunner\" by the participants. Foden's goal was highlighted as a significant play, showcasing City's excellent ball movement and his ability to capitalize on the opportunity presented to him. The discussion among the group emphasized the importance of quick transitions and intelligent play, which were effectively demonstrated by Foden's performance during the match.",
+  "prediction_sha256": "07562cd6c4a521fadd20092d2eafb44e8460699d15b56367b101548e1b38b7f9",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 200303,
+  "usage": {
+    "completion_tokens": 105,
+    "prompt_tokens": 4480,
+    "prompt_tokens_details": null,
+    "total_tokens": 4585
+  }
+}

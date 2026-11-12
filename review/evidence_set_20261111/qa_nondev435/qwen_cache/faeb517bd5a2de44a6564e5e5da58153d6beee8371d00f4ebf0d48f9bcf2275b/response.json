@@ -1,0 +1,17 @@
+{
+  "body_sha256": "faeb517bd5a2de44a6564e5e5da58153d6beee8371d00f4ebf0d48f9bcf2275b",
+  "finish_reason": "stop",
+  "latency_s": 8.944149584000115,
+  "prediction": "According to the conversation, Adam Smith is open to Li Hua adding sound-insulating pads to the basement as long as they are reversible and don't cause any damage. Adam explicitly states, \"That sounds like a great idea. As long as it’s reversible and doesn’t damage anything, I’m okay with it.\" This condition ensures that any changes made can be easily undone if necessary.",
+  "prediction_sha256": "e3b8c1af610d7b7fbbe4221cf07fa7555b23956e5a9130b16747ddb8457432e1",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 78,
+  "usage": {
+    "completion_tokens": 79,
+    "prompt_tokens": 3706,
+    "prompt_tokens_details": null,
+    "total_tokens": 3785
+  }
+}

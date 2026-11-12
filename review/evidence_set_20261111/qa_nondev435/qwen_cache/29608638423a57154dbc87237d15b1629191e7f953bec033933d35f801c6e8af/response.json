@@ -1,0 +1,17 @@
+{
+  "body_sha256": "29608638423a57154dbc87237d15b1629191e7f953bec033933d35f801c6e8af",
+  "finish_reason": "stop",
+  "latency_s": 3.6228932080048253,
+  "prediction": "In the conversations provided, WolfgangSchulz suggests getting pizza for dinner. This suggestion is made during a conversation where WolfgangSchulz invites LiHua to grab a slice of pizza after work, stating \"That sounds awesome! What's your favorite place for pizza?\" LiHua then responds positively, indicating she is interested in the idea.",
+  "prediction_sha256": "eeb534b9c1913bc334bda990613209c48264114a6f61cdbf176af20d4593f433",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100365,
+  "usage": {
+    "completion_tokens": 70,
+    "prompt_tokens": 5317,
+    "prompt_tokens_details": null,
+    "total_tokens": 5387
+  }
+}

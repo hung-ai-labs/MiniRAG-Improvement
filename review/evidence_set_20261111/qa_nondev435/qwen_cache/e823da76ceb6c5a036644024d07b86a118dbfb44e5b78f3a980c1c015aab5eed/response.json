@@ -1,0 +1,17 @@
+{
+  "body_sha256": "e823da76ceb6c5a036644024d07b86a118dbfb44e5b78f3a980c1c015aab5eed",
+  "finish_reason": "stop",
+  "latency_s": 8.532792833000713,
+  "prediction": "In the conversation, Gavriel specifically mentions a scene where Arthur tells John to take care of his family, which deeply moved Gavriel and others. This moment is highlighted as a significant part of Arthur's character growth, showcasing how he transitions from being a rough outlaw to someone who genuinely cares about his loved ones. This emotional moment stands out as a pivotal point in the player's experience and the narrative arc of the game.",
+  "prediction_sha256": "72928d046d0f81a34ff76e89bbf6a8fc9578821fd5f5abd06d3763fb15e863f8",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200196,
+  "usage": {
+    "completion_tokens": 87,
+    "prompt_tokens": 3858,
+    "prompt_tokens_details": null,
+    "total_tokens": 3945
+  }
+}

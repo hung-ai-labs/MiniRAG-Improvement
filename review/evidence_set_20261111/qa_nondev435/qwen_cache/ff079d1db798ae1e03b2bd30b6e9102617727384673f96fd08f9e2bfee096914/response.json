@@ -1,0 +1,17 @@
+{
+  "body_sha256": "ff079d1db798ae1e03b2bd30b6e9102617727384673f96fd08f9e2bfee096914",
+  "finish_reason": "stop",
+  "latency_s": 8.474395249999361,
+  "prediction": "Based on the conversation, JakeWatson suggests that quickly refueling is the key after an intense soccer game. He recommends grabbing a snack that includes carbohydrates and protein, such as a banana with peanut butter. This type of snack provides energy and helps replenish glycogen stores, which are crucial for performance and recovery. Additionally, hydration is emphasized as being very important for recovery, suggesting water or an electrolyte drink to replace fluids lost during the game.",
+  "prediction_sha256": "d2533c1c03b841c969018a37847dc3365ea4cdf8d7acbb3f8a3cde5645c01c37",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 389,
+  "usage": {
+    "completion_tokens": 91,
+    "prompt_tokens": 3593,
+    "prompt_tokens_details": null,
+    "total_tokens": 3684
+  }
+}

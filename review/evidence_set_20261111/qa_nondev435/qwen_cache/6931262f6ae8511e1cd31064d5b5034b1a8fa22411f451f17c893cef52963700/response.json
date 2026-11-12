@@ -1,0 +1,17 @@
+{
+  "body_sha256": "6931262f6ae8511e1cd31064d5b5034b1a8fa22411f451f17c893cef52963700",
+  "finish_reason": "stop",
+  "latency_s": 10.797504209003819,
+  "prediction": "In the conversations shared, Adam mentions a specific house rule related to noise levels. In a message dated 20260109_16:00, LiHua asks Adam about house rules, specifically inquiring about noise guidelines, particularly regarding late hours. Adam responds, \"Please keep noise to a minimum during late hours and take good care of the property.\" This indicates that Adam specifies keeping the noise level low during nighttime hours as a rule for the house.",
+  "prediction_sha256": "5d295f0b340a73bdbadec967ab0307c3ae973d7b182c1447291ce2cf1531250e",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100059,
+  "usage": {
+    "completion_tokens": 99,
+    "prompt_tokens": 3568,
+    "prompt_tokens_details": null,
+    "total_tokens": 3667
+  }
+}

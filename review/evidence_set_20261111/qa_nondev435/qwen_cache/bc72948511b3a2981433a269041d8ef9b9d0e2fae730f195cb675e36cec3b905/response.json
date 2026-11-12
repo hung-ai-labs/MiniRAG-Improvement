@@ -1,0 +1,17 @@
+{
+  "body_sha256": "bc72948511b3a2981433a269041d8ef9b9d0e2fae730f195cb675e36cec3b905",
+  "finish_reason": "stop",
+  "latency_s": 6.466897958001937,
+  "prediction": "In the conversation, WolfgangSchulz suggests that LiHua should bring some chips for the movie. This suggestion comes after LiHua mentions that she can bring some chips. There is no indication that LiHua objects to this idea or offers any alternative. Therefore, it can be concluded that LiHua agrees to bring chips for the movie.",
+  "prediction_sha256": "6a75fadd58defb2b2d0151ab3a8964417d16ac8e3e2d9959ed333f4d088f7f1c",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 306,
+  "usage": {
+    "completion_tokens": 72,
+    "prompt_tokens": 4362,
+    "prompt_tokens_details": null,
+    "total_tokens": 4434
+  }
+}

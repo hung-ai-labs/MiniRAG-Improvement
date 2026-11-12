@@ -1,0 +1,17 @@
+{
+  "body_sha256": "8867450c78e5175c376bb4d819582038fca093e0811c133b50e0a1caeb027ebd",
+  "finish_reason": "stop",
+  "latency_s": 8.800028875000862,
+  "prediction": "Based on the conversation provided, LiHua expresses a strong preference for Spider-Man, describing it as \"my fave\" and noting its \"story and all the web-slinging action.\" LiHua further shares that Iron Man is another hero she has a soft spot for due to his \"cool\" technology and \"entertaining\" personality. However, Spider-Man emerges as her clear favorite among the superheroes discussed.",
+  "prediction_sha256": "337ea942c9a3bcc82f8a1bf57cf74f442bc646ed4dddb720613e0e97b5ab1170",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100157,
+  "usage": {
+    "completion_tokens": 86,
+    "prompt_tokens": 3932,
+    "prompt_tokens_details": null,
+    "total_tokens": 4018
+  }
+}

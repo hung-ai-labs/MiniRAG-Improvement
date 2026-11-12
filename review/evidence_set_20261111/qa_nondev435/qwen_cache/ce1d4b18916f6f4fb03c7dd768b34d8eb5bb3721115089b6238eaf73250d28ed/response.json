@@ -1,0 +1,17 @@
+{
+  "body_sha256": "ce1d4b18916f6f4fb03c7dd768b34d8eb5bb3721115089b6238eaf73250d28ed",
+  "finish_reason": "stop",
+  "latency_s": 12.744165500000236,
+  "prediction": "Yes, Yuriko did ask Li Hua for help regarding her studio's homepage before she made plans to meet at the \"Central Perk\" café. In one of their earlier conversations, Yuriko expressed her desire to improve the studio's homepage and asked Li Hua to assist her with the task. Specifically, Yuriko mentioned that she needed help implementing a user feedback section and scheduling available time on the studio homepage. This request came before they planned to meet at \"Central Perk\" café to discuss these improvements.",
+  "prediction_sha256": "e6e8edef88d3a0e5ec6e2e73615accdc37a3279931a3ab78dc790124110e23a8",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100017,
+  "usage": {
+    "completion_tokens": 108,
+    "prompt_tokens": 4316,
+    "prompt_tokens_details": null,
+    "total_tokens": 4424
+  }
+}

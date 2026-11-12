@@ -1,0 +1,17 @@
+{
+  "body_sha256": "ad3b319c714d1552d4a9e5b6dc66f7ed1765d73bca65d610d770e184e4eb3351",
+  "finish_reason": "stop",
+  "latency_s": 9.569907208002405,
+  "prediction": "Li Hua first asked Jennifer Moore for tips on dealing with muscle soreness during a conversation that took place on Time: 20260206_16:00. This initial query came after Li Hua felt sore after their workout sessions. Following this, Li Hua reached out to Jennifer Moore multiple times for further advice on managing muscle soreness, indicating a persistent concern with this issue.",
+  "prediction_sha256": "865ab0a2a11b078a41dae92ccbfb78e08e3e47c3a1e59422c52e4a2fd9c9cbfc",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100074,
+  "usage": {
+    "completion_tokens": 86,
+    "prompt_tokens": 3313,
+    "prompt_tokens_details": null,
+    "total_tokens": 3399
+  }
+}

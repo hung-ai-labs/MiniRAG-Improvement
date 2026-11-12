@@ -1,0 +1,17 @@
+{
+  "body_sha256": "2b9f3a8bf5e030a154faabebb2aac6fe42e0c7f03c59856be9fd227ed8a2f6fe",
+  "finish_reason": "stop",
+  "latency_s": 11.326735709000786,
+  "prediction": "In the conversation, Jake Watson provides several recommendations for strength training exercises that Li Hua can incorporate into her routine. Specifically, Jake suggests squats, lunges, and planks as effective ways to build leg and core strength. Additionally, Jake mentions the importance of including balance exercises like single-leg stands to enhance overall stability and endurance. These exercises are described as simple yet powerful for beginners, aligning with Jake's advice to start with bodyweight exercises.",
+  "prediction_sha256": "3c80597f2729b3086937242a1cfb3d508aea42af84431751617a075eba46f47a",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100209,
+  "usage": {
+    "completion_tokens": 92,
+    "prompt_tokens": 4359,
+    "prompt_tokens_details": null,
+    "total_tokens": 4451
+  }
+}

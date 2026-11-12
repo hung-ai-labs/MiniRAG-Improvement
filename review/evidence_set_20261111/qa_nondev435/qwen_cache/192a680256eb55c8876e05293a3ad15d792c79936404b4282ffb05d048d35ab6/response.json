@@ -1,0 +1,17 @@
+{
+  "body_sha256": "192a680256eb55c8876e05293a3ad15d792c79936404b4282ffb05d048d35ab6",
+  "finish_reason": "stop",
+  "latency_s": 8.239483208002639,
+  "prediction": "In one of the conversations, WolfgangSchulz recommends a burger joint downtown as his favorite fast food spot. However, he also mentions that LiHua should go to the gym after her workout sessions to grab a water cup. This indicates that the gym Wolfgang recommended LiHua to visit is the same gym where she goes for her fitness sessions and where she receives reminders about upcoming maintenance days. \n\nFrom the context provided, the name of the gym is \"GYM.\"",
+  "prediction_sha256": "f4107db484265d20bcc0668cd36b32e6ee638c88091288172f3b6f988337f4c1",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 63,
+  "usage": {
+    "completion_tokens": 96,
+    "prompt_tokens": 4492,
+    "prompt_tokens_details": null,
+    "total_tokens": 4588
+  }
+}

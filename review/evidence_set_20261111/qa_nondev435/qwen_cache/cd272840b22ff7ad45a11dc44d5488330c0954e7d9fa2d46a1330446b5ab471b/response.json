@@ -1,0 +1,17 @@
+{
+  "body_sha256": "cd272840b22ff7ad45a11dc44d5488330c0954e7d9fa2d46a1330446b5ab471b",
+  "finish_reason": "stop",
+  "latency_s": 12.59857762500178,
+  "prediction": "Based on the conversations, there are several instances of plans for soccer practice sessions. However, the specific times for these practices are not consistently provided. In one instance, JakeWatson mentions a practice session focusing on shooting, and they plan to meet at the park on Saturday at 3 PM. Additionally, LiHua and JakeWatson have previously agreed to meet at 10 AM on Saturdays for soccer training. No specific times are mentioned for other practice sessions. Therefore, the most concrete plan provided involves meeting at 3 PM on Saturdays for shooting practice.",
+  "prediction_sha256": "b5cd654bf17e3e446b7e976545ceb7c88edd9ff3d1d531e3969df99812dada9d",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200362,
+  "usage": {
+    "completion_tokens": 114,
+    "prompt_tokens": 5140,
+    "prompt_tokens_details": null,
+    "total_tokens": 5254
+  }
+}

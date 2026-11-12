@@ -1,0 +1,17 @@
+{
+  "body_sha256": "09f9f2397bddb67f39a33b2a1a0253e3a950d51db3c68897ec6112684fd13c98",
+  "finish_reason": "stop",
+  "latency_s": 7.977073582998855,
+  "prediction": "According to the records, Hailey Johnson starts baking very early in the morning, specifically around 4 AM. This allows her to ensure that her bread is fresh and ready for the day. She mentioned this to Li Hua when discussing the timing of bread deliveries, stating \"I start baking super early, usually around 4 AM! That way everything is fresh and ready for the day.\"",
+  "prediction_sha256": "32b8bb4606074273f085598ab20b7f8d2eb3d4cba23c173d28901441cebd6589",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200096,
+  "usage": {
+    "completion_tokens": 79,
+    "prompt_tokens": 4349,
+    "prompt_tokens_details": null,
+    "total_tokens": 4428
+  }
+}

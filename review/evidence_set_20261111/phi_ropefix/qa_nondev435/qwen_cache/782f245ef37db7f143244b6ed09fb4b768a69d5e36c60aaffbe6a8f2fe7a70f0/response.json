@@ -1,0 +1,17 @@
+{
+  "body_sha256": "782f245ef37db7f143244b6ed09fb4b768a69d5e36c60aaffbe6a8f2fe7a70f0",
+  "finish_reason": "stop",
+  "latency_s": 5.98678454200126,
+  "prediction": " According to Jennifer Moore, LiHua should aim for at least 5 servings of vegetables each day to maintain good health and support fitness goals. Vegetables are crucial for providing energy and aiding in recovery after workouts. Jennifer suggests mixing up the types of vegetables to ensure a variety of nutrients are consumed. Some of her recommended favorites include spinach, kale, bell peppers, and broccoli, which can be easily incorporated into meals such as salads or stir-fries. It's important to include a diverse range of vegetables to benefit from the different vitamins and minerals they offer, as well as to keep meals interesting and flavorsome.",
+  "prediction_sha256": "c004175311a587d21a03a743b20a4b0c28fa2fc91819b39ffb69c4f9831d01b8",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 100204,
+  "usage": {
+    "completion_tokens": 155,
+    "prompt_tokens": 5513,
+    "prompt_tokens_details": null,
+    "total_tokens": 5668
+  }
+}

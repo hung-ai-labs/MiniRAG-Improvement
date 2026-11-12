@@ -1,0 +1,17 @@
+{
+  "body_sha256": "8409759816d75d18d4cd7e21006472bd1c08ed2d4b3bd9cee15b6ff5b968ceb6",
+  "finish_reason": "stop",
+  "latency_s": 9.95111183300105,
+  "prediction": " LiHua recommends two brands of air-conditioners to Wolfgang for their energy efficiency and quiet operation. These brands are:\n\n- **Mitsubishi**: Known for its reliability and quietness, Mitsubishi air-conditioners are also recognized for their energy-efficient designs.\n- **Daikin**: This brand is also praised for its quiet performance and is considered one of the best options when it comes to energy-efficient cooling systems.\n\nIn addition to these brands, LiHua emphasizes the importance of the Seasonal Energy Efficiency Ratio (SEER) rating, suggesting a SEER rating of **16 or higher**. This rating indicates the energy efficiency of the air-conditioner, with higher values representing more efficient cooling for the amount of energy consumed.\n\nBy choosing an air-conditioner from either Mitsubishi or Daikin with a SEER rating of 16 or above, Wolfgang can expect to enjoy a quiet and energy-efficient cooling solution for his basement gatherings.",
+  "prediction_sha256": "2ae744afeaed01e197de822422f02219ee3a6820580357b9bfe8c6c5016ae219",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 160,
+  "usage": {
+    "completion_tokens": 230,
+    "prompt_tokens": 5781,
+    "prompt_tokens_details": null,
+    "total_tokens": 6011
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "c7bd004078f1bc409dd90dd7a4628a584df87959ea912244fb9c13aae6f315b3",
+  "finish_reason": "stop",
+  "latency_s": 6.634125166998274,
+  "prediction": "In one of the conversations, ChaeSong-hwa mentions that he plans to bring some snacks to the karaoke night. Specifically, he says, \"I’ll bring some snacks too. See you all Friday! 🎤🍕✨\". This indicates that his contribution to the event will be bringing snacks, presumably to share with the others.",
+  "prediction_sha256": "f060e8704e9d2a2c98c2f54139252c4b0ea91d3f83825a081585864d708afaa6",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 371,
+  "usage": {
+    "completion_tokens": 70,
+    "prompt_tokens": 4471,
+    "prompt_tokens_details": null,
+    "total_tokens": 4541
+  }
+}

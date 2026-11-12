@@ -1,0 +1,17 @@
+{
+  "body_sha256": "0dc6b649283d75aa5c4c9edf26552365d57a043d2e31c12195d365a679d89863",
+  "finish_reason": "stop",
+  "latency_s": 13.307140083998092,
+  "prediction": "On the date specified, Alice is delivering the bread to Li Hua. This information is derived from the source content which states, \"Time: 20260403_15:00\\nAlice: I am Alice from Hailey's bakery. Your bread has been delivered, please come and pick it up ASAP. Have a good day : )\" Additionally, another source mentions, \"Time: 20260403_08:00\\nHaileyJohnson: Hey! Just a quick reminder that Alice is on her way to deliver your fresh bread this morning. Enjoy! 🥖💖\", indicating that Alice is responsible for the delivery on that specific date.",
+  "prediction_sha256": "aa45b39ef5a9fd32528a37d15ed34c4236d4f84fba9282c4af9ce0df84a4e26e",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 105,
+  "usage": {
+    "completion_tokens": 146,
+    "prompt_tokens": 3616,
+    "prompt_tokens_details": null,
+    "total_tokens": 3762
+  }
+}

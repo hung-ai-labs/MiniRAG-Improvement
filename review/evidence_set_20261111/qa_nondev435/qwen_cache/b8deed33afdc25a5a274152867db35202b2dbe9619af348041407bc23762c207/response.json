@@ -1,0 +1,17 @@
+{
+  "body_sha256": "b8deed33afdc25a5a274152867db35202b2dbe9619af348041407bc23762c207",
+  "finish_reason": "stop",
+  "latency_s": 8.240679582999292,
+  "prediction": "Dyllan describes \"God of War\" as a game that immerses him deeply in the samurai culture. He expresses enthusiasm for the immersive graphics and engaging storytelling, noting particularly the rich narrative surrounding the protagonist Kratos, who embodies the spirit of a warrior in Norse mythology but is heavily influenced by the samurai traditions of ancient Japan. The game's portrayal of the samurai code of honor, warfare tactics, and the historical context of ancient Japan creates an epic and captivating experience for Dyllan.",
+  "prediction_sha256": "9ddba19bb988ea05f231b313a3a54233d6ac8ff70bbfcdc187dd2832064721f8",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 324,
+  "usage": {
+    "completion_tokens": 103,
+    "prompt_tokens": 4223,
+    "prompt_tokens_details": null,
+    "total_tokens": 4326
+  }
+}

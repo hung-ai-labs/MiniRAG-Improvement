@@ -1,0 +1,17 @@
+{
+  "body_sha256": "4cf81abf379da0f95fa0e5aa0d531b9c680a887949ac8e722f845acba06114bb",
+  "finish_reason": "stop",
+  "latency_s": 14.724498208001023,
+  "prediction": "YurikoYamamoto and Li Hua are collaborating on improving various aspects of YurikoYamamoto's studio's homepage. Their primary focus includes designing a user feedback section, adding a feature for automatically scheduling available time, and planning to integrate a blog section. \n\nThe user feedback section aims to enhance the user experience by providing a platform for visitors to share their comments and suggestions, possibly through a simple form with star ratings. The automatic scheduling feature is designed to make it easier for clients to book appointments by displaying available times instantly on the homepage. Lastly, they are discussing the addition of a blog section to showcase insights about speech therapy, share success stories, and potentially include interviews with clients, which would serve to build trust and engage a broader audience.\n\nThroughout these discussions, Li Hua is providing expert guidance and assistance to ensure that the changes are effective and aligned with YurikoYamamoto's vision for her studio.",
+  "prediction_sha256": "4ea357ace3be129de79bfc54bb89707827121bfedce2236ecbc9231d116f28ca",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200084,
+  "usage": {
+    "completion_tokens": 189,
+    "prompt_tokens": 4252,
+    "prompt_tokens_details": null,
+    "total_tokens": 4441
+  }
+}

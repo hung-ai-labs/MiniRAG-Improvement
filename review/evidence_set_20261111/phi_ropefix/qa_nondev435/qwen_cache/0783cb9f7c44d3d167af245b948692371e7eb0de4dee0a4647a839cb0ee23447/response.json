@@ -1,0 +1,17 @@
+{
+  "body_sha256": "0783cb9f7c44d3d167af245b948692371e7eb0de4dee0a4647a839cb0ee23447",
+  "finish_reason": "stop",
+  "latency_s": 9.434227542005829,
+  "prediction": " The size of the basement, as mentioned in the conversation between AdamSmith and LiHua, is approximately 15 feet by 20 feet. This information was provided by AdamSmith during their discussion to ensure that LiHua could choose an air-conditioner that would fit well within the available space. Here's the excerpt from the conversation for reference:\n\n```\nAdamSmith: The basement is approximately 15 feet by 20 feet. You should have plenty of options that fit within those dimensions.\nLiHua: That's helpful! Thanks! Do you have any recommendations on which type to pick?\nAdamSmith: For the basement, a split-type air-conditioner would be a great choice. It’s efficient and quieter. Just make sure it has enough cooling capacity for the space.\n```\n\nThis dimension provides a basis for selecting an air-conditioning unit, specifically a split-type recommended for efficient and quiet operation suitable for a basement environment.",
+  "prediction_sha256": "45cd3b06b8cae3d32c290f97992dc87d182d9849f3940ab0fa2b64e96376794c",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 100155,
+  "usage": {
+    "completion_tokens": 218,
+    "prompt_tokens": 5096,
+    "prompt_tokens_details": null,
+    "total_tokens": 5314
+  }
+}

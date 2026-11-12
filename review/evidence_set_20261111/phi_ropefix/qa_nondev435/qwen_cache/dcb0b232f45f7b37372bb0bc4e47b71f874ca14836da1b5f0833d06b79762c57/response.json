@@ -1,0 +1,17 @@
+{
+  "body_sha256": "dcb0b232f45f7b37372bb0bc4e47b71f874ca14836da1b5f0833d06b79762c57",
+  "finish_reason": "stop",
+  "latency_s": 7.042894291997072,
+  "prediction": " According to the conversation between Wolfgang Schulz and LiHua, Wolfgang has a preference for his burger toppings. In the exchange that took place on July 2, 2026, Wolfgang mentioned his classic cheeseburger favorites when asked about his favorite fast food. He specified that he likes the simplicity of his burger toppings, noting:\n\n> I'm all about classic cheeseburger vibes! Just keep it simple with lettuce, tomato, and some pickles.\n\nFrom this comment, we can deduce that Wolfgang's preferred burger toppings are lettuce, tomato, and pickles. These are the simple, traditional toppings he enjoys on his classic cheeseburger.",
+  "prediction_sha256": "a548427d0b10758652838c6c02a60afd538a68d5d300a1e4df0ea3f917f1dc0a",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 200187,
+  "usage": {
+    "completion_tokens": 160,
+    "prompt_tokens": 5835,
+    "prompt_tokens_details": null,
+    "total_tokens": 5995
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "6e6c5bf72a03be7fea8e14b4359bf12b0adba58d38cafceec0355297fdfbe663",
+  "finish_reason": "stop",
+  "latency_s": 10.84113237499696,
+  "prediction": "Jasper mentions a comeback against Manchester City in the Champions League, indicating that Manchester City recently played an important match that garnered significant attention. However, specific details about the match date or outcome are not provided in the given information. The mention suggests that the comeback was notable enough to prompt a discussion about it among the participants.",
+  "prediction_sha256": "5e0e27d7c4d8ee319b68c24256f7f13da75814a04f83087d9281379d3486e812",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200302,
+  "usage": {
+    "completion_tokens": 65,
+    "prompt_tokens": 5050,
+    "prompt_tokens_details": null,
+    "total_tokens": 5115
+  }
+}

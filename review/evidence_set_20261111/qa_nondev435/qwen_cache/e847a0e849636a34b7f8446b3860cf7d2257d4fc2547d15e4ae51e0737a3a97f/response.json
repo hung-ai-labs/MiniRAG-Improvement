@@ -1,0 +1,17 @@
+{
+  "body_sha256": "e847a0e849636a34b7f8446b3860cf7d2257d4fc2547d15e4ae51e0737a3a97f",
+  "finish_reason": "stop",
+  "latency_s": 7.863322042001528,
+  "prediction": "Based on the information provided in the conversation, Li Hua mentioned that she tried the new pastry Hailey had recently introduced, which was delicious. However, no specific toppings for the bread for her next delivery were discussed. Regarding the bakery she gets her bread from, it is explicitly stated that Hailey Johnson runs the bakery and provides bread deliveries. Therefore, the bakery she receives her bread from is Hailey's Bakery.",
+  "prediction_sha256": "e8b66f55ddc2703997238e6b3600ff7bad7bb50bb7173b8013c62e0e861104d9",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200420,
+  "usage": {
+    "completion_tokens": 85,
+    "prompt_tokens": 4850,
+    "prompt_tokens_details": null,
+    "total_tokens": 4935
+  }
+}

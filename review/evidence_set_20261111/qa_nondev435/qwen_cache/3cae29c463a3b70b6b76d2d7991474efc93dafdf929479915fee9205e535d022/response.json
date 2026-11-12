@@ -1,0 +1,17 @@
+{
+  "body_sha256": "3cae29c463a3b70b6b76d2d7991474efc93dafdf929479915fee9205e535d022",
+  "finish_reason": "stop",
+  "latency_s": 4.621119291001378,
+  "prediction": "In the conversation shared, WolfgangSchulz suggests getting pizza for dinner. Specifically, he proposes grabbing some pizza for dinner after work, saying, \"Hey man! Wanna grab some pizza for dinner after work? 🍕\". LiHua agrees positively, expressing enthusiasm for the idea, \"That sounds awesome!\". Thus, it is WolfgangSchulz who suggests ordering pizza for dinner.",
+  "prediction_sha256": "5141f2aa21ac8e610e1a4c5cc785c15388c6a1190b195f43dd48dae78057019d",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100365,
+  "usage": {
+    "completion_tokens": 79,
+    "prompt_tokens": 5122,
+    "prompt_tokens_details": null,
+    "total_tokens": 5201
+  }
+}

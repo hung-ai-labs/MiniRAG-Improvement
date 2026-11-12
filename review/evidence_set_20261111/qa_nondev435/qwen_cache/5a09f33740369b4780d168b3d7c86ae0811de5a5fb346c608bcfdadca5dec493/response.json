@@ -1,0 +1,17 @@
+{
+  "body_sha256": "5a09f33740369b4780d168b3d7c86ae0811de5a5fb346c608bcfdadca5dec493",
+  "finish_reason": "stop",
+  "latency_s": 5.795586457999889,
+  "prediction": "Based on the conversation recorded, Wolfgang and Li Hua discussed their plans for a special summer promotion on ice cream and pastries. However, there is no mention of Wolfgang specifically planning a dessert with Li Hua after their hot pot dinner. The records only indicate that they discussed ice cream and pastries for the promotion. Therefore, we cannot determine what type of dessert Wolfgang planned to have with Li Hua after their hot pot dinner.",
+  "prediction_sha256": "676eef4bfd813f29656a9c181a82e72ffb5f58bc837d94a423c71676c8eb1f60",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100441,
+  "usage": {
+    "completion_tokens": 88,
+    "prompt_tokens": 4261,
+    "prompt_tokens_details": null,
+    "total_tokens": 4349
+  }
+}

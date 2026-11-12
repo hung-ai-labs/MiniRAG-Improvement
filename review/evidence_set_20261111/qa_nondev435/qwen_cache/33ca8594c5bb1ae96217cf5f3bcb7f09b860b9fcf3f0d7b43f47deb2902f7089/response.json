@@ -1,0 +1,17 @@
+{
+  "body_sha256": "33ca8594c5bb1ae96217cf5f3bcb7f09b860b9fcf3f0d7b43f47deb2902f7089",
+  "finish_reason": "stop",
+  "latency_s": 9.005220624996582,
+  "prediction": "Based on the conversation between Li Hua and Adam Smith, Li Hua suggests two types of flowers for the flower beds: lavender and coneflowers. These flowers were specifically mentioned due to their beauty and suitability for attracting pollinators such as butterflies and bees. Additionally, Li Hua notes that lavender and coneflowers do not require too much maintenance, which aligns well with the idea of having a well-kept garden.",
+  "prediction_sha256": "3375bbaa82d358477adc84cfbfaf49aec0489d88f52a59e79db8f0f93e671ae9",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100110,
+  "usage": {
+    "completion_tokens": 90,
+    "prompt_tokens": 3708,
+    "prompt_tokens_details": null,
+    "total_tokens": 3798
+  }
+}

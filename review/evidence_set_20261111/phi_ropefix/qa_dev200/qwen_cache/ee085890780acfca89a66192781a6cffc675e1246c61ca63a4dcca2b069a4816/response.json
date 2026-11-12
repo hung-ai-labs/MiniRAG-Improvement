@@ -1,0 +1,17 @@
+{
+  "body_sha256": "ee085890780acfca89a66192781a6cffc675e1246c61ca63a4dcca2b069a4816",
+  "finish_reason": "stop",
+  "latency_s": 11.935001500001817,
+  "prediction": " The café where Li Hua and Yuriko Yamamoto first met to discuss Yuriko's website is referred to as \"Central Perk\" in the conversation transcript. Here is the relevant excerpt with context provided in markdown format:\n\n```markdown\n6,\"Time: 20260317_15:30\nLiHua: Hey Yuriko! I'm so happy to see you. Just wanted to remind you about our meeting today at 2 PM at Central Perk. Looking forward to discussing the homepage updates! 😊\nYurikoYamamoto: Thanks for the reminder! I'll see you at Central Perk at 2 PM. Excited to chat about the updates!\nLiHua: Great! Can't wait to brainstorm some ideas together. See you soon!\nYurikoYamamoto: Absolutely! I think we’ll come up with some good stuff. See you soon!\"\n```\n\nIn this context, \"Central Perk\" is used as a casual reference for the meeting location, drawing from the popular café setting from the TV show \"Friends.\" There is no additional commentary needed beyond presenting the direct information from the data tables as requested.",
+  "prediction_sha256": "f0ade2a97d57f4601a2cd9271061107649531cc57fb3358b4ce2108e38d71899",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 158,
+  "usage": {
+    "completion_tokens": 285,
+    "prompt_tokens": 5207,
+    "prompt_tokens_details": null,
+    "total_tokens": 5492
+  }
+}

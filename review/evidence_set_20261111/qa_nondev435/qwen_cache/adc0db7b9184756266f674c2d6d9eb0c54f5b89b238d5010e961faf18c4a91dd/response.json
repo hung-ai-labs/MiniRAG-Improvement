@@ -1,0 +1,17 @@
+{
+  "body_sha256": "adc0db7b9184756266f674c2d6d9eb0c54f5b89b238d5010e961faf18c4a91dd",
+  "finish_reason": "stop",
+  "latency_s": 9.834514833000867,
+  "prediction": "According to the information provided, there is a scheduled power outage that will occur in the neighborhood. This outage is expected to happen from 2 pm to 3 pm today. There are two entries discussing power outages, with the first mentioning \"Power Outage\" as an event scheduled for the afternoon of today, causing disruptions. The second entry indicates that a similar event is planned for tomorrow afternoon, suggesting a recurring or periodic issue with the electrical supply in the area.",
+  "prediction_sha256": "3e58d4aec0f61726ed864100d818c7f26f173d32ee5b4ba55400a4ee44a7e642",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 90,
+  "usage": {
+    "completion_tokens": 95,
+    "prompt_tokens": 4921,
+    "prompt_tokens_details": null,
+    "total_tokens": 5016
+  }
+}

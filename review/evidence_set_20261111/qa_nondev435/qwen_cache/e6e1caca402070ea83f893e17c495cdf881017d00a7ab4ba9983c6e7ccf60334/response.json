@@ -1,0 +1,17 @@
+{
+  "body_sha256": "e6e1caca402070ea83f893e17c495cdf881017d00a7ab4ba9983c6e7ccf60334",
+  "finish_reason": "stop",
+  "latency_s": 6.503385750002053,
+  "prediction": "On the morning of the 9th, Li Hua and Wolfgang agreed to meet for breakfast at a cozy café downtown at 12:00. This detail is indicated in the conversation snippet where Wolfgang reminds Li Hua about the lunch at the cozy café downtown scheduled for 12:00 on the 9th.",
+  "prediction_sha256": "14c55355eecf5678844b57046dabf498da11fc4a67ed8a5a755fc43c18b56abc",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200403,
+  "usage": {
+    "completion_tokens": 69,
+    "prompt_tokens": 4564,
+    "prompt_tokens_details": null,
+    "total_tokens": 4633
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "da26897f1b5469743cecd3438fe03a35bc83d3be9148a5dee84a2a4a2e9377cd",
+  "finish_reason": "stop",
+  "latency_s": 6.147023207999155,
+  "prediction": "Based on the conversation, Li Hua agreed to bring homemade pasta salad to the neighborhood potluck dinner. This decision was made when Adam Smith invited Li Hua to contribute to the event, and Li Hua responded positively, stating she could \"whip up some homemade pasta salad.\"",
+  "prediction_sha256": "35641b95f481b66d6fd613826ae96b097bd365fd25b3ab3adcebcf31fa1747e4",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100087,
+  "usage": {
+    "completion_tokens": 58,
+    "prompt_tokens": 4281,
+    "prompt_tokens_details": null,
+    "total_tokens": 4339
+  }
+}

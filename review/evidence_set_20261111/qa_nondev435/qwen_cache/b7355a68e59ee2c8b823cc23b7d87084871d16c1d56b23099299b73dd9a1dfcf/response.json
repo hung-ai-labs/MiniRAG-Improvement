@@ -1,0 +1,17 @@
+{
+  "body_sha256": "b7355a68e59ee2c8b823cc23b7d87084871d16c1d56b23099299b73dd9a1dfcf",
+  "finish_reason": "stop",
+  "latency_s": 9.97465791599825,
+  "prediction": "Based on the conversation, Li Hua indicated that she would like the bread delivery to be made to her home at \"123 Sunny Street.\" This information is derived from a conversation between Li Hua and HaileyJohnson where Li Hua asked HaileyJohnson to set up a delivery for Tuesday, specifying that the address is \"123 Sunny Street.\"",
+  "prediction_sha256": "e69245d9ad6de62cd2bd21291a132cfc671baf959868d8d19c438ea957104408",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100094,
+  "usage": {
+    "completion_tokens": 74,
+    "prompt_tokens": 4604,
+    "prompt_tokens_details": null,
+    "total_tokens": 4678
+  }
+}

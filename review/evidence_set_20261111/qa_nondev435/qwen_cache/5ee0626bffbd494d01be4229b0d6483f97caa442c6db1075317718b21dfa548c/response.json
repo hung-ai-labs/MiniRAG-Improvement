@@ -1,0 +1,17 @@
+{
+  "body_sha256": "5ee0626bffbd494d01be4229b0d6483f97caa442c6db1075317718b21dfa548c",
+  "finish_reason": "stop",
+  "latency_s": 7.976319041001261,
+  "prediction": "Li Hua requested additional exercises to do at home to complement his existing training regimen. He specifically asked Jennifer Moore for suggestions because he wanted to maximize his progress and enhance his overall fitness. Li Hua noted that he was enthusiastic about incorporating these new exercises and expressed interest in whether they should be done on off days or mixed in with his regular training.",
+  "prediction_sha256": "13a8b58c68f098c004efbbcc81d26d16f32b911af6c8001e2a9cb73096efedf4",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100076,
+  "usage": {
+    "completion_tokens": 71,
+    "prompt_tokens": 4601,
+    "prompt_tokens_details": null,
+    "total_tokens": 4672
+  }
+}

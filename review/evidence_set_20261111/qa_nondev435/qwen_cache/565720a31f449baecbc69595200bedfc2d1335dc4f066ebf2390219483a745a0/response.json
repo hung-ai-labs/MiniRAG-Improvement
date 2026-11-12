@@ -1,0 +1,17 @@
+{
+  "body_sha256": "565720a31f449baecbc69595200bedfc2d1335dc4f066ebf2390219483a745a0",
+  "finish_reason": "stop",
+  "latency_s": 34.312849125002685,
+  "prediction": "In one of the conversations, WolfgangSchulz invites LiHua to a movie night and asks what drinks she wants to bring. LiHua responds, \"I can bring some chips!\" However, WolfgangSchulz specifies that he wants soda and juice. Therefore, based on the conversation, LiHua agrees to bring chips for the movie, not chips along with other snacks like soda and juice.",
+  "prediction_sha256": "7cc343736d7d8bfe0a048c6725010e29c4a321db2b1e58da55835a9878931fd7",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100306,
+  "usage": {
+    "completion_tokens": 83,
+    "prompt_tokens": 4524,
+    "prompt_tokens_details": null,
+    "total_tokens": 4607
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "af0a0f01ff1802d71200993b76655055a0ef2ad6059b652c3e83803c42705769",
+  "finish_reason": "stop",
+  "latency_s": 8.514859249997244,
+  "prediction": "Rowan discusses how Cersei's character embodies the idea that power comes at a cost. This notion is reflected in the complexities of Cersei's journey throughout the series, where she achieves her goals but ultimately loses significant aspects of her life, including her children, in the process. Rowan emphasizes how Cersei's relentless pursuit of power leads to her isolation and downfall, highlighting the theme of power's isolating nature.",
+  "prediction_sha256": "554411eb0580654272de3bc9bf469e06f757002a2b8706aba4c12f9ef11a1a48",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200309,
+  "usage": {
+    "completion_tokens": 85,
+    "prompt_tokens": 4563,
+    "prompt_tokens_details": null,
+    "total_tokens": 4648
+  }
+}

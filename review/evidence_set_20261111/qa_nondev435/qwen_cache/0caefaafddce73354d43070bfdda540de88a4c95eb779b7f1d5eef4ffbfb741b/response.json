@@ -1,0 +1,17 @@
+{
+  "body_sha256": "0caefaafddce73354d43070bfdda540de88a4c95eb779b7f1d5eef4ffbfb741b",
+  "finish_reason": "stop",
+  "latency_s": 10.339835833001416,
+  "prediction": "In the discussion, Helios shared his approach to handling flying machines in \"Horizon Forbidden West.\" Specifically, he recommended using a bow with elemental arrows. By doing so, players can stun the flying machines, making them easier to defeat. Additionally, Helios stressed the importance of utilizing the player's focus to track the movements of the flying machines, which helps in dodging their attacks effectively.",
+  "prediction_sha256": "24e5affa891d748d2e74e655d9cde5fa74ffa7faaff6a42be7bda6d48d7a818b",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100255,
+  "usage": {
+    "completion_tokens": 80,
+    "prompt_tokens": 5081,
+    "prompt_tokens_details": null,
+    "total_tokens": 5161
+  }
+}

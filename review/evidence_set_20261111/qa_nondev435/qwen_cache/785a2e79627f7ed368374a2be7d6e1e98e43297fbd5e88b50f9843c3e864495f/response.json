@@ -1,0 +1,17 @@
+{
+  "body_sha256": "785a2e79627f7ed368374a2be7d6e1e98e43297fbd5e88b50f9843c3e864495f",
+  "finish_reason": "stop",
+  "latency_s": 9.319953250000253,
+  "prediction": "In the discussion regarding strategies to manage muscle soreness, Jennifer Moore offers several practical tips. She emphasizes the importance of hydration, suggesting that staying well-hydrated can significantly reduce muscle soreness and aid in quicker recovery. Additionally, Jennifer recommends post-workout nutrition, particularly mentioning the benefits of protein supplements, noting that consuming these after workouts is generally more effective for muscle recovery. She also stresses the significance of a balanced diet, ensuring that one stays well-hydrated and maintains adequate protein intake to support muscle recovery and growth.",
+  "prediction_sha256": "a107ef384bd298a086b57cde99aad4786e2018372051bc65dfe048ca0be93a88",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100075,
+  "usage": {
+    "completion_tokens": 108,
+    "prompt_tokens": 4142,
+    "prompt_tokens_details": null,
+    "total_tokens": 4250
+  }
+}

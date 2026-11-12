@@ -1,0 +1,17 @@
+{
+  "body_sha256": "742bd10c16d85ae70471b807876730b69f50e7210c2ef322917992363e731e47",
+  "finish_reason": "stop",
+  "latency_s": 9.55640012499498,
+  "prediction": "According to the conversation, Adam Smith is willing for Li Hua to add sound-insulating pads to the basement as long as the modifications are reversible and don't cause any damage. He explicitly states, \"That sounds like a great idea. As long as it’s reversible and doesn’t damage anything, I’m okay with it.\" Li Hua assures Adam she will ensure the modifications are reversible, further confirming their agreement.",
+  "prediction_sha256": "6a6413cab38ffcefb8d08b65fc307ed6de0b6d81182a2473306a21344dba5ca5",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100078,
+  "usage": {
+    "completion_tokens": 85,
+    "prompt_tokens": 3265,
+    "prompt_tokens_details": null,
+    "total_tokens": 3350
+  }
+}

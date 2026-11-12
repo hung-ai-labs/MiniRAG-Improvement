@@ -1,0 +1,17 @@
+{
+  "body_sha256": "0869cf1956195dbd26206f22ec5b74b14c62d18e729c5e83195c0200d4976c45",
+  "finish_reason": "stop",
+  "latency_s": 13.577075458000763,
+  "prediction": " Li Hua plans to meet Yuriko Yamamoto at Central Perk café to show the final website. This arrangement is confirmed in a conversation occurring on March 17, 2026, where Li Hua extends the invitation and Yuriko responds positively, expressing excitement to see the final results and offering any last-minute questions or changes. The meeting is scheduled for 3 pm on that Thursday. The entities and sources tables provided do not contain additional information regarding the location for this meeting, but the summary encapsulates the essential details from the data provided.\n\n```markdown\n## Meeting Details: Central Perk Café\n\n- **Event:** Discussion and presentation of the final website to Yuriko Yamamoto\n- **Date:** Thursday, 2026 March 17 at 3 pm\n- **Location:** Central Perk café\n- **Participants:** Li Hua and Yuriko Yamamoto\n- **Objective:** Li Hua presents the finalized website for Yuriko Yamamoto's feedback and further discussion\n\nThe conversation illustrates both Li Hua's eagerness to share the finished project and Yuriko's anticipation to review and offer constructive feedback. The chosen venue, Central Perk, is noted for its cozy atmosphere, presumably adding to the positive experience of this meeting.\n```",
+  "prediction_sha256": "a8a2782f0315fd60c5828649748477b2e7a51d871bc8312ae2ef1ce8b9687d5b",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 97,
+  "usage": {
+    "completion_tokens": 315,
+    "prompt_tokens": 5290,
+    "prompt_tokens_details": null,
+    "total_tokens": 5605
+  }
+}

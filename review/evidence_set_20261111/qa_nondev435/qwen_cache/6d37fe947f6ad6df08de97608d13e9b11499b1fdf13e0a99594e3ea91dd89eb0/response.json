@@ -1,0 +1,17 @@
+{
+  "body_sha256": "6d37fe947f6ad6df08de97608d13e9b11499b1fdf13e0a99594e3ea91dd89eb0",
+  "finish_reason": "stop",
+  "latency_s": 9.063895666997269,
+  "prediction": "Based on the conversation recorded in the data, Wolfgang Schulz reminded Li Hua about their lunch at the cozy café downtown at 12:00. This information is derived from the interaction where Wolfgang Schulz states, \"Hey! Just wanted to remind you about our lunch at the cozy café downtown at 12:00. Can't wait to catch up! 😊\" Li Hua responds positively, showing they are looking forward to the lunch meeting.",
+  "prediction_sha256": "2836e708f10d451377fb8b535d4f1b2c04554bc784fb3630524856a604379c45",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 56,
+  "usage": {
+    "completion_tokens": 96,
+    "prompt_tokens": 4874,
+    "prompt_tokens_details": null,
+    "total_tokens": 4970
+  }
+}

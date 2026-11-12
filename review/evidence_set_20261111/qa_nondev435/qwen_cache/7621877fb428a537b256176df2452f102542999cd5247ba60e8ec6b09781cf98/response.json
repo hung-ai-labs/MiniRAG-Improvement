@@ -1,0 +1,17 @@
+{
+  "body_sha256": "7621877fb428a537b256176df2452f102542999cd5247ba60e8ec6b09781cf98",
+  "finish_reason": "stop",
+  "latency_s": 10.07120470800146,
+  "prediction": "According to the conversations, Wolfgang is specifically looking for new drums that can provide versatility—drums that can sound good for both rock and softer tunes like those of The Beatles. He mentions his goal to find something that sounds great but doesn't break the bank. Additionally, he expresses interest in trying out different brands, including brands like Pearl and Yamaha, and even considers purchasing from PDP, a brand known for having a range of options that are also reasonably priced.",
+  "prediction_sha256": "2fe7ae2bec348f1eff5a1efcd4b5d1d6c767aff8fabf5ed06cb694de8d0157f6",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100102,
+  "usage": {
+    "completion_tokens": 94,
+    "prompt_tokens": 4932,
+    "prompt_tokens_details": null,
+    "total_tokens": 5026
+  }
+}

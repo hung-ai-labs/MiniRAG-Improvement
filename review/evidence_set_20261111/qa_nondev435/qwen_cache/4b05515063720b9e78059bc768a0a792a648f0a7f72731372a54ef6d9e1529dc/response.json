@@ -1,0 +1,17 @@
+{
+  "body_sha256": "4b05515063720b9e78059bc768a0a792a648f0a7f72731372a54ef6d9e1529dc",
+  "finish_reason": "stop",
+  "latency_s": 4.29150433399991,
+  "prediction": "The given data tables do not contain any information related to Raze becoming a fitness coach or any discussions about pull-up techniques. Therefore, there is insufficient information to address the question asked.",
+  "prediction_sha256": "00df4d315f42e252c0a2c8c3c1e8df1d15350a46c20570e899d07bf929d6838e",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 427,
+  "usage": {
+    "completion_tokens": 38,
+    "prompt_tokens": 3915,
+    "prompt_tokens_details": null,
+    "total_tokens": 3953
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "513ead2a93389c54a3afe370e7428ad72d2f8cd261074189f01fa75be8651b7c",
+  "finish_reason": "stop",
+  "latency_s": 12.794758167001419,
+  "prediction": "In one of the messages, Adam reminds Li Hua about the building's recycling policy. This is highlighted in a conversation where Adam says, \"Hey Li Hua, just a quick reminder about the building's recycling policy. It's really important for us to keep the environment in mind. Let’s all do our part by participating!\" Li Hua responds positively, saying, \"Hey Adam! Appreciate the reminder! I'll make sure to follow the recycling rules. It's great to have a community that cares about the environment. Thanks for looking out for everyone!\" Thus, the recycling policy is the main point of the reminder that Adam gives to Li Hua.",
+  "prediction_sha256": "aa3d1b5f09cd20803f35b13ecef55b55f4220049fac7f64e7e42c9d1f92ba76b",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 101,
+  "usage": {
+    "completion_tokens": 135,
+    "prompt_tokens": 4490,
+    "prompt_tokens_details": null,
+    "total_tokens": 4625
+  }
+}

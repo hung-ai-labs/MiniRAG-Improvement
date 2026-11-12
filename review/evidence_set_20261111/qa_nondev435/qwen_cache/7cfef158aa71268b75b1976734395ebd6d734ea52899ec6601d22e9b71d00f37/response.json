@@ -1,0 +1,17 @@
+{
+  "body_sha256": "7cfef158aa71268b75b1976734395ebd6d734ea52899ec6601d22e9b71d00f37",
+  "finish_reason": "stop",
+  "latency_s": 8.83146662499712,
+  "prediction": "Li Hua reached out to Jennifer Moore to inquire about additional exercises she could perform at home to further enhance her training regimen. This indicates that Li Hua is committed to maximizing her progress and wants to diversify her workouts to maintain engagement and prevent monotony. Li Hua specifically requested advice on whether these exercises should be incorporated into her existing training schedule or if they should be reserved for off days to allow for active recovery.",
+  "prediction_sha256": "401e54a1054c70da862fa0e7896e951d087f0906cdb27d805500af03ac3f8dbc",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100076,
+  "usage": {
+    "completion_tokens": 86,
+    "prompt_tokens": 4329,
+    "prompt_tokens_details": null,
+    "total_tokens": 4415
+  }
+}

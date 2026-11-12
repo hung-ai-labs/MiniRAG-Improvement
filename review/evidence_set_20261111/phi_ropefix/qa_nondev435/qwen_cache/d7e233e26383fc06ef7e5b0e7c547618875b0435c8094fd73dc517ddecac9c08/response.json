@@ -1,0 +1,17 @@
+{
+  "body_sha256": "d7e233e26383fc06ef7e5b0e7c547618875b0435c8094fd73dc517ddecac9c08",
+  "finish_reason": "stop",
+  "latency_s": 3.5362183330071275,
+  "prediction": " According to the provided conversation transcript, Adam confirms the plumber's arrival in a message dated January 6, 2026, at 15:00. He informs Li Hua that the plumber is scheduled to come at 10 AM the following day to address the issue with the water tap.",
+  "prediction_sha256": "2b787da3ac7f8d5118da00466629ca6fbbb750d63a3cdf5f9d2225486fc58812",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 200061,
+  "usage": {
+    "completion_tokens": 71,
+    "prompt_tokens": 3738,
+    "prompt_tokens_details": null,
+    "total_tokens": 3809
+  }
+}

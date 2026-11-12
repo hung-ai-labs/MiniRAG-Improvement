@@ -1,0 +1,17 @@
+{
+  "body_sha256": "f2884feb51d35af0204f3e68266c3726883c57795cc9017f17b75ec8ef145af0",
+  "finish_reason": "stop",
+  "latency_s": 10.355533499998273,
+  "prediction": "In one of the conversations, EmilyBurnett recommends several TV shows to LiHua based on her personal preferences and recommendations. Specifically, EmilyBurnett suggests that LiHua should consider checking out \"The White Lotus\" and \"Ted Lasso.\" She explains that \"The White Lotus\" is entertaining and has some great twists, while \"Ted Lasso\" offers a mix of light-hearted comedy and drama. LiHua expresses interest in both shows, indicating that he will likely add them to his watchlist.",
+  "prediction_sha256": "cf7ec3e85d73165a0e9195e74ab0798d657b5842af17a233a0bd66f596b53992",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100387,
+  "usage": {
+    "completion_tokens": 104,
+    "prompt_tokens": 3533,
+    "prompt_tokens_details": null,
+    "total_tokens": 3637
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "811c95d40a46e9810eb85fb09cb7067925bffb68f03bdff2076c5aa4a4ad8dc6",
+  "finish_reason": "stop",
+  "latency_s": 6.325878334002482,
+  "prediction": "On December 9th, Li Hua and Wolfgang are scheduled to meet for breakfast at a cozy café downtown at 19:00 (or 7:00 PM). This meeting point aligns with their preference for a healthy breakfast option, likely involving dishes like avocado toast or oatmeal, as Wolfgang mentions he might want to add eggs for extra protein. The time is set specifically for a nutritious and enjoyable meal.",
+  "prediction_sha256": "684f40c85a79bc6e9610b759892dcd10308d8da20764270676f653b2fe8a94ae",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200403,
+  "usage": {
+    "completion_tokens": 88,
+    "prompt_tokens": 4489,
+    "prompt_tokens_details": null,
+    "total_tokens": 4577
+  }
+}

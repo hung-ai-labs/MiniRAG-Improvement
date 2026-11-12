@@ -1,0 +1,17 @@
+{
+  "body_sha256": "97d149c13ba86477e9d49b3456a2b38a59856aada33d42105f1a5777a8a36ef5",
+  "finish_reason": "stop",
+  "latency_s": 4.203560625002865,
+  "prediction": "LiHua mentions several memorable scenes from the series \"Chernobyl.\" One particularly impactful scene that stands out is the one where the workers are trying to contain the radiation, showcasing the human spirit in challenging circumstances. This scene is described as being very moving and highlighting the bravery and determination of the people involved.",
+  "prediction_sha256": "1506cee34740c4d99240fe397a2bcd15eb774afaa20aed8be72c187bee630455",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 384,
+  "usage": {
+    "completion_tokens": 64,
+    "prompt_tokens": 4185,
+    "prompt_tokens_details": null,
+    "total_tokens": 4249
+  }
+}

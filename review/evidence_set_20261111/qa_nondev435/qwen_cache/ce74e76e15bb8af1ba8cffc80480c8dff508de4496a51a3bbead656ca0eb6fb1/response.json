@@ -1,0 +1,17 @@
+{
+  "body_sha256": "ce74e76e15bb8af1ba8cffc80480c8dff508de4496a51a3bbead656ca0eb6fb1",
+  "finish_reason": "stop",
+  "latency_s": 22.233477875000972,
+  "prediction": "According to the conversations recorded, Wolfgang and LiHua are planning to attend the photography exhibition on August 5, 2026, at 19:00. This is evident from the following exchange:\n\n```\nTime: 20260805_16:00\nLiHua: Hey man! Just a quick reminder that we are going to the photography exhibition at 19:00 tonight!\nWolfgangSchulz: Of course, not gonna forget about that!\nLiHua: Sounds good! Let’s grab a bite before the event. What do you feel like eating?\nWolfgangSchulz: How about we hit that new burger place? Heard their fries are awesome too!\nLiHua: That sounds perfect! I’ve been wanting to try it out. What time should we head there?\nWolfgangSchulz: Let's meet at 6:00, then we can make our way to the event after. Sound good?\nLiHua: Sounds like a plan! See you at 6:00! Can't wait!\n```\n\nThey confirm their plans to meet at 6:00 PM and proceed to the event at 19:00 (7:00 PM) on August 5, 2026.",
+  "prediction_sha256": "298e940d219d62ab6d37cdbd60c0695ee4cc0370a30489e0cbd543ed50a11650",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200164,
+  "usage": {
+    "completion_tokens": 278,
+    "prompt_tokens": 5260,
+    "prompt_tokens_details": null,
+    "total_tokens": 5538
+  }
+}

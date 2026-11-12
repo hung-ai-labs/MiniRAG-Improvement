@@ -1,0 +1,17 @@
+{
+  "body_sha256": "42db7be8c9d258ebdb4cb0cc571336ffbc76ada7e85d1ce7e130f29255f4bc35",
+  "finish_reason": "stop",
+  "latency_s": 6.155046792002395,
+  "prediction": "Based on the conversation, Li Hua's favorite type of exercise outside of pull-ups is squats. This is evident from the interaction where Jake Watson suggests Li Hua to add squats and lunges to her routine to improve leg strength. Li Hua also mentions that squats are \"awesome\" and she plans to incorporate more of them into her routine. No other exercise outside of pull-ups is highlighted as a favorite by Li Hua in these conversations.",
+  "prediction_sha256": "9ca63a967e66e68b060bb953109f6d65933a673586904f15ec257ad34e5b36cd",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100444,
+  "usage": {
+    "completion_tokens": 94,
+    "prompt_tokens": 4256,
+    "prompt_tokens_details": null,
+    "total_tokens": 4350
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "33ab9a7f2fab628aacb0fd09adf1f18f1c661ab93030ac8acc66a6f23ab744c5",
+  "finish_reason": "stop",
+  "latency_s": 11.04560974999913,
+  "prediction": "During their dinner celebration, Wolfgang expressed interest in trying the restaurant's risotto, which he had heard was really good. However, Wolfgang also mentioned that he might order the pasta dish, which Li Hua described as \"so rich and flavorful.\" Given Wolfgang's preference for the pasta dish over the risotto, it seems he might have chosen to order the pasta for his dinner celebration with Li Hua. \n\nIt's worth noting that Wolfgang is known for his ear for rhythm and suggested cool tracks for the jam session, indicating he appreciates good food and music. His choice of pasta aligns with his interest in culinary experiences.",
+  "prediction_sha256": "4e89505b781c59aca862074e1a7469c18324075e98b77eb66e62a2ac4094f3ff",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 426,
+  "usage": {
+    "completion_tokens": 127,
+    "prompt_tokens": 4582,
+    "prompt_tokens_details": null,
+    "total_tokens": 4709
+  }
+}

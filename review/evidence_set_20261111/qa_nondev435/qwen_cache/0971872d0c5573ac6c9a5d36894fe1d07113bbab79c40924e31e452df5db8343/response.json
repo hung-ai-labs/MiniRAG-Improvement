@@ -1,0 +1,17 @@
+{
+  "body_sha256": "0971872d0c5573ac6c9a5d36894fe1d07113bbab79c40924e31e452df5db8343",
+  "finish_reason": "stop",
+  "latency_s": 10.772645499993814,
+  "prediction": "In the conversation, Jake Watson provides several strength training exercises that he suggests for Li Hua. Specifically, Jake recommends squats, lunges, and planks. He explains that squats and lunges are great for building leg strength, while planks are beneficial for core stability. Additionally, Jake mentions that Li Hua should also consider including balance exercises like single-leg stands, as these help improve overall stability and endurance on the field. Therefore, the recommended strength training exercises by Jake include squats, lunges, planks, and balance exercises.",
+  "prediction_sha256": "22c431f4fb1c1c6a87a9c34fe0b02d95866ca6261a766621de0b050ed4703131",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200209,
+  "usage": {
+    "completion_tokens": 112,
+    "prompt_tokens": 3723,
+    "prompt_tokens_details": null,
+    "total_tokens": 3835
+  }
+}

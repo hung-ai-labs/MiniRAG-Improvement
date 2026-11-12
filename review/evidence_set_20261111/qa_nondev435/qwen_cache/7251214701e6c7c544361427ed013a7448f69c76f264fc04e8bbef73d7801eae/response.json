@@ -1,0 +1,17 @@
+{
+  "body_sha256": "7251214701e6c7c544361427ed013a7448f69c76f264fc04e8bbef73d7801eae",
+  "finish_reason": "stop",
+  "latency_s": 5.359002124998369,
+  "prediction": "There is no specific mention of a cake flavor that Hailey planned to bake for the bakery's anniversary celebration in February. The information provided focuses on various activities related to the bakery's anniversary, including special sales, discounts, and events, but does not specify the type of cake being prepared for the celebration.",
+  "prediction_sha256": "2627cc84d7cffcea7276b24477df7544c9bc2b8b2d9b8ae67e59a8d106c44f18",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100425,
+  "usage": {
+    "completion_tokens": 62,
+    "prompt_tokens": 5005,
+    "prompt_tokens_details": null,
+    "total_tokens": 5067
+  }
+}

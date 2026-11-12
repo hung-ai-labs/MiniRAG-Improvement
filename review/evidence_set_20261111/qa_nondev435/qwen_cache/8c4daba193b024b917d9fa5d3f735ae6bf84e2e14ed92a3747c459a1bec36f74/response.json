@@ -1,0 +1,17 @@
+{
+  "body_sha256": "8c4daba193b024b917d9fa5d3f735ae6bf84e2e14ed92a3747c459a1bec36f74",
+  "finish_reason": "stop",
+  "latency_s": 15.044379582999682,
+  "prediction": "No, there is no record of Li Hua sending a message to Wolfgang Schulz preparing all the delicious food for tonight's Chinese Lunar New Year before Wolfgang wished him a happy Lunar New Year. In fact, Wolfgang's message is dated January 19, 2026, at 11:30 AM, and it appears after Li Hua's message on January 19, 2026, at 11:00 AM, which mentions plans to prepare traditional dishes and decorations for the Lunar New Year celebration. This indicates that Wolfgang did not receive a message from Li Hua about the preparation of the food beforehand.",
+  "prediction_sha256": "ae31af45c65b7977d0eb838a900ec2dbc653049e6bf92b0802e8366efa70d24e",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 48,
+  "usage": {
+    "completion_tokens": 135,
+    "prompt_tokens": 4688,
+    "prompt_tokens_details": null,
+    "total_tokens": 4823
+  }
+}

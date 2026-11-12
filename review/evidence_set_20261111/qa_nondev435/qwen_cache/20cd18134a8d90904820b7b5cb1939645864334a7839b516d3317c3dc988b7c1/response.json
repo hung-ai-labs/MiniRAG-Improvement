@@ -1,0 +1,17 @@
+{
+  "body_sha256": "20cd18134a8d90904820b7b5cb1939645864334a7839b516d3317c3dc988b7c1",
+  "finish_reason": "stop",
+  "latency_s": 9.07774708299985,
+  "prediction": "No, it did not take more than a week for Adam to remind LiHua about the contractor team installing the air-conditioner. The conversation took place within a span of a few days. Initially, Adam reached out to LiHua on August 10th at 18:00 to inquire about the ideal installation date for the air-conditioner, and he followed up again on August 12th at 11:00 to remind her that the contractor team was scheduled to install the air-conditioner in the basement at 6 PM that day. Therefore, the timeline indicates that the reminder occurred within less than a week of the initial inquiry.",
+  "prediction_sha256": "63d912b7f89c1a8b1c33fa3f0d94ef4fac9e1e9feb90e9e73dacc5d92ddf27c4",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 40,
+  "usage": {
+    "completion_tokens": 137,
+    "prompt_tokens": 4124,
+    "prompt_tokens_details": null,
+    "total_tokens": 4261
+  }
+}

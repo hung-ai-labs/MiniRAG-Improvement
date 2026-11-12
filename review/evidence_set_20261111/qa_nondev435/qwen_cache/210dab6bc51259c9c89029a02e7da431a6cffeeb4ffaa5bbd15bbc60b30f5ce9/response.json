@@ -1,0 +1,17 @@
+{
+  "body_sha256": "210dab6bc51259c9c89029a02e7da431a6cffeeb4ffaa5bbd15bbc60b30f5ce9",
+  "finish_reason": "stop",
+  "latency_s": 6.182167999999365,
+  "prediction": "Jasper mentions a comeback match involving Manchester City in his conversation, specifically referring to the 2005 UEFA Champions League (UCL) final where Manchester City's team, Liverpool, came back from a 3-0 halftime deficit to win the match in extra time via penalties. This comeback was described as \"insane\" and \"epic.\"",
+  "prediction_sha256": "1fcfef29ae085a4c03151e267831bb38bd5e355b093636c82c8bbb1ff142d104",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100302,
+  "usage": {
+    "completion_tokens": 73,
+    "prompt_tokens": 4775,
+    "prompt_tokens_details": null,
+    "total_tokens": 4848
+  }
+}

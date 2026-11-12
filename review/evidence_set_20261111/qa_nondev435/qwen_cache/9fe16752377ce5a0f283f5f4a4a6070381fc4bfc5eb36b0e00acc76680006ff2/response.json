@@ -1,0 +1,17 @@
+{
+  "body_sha256": "9fe16752377ce5a0f283f5f4a4a6070381fc4bfc5eb36b0e00acc76680006ff2",
+  "finish_reason": "stop",
+  "latency_s": 6.820001207997848,
+  "prediction": "On April 3rd, 2026, the bread delivery to Li Hua was made by Alice. This information can be inferred from the conversation where Alice informs Li Hua, \"Your bread has been delivered, please come and pick it up ASAP. Have a good day :).\" Additionally, Alice is identified as the delivery person in previous conversations and messages related to bread deliveries.",
+  "prediction_sha256": "8806e431d642e6bda0ff3b88411cee38352c987e71bc9ec064024d19014e6bd0",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100105,
+  "usage": {
+    "completion_tokens": 80,
+    "prompt_tokens": 4253,
+    "prompt_tokens_details": null,
+    "total_tokens": 4333
+  }
+}

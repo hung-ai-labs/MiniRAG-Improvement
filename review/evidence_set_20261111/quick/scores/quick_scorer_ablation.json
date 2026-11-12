@@ -1,0 +1,71 @@
+{
+ "export_train_sha256": "7213500d819fd111774855f9e1623d018c20f72c9d7532d8a43c0554600cb6d0",
+ "pool": "native@45",
+ "C": 1.0,
+ "seed": 13,
+ "ce_model": "cross-encoder/ms-marco-MiniLM-L6-v2",
+ "arms": {
+  "CE0+F-no_graph": {
+   "auc_per_fold": {
+    "0": 0.9282,
+    "1": 0.9883,
+    "2": 0.9557,
+    "3": 0.9676,
+    "4": 0.9527
+   },
+   "dropped": [
+    "native_rank",
+    "native_rank_log",
+    "in_native30",
+    "graph_rank",
+    "graph_score",
+    "graph_score_rel",
+    "in_graph",
+    "n_seed_paths",
+    "n_keyword_groups",
+    "is_path_head"
+   ]
+  },
+  "CE0+F-no_time": {
+   "auc_per_fold": {
+    "0": 0.9374,
+    "1": 0.9833,
+    "2": 0.9606,
+    "3": 0.96,
+    "4": 0.961
+   },
+   "dropped": [
+    "date_match",
+    "time_boosted"
+   ]
+  },
+  "CE0+F-no_dense": {
+   "auc_per_fold": {
+    "0": 0.9338,
+    "1": 0.9806,
+    "2": 0.9657,
+    "3": 0.959,
+    "4": 0.9626
+   },
+   "dropped": [
+    "in_dense30",
+    "dense_rank"
+   ]
+  },
+  "CE0+F-no_structure": {
+   "auc_per_fold": {
+    "0": 0.9246,
+    "1": 0.9818,
+    "2": 0.9601,
+    "3": 0.9593,
+    "4": 0.9498
+   },
+   "dropped": [
+    "is_continuation",
+    "chunk_order",
+    "doc_chunks",
+    "tokens"
+   ]
+  }
+ }
+}

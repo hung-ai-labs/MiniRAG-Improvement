@@ -1,0 +1,17 @@
+{
+  "body_sha256": "8e32b4cbcff6a1d7cf3b5805fcee04ee9b266a08ced06e8c17b301ef59e89edb",
+  "finish_reason": "stop",
+  "latency_s": 11.828916540998762,
+  "prediction": "The introduction of the bread delivery service at Hailey's Bakery is detailed in the conversation between HaileyJohnson and LiHua on 20260329_13:00. In this exchange, HaileyJohnson announces the hiring of a new clerk named Alice to assist with doorstep delivery service for both milk and bread. This new service was implemented to help manage orders and ensure timely delivery, particularly for bread items which require special attention. HaileyJohnson specifically recommends Alice for the delivery role, highlighting her friendly demeanor and her ability to handle the doorstep delivery service on Mondays and Fridays at 8 AM. Thus, Alice is recommended for delivering bread to customers due to her suitability for the task and her established role within the bakery.",
+  "prediction_sha256": "a8a7103b2b2d81faee5fae1e064a92e56531da8b5ca0ec26340d31fa5af60d9b",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 35,
+  "usage": {
+    "completion_tokens": 152,
+    "prompt_tokens": 4225,
+    "prompt_tokens_details": null,
+    "total_tokens": 4377
+  }
+}

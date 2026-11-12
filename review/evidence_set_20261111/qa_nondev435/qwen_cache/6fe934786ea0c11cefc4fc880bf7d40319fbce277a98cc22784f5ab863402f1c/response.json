@@ -1,0 +1,17 @@
+{
+  "body_sha256": "6fe934786ea0c11cefc4fc880bf7d40319fbce277a98cc22784f5ab863402f1c",
+  "finish_reason": "stop",
+  "latency_s": 6.663397791999159,
+  "prediction": "In one of the conversations, JakeWatson and LiHua discuss a soccer practice session. Specifically, JakeWatson suggests meeting up at the park on Saturday at 3 PM for practice. LiHua agrees, saying \"Let's meet at the park on Saturday at 3 PM. It'll be great to work on some shots together! Bring your A-game! 🙌⚽️\" This indicates that the time they plan to meet for the soccer practice is 3 PM on Saturday.",
+  "prediction_sha256": "1612ac5ba25aea7e7ab645ae555a0d733bb65a8f8f3bbc09ad865e0af155d881",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100362,
+  "usage": {
+    "completion_tokens": 102,
+    "prompt_tokens": 5140,
+    "prompt_tokens_details": null,
+    "total_tokens": 5242
+  }
+}

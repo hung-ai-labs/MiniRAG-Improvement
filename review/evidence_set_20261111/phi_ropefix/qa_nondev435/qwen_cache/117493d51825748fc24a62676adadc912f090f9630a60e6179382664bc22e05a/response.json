@@ -1,0 +1,17 @@
+{
+  "body_sha256": "117493d51825748fc24a62676adadc912f090f9630a60e6179382664bc22e05a",
+  "finish_reason": "stop",
+  "latency_s": 6.459845500001393,
+  "prediction": " Quillan observes that Cersei's **desperation for control** frequently **shadows her vulnerability**. This implies that despite moments where her underlying vulnerabilities might be evident, her overwhelming need for power and control can overpower these aspects, effectively concealing her true feelings and making her seem less fallible or human. It's a poignant commentary on her complex character, as it reveals that while she may have moments of weakness or doubt, these are often overshadowed by an almost obsessive pursuit of dominance and control. This dynamic adds to the tragic depth of her character, as it illustrates the internal conflict between her genuine self and the persona she projects.",
+  "prediction_sha256": "2234f2d9817c339fc39e0c6c64fdee9ac00f992680e818c684579ff8230138e3",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 310,
+  "usage": {
+    "completion_tokens": 155,
+    "prompt_tokens": 4894,
+    "prompt_tokens_details": null,
+    "total_tokens": 5049
+  }
+}

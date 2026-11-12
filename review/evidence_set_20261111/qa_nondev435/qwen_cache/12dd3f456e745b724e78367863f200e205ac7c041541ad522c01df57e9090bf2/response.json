@@ -1,0 +1,17 @@
+{
+  "body_sha256": "12dd3f456e745b724e78367863f200e205ac7c041541ad522c01df57e9090bf2",
+  "finish_reason": "stop",
+  "latency_s": 10.225826875001076,
+  "prediction": "In the conversation, Jasper mentions a match where Manchester City played against FC Barcelona. However, he doesn't specify a particular recent match. Given the context, it's likely referring to a notable match where Manchester City showcased their comeback abilities, which Jake Watson had previously mentioned involving a stoppage-time goal by Rodrygo in a Champions League comeback against Manchester City in 2022. This match against Barcelona would have been a significant event, considering the high-profile nature of the club and the competitive nature of the league.",
+  "prediction_sha256": "d6481786b74c57da72707ce4cce995efe18c93c8ca20a586c81fe25f42da072c",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 302,
+  "usage": {
+    "completion_tokens": 106,
+    "prompt_tokens": 4903,
+    "prompt_tokens_details": null,
+    "total_tokens": 5009
+  }
+}

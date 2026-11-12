@@ -1,0 +1,17 @@
+{
+  "body_sha256": "2995cff6d4c2cb1074e9bf833e2349a2f41c76349b2ea9d1a1356869c889a6df",
+  "finish_reason": "stop",
+  "latency_s": 7.800533125002403,
+  "prediction": "In one of their conversations, Emily Burnett recommended a show to LiHua titled \"The Bear.\" Emily expressed her enjoyment of the show, describing it as engaging and particularly engaging due to its storytelling and the intensity of the cooking scenes. She also highlighted the raw, relatable humor that made the show feel authentic and enjoyable. LiHua was intrigued by the recommendation and added \"The Bear\" to his watchlist.",
+  "prediction_sha256": "4dbc729bfce90644020f059f6a5b7b7d6f08e6587e1c309493e60dbbabdec7e0",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 387,
+  "usage": {
+    "completion_tokens": 85,
+    "prompt_tokens": 3149,
+    "prompt_tokens_details": null,
+    "total_tokens": 3234
+  }
+}

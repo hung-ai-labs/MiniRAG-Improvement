@@ -1,0 +1,17 @@
+{
+  "body_sha256": "106ec908dc0332f412bf18d17eafefa31424e7fbc15f8d967a5aab5180ad33ce",
+  "finish_reason": "stop",
+  "latency_s": 7.097866457999771,
+  "prediction": "During their dinner celebration, Wolfgang expressed interest in trying the risotto at Venedia Grancaffe, which he heard was really good. However, regarding the dessert Wolfgang planned to order for Li Hua, there is no specific mention in the given data. The conversation primarily focused on the dinner plans, the food they enjoyed at different restaurants, and their preferences for various types of cuisine rather than detailing dessert orders.",
+  "prediction_sha256": "a54f0683c08bf68a16c2aaf5fd9af372f7a6d0739751424d8c588414c743335f",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100426,
+  "usage": {
+    "completion_tokens": 82,
+    "prompt_tokens": 4571,
+    "prompt_tokens_details": null,
+    "total_tokens": 4653
+  }
+}

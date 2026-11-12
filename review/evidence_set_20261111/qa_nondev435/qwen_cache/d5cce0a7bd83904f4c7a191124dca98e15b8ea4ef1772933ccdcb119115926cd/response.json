@@ -1,0 +1,17 @@
+{
+  "body_sha256": "d5cce0a7bd83904f4c7a191124dca98e15b8ea4ef1772933ccdcb119115926cd",
+  "finish_reason": "stop",
+  "latency_s": 10.003758999999263,
+  "prediction": "Yuriko Yamamoto considers adding a user feedback section to her studio's homepage. This section would allow clients to leave comments or suggestions, and possibly include a star rating system, testimonials, and a visual appeal matching the overall look of the studio. She aims to have it ready by the end of the week, giving herself time to review it before the next client appointments. This initiative would help improve her services and connect with more people through her platform.",
+  "prediction_sha256": "dadb3e97f0de2a8d763bedffca0c5ab14351d6908691a7b3b5e8fe445d43e34e",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 89,
+  "usage": {
+    "completion_tokens": 92,
+    "prompt_tokens": 4392,
+    "prompt_tokens_details": null,
+    "total_tokens": 4484
+  }
+}

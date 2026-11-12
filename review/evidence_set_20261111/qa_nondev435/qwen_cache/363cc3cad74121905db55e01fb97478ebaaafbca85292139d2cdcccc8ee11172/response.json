@@ -1,0 +1,17 @@
+{
+  "body_sha256": "363cc3cad74121905db55e01fb97478ebaaafbca85292139d2cdcccc8ee11172",
+  "finish_reason": "stop",
+  "latency_s": 10.632192333003331,
+  "prediction": "Based on the conversations shared, Emily Burnett mentioned several favorite television shows. Initially, she recommended \"Brooklyn Nine-Nine\" and \"The Office\" to Li Hua, expressing her enjoyment of these series. Later, during another conversation, Emily Burnett suggested \"The Bear\" as a new show to watch, indicating her preference for different types of programming. However, the primary show she seemed most passionate about was \"The Office.\" Therefore, while she enjoys a variety of series, her favorite TV show appears to be \"The Office.\"",
+  "prediction_sha256": "67fe0601a635e8356c5dd0e4fb5ea740f491bb7c5688f89b65ceb29464ee88a1",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200383,
+  "usage": {
+    "completion_tokens": 108,
+    "prompt_tokens": 3112,
+    "prompt_tokens_details": null,
+    "total_tokens": 3220
+  }
+}

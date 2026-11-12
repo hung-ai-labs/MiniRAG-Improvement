@@ -1,0 +1,17 @@
+{
+  "body_sha256": "d4b0ca377bcce3aeb712ab8070609b9fc07e7f283ed3af736a928366e507130a",
+  "finish_reason": "stop",
+  "latency_s": 14.942903874998592,
+  "prediction": "Based on the data provided, there is no interaction recorded between AdamSmith and LiHua on the specified date of 20260810. The records available only mention interactions on dates such as 20260218, 20260309, 20260429, 20260610, and 20260924, none of which correspond to August 10, 2026. Therefore, there is insufficient information to determine why Adam reaches out to LiHua on this particular date.",
+  "prediction_sha256": "c7e58649ae67474c89ad979e8f0fb96d8d49f08f968db1bd0fac1b97ab013f6a",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100166,
+  "usage": {
+    "completion_tokens": 132,
+    "prompt_tokens": 4039,
+    "prompt_tokens_details": null,
+    "total_tokens": 4171
+  }
+}

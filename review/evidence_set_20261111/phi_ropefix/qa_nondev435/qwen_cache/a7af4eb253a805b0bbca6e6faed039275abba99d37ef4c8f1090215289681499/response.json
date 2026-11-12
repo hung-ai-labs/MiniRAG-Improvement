@@ -1,0 +1,17 @@
+{
+  "body_sha256": "a7af4eb253a805b0bbca6e6faed039275abba99d37ef4c8f1090215289681499",
+  "finish_reason": "stop",
+  "latency_s": 6.835645374998421,
+  "prediction": " On April 3, 2026, the bread deliveries to Li Hua were being handled by Alice, who is associated with Hailey's bakery. This information is found in the conversation entries from the data table with IDs 3, 4, 5, 6, and 12, where Alice sends messages confirming that her bread has been delivered and instructs the recipient to come and pick it up as soon as possible. These messages are from Alice, who identifies herself as part of Hailey's bakery in each instance. Thus, Alice from Hailey's bakery is the person delivering the bread to Li Hua on that date.",
+  "prediction_sha256": "edcc847ed1b4dbc3a8d8b6d02f6699967595b34c940657062b68d8a22c39274e",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 105,
+  "usage": {
+    "completion_tokens": 148,
+    "prompt_tokens": 4954,
+    "prompt_tokens_details": null,
+    "total_tokens": 5102
+  }
+}

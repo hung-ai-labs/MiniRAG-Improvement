@@ -1,0 +1,17 @@
+{
+  "body_sha256": "93582cfebbe1ad6b1e6bf9e0888ff4e83dd4471e06005c0d6e87c5d22187a265",
+  "finish_reason": "stop",
+  "latency_s": 7.576674916002958,
+  "prediction": "According to the conversation recorded in the source content, Adam Smith confirms that the plumber will be arriving at the specified time. Specifically, in the first interaction (Source Content ID 0), Adam Smith informs LiHua that \"the plumber will be arriving tomorrow at 10 AM to fix the water tap.\" This statement clearly indicates that Adam Smith schedules the plumber's arrival for the following day at 10 AM.",
+  "prediction_sha256": "ec22ca141708f6c863b6e61285faab832163e75c71f4e853970c27770ae94380",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 61,
+  "usage": {
+    "completion_tokens": 85,
+    "prompt_tokens": 4290,
+    "prompt_tokens_details": null,
+    "total_tokens": 4375
+  }
+}

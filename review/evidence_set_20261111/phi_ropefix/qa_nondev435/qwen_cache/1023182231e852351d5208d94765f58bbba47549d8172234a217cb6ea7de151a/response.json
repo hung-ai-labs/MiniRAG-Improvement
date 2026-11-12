@@ -1,0 +1,17 @@
+{
+  "body_sha256": "1023182231e852351d5208d94765f58bbba47549d8172234a217cb6ea7de151a",
+  "finish_reason": "stop",
+  "latency_s": 8.054973500002234,
+  "prediction": " LiHua, in his conversation with Chae, expresses his enjoyment of escaping the garden renovation noise by working at the café. This setting provides a serene environment away from the disruptive construction, allowing him to concentrate and unwind. The café becomes his temporary workplace, giving him a respite from the chaos outside and a place where he can still enjoy some normalcy while continuing his work.\n\n---\n\nIn summary, the perfect place LiHua finds to work, according to the conversation between him and Chae, is the café. It represents a quiet sanctuary amidst the ongoing noise and disruption from garden renovations, where he can maintain productivity and find a sense of calm. The café serves as a temporary but effective replacement for his usual workspace, which has been compromised due to external disturbances.\n\n---\n",
+  "prediction_sha256": "639c85875f3111a06a10bd07c3af6fc1e02bc10f2434ad6e3f7777ec919b3f20",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 100125,
+  "usage": {
+    "completion_tokens": 191,
+    "prompt_tokens": 4943,
+    "prompt_tokens_details": null,
+    "total_tokens": 5134
+  }
+}

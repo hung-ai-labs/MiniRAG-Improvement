@@ -1,0 +1,17 @@
+{
+  "body_sha256": "b77d145f355e22f13d30cc25c61ccc14d91e4be3bdd465ec86eb723b850239f2",
+  "finish_reason": "stop",
+  "latency_s": 7.716221417002089,
+  "prediction": "The provided data does not contain any information about Li Hua sharing a blog post about his recent fitness achievements following Jennifer Moore's motivational message. The data primarily consists of motivational messages and interactions related to fitness routines, goals, and progress updates between Jennifer and Li Hua. There is no mention of a blog post or any other form of written content from Li Hua.",
+  "prediction_sha256": "05ab2b4ee98b8fc2fe545aaa655d2eebd206ec443d1018830eab228141521f89",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200050,
+  "usage": {
+    "completion_tokens": 75,
+    "prompt_tokens": 4423,
+    "prompt_tokens_details": null,
+    "total_tokens": 4498
+  }
+}

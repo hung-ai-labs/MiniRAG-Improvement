@@ -1,0 +1,17 @@
+{
+  "body_sha256": "a2707f1c77a90f819bf1912f7a279d060c4f90e0333e55fb6cab2f0de7aec8b6",
+  "finish_reason": "stop",
+  "latency_s": 9.179477958001371,
+  "prediction": "In one of the conversations recorded, Li Hua suggests lavender and coneflowers for the flower beds. Li Hua specifically mentions these flowers because she believes they would be both beautiful and beneficial for attracting more butterflies and bees, which are essential for maintaining a healthy ecosystem. Additionally, she notes that these flowers do not require too much maintenance. Li Hua further adds that lavender and coneflowers also have a pleasant scent, making them an attractive choice for the garden.",
+  "prediction_sha256": "fc337cfe3318d400811c567d1d844fc0ad0db67d4c5da2b62a88da290a8c0297",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 110,
+  "usage": {
+    "completion_tokens": 97,
+    "prompt_tokens": 3166,
+    "prompt_tokens_details": null,
+    "total_tokens": 3263
+  }
+}

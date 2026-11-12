@@ -1,0 +1,17 @@
+{
+  "body_sha256": "57c7d732b7b96ee3627683d1ab2714ab5989eb859c72f621a39825227f5eff9f",
+  "finish_reason": "stop",
+  "latency_s": 6.704461374996754,
+  "prediction": "No, the time interval between LiHua confirming receipt of the curtains on October 12, 2026, at 10:00 AM and Adam asking if the curtain is all good on October 12, 2026, at 10:00 AM is exactly one day, which is less than three days. This conversation took place on the same day, indicating that Adam was likely checking in immediately after LiHua confirmed the receipt.",
+  "prediction_sha256": "a909169a4ef67d12ce2de18107d1657aae08e3b7c12038ec6aedfd6e5cbd7df7",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 43,
+  "usage": {
+    "completion_tokens": 101,
+    "prompt_tokens": 4057,
+    "prompt_tokens_details": null,
+    "total_tokens": 4158
+  }
+}

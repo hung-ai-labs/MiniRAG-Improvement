@@ -1,0 +1,17 @@
+{
+  "body_sha256": "58b85e42d379ea3d3d46452f94f4a55aabd72a5403e881d784a6b59a60091852",
+  "finish_reason": "stop",
+  "latency_s": 7.6368581669958076,
+  "prediction": "In the conversation regarding the local music festival in 2026, Li Hua mentioned that they were planning to perform \"Sweet Home Alabama\" at the event. The context indicates that Li Hua and their bandmates were discussing which songs they would include in their setlist for the festival. While the exact song performed at the festival is not specified, \"Sweet Home Alabama\" was mentioned as one of the crowd-pleasers they intended to include in their performance.",
+  "prediction_sha256": "76eec9e40a8c9e8ec613cad68ec320934144547303b54a424117a7834c29c063",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 430,
+  "usage": {
+    "completion_tokens": 96,
+    "prompt_tokens": 4503,
+    "prompt_tokens_details": null,
+    "total_tokens": 4599
+  }
+}

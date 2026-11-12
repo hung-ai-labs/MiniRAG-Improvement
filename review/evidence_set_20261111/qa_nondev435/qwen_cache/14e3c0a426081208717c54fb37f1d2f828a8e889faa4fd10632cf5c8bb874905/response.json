@@ -1,0 +1,17 @@
+{
+  "body_sha256": "14e3c0a426081208717c54fb37f1d2f828a8e889faa4fd10632cf5c8bb874905",
+  "finish_reason": "stop",
+  "latency_s": 10.915272749996802,
+  "prediction": "According to the conversation, Li Hua and JakeWatson initially discussed meeting for soccer practice on multiple occasions. Initially, they planned to meet at 10 AM on Saturday, September 17th. However, Li Hua later suggested another date, proposing to meet on Saturday, October 3rd at 10 AM. JakeWatson responded positively, stating that the October 3rd date worked for him. Therefore, Li Hua and JakeWatson are planning to meet for soccer practice on Saturday, October 3rd at 10 AM.",
+  "prediction_sha256": "19a02907991f45e3baa370ca4f4e1d5760d2b3a233ef989ddc6491f170b56b21",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 181,
+  "usage": {
+    "completion_tokens": 116,
+    "prompt_tokens": 3454,
+    "prompt_tokens_details": null,
+    "total_tokens": 3570
+  }
+}

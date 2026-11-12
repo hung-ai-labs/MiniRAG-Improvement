@@ -1,0 +1,17 @@
+{
+  "body_sha256": "9d0758d89a6d5294e137f4d27d7ce0e4270ecfd481da1f04731480d3a8a3cab6",
+  "finish_reason": "stop",
+  "latency_s": 6.660291291998874,
+  "prediction": "In the conversation, Li Hua mentions several memorable scenes from the TV series \"Chernobyl\". Specifically, he highlights the scene where the workers are trying to contain the radiation and the sacrifices made by the workers. This scene showcases the human spirit in challenging times and is described as being very impactful. Li Hua appreciates the realistic portrayal of the situation, noting that it conveys the bravery and confusion experienced by the people involved in the aftermath of the Chernobyl disaster.",
+  "prediction_sha256": "792f47fd66978130f91f7d5545f09d77fad594cdf9252c880725957866f6f4ef",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 384,
+  "usage": {
+    "completion_tokens": 98,
+    "prompt_tokens": 4106,
+    "prompt_tokens_details": null,
+    "total_tokens": 4204
+  }
+}

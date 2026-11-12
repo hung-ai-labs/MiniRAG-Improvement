@@ -1,0 +1,17 @@
+{
+  "body_sha256": "1e7581fb441f4165f5f8eea4b8bbba0161cd9c092e4fdd2b568f1a9a8d75b6db",
+  "finish_reason": "stop",
+  "latency_s": 5.290988291002577,
+  "prediction": " According to the information provided in the data tables and sources, Wolfgang and Li Hua are having dinner at an Italian restaurant to celebrate Wolfgang's promotion. The name of the restaurant, however, is not explicitly mentioned in any of the excerpts from the conversation. The discussions reference food such as pasta, risotto, and steak, which suggests a traditional Italian dining experience, but the exact name of the restaurant cannot be determined from the given data. The user has asked for a specific detail that is not present in the provided data.",
+  "prediction_sha256": "0b8ad4e2f02721535c4258d2362a943b5b8a0b06826857f57bcd6c159a52e1f1",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 200116,
+  "usage": {
+    "completion_tokens": 114,
+    "prompt_tokens": 5183,
+    "prompt_tokens_details": null,
+    "total_tokens": 5297
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "3845aac41128f72646df6869d35736662959fbdabe614d287b932a116d7ef7e5",
+  "finish_reason": "stop",
+  "latency_s": 11.678568041999824,
+  "prediction": "From the interactions described, Wolfgang Schulz prefers a classic cheeseburger with classic toppings such as lettuce, tomato, and pickles. This preference is evident in conversations where he emphasizes the importance of keeping the burger simple and focusing on the core flavors. For instance, in the interaction where Wolfgang Schulz suggests playing \"Hey Jude\" at a jam session, he mentions looking forward to hanging out and suggests a simple combination of lettuce, tomato, and pickles, indicating his preference for straightforward and familiar burger toppings. However, it's important to note that Wolfgang Schulz is open to trying different combinations, as evidenced in the discussion about burger night, where he suggests a little spice to the classic cheeseburger.",
+  "prediction_sha256": "602ea50f112f057a77e78ee538b9e0ef4a55398f5710f658d1e47caf55a97bcf",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100187,
+  "usage": {
+    "completion_tokens": 141,
+    "prompt_tokens": 4717,
+    "prompt_tokens_details": null,
+    "total_tokens": 4858
+  }
+}

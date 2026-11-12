@@ -1,0 +1,17 @@
+{
+  "body_sha256": "e63224dde9276c4f5534326af706429d774d42a9e003764c7e348252b096901a",
+  "finish_reason": "stop",
+  "latency_s": 10.38077691700164,
+  "prediction": "In the provided sources, there is a mention of a community bake sale where Li Hua is invited to participate. According to the content of the message between Adam Smith and Li Hua, Adam Smith suggests, \"There's a community bake sale this Sunday at 3 PM to support a local charity. It would be great if you could join.\" Therefore, Adam Smith invites Li Hua to join the community bake sale.",
+  "prediction_sha256": "9edffed24ed0f1f78fbaa8e0cdb8815bf88fd1384d744578fe7738e7fc2070fe",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100092,
+  "usage": {
+    "completion_tokens": 86,
+    "prompt_tokens": 4383,
+    "prompt_tokens_details": null,
+    "total_tokens": 4469
+  }
+}

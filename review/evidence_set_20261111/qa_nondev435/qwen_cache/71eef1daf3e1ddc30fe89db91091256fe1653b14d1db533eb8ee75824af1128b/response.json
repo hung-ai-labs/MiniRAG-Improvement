@@ -1,0 +1,17 @@
+{
+  "body_sha256": "71eef1daf3e1ddc30fe89db91091256fe1653b14d1db533eb8ee75824af1128b",
+  "finish_reason": "stop",
+  "latency_s": 19.69928670799709,
+  "prediction": "Based on the conversations recorded, JenniferMoore provides recommendations for both pre-workout and post-workout stretches. \n\nFor pre-workout, JenniferMoore suggests performing warm-up stretches. She mentions that she taught these stretches in class and recommends that LiHua should do them before her workouts to prepare her muscles and ensure she's adequately warmed up.\n\nPost-workout, JenniferMoore advises LiHua to do foam rolling, which she describes as \"really helping with muscle tightness.\" Additionally, she recommends that LiHua do some gentle stretching, especially focusing on areas that may have felt tight during the workout. This post-workout stretching helps with muscle recovery and flexibility.\n\nNo specific stretches are mentioned for pre-workout routines, though JenniferMoore encourages LiHua to perform the warm-up stretches she learned in class. For post-workout, she emphasizes the importance of foam rolling and gentle stretching to aid in muscle recovery.",
+  "prediction_sha256": "e9249862aebfbcb269f92237f6cd4a3ed662303244f3b7eb867285e7c71f0171",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100119,
+  "usage": {
+    "completion_tokens": 188,
+    "prompt_tokens": 4266,
+    "prompt_tokens_details": null,
+    "total_tokens": 4454
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "1e20cd05d43a15b8208cce84f097ff407f2236a1e14a826b43d569476d9bbf61",
+  "finish_reason": "stop",
+  "latency_s": 9.762439124999219,
+  "prediction": "Phaedra mentions two memorable quotes in the discussions provided. The first is from Tyrion Lannister, stating, \"I drink and I know things.\" This quote encapsulates Tyrion's wit and intelligence, highlighting his ability to gather and interpret information from various sources. The second quote mentioned by Phaedra is from Jon Snow, who utters, \"You know nothing.\" This line is pivotal in establishing the tension and intrigue between Jon and Ygritte, showcasing their complex relationship.",
+  "prediction_sha256": "00b145d5f6ffa26254f253d1fb78f0a4232c74d41cd4bbda8f371c7212c29b16",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 212,
+  "usage": {
+    "completion_tokens": 100,
+    "prompt_tokens": 4351,
+    "prompt_tokens_details": null,
+    "total_tokens": 4451
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "85977d46b7584f9026f4e9f525c6f94bc339f87c97bda65f73860edb9522240c",
+  "finish_reason": "stop",
+  "latency_s": 13.267104458005633,
+  "prediction": "In the conversation regarding the new software WolfgangSchulz informs LiHua that the software is almost done and he is eager for her to try it out. WolfgangSchulz expresses confidence that she will \"really like the features\" and emphasizes that she will be among the first users. LiHua responds positively, expressing her excitement and willingness to test it out once it is ready. She mentions that she is \"always up for trying new things, especially if it’s going to make my work easier.\" This indicates that LiHua is enthusiastic about the potential benefits the new software will bring to her work, and looks forward to using it.",
+  "prediction_sha256": "9e3bc8a41bbad766b2d7f56fc2965e981da5f753c61b3047b5897eb219d38e69",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100291,
+  "usage": {
+    "completion_tokens": 131,
+    "prompt_tokens": 4359,
+    "prompt_tokens_details": null,
+    "total_tokens": 4490
+  }
+}

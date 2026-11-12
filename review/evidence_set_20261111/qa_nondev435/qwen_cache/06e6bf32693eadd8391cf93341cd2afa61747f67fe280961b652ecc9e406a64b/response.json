@@ -1,0 +1,17 @@
+{
+  "body_sha256": "06e6bf32693eadd8391cf93341cd2afa61747f67fe280961b652ecc9e406a64b",
+  "finish_reason": "stop",
+  "latency_s": 7.819379417000164,
+  "prediction": "According to the conversation, WolfgangSchulz invited LiHua to go grocery shopping after work on 20260923. The purpose was to gather some snacks for their next jam session. LiHua expressed enthusiasm for the idea, stating she \"could use some snacks for the weekend.\" Thus, the primary purpose of the grocery store visit was to prepare ingredients for their upcoming jam session.",
+  "prediction_sha256": "42fcb65ae5ed81a0cd7fea72407f442806e0f8928c17a3220dfbcf65afb205f5",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200267,
+  "usage": {
+    "completion_tokens": 84,
+    "prompt_tokens": 4372,
+    "prompt_tokens_details": null,
+    "total_tokens": 4456
+  }
+}

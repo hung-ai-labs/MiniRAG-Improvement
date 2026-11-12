@@ -1,0 +1,17 @@
+{
+  "body_sha256": "929ed5d23c807f2f52bd85fbe57af57fe06320e697be2554c30cbec8c8f60330",
+  "finish_reason": "stop",
+  "latency_s": 9.012599540998053,
+  "prediction": "According to the information provided, Wolfgang has indeed been to Hong Kong. This is evident from the conversation snippets where Wolfgang mentions touching down in Hong Kong and plans to explore the vibrant city. Specifically, he talks about checking out Victoria Peak and possibly grabbing some dim sum upon arrival. Additionally, he shares thoughts on the street food in Mong Kok, indicating familiarity with the local cuisine and attractions. Therefore, Wolfgang has visited Hong Kong, making it his travel destination for a business trip.",
+  "prediction_sha256": "ff84cca95e4721b421aa0b8472acb9d89c1197b4a7703c71087614d109b76606",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 32,
+  "usage": {
+    "completion_tokens": 96,
+    "prompt_tokens": 4710,
+    "prompt_tokens_details": null,
+    "total_tokens": 4806
+  }
+}

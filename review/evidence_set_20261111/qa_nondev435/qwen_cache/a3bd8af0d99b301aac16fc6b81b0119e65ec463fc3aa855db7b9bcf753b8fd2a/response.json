@@ -1,0 +1,17 @@
+{
+  "body_sha256": "a3bd8af0d99b301aac16fc6b81b0119e65ec463fc3aa855db7b9bcf753b8fd2a",
+  "finish_reason": "stop",
+  "latency_s": 8.905779499997152,
+  "prediction": "In the conversation, LiHua recommends inverter AC units as a good option for energy efficiency and low noise. She specifically mentions two brands that are known for being quiet and efficient: Mitsubishi and Daikin. These recommendations are pertinent to Wolfgang's interest in finding the best air-conditioner for the basement, given the need for both energy efficiency and quiet operation.",
+  "prediction_sha256": "13012a8eb2be6b047fd6842d85511fededb783f8769aa6cb8427bda348585755",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 160,
+  "usage": {
+    "completion_tokens": 74,
+    "prompt_tokens": 4982,
+    "prompt_tokens_details": null,
+    "total_tokens": 5056
+  }
+}

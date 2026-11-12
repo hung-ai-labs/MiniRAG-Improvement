@@ -1,0 +1,17 @@
+{
+  "body_sha256": "b5fdb56a183c18089d76337e2e2a5ffa43182b0323c83324853c80c3fa14f733",
+  "finish_reason": "stop",
+  "latency_s": 10.772268708999036,
+  "prediction": "During the picnic planning discussions, RexxarRemar suggested having refreshments available, including snacks and drinks. Specifically, he mentioned that \"if anyone has ideas for games or activities, feel free to share! It’ll be great to have some fun things to do while we relax.\" Additionally, RexxarRemar proposed having a mix of snacks and drinks to keep everyone energized, which aligns with his suggestion for refreshments. He also noted the importance of providing blankets or chairs for seating, given the possibility of a crowd, to ensure attendees can comfortably enjoy the food and games.",
+  "prediction_sha256": "1ed1c54623a530830c8413c2b68ce4a0a67c6b12852fa0048e696aaf2001d4e6",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 396,
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 4276,
+    "prompt_tokens_details": null,
+    "total_tokens": 4396
+  }
+}

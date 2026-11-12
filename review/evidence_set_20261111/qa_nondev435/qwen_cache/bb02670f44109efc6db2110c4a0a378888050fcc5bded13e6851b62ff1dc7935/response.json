@@ -1,0 +1,17 @@
+{
+  "body_sha256": "bb02670f44109efc6db2110c4a0a378888050fcc5bded13e6851b62ff1dc7935",
+  "finish_reason": "stop",
+  "latency_s": 10.480832583998563,
+  "prediction": "The conversation referenced a match where Barcelona lost 4-0 against Bayern Munich, but it specifically mentions this occurred in 2013. This detail comes from LiHua's statement, \"Remember when Barca lost 4-0 in 2013?\" in the context of discussing classic matches between Barcelona and Bayern in the UEFA Champions League (UCL) history.",
+  "prediction_sha256": "6128ff67f19f85ac0a89bfe636e72fbb1bcff1e7ba6ee0f11c92198a1f2545c2",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100294,
+  "usage": {
+    "completion_tokens": 79,
+    "prompt_tokens": 4565,
+    "prompt_tokens_details": null,
+    "total_tokens": 4644
+  }
+}

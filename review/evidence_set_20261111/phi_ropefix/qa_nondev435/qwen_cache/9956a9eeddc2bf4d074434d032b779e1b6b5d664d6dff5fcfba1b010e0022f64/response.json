@@ -1,0 +1,17 @@
+{
+  "body_sha256": "9956a9eeddc2bf4d074434d032b779e1b6b5d664d6dff5fcfba1b010e0022f64",
+  "finish_reason": "stop",
+  "latency_s": 6.132976875000168,
+  "prediction": " Orion comments on Cersei's relationship with her father, Tywin, noting that there was a combination of loyalty and fear in her towards him. He suggests that while Tywin imparted a survival mentality on Cersei, it is implied that Cersei also harbored some resentment towards this kind of domination and control. Orion points out that Cersei's desire to break away from the need for approval, which was partly instilled by her father, enabled her to assert her ambitions and become more independent. This independence, according to Orion, had both positive and negative consequences for Cersei's character. He questions whether this autonomy ultimately made her stronger or left her more vulnerable due to her isolation.",
+  "prediction_sha256": "e70eac4720ef193c558f1e92331df9fe2044952005e133ebff192c768721c2df",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 313,
+  "usage": {
+    "completion_tokens": 165,
+    "prompt_tokens": 4762,
+    "prompt_tokens_details": null,
+    "total_tokens": 4927
+  }
+}

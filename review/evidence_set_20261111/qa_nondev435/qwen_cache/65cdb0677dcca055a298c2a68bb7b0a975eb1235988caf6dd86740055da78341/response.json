@@ -1,0 +1,17 @@
+{
+  "body_sha256": "65cdb0677dcca055a298c2a68bb7b0a975eb1235988caf6dd86740055da78341",
+  "finish_reason": "stop",
+  "latency_s": 11.03416045799895,
+  "prediction": "The purpose of starting with bodyweight exercises is to provide a versatile and self-motivated foundation in strength training, suitable for beginners (as indicated in the description \"Bodyweight Exercises refer to exercises performed without any equipment, emphasizing versatility and self-motivation.\"). These exercises are foundational and can help individuals develop basic strength and endurance, setting a strong base for more complex workouts.",
+  "prediction_sha256": "bb22b9e3dbe0423badef1ad126512cf5b6b53656f8ca29f7d18f7151d44250b9",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200210,
+  "usage": {
+    "completion_tokens": 76,
+    "prompt_tokens": 5140,
+    "prompt_tokens_details": null,
+    "total_tokens": 5216
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "99e1c0f1c4b0066c24baedcce116454565db0a54cf6ecc7311ccad00ddc6207f",
+  "finish_reason": "stop",
+  "latency_s": 17.459606665997853,
+  "prediction": "The timeline provided in the conversations shows a progression of events leading up to the installation of the air-conditioner in the basement. Initially, LiHua expressed interest in installing an air-conditioner in the basement on July 16th at 10:00 AM (Source 1). Adam Smith suggested looking into inverter AC units with a SEER rating of 16 or higher, and recommended wall-mounted units for better space-saving and quieter operation (Source 3). On July 23rd at 14:00, Adam Smith reminded LiHua to pick up the key for the basement at 9 AM the following day (Source 8), indicating that the installation could begin early the next day. The actual installation took place on July 24th at 6 PM (Source 2). Therefore, from the initial discussion about the air-conditioner to its installation, it took approximately 8 days, from July 16th to July 24th.",
+  "prediction_sha256": "f35d5727ff26faf11d12f6c8b4d10d64deac8978f7dd6caa3952b8d94b633d82",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100038,
+  "usage": {
+    "completion_tokens": 205,
+    "prompt_tokens": 4481,
+    "prompt_tokens_details": null,
+    "total_tokens": 4686
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "d76d841b035ba921bc8979c6409148c6663fce2e3ac673a8c1c20e00af7371e4",
+  "finish_reason": "stop",
+  "latency_s": 6.006615417005378,
+  "prediction": "RexxarRemar suggests having refreshments available to keep everyone energized throughout the picnic. He specifically mentions that it would be a nice idea to have snacks and drinks available, which would help ensure that participants remain well-hydrated and nourished as they enjoy the various activities planned.",
+  "prediction_sha256": "75f71a3b360ac7369aaf98c494909cd3f91279c38bb5aebafee8749686e4d866",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100396,
+  "usage": {
+    "completion_tokens": 61,
+    "prompt_tokens": 4108,
+    "prompt_tokens_details": null,
+    "total_tokens": 4169
+  }
+}

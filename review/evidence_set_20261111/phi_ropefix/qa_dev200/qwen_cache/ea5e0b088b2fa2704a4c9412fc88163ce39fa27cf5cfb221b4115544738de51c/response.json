@@ -1,0 +1,17 @@
+{
+  "body_sha256": "ea5e0b088b2fa2704a4c9412fc88163ce39fa27cf5cfb221b4115544738de51c",
+  "finish_reason": "stop",
+  "latency_s": 8.527650207997794,
+  "prediction": " Hailey Johnson is offering a special promotion for Mother's Day, which includes a 15% discount on all pastries and special cakes. This offer is part of her efforts to celebrate the occasion with her customers by providing tempting treats that can be enjoyed in-store or delivered fresh to their doorsteps. She mentions that if customers order today, they will also be provided with the convenience of doorstep delivery by her new assistant, Alice.\n\nTo summarize from the data provided, during the Mother's Day celebration on May 8th, Hailey Johnson advertised a 15% off sale on pastries and special cakes for customers who place their orders by then. This discounted pricing was intended to encourage more orders from customers looking for last-minute celebratory items or gifts. The specific mention of a discount percentage clearly states Hailey's promotional offer for the event.",
+  "prediction_sha256": "d6b8db93609d53e1d4c72af6f929ce86cad07b012a2a3a2c3e1eba026992cf5e",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 72,
+  "usage": {
+    "completion_tokens": 198,
+    "prompt_tokens": 4884,
+    "prompt_tokens_details": null,
+    "total_tokens": 5082
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "0ee6ad7c0c603db730de57ed2f3aa1c355998f1383b2fead716b42ce4b00ee5f",
+  "finish_reason": "stop",
+  "latency_s": 12.646575166996627,
+  "prediction": "Thrall is organizing a community garden cleanup event scheduled for this Saturday. This activity aims to maintain and clean the garden, ensuring it remains a pleasant and functional space for everyone to enjoy. Adam Smith reminded Li Hua about this event, suggesting she bring any gardening tools she might have. Li Hua initially expressed her intention to participate but later mentioned she might not be able to attend due to unforeseen circumstances, but she was still willing to lend a helping hand if possible. Adam Smith expressed hope that Li Hua could join them in the future, indicating that participation in community events like this helps foster a sense of community and shared responsibility.",
+  "prediction_sha256": "4708bb9d06931f0e07461e7df6370356809361e329090bd31763a1a9a6444ba8",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100114,
+  "usage": {
+    "completion_tokens": 129,
+    "prompt_tokens": 4242,
+    "prompt_tokens_details": null,
+    "total_tokens": 4371
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "f42efd057269e40c45c03e246fc7cb30da05ec9a73873fdbe10bc05da45bb9e7",
+  "finish_reason": "stop",
+  "latency_s": 12.538271541998256,
+  "prediction": "Based on the conversations documented, Li Hua and Yuriko expressed a shared interest in a variety of music genres, particularly classic rock and acoustic songs. During their virtual conversations, Li Hua mentioned his love for classic rock, mentioning songs like \"Hotel California\" and \"Sweet Home Alabama\" that he believes would suit Yuriko's voice perfectly. Yuriko herself stated that she enjoys a mix of genres, with a particular fondness for classic rock and acoustic songs, which she finds have \"great melodies.\" Given these statements, it can be inferred that Li Hua and Yuriko's favorite type of music to play together likely includes classic rock and acoustic styles.",
+  "prediction_sha256": "2928eb624b8fa89a0fde10723ebebe340cec658ca384c5d4ccbced6924445ea4",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200421,
+  "usage": {
+    "completion_tokens": 137,
+    "prompt_tokens": 4077,
+    "prompt_tokens_details": null,
+    "total_tokens": 4214
+  }
+}

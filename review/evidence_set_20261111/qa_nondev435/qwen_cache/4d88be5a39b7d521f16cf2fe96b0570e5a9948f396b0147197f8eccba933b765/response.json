@@ -1,0 +1,17 @@
+{
+  "body_sha256": "4d88be5a39b7d521f16cf2fe96b0570e5a9948f396b0147197f8eccba933b765",
+  "finish_reason": "stop",
+  "latency_s": 10.475590375001048,
+  "prediction": "In the discussion about potential locations for their practice, Wolfgang Schulz suggested several ideas. He proposed starting their sessions on Sundays, noting that they were \"too busy with work during the week.\" Wolfgang also expressed enthusiasm about introducing some electronic vibes into their music, suggesting they could blend their acoustic styles with electronic beats. Additionally, he brought up the idea of experimenting with synthesizer sounds, which he believed could add depth to their music without losing their existing groove. Wolfgang Schulz was keen on having a creative session where everyone could bring their ideas, ensuring they kept the energy high and explored different possibilities.",
+  "prediction_sha256": "553c4f409d9a5a3a9c04bcb5f23b6caa02dd19d1083fcbc040d1f5af133a9cca",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200080,
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 4283,
+    "prompt_tokens_details": null,
+    "total_tokens": 4403
+  }
+}

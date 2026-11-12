@@ -1,0 +1,17 @@
+{
+  "body_sha256": "48f6ac2de42bcb80fdd5436d0e316a4b640915391f99fbdfa3bb1f4c08af390d",
+  "finish_reason": "stop",
+  "latency_s": 11.172817540998949,
+  "prediction": "During the picnic planning session, RexxarRemar suggested bringing some blankets or chairs for seating, given that it might get a bit crowded. Additionally, RexxarRemar proposed the idea of having refreshments available, including snacks and drinks, to keep everyone energized throughout the event. RexxarRemar emphasized the importance of ensuring there were enough options for hydration, recommending the setup of a small drink station with water and other refreshments.",
+  "prediction_sha256": "1e2f08d6b4f842ad84858f76822e3103202e0029fccdd14d39b3a7af3d56ba0a",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 396,
+  "usage": {
+    "completion_tokens": 92,
+    "prompt_tokens": 4343,
+    "prompt_tokens_details": null,
+    "total_tokens": 4435
+  }
+}

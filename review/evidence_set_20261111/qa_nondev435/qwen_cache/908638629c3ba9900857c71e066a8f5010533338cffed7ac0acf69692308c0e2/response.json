@@ -1,0 +1,17 @@
+{
+  "body_sha256": "908638629c3ba9900857c71e066a8f5010533338cffed7ac0acf69692308c0e2",
+  "finish_reason": "stop",
+  "latency_s": 11.208497540996177,
+  "prediction": "According to the conversation recorded on 20260731, Hailey Johnson is planning a bread-tasting event at the bakery and wants Li Hua to assist with gathering feedback from the customers. Hailey specifically mentions that she would love Li Hua's help in \"chat[ing] with customers and collect[ing] their thoughts on the different breads.\" This aligns with the description of the event in the entity table, which states that \"Bakery is the venue for the bread-tasting event.\"",
+  "prediction_sha256": "e6f5e023757ec2331d5776b26f7ab8cb5f3e90567284a8845fb6625b825b2f65",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100162,
+  "usage": {
+    "completion_tokens": 109,
+    "prompt_tokens": 4878,
+    "prompt_tokens_details": null,
+    "total_tokens": 4987
+  }
+}

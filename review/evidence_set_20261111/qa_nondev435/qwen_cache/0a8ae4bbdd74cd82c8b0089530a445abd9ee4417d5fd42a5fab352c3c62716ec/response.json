@@ -1,0 +1,17 @@
+{
+  "body_sha256": "0a8ae4bbdd74cd82c8b0089530a445abd9ee4417d5fd42a5fab352c3c62716ec",
+  "finish_reason": "stop",
+  "latency_s": 8.044383708001988,
+  "prediction": "According to Orion's opinion, the most hateable character in Game of Thrones is Ramsay Bolton. Orion expresses his agreement with Tamara, stating that Ramsay's twisted games and treatment of others make him particularly hard to forget.",
+  "prediction_sha256": "8cfffe67fe88f1f4548bf613475ba656c0d7301d213e003bb334ad3a9a2c5fc4",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 189,
+  "usage": {
+    "completion_tokens": 47,
+    "prompt_tokens": 4941,
+    "prompt_tokens_details": null,
+    "total_tokens": 4988
+  }
+}

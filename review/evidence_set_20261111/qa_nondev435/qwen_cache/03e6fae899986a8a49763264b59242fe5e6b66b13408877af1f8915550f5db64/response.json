@@ -1,0 +1,17 @@
+{
+  "body_sha256": "03e6fae899986a8a49763264b59242fe5e6b66b13408877af1f8915550f5db64",
+  "finish_reason": "stop",
+  "latency_s": 11.371168333000242,
+  "prediction": "Strength training plays a pivotal role in reducing the risk of injuries among soccer players. According to Jake Watson, strength training helps build muscles around the joints, which can significantly reduce the likelihood of injuries. By strengthening these muscles, players become more stable and have greater endurance, making them less prone to slipping or spraining their joints. Additionally, the improved stability and endurance from strength training can enhance overall performance on the field, thus potentially lowering the chances of sustaining injuries. In essence, strength training acts as a protective measure against various types of soccer-related injuries.",
+  "prediction_sha256": "ac885b02c4d6c71053c98aa7721f330bfa8ce4e21b9729cf68e668066c481fda",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 208,
+  "usage": {
+    "completion_tokens": 111,
+    "prompt_tokens": 5154,
+    "prompt_tokens_details": null,
+    "total_tokens": 5265
+  }
+}

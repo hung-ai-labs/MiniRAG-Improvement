@@ -1,0 +1,17 @@
+{
+  "body_sha256": "fc5c2f6537c655f0ccf734b4bb0d72b14009b216f3640c0b3372f0830bfc874d",
+  "finish_reason": "stop",
+  "latency_s": 9.76244662499812,
+  "prediction": "Thrall is planning to organize a garden cleanup event on Saturday. Specifically, he mentions reminding someone about this community garden cleanup event, indicating that he is preparing to coordinate and lead this activity. Additionally, he expresses enthusiasm for the garden project, stating, \"Everyone’s ideas are incredible. Can't wait to see the garden flourish and support our local businesses at the same time!\" This shows his commitment to both improving the garden itself and fostering collaboration with local businesses.",
+  "prediction_sha256": "e1ff90e8920f49da60f69971598a8d55a9547e0cef98b3859ad76028a79859ab",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100114,
+  "usage": {
+    "completion_tokens": 93,
+    "prompt_tokens": 4215,
+    "prompt_tokens_details": null,
+    "total_tokens": 4308
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "180c8ebe86eeaea8c980ae8874a95c41520ea4c71f8184d526b6f4cf84555cb2",
+  "finish_reason": "stop",
+  "latency_s": 7.573760999999649,
+  "prediction": " According to the data provided in the tables, LiHua and AdamSmith come to an agreement to install the curtain on **Thursday at 5 PM**. This plan is confirmed towards the end of the conversation, with LiHua suggesting the time and AdamSmith affirming his availability and agreement.\n\nHere's how the relevant information is neatly organized in markdown:\n\n```markdown\n## Curtain Installation Schedule\n\n- **Date:** Thursday (from the context of the conversation, the specific date is not provided)\n- **Time:** 5:00 PM\n- **Participants:** LiHua and AdamSmith\n\nIn summary, they agree to meet on Thursday evening at 5 PM for the installation of the newly received curtain.\n```",
+  "prediction_sha256": "1e3f609add3e14f918605d342f2b5f5a92001e1d90f95177150e720536f8c478",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 100249,
+  "usage": {
+    "completion_tokens": 177,
+    "prompt_tokens": 4689,
+    "prompt_tokens_details": null,
+    "total_tokens": 4866
+  }
+}

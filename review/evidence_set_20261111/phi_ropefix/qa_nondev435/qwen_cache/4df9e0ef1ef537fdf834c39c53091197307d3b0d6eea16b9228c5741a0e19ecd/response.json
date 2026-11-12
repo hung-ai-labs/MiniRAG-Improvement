@@ -1,0 +1,17 @@
+{
+  "body_sha256": "4df9e0ef1ef537fdf834c39c53091197307d3b0d6eea16b9228c5741a0e19ecd",
+  "finish_reason": "stop",
+  "latency_s": 8.384208082999976,
+  "prediction": " Li Hua and Yuriko Yamamoto have planned to meet at Central Perk café to show the final website to each other. This information is derived from the conversation snippets provided in the data tables. Eventually, Li Hua confirms the meeting time as Thursday at 3 pm, but the primary location for their meeting is clearly stated as Central Perk. The anticipation and excitement for the session are evident in their messages, with both parties expressing positive sentiments about the collaboration and eagerly awaiting the opportunity to view and provide feedback on the final project.\n\nIn summary, Central Perk café is the chosen venue for Li Hua and Yuriko Yamamoto to discuss the final website design, which represents the culmination of their collaborative work. This meeting is not only significant for its professional purpose but also adds a personal touch to their relationship, as indicated by the friendly and supportive exchanges between them in the provided conversation excerpts.",
+  "prediction_sha256": "56e529860899109e4e90c09876cf579f6192afd205ca57df00c3643bcff59146",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 200097,
+  "usage": {
+    "completion_tokens": 207,
+    "prompt_tokens": 4875,
+    "prompt_tokens_details": null,
+    "total_tokens": 5082
+  }
+}

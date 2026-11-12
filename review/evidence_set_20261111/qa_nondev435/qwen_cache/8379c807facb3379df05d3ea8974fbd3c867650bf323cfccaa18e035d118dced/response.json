@@ -1,0 +1,17 @@
+{
+  "body_sha256": "8379c807facb3379df05d3ea8974fbd3c867650bf323cfccaa18e035d118dced",
+  "finish_reason": "stop",
+  "latency_s": 11.009126916000241,
+  "prediction": "In the conversation recorded on Time: 20260605_18:45, Li Hua mentioned that she had noticed a broken streetlight nearby and asked Adam if he knew who to contact to fix it. Adam responded by providing a phone number, 314159, suggesting that this is the contact information for the maintenance workers who can assist with fixing the broken streetlight. Thus, Adam informed Li Hua about the maintenance workers responsible for addressing the issue with the broken streetlight.",
+  "prediction_sha256": "1fa768d85cac35e26cf048214175323f3e95bcf3ef058924e174dcc40ff1d309",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200067,
+  "usage": {
+    "completion_tokens": 109,
+    "prompt_tokens": 4363,
+    "prompt_tokens_details": null,
+    "total_tokens": 4472
+  }
+}

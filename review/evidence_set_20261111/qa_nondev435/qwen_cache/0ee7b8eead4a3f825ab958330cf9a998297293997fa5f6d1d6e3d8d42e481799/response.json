@@ -1,0 +1,17 @@
+{
+  "body_sha256": "0ee7b8eead4a3f825ab958330cf9a998297293997fa5f6d1d6e3d8d42e481799",
+  "finish_reason": "stop",
+  "latency_s": 9.318017708006664,
+  "prediction": "There is no mention of Adam Smith wanting the window measured in the provided data. The interactions between Adam Smith and Li Hua do not involve any request to measure a window. The data primarily focuses on Adam Smith's role as a volunteer for the community emergency response team, coordinating tasks such as arranging repairs and handling installations.",
+  "prediction_sha256": "5e92f3926d7ebee5234cbd63f8dedecb3ba391442057c935a6eda8337209594f",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 272,
+  "usage": {
+    "completion_tokens": 65,
+    "prompt_tokens": 4337,
+    "prompt_tokens_details": null,
+    "total_tokens": 4402
+  }
+}

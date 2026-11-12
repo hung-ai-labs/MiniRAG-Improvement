@@ -1,0 +1,17 @@
+{
+  "body_sha256": "15b1755b13eb409ce11c3ef435503aef82f5bfebc5f31a6e84bb0d9a72711970",
+  "finish_reason": "stop",
+  "latency_s": 8.23237487499864,
+  "prediction": "JakeWatson mentions several memorable moments from Messi's career, but he specifically recalls one game against Getafe in 2007. In this match, Messi demonstrated his exceptional dribbling skills with a solo goal that was described as \"pure magic.\" This goal stands out as a highlight due to Messi's fluid movement past multiple defenders, showcasing his natural talent and creativity on the field. This particular moment has left a lasting impression on JakeWatson, who considers it one of his favorite Messi moments.",
+  "prediction_sha256": "4c65c30770e2f1791b3d463ef0bd3ebceb5867f27416727551707950c761c103",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200230,
+  "usage": {
+    "completion_tokens": 103,
+    "prompt_tokens": 3910,
+    "prompt_tokens_details": null,
+    "total_tokens": 4013
+  }
+}

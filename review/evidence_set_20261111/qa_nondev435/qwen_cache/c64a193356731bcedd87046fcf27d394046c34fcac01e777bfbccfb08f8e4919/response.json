@@ -1,0 +1,17 @@
+{
+  "body_sha256": "c64a193356731bcedd87046fcf27d394046c34fcac01e777bfbccfb08f8e4919",
+  "finish_reason": "stop",
+  "latency_s": 5.81701350000003,
+  "prediction": "According to Jennifer's advice, LiHua should aim for at least 5 servings of vegetables each day to keep her body in good shape. Jennifer emphasized the importance of vegetables for energy and recovery.",
+  "prediction_sha256": "d6ee899babfca9da3e05e164827d2e6f716ba18738c9844c931cce179465b780",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 204,
+  "usage": {
+    "completion_tokens": 41,
+    "prompt_tokens": 4328,
+    "prompt_tokens_details": null,
+    "total_tokens": 4369
+  }
+}

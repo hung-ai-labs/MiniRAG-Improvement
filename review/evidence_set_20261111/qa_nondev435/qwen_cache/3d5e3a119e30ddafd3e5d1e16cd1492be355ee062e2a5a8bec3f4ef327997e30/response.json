@@ -1,0 +1,17 @@
+{
+  "body_sha256": "3d5e3a119e30ddafd3e5d1e16cd1492be355ee062e2a5a8bec3f4ef327997e30",
+  "finish_reason": "stop",
+  "latency_s": 7.486985542000184,
+  "prediction": "There is no information provided regarding a complaint made by Li Hua or Wolfgang's actions in relation to such a complaint. The entities table does not contain any details about a situation where Li Hua expressed dissatisfaction due to a customer modifying their requirements, nor does it mention Wolfgang comforting Li Hua. Therefore, based on the available data, it is not possible to determine if Wolfgang's actions occurred before or after Li Hua's supposed complaint.",
+  "prediction_sha256": "b2d6fb09fe35997e47434fb6ab98c1e42504042823069c28c0dc308483fb5f68",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 49,
+  "usage": {
+    "completion_tokens": 89,
+    "prompt_tokens": 4366,
+    "prompt_tokens_details": null,
+    "total_tokens": 4455
+  }
+}

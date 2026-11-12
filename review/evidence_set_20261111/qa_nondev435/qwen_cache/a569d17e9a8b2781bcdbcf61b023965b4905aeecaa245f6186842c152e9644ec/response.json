@@ -1,0 +1,17 @@
+{
+  "body_sha256": "a569d17e9a8b2781bcdbcf61b023965b4905aeecaa245f6186842c152e9644ec",
+  "finish_reason": "stop",
+  "latency_s": 5.8601063750029425,
+  "prediction": "Jake Watson mentions a few snacks that he enjoys during match days. Specifically, he states that he prefers having chips and dip, as well as pizza. These snacks are part of his routine to keep his energy up while cheering for his favorite team, Barcelona (Barca). He also recommends having some cold drinks to stay refreshed.",
+  "prediction_sha256": "9e269183bfa960a65d6eeacafd1a29d6252fd33f4344021056438a2df5dd8282",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 297,
+  "usage": {
+    "completion_tokens": 66,
+    "prompt_tokens": 4394,
+    "prompt_tokens_details": null,
+    "total_tokens": 4460
+  }
+}

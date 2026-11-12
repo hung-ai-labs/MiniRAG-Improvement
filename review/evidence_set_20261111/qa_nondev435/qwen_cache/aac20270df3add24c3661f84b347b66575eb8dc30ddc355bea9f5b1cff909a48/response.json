@@ -1,0 +1,17 @@
+{
+  "body_sha256": "aac20270df3add24c3661f84b347b66575eb8dc30ddc355bea9f5b1cff909a48",
+  "finish_reason": "stop",
+  "latency_s": 9.495043708004232,
+  "prediction": "According to the conversations, there are two scheduled power outages in the neighborhood. One is a planned power outage occurring on March 8th, 2026, from 2 PM to 3 PM. The second is a future power outage, which is scheduled for the afternoon of the following day, March 9th, 2026.",
+  "prediction_sha256": "5fc7134ddcabc39a9796982ddf40d7f093de7cc6a348f953d5eafc530846ea4a",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100090,
+  "usage": {
+    "completion_tokens": 75,
+    "prompt_tokens": 5096,
+    "prompt_tokens_details": null,
+    "total_tokens": 5171
+  }
+}

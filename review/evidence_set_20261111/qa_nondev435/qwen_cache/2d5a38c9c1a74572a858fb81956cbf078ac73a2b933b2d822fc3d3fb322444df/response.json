@@ -1,0 +1,17 @@
+{
+  "body_sha256": "2d5a38c9c1a74572a858fb81956cbf078ac73a2b933b2d822fc3d3fb322444df",
+  "finish_reason": "stop",
+  "latency_s": 3.1281239169984474,
+  "prediction": "There is no mention of a team swimming competition in December or any related plans in the provided conversations. The interactions discussed primarily revolve around personal fitness goals, challenges, and encouragement, but do not include any details about future competitions.",
+  "prediction_sha256": "f39143e2c287c81b719e03ddead1aefd94435e4d5c343854f3141d891dc5536c",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200442,
+  "usage": {
+    "completion_tokens": 47,
+    "prompt_tokens": 4219,
+    "prompt_tokens_details": null,
+    "total_tokens": 4266
+  }
+}

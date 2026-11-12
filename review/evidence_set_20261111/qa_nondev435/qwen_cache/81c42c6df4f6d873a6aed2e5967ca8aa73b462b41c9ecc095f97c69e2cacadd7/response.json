@@ -1,0 +1,17 @@
+{
+  "body_sha256": "81c42c6df4f6d873a6aed2e5967ca8aa73b462b41c9ecc095f97c69e2cacadd7",
+  "finish_reason": "stop",
+  "latency_s": 10.182124250000925,
+  "prediction": "Based on the discussion surrounding the community sports day, LiHua expressed a preference for team sports like soccer or basketball, which she believes would get everyone excited and pump them up. Additionally, she suggested including fun games specifically for children. There was also a suggestion to add some family-friendly activities such as a tug-of-war or sack race. However, no definitive list of sports was decided upon for the event.",
+  "prediction_sha256": "5b56344c7c41d44d4ce42b2664ade5cace18c385f62ebc4c416e9f81c17bdf8e",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100158,
+  "usage": {
+    "completion_tokens": 83,
+    "prompt_tokens": 4337,
+    "prompt_tokens_details": null,
+    "total_tokens": 4420
+  }
+}

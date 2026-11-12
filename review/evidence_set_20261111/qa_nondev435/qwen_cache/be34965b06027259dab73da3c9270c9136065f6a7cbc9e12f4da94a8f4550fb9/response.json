@@ -1,0 +1,17 @@
+{
+  "body_sha256": "be34965b06027259dab73da3c9270c9136065f6a7cbc9e12f4da94a8f4550fb9",
+  "finish_reason": "stop",
+  "latency_s": 8.815663332999975,
+  "prediction": "Based on the conversations detailed in the provided data, there is no mention of specific pastries being recommended for Mother's Day. The interactions discussed focus on various bakery items such as ice cream, pastries, and bread, but do not specifically address a Mother's Day pastry recommendation. Therefore, no specific pastries can be identified for Mother's Day from the information provided.",
+  "prediction_sha256": "192c125c128463356778b04034118ae74566c83e5fd19338c8776c1b3e2ebd09",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 118,
+  "usage": {
+    "completion_tokens": 75,
+    "prompt_tokens": 3727,
+    "prompt_tokens_details": null,
+    "total_tokens": 3802
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "bdc9533513185e50df69ac65994b76a424b076c05b87031bc8f5493269ff8ecd",
+  "finish_reason": "stop",
+  "latency_s": 9.132387792000372,
+  "prediction": "Chae shares an article with LiHua that discusses how human beings form short-term and long-term memories. According to the conversation, Chae finds this topic very intriguing because it highlights the complexity and depth of the human brain. She emphasizes how our experiences, particularly those involving emotions and context, significantly influence how we remember things. This understanding can be valuable across various fields, including therapy and education, helping individuals to improve their memory through practice and engaging in stimulating activities.",
+  "prediction_sha256": "f070118e99050e2d54270c087cd3f57dfea24859a842e49db9e9f09288f285f0",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 150,
+  "usage": {
+    "completion_tokens": 95,
+    "prompt_tokens": 4403,
+    "prompt_tokens_details": null,
+    "total_tokens": 4498
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "9d23779342ec22d34f7c94ef28488792a651a6fe5c249a25962970713d953a5b",
+  "finish_reason": "stop",
+  "latency_s": 5.194074166000064,
+  "prediction": "Based on the conversation, Wolfgang recommended a burger joint downtown to LiHua as their favorite fast food spot. However, Wolfgang also mentioned that this burger joint serves amazing shakes, which LiHua prefers to get after her gym sessions. There isn't a specific gym named in the conversation, only references to the location of a burger joint downtown where LiHua goes for shakes after her gym sessions.",
+  "prediction_sha256": "1c12086a6f6d403156a079c5e23b9dc3444462a08757cd11c1192c500dcb436b",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 63,
+  "usage": {
+    "completion_tokens": 81,
+    "prompt_tokens": 3982,
+    "prompt_tokens_details": null,
+    "total_tokens": 4063
+  }
+}

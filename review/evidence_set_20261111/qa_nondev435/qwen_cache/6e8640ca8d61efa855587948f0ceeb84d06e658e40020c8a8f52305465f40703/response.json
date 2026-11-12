@@ -1,0 +1,17 @@
+{
+  "body_sha256": "6e8640ca8d61efa855587948f0ceeb84d06e658e40020c8a8f52305465f40703",
+  "finish_reason": "stop",
+  "latency_s": 14.444574583998474,
+  "prediction": "According to their conversation on 20260905, WolfgangSchulz expresses feeling overwhelmed and under a lot of pressure due to a new software project that is \"pushing [him] to [his] limits.\" He mentions that this pressure feels like being in a \"pressure cooker\" and notes that it won't last forever, though he acknowledges his talent and believes in himself. Wolfgang also anticipates relief from this pressure through a jam session the following day. LiHua offers support and encouragement, suggesting they engage in activities that can help them manage the stress, such as jamming out and enjoying the \"feel-good\" song \"Here Comes the Sun.\"",
+  "prediction_sha256": "23fac88ca004d3b93a708feb656c48ec4123cd07d193f6631a7485b68ea1fa89",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 191,
+  "usage": {
+    "completion_tokens": 138,
+    "prompt_tokens": 5432,
+    "prompt_tokens_details": null,
+    "total_tokens": 5570
+  }
+}

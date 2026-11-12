@@ -1,0 +1,17 @@
+{
+  "body_sha256": "a7e0ce3f917e495cc61603dd253697c22aaebe86d9b0b34c85c881d803a07178",
+  "finish_reason": "stop",
+  "latency_s": 6.759121375001996,
+  "prediction": "On April 3rd, 2026, Alice from Hailey's Bakery delivered the bread to Li Hua. This information can be derived from the content of the message, which states, \"I am Alice from Hailey's bakery. Your bread has been delivered, please come and pick it up ASAP. Have a good day : ).\"",
+  "prediction_sha256": "4085e78705cbe0658e14a295f2736e9e50065bdacc2ca25df1430e68ac95942d",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100105,
+  "usage": {
+    "completion_tokens": 73,
+    "prompt_tokens": 4617,
+    "prompt_tokens_details": null,
+    "total_tokens": 4690
+  }
+}

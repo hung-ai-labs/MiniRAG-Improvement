@@ -1,0 +1,17 @@
+{
+  "body_sha256": "d21475059b5bd5ae26d7f33fb10f0946a0c9bd803d2659fc43013cba960582cd",
+  "finish_reason": "stop",
+  "latency_s": 6.720222291001846,
+  "prediction": "According to JakeWatson's conversation with LiHua, one of his favorite memories involving Puyol and Piqué was the epic comeback against Paris Saint-Germain (PSG) in the Champions League. During this match, Puyol demonstrated exceptional leadership, while Piqué contributed with his solid defensive work, making key interceptions. This memorable encounter exemplified the special chemistry and contributions of these two legendary defenders for FC Barcelona.",
+  "prediction_sha256": "79242e3cd00fedfc147c83cffe25d03e1b6f9b43485d6229eabceaa9cf821dcd",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100227,
+  "usage": {
+    "completion_tokens": 88,
+    "prompt_tokens": 4033,
+    "prompt_tokens_details": null,
+    "total_tokens": 4121
+  }
+}

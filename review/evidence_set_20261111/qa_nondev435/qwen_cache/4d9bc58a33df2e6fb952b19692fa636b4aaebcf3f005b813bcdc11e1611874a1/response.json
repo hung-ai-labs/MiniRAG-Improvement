@@ -1,0 +1,17 @@
+{
+  "body_sha256": "4d9bc58a33df2e6fb952b19692fa636b4aaebcf3f005b813bcdc11e1611874a1",
+  "finish_reason": "stop",
+  "latency_s": 5.155669167004817,
+  "prediction": "According to JakeWatson, each stretch should be held for approximately 30 seconds. This recommendation comes from his advice given in conversations about recovery and maintaining flexibility and muscle health.",
+  "prediction_sha256": "1fd2e9822ef55b774827f16e5e5ef27062a31116aaf10bc55da90dc1fbc1bb89",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100270,
+  "usage": {
+    "completion_tokens": 37,
+    "prompt_tokens": 4441,
+    "prompt_tokens_details": null,
+    "total_tokens": 4478
+  }
+}

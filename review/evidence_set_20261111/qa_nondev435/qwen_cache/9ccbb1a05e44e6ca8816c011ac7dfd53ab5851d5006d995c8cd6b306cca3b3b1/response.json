@@ -1,0 +1,17 @@
+{
+  "body_sha256": "9ccbb1a05e44e6ca8816c011ac7dfd53ab5851d5006d995c8cd6b306cca3b3b1",
+  "finish_reason": "stop",
+  "latency_s": 10.711054958999739,
+  "prediction": "ChaeSong-hwa organized a karaoke activity that was scheduled for this Saturday at 7 PM. This event was communicated to Li Hua, who expressed enthusiasm about participating in it. There were plans to include a variety of genres in the repertoire, with some suggested songs like \"Sweet Home Alabama,\" \"Let It Be,\" \"I Will Survive,\" and \"Dancing Queen.\" The conversation indicated that both participants were looking forward to having a fun and enjoyable time together.",
+  "prediction_sha256": "1e144c6c9cedb768cfe885eb88ca3df11cf50bbc43051a11a44e3e5d6f3e20d9",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 112,
+  "usage": {
+    "completion_tokens": 97,
+    "prompt_tokens": 4416,
+    "prompt_tokens_details": null,
+    "total_tokens": 4513
+  }
+}

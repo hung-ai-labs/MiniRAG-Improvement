@@ -1,0 +1,17 @@
+{
+  "body_sha256": "04cc5ea1a8a294e5dd76909d0eeee9cc2c852c89055a188c0a2ac1cf49551ca9",
+  "finish_reason": "stop",
+  "latency_s": 9.435191459000634,
+  "prediction": "According to JakeWatson's advice shared in one of the conversations, he suggests quickly refueling with snacks that contain both carbohydrates and protein. Specifically, he recommends trying a banana with peanut butter as a great option. Additionally, he emphasizes the importance of hydration, recommending water or an electrolyte drink to replenish fluids lost during the game.",
+  "prediction_sha256": "f9f1609a45571d3a1aa3fbabaa8fb544780915647344bae6a2a3406e120c48c9",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100389,
+  "usage": {
+    "completion_tokens": 69,
+    "prompt_tokens": 4264,
+    "prompt_tokens_details": null,
+    "total_tokens": 4333
+  }
+}

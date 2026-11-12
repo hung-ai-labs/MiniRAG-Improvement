@@ -1,0 +1,17 @@
+{
+  "body_sha256": "adb80762f8c3c3e2ee5626604432eb10e80d7b70db4937216e0a396c6b92aa8e",
+  "finish_reason": "stop",
+  "latency_s": 7.038856458002556,
+  "prediction": "According to the conversation, Li Hua's next month's fitness plan is focused on two main areas: increasing her strength and improving her flexibility. Jennifer suggests incorporating more resistance training into Li Hua's routine to enhance her strength, and she recommends adding dedicated stretching or yoga sessions to help with flexibility. Additionally, Jennifer plans to modify the current workout plan to include these elements, indicating a commitment to Li Hua's overall fitness improvement.",
+  "prediction_sha256": "a2ef55f1e72a1d9480d79ade30c8704267b42b0ab19a8207c190724666d7f0d7",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200100,
+  "usage": {
+    "completion_tokens": 88,
+    "prompt_tokens": 3974,
+    "prompt_tokens_details": null,
+    "total_tokens": 4062
+  }
+}

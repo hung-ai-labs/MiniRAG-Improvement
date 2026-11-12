@@ -1,0 +1,17 @@
+{
+  "body_sha256": "b4bc01aae028bd759cae03185b028c1165c7001a753a863f696433b5fd71c88d",
+  "finish_reason": "stop",
+  "latency_s": 15.482480540995311,
+  "prediction": "Based on the information provided, Wolfgang is aware that he is going to Hong Kong for his business trip. This is evident from a conversation recorded on December 19th, 2026, where Wolfgang informs Li Hua that he will be heading to Hong Kong for a couple of days next week. Additionally, Wolfgang mentions his excitement about the trip in subsequent communications, indicating that he is not only going but also looking forward to it. Li Hua and Yuriko are also informed about the trip, with Li Hua expressing her desire to grab something special for Wolfgang when he returns from Hong Kong. Thus, the people who are aware of Wolfgang's trip to Hong Kong are Li Hua, Yuriko, and Wolfgang himself.",
+  "prediction_sha256": "8d52b5ad6038c9e3b614e37337e8d3876c44e5803720d4b2416dd5acd39069b3",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 33,
+  "usage": {
+    "completion_tokens": 152,
+    "prompt_tokens": 4900,
+    "prompt_tokens_details": null,
+    "total_tokens": 5052
+  }
+}

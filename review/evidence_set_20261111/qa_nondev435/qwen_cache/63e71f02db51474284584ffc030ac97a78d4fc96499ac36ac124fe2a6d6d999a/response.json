@@ -1,0 +1,17 @@
+{
+  "body_sha256": "63e71f02db51474284584ffc030ac97a78d4fc96499ac36ac124fe2a6d6d999a",
+  "finish_reason": "stop",
+  "latency_s": 7.83838150000156,
+  "prediction": "LiHua mentions \"Detroit: Become Human\" as an example of a game that explores themes of choice, consciousness, and humanity. She notes that the game allows for branching narratives and multiple endings, which keep players engaged and invested in the story.",
+  "prediction_sha256": "a9e3bd84f3cd803e452369eca2b8a0e906773fc209401efaa3d5a4da798db6cc",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 330,
+  "usage": {
+    "completion_tokens": 51,
+    "prompt_tokens": 4274,
+    "prompt_tokens_details": null,
+    "total_tokens": 4325
+  }
+}

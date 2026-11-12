@@ -1,0 +1,17 @@
+{
+  "body_sha256": "e2c68746e98ffa79a54c481f7ecca32c1d0dea5fe8743416530b818d627f4a3d",
+  "finish_reason": "stop",
+  "latency_s": 6.284635832998902,
+  "prediction": "JakeWatson suggests grabbing a snack with both carbohydrates and protein, such as a banana with peanut butter, as a practical tip for refueling after an intense game. He also emphasizes the importance of hydration, recommending either water or an electrolyte drink to replenish fluids lost during the game.",
+  "prediction_sha256": "7844ee5c0a9beaa8a3c883ef10e245dbad65bb71cac1362503a1e96ab4b5384a",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100389,
+  "usage": {
+    "completion_tokens": 59,
+    "prompt_tokens": 4264,
+    "prompt_tokens_details": null,
+    "total_tokens": 4323
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "e48e0427369be7857811b2e8a9b721781801ccd422a43539c098f4a3fef8951c",
+  "finish_reason": "stop",
+  "latency_s": 7.371493083999667,
+  "prediction": "From the conversations shared, RexxarRemar expresses interest in adding camellias to the garden. He suggests that having a variety of colors in the garden is beneficial, noting that \"Camellias would look nice too, right?\" Additionally, he mentions his preference for flowers over herbs for the current gardening project, indicating that camellias may be included among the chosen flowers.",
+  "prediction_sha256": "74bdbbd4a0558fad9ed9a0dd4bc48f9bf8d92d1ccf844f36f4b02bfbd0ca0710",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100123,
+  "usage": {
+    "completion_tokens": 78,
+    "prompt_tokens": 3766,
+    "prompt_tokens_details": null,
+    "total_tokens": 3844
+  }
+}

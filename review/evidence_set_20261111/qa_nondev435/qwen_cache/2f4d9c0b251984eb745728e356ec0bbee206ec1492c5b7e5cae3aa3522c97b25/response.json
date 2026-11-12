@@ -1,0 +1,17 @@
+{
+  "body_sha256": "2f4d9c0b251984eb745728e356ec0bbee206ec1492c5b7e5cae3aa3522c97b25",
+  "finish_reason": "stop",
+  "latency_s": 9.041346416001034,
+  "prediction": "ChaeSong-hwa has scheduled the community medical knowledge lecture for April 11th at 7 PM. This event aims to provide basic health tips and address common medical myths in a manner accessible to the community.",
+  "prediction_sha256": "93b9dc0029311c5b6a9cee44ba06747020d9b77b70d45d6a3e50de724252f798",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100106,
+  "usage": {
+    "completion_tokens": 45,
+    "prompt_tokens": 4494,
+    "prompt_tokens_details": null,
+    "total_tokens": 4539
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "e343bf90574b0f7bb0a286f91d461cfea4f36ee1c93af20c580a90790f36f22e",
+  "finish_reason": "stop",
+  "latency_s": 6.657027041997935,
+  "prediction": "According to the conversation recorded on 20260923 at 16:00, WolfgangSchulz invited LiHua to go to the grocery store after work to grab some snacks for their next jam. The purpose of this outing is clearly stated as obtaining snacks for their upcoming musical session or jam session.",
+  "prediction_sha256": "f8097545545e71eb8913d13e6011bf364f55bbe7bab583e5d9858132b9622a03",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100267,
+  "usage": {
+    "completion_tokens": 69,
+    "prompt_tokens": 4546,
+    "prompt_tokens_details": null,
+    "total_tokens": 4615
+  }
+}

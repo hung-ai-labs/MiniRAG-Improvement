@@ -1,0 +1,17 @@
+{
+  "body_sha256": "ed149f80d2889a420dffc8e1095799cf18f1234d33b49cff653ed2625210097d",
+  "finish_reason": "stop",
+  "latency_s": 7.683095749998756,
+  "prediction": "According to Rowan, Cersei Lannister represents the idea that power comes at a cost. Rowan notes how Cersei achieves her goals but also loses so much along the way, suggesting that the pursuit of power can lead to profound personal and emotional losses. This idea is further supported by the narrative arc of Cersei's character, which shows her starting as a love-struck girl and evolving into a power-hungry queen.",
+  "prediction_sha256": "5a020567fa43e9c12188c2d0ba55bf029227234f7224289791c8b2ca3f30d99a",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100309,
+  "usage": {
+    "completion_tokens": 89,
+    "prompt_tokens": 4323,
+    "prompt_tokens_details": null,
+    "total_tokens": 4412
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "21b91f1638a899e0c26bfe4b6672705fc22faa5162e1bf5c40d62f7e79bbdcaa",
+  "finish_reason": "stop",
+  "latency_s": 10.321819707998657,
+  "prediction": "Based on the conversation, Li Hua has not specifically mentioned a preference for a particular type of protein shake before his workout sessions. However, he did mention trying a banana and peanut butter combination as a post-workout recovery snack, indicating a balanced approach to his nutrition. Therefore, without explicit preference stated, it cannot be determined whether Li Hua prefers a certain type of protein shake for pre-workout consumption.",
+  "prediction_sha256": "93b993aaeb52fb833906b4c6fd228c6e73d0f865b01236d5b183ccf9680e8c95",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100412,
+  "usage": {
+    "completion_tokens": 83,
+    "prompt_tokens": 4477,
+    "prompt_tokens_details": null,
+    "total_tokens": 4560
+  }
+}

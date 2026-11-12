@@ -1,0 +1,17 @@
+{
+  "body_sha256": "112e13d80e0ba99a896916d7b6342efed313458ce05fb70002d4d978a479f716",
+  "finish_reason": "stop",
+  "latency_s": 11.616974207998283,
+  "prediction": "On August 10, 2026, at 18:00, AdamSmith reaches out to LiHua with the purpose of checking whether LiHua has had a chance to review the warranty and maintenance plans for the air conditioner. Adam reminds LiHua that they agreed to discuss this matter previously, indicating that this communication is part of their ongoing arrangement regarding the air conditioning unit.",
+  "prediction_sha256": "9d65753442744b1c246c1f604cfef6b4c5dad741ad440c6784330d77bb966b57",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100166,
+  "usage": {
+    "completion_tokens": 84,
+    "prompt_tokens": 5339,
+    "prompt_tokens_details": null,
+    "total_tokens": 5423
+  }
+}

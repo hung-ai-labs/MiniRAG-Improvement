@@ -1,0 +1,17 @@
+{
+  "body_sha256": "f636a1269911f4b0022f0f2736d110ac1cace2505e9d8386b3de457b364c8800",
+  "finish_reason": "stop",
+  "latency_s": 12.340790750000451,
+  "prediction": "According to the records, Adam Smith is willing to allow Li Hua to add decorations to the basement, specifically mentioning sound-insulating pads. However, there are two conditions that Adam Smith has set for this request. First, the modifications must be reversible, meaning that any changes made can be easily undone without causing any damage to the existing structure. Second, Adam Smith wants to ensure that the additions do not cause any damage to the basement, implying that Li Hua should use materials that are safe and appropriate for the area. This demonstrates Adam Smith's commitment to maintaining the integrity and functionality of the basement while also accommodating Li Hua's desire to personalize her living space.",
+  "prediction_sha256": "18008712b4b29aafcd1d5f3ac34193d24114e64ae554f9c4171ef5cc09585275",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200078,
+  "usage": {
+    "completion_tokens": 135,
+    "prompt_tokens": 3706,
+    "prompt_tokens_details": null,
+    "total_tokens": 3841
+  }
+}

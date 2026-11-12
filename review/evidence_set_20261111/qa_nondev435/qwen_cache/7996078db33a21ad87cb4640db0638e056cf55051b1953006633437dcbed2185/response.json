@@ -1,0 +1,17 @@
+{
+  "body_sha256": "7996078db33a21ad87cb4640db0638e056cf55051b1953006633437dcbed2185",
+  "finish_reason": "stop",
+  "latency_s": 5.5926727920013946,
+  "prediction": "In the conversation dated 20260715_19:00, ChaeSong-hwa mentions checking out a \"live performance of Bohemian Rhapsody\" by Queen. He expresses his excitement about potentially performing this song, suggesting they should try it out together during their jam sessions.",
+  "prediction_sha256": "25503a3a282352dfe275c605aada2bfb64a7508330ba9f1cad25d996f32d01f6",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 152,
+  "usage": {
+    "completion_tokens": 66,
+    "prompt_tokens": 5454,
+    "prompt_tokens_details": null,
+    "total_tokens": 5520
+  }
+}

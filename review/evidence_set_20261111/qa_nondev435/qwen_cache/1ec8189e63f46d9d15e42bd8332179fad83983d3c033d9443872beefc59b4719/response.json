@@ -1,0 +1,17 @@
+{
+  "body_sha256": "1ec8189e63f46d9d15e42bd8332179fad83983d3c033d9443872beefc59b4719",
+  "finish_reason": "stop",
+  "latency_s": 8.887476167001296,
+  "prediction": "According to the conversations provided, JenniferMoore emphasizes the importance of protein for maintaining and enhancing one's physical condition. Specifically, she mentions that protein is crucial for \"keeping the body in shape.\" Additionally, Jennifer highlights the significance of protein intake for muscle recovery and building lean mass, recommending whey protein as a great option for this purpose. Furthermore, she suggests that proper protein consumption, whether through supplements or dietary sources, can help achieve fitness goals and maintain optimal health.",
+  "prediction_sha256": "14b9437fc68323b8e38830ce71cef298b091bfae4a6bf405a83e29ca3ae220b9",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100235,
+  "usage": {
+    "completion_tokens": 95,
+    "prompt_tokens": 4494,
+    "prompt_tokens_details": null,
+    "total_tokens": 4589
+  }
+}

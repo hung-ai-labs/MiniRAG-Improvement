@@ -1,0 +1,17 @@
+{
+  "body_sha256": "1bcf2d90528d3edc8d39b071969a04b9a78064bbb99d2f3316c53ab78efa35a7",
+  "finish_reason": "stop",
+  "latency_s": 14.2803251669975,
+  "prediction": "At the meeting held on a date unspecified in the provided data, Turalyon, the mayor, discussed noise control measures with the residents of the area. Specifically, Turalyon mentioned the intention to limit noisy activities from 2-3 pm and proposed the use of temporary barriers or quieter tools during that period. Additionally, he suggested notifying residents a day in advance about any particularly loud work, which would help them plan accordingly. Other residents contributed ideas such as posting updates in the chat or putting up a notice board at the entrance of the garden. Suggestions included incorporating sound-absorbing materials for benches or play areas, planting tall shrubs or trees along the perimeter to act as a natural barrier, and using eco-friendly materials for benches. Overall, the discussion focused on minimizing noise during the construction period to ensure comfort and cooperation among the residents.",
+  "prediction_sha256": "bada39a2b86008e5494cf93086f5af5093a5abdacb1de8f80f5d4c73cd132a60",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 428,
+  "usage": {
+    "completion_tokens": 170,
+    "prompt_tokens": 4288,
+    "prompt_tokens_details": null,
+    "total_tokens": 4458
+  }
+}

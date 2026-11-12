@@ -1,0 +1,17 @@
+{
+  "body_sha256": "201041efe07e79c152df2687ae7309b4dacbe0cea86b01bce9467f28a06afd4f",
+  "finish_reason": "stop",
+  "latency_s": 7.481498582994391,
+  "prediction": "Li Hua is meeting with Yuriko Yamamoto to discuss homepage design updates specifically related to the upcoming changes for March 6th at 2:00 PM. This meeting is aimed at ensuring that the changes align with their mutual goals and expectations for the updated homepage.",
+  "prediction_sha256": "24c7771b011105a3f6c02e905cd78ac48567bba6798e4cbd5a6895e4ce841f02",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 88,
+  "usage": {
+    "completion_tokens": 57,
+    "prompt_tokens": 3469,
+    "prompt_tokens_details": null,
+    "total_tokens": 3526
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "7ff241f8490afb9eb84d001740d96a8d4c9451ddad1140079fc085376928161c",
+  "finish_reason": "stop",
+  "latency_s": 10.667271124999388,
+  "prediction": "At the bakery's anniversary event, Li Hua expressed enthusiasm for the new bread products, particularly mentioning that he loved the sourdough bread. Additionally, she hinted at other new bread products that were part of the event, indicating there were multiple flavors available. Given her excitement about the sourdough, it seems this was the new bread product she particularly enjoyed at the anniversary event. However, without explicit mention of other new flavors, the sourdough appears to be the standout new bread product that caught Li Hua's attention.",
+  "prediction_sha256": "b344ce39083cac5f514332c3b95391f89a51078bc43897a559501f0fb8d65b24",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 424,
+  "usage": {
+    "completion_tokens": 108,
+    "prompt_tokens": 4382,
+    "prompt_tokens_details": null,
+    "total_tokens": 4490
+  }
+}

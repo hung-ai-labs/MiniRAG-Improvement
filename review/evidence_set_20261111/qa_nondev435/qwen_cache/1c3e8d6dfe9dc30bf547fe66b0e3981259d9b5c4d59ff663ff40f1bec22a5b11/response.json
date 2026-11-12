@@ -1,0 +1,17 @@
+{
+  "body_sha256": "1c3e8d6dfe9dc30bf547fe66b0e3981259d9b5c4d59ff663ff40f1bec22a5b11",
+  "finish_reason": "stop",
+  "latency_s": 12.122266750000563,
+  "prediction": "Based on the information provided, it appears that Wolfgang is aware of his upcoming business trip to Hong Kong. This is indicated in a message from WolfgangSchulz dated December 21st, 2026, where he informs the group that he will be \"off to Hong Kong for a couple of days next week.\" Additionally, his travel plans are shared with his friend LiHua in a separate message dated December 19th, 2026, where he mentions, \"Hey! Just a heads up, I'm off to Hong Kong for a couple of days next week. Anything you want me to grab while I'm there?\" Therefore, Wolfgang is not only traveling to Hong Kong but also informing his friends about his destination and possibly items he might need to pick up.",
+  "prediction_sha256": "d2882ec5cbfdcf86f64598d9e9745be138f383fdf25b9425e2bd18ffca154ff0",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 33,
+  "usage": {
+    "completion_tokens": 163,
+    "prompt_tokens": 4767,
+    "prompt_tokens_details": null,
+    "total_tokens": 4930
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "73e3de469efd113f6099f13958947b7f85f1719744e357bae551eec5ec683100",
+  "finish_reason": "stop",
+  "latency_s": 6.738045958998555,
+  "prediction": "Based on the conversation provided, Li Hua and JakeWatson have arranged a soccer practice session. Initially, Li Hua suggested meeting at the park on Saturday at 10 AM, but JakeWatson responded that this time works perfectly for him. Therefore, the planned meeting time for the soccer practice session is Saturday at 10 AM.",
+  "prediction_sha256": "24c9e0d521bbbfed0dce0b266cdfc4bb3eac74288f1f1766c8d0921c0e724bc4",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 181,
+  "usage": {
+    "completion_tokens": 71,
+    "prompt_tokens": 3128,
+    "prompt_tokens_details": null,
+    "total_tokens": 3199
+  }
+}

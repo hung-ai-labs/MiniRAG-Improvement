@@ -1,0 +1,17 @@
+{
+  "body_sha256": "7b70214dfe672926b6bfcc31bd1ccc4a2f581aaea4646e49c7586f6855867824",
+  "finish_reason": "stop",
+  "latency_s": 7.909513790997153,
+  "prediction": "Based on the information provided in the conversation, Li Hua has mentioned several times that he is available to train on specific days. Initially, Jennifer Moore suggests that they could train twice a week, focusing on efficiency and intensity. In the third interaction, they decide on Tuesdays and Thursdays as their training days. This pattern continues, with Li Hua consistently confirming his availability for training sessions on Tuesdays and Thursdays. Thus, the training sessions for Li Hua occur on Tuesdays and Thursdays.",
+  "prediction_sha256": "f380394657dbf64943eabae630ee493a4596e9da279e30fdbb9255d5bad7455a",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200073,
+  "usage": {
+    "completion_tokens": 103,
+    "prompt_tokens": 4625,
+    "prompt_tokens_details": null,
+    "total_tokens": 4728
+  }
+}

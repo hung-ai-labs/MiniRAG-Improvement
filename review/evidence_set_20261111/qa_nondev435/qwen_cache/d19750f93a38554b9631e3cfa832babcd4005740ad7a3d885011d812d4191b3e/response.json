@@ -1,0 +1,17 @@
+{
+  "body_sha256": "d19750f93a38554b9631e3cfa832babcd4005740ad7a3d885011d812d4191b3e",
+  "finish_reason": "stop",
+  "latency_s": 11.844908499999292,
+  "prediction": "In the conversation provided, it is mentioned that WolfgangSchulz had expressed a desire to bring snacks for the movie night, and LiHua confirmed that she would be picking up the snacks and drinks on her way to the movie. Specifically, WolfgangSchulz said, \"Just some soda and juice will be perfect. Can't wait for the movie night! 🚀🎥\" and LiHua responded, \"Cool! I'll pick them up on my way. See you soon! 🎉\". Thus, LiHua will be responsible for picking up the snacks and drinks on her way to the movie night.",
+  "prediction_sha256": "16a3908ce56e092f454e4310e1961b60fe2a8d6e0133d26af62a1f300b4944f3",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100307,
+  "usage": {
+    "completion_tokens": 128,
+    "prompt_tokens": 5252,
+    "prompt_tokens_details": null,
+    "total_tokens": 5380
+  }
+}

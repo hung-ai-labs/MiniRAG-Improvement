@@ -1,0 +1,17 @@
+{
+  "body_sha256": "0b19dc01072812ebad5a65cfeb5993a9ee36889299468c11b2bf026f95d707fc",
+  "finish_reason": "stop",
+  "latency_s": 10.615661541996815,
+  "prediction": " Li Hua requests Hailey Johnson to arrange for bread deliveries on specific days, which are Mondays and Fridays at 8am. This information is provided in the conversation with the ID 1, as follows:\n\n```\nLiHua: Hey Hailey! Your bread and milk are seriously amazing! 😋 Do you think you could send me some bread twice a week, like Mondays at 8am and Fridays at 8am? That would be awesome!\nHaileyJohnson: Thanks so much for the love! 💖 I’ll definitely set you up for Monday and Friday deliveries at 8am. Fresh bread and milk will be waiting for you! 🥖🥛 Can’t wait!\nLiHua: Awesome! Thanks, Hailey! Looking forward to it! 😄\nHaileyJohnson: You’re welcome! If you ever want to try something special or have any requests, just let me know. Enjoy! 🍞✨\n```\n\nIn summary, Li Hua asks for bread deliveries to start on Mondays and Fridays at 8am, which Hailey Johnson agrees to provide.",
+  "prediction_sha256": "c734742f427321e3a8c63018566c6589ebd7a873abbbe51a17adb4630b763b5d",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 200093,
+  "usage": {
+    "completion_tokens": 268,
+    "prompt_tokens": 4850,
+    "prompt_tokens_details": null,
+    "total_tokens": 5118
+  }
+}

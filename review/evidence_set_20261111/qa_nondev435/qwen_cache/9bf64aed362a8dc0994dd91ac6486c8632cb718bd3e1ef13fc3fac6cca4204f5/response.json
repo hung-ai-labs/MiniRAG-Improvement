@@ -1,0 +1,17 @@
+{
+  "body_sha256": "9bf64aed362a8dc0994dd91ac6486c8632cb718bd3e1ef13fc3fac6cca4204f5",
+  "finish_reason": "stop",
+  "latency_s": 19.479623416998948,
+  "prediction": "In the discussion about the upcoming soccer practice, Jasper offers to bring cones along with the ball. This indicates that he is willing to contribute additional equipment to enhance the practice session. Specifically, the conversation states:\n\n>Jasper: I’m in! Saturday afternoon works great for me. I could also use some practice on my shooting. Where do you want to meet?\nIvor: I'm down too! Just let us know the place, and we can get some practice in together. It's always nice to kick the ball around!\nAurora: Sounds awesome! How about we meet at the local park around 3 PM on Saturday? Let's bring some cones and have fun while working on our shots!\nIvor: 3 PM at the local park sounds perfect! I’ll bring a ball and some cones too. This should be a great way to improve our shooting skills while having a blast! Looking forward to it!\n\nSo, Jasper is offering to bring cones to the practice session.",
+  "prediction_sha256": "8826feae2a7321e7ac74944826a896e8f4228bbf85f3d2b3b38ee44398eb5338",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 363,
+  "usage": {
+    "completion_tokens": 200,
+    "prompt_tokens": 5053,
+    "prompt_tokens_details": null,
+    "total_tokens": 5253
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "c1d71d4b349d732d5675c927e4acb55355a34a13b07715a406e2b5cdf95a661f",
+  "finish_reason": "stop",
+  "latency_s": 9.598058999996283,
+  "prediction": "On January 8th, Li Hua invited Wolfgang to lunch at a cozy café downtown at 12:00 PM. However, the table entry related to their breakfast meeting is on January 8th, which indicates they were planning to meet for lunch rather than breakfast. Therefore, no specific breakfast meeting time is provided between Li Hua and Wolfgang from the given data.",
+  "prediction_sha256": "1716330e1e988df49904d92bae2284614c3c7e65874bca1838e60c70dff959c1",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200403,
+  "usage": {
+    "completion_tokens": 78,
+    "prompt_tokens": 4657,
+    "prompt_tokens_details": null,
+    "total_tokens": 4735
+  }
+}

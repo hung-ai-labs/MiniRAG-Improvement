@@ -1,0 +1,17 @@
+{
+  "body_sha256": "01575ba6576e59f1fa3a28e90e93e8ffbc05438aff3b5320cd286e5b79063531",
+  "finish_reason": "stop",
+  "latency_s": 9.47139949999837,
+  "prediction": "The bread delivery service was introduced by HaileyJohnson. Specifically, HaileyJohnson shared this service with LiHua, informing her about the convenience of doorstep delivery for fresh milk and bread. HaileyJohnson recommended Alice to assist with doorstep delivery service for milk and bread, highlighting Alice's friendly demeanor and her role in handling orders every Monday and Friday at 8 AM. Alice was described as \"super friendly\" and was assigned to deliver bread and milk to customers.",
+  "prediction_sha256": "8e6b1667b94b82cd340531fd257089376ae72d58903dba51db84019ab672683b",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100035,
+  "usage": {
+    "completion_tokens": 94,
+    "prompt_tokens": 4464,
+    "prompt_tokens_details": null,
+    "total_tokens": 4558
+  }
+}

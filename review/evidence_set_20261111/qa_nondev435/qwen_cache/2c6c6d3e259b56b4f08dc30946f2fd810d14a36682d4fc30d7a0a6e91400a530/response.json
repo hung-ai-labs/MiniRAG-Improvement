@@ -1,0 +1,17 @@
+{
+  "body_sha256": "2c6c6d3e259b56b4f08dc30946f2fd810d14a36682d4fc30d7a0a6e91400a530",
+  "finish_reason": "stop",
+  "latency_s": 10.695738666996476,
+  "prediction": "There is no mention of a cake or any specific item Li Hua plans to bring to the meeting with Yuriko related to her studio's homepage redesign. The conversation focuses primarily on discussing and testing new features for the homepage, such as automatically scheduling available time and adding a user feedback section. There is no indication of a celebration or any items Li Hua plans to bring to a meeting with Yuriko.",
+  "prediction_sha256": "ca7e5ee0640abec7b417f08b69dd7e3a0c644014861f9818d896b422cf4478aa",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 416,
+  "usage": {
+    "completion_tokens": 84,
+    "prompt_tokens": 4791,
+    "prompt_tokens_details": null,
+    "total_tokens": 4875
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "2d2a30e10150b360dc3d2a3a5e30d5eb3bd758a36568d339be6edbe91547682d",
+  "finish_reason": "stop",
+  "latency_s": 8.752418209001917,
+  "prediction": "Based on the conversation, Li Hua specified an address for the bread delivery she received on March 14, 2026. In that instance, Li Hua informed Hailey Johnson that her address is \"123 Sunny Street.\" Therefore, the address where Li Hua wants the bread delivery to be made is 123 Sunny Street.",
+  "prediction_sha256": "e9c9ff19a882454e259f2470167731870f18619b17b590060d0759e55e9efa96",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 94,
+  "usage": {
+    "completion_tokens": 75,
+    "prompt_tokens": 4281,
+    "prompt_tokens_details": null,
+    "total_tokens": 4356
+  }
+}

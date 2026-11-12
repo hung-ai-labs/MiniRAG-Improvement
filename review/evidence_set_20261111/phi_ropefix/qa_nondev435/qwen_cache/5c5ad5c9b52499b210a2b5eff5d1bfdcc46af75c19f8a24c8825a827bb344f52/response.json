@@ -1,0 +1,17 @@
+{
+  "body_sha256": "5c5ad5c9b52499b210a2b5eff5d1bfdcc46af75c19f8a24c8825a827bb344f52",
+  "finish_reason": "stop",
+  "latency_s": 8.774577208001574,
+  "prediction": " Hailey Johnson starts her baking process very early in the morning, around 4 AM. This routine ensures that all the bread and pastries are fresh and ready for the day. She mentioned this during a conversation with Li Hua, who expressed interest in learning more about the baking process and possibly visiting the bakery to witness it firsthand. Hailey Johnson offered the idea of Li Hua visiting the bakery to observe the baking process, indicating that such an opportunity might be arranged if Li Hua shows interest.\n\nBelow is the information formatted in markdown:\n\n```markdown\nHailey Johnson begins her baking at 4 AM to ensure freshness and readiness for the day's service. She has the opportunity to show Li Hua the baking process, should Li Hua express interest in such a visit.\n```",
+  "prediction_sha256": "3481bad19c062634e16e5a732914192d2b78d46ec348cc4e5edd5904bc3418d3",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 96,
+  "usage": {
+    "completion_tokens": 183,
+    "prompt_tokens": 5144,
+    "prompt_tokens_details": null,
+    "total_tokens": 5327
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "fa06b834d63b59b79a5becb58b65e098d60e7857811385211dd28c89af3a6e57",
+  "finish_reason": "stop",
+  "latency_s": 12.13767379100318,
+  "prediction": "In one of the recorded conversations, ThaneChambers expressed enthusiasm about the upcoming updates in \"Call of Duty: Warzone.\" Specifically, he mentioned looking forward to the updates and hoped that they would introduce fresh maps and modes, thereby making the gameplay experience more exciting. ThaneChambers also suggested that the updates could potentially shake things up, bringing in new features that would make the game more dynamic and engaging. He invited Li Hua to join him in diving back into the game when the updates were released, indicating his excitement about the new content.",
+  "prediction_sha256": "6b26fd1223547e50d4048e70991f68271d43b17ce5abc8ac15063c32d354321b",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 243,
+  "usage": {
+    "completion_tokens": 114,
+    "prompt_tokens": 4830,
+    "prompt_tokens_details": null,
+    "total_tokens": 4944
+  }
+}

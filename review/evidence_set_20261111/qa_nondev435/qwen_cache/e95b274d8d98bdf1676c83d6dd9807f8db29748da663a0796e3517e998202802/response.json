@@ -1,0 +1,17 @@
+{
+  "body_sha256": "e95b274d8d98bdf1676c83d6dd9807f8db29748da663a0796e3517e998202802",
+  "finish_reason": "stop",
+  "latency_s": 12.031570875002217,
+  "prediction": "In the conversation shared in Source 2, Li Hua mentions having an \"unexpected work meeting tomorrow.\" However, this does not specify the exact reason for the meeting. The source only provides the time of the meeting (Thursday afternoon) and Li Hua's proposed time of 10:00 AM, which was accepted by Jennifer Moore. Therefore, without additional context from Li Hua, it is not possible to determine the specific reason for the unexpected work meeting.",
+  "prediction_sha256": "c83c5002c0a93bb89f76e4b030358520288beab49657aceeb19531081f4f1a1a",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200419,
+  "usage": {
+    "completion_tokens": 96,
+    "prompt_tokens": 4592,
+    "prompt_tokens_details": null,
+    "total_tokens": 4688
+  }
+}

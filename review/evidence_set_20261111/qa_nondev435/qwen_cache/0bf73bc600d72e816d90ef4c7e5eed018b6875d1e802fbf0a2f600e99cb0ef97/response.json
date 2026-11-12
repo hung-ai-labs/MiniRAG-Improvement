@@ -1,0 +1,17 @@
+{
+  "body_sha256": "0bf73bc600d72e816d90ef4c7e5eed018b6875d1e802fbf0a2f600e99cb0ef97",
+  "finish_reason": "stop",
+  "latency_s": 8.563839375001407,
+  "prediction": "According to the conversation between WolfgangSchulz and LiHua on 20260905_14:00, WolfgangSchulz expressed feeling under a lot of pressure due to the new software project he is working on. He described it as \"really pushing me to my limits\" and mentioned feeling like he was \"in a pressure cooker.\" LiHua empathized with Wolfgang's feelings, reassuring him that he is \"super talented\" and encouraging him to stay focused on taking things one step at a time.",
+  "prediction_sha256": "3b7feccebf1a0f3ea0bf2173ed3aebafdb93fbb08edbe7a4bee81dfc94435bd2",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100191,
+  "usage": {
+    "completion_tokens": 111,
+    "prompt_tokens": 5014,
+    "prompt_tokens_details": null,
+    "total_tokens": 5125
+  }
+}

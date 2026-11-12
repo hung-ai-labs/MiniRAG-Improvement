@@ -1,0 +1,17 @@
+{
+  "body_sha256": "15101a1568da87d5d513047c3e8253f8cb22b8db6c2cd0a40de428a90c481729",
+  "finish_reason": "stop",
+  "latency_s": 8.9271712080008,
+  "prediction": "In a conversation with LiHua, Emily expresses her appreciation for the way the series focuses on character development and backstory, saying, \"The emphasis on character development and their backstories feels like we’re really getting to know them!\" This indicates that Emily particularly enjoys the series because it provides insight into the personalities and histories of the characters, allowing viewers to connect with them on a deeper level.",
+  "prediction_sha256": "7f4f56102b9c261dda22866faf52a92bb527420d50cb02f166f6464cb14eb492",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100266,
+  "usage": {
+    "completion_tokens": 79,
+    "prompt_tokens": 4494,
+    "prompt_tokens_details": null,
+    "total_tokens": 4573
+  }
+}

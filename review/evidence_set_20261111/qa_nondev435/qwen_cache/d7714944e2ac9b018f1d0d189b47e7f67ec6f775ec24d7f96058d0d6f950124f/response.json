@@ -1,0 +1,17 @@
+{
+  "body_sha256": "d7714944e2ac9b018f1d0d189b47e7f67ec6f775ec24d7f96058d0d6f950124f",
+  "finish_reason": "stop",
+  "latency_s": 12.097731458001363,
+  "prediction": "According to the conversations, there are two instances of power outages mentioned. One is scheduled for 2pm to 3pm on the same day (as indicated by the context \"Today\" in the timestamps), and the other is scheduled for the afternoon of the next day (indicated by \"Tomorrow\" in the context). Given the lack of specific day information, it's unclear whether the first or second outage is currently occurring. However, based on the provided information, the power outages occur at 2pm to 3pm either on the current day or the following day.",
+  "prediction_sha256": "70dc3178f16b0a797e6201948a50c30abf008798a5d5e80380523d7515479086",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200090,
+  "usage": {
+    "completion_tokens": 119,
+    "prompt_tokens": 4992,
+    "prompt_tokens_details": null,
+    "total_tokens": 5111
+  }
+}

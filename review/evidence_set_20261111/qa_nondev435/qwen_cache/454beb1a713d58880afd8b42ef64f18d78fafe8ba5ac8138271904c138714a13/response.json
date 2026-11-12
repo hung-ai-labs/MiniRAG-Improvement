@@ -1,0 +1,17 @@
+{
+  "body_sha256": "454beb1a713d58880afd8b42ef64f18d78fafe8ba5ac8138271904c138714a13",
+  "finish_reason": "stop",
+  "latency_s": 11.572226249998494,
+  "prediction": "In one of the interactions, Li Hua expressed interest in receiving bread more frequently. Specifically, in Interaction ID 4 dated March 27, 2026, Li Hua stated, \"I’d love to try some of that fresh bread. Do you have any recommendations on the best types? Also, how often do you do deliveries?\" Hailey Johnson responded positively, saying, \"As for deliveries, I can do it a couple of times a week, depending on what you need. I can also arrange a regular schedule for you if that works better!\" This indicates that Li Hua suggested having a bread delivery twice a week, which Hailey agreed to.",
+  "prediction_sha256": "351b83dfa40e250bc2f66dc44850ae67322ab034ccbf7eec7f21cc20a26e37b5",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200098,
+  "usage": {
+    "completion_tokens": 138,
+    "prompt_tokens": 4580,
+    "prompt_tokens_details": null,
+    "total_tokens": 4718
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "16b8abc4f1c2b79c63f5ef4a0069078314fb149a4ed4284af2d4c44af0f8d962",
+  "finish_reason": "stop",
+  "latency_s": 8.65473341600591,
+  "prediction": "According to the conversation, Li Hua's next fitness plan focus involves enhancing her endurance and increasing her strength. This was highlighted in a previous discussion where Jennifer suggested incorporating longer cardio sessions and interval training into Li Hua's routine. Additionally, Jennifer recommended adding more resistance training and dedicating some sessions to stretching or yoga to improve flexibility. Li Hua expressed interest in focusing more on these areas, and Jennifer agreed to adjust the current workout plan accordingly.",
+  "prediction_sha256": "54846875269b2cb9d0c6fd8304ee821c4a93f784e666e62e19420d391641c42d",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100,
+  "usage": {
+    "completion_tokens": 91,
+    "prompt_tokens": 4367,
+    "prompt_tokens_details": null,
+    "total_tokens": 4458
+  }
+}

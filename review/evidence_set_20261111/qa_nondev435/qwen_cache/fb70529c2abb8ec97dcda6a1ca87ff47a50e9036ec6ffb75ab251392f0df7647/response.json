@@ -1,0 +1,17 @@
+{
+  "body_sha256": "fb70529c2abb8ec97dcda6a1ca87ff47a50e9036ec6ffb75ab251392f0df7647",
+  "finish_reason": "stop",
+  "latency_s": 6.192660667002201,
+  "prediction": "There isn't any mention of Li Hua sending a follow-up message to Jennifer Moore regarding his latest sleeping schedule. In the conversations shared, Jennifer does ask Li Hua about his sleeping habits, but no prior communication related to this query is evident. This implies that Jennifer directly inquired about his sleeping pattern without any prior exchange.",
+  "prediction_sha256": "3ab7b68ec9cb815f58a43a14fe667529a46d11f8c93ca64014dc8ffb2d4fb4a0",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200051,
+  "usage": {
+    "completion_tokens": 67,
+    "prompt_tokens": 4376,
+    "prompt_tokens_details": null,
+    "total_tokens": 4443
+  }
+}

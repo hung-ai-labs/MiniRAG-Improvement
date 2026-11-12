@@ -1,0 +1,17 @@
+{
+  "body_sha256": "99e3cfa063f997142415ae3e1e58d137983ad7510a45103453653f88daa87a90",
+  "finish_reason": "stop",
+  "latency_s": 7.099297000000661,
+  "prediction": "Based on the conversations recorded, LiHua typically opts for a protein shake and a fruit smoothie after a game. However, she has expressed interest in trying a new recovery snack suggested by Jake Watson. Specifically, Jake recommended a banana with peanut butter as a good option for quick refueling and hydration post-game. LiHua seemed intrigued by this suggestion, indicating her willingness to experiment with different recovery snacks.",
+  "prediction_sha256": "80c48df60147b79c6b95e8dea36a512dcaa56030fcdfe7e02470b726ad54c600",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 390,
+  "usage": {
+    "completion_tokens": 83,
+    "prompt_tokens": 4438,
+    "prompt_tokens_details": null,
+    "total_tokens": 4521
+  }
+}

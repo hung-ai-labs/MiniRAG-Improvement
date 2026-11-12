@@ -1,0 +1,17 @@
+{
+  "body_sha256": "5d38b7ee59cd12782adae3817a1898c7487a5b2eec18634d1af0169930d3f613",
+  "finish_reason": "stop",
+  "latency_s": 10.86144024999885,
+  "prediction": "No, based on the messages provided, there is no indication that Li Hua thanked Jennifer for the new training schedule before he requested a change for Thursday. In the sequence of messages, Li Hua first expresses his excitement about the new training schedule, followed by his request to change the training session from Thursday to Friday. There is no message in between expressing gratitude and requesting a change.",
+  "prediction_sha256": "794048aeefbbc41199b3d1daa3f8b176c20e71d05f55cc16e1a0308a0314e2f4",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100015,
+  "usage": {
+    "completion_tokens": 78,
+    "prompt_tokens": 4480,
+    "prompt_tokens_details": null,
+    "total_tokens": 4558
+  }
+}

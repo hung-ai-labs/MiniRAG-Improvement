@@ -1,0 +1,17 @@
+{
+  "body_sha256": "80e70672eafceb0de9122c07cc15ecd57f6719ffacc1025e1e79cd5182bf25d3",
+  "finish_reason": "stop",
+  "latency_s": 6.640416042002471,
+  "prediction": "On June 30, 2026, Jennifer provides a tip to the gym members regarding hydration during workouts. Specifically, she suggests that staying hydrated is very important and recommends tracking one's water intake throughout the day. Jennifer encourages everyone to motivate each other and mentions that proper hydration can enhance one's energy levels and performance.",
+  "prediction_sha256": "a76f1fa94e856e6fda00e409f2dde0d26a1135f8a41c15fedd99c4bb988a5e10",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100145,
+  "usage": {
+    "completion_tokens": 68,
+    "prompt_tokens": 4654,
+    "prompt_tokens_details": null,
+    "total_tokens": 4722
+  }
+}

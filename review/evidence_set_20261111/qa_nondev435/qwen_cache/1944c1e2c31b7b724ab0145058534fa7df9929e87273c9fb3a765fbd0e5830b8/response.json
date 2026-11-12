@@ -1,0 +1,17 @@
+{
+  "body_sha256": "1944c1e2c31b7b724ab0145058534fa7df9929e87273c9fb3a765fbd0e5830b8",
+  "finish_reason": "stop",
+  "latency_s": 12.55063654100013,
+  "prediction": "Based on the conversation provided, Li Hua did not initially mention to Wolfgang that he had made a new friend named Yuriko before the group planned to attend the local music festival. The initial interaction between Li Hua and Wolfgang focused on organizing future jam sessions and discussing potential band performances at the festival. Specifically, Wolfgang expressed interest in attending the music festival and suggested they should keep their jam sessions on Sundays to make the most of those sessions, aligning with Li Hua's plans. It was only after Yuriko introduced herself to the group and expressed interest in joining the jam sessions that Li Hua informed Wolfgang about his new friend Yuriko. This information came later during the conversation regarding the upcoming music festival.",
+  "prediction_sha256": "3823762119d57f7d7006f49781eb44e58eb3b6f7b19fa5acb82525ccd3dd2936",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100054,
+  "usage": {
+    "completion_tokens": 146,
+    "prompt_tokens": 4062,
+    "prompt_tokens_details": null,
+    "total_tokens": 4208
+  }
+}

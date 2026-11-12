@@ -1,0 +1,17 @@
+{
+  "body_sha256": "b82a6271e82453d07086f6f4d27176bd265f7af2b7b402bbf2a59533fbd3a396",
+  "finish_reason": "stop",
+  "latency_s": 6.99064920800447,
+  "prediction": " Jasper mentions a recent match played by Manchester City against Chelsea in the Premier League. This information is derived from the conversation where Jasper states, \"Hey everyone, I just finished watching Manchester City’s latest match against Chelsea in the Premier League. The way they controlled the game was outstanding! Phil Foden's goal was a stunner too!\"\n\nIn the context of the discussion, this match was highlighted as a demonstration of Manchester City's strong performance, particularly in their control over the game and the impressive contribution from Phil Foden. The group members express their admiration for the match details shared by Jasper, indicating that they are aware of the match's significance and the performance aspects that were noteworthy.",
+  "prediction_sha256": "e572d739ea7f988a44209323b20be8d1101b727e8601f4e0f90e009991a9111e",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 200302,
+  "usage": {
+    "completion_tokens": 160,
+    "prompt_tokens": 4801,
+    "prompt_tokens_details": null,
+    "total_tokens": 4961
+  }
+}

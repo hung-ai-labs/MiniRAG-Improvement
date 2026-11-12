@@ -1,0 +1,17 @@
+{
+  "body_sha256": "d9eef7efd2605c60f9d06fc4643d05da037dd76d3aef32943ace6385e105e435",
+  "finish_reason": "stop",
+  "latency_s": 9.785651250000228,
+  "prediction": "According to their conversation on 20261017, LiHua and Wolfgang discussed their plans for a pizza night. Wolfgang mentioned he was interested in trying a new place downtown for pizza that had received good reviews. LiHua agreed and suggested they plan a pizza night soon to try some new flavors together. Wolfgang proposed they meet at LiHua's place and set everything up, indicating their intention to gather supplies and spend the day enjoying the culinary experience.",
+  "prediction_sha256": "d05bf8da79f03cbfa3ace2a5c0d77df5a7e3f7130dc87f07a11ac069e47315b7",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 367,
+  "usage": {
+    "completion_tokens": 97,
+    "prompt_tokens": 5465,
+    "prompt_tokens_details": null,
+    "total_tokens": 5562
+  }
+}

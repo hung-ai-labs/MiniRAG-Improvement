@@ -1,0 +1,17 @@
+{
+  "body_sha256": "304bb6ff3c44ebd48d39e3def450e471b261db11a5c9e7068753975b637fcc3f",
+  "finish_reason": "stop",
+  "latency_s": 6.374184916996455,
+  "prediction": "According to the records, there are two instances of power outages mentioned. One is scheduled for 2 pm to 3 pm today, and the other is planned for the afternoon of the next day. Both events are associated with maintenance work.",
+  "prediction_sha256": "e7e63a7f1eee5b193468ace41ab3ec7dd49d053b53bb0c7d1effe738d91684a4",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200090,
+  "usage": {
+    "completion_tokens": 50,
+    "prompt_tokens": 4921,
+    "prompt_tokens_details": null,
+    "total_tokens": 4971
+  }
+}

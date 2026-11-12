@@ -1,0 +1,17 @@
+{
+  "body_sha256": "b72ef0968db7a9fd4b37cc41e7fd94862e8710907d8b1e7557a7c1a9e12efbae",
+  "finish_reason": "stop",
+  "latency_s": 8.453105541004334,
+  "prediction": " According to the conversation between LiHua and Yuriko, the Freelancer Group Meeting is scheduled for Wednesday at 3 pm. Yuriko confirms her attendance and expresses excitement about the gathering, mentioning her plans to share new therapy techniques and discuss work-life balance tips, which are of interest to the group. This information is derived directly from their exchange where LiHua greets Yuriko and asks if she's planning to attend, to which Yuriko replies affirmatively and positively about the meeting. The specific date in June 2026 is provided in a timestamp format, \"20260608_14:30,\" indicating the meeting's timing on that day.\n\nIn markdown format, the extracted information can be summarized as follows:\n\n```\nThe Freelancer Group Meeting is scheduled for **Wednesday at 3 pm on June 8, 2026**.\n```",
+  "prediction_sha256": "e8f6fa36f1a64e7e49dd256ce0f8840d97e5b78bb37a0a42320d587b4de64ef3",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 100133,
+  "usage": {
+    "completion_tokens": 216,
+    "prompt_tokens": 4351,
+    "prompt_tokens_details": null,
+    "total_tokens": 4567
+  }
+}

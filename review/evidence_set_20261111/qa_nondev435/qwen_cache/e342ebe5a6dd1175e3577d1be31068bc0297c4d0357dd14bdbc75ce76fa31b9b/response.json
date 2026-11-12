@@ -1,0 +1,17 @@
+{
+  "body_sha256": "e342ebe5a6dd1175e3577d1be31068bc0297c4d0357dd14bdbc75ce76fa31b9b",
+  "finish_reason": "stop",
+  "latency_s": 10.035499375000654,
+  "prediction": "Jake Watson recommends several types of exercises for strength training, based on the conversations he has had with Li Hua. In one interaction, Jake suggests squats and lunges as particularly beneficial for leg strength, which can enhance power on the field. He also mentions planks as an effective core-strengthening exercise. Additionally, Jake recommends including balance exercises like single-leg stands, noting that they can provide significant benefits for overall stability and endurance. Overall, Jake advocates for a combination of bodyweight exercises, such as squats and planks, to build muscle strength and improve overall performance.",
+  "prediction_sha256": "2ca31f5afd1fd6da053a15ddc7a5c2c6fe0211cb093db944719f12e55699fbd4",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 209,
+  "usage": {
+    "completion_tokens": 119,
+    "prompt_tokens": 3926,
+    "prompt_tokens_details": null,
+    "total_tokens": 4045
+  }
+}

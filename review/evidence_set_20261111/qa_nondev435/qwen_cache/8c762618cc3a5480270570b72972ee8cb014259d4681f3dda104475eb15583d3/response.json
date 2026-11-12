@@ -1,0 +1,17 @@
+{
+  "body_sha256": "8c762618cc3a5480270570b72972ee8cb014259d4681f3dda104475eb15583d3",
+  "finish_reason": "stop",
+  "latency_s": 12.888006665998546,
+  "prediction": "Based on the information provided, the name of the bakery that Li Hua gets her bread from is Hailey's Bakery, which is referred to as Hailey's Bakery in multiple contexts. For Li Hua's next delivery, no specific toppings were mentioned; however, the bakery typically recommends trying the rosemary focaccia. This recommendation includes suggestions such as a drizzle of olive oil and a sprinkle of sea salt, as well as topping it with cherry tomatoes or olives for additional flavor. Thus, while the exact toppings for Li Hua's next delivery are not specified, the rosemary focaccia is suggested with the above-mentioned additions.",
+  "prediction_sha256": "b3cd16f219d431a8b11824db1c87351d0403bffc348705993328ea8a66e9f2b0",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200420,
+  "usage": {
+    "completion_tokens": 133,
+    "prompt_tokens": 4949,
+    "prompt_tokens_details": null,
+    "total_tokens": 5082
+  }
+}

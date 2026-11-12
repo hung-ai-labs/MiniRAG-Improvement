@@ -1,0 +1,17 @@
+{
+  "body_sha256": "d6692d53fdbd3995057e2cf8779ab0c538d7f9a7edc168b188be150d2a2d81ee",
+  "finish_reason": "stop",
+  "latency_s": 8.592796166994958,
+  "prediction": "Based on the conversation between LiHua and WolfgangSchulz, LiHua expresses positive sentiments about the seafood in Cinque Terre. WolfgangSchulz mentions that he has heard that the seafood in Cinque Terre is described as \"supposed to be fresh and delicious.\" This indicates that LiHua likely shares a similar sentiment about the quality of seafood in this coastal area.",
+  "prediction_sha256": "370db07636fa56aad0c8a9ed9d668921af140ad3a1ed4162d0554c4e31d64c31",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100402,
+  "usage": {
+    "completion_tokens": 80,
+    "prompt_tokens": 3875,
+    "prompt_tokens_details": null,
+    "total_tokens": 3955
+  }
+}

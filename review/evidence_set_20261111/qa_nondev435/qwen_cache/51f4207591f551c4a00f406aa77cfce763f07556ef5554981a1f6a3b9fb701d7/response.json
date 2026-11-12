@@ -1,0 +1,17 @@
+{
+  "body_sha256": "51f4207591f551c4a00f406aa77cfce763f07556ef5554981a1f6a3b9fb701d7",
+  "finish_reason": "stop",
+  "latency_s": 10.171590916994319,
+  "prediction": "In the conversation provided, WolfgangSchulz suggests checking with friends for live music performances. Specifically, WolfgangSchulz mentions, \"Hey! Got an extra ticket for a concert on March 7th at 6 PM. Wanna join me? Would be awesome to catch up and enjoy some live music!\" This indicates that WolfgangSchulz proposes checking with others to see if there are any live music performances they would like to attend.",
+  "prediction_sha256": "27867da2db034f2b8db4321b9b8c7adf36c26d0b9de5a71be70c6fb054e979a5",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 342,
+  "usage": {
+    "completion_tokens": 89,
+    "prompt_tokens": 5220,
+    "prompt_tokens_details": null,
+    "total_tokens": 5309
+  }
+}

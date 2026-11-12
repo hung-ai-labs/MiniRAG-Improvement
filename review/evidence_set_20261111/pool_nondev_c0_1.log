@@ -1,0 +1,47 @@
+python-dotenv could not parse statement starting at line 4
+python-dotenv could not parse statement starting at line 6
+python-dotenv could not parse statement starting at line 7
+python-dotenv could not parse statement starting at line 8
+python-dotenv could not parse statement starting at line 9
+INFO:nano-vectordb:Load (1425, 384) data
+INFO:nano-vectordb:Init {'embedding_dim': 384, 'metric': 'cosine', 'storage_file': '/var/folders/1w/ww5v892s6xn284xgnjq4zyym0000gn/T/evidence-set-pool-vme9rzsi/vdb_entities.json'} 1425 data
+INFO:nano-vectordb:Load (1425, 384) data
+INFO:nano-vectordb:Init {'embedding_dim': 384, 'metric': 'cosine', 'storage_file': '/var/folders/1w/ww5v892s6xn284xgnjq4zyym0000gn/T/evidence-set-pool-vme9rzsi/vdb_entities_name.json'} 1425 data
+INFO:nano-vectordb:Load (1509, 384) data
+INFO:nano-vectordb:Init {'embedding_dim': 384, 'metric': 'cosine', 'storage_file': '/var/folders/1w/ww5v892s6xn284xgnjq4zyym0000gn/T/evidence-set-pool-vme9rzsi/vdb_relationships.json'} 1509 data
+INFO:nano-vectordb:Load (514, 384) data
+INFO:nano-vectordb:Init {'embedding_dim': 384, 'metric': 'cosine', 'storage_file': '/var/folders/1w/ww5v892s6xn284xgnjq4zyym0000gn/T/evidence-set-pool-vme9rzsi/vdb_chunks.json'} 514 data
+{"split": "nondev", "shard": 1, "question_index": 10, "total": 435}
+{"split": "nondev", "shard": 1, "question_index": 30, "total": 435}
+{"split": "nondev", "shard": 1, "question_index": 50, "total": 435}
+{"split": "nondev", "shard": 1, "question_index": 70, "total": 435}
+{"split": "nondev", "shard": 1, "question_index": 90, "total": 435}
+{"split": "nondev", "shard": 1, "question_index": 110, "total": 435}
+{"split": "nondev", "shard": 1, "question_index": 130, "total": 435}
+{"split": "nondev", "shard": 1, "question_index": 150, "total": 435}
+{"split": "nondev", "shard": 1, "question_index": 170, "total": 435}
+{"split": "nondev", "shard": 1, "question_index": 190, "total": 435}
+{"split": "nondev", "shard": 1, "question_index": 210, "total": 435}
+{"split": "nondev", "shard": 1, "question_index": 230, "total": 435}
+{"split": "nondev", "shard": 1, "question_index": 250, "total": 435}
+{"split": "nondev", "shard": 1, "question_index": 270, "total": 435}
+{"split": "nondev", "shard": 1, "question_index": 290, "total": 435}
+{"split": "nondev", "shard": 1, "question_index": 310, "total": 435}
+{"split": "nondev", "shard": 1, "question_index": 330, "total": 435}
+{"split": "nondev", "shard": 1, "question_index": 350, "total": 435}
+{"split": "nondev", "shard": 1, "question_index": 370, "total": 435}
+'embedding_dim': 384, 'metric': 'cosine', 'storage_file': '/var/folders/1w/ww5v892s6xn284xgnjq4zyym0000gn/T/evidence-set-pool-b91t23aw/vdb_relationships.json'} 1509 data
+INFO:nano-vectordb:Load (514, 384) data
+INFO:nano-vectordb:Init {'embedding_dim': 384, 'metric': 'cosine', 'storage_file': '/var/folders/1w/ww5v892s6xn284xgnjq4zyym0000gn/T/evidence-set-pool-b91t23aw/vdb_chunks.json'} 514 data
+{"split": "nondev", "shard": 1, "question_index": 150, "total": 435}
+{"split": "nondev", "shard": 1, "question_index": 170, "total": 435}
+{"split": "nondev", "shard": 1, "question_index": 190, "total": 435}
+{"split": "nondev", "shard": 1, "question_index": 210, "total": 435}
+{"split": "nondev", "shard": 1, "question_index": 230, "total": 435}
+{"split": "nondev", "shard": 1, "question_index": 250, "total": 435}
+{"split": "nondev", "shard": 1, "question_index": 270, "total": 435}
+{"split": "nondev", "shard": 1, "question_index": 290, "total": 435}
+{"split": "nondev", "shard": 1, "question_index": 310, "total": 435}
+{"split": "nondev", "shard": 1, "question_index": 330, "total": 435}
+{"split": "nondev", "shard": 1, "question_index": 350, "total": 435}
+{"split": "nondev", "shard": 1, "question_index": 370, "total": 435}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "252528369d683a179382ab23c56c26d672d887e276a9bbebe7272152dd663adf",
+  "finish_reason": "stop",
+  "latency_s": 6.665615499998239,
+  "prediction": "According to the conversation, Barça lost 4-0 against Bayern Munich in the 2013 UEFA Champions League (UCL) final. This match is referenced as one of the classic matches between Barça and Bayern that LiHua and JakeWatson discussed.",
+  "prediction_sha256": "cbc8bd62fa1fde9c4bc5f6613cf852001cef5dd5c10f9f74db30f76174100414",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 294,
+  "usage": {
+    "completion_tokens": 57,
+    "prompt_tokens": 3658,
+    "prompt_tokens_details": null,
+    "total_tokens": 3715
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "a3c73da94b10b35ac9f0765a1b186495e407c5665f869ac5272a7432586c40ce",
+  "finish_reason": "stop",
+  "latency_s": 5.285038958001678,
+  "prediction": "On a specific day, Wolfgang and Li Hua were discussing their plans for desserts after their hot pot dinner. However, there is no detailed mention of the dessert Wolfgang planned to have with Li Hua after their hot pot dinner in the provided data. The records available only indicate that they discussed dessert options, but the exact dessert Wolfgang had in mind is not specified.",
+  "prediction_sha256": "84fee4061750207209253a97a509d88d5044d9a7b57a2655aabed1ba4bf0a349",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 441,
+  "usage": {
+    "completion_tokens": 74,
+    "prompt_tokens": 4619,
+    "prompt_tokens_details": null,
+    "total_tokens": 4693
+  }
+}

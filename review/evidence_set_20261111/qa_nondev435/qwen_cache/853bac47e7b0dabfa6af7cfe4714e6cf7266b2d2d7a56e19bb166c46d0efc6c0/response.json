@@ -1,0 +1,17 @@
+{
+  "body_sha256": "853bac47e7b0dabfa6af7cfe4714e6cf7266b2d2d7a56e19bb166c46d0efc6c0",
+  "finish_reason": "stop",
+  "latency_s": 11.143955291998282,
+  "prediction": "In the provided conversation, Adam Smith is the one who invites Li Hua to join the community bake sale. This invitation is part of a series of interactions where Adam and Li Hua discuss various community events and activities. Specifically, the timeline entry for March 12th, 2026, shows Adam reminding Li Hua about the upcoming community bake sale event, which is scheduled for a Sunday at 3 PM to support a local charity.",
+  "prediction_sha256": "9891987778dc1e71ce9ecae098a8e531a318d14ff1ede3ac1fdb5c587c3de62e",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 92,
+  "usage": {
+    "completion_tokens": 93,
+    "prompt_tokens": 4475,
+    "prompt_tokens_details": null,
+    "total_tokens": 4568
+  }
+}

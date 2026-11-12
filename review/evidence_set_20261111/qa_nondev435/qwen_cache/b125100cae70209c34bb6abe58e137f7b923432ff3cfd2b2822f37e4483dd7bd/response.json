@@ -1,0 +1,17 @@
+{
+  "body_sha256": "b125100cae70209c34bb6abe58e137f7b923432ff3cfd2b2822f37e4483dd7bd",
+  "finish_reason": "stop",
+  "latency_s": 15.818837375001749,
+  "prediction": "In the conversation recorded in Source 13 dated March 8, 2026, Li Hua inquires about the frequency of bread deliveries, specifically asking if they occur \"a couple of times a week, depending on what you need.\" Hailey responds positively, stating, \"I can do it a couple of times a week, depending on what you need.\" This indicates that Li Hua prefers a delivery schedule that can vary between two to three times per week. Additionally, Hailey mentions that she can arrange a regular schedule for Li Hua if that suits her better. Thus, Li Hua's preference is for a flexible delivery schedule, with at least two to three deliveries per week.",
+  "prediction_sha256": "9e7dddc93c0ef4a869fdffa6ca86f7871bd9e5661bedbb13de9a7ba26ab9a47e",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200098,
+  "usage": {
+    "completion_tokens": 144,
+    "prompt_tokens": 4580,
+    "prompt_tokens_details": null,
+    "total_tokens": 4724
+  }
+}

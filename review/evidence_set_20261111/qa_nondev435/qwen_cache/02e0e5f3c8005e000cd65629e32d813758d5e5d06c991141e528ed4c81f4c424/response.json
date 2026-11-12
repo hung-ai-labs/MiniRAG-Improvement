@@ -1,0 +1,17 @@
+{
+  "body_sha256": "02e0e5f3c8005e000cd65629e32d813758d5e5d06c991141e528ed4c81f4c424",
+  "finish_reason": "stop",
+  "latency_s": 10.768920167000033,
+  "prediction": "In one of the entries, Li Hua mentioned that she had a broken water tap in her apartment and requested assistance from Adam Smith. Specifically, Li Hua stated, \"Hey Adam, just wanted to let you know that the water tab in the apartment is broken. Could you please help me out with that? Thanks!\" Although there wasn't a detailed scheduling request made, Adam Smith assured Li Hua, \"I'll arrange for someone to take a look at it as soon as possible.\" Therefore, it appears that Li Hua did not specify a particular time for the repair, and Adam Smith was willing to handle it promptly.",
+  "prediction_sha256": "6046dbb2ae6836318df47b89fc390ebb28d4d72805668493920ed4819f9d5c3f",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100117,
+  "usage": {
+    "completion_tokens": 128,
+    "prompt_tokens": 4009,
+    "prompt_tokens_details": null,
+    "total_tokens": 4137
+  }
+}

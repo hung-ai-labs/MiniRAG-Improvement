@@ -1,0 +1,17 @@
+{
+  "body_sha256": "2c1fed8cbad682536ac41507fe0e4b86c3f88408defa974820260ef7acc24ba0",
+  "finish_reason": "stop",
+  "latency_s": 10.4483524999996,
+  "prediction": "During the discussion about the upcoming bonfire singing party, Li Hua agreed to bring her guitar to the event. This was mentioned in the first source entry, which states, \"LiHua: I'd love to join. I'll bring my guitar! See you tomorrow at 9! 🔥🎸\". Li Hua's enthusiastic participation and contribution to the party highlights her commitment to making the event enjoyable for everyone involved.",
+  "prediction_sha256": "c3d154d00817c3bf16dfbd64619ca0e8b056df1fba90146a4666c6c5bb381618",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100099,
+  "usage": {
+    "completion_tokens": 87,
+    "prompt_tokens": 4500,
+    "prompt_tokens_details": null,
+    "total_tokens": 4587
+  }
+}

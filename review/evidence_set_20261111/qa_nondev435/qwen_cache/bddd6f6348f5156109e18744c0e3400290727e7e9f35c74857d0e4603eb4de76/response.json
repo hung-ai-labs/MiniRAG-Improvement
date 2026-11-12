@@ -1,0 +1,17 @@
+{
+  "body_sha256": "bddd6f6348f5156109e18744c0e3400290727e7e9f35c74857d0e4603eb4de76",
+  "finish_reason": "stop",
+  "latency_s": 11.406394375000673,
+  "prediction": "For soccer practice, there are multiple instances where specific times are mentioned. In one instance, Jake Watson suggests a practice session for shooting on Saturday at 3 PM. Additionally, in another conversation, Jake Watson mentions a plan to meet up on Saturday afternoon at 4 PM to practice passing drills. Furthermore, LiHua and Jake Watson discuss a practice session on Saturday at 10 AM for setting up a goalkeeper position. \n\nGiven these instances, the most specific times for soccer practice are Saturday at 3 PM (for shooting practice) and Saturday at 4 PM (to work on passing drills). However, the exact time can vary based on the individuals' schedules and preferences.",
+  "prediction_sha256": "05503b5c7e50d10a03fde5ebea24573f5a3a42c94b1248245b28e6f160ee6c2c",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200362,
+  "usage": {
+    "completion_tokens": 138,
+    "prompt_tokens": 5195,
+    "prompt_tokens_details": null,
+    "total_tokens": 5333
+  }
+}

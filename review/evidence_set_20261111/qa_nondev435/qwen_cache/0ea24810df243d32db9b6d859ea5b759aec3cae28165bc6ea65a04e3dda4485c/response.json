@@ -1,0 +1,17 @@
+{
+  "body_sha256": "0ea24810df243d32db9b6d859ea5b759aec3cae28165bc6ea65a04e3dda4485c",
+  "finish_reason": "stop",
+  "latency_s": 10.607940249996318,
+  "prediction": "In the context of the community picnic, RexxarRemar suggests adding background music to enhance the atmosphere and create a joyful vibe. He recommends ensuring the music isn't too loud to avoid disturbing others nearby. Additionally, RexxarRemar emphasizes the importance of providing seating arrangements, suggesting blankets or chairs for guests to relax on during the event. His suggestions aim to make the picnic both enjoyable and comfortable for all attendees.",
+  "prediction_sha256": "8c6214a14891461fd827c9c873bdc317e79cb5c9f2ca59d159438089fce3f02e",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 393,
+  "usage": {
+    "completion_tokens": 86,
+    "prompt_tokens": 3926,
+    "prompt_tokens_details": null,
+    "total_tokens": 4012
+  }
+}

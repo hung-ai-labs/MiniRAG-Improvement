@@ -1,0 +1,17 @@
+{
+  "body_sha256": "7e1e5c1d8739a843c1b20db17e6cc61d926a7565e2c84d0a4a377db9e7bd9116",
+  "finish_reason": "stop",
+  "latency_s": 9.983754000000772,
+  "prediction": "On June 9, 2026, Li Hua and Wolfgang Schulz had dinner at a Thai restaurant. This information can be found in the conversation between Wolfgang and Li Hua dated Time: 20260609_15:00. Wolfgang mentioned that he had discovered an \"awesome Thai spot that's super good and budget-friendly\" and suggested meeting up for dinner there. Li Hua agreed enthusiastically, indicating that they had dinner at this Thai restaurant.",
+  "prediction_sha256": "3c70fc5dbdce8625c454499311ead6b92ea124f29d5532f98436f98741597517",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200431,
+  "usage": {
+    "completion_tokens": 102,
+    "prompt_tokens": 4483,
+    "prompt_tokens_details": null,
+    "total_tokens": 4585
+  }
+}

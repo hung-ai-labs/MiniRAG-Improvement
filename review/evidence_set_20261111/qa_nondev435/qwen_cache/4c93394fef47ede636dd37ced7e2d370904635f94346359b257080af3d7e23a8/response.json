@@ -1,0 +1,17 @@
+{
+  "body_sha256": "4c93394fef47ede636dd37ced7e2d370904635f94346359b257080af3d7e23a8",
+  "finish_reason": "stop",
+  "latency_s": 9.593358459002047,
+  "prediction": "In the discussion captured in the chat logs, Li Hua expressed her enjoyment of certain scenes in The Witcher 3. Specifically, she mentioned that she particularly liked the quest where she helped the knights in the tournament. She described the atmosphere and the characters as \"amazing,\" highlighting the memorable and immersive experience provided by the game.",
+  "prediction_sha256": "37ab1393de866c00ff7a54b371d8502992e32ba27a40bc43fc68eed251cf8663",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200177,
+  "usage": {
+    "completion_tokens": 68,
+    "prompt_tokens": 4524,
+    "prompt_tokens_details": null,
+    "total_tokens": 4592
+  }
+}

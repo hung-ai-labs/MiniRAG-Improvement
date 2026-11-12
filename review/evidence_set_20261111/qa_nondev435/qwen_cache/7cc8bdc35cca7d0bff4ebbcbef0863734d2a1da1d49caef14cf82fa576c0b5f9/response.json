@@ -1,0 +1,17 @@
+{
+  "body_sha256": "7cc8bdc35cca7d0bff4ebbcbef0863734d2a1da1d49caef14cf82fa576c0b5f9",
+  "finish_reason": "stop",
+  "latency_s": 10.3115583339968,
+  "prediction": "Based on the dialogue provided, WolfgangSchulz expresses a preference for Sichuan cuisine, indicating he enjoys dishes from this region of China. However, the specific type of hot pot (or any hot pot activity) is not mentioned in the recorded interactions. Therefore, while we know his preferred cuisine is Sichuan, we cannot determine the exact type of hot pot WolfgangSchulz prefers from the given information.",
+  "prediction_sha256": "8e8091ec53ca389ee8e55e716e95b7f21bb0503f6eb1176f7873465c725165de",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100280,
+  "usage": {
+    "completion_tokens": 85,
+    "prompt_tokens": 4400,
+    "prompt_tokens_details": null,
+    "total_tokens": 4485
+  }
+}

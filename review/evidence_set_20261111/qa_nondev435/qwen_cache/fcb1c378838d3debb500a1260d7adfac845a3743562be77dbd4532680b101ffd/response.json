@@ -1,0 +1,17 @@
+{
+  "body_sha256": "fcb1c378838d3debb500a1260d7adfac845a3743562be77dbd4532680b101ffd",
+  "finish_reason": "stop",
+  "latency_s": 5.694920125002682,
+  "prediction": "On July 30, 2026 at 17:30, Jennifer Moore encouraged Li Hua to share his favorite fitness tips with the group. This suggestion was part of a broader discussion about fitness progress and improvement strategies among the members of the group.",
+  "prediction_sha256": "1338e8953b9c58754f637b5e9c1367c1661739c150ccb4b4435bf8c369c62e8b",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200161,
+  "usage": {
+    "completion_tokens": 57,
+    "prompt_tokens": 4637,
+    "prompt_tokens_details": null,
+    "total_tokens": 4694
+  }
+}

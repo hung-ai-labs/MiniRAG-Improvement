@@ -1,0 +1,17 @@
+{
+  "body_sha256": "998efcdfe65e00a36acd83ba6a9bc82cb0294e0bb6e59c3db91b6f8138a2463b",
+  "finish_reason": "stop",
+  "latency_s": 7.364910874999623,
+  "prediction": "The first recorded interaction between Wolfgang and Li Hua involving the basement occurred in the message dated \"Time: 20260219_20:00\". In this conversation, Li Hua asked Wolfgang if he could add some decorations to the basement, specifically mentioning sound-insulating pads, which indicates that Wolfgang had already visited the basement prior to this conversation.",
+  "prediction_sha256": "97bb41bb3de4b4f0f4e5a542180371daa259c0e4214069a75e25f396f8ccd44b",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100079,
+  "usage": {
+    "completion_tokens": 78,
+    "prompt_tokens": 4501,
+    "prompt_tokens_details": null,
+    "total_tokens": 4579
+  }
+}

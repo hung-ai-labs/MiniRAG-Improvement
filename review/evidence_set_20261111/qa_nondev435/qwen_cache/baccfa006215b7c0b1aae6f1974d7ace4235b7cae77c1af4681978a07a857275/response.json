@@ -1,0 +1,17 @@
+{
+  "body_sha256": "baccfa006215b7c0b1aae6f1974d7ace4235b7cae77c1af4681978a07a857275",
+  "finish_reason": "stop",
+  "latency_s": 9.472262125003908,
+  "prediction": "In preparation for the upcoming karaoke night, WolfgangSchulz suggests that the group finalize their song selection before the designated date. He emphasizes the importance of picking a mix of their favorite tunes and popular hits to ensure the night is enjoyable and engaging for all attendees. Specifically, he proposes including some classic songs like \"Sweet Home Alabama\" or \"Let It Be,\" as well as some more contemporary pop songs like \"Shallow\" or \"Shake It Off.\" Additionally, he encourages the group to share their song ideas beforehand to coordinate and ensure a cohesive setlist for the karaoke night.",
+  "prediction_sha256": "8fbed9599d9a8fb20d68c68c7d2b94c3f5c56375fa6d6f3750931717f2308bd0",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200372,
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 4061,
+    "prompt_tokens_details": null,
+    "total_tokens": 4181
+  }
+}

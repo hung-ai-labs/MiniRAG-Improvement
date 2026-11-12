@@ -1,0 +1,17 @@
+{
+  "body_sha256": "260d48a0ffe9067906f54e299f42c51e59eeaccb21e111c1357fba220086f3c2",
+  "finish_reason": "stop",
+  "latency_s": 8.80687495800521,
+  "prediction": "No, there is no information indicating a time interval of more than three days between Adam Smith asking Li Hua to help with the curtain installation on the basement window and Adam Smith asking Li Hua to measure the size of the window. The conversation regarding the curtain installation took place on February 27th at 18:30, while the conversation about measuring the window occurred on the same day at 20:00. Therefore, the time interval between these two events is less than three days.",
+  "prediction_sha256": "f0c76c5e89c1597cfd11973dd38488d4a32092162db519fb6d92631ce543d5bb",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100041,
+  "usage": {
+    "completion_tokens": 105,
+    "prompt_tokens": 4390,
+    "prompt_tokens_details": null,
+    "total_tokens": 4495
+  }
+}

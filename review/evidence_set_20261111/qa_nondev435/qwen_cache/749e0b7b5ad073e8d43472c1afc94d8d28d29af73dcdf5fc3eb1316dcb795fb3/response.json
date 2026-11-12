@@ -1,0 +1,17 @@
+{
+  "body_sha256": "749e0b7b5ad073e8d43472c1afc94d8d28d29af73dcdf5fc3eb1316dcb795fb3",
+  "finish_reason": "stop",
+  "latency_s": 12.29355491699971,
+  "prediction": "Before the upcoming karaoke night, it appears WolfgangSchulz suggests that the group finalize their song selections before the karaoke night takes place. This aligns with a conversation from table entry number 7, where WolfgangSchulz mentions, \"Just say the word on the date and time, and I’ll be there!\" and follows up with, \"WolfgangSchulz: Let's make sure we pick our songs before Friday so we're ready.\" This indicates that WolfgangSchulz is encouraging the group to decide on which songs they will sing during the karaoke night and ensure they are prepared for it.",
+  "prediction_sha256": "a2370621576ba5deafe29753c3644fc3dd55369bd43dcedeb3dd3b2c743d466c",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200372,
+  "usage": {
+    "completion_tokens": 127,
+    "prompt_tokens": 4505,
+    "prompt_tokens_details": null,
+    "total_tokens": 4632
+  }
+}

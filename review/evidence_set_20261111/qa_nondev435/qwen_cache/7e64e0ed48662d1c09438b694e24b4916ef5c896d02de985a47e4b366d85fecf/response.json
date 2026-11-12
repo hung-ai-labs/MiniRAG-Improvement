@@ -1,0 +1,17 @@
+{
+  "body_sha256": "7e64e0ed48662d1c09438b694e24b4916ef5c896d02de985a47e4b366d85fecf",
+  "finish_reason": "stop",
+  "latency_s": 11.198592334003479,
+  "prediction": "According to the conversation recorded in the source data, Adam Smith confirms that the plumber will be arriving at the apartment on the following day, specifically on January 6th, at 10 AM to fix the water tap. This confirmation takes place in the message dated 20260106_15:00, where Li Hua expresses appreciation for Adam arranging the repair and Adam reiterates the confirmation, stating, \"Sounds good to me! I'll be ready for him. Thanks for taking care of that!\" Li Hua also confirms her readiness, expressing gratitude, \"Sounds good! I’ll be ready for him. Thanks for taking care of that!\"",
+  "prediction_sha256": "183b630107986218a6e2474b743a8da3b7f1a7d3d2d93a8782cae5fb9fabc035",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 61,
+  "usage": {
+    "completion_tokens": 140,
+    "prompt_tokens": 4680,
+    "prompt_tokens_details": null,
+    "total_tokens": 4820
+  }
+}

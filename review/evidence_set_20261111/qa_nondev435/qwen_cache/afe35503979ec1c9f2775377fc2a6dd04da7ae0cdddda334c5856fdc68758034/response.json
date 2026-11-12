@@ -1,0 +1,17 @@
+{
+  "body_sha256": "afe35503979ec1c9f2775377fc2a6dd04da7ae0cdddda334c5856fdc68758034",
+  "finish_reason": "stop",
+  "latency_s": 11.913206874996831,
+  "prediction": "In the conversation between AdamSmith and LiHua, LiHua recommends inverter AC units from brands like Mitsubishi and Daikin as they are known for being quiet and efficient. These recommendations are specifically directed towards an air-conditioner for the basement. No specific brand names are mentioned for Wolfgang, but LiHua's preferences align with these brands, indicating that they may be suitable for Wolfgang as well.",
+  "prediction_sha256": "844071e9dddd45712c35b97917fa1e2bc14bcccafccbfe1c454c526e2d99a5a7",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200160,
+  "usage": {
+    "completion_tokens": 83,
+    "prompt_tokens": 4790,
+    "prompt_tokens_details": null,
+    "total_tokens": 4873
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "233fe4d8effa1443ab72b8715d6106aa469fecc54d2728557f8a497e60cbb558",
+  "finish_reason": "stop",
+  "latency_s": 3.901330583001254,
+  "prediction": " The provided data tables and conversations do not contain specific information regarding the receipt of curtains by Li Hua. Therefore, I do not have enough information to answer when Li Hua received the curtains.",
+  "prediction_sha256": "81edab32a1adc8de799a6bf79a2d45305f0d3c0173883aed7e8cb4952fcc05c5",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 42,
+  "usage": {
+    "completion_tokens": 46,
+    "prompt_tokens": 5188,
+    "prompt_tokens_details": null,
+    "total_tokens": 5234
+  }
+}

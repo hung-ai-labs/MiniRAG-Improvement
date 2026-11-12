@@ -1,0 +1,17 @@
+{
+  "body_sha256": "93b37a80820d9855e11e732536e7b527609c82d531796ead2f9e127abe049e69",
+  "finish_reason": "stop",
+  "latency_s": 12.457520832998853,
+  "prediction": "On April 28, 2026, at 5 PM, there were two distinct conversations recorded. \n\nIn one instance, WolfgangSchulz informs LiHua about his recent promotion and invites him to celebrate with dinner the following day. Wolfgang suggests meeting at their favorite Italian restaurant, which serves the best pasta. LiHua expresses enthusiasm about the invitation and agrees to join Wolfgang for dinner.\n\nIn another conversation, AdamSmith reaches out to LiHua to confirm receipt of the curtains. LiHua confirms that he has received them and mentions that he likes the patterns. AdamSmith expresses satisfaction with the decision and offers assistance with the installation. LiHua proposes setting a time to install the curtains together, and they agree on Wednesday at 5 PM, indicating that this will be a collaborative effort between the two individuals.",
+  "prediction_sha256": "e47f5689dfa851e4b2b622259fb3253401335b7dc01bc00aafdd3c300b0e54b5",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100115,
+  "usage": {
+    "completion_tokens": 170,
+    "prompt_tokens": 5225,
+    "prompt_tokens_details": null,
+    "total_tokens": 5395
+  }
+}

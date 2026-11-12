@@ -1,0 +1,17 @@
+{
+  "body_sha256": "3f64122f58fc11f2f8b98989a0af8f2e61ee9e79befb9539357591345cd8b1e4",
+  "finish_reason": "stop",
+  "latency_s": 6.730248584000947,
+  "prediction": " Giselle reminds everyone to wear comfortable shoes before practice. She emphasizes the importance of proper footwear, particularly because comfort is crucial for effective movement during the passing drills. This ensures that participants can maximize their performance and minimize the risk of injury during their training sessions. Her reminder serves as a practical tip to enhance overall training experience and results.\n\n```markdown\n### Pre-Practice Reminder by Giselle\n\n- **Comfortable Footwear**: Giselle stresses the importance of wearing shoes that are comfortable for increased movement. She insists on proper footwear for optimal performance and safety during the practice drills.\n```",
+  "prediction_sha256": "455d9f40e101d28cf2e4b0f26c01176253f210761cda290063f34f5783cf9bd6",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 174,
+  "usage": {
+    "completion_tokens": 151,
+    "prompt_tokens": 5282,
+    "prompt_tokens_details": null,
+    "total_tokens": 5433
+  }
+}

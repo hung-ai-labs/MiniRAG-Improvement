@@ -1,0 +1,17 @@
+{
+  "body_sha256": "e644df2e4a89332d682753d4a1599badb07631803f1d32481394eaa0c39afe20",
+  "finish_reason": "stop",
+  "latency_s": 8.481691875000251,
+  "prediction": "Based on the conversation, Emily Burnett is currently watching \"The Bear.\" She described it as a different and engaging show that dives into the chaos of running a restaurant while exploring the characters' emotions, with a storyline that is gripping and emotionally engaging. Emily recommends this show to LiHua, suggesting that she should definitely give it a watch.",
+  "prediction_sha256": "91c1a0db58d48a5088a4047f5bd112369afc09b34ee61419dd3a2bd952d0f5eb",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100386,
+  "usage": {
+    "completion_tokens": 69,
+    "prompt_tokens": 4365,
+    "prompt_tokens_details": null,
+    "total_tokens": 4434
+  }
+}

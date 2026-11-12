@@ -1,0 +1,17 @@
+{
+  "body_sha256": "4c4c2de3dfe1735eca3a1d32eda0de7f7eef5aa26f53f1f8417134b07b68c790",
+  "finish_reason": "stop",
+  "latency_s": 13.592398459004471,
+  "prediction": "Based on the conversation logs provided, on June 9, 2026, Wolfgang mentioned that the restaurant they visited was \"awesome\" and had \"delicious\" food with a \"perfect\" atmosphere. In the log entry dated \"20260609_13:00\", Wolfgang says, \"That restaurant we hit up tonight was awesome! The food was delicious and the vibe was just perfect.\" Therefore, the restaurant where Li Hua and Wolfgang had dinner on June 9, 2026 was an unnamed restaurant that Li Hua described as \"awesome\" and \"perfect\". However, no specific name is given in the provided logs.",
+  "prediction_sha256": "33479fd1da956d9055f32e677362da1ad1790bfbc57db723116e571744ca4972",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 431,
+  "usage": {
+    "completion_tokens": 140,
+    "prompt_tokens": 4760,
+    "prompt_tokens_details": null,
+    "total_tokens": 4900
+  }
+}

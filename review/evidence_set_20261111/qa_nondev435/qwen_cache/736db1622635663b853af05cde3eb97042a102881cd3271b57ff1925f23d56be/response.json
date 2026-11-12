@@ -1,0 +1,17 @@
+{
+  "body_sha256": "736db1622635663b853af05cde3eb97042a102881cd3271b57ff1925f23d56be",
+  "finish_reason": "stop",
+  "latency_s": 12.634423499999684,
+  "prediction": "The purpose of starting with bodyweight exercises is emphasized in the data, particularly in the description provided for \"BODYWEIGHT EXERCISES\". According to the data, bodyweight exercises are recommended as a starting point for beginners in strength training due to their versatility and self-motivation. These exercises are simple and can be performed anywhere, making them accessible for individuals looking to begin their fitness journey. Additionally, they serve as a foundational set of movements that can lay the groundwork for more complex exercises.",
+  "prediction_sha256": "27de9f2bbe49dc14692316c37f6ee6d8eec328fa51fd1bba73e3d3ae1fcac1da",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100210,
+  "usage": {
+    "completion_tokens": 101,
+    "prompt_tokens": 5140,
+    "prompt_tokens_details": null,
+    "total_tokens": 5241
+  }
+}

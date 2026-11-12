@@ -1,0 +1,17 @@
+{
+  "body_sha256": "5462b6e65ce2ed2dcfba5145856573b000bab518a67360e30cc99e7dfb68ecf2",
+  "finish_reason": "stop",
+  "latency_s": 6.981982249999419,
+  "prediction": "In the group discussion on 20260629, ChaeSong-hwa suggests a couple of upbeat songs that could fit well for the jam session. Specifically, he recommends \"Uptown Funk\" and \"Happy.\" These songs are described as \"fun\" options that could energize the session.",
+  "prediction_sha256": "f3a91a894c9e167c9dbed18d02ed02c044f4019e441c59e4c67ab7c6df8c27cc",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200144,
+  "usage": {
+    "completion_tokens": 66,
+    "prompt_tokens": 5253,
+    "prompt_tokens_details": null,
+    "total_tokens": 5319
+  }
+}

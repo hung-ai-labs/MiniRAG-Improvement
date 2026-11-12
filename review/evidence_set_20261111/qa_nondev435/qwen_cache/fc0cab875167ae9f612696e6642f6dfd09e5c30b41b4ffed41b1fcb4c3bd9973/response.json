@@ -1,0 +1,17 @@
+{
+  "body_sha256": "fc0cab875167ae9f612696e6642f6dfd09e5c30b41b4ffed41b1fcb4c3bd9973",
+  "finish_reason": "stop",
+  "latency_s": 6.5924225420021685,
+  "prediction": "In one of the recorded conversations, Jennifer Moore suggested Li Hua to incorporate more resistance training into his current workout routine, specifically mentioning that they could add more yoga and dynamic stretching techniques. These modifications were intended to enhance Li Hua's flexibility and balance, thereby complementing his existing strength training regimen. This advice came in the context of adjusting their fitness plan to address Li Hua's desire to focus on increasing his strength and perhaps improving his flexibility.",
+  "prediction_sha256": "ec82c41447d12ed9d7513fb6bb6d2d80e4c8f13c324148c3f5a1615ccd086125",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200077,
+  "usage": {
+    "completion_tokens": 91,
+    "prompt_tokens": 4508,
+    "prompt_tokens_details": null,
+    "total_tokens": 4599
+  }
+}

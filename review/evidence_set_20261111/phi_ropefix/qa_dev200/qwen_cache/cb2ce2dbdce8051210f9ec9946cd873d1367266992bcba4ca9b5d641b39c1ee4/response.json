@@ -1,0 +1,17 @@
+{
+  "body_sha256": "cb2ce2dbdce8051210f9ec9946cd873d1367266992bcba4ca9b5d641b39c1ee4",
+  "finish_reason": "stop",
+  "latency_s": 13.231484333999106,
+  "prediction": " Hailey Johnson is offering a special promotion for Mother's Day by providing a discount on pastries and special cakes. The specific discount mentioned in the data tables is **15% off** on all relevant items. This early bird discount is part of her efforts to encourage customers, like Li Hua, to celebrate the occasion with her bakery's offerings, which also include fresh deliveries to customers' doorsteps.\n\nThe evidence of this discount comes from two conversations in the provided data sources. In the first exchange, Hailey Johnson reminds Li Hua of the Mother's Day, following which she announces the discount offer: \"I’m offering 15% off all pastries and special cakes for Mother’s Day! Perfect for a treat or a surprise. 🍰❤️ Plus, if you order today, Alice can deliver it fresh to your doorstep.\" Here, she explicitly states the \"15% off\" to make Li Hua aware of the savings. Furthermore, in a subsequent interaction, she reiterates the offer to Li Hua: \"I’d love to offer you an early bird discount. Let me know if you’re interested!\" which implies that the early bird discount percentage remains consistent at 15% for those who show interest in ordering by a certain deadline.\n\nIt is clear from these particulars that Hailey Johnson's promotional incentive for Mother's Day pastries stands at a discount of 15%.",
+  "prediction_sha256": "c0905917a26a111cbd62737dca6958996d6395399e79f9b42de924303cd9bb22",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 72,
+  "usage": {
+    "completion_tokens": 333,
+    "prompt_tokens": 4131,
+    "prompt_tokens_details": null,
+    "total_tokens": 4464
+  }
+}

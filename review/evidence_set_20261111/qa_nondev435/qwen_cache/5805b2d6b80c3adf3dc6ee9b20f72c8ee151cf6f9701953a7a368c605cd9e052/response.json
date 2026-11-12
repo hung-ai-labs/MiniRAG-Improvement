@@ -1,0 +1,17 @@
+{
+  "body_sha256": "5805b2d6b80c3adf3dc6ee9b20f72c8ee151cf6f9701953a7a368c605cd9e052",
+  "finish_reason": "stop",
+  "latency_s": 10.875150124997162,
+  "prediction": "Saffron expresses a conflicted view regarding Jaime's final decision to protect Cersei. She notes that while it demonstrated his loyalty to her, it also seemed to revert him back to his old ways. This indicates that Saffron believes Jaime's character had progressed significantly throughout the series, and her loyalty to Cersei overshadowed the character's growth. Her perspective suggests that while Jaime's actions were understandable given his love for Cersei, they also reflected a return to his previous behaviors, leaving her feeling conflicted about his ultimate choice.",
+  "prediction_sha256": "22039a1f563be6f3c76bca365bd4ce4ccffecff5b4a5163ed4382de1ce085a57",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100216,
+  "usage": {
+    "completion_tokens": 109,
+    "prompt_tokens": 4770,
+    "prompt_tokens_details": null,
+    "total_tokens": 4879
+  }
+}

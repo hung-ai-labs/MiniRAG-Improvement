@@ -1,0 +1,17 @@
+{
+  "body_sha256": "abcffff1fe5ea2e04efe3a0de04007ed6722987aebcba6040029688bbb5526fe",
+  "finish_reason": "stop",
+  "latency_s": 5.592554166003538,
+  "prediction": "During Wolfgang's trip to Hong Kong, he made efforts to find special gifts for Li Hua. Specifically, he looked for unique snacks and a local souvenir that would scream \"Hong Kong.\" However, Li Hua did not have specific preferences, suggesting that Wolfgang took the initiative to seek out items that would delight Li Hua. Unfortunately, the table does not provide details about the exact gifts Wolfgang purchased. It mentions that Wolfgang would keep Li Hua updated on the findings from his trip, indicating that he was indeed successful in finding suitable presents for Li Hua.",
+  "prediction_sha256": "47f02d9a66c6441e39f18068c69f56ac81e9f2fe16fd82ec25f7d302f852691f",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100447,
+  "usage": {
+    "completion_tokens": 114,
+    "prompt_tokens": 4288,
+    "prompt_tokens_details": null,
+    "total_tokens": 4402
+  }
+}

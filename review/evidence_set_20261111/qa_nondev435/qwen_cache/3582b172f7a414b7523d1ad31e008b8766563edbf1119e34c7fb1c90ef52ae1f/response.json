@@ -1,0 +1,17 @@
+{
+  "body_sha256": "3582b172f7a414b7523d1ad31e008b8766563edbf1119e34c7fb1c90ef52ae1f",
+  "finish_reason": "stop",
+  "latency_s": 7.597150749999855,
+  "prediction": "In the conversation, Jake Watson provides specific recommendations for strength training exercises that can help build muscles and improve overall stability and endurance. Jake suggests squats, lunges, and planks as effective exercises for building core and leg strength. These exercises are simple yet powerful and can be performed at home, making them accessible to those interested in starting a strength training regimen. Additionally, he mentions the importance of including balance exercises such as single-leg stands to enhance one's stability.",
+  "prediction_sha256": "9bbe3a1c9cbacb02ebfdac0cb08a44f18654e83057c7464894afcf52c1a82ca8",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100209,
+  "usage": {
+    "completion_tokens": 94,
+    "prompt_tokens": 4268,
+    "prompt_tokens_details": null,
+    "total_tokens": 4362
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "b2ac0697919c89aa4177149ac63cd9514d21a16e3b205bea864eba0ef8b04887",
+  "finish_reason": "stop",
+  "latency_s": 8.674775416002376,
+  "prediction": "Based on the dialogue provided, WolfgangSchulz expresses a preference for Sichuan cuisine when discussing hot pot with LiHua. Specifically, he states, \"Sichuan is my fave.\" Therefore, WolfgangSchulz prefers Sichuan-style hot pot.",
+  "prediction_sha256": "4ccba1e0091160184e697d70210dd626f13651a020d05921cac79a78d667ad82",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100280,
+  "usage": {
+    "completion_tokens": 56,
+    "prompt_tokens": 3567,
+    "prompt_tokens_details": null,
+    "total_tokens": 3623
+  }
+}

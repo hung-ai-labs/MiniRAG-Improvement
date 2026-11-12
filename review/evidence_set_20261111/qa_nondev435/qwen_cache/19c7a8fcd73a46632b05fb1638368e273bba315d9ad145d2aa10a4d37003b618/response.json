@@ -1,0 +1,17 @@
+{
+  "body_sha256": "19c7a8fcd73a46632b05fb1638368e273bba315d9ad145d2aa10a4d37003b618",
+  "finish_reason": "stop",
+  "latency_s": 7.88638983299461,
+  "prediction": "According to Jennifer's advice, LiHua should aim for at least 5 servings of vegetables each day to keep her body in good shape. Jennifer emphasized the importance of vegetables for energy and recovery and suggested mixing different types such as leafy greens like spinach and kale, bell peppers, and broccoli.",
+  "prediction_sha256": "bdbb80a3c82d8131c31a4cd60052493ac743aa40c491d87ae2cb5cf4cb6388d7",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 204,
+  "usage": {
+    "completion_tokens": 61,
+    "prompt_tokens": 4463,
+    "prompt_tokens_details": null,
+    "total_tokens": 4524
+  }
+}

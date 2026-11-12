@@ -1,0 +1,17 @@
+{
+  "body_sha256": "78fa520612b7c4d37351c29da75464714d546bbb86a856d3e7bb87ce97d5c91a",
+  "finish_reason": "stop",
+  "latency_s": 7.708699833998253,
+  "prediction": "During the picnic, RexxarRemar suggests bringing some blankets or chairs for seating, as it might get a bit crowded, and he also proposes setting up a small drink station with water and refreshments to ensure everyone stays hydrated. Additionally, RexxarRemar recommends having some music playing to enhance the atmosphere and create a joyful vibe. He emphasizes that the music should not be too loud to avoid disturbing others nearby.",
+  "prediction_sha256": "25fdc935e36dd9888356409c8e4e4a86db2bc802d16e6acbdd4820150009225c",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 396,
+  "usage": {
+    "completion_tokens": 86,
+    "prompt_tokens": 3922,
+    "prompt_tokens_details": null,
+    "total_tokens": 4008
+  }
+}

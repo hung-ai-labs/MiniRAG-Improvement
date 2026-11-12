@@ -1,0 +1,17 @@
+{
+  "body_sha256": "98eab2745b1f611e773560a7079d7f1048056b1e95a023d6cc4e5807cb3864ba",
+  "finish_reason": "stop",
+  "latency_s": 7.25273204199766,
+  "prediction": "Elara mentions \"Octopath Traveler\" as a game she enjoys playing. She specifically talks about the turn-based combat system and the pixel art style, which she finds appealing. Additionally, Elara notes that \"Octopath Traveler\" offers a unique storytelling experience with various characters and their own stories, which she appreciates.",
+  "prediction_sha256": "cd1157c8ad0f5491b725d596152e1262a9c18bc558da908b03128af0b5a508db",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200323,
+  "usage": {
+    "completion_tokens": 67,
+    "prompt_tokens": 4244,
+    "prompt_tokens_details": null,
+    "total_tokens": 4311
+  }
+}

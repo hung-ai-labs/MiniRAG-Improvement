@@ -1,0 +1,17 @@
+{
+  "body_sha256": "7527d7179b1bc459d6fba500f462862e8a88f14bba2c5bc99830aeca449ffe74",
+  "finish_reason": "stop",
+  "latency_s": 6.421513749999576,
+  "prediction": "In one conversation, WolfgangSchulz shared an experience where he had the best risotto during his trip to Venice. He described the risotto as creamy and having seafood in it, calling it \"just perfection!\" This indicates that his favorite risotto memory is likely associated with the seafood risotto he enjoyed in Venice.",
+  "prediction_sha256": "b22f17a0c2df35f9b096e438255d5308c23efbb13a5ab974b745b2c4165f8e5a",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 400,
+  "usage": {
+    "completion_tokens": 65,
+    "prompt_tokens": 3726,
+    "prompt_tokens_details": null,
+    "total_tokens": 3791
+  }
+}

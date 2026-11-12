@@ -1,0 +1,17 @@
+{
+  "body_sha256": "d95389bf7e79175bb3daedd8b6d52e2fecbda6e2dc54ffe665210bc9125771d1",
+  "finish_reason": "stop",
+  "latency_s": 12.692705916997511,
+  "prediction": "According to the conversation between LiHua and Yuriko, the Freelancer Group Meeting is scheduled for March 6th at 2:00 PM. This information is detailed in the first source provided, which states, \"Time: 20260303_09:30\\ nLiHua: Hey! Just wanted to confirm if we’re still good for our meeting on March 6th at 2:00 PM to discuss the homepage updates. Let me know!\" This meeting is a planned gathering where they intend to share topics and discuss matters related to the homepage updates.",
+  "prediction_sha256": "28e581e6dfccfb6c0a7608dbe703be2363626268c047ec99a5add9fc9f01cd4c",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200133,
+  "usage": {
+    "completion_tokens": 128,
+    "prompt_tokens": 4413,
+    "prompt_tokens_details": null,
+    "total_tokens": 4541
+  }
+}

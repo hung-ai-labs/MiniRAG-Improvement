@@ -1,0 +1,17 @@
+{
+  "body_sha256": "478ce3724feb864aacae7c4e6e611a39efb11b28e8e3e5b228c7ae0ac308790c",
+  "finish_reason": "stop",
+  "latency_s": 8.398487290993216,
+  "prediction": "In the conversation recorded on 20260107_15:00, Li Hua specifically asks Adam Smith about getting a small repair done on the door hinge, which has been squeaking quite a bit. Li Hua mentions that it's been causing discomfort and requests for Adam to arrange for a repair service. Adam Smith agrees to coordinate with the repair service and keeps Li Hua updated on the progress.",
+  "prediction_sha256": "7f2faf731defe5277fba4e8755ee532c9093245e54d6d67e90451e4ba590bdfc",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 62,
+  "usage": {
+    "completion_tokens": 89,
+    "prompt_tokens": 4401,
+    "prompt_tokens_details": null,
+    "total_tokens": 4490
+  }
+}

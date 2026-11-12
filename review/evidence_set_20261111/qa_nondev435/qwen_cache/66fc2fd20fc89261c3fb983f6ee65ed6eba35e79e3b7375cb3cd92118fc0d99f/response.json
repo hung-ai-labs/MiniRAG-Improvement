@@ -1,0 +1,17 @@
+{
+  "body_sha256": "66fc2fd20fc89261c3fb983f6ee65ed6eba35e79e3b7375cb3cd92118fc0d99f",
+  "finish_reason": "stop",
+  "latency_s": 8.897849832996144,
+  "prediction": "From the conversations recorded, Li Hua is looking forward to trying the fruity ice cream and pastry flavors that Hailey Johnson mentioned in the promotion. Specifically, Li Hua expresses enthusiasm for mango and coconut flavors, which she describes as refreshing for summer. This aligns with Hailey's suggestion that they are planning to create some fruity ice cream flavors and a mango-coconut pastry for the promotion.",
+  "prediction_sha256": "2738f8d0f408d7827ee366703f7275c5a89f2af2951e17f5d91ae247a27a2338",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100121,
+  "usage": {
+    "completion_tokens": 80,
+    "prompt_tokens": 4400,
+    "prompt_tokens_details": null,
+    "total_tokens": 4480
+  }
+}

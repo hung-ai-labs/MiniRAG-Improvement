@@ -1,0 +1,17 @@
+{
+  "body_sha256": "5cf880eaadcf951cf84cd326d3c1744f3c481076554231f51963675ecfc1aba8",
+  "finish_reason": "stop",
+  "latency_s": 9.439412042000185,
+  "prediction": "In the conversation, Emily Burnett expresses that she has not personally met anyone who matches the level of eccentricity and genius she attributes to Sheldon Cooper from the TV show \"Big Bang Theory.\" She mentions, \"I've met some really smart folks, but none with that level of... shall we say, eccentricity?\" This indicates that Emily has not encountered anyone quite as unique as Sheldon in her real-life experiences.",
+  "prediction_sha256": "db09805c672046caf76443ac1b378680eff0c00663c6d5095329161bb58d2589",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100202,
+  "usage": {
+    "completion_tokens": 83,
+    "prompt_tokens": 4328,
+    "prompt_tokens_details": null,
+    "total_tokens": 4411
+  }
+}

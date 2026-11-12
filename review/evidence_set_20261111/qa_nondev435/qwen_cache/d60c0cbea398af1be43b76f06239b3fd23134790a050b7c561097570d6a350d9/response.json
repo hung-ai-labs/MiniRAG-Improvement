@@ -1,0 +1,17 @@
+{
+  "body_sha256": "d60c0cbea398af1be43b76f06239b3fd23134790a050b7c561097570d6a350d9",
+  "finish_reason": "stop",
+  "latency_s": 13.048499083000934,
+  "prediction": "Li Hua and Wolfgang Schulz plan to visit the photography exhibition on Friday evening. This detail is derived from a conversation recorded at Time: 20260801_19:00, where Li Hua suggests they go on Friday evening and Wolfgang Schulz agrees, stating \"Friday evening works for me! Looking forward to it!\" This decision is further confirmed in another conversation at Time: 20260805_21:30, where Wolfgang Schulz mentions attending the exhibition, saying, \"Hey! Just got back from the exhibition. Those football stadium photos were something else!\", indicating they have already visited the exhibition on Friday evening as discussed.",
+  "prediction_sha256": "a011bfe7ca6818b6e9b53d1b07f33955c72f6ef603abf8e2d75baa49a75b87f7",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100163,
+  "usage": {
+    "completion_tokens": 143,
+    "prompt_tokens": 4695,
+    "prompt_tokens_details": null,
+    "total_tokens": 4838
+  }
+}

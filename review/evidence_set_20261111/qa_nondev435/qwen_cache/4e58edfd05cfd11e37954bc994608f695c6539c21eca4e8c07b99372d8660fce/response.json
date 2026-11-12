@@ -1,0 +1,17 @@
+{
+  "body_sha256": "4e58edfd05cfd11e37954bc994608f695c6539c21eca4e8c07b99372d8660fce",
+  "finish_reason": "stop",
+  "latency_s": 8.253766416997678,
+  "prediction": "During the community picnic planning discussions, RexxarRemar suggested adding some background music to enhance the atmosphere and create a joyful vibe. He emphasized that the music should not be too loud to avoid disturbing anyone nearby. Additionally, RexxarRemar proposed ensuring there were enough blankets or chairs for seating, as it might get crowded during the event. His suggestions aimed to make the picnic both enjoyable and comfortable for all attendees.",
+  "prediction_sha256": "e81c0840eaba10d464c099da0fa0ca4fcd7c3759ada280411a6f0cb111e1a1ba",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 393,
+  "usage": {
+    "completion_tokens": 86,
+    "prompt_tokens": 3926,
+    "prompt_tokens_details": null,
+    "total_tokens": 4012
+  }
+}

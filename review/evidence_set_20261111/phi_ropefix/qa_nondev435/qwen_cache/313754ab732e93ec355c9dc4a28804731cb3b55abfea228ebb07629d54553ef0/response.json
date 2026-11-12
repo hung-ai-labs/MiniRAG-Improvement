@@ -1,0 +1,17 @@
+{
+  "body_sha256": "313754ab732e93ec355c9dc4a28804731cb3b55abfea228ebb07629d54553ef0",
+  "finish_reason": "stop",
+  "latency_s": 8.223316957999486,
+  "prediction": " According to the data provided in the tables, Adam confirms the arrival of the plumber on January 6, 2026. The specific time mentioned for the plumber's arrival is 10:00 AM on that day. This is found in the content from source id 0, which details a conversation between AdamSmith and LiHua, confirming the plumber's visit to fix a water tap and ensuring LiHua will be ready for them.\n\n```markdown\n- **Adam Smith confirms the plumber's arrival**:\n  - **Date**: January 6, 2026\n  - **Time**: 10:00 AM\n  - **Summary**: Plumber scheduled to fix the water tap issue on January 6, 2026, at 10:00 AM.\n```",
+  "prediction_sha256": "4dd5d4ccf91624dbc58df77a5cb9ba4c688727d184e22ba3cc493371fabf29f6",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 100061,
+  "usage": {
+    "completion_tokens": 191,
+    "prompt_tokens": 5112,
+    "prompt_tokens_details": null,
+    "total_tokens": 5303
+  }
+}

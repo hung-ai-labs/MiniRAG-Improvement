@@ -1,0 +1,17 @@
+{
+  "body_sha256": "a5eade327a1b35f9beed72d5f534f68ae23da293c8dbbea115222bb04a8dac57",
+  "finish_reason": "stop",
+  "latency_s": 11.905842332998873,
+  "prediction": "In the group's discussion regarding the TV series \"Succession,\" particularly focusing on the character Kendall, it was noted that Kendall's relationship with his father, Logan, is described as highly toxic. The group members expressed that Kendall feels pressured by the family legacy and the need for approval from Logan, which shapes his struggles. There are cycles of betrayal and retribution, suggesting that Kendall's journey involves breaking free from this toxic dynamic. Despite his attempts to distance himself from Logan, he continually finds himself entangled in the same conflicts. Overall, Kendall's relationship with Logan appears to be characterized by mutual distrust, competition, and a pervasive sense of toxicity within their familial bond.",
+  "prediction_sha256": "f672d74b6d21027e41130b811e4740011069225c52c13c317c3fcff282967e8e",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200184,
+  "usage": {
+    "completion_tokens": 135,
+    "prompt_tokens": 4329,
+    "prompt_tokens_details": null,
+    "total_tokens": 4464
+  }
+}

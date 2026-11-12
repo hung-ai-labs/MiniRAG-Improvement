@@ -1,0 +1,17 @@
+{
+  "body_sha256": "a3460a2069be2724e12bd67afd2e0601ee99d06c3ec657c821119389daff1d23",
+  "finish_reason": "stop",
+  "latency_s": 6.748806457999308,
+  "prediction": "In one of the conversations, JenniferMoore advises LiHua to make sure to warm up properly before attempting to increase the weight on the bench press. She emphasizes the importance of warming up to avoid injuries and to ensure the workout is safe and effective. JenniferMoore suggests that LiHua should gradually increase the weight by adding more reps or sets each week to build strength. This gradual approach helps in ensuring that the body adapts to the increased load, preventing fatigue and injury.",
+  "prediction_sha256": "05623e4c2de5f53cd72c930f683903518a185536481187bcaeca8421c721cc7f",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100279,
+  "usage": {
+    "completion_tokens": 98,
+    "prompt_tokens": 4361,
+    "prompt_tokens_details": null,
+    "total_tokens": 4459
+  }
+}

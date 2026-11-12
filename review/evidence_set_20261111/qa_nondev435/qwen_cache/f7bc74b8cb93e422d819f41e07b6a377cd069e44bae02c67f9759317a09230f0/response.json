@@ -1,0 +1,17 @@
+{
+  "body_sha256": "f7bc74b8cb93e422d819f41e07b6a377cd069e44bae02c67f9759317a09230f0",
+  "finish_reason": "stop",
+  "latency_s": 15.03745254200112,
+  "prediction": "There appears to be no information regarding a bread delivery on 20260403. From the provided data, there are several instances of bread deliveries being made by Alice, who is identified as an employee at Hailey's bakery. However, there is no mention of a delivery on April 3rd, 2026. The last date mentioned in the data is April 8th, 2026. Therefore, based on the information given, we cannot determine who delivered the bread to Li Hua on 20260403.",
+  "prediction_sha256": "c2f85ba914f57306e2ca7d27ef94dd07b8e973c106ecb9e38af4d1f2dacab544",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100105,
+  "usage": {
+    "completion_tokens": 121,
+    "prompt_tokens": 4514,
+    "prompt_tokens_details": null,
+    "total_tokens": 4635
+  }
+}

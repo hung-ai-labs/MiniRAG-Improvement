@@ -1,0 +1,17 @@
+{
+  "body_sha256": "37b533e8c2e1ba3b87d85d685b37ab95af13cfe282bc6577000692c74e120b3d",
+  "finish_reason": "stop",
+  "latency_s": 11.229577625003003,
+  "prediction": "In the month of May, Hailey's Bakery offered several special events and promotions at their bakery. One notable event was a free baking class that was hosted on a weekend. Additionally, there was a bake sale event which involved selling baked goods to support a local charity. Furthermore, during the month of May, there was a special summer promotion on ice cream and pastries, and a bread-tasting event where attendees could sample new bread recipes. These special offerings demonstrate the variety of activities and promotions Hailey's Bakery implemented to engage their customers and promote their products throughout the month.",
+  "prediction_sha256": "fb65afa6249652588485a028aca21224678c52bc6f76db79016cfcad7a612a7e",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200037,
+  "usage": {
+    "completion_tokens": 117,
+    "prompt_tokens": 5030,
+    "prompt_tokens_details": null,
+    "total_tokens": 5147
+  }
+}

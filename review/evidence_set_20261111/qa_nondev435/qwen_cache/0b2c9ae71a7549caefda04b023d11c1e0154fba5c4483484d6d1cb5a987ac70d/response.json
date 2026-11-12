@@ -1,0 +1,17 @@
+{
+  "body_sha256": "0b2c9ae71a7549caefda04b023d11c1e0154fba5c4483484d6d1cb5a987ac70d",
+  "finish_reason": "stop",
+  "latency_s": 9.793554333002248,
+  "prediction": "Based on the conversation, Li Hua requests a delivery from Hailey Johnson specifically for Mondays at 8 AM and Fridays at 8 AM. This can be seen in the interaction where Li Hua expresses interest in receiving bread twice a week, stating, \"Do you think you could send me some bread twice a week, like Mondays at 8am and Fridays at 8am?\" This request for a consistent delivery schedule demonstrates Li Hua's preference for receiving her bread at these times.",
+  "prediction_sha256": "557c80deb0913b8f8d6a66d06ca6ed9b35ba94c3d3aec8787ca04360bc6b88e5",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100093,
+  "usage": {
+    "completion_tokens": 100,
+    "prompt_tokens": 3298,
+    "prompt_tokens_details": null,
+    "total_tokens": 3398
+  }
+}

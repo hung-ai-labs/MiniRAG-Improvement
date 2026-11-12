@@ -1,0 +1,17 @@
+{
+  "body_sha256": "1640a3a9fe43b5ecb1d1885c928d77b7a2b5b38c9bc0a76e67a96b0063dbd466",
+  "finish_reason": "stop",
+  "latency_s": 10.907086833001813,
+  "prediction": "Li Hua reached out to Jennifer Moore asking for additional exercises she could perform at home to complement her training schedule. She expressed her desire to maximize her progress by integrating these exercises into her routine. This request came after Jennifer provided a list of five exercises—bodyweight squats, plank holds, push-ups, lunges, and glute bridges—that Li Hua could do at home to enhance her workouts and possibly aid in recovery. Li Hua was keen on finding ways to diversify her regimen and explore different muscle groups to ensure balanced physical development.",
+  "prediction_sha256": "ded73bfca6f4141a9b4b175068af7ef62f660881975dd3efc6dfb1508562b5f9",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200076,
+  "usage": {
+    "completion_tokens": 112,
+    "prompt_tokens": 4615,
+    "prompt_tokens_details": null,
+    "total_tokens": 4727
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "06007516d798fe3fbd89e85480e2e556b52768e97b026d2de0bee0d4921bba00",
+  "finish_reason": "stop",
+  "latency_s": 6.197414750000462,
+  "prediction": "No, LiHua has not met anyone as quirky and brilliant as Sheldon Cooper in real life. He mentioned that while he does meet interesting people, none quite match the level of eccentricity and genius of Sheldon, as portrayed in the TV show \"The Big Bang Theory.\"",
+  "prediction_sha256": "c25b650cae36ed7c369cabebd08fecef8c9618cca45f9d471f0c36cbada3c6fc",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 201,
+  "usage": {
+    "completion_tokens": 56,
+    "prompt_tokens": 4344,
+    "prompt_tokens_details": null,
+    "total_tokens": 4400
+  }
+}

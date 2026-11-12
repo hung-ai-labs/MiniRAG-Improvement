@@ -1,0 +1,17 @@
+{
+  "body_sha256": "8c035a0bd05f75660f27be4822ae823da8cf1178dff1b28f9754db2579e0bcbf",
+  "finish_reason": "stop",
+  "latency_s": 10.011263333999523,
+  "prediction": "Based on the conversations shared, Jennifer Moore suggested a few exercises for Li Hua to perform at home. In one of the conversations, Jennifer mentions, \"For strength, we can incorporate more resistance training into your routine. As for flexibility, adding some dedicated stretching or yoga sessions would really help. We can tweak your current plan to include those. Sound good?\" This indicates that Jennifer recommended incorporating both resistance training (strength exercises) and yoga sessions into Li Hua's home workout routine. Additionally, she also suggested keeping up with cardio and strength exercises, emphasizing the importance of maintaining a balanced workout regimen.",
+  "prediction_sha256": "42d586476c08a69a969a668df5645d83126b4fd6607003e32a17a5006447bf23",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 77,
+  "usage": {
+    "completion_tokens": 121,
+    "prompt_tokens": 4191,
+    "prompt_tokens_details": null,
+    "total_tokens": 4312
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "5098490955c2f7e997dac88bd8d8ab481e2352a6158e89bffcd821dc98c865b7",
+  "finish_reason": "stop",
+  "latency_s": 8.19867720899856,
+  "prediction": "JakeWatson mentions several characteristics of Real Madrid in the discussions recorded. One notable characteristic he emphasizes is their \"never-say-die\" attitude, highlighting their tendency to turn things around in tough situations. Specifically, he recalls a game where Real Madrid was down by two goals but managed to score two goals in quick succession, turning the match around. This resilience and ability to bounce back under pressure are highlighted as defining features of Real Madrid's approach to the game.",
+  "prediction_sha256": "62422220075b89130f9e89f5a9b45479bd753989348713ddeaa51e12ec4bae9c",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100356,
+  "usage": {
+    "completion_tokens": 94,
+    "prompt_tokens": 3902,
+    "prompt_tokens_details": null,
+    "total_tokens": 3996
+  }
+}

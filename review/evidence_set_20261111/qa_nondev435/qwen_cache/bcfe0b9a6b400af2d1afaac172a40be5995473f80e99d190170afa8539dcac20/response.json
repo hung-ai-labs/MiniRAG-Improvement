@@ -1,0 +1,17 @@
+{
+  "body_sha256": "bcfe0b9a6b400af2d1afaac172a40be5995473f80e99d190170afa8539dcac20",
+  "finish_reason": "stop",
+  "latency_s": 14.158689625000989,
+  "prediction": "On April 3, 2026, the bread delivery to Li Hua is being handled by Hailey Johnson. This is indicated in the conversation where HaileyJohnson mentions, \"Hey! Just a quick reminder that Alice is on her way to deliver your fresh bread this morning. Enjoy! 🥖💖\". Additionally, it is noted that Alice delivers the bread multiple times, as evidenced by subsequent entries such as \"Alice: I am Alice from Hailey's bakery. Your bread has been delivered, please come and pick it up ASAP. Have a good day : )\". Hence, Alice is the primary delivery person on this specific date, although Alice also handles other deliveries as well.",
+  "prediction_sha256": "9a217dcb55d141e00510474daea7ff0da02fe0598c2f3e95b1b92d4fc18c6551",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200105,
+  "usage": {
+    "completion_tokens": 142,
+    "prompt_tokens": 4606,
+    "prompt_tokens_details": null,
+    "total_tokens": 4748
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "029b734d32864637462618dba2f47d8ad36e03b521444e485dd0a2d410665194",
+  "finish_reason": "stop",
+  "latency_s": 8.84312633400259,
+  "prediction": "In the conversation recorded on October 12, 2026 at 10:00, LiHua and AdamSmith discuss setting a time to install the curtains together. Specifically, AdamSmith suggests a weeknight as a suitable time for the installation, mentioning he is \"free most evenings.\" LiHua agrees, proposing Wednesday at 5 pm, which AdamSmith finds perfect. Therefore, the day they agree to install the curtain is Wednesday, specifically at 5 pm.",
+  "prediction_sha256": "3c5bf1504e2a0c78ff469c1898d2629c87cae46b44105f352511f97b193d9a8b",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100249,
+  "usage": {
+    "completion_tokens": 101,
+    "prompt_tokens": 4348,
+    "prompt_tokens_details": null,
+    "total_tokens": 4449
+  }
+}

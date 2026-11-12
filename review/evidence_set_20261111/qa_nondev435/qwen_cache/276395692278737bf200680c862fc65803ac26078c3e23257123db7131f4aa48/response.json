@@ -1,0 +1,17 @@
+{
+  "body_sha256": "276395692278737bf200680c862fc65803ac26078c3e23257123db7131f4aa48",
+  "finish_reason": "stop",
+  "latency_s": 11.365340500000457,
+  "prediction": "In the conversation, WolfgangSchulz initiates the discussion about snacks and drinks for the movie night, specifically mentioning that LiHua should \"grab some snacks too for the movie.\" He further clarifies his preferences for drinks, saying, \"Just some soda and juice will be perfect.\" Therefore, it is LiHua who will be responsible for picking up the snacks and drinks on her way to the movie night.",
+  "prediction_sha256": "e5f0fe2454778ea362edbdfac043c2e04af1b3584d14a771c78277b9f588d61c",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200307,
+  "usage": {
+    "completion_tokens": 85,
+    "prompt_tokens": 5306,
+    "prompt_tokens_details": null,
+    "total_tokens": 5391
+  }
+}

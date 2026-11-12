@@ -1,0 +1,17 @@
+{
+  "body_sha256": "82e3cb612d7460bfac06f82f843436b88de4b3c0469637ab4feff026b7fec19e",
+  "finish_reason": "stop",
+  "latency_s": 13.401207582999632,
+  "prediction": "Yuriko Yamamoto considers adding a user feedback section to her studio's homepage. This feedback section would include a simple form for users to leave comments or suggestions, along with a star rating system to gauge their satisfaction. Additionally, she envisions incorporating testimonials to build trust with potential clients, enhancing the credibility of her speech therapy services. Yuriko aims to implement this feature by the end of the week to ensure ample time for review before her next client appointments.",
+  "prediction_sha256": "db61d9100018d190dbd2974a7a36b53c770928b1a70721517919c9d030422ee9",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100089,
+  "usage": {
+    "completion_tokens": 94,
+    "prompt_tokens": 4798,
+    "prompt_tokens_details": null,
+    "total_tokens": 4892
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "18e2e9cd5b1d362a04dc6b9c97cc54cdfc1a444dfe98f262cad476c622d8cafe",
+  "finish_reason": "stop",
+  "latency_s": 3.3111271660018247,
+  "prediction": "During Wolfgang's trip to Hong Kong, he took the initiative to find something special for Li Hua. Specifically, Wolfgang ensured that he would look for unique snacks and a local souvenir for Li Hua. This gesture demonstrates Wolfgang's care and interest in making Li Hua's experience enjoyable and fulfilling. However, no specific items were mentioned for purchase during his trip, only the intention to find something special.",
+  "prediction_sha256": "7fb6a513c3d9577af97e45ec6dd709594ed786b0e879883012c4956ce7b8f5a4",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200447,
+  "usage": {
+    "completion_tokens": 82,
+    "prompt_tokens": 4621,
+    "prompt_tokens_details": null,
+    "total_tokens": 4703
+  }
+}

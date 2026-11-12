@@ -1,0 +1,17 @@
+{
+  "body_sha256": "4a9a5b63912d6b1a4888d0f9e53a5df679fba9320cb5f88243f55d3e37028de9",
+  "finish_reason": "stop",
+  "latency_s": 103.35034929199901,
+  "prediction": " The provided data tables and sources do not contain specific information regarding the date or time when Li Hua informed Adam Smith that the rent was transferred. There is no mention of a rent transfer conversation or the exact timing in the given records. Therefore, based on the available information, it is not possible to determine when Li Hua communicated the completion of the rent transfer to Adam Smith.",
+  "prediction_sha256": "be877e51d0615a6e806e24bb750e0e3d3c4155a2b5fbd621fea8b6775334872d",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 18,
+  "usage": {
+    "completion_tokens": 78,
+    "prompt_tokens": 4639,
+    "prompt_tokens_details": null,
+    "total_tokens": 4717
+  }
+}

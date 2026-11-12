@@ -1,0 +1,17 @@
+{
+  "body_sha256": "c7568ef1889b1ea3f63f2aafe4aee3bb205bd734d10cc7d0e7e7ba4d6c953608",
+  "finish_reason": "stop",
+  "latency_s": 10.098544083000888,
+  "prediction": "During the picnic, RexxarRemar suggests bringing some blankets or chairs for seating, which would be particularly useful as the garden is likely to become quite crowded. Additionally, he proposes having a mix of snacks and drinks to keep everyone energized throughout the day. RexxarRemar also emphasizes the importance of hydration, suggesting the need for water and drinks available to ensure everyone stays well-hydrated, especially since the picnic is likely to take place outdoors.",
+  "prediction_sha256": "ed28eaeef89117ce9cc19b7377d92d391a08c9ef63e24ad25cd9351b9b3cb20c",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200396,
+  "usage": {
+    "completion_tokens": 95,
+    "prompt_tokens": 3922,
+    "prompt_tokens_details": null,
+    "total_tokens": 4017
+  }
+}

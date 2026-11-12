@@ -1,0 +1,17 @@
+{
+  "body_sha256": "33139cbcd828e562f4c1defee0e14cb5ef5ff37a9e69061c672380593a06e0af",
+  "finish_reason": "stop",
+  "latency_s": 10.346718958000565,
+  "prediction": "According to the conversations recorded, Li Hua's fitness plan for the upcoming month is centered around increasing her strength and possibly adding some flexibility and balance work. Specifically, in one conversation dated March 5th, Jennifer Moore suggested that Li Hua could incorporate more resistance training into her routine to enhance her strength. Additionally, Jennifer proposed adding some dedicated yoga and dynamic stretching sessions to improve flexibility and balance, which Li Hua expressed interest in and was looking forward to implementing. This indicates that Li Hua plans to focus on enhancing both her strength and flexibility in her fitness regimen moving forward.",
+  "prediction_sha256": "0b1e07268739c23edcfef8b217fa555f5bd355f1d7dc1c413194bfc9b8185e73",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100100,
+  "usage": {
+    "completion_tokens": 118,
+    "prompt_tokens": 4313,
+    "prompt_tokens_details": null,
+    "total_tokens": 4431
+  }
+}

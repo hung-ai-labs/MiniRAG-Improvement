@@ -1,0 +1,17 @@
+{
+  "body_sha256": "89687054aa84bff7c5cb32cce833c8903bc730269c44f36c41b5af96bbbf4a28",
+  "finish_reason": "stop",
+  "latency_s": 9.433979707999242,
+  "prediction": "On the jam session scheduled for April 5th, 2026 (20260405), Li Hua suggests playing \"Viva la Vida\" by Coldplay. This song is described as being fun to play and a great choice to try during the jam session. Li Hua also mentions that they might need to prepare a bit to get the timing right, suggesting listening to the track beforehand.",
+  "prediction_sha256": "75a4888a2dc2665f5096234fef9913d373a74370dd12cbbd0a59fec0832826d6",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100103,
+  "usage": {
+    "completion_tokens": 89,
+    "prompt_tokens": 4373,
+    "prompt_tokens_details": null,
+    "total_tokens": 4462
+  }
+}

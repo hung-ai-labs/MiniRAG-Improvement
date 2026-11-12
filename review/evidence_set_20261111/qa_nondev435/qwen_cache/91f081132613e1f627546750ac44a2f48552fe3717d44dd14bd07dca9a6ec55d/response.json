@@ -1,0 +1,17 @@
+{
+  "body_sha256": "91f081132613e1f627546750ac44a2f48552fe3717d44dd14bd07dca9a6ec55d",
+  "finish_reason": "stop",
+  "latency_s": 11.940837916998134,
+  "prediction": "In the conversation, LiHua mentions a scene from \"Chernobyl\" that he finds particularly impactful. Specifically, he notes, \"I think the scene where they’re trying to contain the radiation and the sacrifices made by the workers is super impactful. It really shows the human spirit in tough times.\" This scene encapsulates the harrowing reality faced by the workers during the Chernobyl disaster, highlighting their courage and resilience in the face of extreme danger and adversity.",
+  "prediction_sha256": "a7d48fc478e6a8b84c6911cfed08c954593f9eadd2edcefcbd06f7a8ea6ca310",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 384,
+  "usage": {
+    "completion_tokens": 96,
+    "prompt_tokens": 4469,
+    "prompt_tokens_details": null,
+    "total_tokens": 4565
+  }
+}

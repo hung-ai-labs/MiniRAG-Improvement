@@ -1,0 +1,17 @@
+{
+  "body_sha256": "4198a4ba69b9991edb463bb54a8b7f2f92d6efb966f2b51f6a6f2c1c81755520",
+  "finish_reason": "stop",
+  "latency_s": 9.805291125001531,
+  "prediction": "JakeWatson emphasizes several characteristics of Real Madrid, but one prominent aspect he highlights is the \"never-say-die attitude\" or resilience under pressure. He provides a vivid example of a game where Real Madrid was down by two goals but managed to recover and score two goals in quick succession, showcasing their ability to turn things around. This resilience and determination is a defining trait of Real Madrid according to JakeWatson.",
+  "prediction_sha256": "0da57bc6eb088f0d46d2ecdcebf569f06ddd59d6eb0a7034d0cf74a43f62b22f",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 356,
+  "usage": {
+    "completion_tokens": 85,
+    "prompt_tokens": 4248,
+    "prompt_tokens_details": null,
+    "total_tokens": 4333
+  }
+}

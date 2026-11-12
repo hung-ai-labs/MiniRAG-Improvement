@@ -1,0 +1,17 @@
+{
+  "body_sha256": "6bac4cb8964400e8906c68a034a46fd99ad8bb236ed860094e23d1a30ca19f3e",
+  "finish_reason": "stop",
+  "latency_s": 10.569170041999314,
+  "prediction": "After the match between Liverpool and Manchester, LiHua has taken responsibility for ordering pizza. She mentioned she will ensure a variety of toppings are included in the order, aiming to make it a fun and enjoyable meal for everyone. Additionally, LiHua is considering getting some water bottles to keep everyone hydrated throughout the match. Therefore, for the match day, LiHua will be handling the pizza order, and it seems she is also planning to provide hydration with water bottles.",
+  "prediction_sha256": "7003bb44eddd4c55566af551307e7de4bdf81cf4e6e5ab349871b9f7cf10faef",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100301,
+  "usage": {
+    "completion_tokens": 96,
+    "prompt_tokens": 3313,
+    "prompt_tokens_details": null,
+    "total_tokens": 3409
+  }
+}

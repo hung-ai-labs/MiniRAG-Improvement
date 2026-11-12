@@ -1,0 +1,17 @@
+{
+  "body_sha256": "dff0bc70469f407f1faad359f850ce15d4ebb078db93c95b9549452fbd3fe1a2",
+  "finish_reason": "stop",
+  "latency_s": 7.789211374998558,
+  "prediction": "Based on the conversation, ChaeSong-hwa organized a karaoke activity for this Saturday at 7 PM. However, there is another karaoke event scheduled for this Friday evening, which was proposed by ChaeSong-hwa and WolfgangSchulz. LiHua mentioned being \"totally up for it\" for the Friday evening karaoke night, indicating that this Friday evening session was agreed upon by all participants.",
+  "prediction_sha256": "8a071b41f797fc4efcb1f4a8fcf477220e19d53f74b86c2e300361045e198bf9",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100112,
+  "usage": {
+    "completion_tokens": 86,
+    "prompt_tokens": 3775,
+    "prompt_tokens_details": null,
+    "total_tokens": 3861
+  }
+}

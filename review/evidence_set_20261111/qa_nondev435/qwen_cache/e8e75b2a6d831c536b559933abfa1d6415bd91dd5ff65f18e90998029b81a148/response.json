@@ -1,0 +1,17 @@
+{
+  "body_sha256": "e8e75b2a6d831c536b559933abfa1d6415bd91dd5ff65f18e90998029b81a148",
+  "finish_reason": "stop",
+  "latency_s": 9.251209792000736,
+  "prediction": "The purpose of the community picnic, as described in the provided data, is to serve as the catalyst for an event that involves starting a picnic, aiming to engage the community in a fun and social gathering. This event is intended to initiate a series of activities and discussions related to enhancing the community garden and planning future community events. While specific details about the event itself are not provided, the picnic is seen as a step towards fostering community spirit and planning additional gatherings and activities within the garden.",
+  "prediction_sha256": "264613be2f594a4acd5b8cc5e9f14dd6b51483e363eb0a69214e9976e5c370b8",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100391,
+  "usage": {
+    "completion_tokens": 98,
+    "prompt_tokens": 4766,
+    "prompt_tokens_details": null,
+    "total_tokens": 4864
+  }
+}

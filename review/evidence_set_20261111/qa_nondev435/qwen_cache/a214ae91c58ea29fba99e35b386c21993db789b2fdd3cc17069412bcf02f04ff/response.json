@@ -1,0 +1,17 @@
+{
+  "body_sha256": "a214ae91c58ea29fba99e35b386c21993db789b2fdd3cc17069412bcf02f04ff",
+  "finish_reason": "stop",
+  "latency_s": 12.15248908400099,
+  "prediction": "Yes, based on the information provided, Wolfgang did indeed inform Li Hua about his business trip to Hong Kong, stating, \"Hey! Just a heads-up, I won't be able to make it to practice this week. I have a business trip to Hong Kong.\" Later, he updates Li Hua with his arrival in Hong Kong, mentioning, \"Just touched down in Hong Kong! 😍 The city is incredible, so vibrant and full of life. Can’t wait to explore!\" This clearly shows that Wolfgang arrived in Hong Kong after informing Li Hua about his trip.",
+  "prediction_sha256": "3f32a11d8fefdcba444aa96566408031c0387dd633878dcd1be9954463750563",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100030,
+  "usage": {
+    "completion_tokens": 118,
+    "prompt_tokens": 4599,
+    "prompt_tokens_details": null,
+    "total_tokens": 4717
+  }
+}

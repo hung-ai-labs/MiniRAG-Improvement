@@ -1,0 +1,17 @@
+{
+  "body_sha256": "757802581196e5d5f2c451b10449fa360d3e0391b2715aeab0bdf459aa3e78a3",
+  "finish_reason": "stop",
+  "latency_s": 6.899386624998442,
+  "prediction": "JakeWatson recommends squats and lunges as key exercises for improving leg strength, particularly for soccer players. He suggests these exercises because they help with power on the field. Additionally, he advises including stretches, like hamstring and quad stretches, after workouts to keep the muscles flexible. These stretching exercises can be held for about 30 seconds each.",
+  "prediction_sha256": "e6c209f4e4aab7839d5b3c148729a0e615dbe186ebac196764013748222651da",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 268,
+  "usage": {
+    "completion_tokens": 71,
+    "prompt_tokens": 4315,
+    "prompt_tokens_details": null,
+    "total_tokens": 4386
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "427d8d41d64d7bd3c916502845b4783accb808486ce6cb1620412c4ceced9385",
+  "finish_reason": "stop",
+  "latency_s": 9.490985417000047,
+  "prediction": "The bread delivery service at Hailey's bakery was initially introduced by HaileyJohnson, who highlighted its convenience for customers who might have busy schedules. To facilitate this service, HaileyJohnson hired a new clerk named Alice to manage doorstep deliveries for both milk and bread, starting from Monday and Friday at 8 AM. Alice is described as being friendly and efficient, making her an ideal candidate for delivering bread. HaileyJohnson emphasized that Alice is doing a \"wonderful job already,\" suggesting her suitability for the task.",
+  "prediction_sha256": "c210672f04398ba284a55d69683a01f4aeff4c247ac221977f227daa57b5a740",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100035,
+  "usage": {
+    "completion_tokens": 105,
+    "prompt_tokens": 4427,
+    "prompt_tokens_details": null,
+    "total_tokens": 4532
+  }
+}

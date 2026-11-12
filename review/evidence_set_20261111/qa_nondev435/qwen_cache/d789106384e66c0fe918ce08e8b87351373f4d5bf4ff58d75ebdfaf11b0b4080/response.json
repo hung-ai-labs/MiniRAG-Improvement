@@ -1,0 +1,17 @@
+{
+  "body_sha256": "d789106384e66c0fe918ce08e8b87351373f4d5bf4ff58d75ebdfaf11b0b4080",
+  "finish_reason": "stop",
+  "latency_s": 5.361767374997726,
+  "prediction": "Chae first suggested visiting the music festival in the morning during a conversation where they were discussing the local music festival that was taking place on a Saturday. Specifically, Chae mentioned this when they were planning out what to see at the festival, indicating that they were considering a Saturday morning visit. However, Chae did not specify an exact time for the morning visit.",
+  "prediction_sha256": "12e606ef296d5543dc6123b40ed60daf68381b234ab934a7699558153882fb14",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 445,
+  "usage": {
+    "completion_tokens": 74,
+    "prompt_tokens": 5233,
+    "prompt_tokens_details": null,
+    "total_tokens": 5307
+  }
+}

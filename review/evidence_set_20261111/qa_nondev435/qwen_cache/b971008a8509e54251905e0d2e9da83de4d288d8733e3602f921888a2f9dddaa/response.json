@@ -1,0 +1,17 @@
+{
+  "body_sha256": "b971008a8509e54251905e0d2e9da83de4d288d8733e3602f921888a2f9dddaa",
+  "finish_reason": "stop",
+  "latency_s": 8.181999583001016,
+  "prediction": "Based on the conversation between Li Hua and Adam Smith, Adam Smith provided the phone number for the maintenance worker to Li Hua when she mentioned noticing a broken streetlight. Specifically, Adam Smith informed Li Hua that she could call the maintenance worker at the number 314159 to get the issue resolved. This number is provided as the contact information for the maintenance worker who is responsible for fixing streetlights and addressing other issues related to the infrastructure.",
+  "prediction_sha256": "713cea17a53a2eaedad2e0b11afa5f7fb7659fc58afd14d2f1a1620f620ee419",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100132,
+  "usage": {
+    "completion_tokens": 95,
+    "prompt_tokens": 3681,
+    "prompt_tokens_details": null,
+    "total_tokens": 3776
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "87d8024a3cc90f707a8d0991d2ee2da23b9c28f5048b2bd7e1f78cc841f2ca7d",
+  "finish_reason": "stop",
+  "latency_s": 6.425185083997349,
+  "prediction": "In the conversation detailing the hot pot dinner plans, Wolfgang mentioned that he would bring some special items to the dinner. However, regarding the dessert Wolfgang planned to have with Li Hua after their hot pot dinner, there isn't specific mention in the provided data. The conversation focuses mainly on the type of hot pot they plan to have and the drinks they intend to consume, but does not specify the dessert Wolfgang had in mind. Thus, based on the information available, we cannot determine the dessert Wolfgang planned to have with Li Hua.",
+  "prediction_sha256": "06ff69bf897397f9b8c724ab8eb7b7c8e7fb9717717aa267c61610ea97d1b716",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 441,
+  "usage": {
+    "completion_tokens": 108,
+    "prompt_tokens": 4261,
+    "prompt_tokens_details": null,
+    "total_tokens": 4369
+  }
+}

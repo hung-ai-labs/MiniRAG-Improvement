@@ -1,0 +1,17 @@
+{
+  "body_sha256": "5a0a63a992c686dbe90aa933472191813c18af4789fe46de499f090aeb0e7a80",
+  "finish_reason": "stop",
+  "latency_s": 4.958576625002024,
+  "prediction": "In the conversation regarding Wolfgang and Li Hua's hot pot dinner, Wolfgang expressed interest in getting a cold beer to complement the meal. However, the specific dessert they planned to have after their dinner is not mentioned. The focus was mainly on the food pairing and the anticipation for their evening out.",
+  "prediction_sha256": "eaea4dd94ab9386473a89e08f9fe3699da0b45dda319304ee8efa21c35d697a7",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200441,
+  "usage": {
+    "completion_tokens": 60,
+    "prompt_tokens": 4508,
+    "prompt_tokens_details": null,
+    "total_tokens": 4568
+  }
+}

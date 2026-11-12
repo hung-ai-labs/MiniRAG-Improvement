@@ -1,0 +1,17 @@
+{
+  "body_sha256": "35d375a640a62dae00733684fb046a3252af89f8e8535e8817c2390846876d85",
+  "finish_reason": "stop",
+  "latency_s": 12.94257054099944,
+  "prediction": "Based on the records, Li Hua has requested multiple deliveries from Hailey Johnson. Specifically, on several occasions, Li Hua has asked for bread to be delivered twice a week, on Mondays at 8 AM and Fridays at 8 AM. This pattern of delivery requests suggests that Li Hua prefers consistent and frequent deliveries of fresh bread to meet her needs. Additionally, Li Hua has also expressed interest in receiving a special order, such as a new flavor or a particular type of bread, through these delivery services.",
+  "prediction_sha256": "594f25297a14d19ca5027d024f1e7b55b72fe2ddd9f68d49efc17fd81ed8c7f0",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100093,
+  "usage": {
+    "completion_tokens": 106,
+    "prompt_tokens": 4563,
+    "prompt_tokens_details": null,
+    "total_tokens": 4669
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "675b6a815c0d13824fb56e0132eaec0d56fd6f0dc5b8031810755b9041b28d63",
+  "finish_reason": "stop",
+  "latency_s": 13.816686291000224,
+  "prediction": "Based on the information provided, the name of the bakery that delivers the bread to Li Hua is Hailey's Bakery. Regarding the toppings for Li Hua's next delivery, no specific details were given about which items were added to the bread. From the context, it seems that the bakery offers a variety of bread types and pastries, including options like rosemary focaccia, sourdough, and cinnamon rolls. These options suggest that toppings could include ingredients such as cherry tomatoes, olives, and various spreads, depending on the specific bread type. Without further details from Li Hua's interactions, it is not possible to specify the exact toppings for her next delivery.",
+  "prediction_sha256": "00f97ba912dc71dcec26c88eb3c69c5b30469e55183b0828bc6c9474f2300281",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200420,
+  "usage": {
+    "completion_tokens": 138,
+    "prompt_tokens": 5061,
+    "prompt_tokens_details": null,
+    "total_tokens": 5199
+  }
+}

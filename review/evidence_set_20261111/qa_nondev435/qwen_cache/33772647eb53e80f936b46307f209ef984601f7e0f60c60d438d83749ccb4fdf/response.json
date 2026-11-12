@@ -1,0 +1,17 @@
+{
+  "body_sha256": "33772647eb53e80f936b46307f209ef984601f7e0f60c60d438d83749ccb4fdf",
+  "finish_reason": "stop",
+  "latency_s": 10.140875999997661,
+  "prediction": "In the conversation recorded on November 26, 2026 at 16:30, LiHua inquires about AdamSmith's stance on hosting friends over at his place. Specifically, LiHua asks, \"Hey Adam! Just wanted to ask for the Wi-Fi password when you get a chance. Also, are there any house rules I should know about? Thanks!\" AdamSmith responds, \"You're welcome! Yes, having friends over occasionally is fine, just try to keep the gatherings reasonable.\" This indicates that AdamSmith allows occasional gatherings of friends, but he suggests keeping the events reasonable in terms of duration and impact on the property.",
+  "prediction_sha256": "2ca26f1362896248a7a598c3e4c1873d69d05001acacf3c629e65c617f513e80",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 58,
+  "usage": {
+    "completion_tokens": 136,
+    "prompt_tokens": 3486,
+    "prompt_tokens_details": null,
+    "total_tokens": 3622
+  }
+}

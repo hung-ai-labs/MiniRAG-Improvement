@@ -1,0 +1,17 @@
+{
+  "body_sha256": "fd27f028cca50de410a2b7ae58b90ae0bc494d0f452f24e3fd87816b546f93a2",
+  "finish_reason": "stop",
+  "latency_s": 11.405105166002613,
+  "prediction": "Based on the conversation, Li Hua expressed a desire for a regular delivery schedule, specifically mentioning that she would like the delivery to happen on Tuesdays. During the discussion regarding her first order of the new gluten-free bread, Li Hua provided her address as 123 Sunny Street. However, the exact address where Li Hua wants the bread delivery to be made is not explicitly stated; it is implied through her request for a regular Tuesday delivery.",
+  "prediction_sha256": "f5b2274463c473370d9e4870863a2cf7a9a4ec392e7b1b66dc65a69eac06fd0e",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 94,
+  "usage": {
+    "completion_tokens": 93,
+    "prompt_tokens": 4604,
+    "prompt_tokens_details": null,
+    "total_tokens": 4697
+  }
+}

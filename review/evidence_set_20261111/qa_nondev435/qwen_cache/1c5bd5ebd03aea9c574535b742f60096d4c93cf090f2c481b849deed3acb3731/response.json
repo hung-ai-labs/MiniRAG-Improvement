@@ -1,0 +1,17 @@
+{
+  "body_sha256": "1c5bd5ebd03aea9c574535b742f60096d4c93cf090f2c481b849deed3acb3731",
+  "finish_reason": "stop",
+  "latency_s": 11.894509249999828,
+  "prediction": "In the latest interaction noted in the timeline, Li Hua expressed excitement about the summer promotion that Hailey Johnson informed her about. Specifically, Li Hua inquired about the promotion's offerings, mentioning her favorite summer dessert flavors—mango and coconut. Hailey confirmed that the promotion includes fruity ice cream flavors and possibly a mango-coconut pastry, along with chocolate treats. Li Hua was particularly enthusiastic about these options, stating that she \"definitely [looked] forward[s] to trying those fruity options you mentioned.\" Therefore, Li Hua is looking forward to tasting the mango and coconut-flavored ice cream and possibly the mango-coconut pastry during the promotion.",
+  "prediction_sha256": "d8b44b674b9805b3a7eeeabbf603e9c4c5b0fb8b02fda579d4ff420b8c44556f",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 121,
+  "usage": {
+    "completion_tokens": 136,
+    "prompt_tokens": 4393,
+    "prompt_tokens_details": null,
+    "total_tokens": 4529
+  }
+}

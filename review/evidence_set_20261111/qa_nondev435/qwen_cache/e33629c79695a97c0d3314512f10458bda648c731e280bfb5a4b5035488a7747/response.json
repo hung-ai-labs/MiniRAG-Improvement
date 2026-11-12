@@ -1,0 +1,17 @@
+{
+  "body_sha256": "e33629c79695a97c0d3314512f10458bda648c731e280bfb5a4b5035488a7747",
+  "finish_reason": "stop",
+  "latency_s": 10.480945208997582,
+  "prediction": "Based on the discussions, several types of flowers were suggested by residents for the community garden. Turalyon mentioned lavender and coneflowers as potential additions, noting that they are both beautiful and beneficial for pollinators, requiring minimal maintenance. Additionally, native plant species were proposed by Li Hua, who suggested including lavender, coneflowers, and other native flowers that would attract butterflies and bees. Furthermore, a small herb section was proposed by Adam Smith, suggesting basil, mint, and rosemary for people to use fresh in their cooking. These flowers and herbs would contribute to making the garden more inviting, functional, and environmentally friendly.",
+  "prediction_sha256": "d8044974cfb0c45b6ccc58950daa439781b90a555abb4c73477fabf03c4fe274",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100437,
+  "usage": {
+    "completion_tokens": 131,
+    "prompt_tokens": 3943,
+    "prompt_tokens_details": null,
+    "total_tokens": 4074
+  }
+}

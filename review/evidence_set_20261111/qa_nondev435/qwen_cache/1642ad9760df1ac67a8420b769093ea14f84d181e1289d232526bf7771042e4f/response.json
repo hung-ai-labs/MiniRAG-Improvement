@@ -1,0 +1,17 @@
+{
+  "body_sha256": "1642ad9760df1ac67a8420b769093ea14f84d181e1289d232526bf7771042e4f",
+  "finish_reason": "stop",
+  "latency_s": 7.244387958002335,
+  "prediction": "Jasper recommends the 2005 final between Liverpool and AC Milan as a classic match that is worth watching. In this match, Liverpool found themselves down 3-0 at halftime, but managed to pull off a miraculous comeback to win the game in penalties. This dramatic comeback showcased the resilience and determination of the Liverpool team, making it a memorable and exciting match.",
+  "prediction_sha256": "2dd36b841ddd8d2c60cb0ed3c3a1e91895c2acb4cbb490985839273353d1e232",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200182,
+  "usage": {
+    "completion_tokens": 76,
+    "prompt_tokens": 4870,
+    "prompt_tokens_details": null,
+    "total_tokens": 4946
+  }
+}

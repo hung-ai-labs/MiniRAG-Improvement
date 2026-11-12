@@ -1,0 +1,39 @@
+{
+  "candidates": 9000,
+  "chunks_sha256": "a26893f7b01edc957e8c8c3c6b9bdce28fd41cadd9aae48b2fe262e3ee0b6f24",
+  "features": [
+    "native_rank",
+    "native_rank_log",
+    "in_native30",
+    "graph_rank",
+    "graph_score",
+    "graph_score_rel",
+    "in_graph",
+    "in_dense30",
+    "dense_rank",
+    "date_match",
+    "time_boosted",
+    "n_seed_paths",
+    "n_keyword_groups",
+    "is_path_head",
+    "is_continuation",
+    "chunk_order",
+    "doc_chunks",
+    "tokens"
+  ],
+  "fold_sizes": {
+    "0": 40,
+    "1": 41,
+    "2": 40,
+    "3": 39,
+    "4": 40
+  },
+  "folds": "grouped by gold document, 5 folds",
+  "label_rule": "label=1 iff the chunk holds the Time header of an Evidence stamp of the question",
+  "labelled": 177,
+  "pool": "native@45",
+  "pools_sha256": "c4963cd039db14fe35cf77d68f20998c9d3fdb915411a4b5ad9fba32fa6515f2",
+  "positives": 136,
+  "questions": 200,
+  "train_sha256": "d6e372d634233ca840c5122a705fb6ed31d5839c41407229371db814b4b37cee"
+}

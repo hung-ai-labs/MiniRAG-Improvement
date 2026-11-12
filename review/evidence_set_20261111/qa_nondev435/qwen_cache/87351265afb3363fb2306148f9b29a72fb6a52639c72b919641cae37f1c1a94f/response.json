@@ -1,0 +1,17 @@
+{
+  "body_sha256": "87351265afb3363fb2306148f9b29a72fb6a52639c72b919641cae37f1c1a94f",
+  "finish_reason": "stop",
+  "latency_s": 11.679169874998479,
+  "prediction": "In one of the conversations, JakeWatson provides advice on maintaining muscle flexibility, particularly for soccer players. He emphasizes the importance of proper warm-up and stretching before any game, as this helps prepare the muscles and enhances flexibility. Additionally, he suggests that soccer players should stay hydrated and wear appropriate footwear to avoid injuries. JakeWatson also recommends incorporating strength training into the routine, as it helps build muscles around joints and improves overall stability and endurance. For specific exercises, he suggests squats, lunges, and planks to build core and leg strength. Furthermore, JakeWatson recommends including balance exercises like single-leg stands to enhance flexibility and balance.",
+  "prediction_sha256": "8ed2621afc7685b212dfbee449e88933266d655344ae6809e2019499d0f76ded",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100269,
+  "usage": {
+    "completion_tokens": 131,
+    "prompt_tokens": 3869,
+    "prompt_tokens_details": null,
+    "total_tokens": 4000
+  }
+}

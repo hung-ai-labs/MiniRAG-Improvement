@@ -1,0 +1,17 @@
+{
+  "body_sha256": "9e8f8ce91f189a35b1ac26b312c92cce6a81534dc7ece8bca930e619dc464827",
+  "finish_reason": "stop",
+  "latency_s": 8.641163041000254,
+  "prediction": "Based on the conversations recorded, EmilyBurnett remembers that LiHua has a particular fondness for the TV series \"Brooklyn Nine-Nine.\" This is evident from EmilyBurnett's question to LiHua about her all-time favorite comedy TV series, which LiHua responds by saying that \"Brooklyn Nine-Nine\" is one of her favorites. Additionally, EmilyBurnett mentions recommending \"Stranger Things\" to LiHua, suggesting that LiHua may also be interested in this series, given the positive reception EmilyBurnett has for it. However, no other specific series are directly linked to LiHua's preferences in the provided conversations.",
+  "prediction_sha256": "74f5ba8afe21c6faee09dfd3689ed4341a09c416218f18b34ce0a2a944165394",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 382,
+  "usage": {
+    "completion_tokens": 135,
+    "prompt_tokens": 3712,
+    "prompt_tokens_details": null,
+    "total_tokens": 3847
+  }
+}

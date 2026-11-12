@@ -1,0 +1,17 @@
+{
+  "body_sha256": "eaca86cec6796f015b7f0a9c7881c2b85cf05ef1c59b0304c0ed19cc072dc1b8",
+  "finish_reason": "stop",
+  "latency_s": 8.084630290999485,
+  "prediction": "LiHua mentions \"The Stanley Parable\" as a game that does something similar with its storytelling. She notes that it's a game that \"left me thinking\" and describes it as \"hilarious and profound at the same time, playing with various storytelling tropes.\" LiHua emphasizes how it \"twists expectations and keeps you guessing!\" This suggests that \"The Stanley Parable\" uses unconventional narrative structures and plays with common game tropes in ways that challenge the player's expectations, providing a unique and engaging experience.",
+  "prediction_sha256": "0f74ad4cb4a7f81ab5d47dc4f5149f8cbb78c6952c0dd5c708ed11fb8d040799",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 333,
+  "usage": {
+    "completion_tokens": 108,
+    "prompt_tokens": 4075,
+    "prompt_tokens_details": null,
+    "total_tokens": 4183
+  }
+}

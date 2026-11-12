@@ -1,0 +1,17 @@
+{
+  "body_sha256": "d31b9163534f50448f6d7a72f4555ad973c8734eefe439836cbc37ffd491d7da",
+  "finish_reason": "stop",
+  "latency_s": 8.070971707998979,
+  "prediction": "On the occasion marked as \"20260715_19:00\", ChaeSong-hwa suggested checking out a live performance of the song \"Bohemian Rhapsody\" by Queen. This performance seemed to be an inspiration for the band members to potentially incorporate a live rendition of the song into their next jam session.",
+  "prediction_sha256": "45c8934bd2fe201d4407d1ffe4f712eb1b86cc9d71d0a4db90aa755dda3a7ae5",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 152,
+  "usage": {
+    "completion_tokens": 73,
+    "prompt_tokens": 5482,
+    "prompt_tokens_details": null,
+    "total_tokens": 5555
+  }
+}

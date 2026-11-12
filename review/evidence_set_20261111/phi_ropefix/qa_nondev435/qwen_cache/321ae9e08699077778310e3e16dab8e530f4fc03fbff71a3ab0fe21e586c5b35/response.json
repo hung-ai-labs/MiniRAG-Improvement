@@ -1,0 +1,17 @@
+{
+  "body_sha256": "321ae9e08699077778310e3e16dab8e530f4fc03fbff71a3ab0fe21e586c5b35",
+  "finish_reason": "stop",
+  "latency_s": 6.999502458005736,
+  "prediction": " The provided data tables and sources do not contain explicit information regarding the date or time of a garage sale. There are no mentions of a garage sale in the given excerpts from various conversation logs, nor in the accompanying CSV data entries. Therefore, I do not have enough information to specify when the garage sale is being discussed.\n\n---\n\nPlease note that for questions like this, I rely strictly on the data presented. If there's additional context or further information available, I would be glad to assist better. However, based on the current data, it is not possible to determine the scheduling of the mentioned garage sale.\n\n---\nPlease let me know if there is more information or a different context you would like me to consider.",
+  "prediction_sha256": "e5aa8b6ad66d98ac9e987d1b588e97b7f720e697c7d15fae64a6cdcd6514ad5b",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 100168,
+  "usage": {
+    "completion_tokens": 160,
+    "prompt_tokens": 5700,
+    "prompt_tokens_details": null,
+    "total_tokens": 5860
+  }
+}

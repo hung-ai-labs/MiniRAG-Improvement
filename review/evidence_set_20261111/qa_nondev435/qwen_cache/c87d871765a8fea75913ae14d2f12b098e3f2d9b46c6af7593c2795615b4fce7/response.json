@@ -1,0 +1,17 @@
+{
+  "body_sha256": "c87d871765a8fea75913ae14d2f12b098e3f2d9b46c6af7593c2795615b4fce7",
+  "finish_reason": "stop",
+  "latency_s": 8.891556291000597,
+  "prediction": "In the conversation provided, Li Hua mentioned noticing a broken streetlight nearby and asked Adam if he knew who to contact to fix it. Adam responded by suggesting they call the maintenance workers at 314159, indicating that they would be able to assist with the repair. There is no mention of Adam Smith mentioning anything about a light fixture, so it appears that the broken light fixture Li Hua observed is unrelated to the information given in the conversation between Adam Smith and Li Hua.",
+  "prediction_sha256": "caad176af53cf4545bb7cf1bd922daadf78eecfc2f60c86204ba8b82e1c95efd",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 67,
+  "usage": {
+    "completion_tokens": 102,
+    "prompt_tokens": 3841,
+    "prompt_tokens_details": null,
+    "total_tokens": 3943
+  }
+}

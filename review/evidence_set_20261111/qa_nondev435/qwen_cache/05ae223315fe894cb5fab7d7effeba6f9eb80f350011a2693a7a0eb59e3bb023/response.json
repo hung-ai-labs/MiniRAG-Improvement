@@ -1,0 +1,17 @@
+{
+  "body_sha256": "05ae223315fe894cb5fab7d7effeba6f9eb80f350011a2693a7a0eb59e3bb023",
+  "finish_reason": "stop",
+  "latency_s": 10.299765124997066,
+  "prediction": "Based on the conversations provided, Emily Burnett expresses a preference for several TV shows. She mentions liking \"The Office,\" \"Brooklyn Nine-Nine,\" and \"Succession.\" However, her favorite seems to be \"The Office,\" particularly noting that Jim is one of her favorite characters and mentioning her favorite moments from the show, such as Jim's pranks on Dwight. She also recommends it to Li Hua, suggesting that \"The Office\" is a good binge-watching option. Given these details, it appears that Emily Burnett's favorite TV show is \"The Office.\"",
+  "prediction_sha256": "565197c3332a4211124e5af4cf90316f5d54194c2c6aff6cb4d2b48fa11f07d2",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100383,
+  "usage": {
+    "completion_tokens": 116,
+    "prompt_tokens": 4097,
+    "prompt_tokens_details": null,
+    "total_tokens": 4213
+  }
+}

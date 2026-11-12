@@ -1,0 +1,17 @@
+{
+  "body_sha256": "fd4f550b4d6c5e3bb7304718f2e4e1c9cb3c613082f455ca23e43f72c5152584",
+  "finish_reason": "stop",
+  "latency_s": 7.327735291000863,
+  "prediction": "Based on the conversations recorded, Emily Burnett is currently watching \"The White Lotus.\" She expressed interest in the show and stated that she was thinking about starting it. Emily also shared that it's a mix of drama and dark comedy, and that it features characters with hidden agendas in a resort environment, making it sound like an entertaining watch.",
+  "prediction_sha256": "4b939aead6511edff60edff72bde91f473245590864b8d739228d120c94dfe10",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200386,
+  "usage": {
+    "completion_tokens": 68,
+    "prompt_tokens": 3940,
+    "prompt_tokens_details": null,
+    "total_tokens": 4008
+  }
+}

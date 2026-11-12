@@ -1,0 +1,17 @@
+{
+  "body_sha256": "060f9c68862af5ade3e6c49df7d70c9c1571fd998fda76d3881b8feefb1652a7",
+  "finish_reason": "stop",
+  "latency_s": 12.965139416999591,
+  "prediction": "Based on the information provided, Wolfgang is aware that he is traveling to Hong Kong. This is indicated through two entries in the sources table. In the first entry dated 20261219_19:00, WolfgangSchulz informs LiHua that he is heading to Hong Kong for a couple of days next week and asks if LiHua has any items he should grab while he's there. In the second entry dated 20261223_23:00, WolfgangSchulz shares that he has just landed in Hong Kong and describes the vibrant and lively atmosphere of the city. Both of these entries highlight that Wolfgang is currently in or has recently arrived in Hong Kong. Additionally, his interactions in the virtual conversations suggest that he is engaged in activities related to his trip to Hong Kong, including exploring the city and possibly shopping for souvenirs.",
+  "prediction_sha256": "17227efcd1e2b0f1b1d2cad18a0b3202d93eb12a92745e04e7f1c6dbc9c28b8a",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 33,
+  "usage": {
+    "completion_tokens": 187,
+    "prompt_tokens": 4716,
+    "prompt_tokens_details": null,
+    "total_tokens": 4903
+  }
+}

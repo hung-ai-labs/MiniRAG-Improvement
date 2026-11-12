@@ -1,0 +1,17 @@
+{
+  "body_sha256": "17cb3b1381ce9f73b766419cf9ac65ae222de08c72f944aac1f4ba7ab20e37c7",
+  "finish_reason": "stop",
+  "latency_s": 7.313880916997732,
+  "prediction": "In the conversation provided, there is no explicit mention of the reason for Li Hua's unexpected work meeting on Thursday. The context only indicates that she had a meeting scheduled on Thursday afternoon, but does not specify the nature of the meeting or its urgency. Therefore, based solely on the given information, the precise reason for this meeting cannot be determined.",
+  "prediction_sha256": "580196ebc5caa307671a5154fc51022a5c3001d9b170b68772a277c50ba8905a",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100419,
+  "usage": {
+    "completion_tokens": 71,
+    "prompt_tokens": 4376,
+    "prompt_tokens_details": null,
+    "total_tokens": 4447
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "6666f5ec6becb0e3ee71a25011b0405c14a33eca947b22b15faeb875f9ad7df6",
+  "finish_reason": "stop",
+  "latency_s": 8.942102500004694,
+  "prediction": "In the conversation provided, there is no explicit mention of the reason for Li Hua's unexpected work meeting on Thursday. However, Li Hua informs Jennifer Moore that she has an \"unexpected work meeting tomorrow.\" This implies that the nature of the meeting is not specified and could range from professional obligations to personal commitments. Without further details from the conversation, the exact reason for the meeting cannot be determined from the given information.",
+  "prediction_sha256": "95a9b2a6178e3f011e0eb812335ba706036ace7cff666c30aa6e3dacaccb0873",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100419,
+  "usage": {
+    "completion_tokens": 85,
+    "prompt_tokens": 3503,
+    "prompt_tokens_details": null,
+    "total_tokens": 3588
+  }
+}

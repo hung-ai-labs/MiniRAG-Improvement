@@ -1,0 +1,17 @@
+{
+  "body_sha256": "46627691cb83f5f953c54e649cdc04342ffdbeb38cff2e57fee067b259fd8ad6",
+  "finish_reason": "stop",
+  "latency_s": 8.746840125000745,
+  "prediction": "According to the information provided, Wolfgang has indeed visited Hong Kong. Specifically, it is mentioned that WolfgangSchulz arrived in Hong Kong and expressed enthusiasm about exploring the vibrant city, mentioning plans to visit Victoria Peak and try dim sum. Additionally, Wolfgang mentions that he will share pictures from his trip with LiHua. Therefore, Wolfgang has been to Hong Kong for his business trip.",
+  "prediction_sha256": "47ff295c29fc64ae803e19d61eab44c45acbb8a057988dd69220471e89e1a394",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 32,
+  "usage": {
+    "completion_tokens": 78,
+    "prompt_tokens": 4361,
+    "prompt_tokens_details": null,
+    "total_tokens": 4439
+  }
+}

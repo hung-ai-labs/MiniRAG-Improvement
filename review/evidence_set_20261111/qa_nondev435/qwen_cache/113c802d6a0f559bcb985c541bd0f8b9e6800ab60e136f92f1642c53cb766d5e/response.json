@@ -1,0 +1,17 @@
+{
+  "body_sha256": "113c802d6a0f559bcb985c541bd0f8b9e6800ab60e136f92f1642c53cb766d5e",
+  "finish_reason": "stop",
+  "latency_s": 5.888691749998543,
+  "prediction": "LiHua expresses enthusiasm and eagerness for the upcoming karaoke night. In their interactions, they indicate a positive attitude towards the event, stating that it will be \"great to let loose and sing our hearts out together.\" LiHua also looks forward to the variety of songs that will be included, mentioning their preference for both classics and pop hits. Their participation suggests that they are looking forward to the social bonding aspect of the event, which is central to the concept of a karaoke night.",
+  "prediction_sha256": "75981b7e9635a2be78457a0b4913a87a0b35ddc242cc0a06b1519d5268c80637",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200373,
+  "usage": {
+    "completion_tokens": 101,
+    "prompt_tokens": 4462,
+    "prompt_tokens_details": null,
+    "total_tokens": 4563
+  }
+}

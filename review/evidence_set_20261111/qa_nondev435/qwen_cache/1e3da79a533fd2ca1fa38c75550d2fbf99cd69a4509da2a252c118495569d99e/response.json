@@ -1,0 +1,17 @@
+{
+  "body_sha256": "1e3da79a533fd2ca1fa38c75550d2fbf99cd69a4509da2a252c118495569d99e",
+  "finish_reason": "stop",
+  "latency_s": 8.599438625002222,
+  "prediction": "There is no information provided about a food event suggested by Turalyon in the given data. The conversations involve multiple individuals discussing various topics including holidays, dining out, and recipes, but there is no mention of a specific food event that Turalyon suggested.",
+  "prediction_sha256": "1748128f363512c5256ef94cf1a865285b68edbb68cc3809d8f3f5e4e9686c75",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 392,
+  "usage": {
+    "completion_tokens": 53,
+    "prompt_tokens": 3285,
+    "prompt_tokens_details": null,
+    "total_tokens": 3338
+  }
+}

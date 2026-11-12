@@ -1,0 +1,17 @@
+{
+  "body_sha256": "db0c235bdc3964e7a766ea3b22c4e0b26b8dc5a61b33b632a112c845207963ac",
+  "finish_reason": "stop",
+  "latency_s": 8.136920540993742,
+  "prediction": "The conversation referenced in the text mentions a match where Barcelona (Barca) lost 4-0 against Bayern. This particular match is described as occurring in 2013.",
+  "prediction_sha256": "5bd2ac29d468aa84c86e9888c087817df91e7e724351c42d317d54762c9e233b",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100294,
+  "usage": {
+    "completion_tokens": 38,
+    "prompt_tokens": 4479,
+    "prompt_tokens_details": null,
+    "total_tokens": 4517
+  }
+}

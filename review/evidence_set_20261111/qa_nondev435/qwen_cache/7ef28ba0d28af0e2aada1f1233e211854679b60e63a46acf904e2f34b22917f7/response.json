@@ -1,0 +1,17 @@
+{
+  "body_sha256": "7ef28ba0d28af0e2aada1f1233e211854679b60e63a46acf904e2f34b22917f7",
+  "finish_reason": "stop",
+  "latency_s": 9.172463625000091,
+  "prediction": "On the event marked as \"20260715_19:00\", ChaeSong-hwa shares an interesting live performance of the song \"Bohemian Rhapsody\" by Queen. In the discussion, he expresses excitement about potentially performing this song, suggesting that they could blend their styles with the song to create something unique.",
+  "prediction_sha256": "9cab9084af024358cbcbd7aaf3d6a0ee98e1038910d7f77e7eb40469802373c9",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200152,
+  "usage": {
+    "completion_tokens": 74,
+    "prompt_tokens": 5482,
+    "prompt_tokens_details": null,
+    "total_tokens": 5556
+  }
+}

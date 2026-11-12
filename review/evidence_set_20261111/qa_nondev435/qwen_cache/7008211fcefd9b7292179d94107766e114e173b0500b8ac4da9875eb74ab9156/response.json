@@ -1,0 +1,17 @@
+{
+  "body_sha256": "7008211fcefd9b7292179d94107766e114e173b0500b8ac4da9875eb74ab9156",
+  "finish_reason": "stop",
+  "latency_s": 13.786585875001037,
+  "prediction": "Li Hua asked for extra exercises to do at home because he wanted to complement his training schedule and maximize his progress. In a conversation recorded on 20260205_13:00, Li Hua specifically mentioned, \"Hey Jennifer! Just checking in to see if you have any extra exercises I can do at home to complement my training schedule. Would love to maximize my progress! Thanks! 😊\". Jennifer Moore then provided a list of five exercises that Li Hua could incorporate into his routine to enhance his workouts, including bodyweight squats, plank holds, push-ups, lunges, and glute bridges.",
+  "prediction_sha256": "4a083df4091293d360172db28391bf11f107aea1868837343cf5f2abdea79766",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 76,
+  "usage": {
+    "completion_tokens": 133,
+    "prompt_tokens": 4601,
+    "prompt_tokens_details": null,
+    "total_tokens": 4734
+  }
+}

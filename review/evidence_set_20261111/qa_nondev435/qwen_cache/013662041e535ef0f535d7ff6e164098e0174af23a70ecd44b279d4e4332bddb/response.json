@@ -1,0 +1,17 @@
+{
+  "body_sha256": "013662041e535ef0f535d7ff6e164098e0174af23a70ecd44b279d4e4332bddb",
+  "finish_reason": "stop",
+  "latency_s": 9.241757875002804,
+  "prediction": "Elara mentioned enjoying the sense of accomplishment after defeating tough bosses. She recalled a particularly intense experience in \"Monster Hunter: World\" where she faced off against a legendary beast. The buildup and tension leading up to the battle, combined with the sense of achievement upon overcoming it, made it a memorable moment for her. This suggests that Elara enjoys the post-intense-battle reward, whether it be a feeling of achievement or simply the adrenaline rush followed by relaxation.",
+  "prediction_sha256": "5f520f7657ddad6e86b27cb97a93485700da53779a57e30defa0769cc99d36c8",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100259,
+  "usage": {
+    "completion_tokens": 94,
+    "prompt_tokens": 3848,
+    "prompt_tokens_details": null,
+    "total_tokens": 3942
+  }
+}

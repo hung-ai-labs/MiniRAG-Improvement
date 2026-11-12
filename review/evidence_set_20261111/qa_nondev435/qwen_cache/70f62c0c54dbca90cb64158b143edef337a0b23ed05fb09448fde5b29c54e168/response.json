@@ -1,0 +1,17 @@
+{
+  "body_sha256": "70f62c0c54dbca90cb64158b143edef337a0b23ed05fb09448fde5b29c54e168",
+  "finish_reason": "stop",
+  "latency_s": 9.42433974999949,
+  "prediction": "In the conversations shared, LiHua provides feedback on Hailey's artisanal donuts. During her initial interaction with Hailey on July 12th, LiHua expressed that she had tried the new artisanal donuts and found them \"amazing\" and \"delicious.\" She appreciated the unique and delicious flavors and mentioned that the chocolate hazelnut donut was particularly liked, noting that it had the \"perfect balance of sweetness.\" This feedback suggests that the new artisanal donuts were well-received by LiHua, indicating a positive reception to Hailey's experimentation with flavors.",
+  "prediction_sha256": "fdff719e9e4518e3ce27a4868956bcfc1c83ce1bdafb820b4552fcfc4a655268",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 151,
+  "usage": {
+    "completion_tokens": 123,
+    "prompt_tokens": 3503,
+    "prompt_tokens_details": null,
+    "total_tokens": 3626
+  }
+}

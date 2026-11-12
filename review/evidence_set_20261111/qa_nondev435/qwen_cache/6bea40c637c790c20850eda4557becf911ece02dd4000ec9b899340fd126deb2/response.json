@@ -1,0 +1,17 @@
+{
+  "body_sha256": "6bea40c637c790c20850eda4557becf911ece02dd4000ec9b899340fd126deb2",
+  "finish_reason": "stop",
+  "latency_s": 6.706700334001653,
+  "prediction": "In one of the recorded conversations, Jennifer Moore suggested Li Hua to incorporate more resistance training into his current workout plan to increase his strength. Additionally, Jennifer recommended adding some dedicated stretching or yoga sessions to enhance flexibility. These adjustments would help Li Hua address his areas of improvement, focusing on both strength and flexibility.",
+  "prediction_sha256": "90dfe03f1d48dda90e7beb553cbcb971eb8fb3f3406845bb7d93deb387574820",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200077,
+  "usage": {
+    "completion_tokens": 64,
+    "prompt_tokens": 4191,
+    "prompt_tokens_details": null,
+    "total_tokens": 4255
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "c1afc9c8dbf3bae457073f7040916b8def91f1410f9cfde5d9787b7c53a488ad",
+  "finish_reason": "stop",
+  "latency_s": 7.220533832998626,
+  "prediction": " The data provided does not specify a particular song that Li Hua performed at the local music festival in 2026. It only mentions that the local music festival is an upcoming occasion where the band saw an opportunity to showcase their talent. There is no detailed information linking Li Hua to a specific song that was performed during this event in the tables or sources given. Therefore, based on the available information, it is not possible to determine which song Li Hua performed at the festival.\n\n---\n\nIn summary, the provided tables and sources do not contain enough details to specify which song Li Hua performed at the local music festival in 2026. There is no supporting evidence in the given data to answer this question accurately.",
+  "prediction_sha256": "2987f347f8a8fe54a6a348b9208a2a487aa4153da7a14de974c7393467d9e4f3",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 430,
+  "usage": {
+    "completion_tokens": 156,
+    "prompt_tokens": 5275,
+    "prompt_tokens_details": null,
+    "total_tokens": 5431
+  }
+}

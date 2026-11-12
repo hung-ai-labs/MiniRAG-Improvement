@@ -1,0 +1,17 @@
+{
+  "body_sha256": "e30416597bf74c2b5d690a52e5f2ca57200be2bd37f6ad7250c0be0a83d39647",
+  "finish_reason": "stop",
+  "latency_s": 9.18573812500108,
+  "prediction": "Adam Smith and Wolfgang Schulz both wished Li Hua a happy Lunar New Year. Specifically, Adam Smith sent a message wishing Li Hua a \"very happy Lunar New Year!\" and expressing hope that she would have a great time celebrating. Wolfgang Schulz also wished Li Hua a happy Lunar New Year, mentioning that he would be enjoying some good food and relaxing a bit during his trip.",
+  "prediction_sha256": "65ace902ada77f375b91d4ef68c01dade97d396c063d06cdcb1015e1da8c8856",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100034,
+  "usage": {
+    "completion_tokens": 80,
+    "prompt_tokens": 4462,
+    "prompt_tokens_details": null,
+    "total_tokens": 4542
+  }
+}

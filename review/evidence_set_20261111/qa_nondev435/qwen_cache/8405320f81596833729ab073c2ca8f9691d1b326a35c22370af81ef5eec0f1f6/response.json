@@ -1,0 +1,17 @@
+{
+  "body_sha256": "8405320f81596833729ab073c2ca8f9691d1b326a35c22370af81ef5eec0f1f6",
+  "finish_reason": "stop",
+  "latency_s": 9.947430832999089,
+  "prediction": "There is no specific mention of a cake flavor being planned for the bakery's anniversary celebration in February. The context provided focuses primarily on future plans and promotions such as a new flavor (Hazelnut Basque Roasted Cheese) which will be available on a 20% discount starting from the first three days of the month, and a free baking class scheduled for a weekend. No cake flavor was mentioned for the upcoming anniversary event.",
+  "prediction_sha256": "989edd9e822a8b489f2d3b26ff98a11f16649c471bed68f9ee7879d74108d08c",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200425,
+  "usage": {
+    "completion_tokens": 88,
+    "prompt_tokens": 5073,
+    "prompt_tokens_details": null,
+    "total_tokens": 5161
+  }
+}

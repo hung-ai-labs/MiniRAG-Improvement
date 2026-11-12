@@ -1,0 +1,17 @@
+{
+  "body_sha256": "21bdcbbf9b92a9545ba196699475641143edf80c5c92e46b173d86a946ce4016",
+  "finish_reason": "stop",
+  "latency_s": 12.40500045799854,
+  "prediction": "Based on the information provided in the data, there is no mention of Adam Smith sending a message to Li Hua regarding an upcoming building maintenance schedule. Additionally, there is no information about a temporary change in the construction schedule due to weather conditions. Therefore, we cannot determine whether Adam Smith communicated about the maintenance schedule prior to any such changes being made. The records only show interactions related to plumbing repairs and other maintenance tasks, but do not indicate any discussions about a specific construction schedule or weather-related delays.",
+  "prediction_sha256": "4e4faced39d4795f0f191e9ca63ac2a07cb6f48d2d012b441b37ad1b6b9ce5de",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100013,
+  "usage": {
+    "completion_tokens": 101,
+    "prompt_tokens": 4472,
+    "prompt_tokens_details": null,
+    "total_tokens": 4573
+  }
+}

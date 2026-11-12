@@ -1,0 +1,17 @@
+{
+  "body_sha256": "8f49cfd2842fffb65e0bd284f0f5a6f306ab18fe23faf95a7f33c252072ab1c9",
+  "finish_reason": "stop",
+  "latency_s": 6.812351790998946,
+  "prediction": "According to the messages, Adam Smith is willing for Li Hua to add sound-insulating pads to the basement as long as the modifications are reversible and don't cause any damage. He mentioned this during their conversation on February 19th at 20:00.",
+  "prediction_sha256": "d0fbfb8716667cb3391b6ba67b7d65e15e7325868aa4b41872b40355ffc18987",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100078,
+  "usage": {
+    "completion_tokens": 57,
+    "prompt_tokens": 4275,
+    "prompt_tokens_details": null,
+    "total_tokens": 4332
+  }
+}

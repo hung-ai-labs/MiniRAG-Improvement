@@ -1,0 +1,17 @@
+{
+  "body_sha256": "0c7fddd52c18b542cf86920d16a29c75cf7389e443c54e8dee480447ebb4dcf6",
+  "finish_reason": "stop",
+  "latency_s": 9.941496041999926,
+  "prediction": "In one of the practice sessions mentioned, Briar reminds everyone to bring water bottles to ensure that they stay hydrated during the practice. This suggestion comes from a conversation where the group discusses practical aspects of preparation for a soccer practice. Specifically, Briar points out that \"It'll be more fun if we come prepared,\" implying that having the necessary items like water bottles will contribute positively to the overall practice session.",
+  "prediction_sha256": "d140c30d28ea7f7a79285ff56a8c36bd77465eb66ad26c3c9a0b980b7d030881",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100284,
+  "usage": {
+    "completion_tokens": 82,
+    "prompt_tokens": 4436,
+    "prompt_tokens_details": null,
+    "total_tokens": 4518
+  }
+}

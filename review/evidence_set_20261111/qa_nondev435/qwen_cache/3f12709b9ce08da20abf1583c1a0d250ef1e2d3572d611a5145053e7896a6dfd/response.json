@@ -1,0 +1,17 @@
+{
+  "body_sha256": "3f12709b9ce08da20abf1583c1a0d250ef1e2d3572d611a5145053e7896a6dfd",
+  "finish_reason": "stop",
+  "latency_s": 9.457527415994264,
+  "prediction": "There is no explicit reason given in the provided data for why Thrall cannot participate in the garage sale. The conversation focuses on coordinating the event and discussing the excitement surrounding it, but does not mention any obstacles preventing Thrall from attending.",
+  "prediction_sha256": "931c328cb4a56741f53325fb847d3644ac8732730675aa2f2fe17bd3d8de8f98",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100169,
+  "usage": {
+    "completion_tokens": 48,
+    "prompt_tokens": 4285,
+    "prompt_tokens_details": null,
+    "total_tokens": 4333
+  }
+}

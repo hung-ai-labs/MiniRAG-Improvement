@@ -1,0 +1,17 @@
+{
+  "body_sha256": "1cde547a87a5ac288b00a59238efa1ef921f927e9f9443b29e9174e515893ac7",
+  "finish_reason": "stop",
+  "latency_s": 7.159669332999329,
+  "prediction": "According to the data provided, Ivor mentions that Real Madrid is a prominent Spanish football club, known for their comeback capabilities. However, there is no specific mention of Real Madrid's current coach by name. Ivor does provide insight into the matches and performances of Real Madrid, but does not specify the coach.",
+  "prediction_sha256": "2369d753f1845ab6d7755f400905a084bfbc1740ea3ef7d67420ea62fb5063e0",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100360,
+  "usage": {
+    "completion_tokens": 63,
+    "prompt_tokens": 3974,
+    "prompt_tokens_details": null,
+    "total_tokens": 4037
+  }
+}

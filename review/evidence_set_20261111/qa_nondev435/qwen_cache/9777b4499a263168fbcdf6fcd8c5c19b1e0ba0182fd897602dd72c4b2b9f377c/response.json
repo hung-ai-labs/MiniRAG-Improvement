@@ -1,0 +1,17 @@
+{
+  "body_sha256": "9777b4499a263168fbcdf6fcd8c5c19b1e0ba0182fd897602dd72c4b2b9f377c",
+  "finish_reason": "stop",
+  "latency_s": 9.880341959000361,
+  "prediction": "Based on the information provided in the data, there is no mention of Li Hua asking Jennifer Moore for book recommendations on fitness nutrition prior to announcing a special guest speaker at the gym. The conversations detailed primarily revolve around fitness training, maintenance days, and the gym's membership feedback activity. No interaction regarding book recommendations for fitness nutrition is noted.",
+  "prediction_sha256": "ed32601ea2d6b01b6011677d279075c21203bc69c7ebabfc91a2d1c006dc78bc",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 21,
+  "usage": {
+    "completion_tokens": 70,
+    "prompt_tokens": 4199,
+    "prompt_tokens_details": null,
+    "total_tokens": 4269
+  }
+}

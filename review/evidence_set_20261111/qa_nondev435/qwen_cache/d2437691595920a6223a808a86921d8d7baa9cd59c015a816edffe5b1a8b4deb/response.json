@@ -1,0 +1,17 @@
+{
+  "body_sha256": "d2437691595920a6223a808a86921d8d7baa9cd59c015a816edffe5b1a8b4deb",
+  "finish_reason": "stop",
+  "latency_s": 6.808021415999974,
+  "prediction": "In one of the conversations, EmilyBurnett recommends LiHua to watch \"The Bear,\" a TV series that explores the chaos of running a restaurant while delving into the characters' emotions. EmilyBurnett found the storytelling gripping and praised the balance of drama and comedy, recommending it as a series worth watching.",
+  "prediction_sha256": "732275881015401d5d8893238ab774a420a7ee6f5efbfeb1db363d52cb16a8b6",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100387,
+  "usage": {
+    "completion_tokens": 64,
+    "prompt_tokens": 3149,
+    "prompt_tokens_details": null,
+    "total_tokens": 3213
+  }
+}

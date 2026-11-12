@@ -1,0 +1,17 @@
+{
+  "body_sha256": "7e021c13bfe6dcda420f58bf459b5ab9f466aa43d0c39c5b73c6ee8bcd18a7ec",
+  "finish_reason": "stop",
+  "latency_s": 8.477701499999966,
+  "prediction": "On 20260708_14:00, JenniferMoore checks in with the group to remind everyone to review their fitness progress. She aims to provide personalized advice and offers encouragement to her peers. This action suggests that Jennifer is actively engaged in helping her friends and colleagues stay on track with their fitness goals. Her reminders are part of a broader effort to motivate and support the members of the fitness group.",
+  "prediction_sha256": "7328fbfedd08c6e5e6f10a09b0e34dfe7164cd5d29561011c04cb3bb177ec67c",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 149,
+  "usage": {
+    "completion_tokens": 89,
+    "prompt_tokens": 3745,
+    "prompt_tokens_details": null,
+    "total_tokens": 3834
+  }
+}

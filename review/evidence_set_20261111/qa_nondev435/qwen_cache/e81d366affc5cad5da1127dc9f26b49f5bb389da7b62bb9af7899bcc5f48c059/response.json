@@ -1,0 +1,17 @@
+{
+  "body_sha256": "e81d366affc5cad5da1127dc9f26b49f5bb389da7b62bb9af7899bcc5f48c059",
+  "finish_reason": "stop",
+  "latency_s": 4.057366707998881,
+  "prediction": "In the conversation, ChaeSong-hwa suggested visiting the music festival in the morning, specifically mentioning that they should meet an hour before it starts. They recommended meeting at the entrance to the festival around 5 PM. This timing allows them to grab some food and settle in before the crowds arrive, ensuring a comfortable start to the festival experience.",
+  "prediction_sha256": "e63fc3295d64e411c944bfa9427c33e25590380ae6370665ed1de6e633352902",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200445,
+  "usage": {
+    "completion_tokens": 70,
+    "prompt_tokens": 5233,
+    "prompt_tokens_details": null,
+    "total_tokens": 5303
+  }
+}

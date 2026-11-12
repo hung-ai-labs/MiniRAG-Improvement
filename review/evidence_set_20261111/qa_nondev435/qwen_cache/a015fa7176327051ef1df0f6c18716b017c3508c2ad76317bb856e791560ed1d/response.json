@@ -1,0 +1,17 @@
+{
+  "body_sha256": "a015fa7176327051ef1df0f6c18716b017c3508c2ad76317bb856e791560ed1d",
+  "finish_reason": "stop",
+  "latency_s": 4.882000583998888,
+  "prediction": "Chae first suggested visiting the music festival in the morning at an unspecified time. However, a specific morning activity or event involving Chae is not detailed in the provided data.",
+  "prediction_sha256": "3edb04164030942587deef0c632c0ada01a348312d9d70822dc437f84e0df57b",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 445,
+  "usage": {
+    "completion_tokens": 36,
+    "prompt_tokens": 5286,
+    "prompt_tokens_details": null,
+    "total_tokens": 5322
+  }
+}

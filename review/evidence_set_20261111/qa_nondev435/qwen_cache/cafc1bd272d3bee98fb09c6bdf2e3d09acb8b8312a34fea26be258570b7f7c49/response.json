@@ -1,0 +1,17 @@
+{
+  "body_sha256": "cafc1bd272d3bee98fb09c6bdf2e3d09acb8b8312a34fea26be258570b7f7c49",
+  "finish_reason": "stop",
+  "latency_s": 14.275807041001826,
+  "prediction": "In the conversation recorded on February 19th, 2026 at 20:00, Adam Smith reminds Li Hua about the necessity of keeping noise levels low during late hours. This is particularly emphasized because of the upcoming necessary repairs in the basement, which might disrupt their usual activities. Adam informs Li Hua that the repairs are planned soon and hopes they won’t cause too much inconvenience. He further suggests that if there are any concerns or disruptions, Li Hua should inform him immediately. This communication indicates that Adam is being considerate of Li Hua’s needs and routines, especially considering the potential disruption from the scheduled repairs.",
+  "prediction_sha256": "d884e5114d736bb56d1da5f273c2001f2fc23c7c79f931083dfeab2e358940c4",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 81,
+  "usage": {
+    "completion_tokens": 133,
+    "prompt_tokens": 4410,
+    "prompt_tokens_details": null,
+    "total_tokens": 4543
+  }
+}

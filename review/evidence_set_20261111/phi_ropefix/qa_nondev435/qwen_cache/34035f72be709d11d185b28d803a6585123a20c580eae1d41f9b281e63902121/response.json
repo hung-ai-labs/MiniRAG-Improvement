@@ -1,0 +1,17 @@
+{
+  "body_sha256": "34035f72be709d11d185b28d803a6585123a20c580eae1d41f9b281e63902121",
+  "finish_reason": "stop",
+  "latency_s": 8.116656792000867,
+  "prediction": " The Freelancer Group Meeting is scheduled for Wednesday at 3 pm. This information is derived from the conversation between LiHua and Yuriko, where LiHua asks if Yuriko is planning to attend the meeting this Wednesday and Yuriko confirms her attendance and anticipation for the event. Their exchange indicates that the meeting is an upcoming event on the specified day and time:\n\n```\nLiHua: Hey Yuriko! Are you planning to attend the Freelancer Group Meeting this Wednesday at 3 pm?\nYurikoYamamoto: Yeah, I’ll be there! Looking forward to it. Should be fun! 😊\n```\n\nThus, the meeting is set for the Wednesday before the date their conversation is recorded, at 3:00 PM local time.",
+  "prediction_sha256": "350c1e5dcedc3a79f1326b867814f01881cf7e9c4aa19990017282c600367f75",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 133,
+  "usage": {
+    "completion_tokens": 187,
+    "prompt_tokens": 4351,
+    "prompt_tokens_details": null,
+    "total_tokens": 4538
+  }
+}

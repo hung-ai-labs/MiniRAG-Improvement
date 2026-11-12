@@ -1,0 +1,17 @@
+{
+  "body_sha256": "016b18aaa0dd549b1f1c1e6894555d85ce6eeb619638aa58d6f4b712cfc2f8bb",
+  "finish_reason": "stop",
+  "latency_s": 11.40870545800135,
+  "prediction": "Li Hua is meeting with Yuriko Yamamoto to discuss homepage design updates. This conversation took place on March 3rd, 2026, at 9:30 AM, and Li Hua expressed his anticipation for the discussion and shared his belief that Yuriko's requests for the studio's homepage improvements are straightforward, allowing him to complete the project within two weeks. Li Hua highlighted his eagerness to incorporate any additional ideas or changes that Yuriko might have while he is working on the project.",
+  "prediction_sha256": "4abff1b425e482c372afe22cc6cc411628ef32367f40cfe4dec21e9fa50d7317",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 88,
+  "usage": {
+    "completion_tokens": 109,
+    "prompt_tokens": 4278,
+    "prompt_tokens_details": null,
+    "total_tokens": 4387
+  }
+}

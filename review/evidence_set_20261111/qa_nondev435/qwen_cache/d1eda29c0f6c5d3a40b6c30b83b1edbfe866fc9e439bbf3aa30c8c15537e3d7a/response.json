@@ -1,0 +1,17 @@
+{
+  "body_sha256": "d1eda29c0f6c5d3a40b6c30b83b1edbfe866fc9e439bbf3aa30c8c15537e3d7a",
+  "finish_reason": "stop",
+  "latency_s": 9.644482374998915,
+  "prediction": "According to the information provided, Wolfgang has indeed been to Hong Kong. This is evident from the conversation snippets where WolfgangSchulz mentions touching down in Hong Kong, indicating that he has traveled there for a business trip. Additionally, there are several references to activities and interactions that occurred during his trip to Hong Kong, including dining at a Thai restaurant and engaging in conversations about the city with LiHua.",
+  "prediction_sha256": "7d36507e25bbfb7f904421210cacb4073c99cfa7b803680e23245331c5cacba7",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 32,
+  "usage": {
+    "completion_tokens": 82,
+    "prompt_tokens": 4868,
+    "prompt_tokens_details": null,
+    "total_tokens": 4950
+  }
+}

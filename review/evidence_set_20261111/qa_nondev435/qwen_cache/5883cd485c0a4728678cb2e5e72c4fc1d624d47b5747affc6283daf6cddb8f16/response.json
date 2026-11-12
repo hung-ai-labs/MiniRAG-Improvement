@@ -1,0 +1,17 @@
+{
+  "body_sha256": "5883cd485c0a4728678cb2e5e72c4fc1d624d47b5747affc6283daf6cddb8f16",
+  "finish_reason": "stop",
+  "latency_s": 6.97731874999954,
+  "prediction": "The passage does not mention anyone specifically asking Jake to play as the goalkeeper for soccer training. The interactions described involve Jake and LiHua discussing various topics related to soccer, including matches between Barca and Bayern, training sessions, and individual player performances. There is no indication of Jake being asked to play as a goalkeeper during training sessions.",
+  "prediction_sha256": "72ac5ebc892f6b9b31a04ac4761598cba0973f7d15d714c371f80eadbd3e1a66",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100292,
+  "usage": {
+    "completion_tokens": 68,
+    "prompt_tokens": 4346,
+    "prompt_tokens_details": null,
+    "total_tokens": 4414
+  }
+}

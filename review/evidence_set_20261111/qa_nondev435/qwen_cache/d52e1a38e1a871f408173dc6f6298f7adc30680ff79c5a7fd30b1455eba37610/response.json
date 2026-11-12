@@ -1,0 +1,17 @@
+{
+  "body_sha256": "d52e1a38e1a871f408173dc6f6298f7adc30680ff79c5a7fd30b1455eba37610",
+  "finish_reason": "stop",
+  "latency_s": 12.578974209001899,
+  "prediction": "In one of the recorded interactions, Li Hua mentions noticing a broken streetlight nearby and asks Adam if he knows who to contact for fixing it. Adam suggests calling the maintenance worker at the number 314159, indicating that this individual or team handles such issues. This implies that Adam is aware of the maintenance needs for such fixtures and has provided Li Hua with the necessary contact details. However, the specific incident regarding the broken light fixture isn't detailed in the provided conversation snippets, only mentioning a general streetlight.",
+  "prediction_sha256": "c278e7749d47ff75aa15bd110e9dceda5de2d521945e9e6c7e4c1a43204c40f2",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200067,
+  "usage": {
+    "completion_tokens": 109,
+    "prompt_tokens": 3811,
+    "prompt_tokens_details": null,
+    "total_tokens": 3920
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "5c6643a49565c4e43ed5d04c6c2db6bd74a385b613fb6dc7db0916200b03154e",
+  "finish_reason": "stop",
+  "latency_s": 5.058609166000679,
+  "prediction": "In one of the interactions, Adam Smith informs Li Hua that the plumber will be arriving the following day at 10 AM to fix the water tap. This is detailed in the entry dated 20260301_13:00. Therefore, Li Hua is advised to be ready for the repair team at 10 AM the following day.",
+  "prediction_sha256": "8e471817b011915bab58ff3665ae7241e054b5e31f9a0259c3fa22147a6ffaa4",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 117,
+  "usage": {
+    "completion_tokens": 79,
+    "prompt_tokens": 4030,
+    "prompt_tokens_details": null,
+    "total_tokens": 4109
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "0ac453b42597fe9ffc0a6deb702d59b811d13e7de6c93ff89105faf6a3158253",
+  "finish_reason": "stop",
+  "latency_s": 11.417683583000326,
+  "prediction": "In one of their conversations, WolfgangSchulz mentions his interest in visiting Cinque Terre, highlighting the picturesque colorful villages along the coast and the hiking trails he would enjoy. While WolfgangSchulz specifically points out the coastal area's appeal, LiHua does not directly comment on the seafood in Cinque Terre. However, considering that WolfgangSchulz expresses a strong interest in the coastal region, it can be inferred that he likely enjoys the seafood available in Cinque Terre, given the scenic coastal locations he appreciates.",
+  "prediction_sha256": "d21f5d0562b7462593a62697b89b289806d432bcee57c4273204412baa6b73ab",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 402,
+  "usage": {
+    "completion_tokens": 110,
+    "prompt_tokens": 4484,
+    "prompt_tokens_details": null,
+    "total_tokens": 4594
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "42090f99a853536aefe68afe5cb6b3ac67dca45c1971e5d9cf8a5d3cb126a662",
+  "finish_reason": "stop",
+  "latency_s": 10.431427458002872,
+  "prediction": "On 20260708_14:00, JenniferMoore initiates a check-in with the group to gather updates on everyone's fitness progress. This serves multiple purposes: firstly, it allows her to provide personalized advice and support to each member based on their individual feedback; secondly, it encourages continued engagement and accountability among the members. The purpose of these periodic check-ins is to ensure that everyone stays motivated and on track with their fitness goals.",
+  "prediction_sha256": "2ca1fad6588bba9a8249654fb9acbc827eda00b85c68f4b9eca2bd4ced555405",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 149,
+  "usage": {
+    "completion_tokens": 98,
+    "prompt_tokens": 4406,
+    "prompt_tokens_details": null,
+    "total_tokens": 4504
+  }
+}

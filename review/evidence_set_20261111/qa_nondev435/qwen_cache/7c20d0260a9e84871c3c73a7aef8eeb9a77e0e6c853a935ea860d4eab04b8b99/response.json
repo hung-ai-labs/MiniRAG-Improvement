@@ -1,0 +1,17 @@
+{
+  "body_sha256": "7c20d0260a9e84871c3c73a7aef8eeb9a77e0e6c853a935ea860d4eab04b8b99",
+  "finish_reason": "stop",
+  "latency_s": 5.382775166999636,
+  "prediction": "Briar reminds everyone to bring their water bottles to practice, emphasizing the importance of staying hydrated during the session. This is mentioned in a context where Briar is organizing a soccer practice session and mentions needing snacks and drinks for a watch party, highlighting the overall goal of making the practice session enjoyable and well-prepared.",
+  "prediction_sha256": "54ae20d8adad14406144d5c5ca774fea1b1535f854c646cb2b1a01d38c8a73e5",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 284,
+  "usage": {
+    "completion_tokens": 65,
+    "prompt_tokens": 4342,
+    "prompt_tokens_details": null,
+    "total_tokens": 4407
+  }
+}

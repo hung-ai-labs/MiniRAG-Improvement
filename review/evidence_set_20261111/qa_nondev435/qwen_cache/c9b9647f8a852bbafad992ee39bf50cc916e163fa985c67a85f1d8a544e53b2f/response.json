@@ -1,0 +1,17 @@
+{
+  "body_sha256": "c9b9647f8a852bbafad992ee39bf50cc916e163fa985c67a85f1d8a544e53b2f",
+  "finish_reason": "stop",
+  "latency_s": 15.354663750000327,
+  "prediction": "In one of the conversations recorded, Adam reminded Li Hua about playing the guitar late at night, specifically mentioning that they need to be mindful of the noise levels during late hours. This was part of a conversation where Adam mentioned some necessary repairs in the basement soon, and he wanted to ensure that these repairs wouldn't disrupt their jam sessions. While the exact date isn't specified, it occurred sometime around June 25th (time: 20260625_20:00). This indicates that Adam was considering the potential impact of noise from the basement activities on Li Hua's evening routines.",
+  "prediction_sha256": "dff3df546821f5ac1ad10f0ec825f9adab7e6f3ebbac439bf67c9cea01540506",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100081,
+  "usage": {
+    "completion_tokens": 128,
+    "prompt_tokens": 4410,
+    "prompt_tokens_details": null,
+    "total_tokens": 4538
+  }
+}

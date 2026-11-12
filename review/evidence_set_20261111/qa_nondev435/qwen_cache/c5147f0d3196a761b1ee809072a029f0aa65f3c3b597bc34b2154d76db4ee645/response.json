@@ -1,0 +1,17 @@
+{
+  "body_sha256": "c5147f0d3196a761b1ee809072a029f0aa65f3c3b597bc34b2154d76db4ee645",
+  "finish_reason": "stop",
+  "latency_s": 9.335472416001721,
+  "prediction": "In the conversation regarding the local music festival in 2026, Li Hua expresses enthusiasm for the event and mentions that Wolfgang Schulz prefers practicing on Sundays. However, no specific song is named as being performed at the festival. The local music festival seems to be an opportunity for the band to perform, but the exact song they will play is not detailed in the provided conversations.",
+  "prediction_sha256": "d4f3c255d8474435d5cf02710fafa56caf959f53c4e5b42692dd74a58ab1c02d",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 430,
+  "usage": {
+    "completion_tokens": 79,
+    "prompt_tokens": 4651,
+    "prompt_tokens_details": null,
+    "total_tokens": 4730
+  }
+}

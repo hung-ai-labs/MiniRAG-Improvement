@@ -1,0 +1,17 @@
+{
+  "body_sha256": "4d79aee49fd4276add9d523b54dbd2969fb5cf8311d90223b6dc55f97cd6c6b2",
+  "finish_reason": "stop",
+  "latency_s": 10.766938332999416,
+  "prediction": "Orion provides insight into Cersei's complex relationship with her father, Tywin. According to Orion, Tywin instilled a survival mentality in Cersei, which was a significant factor in shaping her character. However, Orion also notes that this pressure likely made Cersei feel resentful towards Tywin, as she sought to break free from the need for constant approval and acceptance. This independence, while giving Cersei strength, also led her to push away those who cared about her, leaving her more isolated. Cersei's need for control often led her to prioritize her ambitions over meaningful connections, highlighting the intricate balance of loyalty and fear within her character.",
+  "prediction_sha256": "4eecd6cc6edc9dd10aac91c007a6d8cebdc5f09c91261cd8864b2ca603475837",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100313,
+  "usage": {
+    "completion_tokens": 132,
+    "prompt_tokens": 4459,
+    "prompt_tokens_details": null,
+    "total_tokens": 4591
+  }
+}

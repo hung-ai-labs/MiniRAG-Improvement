@@ -1,0 +1,17 @@
+{
+  "body_sha256": "992d56189a1b1b3521fc38e8b8e007c3315aec4494bfd1800c7e45b10c9c7f7a",
+  "finish_reason": "stop",
+  "latency_s": 10.714105667000695,
+  "prediction": " Li Hua plans to meet Yuriko Yamamoto at Central Perk café to show the final website. This meeting is scheduled for Thursday at 3 pm. The conversation between Li Hua and Yuriko Yamamoto indicates a collaborative effort to ensure that the website reflects the studio's vision and incorporates elements like community outreach programs. Li Hua expresses enthusiasm for incorporating Yuriko's suggestions and is ready to assist with brainstorming and layout to enhance the website's presentation.\n\nIn markdown, the response is formatted as follows:\n\n```markdown\nLi Hua plans to show Yuriko Yamamoto the final website at **Central Perk café** on **Thursday at 3 pm**. They aim to discuss the studio's homepage updates, with a particular focus on integrating a section for community outreach programs to reflect Yuriko's impactful work in speech therapy. The collaborative effort between Li Hua and Yuriko is expected to create a comprehensive and personal website for Yuriko's studio.\n```",
+  "prediction_sha256": "562120fa00304a9bae6606289e5b7722760b21ac5b3677bdc4a6a8320ff56ceb",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 100097,
+  "usage": {
+    "completion_tokens": 245,
+    "prompt_tokens": 5173,
+    "prompt_tokens_details": null,
+    "total_tokens": 5418
+  }
+}

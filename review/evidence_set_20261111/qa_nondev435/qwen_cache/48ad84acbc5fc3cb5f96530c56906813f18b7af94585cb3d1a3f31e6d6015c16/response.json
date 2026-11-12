@@ -1,0 +1,17 @@
+{
+  "body_sha256": "48ad84acbc5fc3cb5f96530c56906813f18b7af94585cb3d1a3f31e6d6015c16",
+  "finish_reason": "stop",
+  "latency_s": 9.371397082999465,
+  "prediction": "Based on the conversations provided, Thane Chambers suggests doing a group purchase of the new games. This suggestion comes from a message he sent to Li Hua, saying, \"Hey Li Hua! Are you up for some shopping together this weekend? Just saw that the local game store has some killer discounts on PS5 games! Let me know!\" Li Hua responded positively, saying, \"Sounds awesome! I'm definitely in! What time were you thinking? 🕒\" This indicates that Thane proposed a group shopping trip for new games, which Li Hua agreed to.",
+  "prediction_sha256": "9691f0b00b6bec094f8239c54efb07aba0fc4afb5417c960fbad8d4f01f337f9",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100344,
+  "usage": {
+    "completion_tokens": 119,
+    "prompt_tokens": 5072,
+    "prompt_tokens_details": null,
+    "total_tokens": 5191
+  }
+}

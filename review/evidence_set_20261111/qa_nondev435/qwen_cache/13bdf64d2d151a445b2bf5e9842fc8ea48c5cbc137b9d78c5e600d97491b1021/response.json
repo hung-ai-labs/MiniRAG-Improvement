@@ -1,0 +1,17 @@
+{
+  "body_sha256": "13bdf64d2d151a445b2bf5e9842fc8ea48c5cbc137b9d78c5e600d97491b1021",
+  "finish_reason": "stop",
+  "latency_s": 9.090763500000321,
+  "prediction": "According to the conversation recorded on 20260805_16:00, WolfgangSchulz and LiHua are planning to attend a photography exhibition at 19:00 that evening. They had discussed the event beforehand, with WolfgangSchulz agreeing to remember the event and LiHua suggesting they grab a bite before heading to the exhibition. Therefore, the specific time they are going to the photography exhibition on 20260805 is at 19:00.",
+  "prediction_sha256": "026eed66fd958d52d7c3eaece4826dcbab2c257ea4f38003076a31947a8c3f30",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100164,
+  "usage": {
+    "completion_tokens": 111,
+    "prompt_tokens": 5025,
+    "prompt_tokens_details": null,
+    "total_tokens": 5136
+  }
+}

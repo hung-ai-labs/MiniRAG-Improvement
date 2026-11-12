@@ -1,0 +1,17 @@
+{
+  "body_sha256": "71ab2b52a7fd7a1dd03529f9020a318cd1f47d2d762737127f656318cc86b021",
+  "finish_reason": "stop",
+  "latency_s": 5.87633570899925,
+  "prediction": "In the recent summer promotion announcement, Li Hua expressed enthusiasm for the fruity options, particularly mentioning mango and coconut flavors. These were highlighted as refreshing summer dessert flavors that she enjoys. Hailey Johnson confirmed that they are planning to offer fruity ice cream flavors and a mango-coconut pastry as part of the promotion. Li Hua eagerly anticipates tasting these new treats and looks forward to visiting the store to sample them.",
+  "prediction_sha256": "6987a2e48284d4c4beb6b3332d1aa1b34e204833411d4ab303fff28d1425fde3",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200121,
+  "usage": {
+    "completion_tokens": 84,
+    "prompt_tokens": 3693,
+    "prompt_tokens_details": null,
+    "total_tokens": 3777
+  }
+}

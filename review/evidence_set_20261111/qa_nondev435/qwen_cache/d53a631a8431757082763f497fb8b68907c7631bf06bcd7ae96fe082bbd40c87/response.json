@@ -1,0 +1,17 @@
+{
+  "body_sha256": "d53a631a8431757082763f497fb8b68907c7631bf06bcd7ae96fe082bbd40c87",
+  "finish_reason": "stop",
+  "latency_s": 9.619158958001208,
+  "prediction": "In a previous conversation recorded on Time: 20260328_15:00, Adam Smith reminds Li Hua about the building's recycling policy. He emphasizes the importance of adhering to this rule and encourages participation from all residents. Specifically, Adam mentions, \"It's really important for us to keep the environment in mind. Let’s all do our part by participating! Thanks!\" This highlights the recycling policy as a significant aspect of the building's environmental initiative.",
+  "prediction_sha256": "8f59b8469982a7dea13c1da1f3360b13b5d0bc7b886217f9e037fa441c226c99",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200101,
+  "usage": {
+    "completion_tokens": 101,
+    "prompt_tokens": 4149,
+    "prompt_tokens_details": null,
+    "total_tokens": 4250
+  }
+}

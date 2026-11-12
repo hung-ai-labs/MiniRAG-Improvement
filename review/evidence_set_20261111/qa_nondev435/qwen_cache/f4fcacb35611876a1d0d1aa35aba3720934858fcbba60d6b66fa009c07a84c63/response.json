@@ -1,0 +1,17 @@
+{
+  "body_sha256": "f4fcacb35611876a1d0d1aa35aba3720934858fcbba60d6b66fa009c07a84c63",
+  "finish_reason": "stop",
+  "latency_s": 9.330185541999526,
+  "prediction": "Jake Watson, who specializes in providing tips for soccer players to enhance their performance, suggests several strength training exercises that can be incorporated into a routine. In a conversation with Li Hua, Jake recommends squats, lunges, and planks. He emphasizes that these exercises are simple yet effective for building leg strength, core stability, and overall endurance. Additionally, he highlights the importance of including balance exercises like single-leg stands to improve stability. These exercises are suitable for beginners and can be gradually progressed as one becomes stronger.",
+  "prediction_sha256": "1d5aa6f45153af03156f1c5db77ee56af325a8ac187bc8e6de070383a7b0273e",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200209,
+  "usage": {
+    "completion_tokens": 105,
+    "prompt_tokens": 4429,
+    "prompt_tokens_details": null,
+    "total_tokens": 4534
+  }
+}

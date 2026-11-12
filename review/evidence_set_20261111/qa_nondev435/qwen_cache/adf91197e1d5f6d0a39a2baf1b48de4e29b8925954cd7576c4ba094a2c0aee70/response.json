@@ -1,0 +1,17 @@
+{
+  "body_sha256": "adf91197e1d5f6d0a39a2baf1b48de4e29b8925954cd7576c4ba094a2c0aee70",
+  "finish_reason": "stop",
+  "latency_s": 9.660907917001168,
+  "prediction": "On June 9, 2026, Li Hua and Wolfgang had dinner at a restaurant. However, the name of the specific restaurant is not provided in the given data. Based on the context, this restaurant was chosen because Li Hua and Wolfgang had a dining experience and discussed future plans. Given the limited information available, we cannot definitively state the name of the restaurant.",
+  "prediction_sha256": "5e520c08b5ec4e2b6e8ca5ac1bab7d84244e994afd27dc268b48b19b4ad9206e",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100431,
+  "usage": {
+    "completion_tokens": 80,
+    "prompt_tokens": 4609,
+    "prompt_tokens_details": null,
+    "total_tokens": 4689
+  }
+}

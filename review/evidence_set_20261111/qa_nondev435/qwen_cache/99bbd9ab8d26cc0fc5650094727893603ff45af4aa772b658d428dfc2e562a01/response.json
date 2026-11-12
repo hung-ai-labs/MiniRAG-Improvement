@@ -1,0 +1,17 @@
+{
+  "body_sha256": "99bbd9ab8d26cc0fc5650094727893603ff45af4aa772b658d428dfc2e562a01",
+  "finish_reason": "stop",
+  "latency_s": 9.569337958000688,
+  "prediction": "Jasper mentions a match against Manchester City in his conversation, specifically referring to a comeback that Manchester City had achieved. This comeback occurred in the Champions League against Real Madrid, which took place in 2022. The match was notable for a stoppage-time goal scored by Rodrygo, helping Manchester City turn the match around and secure a victory. This comeback showcased Manchester City's resilience and determination, qualities that Jasper appreciates and finds inspiring.",
+  "prediction_sha256": "76447c131bcafb7ba5b0ede39fb13f3981731da4dbdd0f34fbd2daffa25f6506",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200302,
+  "usage": {
+    "completion_tokens": 92,
+    "prompt_tokens": 4903,
+    "prompt_tokens_details": null,
+    "total_tokens": 4995
+  }
+}

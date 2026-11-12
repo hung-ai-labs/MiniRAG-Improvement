@@ -1,0 +1,17 @@
+{
+  "body_sha256": "c3b5099e807045e6919d3342a13b1abb63bfa174276d8671a3d3be463f640ff9",
+  "finish_reason": "stop",
+  "latency_s": 8.36679583300429,
+  "prediction": "JakeWatson recommends squats and lunges as exercises for leg strength. He suggests adding these to Li Hua's routine to help with her power on the field. Additionally, JakeWatson recommends including stretches after workouts to keep the muscles flexible. Both squats and lunges are effective for building leg strength, and JakeWatson emphasizes the importance of stretching after workouts to maintain flexibility.",
+  "prediction_sha256": "e18af1ab169316fe43cb235bb84530e2c051e078a4855bf9192da3ccea68787b",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 268,
+  "usage": {
+    "completion_tokens": 79,
+    "prompt_tokens": 4305,
+    "prompt_tokens_details": null,
+    "total_tokens": 4384
+  }
+}

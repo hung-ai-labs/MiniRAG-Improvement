@@ -1,0 +1,17 @@
+{
+  "body_sha256": "54208075159c4440549f3ecff6da962aa9f27500c4a2e37798da63309ab0d8f9",
+  "finish_reason": "stop",
+  "latency_s": 9.306010416999925,
+  "prediction": "According to the information provided, there are two different power outage events mentioned. One is scheduled for \"the afternoon of the next day\" and the other is for \"today from 2pm to 3pm.\" Therefore, the power outage in the neighborhood will occur either tomorrow afternoon or today from 2pm to 3pm, depending on whether we are considering the next day or today.",
+  "prediction_sha256": "b785b7f13a7bc9348f2551975826c6d6df159a03a7a4061a0b3b82978a3db483",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200090,
+  "usage": {
+    "completion_tokens": 80,
+    "prompt_tokens": 4966,
+    "prompt_tokens_details": null,
+    "total_tokens": 5046
+  }
+}

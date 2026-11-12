@@ -1,0 +1,17 @@
+{
+  "body_sha256": "f6d19b3a854ac1ae9c0a04d1a122dc8a49d6279e1ad083adc118f982b6c6c4ec",
+  "finish_reason": "stop",
+  "latency_s": 9.238052833999973,
+  "prediction": " According to the conversation held on August 16, 2026, Hailey Johnson is offering a discount to LiHua for her early interest in the upcoming holiday sale at the bakery. Hailey mentions, \"We're planning on some festive breads and pastries, plus personalized cakes for special occasions. I can give you 15% off your order if you order by the end of this week!\" Therefore, Hailey is willing to provide LiHua with a 15% discount on her order for the holiday.\n\nIn markdown format, this information would be summarized as follows:\n\n```markdown\nHailey Johnson offered LiHua a **15% discount** on her bakery orders for the upcoming holiday, conditional upon placing her order by the end of that week.\n```\n\nThis summary encapsulates the relevant details from the conversation, quoted accurately from the data table related to the scenario presented. It's important to note that the discount is specific to the timing of the order during the mentioned week.",
+  "prediction_sha256": "46d13e4c1af032ea93b3580d6af0a4c33dd029eb9acbbb7d2ac60536385dbe26",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 100173,
+  "usage": {
+    "completion_tokens": 238,
+    "prompt_tokens": 4337,
+    "prompt_tokens_details": null,
+    "total_tokens": 4575
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "7e2865eda02e514d2bd0b69a85e0b9c79f07ac69cb11e6f83578bc553741e039",
+  "finish_reason": "stop",
+  "latency_s": 4.662577874998533,
+  "prediction": "In the recent summer promotion announcement, Li Hua expressed enthusiasm about the fruity options, specifically mentioning mango and coconut flavors. These were highlighted as refreshing summer desserts that she enjoys. Additionally, she noted her fondness for chocolate treats, indicating a diverse interest in the promotion's offerings.",
+  "prediction_sha256": "8f1cc3bb31fb3fa8af76f88cea3c647284f6ce7ddfe48816e0dc36493c32e724",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200121,
+  "usage": {
+    "completion_tokens": 57,
+    "prompt_tokens": 4393,
+    "prompt_tokens_details": null,
+    "total_tokens": 4450
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "5533bd06702f5ea0f1918ee6e6026b781ff0877eb56a89d22aa32b18de95566e",
+  "finish_reason": "stop",
+  "latency_s": 11.286884582998027,
+  "prediction": "Yes, Yuriko did ask Li Hua for help regarding the studio's homepage before she booked a seat at \"Central Perk\" café. Specifically, she mentioned to Li Hua that she had booked a seat there for the following day at 3 pm, stating, \"Hey Li Hua! 😊 Just wanted to let you know I booked a seat at \"\"Central Perk\"\" café for tomorrow at 3pm. Looking forward to our chat about my studio's homepage!\" This indicates that the meeting at \"Central Perk\" café was planned to discuss her homepage improvements.",
+  "prediction_sha256": "eac47bac19a42bd07d00445a1cb974765f8282ef24515de027d9486108508656",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100017,
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 4671,
+    "prompt_tokens_details": null,
+    "total_tokens": 4791
+  }
+}

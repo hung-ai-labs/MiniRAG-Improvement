@@ -1,0 +1,17 @@
+{
+  "body_sha256": "5a5f55786da5e752363ef7ce1a7bb9d337bfadfd74fadd3f0b6517da318782ac",
+  "finish_reason": "stop",
+  "latency_s": 11.526398750000226,
+  "prediction": "Yes, according to the conversation, Yuriko did ask Li Hua for assistance regarding her studio's homepage improvements before booking a seat at the \"Central Perk\" café. In the recorded conversation, Yuriko mentions to Li Hua, \"Hey Li Hua! Just wanted to let you know I booked a seat at Central Perk café for tomorrow at 3pm. Looking forward to our chat about my studio's homepage! See you then!\" This indicates that Yuriko wanted to meet with Li Hua at the café specifically to discuss her studio's homepage.",
+  "prediction_sha256": "006912c2e6fd5f25e47d29811438a63da86dacbf0e3958d7f708c5e14a089d3b",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200017,
+  "usage": {
+    "completion_tokens": 118,
+    "prompt_tokens": 4703,
+    "prompt_tokens_details": null,
+    "total_tokens": 4821
+  }
+}

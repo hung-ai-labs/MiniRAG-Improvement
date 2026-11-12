@@ -1,0 +1,17 @@
+{
+  "body_sha256": "97eabf516aeab175efdc97d50d7f1a531e941d8c6ffab0f5b04af759323bb552",
+  "finish_reason": "stop",
+  "latency_s": 11.909997959002794,
+  "prediction": "According to the conversation recorded on 20260805_21:30, Wolfgang and LiHua attended the photography exhibition. Wolfgang shared his impressions of the football stadium photos, which he found impressive and worthy of staring at for hours. LiHua agreed, stating that the photography exhibition captured the energy and design effectively. They discussed their preferences for the exhibition, with Wolfgang suggesting they meet at 6:00 PM to head to the burger place after grabbing a bite at the exhibition venue.",
+  "prediction_sha256": "a6cfe019a0c89fc751a611dae82178994dea3d81f0d6e2b2acdc6625aaf12fc3",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200164,
+  "usage": {
+    "completion_tokens": 107,
+    "prompt_tokens": 5562,
+    "prompt_tokens_details": null,
+    "total_tokens": 5669
+  }
+}

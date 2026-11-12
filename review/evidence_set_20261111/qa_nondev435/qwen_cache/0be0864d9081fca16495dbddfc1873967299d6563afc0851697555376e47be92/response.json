@@ -1,0 +1,17 @@
+{
+  "body_sha256": "0be0864d9081fca16495dbddfc1873967299d6563afc0851697555376e47be92",
+  "finish_reason": "stop",
+  "latency_s": 9.535465458000544,
+  "prediction": "According to the conversation, Viper plans to incorporate interval training into their cardio workouts. This strategy involves alternating periods of high-intensity effort with lower-intensity recovery periods. Viper believes that this method can help build endurance without overstressing the body, and it also keeps workouts interesting. They suggest starting with shorter intervals and gradually increasing the intensity and duration as one becomes more comfortable with the routine. Viper has found that this approach has been particularly effective for them.",
+  "prediction_sha256": "db99804bd4a8d2bf8c02d4d1ec8588eaf2f32b386210b3d654a0fe40465e008b",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100172,
+  "usage": {
+    "completion_tokens": 94,
+    "prompt_tokens": 4211,
+    "prompt_tokens_details": null,
+    "total_tokens": 4305
+  }
+}

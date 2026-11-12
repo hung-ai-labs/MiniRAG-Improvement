@@ -1,0 +1,17 @@
+{
+  "body_sha256": "00243552705dca7be2e112530fa51ddc1aec396aa61665d6c441ca34144c676a",
+  "finish_reason": "stop",
+  "latency_s": 11.346660625000368,
+  "prediction": " Hailey Johnson, the bakery owner, recommends two particular pastries for Mother's Day in the conversation between her and Li Hua. She suggests a dozen raspberry-filled croissants and a dozen chocolate eclairs. These items are highlighted as top recommendations due to their popularity and the sweet combination of flavors that are sure to please customers looking for a special treat.\n\n```markdown\n- **Raspberry-Filled Croissants**: These pastries are especially notable for their warm, sweet filling paired with the flaky, buttery croissant dough, creating a delightful experience that is especially fitting for celebratory occasions like Mother's Day.\n\n- **Chocolate Eclairs**: Eclairs are classic pastries that are well-loved for their rich chocolate content and creamy filling. They're a fan favorite that Li Hua is excited to sample as part of the Mother's Day promotion.\n\nHailey also mentions the fresh delivery option for these items, ensuring that customers can enjoy the celebratory treats at their convenience, reflecting the bakery's commitment to customer service and satisfaction.\n```",
+  "prediction_sha256": "705655684631271bb33e771a74f153e4a943163a021eda4c44636d426b639329",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 118,
+  "usage": {
+    "completion_tokens": 259,
+    "prompt_tokens": 5991,
+    "prompt_tokens_details": null,
+    "total_tokens": 6250
+  }
+}

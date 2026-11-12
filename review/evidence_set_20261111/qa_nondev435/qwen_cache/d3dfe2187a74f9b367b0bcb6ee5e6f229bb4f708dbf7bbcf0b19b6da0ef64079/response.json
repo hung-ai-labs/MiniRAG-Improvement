@@ -1,0 +1,17 @@
+{
+  "body_sha256": "d3dfe2187a74f9b367b0bcb6ee5e6f229bb4f708dbf7bbcf0b19b6da0ef64079",
+  "finish_reason": "stop",
+  "latency_s": 12.175397999999404,
+  "prediction": "On April 25th, Li Hua expressed interest in inviting a friend to their jam session. In the conversation, Li Hua introduced their friend as Chae, who is described as a neurosurgeon. This indicates that Li Hua intends to bring Chae to their jam session. The nature of the friend's involvement suggests that Chae might bring a unique perspective and potentially a different musical background to the group, as indicated by the discussions about mixing up the music genre and the mention of classical rock songs.",
+  "prediction_sha256": "d61ecb8ef9d2a8c86ea63a4f6ae7f0715ad7a0a2c9fbddb4de78b6f5e0a6f7bc",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100113,
+  "usage": {
+    "completion_tokens": 107,
+    "prompt_tokens": 4747,
+    "prompt_tokens_details": null,
+    "total_tokens": 4854
+  }
+}

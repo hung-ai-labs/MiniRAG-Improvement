@@ -1,0 +1,17 @@
+{
+  "body_sha256": "dcec7873cbd8ee13153535dee8765113505db3429c3061307520bb9f88e7398b",
+  "finish_reason": "stop",
+  "latency_s": 9.45213750000039,
+  "prediction": "There is no information provided regarding Thrall participating in a garage sale. The text mentions a community bake sale happening this Sunday at 3 PM to support a local charity, where Adam Smith invites Li Hua to join. Thereafter, there are no references to Thrall attending any sales or events. Therefore, it appears that Thrall is not mentioned in connection with the garage sale.",
+  "prediction_sha256": "494318439a89c918507896a91917691a78c00b68c3f676daca0fec719fdeb330",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100169,
+  "usage": {
+    "completion_tokens": 78,
+    "prompt_tokens": 3965,
+    "prompt_tokens_details": null,
+    "total_tokens": 4043
+  }
+}

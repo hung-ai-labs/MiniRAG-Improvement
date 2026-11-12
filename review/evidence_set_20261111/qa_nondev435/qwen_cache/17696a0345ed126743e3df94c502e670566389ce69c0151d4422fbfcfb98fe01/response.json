@@ -1,0 +1,17 @@
+{
+  "body_sha256": "17696a0345ed126743e3df94c502e670566389ce69c0151d4422fbfcfb98fe01",
+  "finish_reason": "stop",
+  "latency_s": 7.702426583000488,
+  "prediction": "In one of the conversations, EmilyBurnett recommends several TV shows to LiHua. She suggests starting with \"Stranger Things,\" describing it as a \"cool mix of nostalgia and suspense.\" Additionally, EmilyBurnett recommends \"The Expanse\" for those who enjoy space adventures, and \"The White Lotus\" for those looking for something lighter and humorous. LiHua expresses interest in checking out these recommendations.",
+  "prediction_sha256": "8c90c17c7ce347b26447534a9a00a9e9e6c8b116f5c04c76be4952db1f49dd94",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100387,
+  "usage": {
+    "completion_tokens": 84,
+    "prompt_tokens": 3175,
+    "prompt_tokens_details": null,
+    "total_tokens": 3259
+  }
+}

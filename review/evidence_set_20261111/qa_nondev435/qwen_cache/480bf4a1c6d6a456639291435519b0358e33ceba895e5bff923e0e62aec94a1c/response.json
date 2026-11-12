@@ -1,0 +1,17 @@
+{
+  "body_sha256": "480bf4a1c6d6a456639291435519b0358e33ceba895e5bff923e0e62aec94a1c",
+  "finish_reason": "stop",
+  "latency_s": 10.253723582995008,
+  "prediction": "During the bakery's anniversary event, Li Hua expressed enthusiasm about trying new bread products. However, specific details about which new bread product Li Hua particularly enjoyed were not explicitly mentioned in the provided conversations. Li Hua did mention trying a new pastry, but no specific new bread product is highlighted as her favorite. Therefore, based on the information given, it is not possible to determine which new bread product Li Hua really enjoyed.",
+  "prediction_sha256": "8c0f5cf9df52c023ca5e1368a9e29a115d5031d8d294ff0ef6483295c9c1a605",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100424,
+  "usage": {
+    "completion_tokens": 88,
+    "prompt_tokens": 4381,
+    "prompt_tokens_details": null,
+    "total_tokens": 4469
+  }
+}

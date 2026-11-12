@@ -1,0 +1,17 @@
+{
+  "body_sha256": "9a217ef7883f6e0dfeb58f8770700d4c8e4f80f95273c6edc5901121531b24e0",
+  "finish_reason": "stop",
+  "latency_s": 14.137549374998343,
+  "prediction": "According to the information provided, Ivor is a participant in the discussion about the best football manager in Premier League history and agrees to meet for a kick-around session on Saturday afternoon. However, there is no direct mention of Real Madrid's current coach in Ivor's statements. The entities table indicates that Ivor is a participant in a discussion about the best football manager in Premier League history, but the Premier League is not mentioned, suggesting this might be referring to a different context or league. Given the available data, we cannot determine Real Madrid's coach based on Ivor's comments.",
+  "prediction_sha256": "9bc91e7851e79dcf05c1ca2ed64c1782171e77228ce1fd27209174e56fd6511f",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200360,
+  "usage": {
+    "completion_tokens": 118,
+    "prompt_tokens": 4876,
+    "prompt_tokens_details": null,
+    "total_tokens": 4994
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "07301292fdf23972a5e8fd471a050ec954d2e8443ca94c13ecc9e637f9886d32",
+  "finish_reason": "stop",
+  "latency_s": 4.92745733299671,
+  "prediction": "The provided data tables do not contain any information regarding Raze's personal reasons for becoming a fitness coach. Therefore, based on the given information, there is no detail available to address the specific question posed.",
+  "prediction_sha256": "1fa0e1b00a2fab2f424af27489cc5ba0e0383f80ce4630187b77e96b2a1f8e23",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100427,
+  "usage": {
+    "completion_tokens": 42,
+    "prompt_tokens": 3915,
+    "prompt_tokens_details": null,
+    "total_tokens": 3957
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "d8399e2703d53534a2b03e9517b492ea8939e8364206d59d416c9bb5123d2ca4",
+  "finish_reason": "stop",
+  "latency_s": 12.536186458000884,
+  "prediction": "Based on the interactions described, the bread from Hailey's Bakery was typically served with a drizzle of olive oil and a sprinkle of sea salt. This combination helps enhance the flavor of the bread. Additionally, Li Hua mentioned that she loved the idea of adding cherry tomatoes to the bread, suggesting that Hailey might incorporate this topping for future deliveries as well.\n\nAs for the name of the bakery, the context clearly indicates that the bakery delivering the bread to Li Hua is \"Hailey's Bakery.\" This is evident from multiple conversations where Alice, representing the bakery, informs Li Hua about the delivery of bread.",
+  "prediction_sha256": "66dd19017285573ba07ceaeee89c0364cc6f95658026e74e534b7eac018720a9",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200420,
+  "usage": {
+    "completion_tokens": 126,
+    "prompt_tokens": 5067,
+    "prompt_tokens_details": null,
+    "total_tokens": 5193
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "b696a53d836231626925aba12d15555dad9424917a71a357021bd35db8e0d3a9",
+  "finish_reason": "stop",
+  "latency_s": 6.579047041999729,
+  "prediction": " Li Hua plans to meet Yuriko Yamamoto to show the final website on Thursday at 3 pm at Central Perk café. This information is gathered from a conversation that took place on March 17, 2026, where Li Hua mentions, \"Hey Yuriko! I can show you the final website this Thursday at 3pm if that works for you. How about we meet at Central Perk café? Looking forward to your feedback!\" Yuriko Yamamoto confirms her attendance and eagerness to see the website's final version.",
+  "prediction_sha256": "d9f4c3b85deac8bbcf62748da6024a8b9829eef3e7032e0acd115330a1f28eba",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 97,
+  "usage": {
+    "completion_tokens": 131,
+    "prompt_tokens": 5173,
+    "prompt_tokens_details": null,
+    "total_tokens": 5304
+  }
+}

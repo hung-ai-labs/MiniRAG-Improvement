@@ -1,0 +1,17 @@
+{
+  "body_sha256": "7fecf6a77599639f54d86a2eda4c2864132f77b3de6d7ba70237fba8031aa475",
+  "finish_reason": "stop",
+  "latency_s": 9.086678040999686,
+  "prediction": "During the picnic, RexxarRemar suggests bringing blankets or chairs for seating. He emphasizes the importance of having some seating options to ensure that everyone can relax comfortably on the grass, which adds to the cozy and enjoyable atmosphere of the event. Additionally, RexxarRemar proposes setting up a small drink station with water and refreshments to keep everyone hydrated, especially given the possibility of warm temperatures. These suggestions are aimed at ensuring that the picnic is not only fun but also practical and enjoyable for all participants.",
+  "prediction_sha256": "64965fd5be013f47fcd19d4ccb2c2b22635700cd8436453691edc7341eabf3f7",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200396,
+  "usage": {
+    "completion_tokens": 104,
+    "prompt_tokens": 3922,
+    "prompt_tokens_details": null,
+    "total_tokens": 4026
+  }
+}

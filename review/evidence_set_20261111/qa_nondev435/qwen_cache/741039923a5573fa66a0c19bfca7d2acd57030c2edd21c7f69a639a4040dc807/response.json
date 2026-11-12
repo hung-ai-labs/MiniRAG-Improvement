@@ -1,0 +1,17 @@
+{
+  "body_sha256": "741039923a5573fa66a0c19bfca7d2acd57030c2edd21c7f69a639a4040dc807",
+  "finish_reason": "stop",
+  "latency_s": 10.030365374997928,
+  "prediction": "According to the conversation, Li Hua checks in with Adam about the move-in details at 5:30 PM on the day after the initial inquiry, which is 20260105 (January 5th). Specifically, the interaction reads:\n\n\"LiHua: Awesome! I'll be there around 5:30 PM then. Can’t wait to see the place! Thanks for the quick reply!\"\n\nThis indicates that Li Hua plans to visit Adam's place at 5:30 PM on January 6th (two days after the initial inquiry).",
+  "prediction_sha256": "47c2535d5b0b816f1702654f6812ccb7b5688bfd75e71be56fffc9178a968dc9",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 55,
+  "usage": {
+    "completion_tokens": 122,
+    "prompt_tokens": 3979,
+    "prompt_tokens_details": null,
+    "total_tokens": 4101
+  }
+}

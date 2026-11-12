@@ -1,0 +1,17 @@
+{
+  "body_sha256": "340cd2d5de6baa629bf3a6af87c6ad6b0ca99073708d8fa804a5e05d8f003c7c",
+  "finish_reason": "stop",
+  "latency_s": 8.81465729199408,
+  "prediction": "Based on the conversations provided, Wolfgang Schulz reminded Li Hua about their lunch meeting at the cozy café downtown at 12:00 PM. This information comes from the conversation dated 20260108_11:00 where Wolfgang Schulz explicitly mentions, \"Hey! Just wanted to remind you about our lunch at the cozy café downtown at 12:00.\" Thus, the lunch meeting between Li Hua and Wolfgang Schulz at the cozy café downtown takes place at noon.",
+  "prediction_sha256": "0db0a7641bf47b52c96d80e459aac52e5ac5801c71285c4b1a367cf7b532a596",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 56,
+  "usage": {
+    "completion_tokens": 108,
+    "prompt_tokens": 4187,
+    "prompt_tokens_details": null,
+    "total_tokens": 4295
+  }
+}

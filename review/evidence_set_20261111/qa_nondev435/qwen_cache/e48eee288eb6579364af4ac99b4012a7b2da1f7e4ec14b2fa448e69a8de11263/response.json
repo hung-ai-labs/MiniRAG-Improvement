@@ -1,0 +1,17 @@
+{
+  "body_sha256": "e48eee288eb6579364af4ac99b4012a7b2da1f7e4ec14b2fa448e69a8de11263",
+  "finish_reason": "stop",
+  "latency_s": 4.895237291999365,
+  "prediction": "In the conversation, ThaneChambers recommends \"The Last of Us\" for its strong narrative and compelling storytelling. He mentions that the game offers a mix of action and stealth gameplay, which keeps players engaged, and he compares it favorably to games like \"Witcher 3,\" suggesting that fans of that title would enjoy \"The Last of Us.\"",
+  "prediction_sha256": "707788fbb74e1be0946f87d92b1cf02645e30cb2f9ab248ff1b83ec5ef63470b",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200322,
+  "usage": {
+    "completion_tokens": 74,
+    "prompt_tokens": 4270,
+    "prompt_tokens_details": null,
+    "total_tokens": 4344
+  }
+}

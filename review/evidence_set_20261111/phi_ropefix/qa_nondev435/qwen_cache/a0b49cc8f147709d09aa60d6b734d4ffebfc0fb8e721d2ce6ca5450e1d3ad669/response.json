@@ -1,0 +1,17 @@
+{
+  "body_sha256": "a0b49cc8f147709d09aa60d6b734d4ffebfc0fb8e721d2ce6ca5450e1d3ad669",
+  "finish_reason": "stop",
+  "latency_s": 8.141109750002215,
+  "prediction": " The provided data tables and sources do not contain explicit information regarding the date or time of a garage sale. There are no mentions of garage sales in the CSV-formatted entities or the conversation transcripts included in the sources. Therefore, based on the available information, it is not possible to determine when the garage sale is being discussed. If further details are required, they are not present in the current dataset provided.\n\n```markdown\n## Garage Sale Discussion\n\nAfter a thorough review of the available data tables and conversation sources, it is clear that no information regarding a garage sale is provided. The entities and interactions only mention Sundays, music sessions, and other individual activities and arrangements between the participants. There is no mention of a garage sale or any related dates or planning for such an event. Hence, we cannot extract any details about a garage sale from the given information.\n```",
+  "prediction_sha256": "9df7921e1b4fbca8137ad89451ee1308e6e33c049f0d476a331f4205a9aceb9a",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 100168,
+  "usage": {
+    "completion_tokens": 193,
+    "prompt_tokens": 4841,
+    "prompt_tokens_details": null,
+    "total_tokens": 5034
+  }
+}

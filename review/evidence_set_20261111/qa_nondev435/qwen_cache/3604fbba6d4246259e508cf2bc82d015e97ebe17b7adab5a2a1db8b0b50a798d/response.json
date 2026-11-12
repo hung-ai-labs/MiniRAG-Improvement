@@ -1,0 +1,17 @@
+{
+  "body_sha256": "3604fbba6d4246259e508cf2bc82d015e97ebe17b7adab5a2a1db8b0b50a798d",
+  "finish_reason": "stop",
+  "latency_s": 5.498218083004758,
+  "prediction": "The provided messages do not specifically address the state of the basement post-storm. There is no mention of any damages, repairs, or discussions regarding the basement following the mentioned storm event. Therefore, based on the information available, it is not possible to determine the condition of the basement after the storm.",
+  "prediction_sha256": "18e9eb0a2d358a23591fa05e548f202355905d43f858cb77e3afc82dc936e342",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 193,
+  "usage": {
+    "completion_tokens": 61,
+    "prompt_tokens": 4495,
+    "prompt_tokens_details": null,
+    "total_tokens": 4556
+  }
+}

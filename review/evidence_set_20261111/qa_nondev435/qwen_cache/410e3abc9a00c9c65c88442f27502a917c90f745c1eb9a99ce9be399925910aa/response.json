@@ -1,0 +1,17 @@
+{
+  "body_sha256": "410e3abc9a00c9c65c88442f27502a917c90f745c1eb9a99ce9be399925910aa",
+  "finish_reason": "stop",
+  "latency_s": 8.418244082997262,
+  "prediction": "Dyllan mentions \"Firewatch\" as a game that he found particularly impactful due to its intimate feel and the compelling dialogue between the main characters. This game tells a deep story of isolation and connection, drawing players into the narrative with its thoughtful storytelling.",
+  "prediction_sha256": "6795ce73ba5581a11e364b6dc93ff592cf5b6036fd66b43ef7de505e5466b6aa",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 332,
+  "usage": {
+    "completion_tokens": 52,
+    "prompt_tokens": 4163,
+    "prompt_tokens_details": null,
+    "total_tokens": 4215
+  }
+}

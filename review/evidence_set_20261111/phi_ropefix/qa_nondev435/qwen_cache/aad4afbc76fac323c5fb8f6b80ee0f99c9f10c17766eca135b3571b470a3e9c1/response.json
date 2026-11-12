@@ -1,0 +1,17 @@
+{
+  "body_sha256": "aad4afbc76fac323c5fb8f6b80ee0f99c9f10c17766eca135b3571b470a3e9c1",
+  "finish_reason": "stop",
+  "latency_s": 8.99713391700061,
+  "prediction": " According to the conversation transcript, Li Hua and Wolfgang Schulz discussed having dinner together with Li Hua bringing a homemade dish for the occasion. Specifically, Li Hua mentioned that she had made a hawthorn and dried tangerine peel Basque burnt cheesecake, describing it as \"super delicious.\" She expressed her enthusiasm for the cheesecake by stating she would like to try it on Wolfgang, indicating that it would be a treat following their meal. Therefore, after having Sichuan hot pot, Li Hua ordered a hawthorn and dried tangerine peel Basque burnt cheesecake for dessert.\n\n```markdown\n- Dessert Ordered by Li Hua: Hawthorn and Dried Tangerine Peel Basque Burnt Cheesecake\n```",
+  "prediction_sha256": "69012d0cbea1943c30e0c113cea29c5d5679db6f2aa215bfa9a33bc6068e895f",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 408,
+  "usage": {
+    "completion_tokens": 186,
+    "prompt_tokens": 5800,
+    "prompt_tokens_details": null,
+    "total_tokens": 5986
+  }
+}

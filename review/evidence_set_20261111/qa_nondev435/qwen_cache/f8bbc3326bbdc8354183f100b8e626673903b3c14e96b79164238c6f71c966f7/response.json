@@ -1,0 +1,17 @@
+{
+  "body_sha256": "f8bbc3326bbdc8354183f100b8e626673903b3c14e96b79164238c6f71c966f7",
+  "finish_reason": "stop",
+  "latency_s": 10.587088457999926,
+  "prediction": "The web design seminar is scheduled for Thursday at 3 PM and is hosted by WolfgangSchulz's company. This information is derived from the first source entry which states, \"Time: 20260511_11:00 WolfgangSchulz: Hey! Just wanted to let you know there's a web design seminar at my company this week. It could be interesting for you. Want to join me?\"",
+  "prediction_sha256": "2d81fb8a5f0057f03f90c97594d439116980a1e7e8239735879c02df6d96eb22",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200120,
+  "usage": {
+    "completion_tokens": 91,
+    "prompt_tokens": 4085,
+    "prompt_tokens_details": null,
+    "total_tokens": 4176
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "e23211ca1a0be164e77e19cda590ffa620cef9dfa556fbdad80cb932f310d620",
+  "finish_reason": "stop",
+  "latency_s": 7.606832625002426,
+  "prediction": "According to the conversation, Wolfgang prefers a well-done meat patty in a burger because he believes it is \"just safer and more flavorful.\" He enjoys the \"little char\" on his burger and appreciates the juiciness and texture of a well-done patty. In contrast, he sees the benefits of a medium-rare patty as having a juicier texture but acknowledges that a well-done patty offers a richer flavor profile. Wolfgang values the balance of safety and taste in his burger experience.",
+  "prediction_sha256": "3b01b7f5a59ebf18720f5a710569fc2775b1af16b5dedcd76b1efd52aedb8d45",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200186,
+  "usage": {
+    "completion_tokens": 103,
+    "prompt_tokens": 3830,
+    "prompt_tokens_details": null,
+    "total_tokens": 3933
+  }
+}

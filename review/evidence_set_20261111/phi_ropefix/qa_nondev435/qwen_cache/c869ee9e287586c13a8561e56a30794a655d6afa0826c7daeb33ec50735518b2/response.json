@@ -1,0 +1,17 @@
+{
+  "body_sha256": "c869ee9e287586c13a8561e56a30794a655d6afa0826c7daeb33ec50735518b2",
+  "finish_reason": "stop",
+  "latency_s": 4.398200250005175,
+  "prediction": " Jennifer Moore is the person who checks in with LiHua regarding their arm muscles after the bench press session. This is evident from the conversation timestamped \"Time: 20261008_14:00,\" where Jennifer explicitly inquires about LiHua's condition due to the soreness and readiness for the upcoming session.",
+  "prediction_sha256": "f8fa42abaa82eb969660cf1b5afcca7f37ca7f74916ca3179fc5dd9ea8335b79",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 200305,
+  "usage": {
+    "completion_tokens": 80,
+    "prompt_tokens": 5143,
+    "prompt_tokens_details": null,
+    "total_tokens": 5223
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "f82e064232540ecdba58501da923fdec49ad5a9f19ece0a3ce924c7d76284fac",
+  "finish_reason": "stop",
+  "latency_s": 16.504094208001334,
+  "prediction": "In the conversation shared, Wolfgang mentions planning to celebrate his promotion with dinner at an Italian restaurant he and Li Hua love. Specifically, this is detailed in the message dated 20260428_18:30:\n\n> WolfgangSchulz: Hey! 🎉 I just got promoted! Want to celebrate with dinner the day after tomorrow? How about 6 PM?\n> LiHua: Congrats on the promotion! That's awesome! 🎉 I'd love to join for dinner on Thursday at 6 PM. Where do you want to go?\n> WolfgangSchulz: Thanks! How about our favorite Italian place? They have the best pasta! What do you think?\n> LiHua: Sounds perfect! I’ve been craving their pasta. Can't wait! 🍝\n\nTherefore, the name of the Italian restaurant where Wolfgang and Li Hua are having dinner to celebrate Wolfgang's promotion is their \"favorite Italian place\" which is known for having \"the best pasta\".",
+  "prediction_sha256": "73d7fa85ba7fe92dc2d9d2d9bbe2e600054424f7f114c4f9cd18d221e4abe285",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200116,
+  "usage": {
+    "completion_tokens": 210,
+    "prompt_tokens": 3626,
+    "prompt_tokens_details": null,
+    "total_tokens": 3836
+  }
+}

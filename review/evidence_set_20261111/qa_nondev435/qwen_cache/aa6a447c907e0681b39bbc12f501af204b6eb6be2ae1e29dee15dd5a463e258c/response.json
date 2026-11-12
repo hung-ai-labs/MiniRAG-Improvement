@@ -1,0 +1,17 @@
+{
+  "body_sha256": "aa6a447c907e0681b39bbc12f501af204b6eb6be2ae1e29dee15dd5a463e258c",
+  "finish_reason": "stop",
+  "latency_s": 8.555667459004326,
+  "prediction": "On March 7th, Wolfgang and Li Hua plan to attend a concert. However, the table does not provide the specific name of the concert they will be attending. From the conversation provided, it is clear that Wolfgang offers an extra ticket for a concert on March 7th at 6 PM, suggesting this is the event they intend to attend together. While the exact name of the concert is not specified in the given data, it is inferred to be one of the events Wolfgang mentions for which he has a ticket.",
+  "prediction_sha256": "e511d651f5ea3bec3a5edd3cf35fb9b6331a361af1969ed351b498631038c450",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100415,
+  "usage": {
+    "completion_tokens": 107,
+    "prompt_tokens": 3694,
+    "prompt_tokens_details": null,
+    "total_tokens": 3801
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "912103dfd395b589509761ce56e11ad064a2e8bf1d5a18cf578b167bdc1e8411",
+  "finish_reason": "stop",
+  "latency_s": 13.89698249999492,
+  "prediction": "In one interaction, Li Hua suggests several types of flowers that could be incorporated into the flower beds. Specifically, Li Hua recommends lavender and coneflowers, stating that these flowers are \"both beautiful and great for pollinators\" and \"don’t require too much maintenance!\" These recommendations align with Adam Smith's interest in native plants, which he had mentioned as a potential addition to the garden. Additionally, Li Hua suggests a small herb section, proposing basil, mint, and rosemary, to make the garden more functional and enjoyable.",
+  "prediction_sha256": "ec95ec4399dbfca9ae633c17e17d84a7227c11a24ee34fd5dc614d0ce7856137",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 110,
+  "usage": {
+    "completion_tokens": 112,
+    "prompt_tokens": 4371,
+    "prompt_tokens_details": null,
+    "total_tokens": 4483
+  }
+}

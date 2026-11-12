@@ -1,0 +1,17 @@
+{
+  "body_sha256": "50479115a3c51eb0be491cd0ccb5df90c11f7f6bad0d99edcca48a860e930889",
+  "finish_reason": "stop",
+  "latency_s": 11.240326166000159,
+  "prediction": "During the community picnic planning discussions, RexxarRemar suggested incorporating music as a great touch to enhance the atmosphere and create a joyful vibe. He emphasized the importance of ensuring the music wasn't too loud to avoid disturbing others nearby. Additionally, RexxarRemar recommended bringing blankets or chairs for seating, which he believed would make it more comfortable to relax outdoors. These suggestions align with creating a cozy and enjoyable picnic experience for everyone involved.",
+  "prediction_sha256": "32f07a329d168d3635de061c891678db1a61228c82ea0bae9b68404050de2b3c",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200393,
+  "usage": {
+    "completion_tokens": 90,
+    "prompt_tokens": 3926,
+    "prompt_tokens_details": null,
+    "total_tokens": 4016
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "baseline": "profile baseline: C0 + source-time + A1@4000, no RRF, no path pruning",
+  "index": "LiHua-World-phi-ropefix",
+  "index_sha256": {
+    "INDEX_DONE": "5e7275ef0053d34014535bedc02ce09dfb5040a305ad16ae57330c102969adb3",
+    "extracted_chunks.json": "3fcd438448c5c1b399a8dac7616a2a70279844a86355bd273e6962bc4abce687",
+    "graph_chunk_entity_relation.graphml": "a352fc909026477f36733e7f4bfded2f70cd9154da3a95db52aec90f3deb3c15",
+    "kv_store_doc_status.json": "8edfc3a07c9565eb1f8db94fd5e9bbae5904398f35de756d6d7fafea61841057",
+    "kv_store_full_docs.json": "2b9e4d9205be0fbfccf4d844d31b04a2ab07cc1cfa0b0f502eb14992f5b43b02",
+    "kv_store_llm_response_cache.json": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+    "kv_store_text_chunks.json": "ac273e980b9f92ac3991287c6a7fb1ec098622c94d8d5cd68cb7d47dca06bf4a",
+    "minirag.log": "d956e6449890e599e87b05ed8b830d9683c7738373447847c5cf0bf35b9b7ff5",
+    "vdb_chunks.json": "d8353bcb7aeade4d0dda99ff8aef97e7778ee84d8cc1d2bd21c654bf07e80dea",
+    "vdb_entities.json": "6583d74d0bf21c3382bd20ec72192c498be987c21488097a8ae0d500223d748e",
+    "vdb_entities_name.json": "42f7ce2a80b766d197dff6fb9c79e72769408e8dd1bf5ee7b582ee9d0ae02522",
+    "vdb_relationships.json": "6b91183ef009d45ccd751e8396060febb943f796fa45259ea8423712c67c8182"
+  },
+  "native_contexts_match_frozen_baseline": false,
+  "native_prefix_asserted": true,
+  "parser": "microsoft/Phi-3.5-mini-instruct (Modal, minirag-slm), seed 20260914, max_tokens 1024, cached in kw_cache_dev200_3of4.jsonl",
+  "parser_calls": 50,
+  "pools_sha256": "665ca200f632d3ca187aa0ba26d704071f095c1e9f4f72ba3788da5ecea69e14",
+  "questions": 50,
+  "shard": [
+    3,
+    4
+  ],
+  "slm": "phi_ropefix",
+  "split": "dev200"
+}

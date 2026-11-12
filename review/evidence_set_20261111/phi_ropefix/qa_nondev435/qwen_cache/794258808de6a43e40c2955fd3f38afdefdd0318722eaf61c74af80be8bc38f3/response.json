@@ -1,0 +1,17 @@
+{
+  "body_sha256": "794258808de6a43e40c2955fd3f38afdefdd0318722eaf61c74af80be8bc38f3",
+  "finish_reason": "stop",
+  "latency_s": 5.025872875005007,
+  "prediction": " Fionnuala expresses her appreciation for the Control Center's audio settings feature by highlighting its convenience, especially during intense gaming moments. She emphasizes that the ability to adjust audio without pausing the game enhances the overall experience by providing an uninterrupted way to fine-tune the sound according to her preferences. This feature allows her to maintain the flow of the gameplay while still having the flexibility to adapt the audio settings as needed, thereby contributing to a more immersive and enjoyable gaming session.",
+  "prediction_sha256": "ec200c94e36fad18a9192c9ac3ad355d425c93122ca905a2e901c891c37c51ec",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 200251,
+  "usage": {
+    "completion_tokens": 116,
+    "prompt_tokens": 4717,
+    "prompt_tokens_details": null,
+    "total_tokens": 4833
+  }
+}

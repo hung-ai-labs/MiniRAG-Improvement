@@ -1,0 +1,17 @@
+{
+  "body_sha256": "130358b64faa99f1f49b878aa30e93bf026a84741658a2e3b32ffcfd8b08fdfd",
+  "finish_reason": "stop",
+  "latency_s": 9.879752666005515,
+  "prediction": "JakeWatson recommends several exercises for improving leg strength, which he suggests can help with power on the field. According to his advice, these include squats and lunges. He mentions that these exercises are beneficial and notes that they are easy to incorporate into a routine since they are simple but effective. Additionally, JakeWatson highlights the importance of stretching after workouts, emphasizing that this is crucial for maintaining muscle flexibility.",
+  "prediction_sha256": "d5719e9a3be2dc49873d0962416fa42b079ec5c663234ea728d6254a783a96db",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100268,
+  "usage": {
+    "completion_tokens": 84,
+    "prompt_tokens": 4273,
+    "prompt_tokens_details": null,
+    "total_tokens": 4357
+  }
+}

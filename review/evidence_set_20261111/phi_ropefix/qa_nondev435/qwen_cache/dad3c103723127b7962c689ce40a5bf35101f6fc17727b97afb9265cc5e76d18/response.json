@@ -1,0 +1,17 @@
+{
+  "body_sha256": "dad3c103723127b7962c689ce40a5bf35101f6fc17727b97afb9265cc5e76d18",
+  "finish_reason": "stop",
+  "latency_s": 4.871387209001114,
+  "prediction": " AdamSmith indicates his availability to help with the curtain installation on October 7th at noon, as per the conversation timestamped \"Time: 20261007_12:00\". In this interaction, he confirms to LiHua that the curtain has been sized correctly and is expected to arrive by the weekend's end. Afterward, he offers his assistance and reassures LiHua that he is willing to help if anything else is needed, showing his readiness to provide support for the installation process.",
+  "prediction_sha256": "48cde9fb8357de12923245c9785f1fc32c8539f58f8c466b5204d39e96439932",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 248,
+  "usage": {
+    "completion_tokens": 119,
+    "prompt_tokens": 3968,
+    "prompt_tokens_details": null,
+    "total_tokens": 4087
+  }
+}

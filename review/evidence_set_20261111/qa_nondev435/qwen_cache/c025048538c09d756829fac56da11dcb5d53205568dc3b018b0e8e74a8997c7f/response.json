@@ -1,0 +1,17 @@
+{
+  "body_sha256": "c025048538c09d756829fac56da11dcb5d53205568dc3b018b0e8e74a8997c7f",
+  "finish_reason": "stop",
+  "latency_s": 11.348886416002642,
+  "prediction": "Based on the conversation between Li Hua and Emily Burnett, Li Hua expressed interest in watching \"The Last of Us\". Specifically, Li Hua stated, \"That sounds perfect! I loved Witcher 3, so I'll probably enjoy The Last of Us as well. Thanks for the recommendation!\" However, Li Hua hasn't watched the game yet. He indicated his intention to watch it soon, saying, \"Not yet, but I’ve heard great things! I’m curious about how they adapted it from the game. I’ll definitely check it out soon.\" Li Hua also suggested that Emily Burnett's recommendation was valuable, showing that she's eager to watch the game and learn more about its adaptation from the source material.",
+  "prediction_sha256": "5a0272008a5faf949c88be4d6750e6efb833fafcfd7f8baeb77d3a38c7397c05",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 388,
+  "usage": {
+    "completion_tokens": 149,
+    "prompt_tokens": 4356,
+    "prompt_tokens_details": null,
+    "total_tokens": 4505
+  }
+}

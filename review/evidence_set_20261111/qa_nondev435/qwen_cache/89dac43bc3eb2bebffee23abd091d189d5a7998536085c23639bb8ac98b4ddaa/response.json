@@ -1,0 +1,17 @@
+{
+  "body_sha256": "89dac43bc3eb2bebffee23abd091d189d5a7998536085c23639bb8ac98b4ddaa",
+  "finish_reason": "stop",
+  "latency_s": 4.714700083000935,
+  "prediction": "According to the conversation, Adam Smith is open to friends occasionally visiting, but suggests keeping the gatherings reasonable. This is evident from a message where Li Hua inquires about allowing friends to visit, and Adam responds affirmatively, stating, \"Having friends over occasionally is fine, just try to keep the gatherings reasonable.\"",
+  "prediction_sha256": "d5f5a5da6c2fe1d961a4b335bed6d00609eaf14f6bc6be93d3f1b2ccdeb16d6d",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200058,
+  "usage": {
+    "completion_tokens": 64,
+    "prompt_tokens": 4474,
+    "prompt_tokens_details": null,
+    "total_tokens": 4538
+  }
+}

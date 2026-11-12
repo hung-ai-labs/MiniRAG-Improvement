@@ -1,0 +1,17 @@
+{
+  "body_sha256": "26c9c36ab3f462d2b3b034d47e3a941213acf82d3ee1fa5ad37e37eb33e649c6",
+  "finish_reason": "stop",
+  "latency_s": 8.2657562920067,
+  "prediction": "Caelum mentions \"Journey\" as a game that encourages emotional engagement with the narrative. Despite its seemingly straightforward gameplay, Journey delves into profound themes of grief and emotional growth, with the art and music enhancing these feelings deeply. This creates an immersive experience that can sneak up on players and leave them emotionally connected to the game.",
+  "prediction_sha256": "50daaaa19502b7c8530c465070e2f3b77983faa527d76eedb5aadb3b617f8d7b",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 328,
+  "usage": {
+    "completion_tokens": 68,
+    "prompt_tokens": 3275,
+    "prompt_tokens_details": null,
+    "total_tokens": 3343
+  }
+}

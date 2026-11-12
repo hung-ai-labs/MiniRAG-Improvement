@@ -1,0 +1,17 @@
+{
+  "body_sha256": "7deda4ecf12ae9acbfea8c41259cc2072a824b072085e16c6a439d00daaa98eb",
+  "finish_reason": "stop",
+  "latency_s": 9.055154999998194,
+  "prediction": " The community bake sale is scheduled to take place on a Sunday, specifically mentioned as the day for various activities throughout the conversations. The exact time for the event is given as 3 PM on that particular Sunday. This information is derived from a conversation between AdamSmith and LiHua, where Adam invites LiHua to join the sale and she confirms her attendance for that time. The mention of Sunday as the day of the event is reinforced by subsequent discussions, including a reminder about the bake sale provided by HaileyJohnson to LiHua, further solidifying that the event is indeed set for a Sunday.\n\n```markdown\nThe community bake sale is planned for **Sunday at 3 PM**. This event is intended not only as a fundraiser for a local charity but also as a means to strengthen community ties and provide LiHua and others with an opportunity to enjoy homemade baked goods together.\n```",
+  "prediction_sha256": "eef02afcce68c20a66ed8f5e9a48d703d09b2b273e30073f883641c2af1c8997",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 90,
+  "usage": {
+    "completion_tokens": 207,
+    "prompt_tokens": 5221,
+    "prompt_tokens_details": null,
+    "total_tokens": 5428
+  }
+}

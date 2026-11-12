@@ -1,0 +1,17 @@
+{
+  "body_sha256": "67baf129e625cadc89335d47ca23bc62b91604f0bc810e4a2dd6a5db0e4f9d41",
+  "finish_reason": "stop",
+  "latency_s": 10.28283024999837,
+  "prediction": "From the conversation, Wolfgang mentions a \"little burger joint downtown\" as his favorite fast food spot. While this does not directly specify a gym, it indicates that Wolfgang frequents a certain establishment in the downtown area. However, based solely on the provided data, there isn't a direct mention of a gym that Wolfgang specifically recommends. The data primarily focuses on Wolfgang and LiHua discussing their preferences for fast food and their fitness activities, but it doesn't explicitly name a gym Wolfgang has in mind.",
+  "prediction_sha256": "2a41daab946f724f7b6879e752709e29c68b7d6db7681ef5dc7b9769ab811b3e",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 63,
+  "usage": {
+    "completion_tokens": 101,
+    "prompt_tokens": 4558,
+    "prompt_tokens_details": null,
+    "total_tokens": 4659
+  }
+}

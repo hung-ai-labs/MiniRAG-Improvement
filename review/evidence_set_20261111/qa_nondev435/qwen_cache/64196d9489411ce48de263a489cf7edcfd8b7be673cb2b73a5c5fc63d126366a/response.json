@@ -1,0 +1,17 @@
+{
+  "body_sha256": "64196d9489411ce48de263a489cf7edcfd8b7be673cb2b73a5c5fc63d126366a",
+  "finish_reason": "stop",
+  "latency_s": 8.312863125000149,
+  "prediction": "The bread delivery service was introduced by HaileyJohnson. Specifically, HaileyJohnson communicated the service to LiHua through a series of messages, highlighting the convenience and freshness of the doorstep delivery. Alice, a new clerk recently hired by HaileyJohnson, was recommended for the delivery role due to her friendly demeanor and commitment to the doorstep service. LiHua expressed enthusiasm about Alice's involvement, indicating her satisfaction with the new delivery service.",
+  "prediction_sha256": "b5a6778b29ea3d2ce0f00b2505bd83754e9b88670ce9a4406a81daf105e55ff8",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200035,
+  "usage": {
+    "completion_tokens": 89,
+    "prompt_tokens": 4382,
+    "prompt_tokens_details": null,
+    "total_tokens": 4471
+  }
+}

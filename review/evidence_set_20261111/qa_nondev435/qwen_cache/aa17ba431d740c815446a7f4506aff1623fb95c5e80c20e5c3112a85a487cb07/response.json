@@ -1,0 +1,17 @@
+{
+  "body_sha256": "aa17ba431d740c815446a7f4506aff1623fb95c5e80c20e5c3112a85a487cb07",
+  "finish_reason": "stop",
+  "latency_s": 10.099518250004621,
+  "prediction": "LiHua mentions that she saw a poster for a local music festival in her town and believes it could be an opportunity for the band to perform in front of an audience. She suggests that they should plan to meet earlier than usual to go over new songs and prepare for the upcoming local music festival, indicating that this event is the one LiHua sees as an opportunity for the band to showcase their music to a larger crowd.",
+  "prediction_sha256": "89cdbf19cce904e10d984ce806bfec2e1ce6fc2e7656303991c45e6b3f3ed7f0",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 138,
+  "usage": {
+    "completion_tokens": 87,
+    "prompt_tokens": 4521,
+    "prompt_tokens_details": null,
+    "total_tokens": 4608
+  }
+}

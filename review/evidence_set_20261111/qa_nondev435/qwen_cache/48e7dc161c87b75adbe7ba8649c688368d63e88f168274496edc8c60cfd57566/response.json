@@ -1,0 +1,17 @@
+{
+  "body_sha256": "48e7dc161c87b75adbe7ba8649c688368d63e88f168274496edc8c60cfd57566",
+  "finish_reason": "stop",
+  "latency_s": 9.636418958005379,
+  "prediction": "According to the conversation records, Wolfgang and LiHua are planning to attend a photography exhibition at 19:00 on August 5, 2026. They also decide to meet at a burger place at 6:00 PM beforehand to grab a bite before heading to the event.",
+  "prediction_sha256": "9d1ed80ad7faa7250acd8923a95bf08e60a79c7449e647cd98fcc0606d8bf051",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100164,
+  "usage": {
+    "completion_tokens": 64,
+    "prompt_tokens": 5672,
+    "prompt_tokens_details": null,
+    "total_tokens": 5736
+  }
+}

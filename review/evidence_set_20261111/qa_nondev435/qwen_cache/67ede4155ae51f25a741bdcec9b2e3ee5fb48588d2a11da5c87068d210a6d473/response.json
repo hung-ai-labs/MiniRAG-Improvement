@@ -1,0 +1,17 @@
+{
+  "body_sha256": "67ede4155ae51f25a741bdcec9b2e3ee5fb48588d2a11da5c87068d210a6d473",
+  "finish_reason": "stop",
+  "latency_s": 9.220000666999113,
+  "prediction": "In one of the conversations, JenniferMoore mentioned that she wanted LiHua to fill out a survey about their training sessions. Specifically, Jennifer stated, \"Could you please fill out a quick survey about your experience with our training sessions so far? Your feedback really helps me improve! 😊\" This indicates that the survey aims to gather feedback from LiHua regarding their participation in the training sessions, which Jennifer hopes will assist her in enhancing the training program.",
+  "prediction_sha256": "c2e9db73f7ac7e07f87b6918149203727240c1cc0303e12830ce9c8ad9649450",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100141,
+  "usage": {
+    "completion_tokens": 94,
+    "prompt_tokens": 3530,
+    "prompt_tokens_details": null,
+    "total_tokens": 3624
+  }
+}

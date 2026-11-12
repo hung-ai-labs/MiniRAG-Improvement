@@ -1,0 +1,17 @@
+{
+  "body_sha256": "c49997a9f2c4c7e3118043672675082da3223300793f7ad4b150358472f56f31",
+  "finish_reason": "stop",
+  "latency_s": 10.523574333998113,
+  "prediction": "The provided data does not contain specific information regarding the costs of the air conditioner installation, including labor and materials. It only contains conversations about discussions and plans related to the installation, such as Adam Smith reminding Li Hua about the contractor team coming to install the AC in the basement at 6 PM and providing recommendations on the type and brand of air conditioners suitable for the basement space. Therefore, without additional details about the budget or costs mentioned elsewhere, we cannot determine the total cost of the air conditioner installation based on the given information.",
+  "prediction_sha256": "384e540593f4c186bf2be1771378ba889c97f05e1c21fd3f608b362f918c5ccb",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 435,
+  "usage": {
+    "completion_tokens": 108,
+    "prompt_tokens": 4519,
+    "prompt_tokens_details": null,
+    "total_tokens": 4627
+  }
+}

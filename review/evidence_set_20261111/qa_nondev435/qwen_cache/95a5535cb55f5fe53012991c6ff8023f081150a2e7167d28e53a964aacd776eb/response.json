@@ -1,0 +1,17 @@
+{
+  "body_sha256": "95a5535cb55f5fe53012991c6ff8023f081150a2e7167d28e53a964aacd776eb",
+  "finish_reason": "stop",
+  "latency_s": 14.222701292001148,
+  "prediction": "In the conversations provided, Adam Smith mentions a couple of house rules regarding the house. Specifically, he advises LiHua to keep noise to a minimum during late hours and to take good care of the property. This is evident from the following exchange:\n\n> **LiHua:** \"Got it, thanks! I'll make sure to keep it down at night. Just one more thing, is it okay to have friends over occasionally?\"\n> **AdamSmith:** \"You're welcome! Yes, having friends over occasionally is fine, just try to keep the gatherings reasonable. Enjoy!\"\n\nAdditionally, Adam also mentions that it's important to keep everything in good shape, particularly noting that if LiHua notices any unusual issues, she should let him know. This reinforces the idea that Adam is keen on ensuring the house remains well-maintained and functional.",
+  "prediction_sha256": "fe1dab827a08f6de38fedaf85ebb9867b094d2bba8ed6b6fc9fb5b60ed016479",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200059,
+  "usage": {
+    "completion_tokens": 171,
+    "prompt_tokens": 3976,
+    "prompt_tokens_details": null,
+    "total_tokens": 4147
+  }
+}

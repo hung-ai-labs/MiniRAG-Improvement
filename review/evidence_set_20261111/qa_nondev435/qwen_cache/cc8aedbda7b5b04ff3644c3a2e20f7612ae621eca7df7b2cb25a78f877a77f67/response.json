@@ -1,0 +1,17 @@
+{
+  "body_sha256": "cc8aedbda7b5b04ff3644c3a2e20f7612ae621eca7df7b2cb25a78f877a77f67",
+  "finish_reason": "stop",
+  "latency_s": 11.279844458997104,
+  "prediction": "According to the conversations recorded, WolfgangSchulz mentions several stunning places in Europe. Specifically, he highlights the fjords in Norway as breathtaking, describing them as \"just not to be missed.\" Additionally, WolfgangSchulz speaks highly of the streets of Prague, praising its magical architecture and the charming vibe of the old town. These places stand out as particularly memorable and visually impressive according to his recollections.",
+  "prediction_sha256": "7c9075d67130fe02803372359e76c527cc1afa1d7fb7461320ace2d34119769f",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 398,
+  "usage": {
+    "completion_tokens": 83,
+    "prompt_tokens": 5048,
+    "prompt_tokens_details": null,
+    "total_tokens": 5131
+  }
+}

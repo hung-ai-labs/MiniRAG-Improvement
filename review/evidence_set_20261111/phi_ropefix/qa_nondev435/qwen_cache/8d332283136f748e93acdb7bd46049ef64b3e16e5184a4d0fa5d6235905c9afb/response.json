@@ -1,0 +1,17 @@
+{
+  "body_sha256": "8d332283136f748e93acdb7bd46049ef64b3e16e5184a4d0fa5d6235905c9afb",
+  "finish_reason": "stop",
+  "latency_s": 9.94380749999982,
+  "prediction": " According to the conversation transcript provided, Li Hua ordered a \"Hawthorn and dried tangerine peel Basque burnt cheesecake\" which she found delicious after having Sichuan hot pot. The following interaction specifically mentions her dessert choice:\n\n```\n5,\"Time: 20260519_12:00\nLiHua: Hey! Just had this amazing hawthorn and dried tangerine peel Basque burnt cheesecake. It was super delicious! I’ll bring one for you to try when we have dinner together next time!\nWolfgangSchulz: That sounds awesome! Can’t wait to try it. You’ve got good taste, as always! 🍰 When are we thinking about dinner?\nLiHua: Let’s aim for this weekend! I’m free on Saturday night. What about you? 😊\n```\n\nThus, Li Hua chose a Basque burnt cheesecake for dessert during her dinner with Wolfgang Schulz.",
+  "prediction_sha256": "4fe8489866921ca15230d1c536c897fa104aacb22c46d26410ee0b4d718a355c",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 200408,
+  "usage": {
+    "completion_tokens": 242,
+    "prompt_tokens": 5250,
+    "prompt_tokens_details": null,
+    "total_tokens": 5492
+  }
+}

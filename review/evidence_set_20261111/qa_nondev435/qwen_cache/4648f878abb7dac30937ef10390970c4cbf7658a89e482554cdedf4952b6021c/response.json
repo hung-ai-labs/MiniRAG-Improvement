@@ -1,0 +1,17 @@
+{
+  "body_sha256": "4648f878abb7dac30937ef10390970c4cbf7658a89e482554cdedf4952b6021c",
+  "finish_reason": "stop",
+  "latency_s": 13.248898457997711,
+  "prediction": "In the conversation provided, there is no direct mention of who invited Li Hua to the community bake sale. However, from the context given, it appears that Adam Smith organized or promoted the event. Specifically, in the message dated \"20260312_12:30\", Adam Smith initiates the conversation by saying, \"Hey Li Hua! There's a community bake sale this Sunday at 3 PM to support a local charity. It would be great if you could join.\" Therefore, based on the available information, Adam Smith is the person who invites Li Hua to participate in the community bake sale.",
+  "prediction_sha256": "6fe5407d903506258ed19b99a07b98c65acd3e1bd525feda4b7307b3c0b80155",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200092,
+  "usage": {
+    "completion_tokens": 131,
+    "prompt_tokens": 4383,
+    "prompt_tokens_details": null,
+    "total_tokens": 4514
+  }
+}

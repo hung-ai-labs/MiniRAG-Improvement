@@ -1,0 +1,17 @@
+{
+  "body_sha256": "391a62725c0e49b20a2286e049bc910a48795f5ae069f0648fc3860e2d9e0437",
+  "finish_reason": "stop",
+  "latency_s": 5.625019874998543,
+  "prediction": "In one of the conversations, LiHua mentions a particularly impactful scene from the series \"Chernobyl.\" This scene involves the efforts to contain the radiation and the sacrifices made by the workers involved in the cleanup. LiHua found this scene very moving and highlighted its ability to portray the human spirit in difficult circumstances.",
+  "prediction_sha256": "f6fbebb232a2cda03954eeb892c13810d8269886aedf8ad4b4cf33587dc5475a",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 384,
+  "usage": {
+    "completion_tokens": 66,
+    "prompt_tokens": 4194,
+    "prompt_tokens_details": null,
+    "total_tokens": 4260
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "aa0c60dfd272422b153e8432645d897e67418f2537c4da577cb37916fe886d8b",
+  "finish_reason": "stop",
+  "latency_s": 6.001633584000956,
+  "prediction": "In one of the conversations, Adam mentions a specific house rule regarding noise levels during late hours. He advises LiHua to keep the noise to a minimum during these times. Additionally, Adam emphasizes the importance of taking good care of the property. This rule serves as a guideline for both parties to ensure a harmonious living environment.",
+  "prediction_sha256": "f3f2971d8ca1b2b6b0f4352c0f0c434c129af0b28122cecf894654d46f42ff54",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 59,
+  "usage": {
+    "completion_tokens": 67,
+    "prompt_tokens": 4722,
+    "prompt_tokens_details": null,
+    "total_tokens": 4789
+  }
+}

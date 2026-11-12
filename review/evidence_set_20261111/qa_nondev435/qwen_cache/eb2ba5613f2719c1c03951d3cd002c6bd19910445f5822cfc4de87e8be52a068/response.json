@@ -1,0 +1,17 @@
+{
+  "body_sha256": "eb2ba5613f2719c1c03951d3cd002c6bd19910445f5822cfc4de87e8be52a068",
+  "finish_reason": "stop",
+  "latency_s": 10.021674125000573,
+  "prediction": "Yes, Li Hua did ask Jennifer for her opinion on the best type of protein supplement that could help him achieve his fitness goals. This inquiry came before he specifically asked about protein powder usage and intake. Jennifer recommended whey protein, suggesting it's great for muscle recovery and lean mass building, and also offered alternatives like pea or rice protein for plant-based options. She advised taking it post-workout for optimal absorption and recovery.",
+  "prediction_sha256": "bf831dda0da73cb6415190a00e2e86988ef4d1d0d8bd5458cb262fc9904a33e1",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100016,
+  "usage": {
+    "completion_tokens": 87,
+    "prompt_tokens": 4419,
+    "prompt_tokens_details": null,
+    "total_tokens": 4506
+  }
+}

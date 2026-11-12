@@ -1,0 +1,17 @@
+{
+  "body_sha256": "3c0867a2f3424896549dbd3bbdac7875dfc8c2d88cb7d475e81cd7afac5d8461",
+  "finish_reason": "stop",
+  "latency_s": 4.02349741600483,
+  "prediction": "There is no information provided in the given conversation about Li Hua selecting an air-conditioner for Adam's living room or comparing its temperature regulation to the one in the basement. The discussions focus mainly on rent reminders, minor maintenance issues, and occasional social interactions. Therefore, based on the available data, it is not possible to determine the type of air-conditioner selected or how its temperature regulation compares.",
+  "prediction_sha256": "a291f87c591d398fe4b06c02ba33c0cb36b48df29868cd11a2d8e7db6cbe9e60",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 438,
+  "usage": {
+    "completion_tokens": 81,
+    "prompt_tokens": 3609,
+    "prompt_tokens_details": null,
+    "total_tokens": 3690
+  }
+}

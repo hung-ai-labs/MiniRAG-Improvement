@@ -1,0 +1,17 @@
+{
+  "body_sha256": "cc6c142a384ed103795e122caaf974b9ec939b44b97954c32742ee744ab44b11",
+  "finish_reason": "stop",
+  "latency_s": 17.302708292001626,
+  "prediction": "According to the information provided, Wolfgang is informed about his upcoming business trip to Hong Kong. Specifically, this is communicated through a conversation between WolfgangSchulz and LiHua, where Wolfgang informs LiHua that he will be off to Hong Kong for a couple of days next week. LiHua responds positively to the news, suggesting that Wolfgang should grab some unique snacks or a local souvenir during his trip. Additionally, Wolfgang mentions that he will keep an eye out for these items and ensure to bring something special for LiHua. This indicates that both Wolfgang and LiHua are aware of Wolfgang's trip to Hong Kong. Furthermore, Wolfgang also informs Yuriko about his trip, though it seems that Yuriko does not have a specific plan for the time Wolfgang will be away, only expressing her excitement for catching up with him upon his return. Therefore, Wolfgang has shared this information with at least two individuals, LiHua and Yuriko, who are aware of his trip to Hong Kong.",
+  "prediction_sha256": "1c42aaed5b4c7a8e0421feee621a4cf466939edb31bf1d17fd48b424c3797921",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200033,
+  "usage": {
+    "completion_tokens": 205,
+    "prompt_tokens": 4900,
+    "prompt_tokens_details": null,
+    "total_tokens": 5105
+  }
+}

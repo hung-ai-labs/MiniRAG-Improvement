@@ -1,0 +1,17 @@
+{
+  "body_sha256": "1eafc846c259c02b45c91f8a2c3293151e69422d2edb8da40e7ae2c326143047",
+  "finish_reason": "stop",
+  "latency_s": 9.705089208997379,
+  "prediction": "ChaeSong-hwa has scheduled the community medical knowledge lecture for April 11th at 7 PM. This can be derived from the conversation snippet provided, where it is mentioned that \"We're covering some basic health tips and common medical myths. Should be really helpful! Looking forward to it!\" This statement was exchanged between ChaeSong-hwa and LiHua, with the time specified as \"20260411_16:00\". Therefore, the event is set for April 11th at 7 PM.",
+  "prediction_sha256": "6a65038808e8cc2c15167cf799ce383ac7de14a62536bcc610456d1ae2d42078",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100106,
+  "usage": {
+    "completion_tokens": 115,
+    "prompt_tokens": 4486,
+    "prompt_tokens_details": null,
+    "total_tokens": 4601
+  }
+}

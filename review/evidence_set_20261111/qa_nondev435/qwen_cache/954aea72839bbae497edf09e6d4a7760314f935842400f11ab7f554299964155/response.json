@@ -1,0 +1,17 @@
+{
+  "body_sha256": "954aea72839bbae497edf09e6d4a7760314f935842400f11ab7f554299964155",
+  "finish_reason": "stop",
+  "latency_s": 12.644293790996016,
+  "prediction": "Yes, according to the conversation recorded, Li Hua initially asked Thane about Sekiro: Shadows Die Twice. However, before this, Li Hua had already inquired about The Last of Us. The transcript indicates:\n\n- Time: 20261228_14:00\n- LiHua: Hey Thane! What do you think about The Last of Us? I'm thinking of picking it up. Would love to hear your thoughts!\n\nSo, ThaneChambers responded to the question about The Last of Us before being asked about Sekiro: Shadows Die Twice.",
+  "prediction_sha256": "8499c546b49b8a9221df6dbb02b01f0ae400719f29f150da2c7e9d5335a3a677",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200024,
+  "usage": {
+    "completion_tokens": 126,
+    "prompt_tokens": 4294,
+    "prompt_tokens_details": null,
+    "total_tokens": 4420
+  }
+}

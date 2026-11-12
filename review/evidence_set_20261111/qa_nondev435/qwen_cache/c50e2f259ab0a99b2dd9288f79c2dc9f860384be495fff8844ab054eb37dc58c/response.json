@@ -1,0 +1,17 @@
+{
+  "body_sha256": "c50e2f259ab0a99b2dd9288f79c2dc9f860384be495fff8844ab054eb37dc58c",
+  "finish_reason": "stop",
+  "latency_s": 6.81474208399959,
+  "prediction": "In the conversation, LiHua and WolfgangSchulz discuss the snacks they will bring for their movie night. Specifically, they mention that LiHua will bring some chips, and WolfgangSchulz expresses a desire for soda and juice. Therefore, the snack that LiHua agrees to bring for the movie is chips.",
+  "prediction_sha256": "2cfd8d3f24a4af48be4a682e91abc02090384fd6e24451a06b0619c9f3c5bd2f",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200306,
+  "usage": {
+    "completion_tokens": 67,
+    "prompt_tokens": 3315,
+    "prompt_tokens_details": null,
+    "total_tokens": 3382
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "6af3a4a97f4544ac81ab53e64850daf1cc7e3d5394442c6c31a49c4ed5a2d2a7",
+  "finish_reason": "stop",
+  "latency_s": 19.299828875002277,
+  "prediction": "In the conversation, Adam Smith reminded everyone about the community garden cleanup event scheduled for the following Saturday (July 27th), 2026. Later, during a discussion about the upcoming sports day, it was decided that the community sports day would happen on Saturday, July 27th, 2026. Therefore, the community members settled on the same date, July 27th, 2026, for both the community garden cleanup event and the community sports day. However, the picnic mentioned in the initial announcement by Turalyon took place on a different day, specifically on the weekend prior to the sports day, which was likely the following Saturday, July 27th, 2026. The exact date of the picnic was not specified, but it was confirmed to be part of the community events planned for the weekend preceding the community sports day.",
+  "prediction_sha256": "44319065687dda0d364c6191cd2a3d4d69b84e2a7090bec12b4c11a708bc880f",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100395,
+  "usage": {
+    "completion_tokens": 185,
+    "prompt_tokens": 5180,
+    "prompt_tokens_details": null,
+    "total_tokens": 5365
+  }
+}

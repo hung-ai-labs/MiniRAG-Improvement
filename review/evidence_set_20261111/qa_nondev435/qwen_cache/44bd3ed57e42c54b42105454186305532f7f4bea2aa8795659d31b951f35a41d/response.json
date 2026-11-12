@@ -1,0 +1,17 @@
+{
+  "body_sha256": "44bd3ed57e42c54b42105454186305532f7f4bea2aa8795659d31b951f35a41d",
+  "finish_reason": "stop",
+  "latency_s": 5.006832209001004,
+  "prediction": "According to the conversation in the table, LiHua and AdamSmith agreed to schedule the curtain installation for this Wednesday at 5 pm. This decision was made during their discussion about the curtain delivery and setup, taking place on March 9, 2026, at 12:00 PM.",
+  "prediction_sha256": "1585fa29997ebb0aa69c4840e6424544c590af5554b1cd87bcbacb791e198278",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 249,
+  "usage": {
+    "completion_tokens": 65,
+    "prompt_tokens": 4357,
+    "prompt_tokens_details": null,
+    "total_tokens": 4422
+  }
+}

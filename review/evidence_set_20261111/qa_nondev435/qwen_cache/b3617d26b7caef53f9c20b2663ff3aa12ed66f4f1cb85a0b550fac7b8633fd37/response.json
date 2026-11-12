@@ -1,0 +1,17 @@
+{
+  "body_sha256": "b3617d26b7caef53f9c20b2663ff3aa12ed66f4f1cb85a0b550fac7b8633fd37",
+  "finish_reason": "stop",
+  "latency_s": 7.142984417001571,
+  "prediction": "In the dialogue shared, Adam mentions a house rule related to a power outage. Specifically, in the third source (content from id 1), Adam informs Li Hua that there will be a power outage from 2 PM to 3 PM the following day for maintenance. He then asks Li Hua if she is prepared for this event. This indicates that managing household issues, such as power outages, is part of the house rules or routine in their living environment.",
+  "prediction_sha256": "e1ec80d68f56588fb4a09a5e91d341009a9ff579fd9ef008f3898e48e5108b9c",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100059,
+  "usage": {
+    "completion_tokens": 96,
+    "prompt_tokens": 4478,
+    "prompt_tokens_details": null,
+    "total_tokens": 4574
+  }
+}

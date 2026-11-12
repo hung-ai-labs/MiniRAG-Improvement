@@ -1,0 +1,17 @@
+{
+  "body_sha256": "019fea323ad4499d419c9221d1ab0568eeafe852de1cceea2c2b1c9f45c1c496",
+  "finish_reason": "stop",
+  "latency_s": 10.885496749993763,
+  "prediction": "In the discussions provided, Briar mentions several items to bring to practice. Specifically, in the context of soccer practice, Briar reminds everyone to bring water bottles to ensure that everyone stays hydrated during the practice session. This advice comes from conversations where Briar is participating in discussions about bringing necessary supplies to practices, indicating that she emphasizes the importance of hydration for a successful practice.",
+  "prediction_sha256": "eaace96dc7314f20d07e92c0cbc9d93c7db134ee3076173147de693be9f7a226",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 284,
+  "usage": {
+    "completion_tokens": 76,
+    "prompt_tokens": 5029,
+    "prompt_tokens_details": null,
+    "total_tokens": 5105
+  }
+}

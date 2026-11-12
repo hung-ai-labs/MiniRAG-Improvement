@@ -1,0 +1,17 @@
+{
+  "body_sha256": "ce18574184a05f89ef0b0c4f92b47cf3ffef27e79aaecef096d56c4aa24e51d2",
+  "finish_reason": "stop",
+  "latency_s": 9.686812250001822,
+  "prediction": "YurikoYamamoto expresses strong enthusiasm for incorporating binaural tones into their music, describing it as \"adding a whole new dimension to our music.\" She looks forward to experimenting with the tones and blending them with their instruments, highlighting the potential for creating a unique listening experience for their audience. Her excitement is evident as she mentions it could result in \"a whole new vibe\" and suggests testing it out during their next jam session.",
+  "prediction_sha256": "fe23ab57d9707ba1bbd97f6463a2f42bfcd56c52c313ec5f7fd96767fbe5dcd1",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100275,
+  "usage": {
+    "completion_tokens": 89,
+    "prompt_tokens": 4114,
+    "prompt_tokens_details": null,
+    "total_tokens": 4203
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "112bfa7d9bf9a344ea3161fb65b6565f7f9ce48db40fcdfdf17a8db269d579d8",
+  "finish_reason": "stop",
+  "latency_s": 10.576730249998946,
+  "prediction": "According to their conversation, Wolfgang Schulz expresses feeling overwhelmed and under a lot of pressure due to a new software project. He describes it as \"pushing [him] to [his] limits\" and compares it to being in a \"pressure cooker.\" Wolfgang acknowledges his talent but concedes that the current pressures will not last forever, encouraging LiHua to remain confident in his abilities. LiHua offers words of encouragement, suggesting that Wolfgang should focus on taking things one step at a time and alleviating stress through activities like jamming together, which he believes will be a great way to relax.",
+  "prediction_sha256": "30411121a6d8e7c9a4603ae676bee40e51194aa91abc287ffbbbdbddf3ff486e",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100191,
+  "usage": {
+    "completion_tokens": 122,
+    "prompt_tokens": 4666,
+    "prompt_tokens_details": null,
+    "total_tokens": 4788
+  }
+}

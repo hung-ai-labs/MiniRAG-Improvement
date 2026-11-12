@@ -1,0 +1,17 @@
+{
+  "body_sha256": "9c5f47d9d8c7c00bdc54ae638937e67a71be833638b75a7b0677eeb1063e5802",
+  "finish_reason": "stop",
+  "latency_s": 7.370964791000006,
+  "prediction": "The timeline described in the conversations indicates that it took less than three weeks for the air-conditioner to be installed. Initially, LiHua inquired about adding an air-conditioner to the basement (Event 1), and the conversation continued with Adam Smith confirming the plan and setting a date for the installation (Event 3). The actual installation occurred on August 12th, as mentioned by Adam Smith in Event 2. Therefore, the process spanned less than three weeks.",
+  "prediction_sha256": "529a9d48c241cc63ee30d0293bfa3b486361c48a2e886431e3a409d12449c27b",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100039,
+  "usage": {
+    "completion_tokens": 99,
+    "prompt_tokens": 4329,
+    "prompt_tokens_details": null,
+    "total_tokens": 4428
+  }
+}

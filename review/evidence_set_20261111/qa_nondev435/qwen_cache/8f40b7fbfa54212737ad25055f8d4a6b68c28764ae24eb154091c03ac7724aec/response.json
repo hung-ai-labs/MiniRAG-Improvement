@@ -1,0 +1,17 @@
+{
+  "body_sha256": "8f40b7fbfa54212737ad25055f8d4a6b68c28764ae24eb154091c03ac7724aec",
+  "finish_reason": "stop",
+  "latency_s": 9.664641125000344,
+  "prediction": "Based on the conversation, Viper has observed an increase in their stamina during workouts and is interested in maintaining or even improving this. Viper suggests incorporating interval training into their cardio routines. Interval training involves alternating short bursts of intense activity with periods of rest or lower intensity work, which can help build endurance without overstressing the body. Viper notes that this technique has worked well for them and recommends starting with shorter intervals and gradually increasing the intensity and duration as one feels more comfortable. This approach aims to enhance stamina gradually while keeping the workouts engaging and varied.",
+  "prediction_sha256": "3e97ba11b24d6ab7be455c085bb59abfa2f9867eeed9596935e772a163bbcbab",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 172,
+  "usage": {
+    "completion_tokens": 112,
+    "prompt_tokens": 3223,
+    "prompt_tokens_details": null,
+    "total_tokens": 3335
+  }
+}

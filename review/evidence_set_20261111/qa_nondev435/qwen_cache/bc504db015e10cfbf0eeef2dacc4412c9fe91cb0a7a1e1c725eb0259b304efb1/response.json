@@ -1,0 +1,17 @@
+{
+  "body_sha256": "bc504db015e10cfbf0eeef2dacc4412c9fe91cb0a7a1e1c725eb0259b304efb1",
+  "finish_reason": "stop",
+  "latency_s": 11.329154208004184,
+  "prediction": "Based on the conversation recorded, the Freelancer Group Meeting is scheduled for a Wednesday at 3 PM. This is indicated in the first source, which states, \"Time: 20260608_14:30\\ nLiHua: Hey Yuriko! Are you planning to attend the Freelancer Group Meeting this Wednesday at 3 pm?\" Therefore, the Freelancer Group Meeting is planned for the upcoming Wednesday at 3 PM.",
+  "prediction_sha256": "4bd35e85d7609b790c67c54b8d3fed8364b47aa9d728983ab4a6ee074507a72c",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100133,
+  "usage": {
+    "completion_tokens": 97,
+    "prompt_tokens": 4092,
+    "prompt_tokens_details": null,
+    "total_tokens": 4189
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "f942712d9e56cf6f5a04ee9a612b0483b9b6d4110ef3d85abaa48003c86e209c",
+  "finish_reason": "stop",
+  "latency_s": 7.335772124999494,
+  "prediction": "On 20260908, Wolfgang shared some excellent news regarding his software project. He mentioned that it had made significant progress and thanked Li Hua for her support during challenging times. This progress and the acknowledgment of Li Hua's encouragement highlight that Wolfgang is currently experiencing positive developments in his professional life.",
+  "prediction_sha256": "edd128cbd5bbe1514b81d673f2b3afbe06a39f0c1b01a5aba87cdd21c6ddfd75",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200194,
+  "usage": {
+    "completion_tokens": 66,
+    "prompt_tokens": 5289,
+    "prompt_tokens_details": null,
+    "total_tokens": 5355
+  }
+}

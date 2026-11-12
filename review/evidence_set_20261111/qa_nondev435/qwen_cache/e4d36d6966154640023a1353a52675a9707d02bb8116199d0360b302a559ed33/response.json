@@ -1,0 +1,17 @@
+{
+  "body_sha256": "e4d36d6966154640023a1353a52675a9707d02bb8116199d0360b302a559ed33",
+  "finish_reason": "stop",
+  "latency_s": 12.653828209004132,
+  "prediction": "Jasper mentions a comeback match involving Manchester City in his conversation, specifically referring to the 2005 UEFA Champions League (UCL) final where Liverpool managed to turn the tables against AC Milan, who had a 3-0 lead at halftime. In this dramatic comeback, Liverpool won the match in penalties, showcasing a remarkable turnaround in the game. This match is often cited as one of the most memorable and thrilling in the history of the UCL.",
+  "prediction_sha256": "02b9b9b942d714897b9b9dd5b48d303a9b2ed140a76a467dd814b764ad0a4852",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100302,
+  "usage": {
+    "completion_tokens": 94,
+    "prompt_tokens": 5050,
+    "prompt_tokens_details": null,
+    "total_tokens": 5144
+  }
+}

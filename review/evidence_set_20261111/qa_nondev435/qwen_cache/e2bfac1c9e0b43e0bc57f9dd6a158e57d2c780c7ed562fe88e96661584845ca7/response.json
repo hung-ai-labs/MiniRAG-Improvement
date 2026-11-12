@@ -1,0 +1,17 @@
+{
+  "body_sha256": "e2bfac1c9e0b43e0bc57f9dd6a158e57d2c780c7ed562fe88e96661584845ca7",
+  "finish_reason": "stop",
+  "latency_s": 6.076538624998648,
+  "prediction": "There are no measurements of a window provided in the given data tables. The context revolves around conversations about various topics including curtains, repairs, travel tips, and video games, but does not mention any specific window dimensions.",
+  "prediction_sha256": "af343faa2455a28423cd2c412114a587a4ed9a0be5fdeb2f71be830f1f0cdeda",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100273,
+  "usage": {
+    "completion_tokens": 44,
+    "prompt_tokens": 3398,
+    "prompt_tokens_details": null,
+    "total_tokens": 3442
+  }
+}

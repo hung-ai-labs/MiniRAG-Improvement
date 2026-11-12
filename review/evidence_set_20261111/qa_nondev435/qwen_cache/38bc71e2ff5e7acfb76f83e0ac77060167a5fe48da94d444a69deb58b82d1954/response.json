@@ -1,0 +1,17 @@
+{
+  "body_sha256": "38bc71e2ff5e7acfb76f83e0ac77060167a5fe48da94d444a69deb58b82d1954",
+  "finish_reason": "stop",
+  "latency_s": 6.927114000001893,
+  "prediction": "In the discussion, Elara mentions \"El Clásico,\" which is a famous football match between FC Barcelona and Real Madrid. This particular match is referred to as \"El Clásico\" multiple times, indicating its significance to the conversation. No specific game is mentioned alongside this term, so it seems Elara is referring to the historical context of this sporting event rather than a game itself.",
+  "prediction_sha256": "35fead59d3ea86c4dfabb70bad5efa02d3b1aed045f812a7d63d6b508d1c4ad9",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 323,
+  "usage": {
+    "completion_tokens": 80,
+    "prompt_tokens": 4674,
+    "prompt_tokens_details": null,
+    "total_tokens": 4754
+  }
+}

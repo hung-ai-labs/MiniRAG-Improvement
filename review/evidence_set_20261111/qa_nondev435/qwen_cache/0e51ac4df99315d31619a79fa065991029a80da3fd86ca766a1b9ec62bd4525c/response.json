@@ -1,0 +1,17 @@
+{
+  "body_sha256": "0e51ac4df99315d31619a79fa065991029a80da3fd86ca766a1b9ec62bd4525c",
+  "finish_reason": "stop",
+  "latency_s": 11.889896542001225,
+  "prediction": "Hailey Johnson offers various services to Li Hua, primarily centered around her bakery. She delivers fresh sourdough bread and milk to Li Hua's doorstep, ensuring she has the freshest products available. Additionally, Hailey Johnson provides personal attention by allowing Li Hua to request bread delivery on Mondays and Fridays at 8 AM. Furthermore, she extends her support to Li Hua by sharing her progress story with other clients, which can serve as an inspiration. This level of personalized service indicates Hailey Johnson's dedication to maintaining strong customer relationships and ensuring customer satisfaction.",
+  "prediction_sha256": "bae4405f2f4a42b47685b09336d1ff8e178e6bf41def47805a4ea1c94ea8bda7",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100095,
+  "usage": {
+    "completion_tokens": 116,
+    "prompt_tokens": 4350,
+    "prompt_tokens_details": null,
+    "total_tokens": 4466
+  }
+}

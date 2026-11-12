@@ -1,0 +1,30 @@
+{
+ "original": {
+  "long>=800": {
+   "n": 48,
+   "zero_entity": 48,
+   "entities": 0,
+   "relations": 0
+  },
+  "short<300": {
+   "n": 48,
+   "zero_entity": 48,
+   "entities": 0,
+   "relations": 0
+  }
+ },
+ "ropefix": {
+  "long>=800": {
+   "n": 48,
+   "zero_entity": 0,
+   "entities": 917,
+   "relations": 190
+  },
+  "short<300": {
+   "n": 48,
+   "zero_entity": 1,
+   "entities": 340,
+   "relations": 229
+  }
+ }
+}

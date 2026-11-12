@@ -1,0 +1,17 @@
+{
+  "body_sha256": "f62c64bf3ec720443c5a5ce185badc24ada78d316cfefa269d165cf583a7450b",
+  "finish_reason": "stop",
+  "latency_s": 9.151322249999794,
+  "prediction": "In one of the conversations, Li Hua specifically asks Adam Smith about the process for reporting any maintenance issues in the house. This indicates that Li Hua is concerned about how to handle potential problems related to the property. Adam informs Li Hua that if she has any maintenance issues, she can send him a message on WhatsApp to address them promptly. If it's an urgent issue, she can call him directly. Li Hua expresses her appreciation for this information, showing that she values the clarity on how to address any future maintenance needs.",
+  "prediction_sha256": "55fa170aa0778d90bede2e94175d0d8fbd26a9e2013df781f12d738976738c0d",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100062,
+  "usage": {
+    "completion_tokens": 109,
+    "prompt_tokens": 4339,
+    "prompt_tokens_details": null,
+    "total_tokens": 4448
+  }
+}

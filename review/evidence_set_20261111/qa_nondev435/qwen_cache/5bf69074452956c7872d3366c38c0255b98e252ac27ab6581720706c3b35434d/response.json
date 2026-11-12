@@ -1,0 +1,17 @@
+{
+  "body_sha256": "5bf69074452956c7872d3366c38c0255b98e252ac27ab6581720706c3b35434d",
+  "finish_reason": "stop",
+  "latency_s": 7.656531167001958,
+  "prediction": "In the context of the provided data, Aurora suggests bringing cones for the soccer practice. Specifically, she proposes meeting at the local park around 3 PM on Saturday to practice shooting skills, and she mentions, \"Let's bring some cones and have fun while working on our shots!\" Therefore, Aurora offers to bring cones for the soccer practice.",
+  "prediction_sha256": "4b16510af34c5948107f07bb46c6310f8915726345e9bb9377d69b50620af20b",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200363,
+  "usage": {
+    "completion_tokens": 69,
+    "prompt_tokens": 4890,
+    "prompt_tokens_details": null,
+    "total_tokens": 4959
+  }
+}

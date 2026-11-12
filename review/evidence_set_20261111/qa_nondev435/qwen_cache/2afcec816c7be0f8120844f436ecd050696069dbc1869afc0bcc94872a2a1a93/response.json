@@ -1,0 +1,17 @@
+{
+  "body_sha256": "2afcec816c7be0f8120844f436ecd050696069dbc1869afc0bcc94872a2a1a93",
+  "finish_reason": "stop",
+  "latency_s": 6.83839754100336,
+  "prediction": "In the conversations shared, there is no explicit mention of a dessert ordered by Li Hua after having Sichuan hot pot with Wolfgang Schulz. The interactions primarily revolve around their discussion of future plans and preferences for various cuisines, including their enjoyment of Sichuan food. Therefore, based on the provided data, we cannot determine what dessert Li Hua ordered specifically after their Sichuan hot pot meal with Wolfgang Schulz.",
+  "prediction_sha256": "23d8650ef95e9409c63be63b9b85ef6f4b6bf2171701d268bc2b1a2a26bc3f05",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 408,
+  "usage": {
+    "completion_tokens": 89,
+    "prompt_tokens": 4539,
+    "prompt_tokens_details": null,
+    "total_tokens": 4628
+  }
+}

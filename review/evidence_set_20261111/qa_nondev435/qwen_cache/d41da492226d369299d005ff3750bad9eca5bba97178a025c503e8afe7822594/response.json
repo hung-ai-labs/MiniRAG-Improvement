@@ -1,0 +1,17 @@
+{
+  "body_sha256": "d41da492226d369299d005ff3750bad9eca5bba97178a025c503e8afe7822594",
+  "finish_reason": "stop",
+  "latency_s": 6.533833499997854,
+  "prediction": "According to the conversation, Barça lost 4-0 against Bayern Munich in a UCL (Champions League) match in 2013. This particular loss is highlighted by LiHua, who mentions it as a significant event in the history of Barça-Bayern matchups.",
+  "prediction_sha256": "d55b31c78251e4107e6b2685aa6492c973e050ed99b1385b81767fc4c721ed48",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 294,
+  "usage": {
+    "completion_tokens": 61,
+    "prompt_tokens": 4565,
+    "prompt_tokens_details": null,
+    "total_tokens": 4626
+  }
+}

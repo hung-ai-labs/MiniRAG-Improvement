@@ -1,0 +1,17 @@
+{
+  "body_sha256": "4c6a4da30d18f10297f1f2a109ad57e1464a6fe06cbcd80f7a57e72c1256e064",
+  "finish_reason": "stop",
+  "latency_s": 6.115914083999087,
+  "prediction": "There is no information provided regarding Thrall's participation or non-participation in the garage sale. The discussion about the garage sale is focused on Adam Smith organizing the event and inviting Li Hua to join him. No reason is given for Thrall's involvement or lack thereof in this particular event.",
+  "prediction_sha256": "6b0788a61b972dd0d764a1a75608f3929b458339d079be76f5b609461c8cf16b",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 169,
+  "usage": {
+    "completion_tokens": 60,
+    "prompt_tokens": 3965,
+    "prompt_tokens_details": null,
+    "total_tokens": 4025
+  }
+}

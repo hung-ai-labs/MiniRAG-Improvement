@@ -1,0 +1,17 @@
+{
+  "body_sha256": "99aff64dd2fce68e88b208086c888036562e184daf1deb09b7cb7e7abda322ae",
+  "finish_reason": "stop",
+  "latency_s": 8.852055750001455,
+  "prediction": "In the group discussion on 20260629, ChaeSong-hwa expressed interest in bringing some classic rock songs to the jam session. Specifically, he recommended \"Uptown Funk\" and \"Happy.\" These songs were suggested due to their upbeat nature, which would help energize the sessions.",
+  "prediction_sha256": "56cfab10a49aa27b8138e54e2836571dfafeaa8c9a0b354f3f1074f57a1e402d",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200144,
+  "usage": {
+    "completion_tokens": 66,
+    "prompt_tokens": 5341,
+    "prompt_tokens_details": null,
+    "total_tokens": 5407
+  }
+}

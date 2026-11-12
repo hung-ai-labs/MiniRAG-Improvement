@@ -1,0 +1,17 @@
+{
+  "body_sha256": "e5b5569340cf9841f0668c239f6202cbbf7e82bb715d8c20d6cf5da9a76bcb0b",
+  "finish_reason": "stop",
+  "latency_s": 4.71327704199939,
+  "prediction": "Based on the conversation between Hailey and LiHua on 20260816, Hailey offered LiHua a 15% discount on her order if she ordered by the end of that week. This discount was presented as part of a special holiday sale that Hailey was planning to offer at the bakery.",
+  "prediction_sha256": "05db9eb04d3c604cc18ce0afdadf242327bf41fd831aedbd9ed4535098a2a246",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100173,
+  "usage": {
+    "completion_tokens": 70,
+    "prompt_tokens": 5163,
+    "prompt_tokens_details": null,
+    "total_tokens": 5233
+  }
+}

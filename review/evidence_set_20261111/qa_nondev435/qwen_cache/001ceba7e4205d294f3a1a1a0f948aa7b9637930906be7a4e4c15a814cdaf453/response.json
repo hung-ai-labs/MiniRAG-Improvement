@@ -1,0 +1,17 @@
+{
+  "body_sha256": "001ceba7e4205d294f3a1a1a0f948aa7b9637930906be7a4e4c15a814cdaf453",
+  "finish_reason": "stop",
+  "latency_s": 8.153801624997868,
+  "prediction": "Li Hua expresses a positive view of Yennefer's character, describing her as intense and fiercely independent. She appreciates Yennefer's backstory and the dynamic relationship she shares with Geralt, highlighting how these elements contribute significantly to the depth of the game. Li Hua considers Yennefer one of her favorite characters in The Witcher 3, particularly noting how their chemistry creates memorable moments in the storyline.",
+  "prediction_sha256": "db0b14a7b9676b8b2135ca9b77f1f35a404e656681f7284581def1cf0f88fabf",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 176,
+  "usage": {
+    "completion_tokens": 85,
+    "prompt_tokens": 4394,
+    "prompt_tokens_details": null,
+    "total_tokens": 4479
+  }
+}

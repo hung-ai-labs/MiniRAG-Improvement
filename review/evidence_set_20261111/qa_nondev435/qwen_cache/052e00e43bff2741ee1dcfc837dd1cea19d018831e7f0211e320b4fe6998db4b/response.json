@@ -1,0 +1,17 @@
+{
+  "body_sha256": "052e00e43bff2741ee1dcfc837dd1cea19d018831e7f0211e320b4fe6998db4b",
+  "finish_reason": "stop",
+  "latency_s": 10.120794333000958,
+  "prediction": "In the conversations between LiHua and Hailey, there is no explicit mention of dietary restrictions that LiHua may have. However, LiHua does express preferences and likes specific types of bread and desserts. He mentions being a fan of fruity bread and treats, and his favorite flavors include mango, coconut, chocolate, and a chocolate hazelnut donut. There is no indication that LiHua requires or follows any specific dietary restrictions.",
+  "prediction_sha256": "7a240e81573f536ef6d57b7527b4865311a8956ca0cc8a50987695879bb96d10",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 139,
+  "usage": {
+    "completion_tokens": 91,
+    "prompt_tokens": 4450,
+    "prompt_tokens_details": null,
+    "total_tokens": 4541
+  }
+}

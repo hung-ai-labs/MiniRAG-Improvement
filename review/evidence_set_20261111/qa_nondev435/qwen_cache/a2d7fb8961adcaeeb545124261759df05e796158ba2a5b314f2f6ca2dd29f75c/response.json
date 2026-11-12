@@ -1,0 +1,17 @@
+{
+  "body_sha256": "a2d7fb8961adcaeeb545124261759df05e796158ba2a5b314f2f6ca2dd29f75c",
+  "finish_reason": "stop",
+  "latency_s": 4.473749125001632,
+  "prediction": "According to the data, Jasper specifically mentions the development of Phil Foden under Pep Guardiola's player development. This is evident from the comment where Jasper says, \"Jasper comments on Pep Guardiola's player development and mentions Phil Foden's growth.\"",
+  "prediction_sha256": "be5e7bf6de326f94428ade6b0f06d39ea801ec7a8699d68a87b605e470113ac3",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200300,
+  "usage": {
+    "completion_tokens": 52,
+    "prompt_tokens": 4835,
+    "prompt_tokens_details": null,
+    "total_tokens": 4887
+  }
+}

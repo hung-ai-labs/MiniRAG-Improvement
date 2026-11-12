@@ -1,0 +1,17 @@
+{
+  "body_sha256": "2d82d50b43fe7b381e0d385871c0b42710bf6f51119eb2b3265cdb7c15206b92",
+  "finish_reason": "stop",
+  "latency_s": 5.568637790998764,
+  "prediction": "During the soccer practice session, Briar reminds everyone to bring water bottles to ensure that they stay hydrated during the practice. This suggestion comes in light of the group's eagerness to engage in physical activities and maintain their fitness levels.",
+  "prediction_sha256": "e00bcddc35f2c1531f387d8b990868f4e5ada1ddb7f604a358f4fa9228585bbf",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 284,
+  "usage": {
+    "completion_tokens": 47,
+    "prompt_tokens": 4436,
+    "prompt_tokens_details": null,
+    "total_tokens": 4483
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "bbe2145483acb2e41f20e3592c39553b60d3ca7588c9592223ccc04d6d8d9585",
+  "finish_reason": "stop",
+  "latency_s": 8.158854584005894,
+  "prediction": " Adam confirms that the plumber will arrive on **January 6, 2026, at 10 AM**. This information is extracted from the following entry in the data table:\n\n```\nid,content\n0,\"Time: 20260106_15:00\nAdamSmith: Hey Li Hua, just wanted to confirm that the plumber will be arriving tomorrow at 10 AM to fix the water tap. Let me know if that works for you!\nLiHua: Sounds good to me! I'll be ready for him. Thanks for taking care of that!\nAdamSmith: Great! If you need anything else or have questions, just let me know.\nLiHua: Will do! Appreciate it!\"\n```\n\nThe conversation clearly indicates the set date and time for the plumber's arrival to fix the water tap.",
+  "prediction_sha256": "07b9a096ed5dd59d4b65230475c81b129985c8f0979011b00ffcad22529aae4d",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 100061,
+  "usage": {
+    "completion_tokens": 201,
+    "prompt_tokens": 5007,
+    "prompt_tokens_details": null,
+    "total_tokens": 5208
+  }
+}

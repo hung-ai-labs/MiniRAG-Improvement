@@ -1,0 +1,17 @@
+{
+  "body_sha256": "521df5b607f37665c3fdb40cc92ea31c5c390aea4e863a788b98dc5dc77e1c83",
+  "finish_reason": "stop",
+  "latency_s": 5.525296749998233,
+  "prediction": " Adam Smith provided the phone number for the maintenance worker to Li Hua as 314159. This information was shared during their conversation about the broken streetlight, where Adam mentioned that Li Hua could contact the maintenance crew to help fix the issue.\n\n---\n\nIn summary, the phone number for the maintenance worker, as given by Adam Smith to Li Hua, is:\n\n```\n314159\n```\n\nThis number is crucial for Li Hua to reach out for streetlight repair or any other immediate maintenance needs.",
+  "prediction_sha256": "f4d2601e312384ab431964b26a1e2bf4e3f0464e530e1bfe0315addca96f6739",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 100132,
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 5646,
+    "prompt_tokens_details": null,
+    "total_tokens": 5766
+  }
+}

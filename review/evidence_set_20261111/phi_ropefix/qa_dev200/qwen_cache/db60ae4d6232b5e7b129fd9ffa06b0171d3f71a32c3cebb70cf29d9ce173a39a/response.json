@@ -1,0 +1,17 @@
+{
+  "body_sha256": "db60ae4d6232b5e7b129fd9ffa06b0171d3f71a32c3cebb70cf29d9ce173a39a",
+  "finish_reason": "stop",
+  "latency_s": 6.928986416998669,
+  "prediction": " Li Hua's preference for a burger patty's doneness is not explicitly stated in the provided data. The conversations mention various food-related topics, such as favorites like spicy chicken sandwiches, a burger joint with great shakes, and interest in a burger from a new Thai spot. However, there is no direct mention of how she likes her burger patties cooked—whether she prefers them well-done, medium-rare, or medium. To accurately determine Li Hua's burger patty doneness preference, one would need additional information not present in the given data.",
+  "prediction_sha256": "401100c8b4fc89bb3be7ff5e80c9a4c2b3c06de3fddc3131a0e37d747b946740",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 48,
+  "usage": {
+    "completion_tokens": 138,
+    "prompt_tokens": 5116,
+    "prompt_tokens_details": null,
+    "total_tokens": 5254
+  }
+}

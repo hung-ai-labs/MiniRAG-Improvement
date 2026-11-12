@@ -1,0 +1,17 @@
+{
+  "body_sha256": "44f4890f4a4c733c34cfc6b63c3401c9ac5b7bd6bc4d71274d8f12072a425a85",
+  "finish_reason": "stop",
+  "latency_s": 10.657144124998013,
+  "prediction": "For soccer practice, Li Hua and Caspian initially mentioned a plan to meet around 3 PM on Saturday afternoon. Specifically, Li Hua stated, \"Sounds good! I’m in! It'll be a great way to enhance our skills and enjoy some time outside. What time do you plan to meet up?\" In response, Caspian replied, \"3 PM sounds perfect to me! I think practicing together will help us improve our teamwork too. Looking forward to seeing everyone!\" Therefore, the planned meeting time for soccer practice is 3 PM on Saturday afternoon.",
+  "prediction_sha256": "f6f3153efdfbeab9a189b5224e067d01adfb151428af67d3ab7df155e506b590",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200362,
+  "usage": {
+    "completion_tokens": 117,
+    "prompt_tokens": 5180,
+    "prompt_tokens_details": null,
+    "total_tokens": 5297
+  }
+}

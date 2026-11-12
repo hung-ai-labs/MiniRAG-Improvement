@@ -1,0 +1,17 @@
+{
+  "body_sha256": "9d59b35e972e19f8ba3f25494b7d24578e6fc937f3c5f01a4b2a787a1cfdba22",
+  "finish_reason": "stop",
+  "latency_s": 9.660674999999173,
+  "prediction": "WolfgangSchulz inquires about health products because he has been experiencing fatigue due to overtime work and seeks advice from his bandmates on potential solutions. Specifically, he asks if anyone has had success with magnesium supplements, which he learned about from ChaeSong-hwa, and whether adding fruits or nuts to his diet could provide him with a boost in energy. His interest in these topics stems from a desire to maintain his physical well-being while balancing demanding work schedules.",
+  "prediction_sha256": "e66b6c9f7078033e5c3d6360b6551cdb1c46655259a09bcd41a36e0d89ded17b",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100128,
+  "usage": {
+    "completion_tokens": 96,
+    "prompt_tokens": 4451,
+    "prompt_tokens_details": null,
+    "total_tokens": 4547
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "92e6ea0f920d36a0d45cdcc69ce0a096ce58655be2f045daaae4615752898b18",
+  "finish_reason": "stop",
+  "latency_s": 4.533764874999179,
+  "prediction": "According to Ivor, Real Madrid's coach is Zinedine Zidane. Ivor provides insights into Pep Guardiola's impact on Rodri, but there is no mention of a current coach for Real Madrid.",
+  "prediction_sha256": "ded3a823082242f3313f556e058d0399fbc7b1721e308273d23ad89a2135d40e",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 360,
+  "usage": {
+    "completion_tokens": 45,
+    "prompt_tokens": 4876,
+    "prompt_tokens_details": null,
+    "total_tokens": 4921
+  }
+}

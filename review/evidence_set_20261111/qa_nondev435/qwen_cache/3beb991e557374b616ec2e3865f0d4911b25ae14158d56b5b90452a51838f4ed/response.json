@@ -1,0 +1,17 @@
+{
+  "body_sha256": "3beb991e557374b616ec2e3865f0d4911b25ae14158d56b5b90452a51838f4ed",
+  "finish_reason": "stop",
+  "latency_s": 12.088641665999603,
+  "prediction": "No, based on the conversation provided, Li Hua initially declined Wolfgang's invitation to go out for dinner. Wolfgang suggested a dinner outing and invited Li Hua to a Thai restaurant, but Li Hua responded that he has been very busy lately and suggested another day. Wolfgang offered another possibility, including a movie or hanging out at a cafe, which Li Hua found appealing. This indicates that Li Hua did not immediately accept Wolfgang's suggestion for a dinner date. Instead, Wolfgang proposed another activity, which Li Hua agreed to. Therefore, Li Hua did not agree to go out for dinner right after Wolfgang first asked him.",
+  "prediction_sha256": "49f505a60d3767629455a6a93b186657e2a60a3b02153386431d54955e7a97b1",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100014,
+  "usage": {
+    "completion_tokens": 129,
+    "prompt_tokens": 4643,
+    "prompt_tokens_details": null,
+    "total_tokens": 4772
+  }
+}

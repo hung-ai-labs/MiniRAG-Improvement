@@ -1,0 +1,17 @@
+{
+  "body_sha256": "0fb020010601c741d81ff0084e71236b25712c06241eb9c820796f858d694f74",
+  "finish_reason": "stop",
+  "latency_s": 8.43152708299749,
+  "prediction": "Dacey suggests organizing passing drills as part of the practice session. Specifically, she proposes setting up cones for target practice during the passing drills, suggesting a fun and interactive approach to improve passing skills. This aligns with the context of a soccer practice session where passing drills are used to enhance passing abilities.",
+  "prediction_sha256": "3362b8a11c0846abebba238c3241cd841c0a22604db6ff0fe27e615a235919d7",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100283,
+  "usage": {
+    "completion_tokens": 61,
+    "prompt_tokens": 4142,
+    "prompt_tokens_details": null,
+    "total_tokens": 4203
+  }
+}

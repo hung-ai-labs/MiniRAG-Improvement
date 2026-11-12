@@ -1,0 +1,17 @@
+{
+  "body_sha256": "b20f402ade706602a4ac5396f02199b535d1ee5d8494e414fb1c10805cd18654",
+  "finish_reason": "stop",
+  "latency_s": 11.135860499998671,
+  "prediction": "In one of the conversations, EmilyBurnett recommends several TV series to LiHua based on her personal preferences and recommendations. Initially, she suggests \"Stranger Things\" as a great show to binge-watch due to its intriguing concept and cool mix of nostalgia and suspense. Later, she also recommends \"The White Lotus,\" describing it as an entertaining show with hidden agendas and layered characters. Furthermore, EmilyBurnett recommends \"Ted Lasso\" as a light-hearted option alongside \"The White Lotus.\" Therefore, based on these recommendations, LiHua is encouraged to watch \"Stranger Things,\" \"The White Lotus,\" and \"Ted Lasso.\"",
+  "prediction_sha256": "92be6b9150f5b3d4baf50b753b7eaac7c8c3fc3f52f9c22f24569f3871678762",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100387,
+  "usage": {
+    "completion_tokens": 130,
+    "prompt_tokens": 4412,
+    "prompt_tokens_details": null,
+    "total_tokens": 4542
+  }
+}

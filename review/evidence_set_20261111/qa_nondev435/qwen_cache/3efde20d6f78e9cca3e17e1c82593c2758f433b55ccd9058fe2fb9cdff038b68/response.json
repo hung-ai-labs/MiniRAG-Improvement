@@ -1,0 +1,17 @@
+{
+  "body_sha256": "3efde20d6f78e9cca3e17e1c82593c2758f433b55ccd9058fe2fb9cdff038b68",
+  "finish_reason": "stop",
+  "latency_s": 10.119917709002038,
+  "prediction": "Jennifer Moore is checking in with the group on 20260708_14:00 to remind her members about their fitness progress. She encourages everyone to share how they are doing and offers personalized advice, emphasizing the importance of staying on track with their fitness plans. This interaction suggests that Jennifer is actively involved in maintaining her members' motivation and ensuring they are meeting their fitness goals.",
+  "prediction_sha256": "ba770f8f8b637e214ca125bb9f3fa5818d7722076059c29a8346b62c28edceb1",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100149,
+  "usage": {
+    "completion_tokens": 83,
+    "prompt_tokens": 4406,
+    "prompt_tokens_details": null,
+    "total_tokens": 4489
+  }
+}

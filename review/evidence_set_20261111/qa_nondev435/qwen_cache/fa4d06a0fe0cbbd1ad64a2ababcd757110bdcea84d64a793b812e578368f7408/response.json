@@ -1,0 +1,17 @@
+{
+  "body_sha256": "fa4d06a0fe0cbbd1ad64a2ababcd757110bdcea84d64a793b812e578368f7408",
+  "finish_reason": "stop",
+  "latency_s": 10.23057858300308,
+  "prediction": "Saffron expresses a conflicted view regarding Jaime's final decision to protect Cersei Lannister. She notes that while this choice showcases his loyalty to her, it also indicates a regression into his old ways, leading her to feel \"conflicted\" about it. This suggests that although Saffron appreciates Jaime's loyalty to Cersei, she finds it disheartening that this loyalty seems to be rooted in his attachment to her rather than a broader sense of morality or justice.",
+  "prediction_sha256": "4e2d3d9443d0f726d8a2228fd50a4ea5655c3d48cd200b784820c8a1e0568b09",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100216,
+  "usage": {
+    "completion_tokens": 99,
+    "prompt_tokens": 4537,
+    "prompt_tokens_details": null,
+    "total_tokens": 4636
+  }
+}

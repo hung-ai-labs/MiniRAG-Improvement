@@ -1,0 +1,17 @@
+{
+  "body_sha256": "8673179ebd0763de2bf37e00a081c7728d8463f01ba02bb911655675b7b642bd",
+  "finish_reason": "stop",
+  "latency_s": 8.526166542000283,
+  "prediction": "Based on the information provided, Wolfgang is mentioned as expressing a preference for Iron Man, describing him as \"the tech and personality are just cool.\" However, Wolfgang does not explicitly state his favorite superhero. From the context given, Wolfgang appears to have a fondness for Iron Man but does not name a single favorite superhero.",
+  "prediction_sha256": "b953caf0bae16425090f17345d3d3484b58cc0d2abd78bcba83cef200a029865",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100156,
+  "usage": {
+    "completion_tokens": 65,
+    "prompt_tokens": 4496,
+    "prompt_tokens_details": null,
+    "total_tokens": 4561
+  }
+}

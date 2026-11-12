@@ -1,0 +1,17 @@
+{
+  "body_sha256": "755b20ea62ea1bcbdf24a93ed9833d738315fe0e68c8dece88a7c65e46167323",
+  "finish_reason": "stop",
+  "latency_s": 8.87280383399775,
+  "prediction": "In the conversation, Muradin Bronzebeard suggests adding benches to the garden, stating, \"I think having benches is a great idea! It'll be nice for people to sit and enjoy the garden.\" This indicates that Muradin Bronzebeard is the one proposing the idea of adding tables near the benches, which would enhance the seating area by providing a place for visitors to rest and enjoy the garden's features.",
+  "prediction_sha256": "e553700f07da325ff3aeaa32066cdfed28113a4e6dc205d9f6d85a69e9910229",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 336,
+  "usage": {
+    "completion_tokens": 84,
+    "prompt_tokens": 5078,
+    "prompt_tokens_details": null,
+    "total_tokens": 5162
+  }
+}

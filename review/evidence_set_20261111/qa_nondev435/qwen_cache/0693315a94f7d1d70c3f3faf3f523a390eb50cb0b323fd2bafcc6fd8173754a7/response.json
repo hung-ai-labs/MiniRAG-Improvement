@@ -1,0 +1,17 @@
+{
+  "body_sha256": "0693315a94f7d1d70c3f3faf3f523a390eb50cb0b323fd2bafcc6fd8173754a7",
+  "finish_reason": "stop",
+  "latency_s": 8.099182333000499,
+  "prediction": "There is no information provided in the given conversations regarding the Wi-Fi password at Li Hua's house. The interactions primarily revolve around discussing rent payments, upcoming appointments, and occasional social plans, but none of these mention details about the Wi-Fi setup. Therefore, based on the data available, it is impossible to determine the Wi-Fi password.",
+  "prediction_sha256": "73429ad938a9c8b19672bba9dabb4579e11c62b86e0f908c9e7cc3b6f37105ae",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200057,
+  "usage": {
+    "completion_tokens": 70,
+    "prompt_tokens": 3757,
+    "prompt_tokens_details": null,
+    "total_tokens": 3827
+  }
+}

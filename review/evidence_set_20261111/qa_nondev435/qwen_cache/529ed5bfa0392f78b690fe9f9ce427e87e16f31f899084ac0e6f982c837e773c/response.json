@@ -1,0 +1,17 @@
+{
+  "body_sha256": "529ed5bfa0392f78b690fe9f9ce427e87e16f31f899084ac0e6f982c837e773c",
+  "finish_reason": "stop",
+  "latency_s": 10.741474624999682,
+  "prediction": "In their conversation, LiHua mentions finding a cool little café that serves amazing coffee and has a great vibe. Additionally, he expresses interest in checking out a local art gallery which is worth visiting. This indicates that LiHua appreciates environments that offer a combination of good coffee, a cozy atmosphere, and cultural experiences, making these places perfect for him. However, based solely on the information provided, the primary perfect place LiHua finds is the café, as he specifically mentions its great vibe and quality of coffee.",
+  "prediction_sha256": "c1701caad37dbf2594e95bb0d30e8a8cd9798f6973a1321fc7d06bc6cae4c745",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100125,
+  "usage": {
+    "completion_tokens": 106,
+    "prompt_tokens": 4511,
+    "prompt_tokens_details": null,
+    "total_tokens": 4617
+  }
+}

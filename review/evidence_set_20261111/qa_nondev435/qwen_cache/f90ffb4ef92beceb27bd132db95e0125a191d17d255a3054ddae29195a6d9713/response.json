@@ -1,0 +1,17 @@
+{
+  "body_sha256": "f90ffb4ef92beceb27bd132db95e0125a191d17d255a3054ddae29195a6d9713",
+  "finish_reason": "stop",
+  "latency_s": 13.012793665999197,
+  "prediction": "In the conversation recorded on 20260828_10:00, Li Hua initiates the topic of burger preferences by asking Wolfgang Schulz whether he prefers a medium-rare or well-done patty. Wolfgang Schulz agrees with medium-rare but prefers a well-done due to its safety and flavor. Li Hua, on the other hand, insists on medium-rare as they believe it contains more flavor. The conversation then transitions to the discussion of toppings, where Wolfgang Schulz recommends classic cheese and perhaps some bacon, while Li Hua suggests jalapeños for a spicy kick. This exchange highlights their differing tastes and preferences regarding the composition of a classic American cheeseburger.",
+  "prediction_sha256": "7ce9470245ef1c5de0039d18dd7620cce139067f221dd792b9240262aaa7dd2b",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 185,
+  "usage": {
+    "completion_tokens": 145,
+    "prompt_tokens": 4478,
+    "prompt_tokens_details": null,
+    "total_tokens": 4623
+  }
+}

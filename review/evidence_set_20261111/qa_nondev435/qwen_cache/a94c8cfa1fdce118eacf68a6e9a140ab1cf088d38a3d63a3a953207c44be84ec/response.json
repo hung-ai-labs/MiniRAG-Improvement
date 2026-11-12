@@ -1,0 +1,17 @@
+{
+  "body_sha256": "a94c8cfa1fdce118eacf68a6e9a140ab1cf088d38a3d63a3a953207c44be84ec",
+  "finish_reason": "stop",
+  "latency_s": 6.786609541999496,
+  "prediction": "On Saturday, Dacey suggests practicing dribbling skills. She mentions this in a context where she's planning a soccer practice session on that day at 3 PM. Additionally, she expresses enthusiasm for the practice, stating that it will be a blast and that it's a good opportunity to work on skills and have fun.",
+  "prediction_sha256": "87383b23bfc24105d875b9772dcaa64eb4ee9bc2cfbc54376688e29235dcb931",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100361,
+  "usage": {
+    "completion_tokens": 65,
+    "prompt_tokens": 4305,
+    "prompt_tokens_details": null,
+    "total_tokens": 4370
+  }
+}

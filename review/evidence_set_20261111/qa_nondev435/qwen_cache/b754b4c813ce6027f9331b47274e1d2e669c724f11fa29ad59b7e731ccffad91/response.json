@@ -1,0 +1,17 @@
+{
+  "body_sha256": "b754b4c813ce6027f9331b47274e1d2e669c724f11fa29ad59b7e731ccffad91",
+  "finish_reason": "stop",
+  "latency_s": 8.112174875001074,
+  "prediction": "In one of the recorded conversations, Li Hua suggests several types of flowers for the flower beds. Specifically, Li Hua recommends lavender and coneflowers. These recommendations align with Adam Smith's interest in incorporating native plants that are beneficial for wildlife. Additionally, Li Hua notes that lavender and coneflowers are both beautiful and easy to maintain, making them suitable choices for the community garden.",
+  "prediction_sha256": "348fc439860eb09240d30e3d9533d099c3bf1d6a9121a855ca6dac9bf90be511",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 110,
+  "usage": {
+    "completion_tokens": 82,
+    "prompt_tokens": 3708,
+    "prompt_tokens_details": null,
+    "total_tokens": 3790
+  }
+}

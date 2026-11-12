@@ -1,0 +1,17 @@
+{
+  "body_sha256": "00f51125c153379364663647f7568843a56358fffcc2eb4284cf02602209fee3",
+  "finish_reason": "stop",
+  "latency_s": 9.517040250000719,
+  "prediction": "In the conversation, Wolfgang Schulz proposes a few new musical activities to Li Hua. First, he suggests playing \"Hey Jude,\" a popular Beatles song that Li Hua mentioned they often jam with him and Yuriko. Additionally, Wolfgang expresses enthusiasm about arranging the next jam session, indicating his interest in organizing musical events. There is no mention of Wolfgang proposing any new hobbies unrelated to music.",
+  "prediction_sha256": "720ba25695fc8a87a7351b98d1c8c66ad8d23b42cfb179904496b340a5602bb5",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200159,
+  "usage": {
+    "completion_tokens": 81,
+    "prompt_tokens": 4504,
+    "prompt_tokens_details": null,
+    "total_tokens": 4585
+  }
+}

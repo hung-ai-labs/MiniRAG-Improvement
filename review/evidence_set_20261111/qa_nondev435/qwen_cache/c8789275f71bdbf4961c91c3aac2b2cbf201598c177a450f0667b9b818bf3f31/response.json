@@ -1,0 +1,17 @@
+{
+  "body_sha256": "c8789275f71bdbf4961c91c3aac2b2cbf201598c177a450f0667b9b818bf3f31",
+  "finish_reason": "stop",
+  "latency_s": 7.985489583999879,
+  "prediction": "On the occasion noted as \"Time: 20260918_18:00\", WolfgangSchulz suggests hitting Starbucks after work. He proposes the time to be around 6:30 PM, stating that they can \"chill and catch up before the weekend\".",
+  "prediction_sha256": "835415fdaf38ef2b66eb7f61cc196ace547c32e54bf53a8e090ae5781a4258d5",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100234,
+  "usage": {
+    "completion_tokens": 63,
+    "prompt_tokens": 5501,
+    "prompt_tokens_details": null,
+    "total_tokens": 5564
+  }
+}

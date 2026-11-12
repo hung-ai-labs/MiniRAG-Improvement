@@ -1,0 +1,17 @@
+{
+  "body_sha256": "8ffe4f4ac9f4a590aab8a8464068a0634ebefc151bfee8af46e15028ec6fec95",
+  "finish_reason": "stop",
+  "latency_s": 10.079425583000557,
+  "prediction": "YurikoYamamoto and Li Hua are collaborating on enhancing the functionality and aesthetic of the studio's homepage. Specifically, they are discussing various aspects such as the addition of a blog section, a user feedback area, and potential community outreach initiatives. Additionally, they are also working on improving the homepage's scheduling feature, aiming to make it more user-friendly and efficient for both clients and staff. Throughout these discussions, Li Hua provides valuable feedback and assistance, contributing to the development of the studio's online presence.",
+  "prediction_sha256": "e799b9cce0d6112da0fe7576fe28af745d69bb37e6335d1fff10989b1ec684fc",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200084,
+  "usage": {
+    "completion_tokens": 105,
+    "prompt_tokens": 4439,
+    "prompt_tokens_details": null,
+    "total_tokens": 4544
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "2de8ddfb6f00393c0520bded586bed72ee1e243bb6514dda2469ed608e1d54b1",
+  "finish_reason": "stop",
+  "latency_s": 9.770698291998997,
+  "prediction": "Li Hua asked Jennifer Moore for tips on managing muscle soreness after her workout sessions specifically on two occasions. The first instance occurred on September 24, 2026, at 20:00, and the second on February 6, 2026, at 16:00. In both instances, Jennifer provided advice on hydration, active recovery, stretching, foam rolling, and resting, all of which are common strategies to alleviate muscle soreness.",
+  "prediction_sha256": "f3223f73ba4e259af0e127f02314bd4cb3417ce076d4444c66c3aacbc8bda782",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 74,
+  "usage": {
+    "completion_tokens": 102,
+    "prompt_tokens": 3734,
+    "prompt_tokens_details": null,
+    "total_tokens": 3836
+  }
+}

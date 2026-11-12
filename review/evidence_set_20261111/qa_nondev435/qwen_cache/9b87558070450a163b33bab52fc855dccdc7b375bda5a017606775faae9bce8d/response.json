@@ -1,0 +1,17 @@
+{
+  "body_sha256": "9b87558070450a163b33bab52fc855dccdc7b375bda5a017606775faae9bce8d",
+  "finish_reason": "stop",
+  "latency_s": 17.351506958002574,
+  "prediction": "Jasper mentions a specific match involving Manchester City in a conversation where he discusses his thoughts on the best football manager in Premier League history. During this discussion, he references the match against Liverpool, stating, \"That tactical battle aspect makes every match so intense. The way they exploit weaknesses in the opposition and adapt during games is impressive. It’s like a chess match combined with all the passion of football!\" However, there is no explicit mention of a recent match between Manchester City and Liverpool. The only match involving Manchester City that is explicitly referenced in the provided conversations is the Champions League comeback against Real Madrid, specifically the stoppage-time goal scored by Rodrygo in the 2022 Champions League match. \n\nTherefore, based on the information given, the match Jasper refers to is likely the comeback against Real Madrid, rather than a recent match against Liverpool.",
+  "prediction_sha256": "19ed5c02484a40d44649cbb1892a9dc9a3e314d2a07c9aa79bf2fb8df6df1b4e",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100302,
+  "usage": {
+    "completion_tokens": 173,
+    "prompt_tokens": 5014,
+    "prompt_tokens_details": null,
+    "total_tokens": 5187
+  }
+}

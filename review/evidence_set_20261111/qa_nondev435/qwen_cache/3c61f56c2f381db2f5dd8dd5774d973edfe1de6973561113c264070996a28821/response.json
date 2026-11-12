@@ -1,0 +1,17 @@
+{
+  "body_sha256": "3c61f56c2f381db2f5dd8dd5774d973edfe1de6973561113c264070996a28821",
+  "finish_reason": "stop",
+  "latency_s": 7.731168583002727,
+  "prediction": "Based on the conversations provided, neither WolfgangSchulz nor LiHua specifically mentions picking up snacks and drinks on their way to the movie. WolfgangSchulz does suggest grabbing some snacks for the movie night, but LiHua and WolfgangSchulz do not clarify who will actually be responsible for these snacks. Therefore, we cannot determine who will pick up the snacks and drinks on their way to the movie without additional information.",
+  "prediction_sha256": "e5816f0e5adfb658d41dce81bc76cec71ec0d5c71e8a7f3e17b987a9e2759235",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 307,
+  "usage": {
+    "completion_tokens": 88,
+    "prompt_tokens": 5182,
+    "prompt_tokens_details": null,
+    "total_tokens": 5270
+  }
+}

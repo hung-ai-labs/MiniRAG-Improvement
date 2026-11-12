@@ -1,0 +1,17 @@
+{
+  "body_sha256": "6d138bd3caa15e2333d24872dd19fd25e4f8584dcc0c6ccfda80ece7028591b4",
+  "finish_reason": "stop",
+  "latency_s": 5.404186125000706,
+  "prediction": "On April 3, 2026, the delivery of bread to Li Hua was performed by Hailey Johnson. This can be inferred from the conversation where Hailey Johnson reminds Li Hua about the bread delivery and mentions \"I'm on my way to deliver your fresh bread this morning.\" Additionally, Hailey Johnson is the one who initiates the check-in about the previous day's delivery.",
+  "prediction_sha256": "471aeea091ffbeeb5599148ce2e5cb2524edfacaad4f98d5a8a875c3dd08cf16",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100105,
+  "usage": {
+    "completion_tokens": 83,
+    "prompt_tokens": 4606,
+    "prompt_tokens_details": null,
+    "total_tokens": 4689
+  }
+}

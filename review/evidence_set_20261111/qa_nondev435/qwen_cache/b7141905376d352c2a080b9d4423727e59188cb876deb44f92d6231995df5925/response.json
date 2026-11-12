@@ -1,0 +1,17 @@
+{
+  "body_sha256": "b7141905376d352c2a080b9d4423727e59188cb876deb44f92d6231995df5925",
+  "finish_reason": "stop",
+  "latency_s": 5.682846749994496,
+  "prediction": "Based on the information provided in the tables, neither the Stone Benches nor the Seating Area proposal specifically mentions the addition of tables near the benches. The entities \"STONE BENCHES\" and \"SEATING AREA\" are both described as features that would enhance the garden, but they do not mention tables. Therefore, there is no clear indication from the given data who proposes the idea of adding tables near the benches.",
+  "prediction_sha256": "10160250caefc639c33493e2e46e0d0a94cec4c803ead00f01f54e967d55312c",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100336,
+  "usage": {
+    "completion_tokens": 85,
+    "prompt_tokens": 4319,
+    "prompt_tokens_details": null,
+    "total_tokens": 4404
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "68f5dafe39d2d8a3aaa3ec055e2089088d322c259b59e1b6d15ae44f213aceec",
+  "finish_reason": "stop",
+  "latency_s": 6.211804416998348,
+  "prediction": " On April 3, 2026, Alice is delivering bread to Li Hua. This information is provided by a message from Alice, identified as \"Alice from Hailey's bakery\" in the data table, indicating that her bread has been delivered and Li Hua should come and pick it up as soon as possible. The delivery is part of the bakery's doorstep delivery service, which is mentioned to occur every Monday and Friday at 8am as per the conversation between HaileyJohnson and LiHua. Alice's role as a clerk was also introduced earlier in the provided data, highlighting her contribution to the delivery service.",
+  "prediction_sha256": "abe0368a5c2913ff7d4420ce7875adff31418f73ba8647c211e0af1bf3e539a1",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 200105,
+  "usage": {
+    "completion_tokens": 142,
+    "prompt_tokens": 4064,
+    "prompt_tokens_details": null,
+    "total_tokens": 4206
+  }
+}

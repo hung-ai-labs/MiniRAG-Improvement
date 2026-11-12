@@ -1,0 +1,17 @@
+{
+  "body_sha256": "49af88e9892a5d2180e219999e1b8d7ec0679e9d61be7dd23b1660b635f11619",
+  "finish_reason": "stop",
+  "latency_s": 5.174558541999431,
+  "prediction": "In the provided data, Briar reminds everyone to bring water bottles to practice. This suggestion is made in the context of ensuring that everyone stays hydrated during practice, indicating a concern for maintaining health and performance levels among the participants.",
+  "prediction_sha256": "30fb80194373fdf447cbb4994845d01c0c079619307176442ef01184d7c16f9a",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100284,
+  "usage": {
+    "completion_tokens": 46,
+    "prompt_tokens": 4458,
+    "prompt_tokens_details": null,
+    "total_tokens": 4504
+  }
+}

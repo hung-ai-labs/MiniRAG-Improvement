@@ -1,0 +1,17 @@
+{
+  "body_sha256": "3d4dd870a25ed024d50b5ef03fe965e6455efcc69a0fd2b5e66733cac55d6082",
+  "finish_reason": "stop",
+  "latency_s": 9.08809983300307,
+  "prediction": "On September 30th, JenniferMoore suggested focusing on form and adding progressive overload to the bench press during the next session. She recommended warming up properly and adding some weight incrementally to gradually increase the weight. Additionally, she advised keeping an eye on her form and resting adequately to ensure she continues to make progress.",
+  "prediction_sha256": "65c61968a307c65e2018f2d76d8c3de90ad8a09883da9dfd54c21817491d52ad",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 278,
+  "usage": {
+    "completion_tokens": 66,
+    "prompt_tokens": 4481,
+    "prompt_tokens_details": null,
+    "total_tokens": 4547
+  }
+}

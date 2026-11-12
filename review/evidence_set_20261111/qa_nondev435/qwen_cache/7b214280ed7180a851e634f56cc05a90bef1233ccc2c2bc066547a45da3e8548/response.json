@@ -1,0 +1,17 @@
+{
+  "body_sha256": "7b214280ed7180a851e634f56cc05a90bef1233ccc2c2bc066547a45da3e8548",
+  "finish_reason": "stop",
+  "latency_s": 62.64118508300089,
+  "prediction": "Based on the information provided in the sources, there is no specific mention of a bread delivery on 20260403. The records show multiple deliveries of bread to Li Hua, but none on this particular date. The deliveries were made by Alice from Hailey's Bakery, indicating that Alice is responsible for the bread deliveries. However, without further details regarding this specific date, it cannot be determined who delivered the bread to Li Hua on 20260403.",
+  "prediction_sha256": "80a300929c0019b1654395939d25688c221cdb472ec91a1bae6b4859b6d03bfa",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 105,
+  "usage": {
+    "completion_tokens": 104,
+    "prompt_tokens": 4514,
+    "prompt_tokens_details": null,
+    "total_tokens": 4618
+  }
+}

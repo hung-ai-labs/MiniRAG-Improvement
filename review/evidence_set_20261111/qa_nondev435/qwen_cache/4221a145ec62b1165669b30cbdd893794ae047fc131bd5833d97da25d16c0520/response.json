@@ -1,0 +1,17 @@
+{
+  "body_sha256": "4221a145ec62b1165669b30cbdd893794ae047fc131bd5833d97da25d16c0520",
+  "finish_reason": "stop",
+  "latency_s": 11.044751542001904,
+  "prediction": "WolfgangSchulz inquires about health products due to his recent feelings of exhaustion, specifically asking for tips on what might help boost his energy levels. He mentions he has been experiencing a lot of overtime and seeks advice from his bandmates LiHua and ChaeSong-hwa. LiHua suggests various options including vitamins, energy drinks, magnesium supplements, and healthy foods like almonds and bananas. The discussion highlights their shared interest in maintaining good health and wellness, which extends beyond just the band activities.",
+  "prediction_sha256": "6e1676f3b18e600926e1f4b14adecb94ddc3496d87dee27750c876cd8083b3a5",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200128,
+  "usage": {
+    "completion_tokens": 104,
+    "prompt_tokens": 3656,
+    "prompt_tokens_details": null,
+    "total_tokens": 3760
+  }
+}

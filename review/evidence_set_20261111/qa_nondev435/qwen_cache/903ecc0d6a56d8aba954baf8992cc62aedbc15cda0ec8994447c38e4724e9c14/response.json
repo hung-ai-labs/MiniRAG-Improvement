@@ -1,0 +1,17 @@
+{
+  "body_sha256": "903ecc0d6a56d8aba954baf8992cc62aedbc15cda0ec8994447c38e4724e9c14",
+  "finish_reason": "stop",
+  "latency_s": 9.54208483399998,
+  "prediction": "No, the time interval between LiHua confirming receipt of the curtains and Adam inquiring about the quality is less than three days. Specifically, the conversation took place on October 12th, 2026, at 10:00 AM, and Adam mentioned this on the same day, indicating that the gap between receiving and confirming the quality was less than three days.",
+  "prediction_sha256": "7cb223f0a1c8a43ff476667ea2573a8f2d7b53afa2fff641b3b40af75634e780",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 43,
+  "usage": {
+    "completion_tokens": 81,
+    "prompt_tokens": 4450,
+    "prompt_tokens_details": null,
+    "total_tokens": 4531
+  }
+}

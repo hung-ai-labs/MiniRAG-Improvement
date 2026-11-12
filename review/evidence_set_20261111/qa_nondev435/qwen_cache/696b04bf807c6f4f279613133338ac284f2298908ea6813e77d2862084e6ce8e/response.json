@@ -1,0 +1,17 @@
+{
+  "body_sha256": "696b04bf807c6f4f279613133338ac284f2298908ea6813e77d2862084e6ce8e",
+  "finish_reason": "stop",
+  "latency_s": 10.841397208001581,
+  "prediction": "On 20260708_14:00, JenniferMoore checks in with the group to remind everyone to review their fitness progress and seek personalized advice. This indicates that Jennifer is likely checking in with her members to ensure they are meeting their fitness goals and providing guidance to help them stay motivated. Additionally, she mentions grabbing a water cup at the front desk, suggesting that this is part of a routine activity or a regular event held at the gym. Jennifer encourages everyone to keep pushing towards their fitness goals and to stay motivated.",
+  "prediction_sha256": "ce2dac987297e1cd91bb9a442398c9e8caddb62a67d1608733b000e4e9a64149",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 149,
+  "usage": {
+    "completion_tokens": 113,
+    "prompt_tokens": 4760,
+    "prompt_tokens_details": null,
+    "total_tokens": 4873
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "c68b0e2baaefb226b71b6f74cc53de05d9a8501cfc2538de5b744b4c2a304fae",
+  "finish_reason": "stop",
+  "latency_s": 9.225578166999185,
+  "prediction": " According to the information provided in the data tables, WolfgangSchulz expresses his interest in a new pizza place downtown. This suggestion is made during a conversation with LiHua, where WolfgangSchulz says, \"I'm a fan of that new pizza place downtown. Heard they have some amazing toppings! What do you think?\" This indicates that the new pizza place is the subject of discussion and is recommended by WolfgangSchulz for them to try, potentially due to its reputation for having excellent toppings and a positive reception from him.\n\n---\n\nIn summary, from the interactions in the provided data, WolfgangSchulz recommends a new pizza place located downtown, praised for its excellent toppings. Although the specific name of the pizza place is not mentioned, the recommendation is based on WolfgangSchulz's positive hearing and eagerness to explore this eatery together with LiHua.",
+  "prediction_sha256": "2873b9b26e29edae15f4493db4cefa9750b8ed6cd1f8d1bd4814fb3d047b67e2",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 175,
+  "usage": {
+    "completion_tokens": 204,
+    "prompt_tokens": 5332,
+    "prompt_tokens_details": null,
+    "total_tokens": 5536
+  }
+}

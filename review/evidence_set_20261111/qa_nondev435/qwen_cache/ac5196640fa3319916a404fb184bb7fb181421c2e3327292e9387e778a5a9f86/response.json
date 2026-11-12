@@ -1,0 +1,17 @@
+{
+  "body_sha256": "ac5196640fa3319916a404fb184bb7fb181421c2e3327292e9387e778a5a9f86",
+  "finish_reason": "stop",
+  "latency_s": 9.320551541997702,
+  "prediction": "In one of the interactions, Li Hua mentioned that there was a broken water tap in the apartment and requested assistance from Adam Smith. Adam Smith assured Li Hua that he would arrange for someone to look at the issue as soon as possible. However, there isn't a specific mention of a scheduled repair time for the water tap. Li Hua confirmed her availability to receive the plumber, indicating flexibility in terms of timing. Therefore, while Adam Smith is responsible for arranging the repair, there is no explicit suggested schedule for the plumbing work.",
+  "prediction_sha256": "fb05313a294b56fba3b862feb0170d19cb0b19acfe2305b0b073ea20e30a8ea3",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100117,
+  "usage": {
+    "completion_tokens": 109,
+    "prompt_tokens": 4165,
+    "prompt_tokens_details": null,
+    "total_tokens": 4274
+  }
+}

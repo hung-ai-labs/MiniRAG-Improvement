@@ -1,0 +1,17 @@
+{
+  "body_sha256": "cce47e358764f44a36a8b1704038ea2c498eaa5deed0156cdb7e6da2eefc9a91",
+  "finish_reason": "stop",
+  "latency_s": 9.1841457920018,
+  "prediction": " According to the information provided in the data tables, Li Hua agrees to bring a homemade pasta salad to the neighborhood potluck dinner. This is confirmed in the exchange where AdamSmith asks if Li Hua needs any kitchen supplies to prepare the dish, and Li Hua confirms that she has everything she needs except for fresh ingredients, which she plans to pick up the following day. The conversation is enthusiastic and reflects Li Hua's eagerness to contribute to the communal event and meet her neighbors.\n\n```markdown\nLi Hua expresses her willingness to participate in the neighborhood potluck dinner by offering to make homemade pasta salad. AdamSmith responds positively, expressing his anticipation for everyone's enjoyment of the dish. Li Hua assures him she has all necessary ingredients except for the fresh ones, which she intends to acquire the day before the event. Their exchange underlines the community spirit and the opportunity for connection through food sharing.\n```",
+  "prediction_sha256": "f4a4c69be9a33dc3a7d82d4cbdad80b5f5c90131f293aa5a8c9a2e7660eb0207",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 200087,
+  "usage": {
+    "completion_tokens": 227,
+    "prompt_tokens": 4695,
+    "prompt_tokens_details": null,
+    "total_tokens": 4922
+  }
+}

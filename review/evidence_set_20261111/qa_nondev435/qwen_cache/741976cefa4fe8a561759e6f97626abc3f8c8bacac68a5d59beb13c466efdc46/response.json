@@ -1,0 +1,17 @@
+{
+  "body_sha256": "741976cefa4fe8a561759e6f97626abc3f8c8bacac68a5d59beb13c466efdc46",
+  "finish_reason": "stop",
+  "latency_s": 7.023586957999214,
+  "prediction": "In the conversation, Adam Smith clarifies that it's acceptable to have friends over occasionally, provided the gatherings are kept reasonable. This statement is made in response to LiHua's inquiry regarding house rules and whether it's permissible to have friends visit the residence. Adam emphasizes that the gatherings should be \"reasonable,\" suggesting that he expects some degree of restraint and consideration for others, especially given the potential impact of noise levels, particularly during late hours.",
+  "prediction_sha256": "e6f7104c453bfbf1ce39a99cd3880ff7cc2e10b2066e8d8ef6502b08d267f3e0",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100058,
+  "usage": {
+    "completion_tokens": 90,
+    "prompt_tokens": 3486,
+    "prompt_tokens_details": null,
+    "total_tokens": 3576
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "f749aa3653fa4f350a6dff671a6eaf9ccb28581c94b77dca4084ae8e2cac01ec",
+  "finish_reason": "stop",
+  "latency_s": 12.52675337499386,
+  "prediction": "According to their conversation on July 31, 2026, Hailey Johnson wants Li Hua to help gather feedback from the customers at the bakery for a bread-tasting event. Specifically, Hailey stated, \"I'm planning a bread-tasting event at the bakery and would love your help gathering feedback from our customers.\" This event is scheduled to occur on Saturday from 10 am to 2 pm, and Hailey invited Li Hua to join and participate in collecting customer opinions on various bread options.",
+  "prediction_sha256": "d5b52fdfe41aea56ddb6aaf5a6484ef37ebf2d9d3e0e712c12f0ff6d561e6e06",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 162,
+  "usage": {
+    "completion_tokens": 108,
+    "prompt_tokens": 4878,
+    "prompt_tokens_details": null,
+    "total_tokens": 4986
+  }
+}

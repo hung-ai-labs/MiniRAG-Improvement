@@ -1,0 +1,17 @@
+{
+  "body_sha256": "32c56d67f22918ad54825805cfba1b22178077232a26da4bc8fee59f4b3dd75b",
+  "finish_reason": "stop",
+  "latency_s": 9.072983000005479,
+  "prediction": "According to JakeWatson, each stretch should be held for approximately 30 seconds. He specifically mentions this duration in reference to the hamstring stretch and quad stretch he recommends.",
+  "prediction_sha256": "037a67375f0b9eb66318996a8f222ed967eaea5f682b99aaaf30fefba0b1834b",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100270,
+  "usage": {
+    "completion_tokens": 36,
+    "prompt_tokens": 3648,
+    "prompt_tokens_details": null,
+    "total_tokens": 3684
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "99a6795805477bf346260866ec61c1f717c29ae44ca2e287fcbfd2e26bdf1d7c",
+  "finish_reason": "stop",
+  "latency_s": 4.956105792000017,
+  "prediction": "Jennifer Moore is checking in with her group in the gym group chat on 20260708 at 14:00. She is reminding members about their fitness progress and offering personalized advice, emphasizing the importance of staying on track with their fitness goals. This serves as a motivational tool to keep everyone engaged and accountable.",
+  "prediction_sha256": "89832dbed66bbff008479241480f280a6f66f4b3c0279b7bf60e4c5bea36ee7d",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100149,
+  "usage": {
+    "completion_tokens": 70,
+    "prompt_tokens": 4637,
+    "prompt_tokens_details": null,
+    "total_tokens": 4707
+  }
+}

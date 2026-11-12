@@ -1,0 +1,17 @@
+{
+  "body_sha256": "4afdea3f27218795dbb48d016fcb8580edd76b96dcf14bb7111852c3e922862e",
+  "finish_reason": "stop",
+  "latency_s": 9.267614749998756,
+  "prediction": "Li Hua expressed a positive reception of Chae Song-hwa's medical knowledge lecture, noting that she found it insightful and appreciated the clarity with which Chae presented complex topics related to the latest advancements in neurosurgery. Li Hua specifically complimented Chae's presentation style, stating that it made the information easy to understand. She also indicated her intention to attend future lectures from Chae, further emphasizing her appreciation for his contributions.",
+  "prediction_sha256": "31528745539addb594fd0567ab209f5e62b46907cad86877154141dc82e8ac32",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100107,
+  "usage": {
+    "completion_tokens": 89,
+    "prompt_tokens": 4441,
+    "prompt_tokens_details": null,
+    "total_tokens": 4530
+  }
+}

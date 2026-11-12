@@ -1,0 +1,17 @@
+{
+  "body_sha256": "11edd06ecffed6d5bf226d97dd9b5ba54d2a94afd21e28b9fd615e2aae52d841",
+  "finish_reason": "stop",
+  "latency_s": 8.512995915996726,
+  "prediction": "On July 15, 2026, at 19:00, ChaeSong-hwa mentioned that he wanted the band members to check out a live performance of \"Bohemian Rhapsody\" by Queen. This performance was highlighted as an exciting opportunity for the band members to try performing the song together.",
+  "prediction_sha256": "7e04dace8a9d52127d6ba5b621d24781fe4c3b1b573c066d2a6040f778e6dd63",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100152,
+  "usage": {
+    "completion_tokens": 70,
+    "prompt_tokens": 5157,
+    "prompt_tokens_details": null,
+    "total_tokens": 5227
+  }
+}

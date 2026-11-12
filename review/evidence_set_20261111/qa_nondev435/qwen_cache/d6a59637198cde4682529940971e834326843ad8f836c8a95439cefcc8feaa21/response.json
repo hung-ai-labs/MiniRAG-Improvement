@@ -1,0 +1,17 @@
+{
+  "body_sha256": "d6a59637198cde4682529940971e834326843ad8f836c8a95439cefcc8feaa21",
+  "finish_reason": "stop",
+  "latency_s": 9.64899429200159,
+  "prediction": "In the conversation between Li Hua and Adam Smith, Li Hua mentions noticing a broken streetlight nearby. She asks Adam if he knows who she should contact to fix it. In response, Adam suggests calling the maintenance worker at 314159, indicating that they will be able to help with the repair. This implies that the broken streetlight is part of the maintenance responsibilities that the maintenance worker handles. No mention of a light fixture issue involving Adam or Li Hua is present in the provided data.",
+  "prediction_sha256": "7bdfd36222ea53def0b1c3a7bf54821eb90f9e92bd0f8ba379abdcf881530d1a",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200067,
+  "usage": {
+    "completion_tokens": 106,
+    "prompt_tokens": 4346,
+    "prompt_tokens_details": null,
+    "total_tokens": 4452
+  }
+}

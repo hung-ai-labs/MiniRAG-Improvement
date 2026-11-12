@@ -1,0 +1,17 @@
+{
+  "body_sha256": "5d1da12927b30fb1725beed510c5f176901d5a91acc019ddc17ba7a9841a9a3e",
+  "finish_reason": "stop",
+  "latency_s": 9.806121041001461,
+  "prediction": "In the conversation recorded on 20260828_10:00, WolfgangSchulz expresses a preference for a well-done meat patty in a classic American cheeseburger, stating that he finds it \"just safer and more flavorful.\" He adds that he enjoys the \"little char on my burger!\" This indicates that Wolfgang appreciates the juiciness and flavor that comes from a well-done patty. However, he acknowledges that LiHua prefers a medium-rare patty, highlighting the differing tastes between the two individuals.",
+  "prediction_sha256": "4a35a90c0a2f42d96e08ce9afe3118bb836887ee56cbf1557e91ea01ebcf58de",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100186,
+  "usage": {
+    "completion_tokens": 114,
+    "prompt_tokens": 4247,
+    "prompt_tokens_details": null,
+    "total_tokens": 4361
+  }
+}

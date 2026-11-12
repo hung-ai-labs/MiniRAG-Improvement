@@ -1,0 +1,17 @@
+{
+  "body_sha256": "f3f1e61c26d73cc49a5d5a51f353795d53026fa4845440ed8f9a01271a667e39",
+  "finish_reason": "stop",
+  "latency_s": 11.03377754200119,
+  "prediction": "LiHua expresses enthusiasm for the idea, stating, \"Hey Li Hua! Do you know that taking a warm shower before sleeping can improve the sleep quality? It’s amazing how much it helps! A nice warm shower really can really make a difference. 🌙🛁\" LiHua then asks her friend, ChaeSong-hwa, to provide more details about the benefits and to demonstrate how it can be done effectively.",
+  "prediction_sha256": "9821cc5a3afac9cafac0ab9410d499a1cc2bcd299621bd4ad67fb4bfd215f7eb",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200271,
+  "usage": {
+    "completion_tokens": 89,
+    "prompt_tokens": 4386,
+    "prompt_tokens_details": null,
+    "total_tokens": 4475
+  }
+}

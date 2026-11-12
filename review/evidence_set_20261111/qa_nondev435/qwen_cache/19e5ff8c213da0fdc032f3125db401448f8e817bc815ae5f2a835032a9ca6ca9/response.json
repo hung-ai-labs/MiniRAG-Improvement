@@ -1,0 +1,17 @@
+{
+  "body_sha256": "19e5ff8c213da0fdc032f3125db401448f8e817bc815ae5f2a835032a9ca6ca9",
+  "finish_reason": "stop",
+  "latency_s": 9.251965499999642,
+  "prediction": "According to the conversation, the Freelancer Group Meeting is scheduled for March 6th at 2:00 PM. LiHua initiates the discussion about the meeting by sending an email to Yuriko confirming the meeting time and expressing excitement about the upcoming discussion and collaboration. Yuriko confirms that she is available and looks forward to the meeting, which is confirmed to be on the same day as the initial inquiry.",
+  "prediction_sha256": "a5cf8ade147a364afaa80a39cbf9078ead0f610668882d8271f7945ae1ce6dc7",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 133,
+  "usage": {
+    "completion_tokens": 87,
+    "prompt_tokens": 4413,
+    "prompt_tokens_details": null,
+    "total_tokens": 4500
+  }
+}

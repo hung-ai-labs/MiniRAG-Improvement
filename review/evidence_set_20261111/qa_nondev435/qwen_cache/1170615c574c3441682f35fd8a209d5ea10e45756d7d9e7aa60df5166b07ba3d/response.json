@@ -1,0 +1,17 @@
+{
+  "body_sha256": "1170615c574c3441682f35fd8a209d5ea10e45756d7d9e7aa60df5166b07ba3d",
+  "finish_reason": "stop",
+  "latency_s": 8.581239375002042,
+  "prediction": "Based on the conversations provided, Emily Burnett is currently watching \"The Last of Us\". This can be inferred from a conversation where Emily expresses enthusiasm about the show, describing it as intense and mentioning her enjoyment of the character development and handling of the post-apocalyptic setting. She also recommends it to LiHua, suggesting that they should \"give it a watch\" and encourages LiHua to start with the first episode.",
+  "prediction_sha256": "e8397c16549c514fbdf44f8a5d5d991e9153e27cb6e10469d2045502868799eb",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 386,
+  "usage": {
+    "completion_tokens": 85,
+    "prompt_tokens": 3155,
+    "prompt_tokens_details": null,
+    "total_tokens": 3240
+  }
+}

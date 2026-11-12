@@ -1,0 +1,17 @@
+{
+  "body_sha256": "035b0c9835d5f18f1cd2410761e3e04ce8dab69f150db026fb0bc52bf84e0266",
+  "finish_reason": "stop",
+  "latency_s": 11.085746999997355,
+  "prediction": "On January 6th, Li Hua reported two issues to Adam Smith. Firstly, she informed him that the water tap in their apartment was broken and needed attention. Secondly, Li Hua asked for the Wi-Fi password and some house rules. Specifically, she inquired about any noise guidelines and whether guests were allowed. Adam promptly addressed both issues, arranging for a plumber to visit on the following day to fix the water tap and providing Li Hua with the Wi-Fi password and house rules. Li Hua thanked Adam for his prompt assistance and requested further updates regarding the repair schedule.",
+  "prediction_sha256": "90a4c1a266d90b303bb67fa4b7a67dd3f0e80184a05b1a17404367ffaa07f3c7",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100060,
+  "usage": {
+    "completion_tokens": 119,
+    "prompt_tokens": 4404,
+    "prompt_tokens_details": null,
+    "total_tokens": 4523
+  }
+}

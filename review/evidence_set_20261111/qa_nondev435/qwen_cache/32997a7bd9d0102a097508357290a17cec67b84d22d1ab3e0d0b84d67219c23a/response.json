@@ -1,0 +1,17 @@
+{
+  "body_sha256": "32997a7bd9d0102a097508357290a17cec67b84d22d1ab3e0d0b84d67219c23a",
+  "finish_reason": "stop",
+  "latency_s": 4.292070999999851,
+  "prediction": "Elara mentions \"Octopath Traveler\" as a game that she enjoys playing. In the conversation, she expresses enthusiasm for the game's turn-based combat system and the variety of characters and their unique stories. She particularly appreciates the art style and the strategic depth of the battles.",
+  "prediction_sha256": "44d459b31e9cf18bb7d140e083823a134d20db3ee056dc06c8daaf6d5117e1bd",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100323,
+  "usage": {
+    "completion_tokens": 58,
+    "prompt_tokens": 4244,
+    "prompt_tokens_details": null,
+    "total_tokens": 4302
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "cf433a996cb908f92d002029a477f01248db730e79b99a34230788d3db81f59a",
+  "finish_reason": "stop",
+  "latency_s": 3.6050318329980655,
+  "prediction": "There is no information provided about Li Hua painting his house or the colors he used before the community garden renovation began. The text focuses primarily on the renovation of the community garden, including discussions about seating areas, water features, and other amenities. No details regarding interior decorations or previous paint jobs on the house are mentioned.",
+  "prediction_sha256": "b59ed54892d216c0e39f09a51563845ada6283fa26ca370d12b2c7ea6ef06740",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 417,
+  "usage": {
+    "completion_tokens": 65,
+    "prompt_tokens": 3887,
+    "prompt_tokens_details": null,
+    "total_tokens": 3952
+  }
+}

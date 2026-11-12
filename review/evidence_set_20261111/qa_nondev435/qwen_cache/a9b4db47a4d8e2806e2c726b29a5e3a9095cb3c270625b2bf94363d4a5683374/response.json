@@ -1,0 +1,17 @@
+{
+  "body_sha256": "a9b4db47a4d8e2806e2c726b29a5e3a9095cb3c270625b2bf94363d4a5683374",
+  "finish_reason": "stop",
+  "latency_s": 8.392330540998955,
+  "prediction": "In the conversation, Elara mentions \"Octopath Traveler\" as a game she enjoys very much. She specifically highlights the turn-based combat and the unique art style of the game. Elara expresses her appreciation for the game's storytelling and character development, indicating that it has a significant emotional impact on her. Therefore, \"Octopath Traveler\" is the game Elara mentions for making her emotional.",
+  "prediction_sha256": "d212cd898263526475bc60404208f61b0f600e530f09a0fa07d8c57535a0e6cc",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 323,
+  "usage": {
+    "completion_tokens": 82,
+    "prompt_tokens": 4244,
+    "prompt_tokens_details": null,
+    "total_tokens": 4326
+  }
+}

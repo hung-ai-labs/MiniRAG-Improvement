@@ -1,0 +1,17 @@
+{
+  "body_sha256": "db324390e7d21e4c6e966e78ca467bd08890615888e98c36d41707cdb4c602cd",
+  "finish_reason": "stop",
+  "latency_s": 6.0534836660008295,
+  "prediction": " Ileana praises the **Control Center** on the PS5 for making switching between games and apps smoother. This feature is highlighted for its convenience and user-friendly interface, which allows players to adjust settings, such as audio, on-the-fly, without interrupting the gameplay experience. It's also noted for its role in sharing game clips and highlights seamlessly, enhancing the social aspect of gaming by allowing players to share their experiences with others effortlessly.",
+  "prediction_sha256": "d8318fb52216e0ca530149b7220c5e2d0c87751b30665b9766d157ff8767dcd3",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 110,
+  "usage": {
+    "completion_tokens": 107,
+    "prompt_tokens": 5040,
+    "prompt_tokens_details": null,
+    "total_tokens": 5147
+  }
+}

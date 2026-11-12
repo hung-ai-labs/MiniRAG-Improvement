@@ -1,0 +1,17 @@
+{
+  "body_sha256": "a9cdf645b1c640695f2ad5bb102588e7e25f43a8f3f934266a6456c56b2ca37c",
+  "finish_reason": "stop",
+  "latency_s": 7.177317583998956,
+  "prediction": "According to the records provided, Li Hua checked in with Adam Smith about the move-in details on February 19th at 8:00 AM. This interaction occurred in the context of Li Hua picking up the key for the basement. Prior to this, on January 5th at 2:00 PM, Li Hua had already reached out to Adam to inquire about the move-in arrangements, indicating she was actively preparing for her new living situation.",
+  "prediction_sha256": "a723e869ffa6f6598d272cb5378a2e9d5ae2c2b5f59eb3a46e4b832908324e73",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 55,
+  "usage": {
+    "completion_tokens": 97,
+    "prompt_tokens": 4140,
+    "prompt_tokens_details": null,
+    "total_tokens": 4237
+  }
+}

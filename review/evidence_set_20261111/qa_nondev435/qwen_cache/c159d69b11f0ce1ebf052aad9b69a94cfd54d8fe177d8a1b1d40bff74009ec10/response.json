@@ -1,0 +1,17 @@
+{
+  "body_sha256": "c159d69b11f0ce1ebf052aad9b69a94cfd54d8fe177d8a1b1d40bff74009ec10",
+  "finish_reason": "stop",
+  "latency_s": 12.437899749998905,
+  "prediction": "In their conversations, LiHua frequently seeks advice and clarification on various aspects of soccer. Specifically, LiHua asks Jake about the rules of the game, particularly the offside rule and handball incidents. LiHua also inquires about defensive strategies and the best defenders in the history of FC Barcelona. Additionally, LiHua expresses interest in learning more about the tactical aspects of the sport, including strategies to avoid injuries and drills to improve skills. Through these discussions, LiHua aims to enhance his understanding and enjoyment of the game.",
+  "prediction_sha256": "27f309ef59d51c80bd685043860e4a5c36d4e7298784ebb841b68e1aae4cbeb7",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100205,
+  "usage": {
+    "completion_tokens": 110,
+    "prompt_tokens": 4471,
+    "prompt_tokens_details": null,
+    "total_tokens": 4581
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "9c5f7d6bca8a892500d2e46755dab9bdcd2d2704c77f8005ccf04959cf3761df",
+  "finish_reason": "stop",
+  "latency_s": 15.103385667000111,
+  "prediction": "In the conversations between Jennifer Moore and Li Hua, Jennifer provides dietary advice aimed at supporting Li Hua's fitness goals. One such instance occurs in the exchange from 20260122_15:00, where Jennifer offers to adjust Li Hua's meal plan to include more protein and suggests lean meats and protein-rich snacks. She also mentions including a few more snack options, indicating that she aims to provide a balanced and varied diet to ensure Li Hua gets adequate protein and nutrients for his workouts. However, specific recipes or meal plans are not detailed in the provided exchanges, so the exact diet that Jennifer recommends cannot be specified based solely on the interactions described.",
+  "prediction_sha256": "963edb703f9a6ec90d3f58dbce4b627588cf31a7bc0b9ee08bf8945c12e1c712",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200409,
+  "usage": {
+    "completion_tokens": 141,
+    "prompt_tokens": 4367,
+    "prompt_tokens_details": null,
+    "total_tokens": 4508
+  }
+}

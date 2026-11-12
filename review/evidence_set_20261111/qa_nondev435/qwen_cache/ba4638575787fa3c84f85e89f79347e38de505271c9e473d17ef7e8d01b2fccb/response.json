@@ -1,0 +1,17 @@
+{
+  "body_sha256": "ba4638575787fa3c84f85e89f79347e38de505271c9e473d17ef7e8d01b2fccb",
+  "finish_reason": "stop",
+  "latency_s": 10.211014667002019,
+  "prediction": "According to the conversation records, Li Hua informed Adam Smith that the rent for last month had been transferred on 20260602_10:00. This was communicated through a message stating, \"Hi Adam, just wanted to let you know that I've transferred the rent. Sorry for the delay!\" Adam responded positively, noting that \"No worries! Just wanted to keep everything on track. Let me know if you need any help with the payment.\"",
+  "prediction_sha256": "51cd3462aa20f0164b17f9385bcc98288a20078cce86d0a3cc58f12ec3cf4b71",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 130,
+  "usage": {
+    "completion_tokens": 99,
+    "prompt_tokens": 4017,
+    "prompt_tokens_details": null,
+    "total_tokens": 4116
+  }
+}

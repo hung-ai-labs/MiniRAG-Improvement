@@ -1,0 +1,17 @@
+{
+  "body_sha256": "43761bea49a81e1d6db80594019bce7d326d65e86acfdf10bb1dfbf27b7fe961",
+  "finish_reason": "stop",
+  "latency_s": 8.354290416995354,
+  "prediction": "According to the conversation, Hailey Johnson introduced a new weekly flavor called \"Hazelnut Basque Roasted Cheese.\" This new flavor was available for purchase at a 20% discount for the first three days, and she invited Li Hua to try it out.",
+  "prediction_sha256": "e6416c6f6236e78ceff19c775d1a5fb0e7e11c43bd40848ac69fe34b97a02c43",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100131,
+  "usage": {
+    "completion_tokens": 56,
+    "prompt_tokens": 4364,
+    "prompt_tokens_details": null,
+    "total_tokens": 4420
+  }
+}

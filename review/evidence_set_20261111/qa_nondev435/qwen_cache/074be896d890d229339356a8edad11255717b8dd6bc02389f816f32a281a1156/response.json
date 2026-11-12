@@ -1,0 +1,17 @@
+{
+  "body_sha256": "074be896d890d229339356a8edad11255717b8dd6bc02389f816f32a281a1156",
+  "finish_reason": "stop",
+  "latency_s": 5.51821470899813,
+  "prediction": "Based on the information provided, Farrah specifically mentions Pep Guardiola's style of play from Manchester City as being \"total football\". There is no mention of Farrah referring to the \"total football\" style as associated with any other team or manager.",
+  "prediction_sha256": "60e7b6df0c18a1af92dbb1e540c14b59dce07c73ef0a50aa0f704dc15d977121",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 299,
+  "usage": {
+    "completion_tokens": 51,
+    "prompt_tokens": 4890,
+    "prompt_tokens_details": null,
+    "total_tokens": 4941
+  }
+}

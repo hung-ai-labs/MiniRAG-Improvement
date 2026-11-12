@@ -1,0 +1,17 @@
+{
+  "body_sha256": "4286d198b62ec7cda08348d18c6a7d4b61d869add3b6219f1069eae1a26bfcc1",
+  "finish_reason": "stop",
+  "latency_s": 7.328102667001076,
+  "prediction": "According to the conversation records, Li Hua and Wolfgang Schulz arranged a lunch meeting at the cozy café downtown at 12:00 PM on a specific date. However, the exact date is not specified in the given information. If you have more context or additional conversations that provide the precise date, please provide that information so that an accurate time can be determined.",
+  "prediction_sha256": "6b210c5ac77b44ec6a53d198fb7c0c990295a3c8224acaf67afbfa061914c734",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100056,
+  "usage": {
+    "completion_tokens": 76,
+    "prompt_tokens": 4027,
+    "prompt_tokens_details": null,
+    "total_tokens": 4103
+  }
+}

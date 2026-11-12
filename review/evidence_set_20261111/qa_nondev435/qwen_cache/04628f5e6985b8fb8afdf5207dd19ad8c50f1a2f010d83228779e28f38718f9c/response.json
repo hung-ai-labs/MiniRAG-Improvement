@@ -1,0 +1,17 @@
+{
+  "body_sha256": "04628f5e6985b8fb8afdf5207dd19ad8c50f1a2f010d83228779e28f38718f9c",
+  "finish_reason": "stop",
+  "latency_s": 8.898690792000707,
+  "prediction": "Emily Burnett is currently watching \"The Bear,\" which is described as a different type of show that dives into the chaos of running a restaurant while exploring the characters' emotions. The storytelling is gripping, and the cooking scenes are intense. Emily Burnett expresses enthusiasm for the show, recommending it to Li Hua and encouraging him to give it a try.",
+  "prediction_sha256": "cefdfc90192161b231473b98f023919f03e08f6aa7cf3538bd5caeb8047b5895",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 386,
+  "usage": {
+    "completion_tokens": 70,
+    "prompt_tokens": 4365,
+    "prompt_tokens_details": null,
+    "total_tokens": 4435
+  }
+}

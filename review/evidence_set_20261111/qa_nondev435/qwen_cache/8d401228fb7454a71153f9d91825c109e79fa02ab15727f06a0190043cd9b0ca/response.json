@@ -1,0 +1,17 @@
+{
+  "body_sha256": "8d401228fb7454a71153f9d91825c109e79fa02ab15727f06a0190043cd9b0ca",
+  "finish_reason": "stop",
+  "latency_s": 9.441103167002439,
+  "prediction": "Based on the conversation recorded under the timestamp \"20260816_20:00\", Hailey Johnson offered Li Hua a 15% discount on her order if she placed it by the end of that week. This discount was part of a special holiday sale at Hailey's Bakery.",
+  "prediction_sha256": "c683a22504d06678b54ff98d40a579b4cfe54abb16448c2a47624d17f6ccfdcc",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200173,
+  "usage": {
+    "completion_tokens": 67,
+    "prompt_tokens": 5163,
+    "prompt_tokens_details": null,
+    "total_tokens": 5230
+  }
+}

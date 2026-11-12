@@ -1,0 +1,17 @@
+{
+  "body_sha256": "0d9f00d48565b2fbe634025becb4a68b6053789d38d04d4c8cb8b19f68ef1006",
+  "finish_reason": "stop",
+  "latency_s": 4.672818417006056,
+  "prediction": "In the conversation shared, Chae first suggested visiting the music festival in the morning on Saturday. Specifically, this suggestion was made when the local music festival was being discussed, indicating that Chae was enthusiastic about attending the event and wanted to plan ahead for the day.",
+  "prediction_sha256": "795931a365f271132814e96e296b85869a72f671bfdd9a49dfbfa1c6992536c6",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100445,
+  "usage": {
+    "completion_tokens": 54,
+    "prompt_tokens": 5199,
+    "prompt_tokens_details": null,
+    "total_tokens": 5253
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "31f6dc3e229992623ede7a777681d7cd92c981d34dd350b6737561de999741c0",
+  "finish_reason": "stop",
+  "latency_s": 5.578408291999949,
+  "prediction": " Jake Watson's favorite memory of Puyol and Piqué playing together, as he mentioned in the conversation, is the \"epic comeback against PSG in the Champions League.\" He describes this match as having unparalleled drama, particularly highlighting Puyol's leadership and Piqué's crucial interceptions, which contributed to Barca's victory. He expresses a sense of pride and admiration for this historic game, indicating that it stands out among other memorable matches in his opinion.",
+  "prediction_sha256": "b06e861401d4515475ee4f672b0155665333264dbacbbb1956e918b25d401871",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 100227,
+  "usage": {
+    "completion_tokens": 111,
+    "prompt_tokens": 4608,
+    "prompt_tokens_details": null,
+    "total_tokens": 4719
+  }
+}

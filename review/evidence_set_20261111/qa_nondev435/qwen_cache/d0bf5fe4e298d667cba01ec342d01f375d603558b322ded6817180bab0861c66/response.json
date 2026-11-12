@@ -1,0 +1,17 @@
+{
+  "body_sha256": "d0bf5fe4e298d667cba01ec342d01f375d603558b322ded6817180bab0861c66",
+  "finish_reason": "stop",
+  "latency_s": 11.724939874999109,
+  "prediction": "In the conversation between AdamSmith and LiHua, LiHua recommends inverter AC units as a good choice for energy efficiency and low noise. While the exact brand names are not specified, it is mentioned that brands like Mitsubishi and Daikin are known for being quiet and efficient. Therefore, based on this conversation, LiHua likely recommends air conditioners from brands such as Mitsubishi and Daikin for Wolfgang.",
+  "prediction_sha256": "dee93b2a147ccf558f806e19ab7a3a8243eb7855498c6bfe5667da2a0feda37a",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200160,
+  "usage": {
+    "completion_tokens": 86,
+    "prompt_tokens": 4830,
+    "prompt_tokens_details": null,
+    "total_tokens": 4916
+  }
+}

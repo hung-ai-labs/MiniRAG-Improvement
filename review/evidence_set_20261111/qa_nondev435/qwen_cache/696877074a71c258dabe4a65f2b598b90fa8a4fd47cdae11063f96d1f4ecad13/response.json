@@ -1,0 +1,17 @@
+{
+  "body_sha256": "696877074a71c258dabe4a65f2b598b90fa8a4fd47cdae11063f96d1f4ecad13",
+  "finish_reason": "stop",
+  "latency_s": 8.42725537500155,
+  "prediction": "Based on the information provided in the entities table, Wolfgang has indeed visited Hong Kong for his business trip. Specifically, it states that \"Hong Kong is the destination for Wolfgang's business trip.\" Additionally, there are entries in the sources table detailing Wolfgang's arrival in Hong Kong and his plans for exploring the city, indicating his visit was real and recent. Thus, Wolfgang has been to Hong Kong, most likely for his work purposes.",
+  "prediction_sha256": "c762c1bd2eba116ebb13ea6615f5b6101b5c1fac54f5c230fa65cb6bf907697a",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200032,
+  "usage": {
+    "completion_tokens": 87,
+    "prompt_tokens": 4361,
+    "prompt_tokens_details": null,
+    "total_tokens": 4448
+  }
+}

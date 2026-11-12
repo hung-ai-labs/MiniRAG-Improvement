@@ -1,0 +1,17 @@
+{
+  "body_sha256": "5ba1e702305fff0888765de70a771189158bac4afa7fa641fada26ed8a8db021",
+  "finish_reason": "stop",
+  "latency_s": 9.292934875003994,
+  "prediction": "In one of the conversations, Wolfgang Schulz suggested adding sound-insulating pads to the basement to help improve its acoustic quality for Li Hua's guitar practice. He proposed that the improvements should be reversible and not cause any damage to the existing setup. Wolfgang also mentioned that he would be bringing his drumsticks and snacks to the practice sessions, indicating his enthusiasm and commitment to helping Li Hua enhance her musical endeavors. Additionally, Wolfgang expressed his excitement about the upcoming jam session and hoped they would be able to see their favorite bands at the music festival, further emphasizing his dedication to music and the community.",
+  "prediction_sha256": "cfb23b0b503e97ce3752d53256c4df70bfcb016b62766beac41229b0b693cae6",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 80,
+  "usage": {
+    "completion_tokens": 121,
+    "prompt_tokens": 4600,
+    "prompt_tokens_details": null,
+    "total_tokens": 4721
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "eac12ce87c0c3c89a1718e6639d966dae281ab0d5f853ec5dd6c2c897b96137c",
+  "finish_reason": "stop",
+  "latency_s": 9.217018957999244,
+  "prediction": "Based on the conversations shared, LiHua expresses a preference for Spider-Man, stating \"I think Spider-Man is my fave! Love his story and all the web-slinging action.\" While WolfgangSchulz also has a soft spot for Iron Man, LiHua's clear favorite is Spider-Man.",
+  "prediction_sha256": "b818ecd9f80e7018d8ee7ba67bd438c2998ac5a0b0c530a41caeb9e57f8a7d6b",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200157,
+  "usage": {
+    "completion_tokens": 64,
+    "prompt_tokens": 4123,
+    "prompt_tokens_details": null,
+    "total_tokens": 4187
+  }
+}

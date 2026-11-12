@@ -1,0 +1,17 @@
+{
+  "body_sha256": "b3f0e84e0cf6e0172db6c98d84040af9d441f447e616a539df479ec943fab831",
+  "finish_reason": "stop",
+  "latency_s": 10.606976499999291,
+  "prediction": "In the conversation recorded on April 28, 2026 at 18:30, Wolfgang Schulz mentions, \"How about our favorite Italian place? They have the best pasta!\" and Li Hua agrees, saying, \"Sounds perfect! I’ve been craving their pasta.\" This indicates that the Italian restaurant where Wolfgang and Li Hua are having dinner to celebrate Wolfgang's promotion is their favorite Italian place, known for its excellent pasta. However, the specific name of this establishment is not provided in the given data.",
+  "prediction_sha256": "b82caddef5bd5fa9fc4bad93dd79990aae448f1c0da73a44ccc0d167584faa6f",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100116,
+  "usage": {
+    "completion_tokens": 110,
+    "prompt_tokens": 3955,
+    "prompt_tokens_details": null,
+    "total_tokens": 4065
+  }
+}

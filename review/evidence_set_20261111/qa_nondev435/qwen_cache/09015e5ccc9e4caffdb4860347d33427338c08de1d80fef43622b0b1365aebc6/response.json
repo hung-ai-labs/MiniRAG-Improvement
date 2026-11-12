@@ -1,0 +1,17 @@
+{
+  "body_sha256": "09015e5ccc9e4caffdb4860347d33427338c08de1d80fef43622b0b1365aebc6",
+  "finish_reason": "stop",
+  "latency_s": 11.353290958999423,
+  "prediction": "On September 7th, 2026, AdamSmith specifically asked LiHua about the basement to inquire if there were any issues with water leakage following a recent storm. He wanted to ensure that the basement was safe and functioning correctly. LiHua reassured him that the basement was all good, noting only a bit of dampness but no major water leakage. AdamSmith expressed relief at this news and offered to assist LiHua if needed, indicating his commitment to the tenant's needs.",
+  "prediction_sha256": "1cddc7ad2c9e7d8b6b25e66bbc3ca04235f05cac5564f56a057084219fdf2b10",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100192,
+  "usage": {
+    "completion_tokens": 103,
+    "prompt_tokens": 4535,
+    "prompt_tokens_details": null,
+    "total_tokens": 4638
+  }
+}

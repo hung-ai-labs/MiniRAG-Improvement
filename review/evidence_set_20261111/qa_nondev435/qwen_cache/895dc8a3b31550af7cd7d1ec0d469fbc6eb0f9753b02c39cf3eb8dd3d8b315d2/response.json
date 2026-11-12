@@ -1,0 +1,17 @@
+{
+  "body_sha256": "895dc8a3b31550af7cd7d1ec0d469fbc6eb0f9753b02c39cf3eb8dd3d8b315d2",
+  "finish_reason": "stop",
+  "latency_s": 9.127394499999355,
+  "prediction": "In the conversation, JakeWatson mentions a memorable match involving Barcelona from the Champions League final against Manchester United in 2011. Specifically, JakeWatson recalls a particular moment from that match, describing it as \"that unexpected header by Messi that was so beautiful. It showcased his versatility and showcased why he is such an exceptional player.\" This moment is highlighted as one of the standout memories from that historic final.",
+  "prediction_sha256": "2189abc909dae71d4f28e9115be9aa9d568b0eb5351ccebfe2e7184fe7bb8aff",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 228,
+  "usage": {
+    "completion_tokens": 85,
+    "prompt_tokens": 4306,
+    "prompt_tokens_details": null,
+    "total_tokens": 4391
+  }
+}

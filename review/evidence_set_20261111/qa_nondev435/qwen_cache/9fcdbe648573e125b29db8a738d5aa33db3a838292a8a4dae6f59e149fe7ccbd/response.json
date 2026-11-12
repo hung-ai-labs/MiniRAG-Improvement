@@ -1,0 +1,17 @@
+{
+  "body_sha256": "9fcdbe648573e125b29db8a738d5aa33db3a838292a8a4dae6f59e149fe7ccbd",
+  "finish_reason": "stop",
+  "latency_s": 4.022319374998915,
+  "prediction": "During Wolfgang's trip to Hong Kong, he expressed a desire to find something special for Li Hua. Specifically, he said, \"Sounds good! I’ll make sure to find something special for you.\" This indicates that Wolfgang sought out unique items to bring back as a gift for Li Hua. While the exact gifts Wolfgang purchased are not specified in the provided data, it is clear that he made an effort to find something meaningful and representative of Hong Kong.",
+  "prediction_sha256": "ff60e0cce6161fa91a0773dac7efa17826ea3366496e9461c9e9d0bf28b9da76",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100447,
+  "usage": {
+    "completion_tokens": 93,
+    "prompt_tokens": 4621,
+    "prompt_tokens_details": null,
+    "total_tokens": 4714
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "f6a5715b8e6eefe77831dc3256a152dc6659d2e3be6881c2e52bb602daa1f626",
+  "finish_reason": "stop",
+  "latency_s": 11.21542408300229,
+  "prediction": "Jennifer Moore provides several tips for managing muscle soreness after workouts. She suggests maintaining adequate hydration, engaging in light activities like gentle yoga or walking to alleviate soreness, and spending time stretching the affected muscles. Additionally, she recommends the use of a foam roller on sore spots to help with muscle tightness. Lastly, Jennifer emphasizes the importance of rest, advising her listeners to ensure they have recovery days to allow their muscles to heal properly.",
+  "prediction_sha256": "482cd6a344d984317f05d1090a09fb026f1b028ed04b24061fbec3e38efef1c5",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 75,
+  "usage": {
+    "completion_tokens": 88,
+    "prompt_tokens": 4349,
+    "prompt_tokens_details": null,
+    "total_tokens": 4437
+  }
+}

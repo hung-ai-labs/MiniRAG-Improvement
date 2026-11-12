@@ -1,0 +1,17 @@
+{
+  "body_sha256": "b00d715e345afd52d77534746f08b5197cd778934b517bee804f06db4c938971",
+  "finish_reason": "stop",
+  "latency_s": 13.571262167002715,
+  "prediction": " Adam Smith invites Li Hua to participate in the community bake sale. This invitation is found in a conversation where Adam mentions the event and expresses his hope that Li Hua will join him for the occasion, as it is not only a chance to support a local charity but also an opportunity to meet and interact with neighbors. Li Hua responds positively, showing enthusiasm for both the charitable aspect and the social opportunity. The conversation indicates that both participants are looking forward to the event.\n\n```markdown\n## Invitation to the Community Bake Sale\n\nAdam Smith extends an invitation to Li Hua for a community bake sale, scheduled for Sunday at 3 PM. The intent behind this gathering is twofold:\n\n1. **Charitable Support**: It is an event organized to raise funds for a local charity, emphasizing the importance of community involvement in philanthropic endeavors.\n2. **Community Engagement**: The event also serves as a social gathering, giving participants like Li Hua a chance to mingle and connect with their neighbors.\n\nLi Hua's response is enthusiastic, affirming her interest in joining and contributing to the charitable cause, along with her eagerness to meet people and enjoy some baked goods. Adam Smith, while appreciative of Li Hua's offer, mentions that he believes they will manage without additional help, but he leaves room open for assistance should it be needed.\n\nThe interaction between Adam Smith and Li Hua clearly demonstrates the event's role in fostering community spirit alongside supporting a charitable cause.\n```",
+  "prediction_sha256": "0b9cb4f2c4e6568cad912ec8babf1752aa359c4a0b5342877291c3163a89c772",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 100092,
+  "usage": {
+    "completion_tokens": 358,
+    "prompt_tokens": 4576,
+    "prompt_tokens_details": null,
+    "total_tokens": 4934
+  }
+}

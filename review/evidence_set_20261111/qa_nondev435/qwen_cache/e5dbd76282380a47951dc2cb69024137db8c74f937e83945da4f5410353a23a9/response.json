@@ -1,0 +1,17 @@
+{
+  "body_sha256": "e5dbd76282380a47951dc2cb69024137db8c74f937e83945da4f5410353a23a9",
+  "finish_reason": "stop",
+  "latency_s": 8.089143041997886,
+  "prediction": "LiHua mentions a memorable scene from the Chernobyl TV series where they are trying to contain the radiation and the sacrifices made by the workers. This scene highlights the human spirit in difficult circumstances, showcasing the resilience and bravery of the individuals involved.",
+  "prediction_sha256": "cd9e4e166310a1d68932ebc0c6e962077b72880470ded4cab624ca7d21d9cef9",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100384,
+  "usage": {
+    "completion_tokens": 51,
+    "prompt_tokens": 4524,
+    "prompt_tokens_details": null,
+    "total_tokens": 4575
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "ed969dd5398e7f7ba04d8ed7b1417d5fbbf57a8f5869c198a11619fdee6e906e",
+  "finish_reason": "stop",
+  "latency_s": 10.24026354200032,
+  "prediction": "In the discussions provided, Briar mentions several items to bring to the practice session. Specifically, Briar reminds everyone to bring water bottles to ensure that everyone stays hydrated during the practice. Additionally, Briar expresses excitement for the practice session and looks forward to having fun, indicating that she is keen to participate fully. There is no mention of bringing balls or dribbling equipment, suggesting that these are likely to be provided or brought by the organizers or other participants.",
+  "prediction_sha256": "3f73a0ddae8e2040a2b378645b099f6d28bf27e0ed2d85dde9285efddb40f065",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 284,
+  "usage": {
+    "completion_tokens": 93,
+    "prompt_tokens": 4848,
+    "prompt_tokens_details": null,
+    "total_tokens": 4941
+  }
+}

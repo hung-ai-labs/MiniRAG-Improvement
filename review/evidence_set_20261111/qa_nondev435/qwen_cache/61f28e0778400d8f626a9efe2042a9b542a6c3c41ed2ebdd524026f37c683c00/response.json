@@ -1,0 +1,17 @@
+{
+  "body_sha256": "61f28e0778400d8f626a9efe2042a9b542a6c3c41ed2ebdd524026f37c683c00",
+  "finish_reason": "stop",
+  "latency_s": 10.457497874998808,
+  "prediction": "For breakfast on the morning of the 9th, Li Hua and Wolfgang have planned to meet at 7:00 PM. This is indicated in the conversation where Li Hua suggests, \"How about 7 pm? That should give us enough time to get ready!\" Wolfgang responds, \"7 pm works for me! Can’t wait for all that spicy goodness! 🍲🔥\" Thus, they have scheduled their breakfast meeting for 7:00 PM on the 9th.",
+  "prediction_sha256": "78f15919b2d2fe49a7cf09de18495a61eca3278e503ed9fd6ab935d7bc5f0537",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100403,
+  "usage": {
+    "completion_tokens": 103,
+    "prompt_tokens": 4594,
+    "prompt_tokens_details": null,
+    "total_tokens": 4697
+  }
+}

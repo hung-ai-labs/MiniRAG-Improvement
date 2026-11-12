@@ -1,0 +1,17 @@
+{
+  "body_sha256": "143f27917e4d45d106e51d518ee6647970d49d377bded9f44bbe166c53f13e3e",
+  "finish_reason": "stop",
+  "latency_s": 9.026442040998518,
+  "prediction": "At the bakery's anniversary event, Li Hua expressed enthusiasm for the new bread products, though she did not specify a particular flavor. She mentioned that she loved sourdough and was looking forward to tasting the new breads that Hailey Johnson had prepared. Therefore, while Li Hua did not mention a specific flavor she particularly enjoyed, she showed excitement for the variety of new breads being offered.",
+  "prediction_sha256": "c187d7dc06f98ec4e86a063c4a8a4f075636a9d3f79abc024e811a67e89d5c1d",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 424,
+  "usage": {
+    "completion_tokens": 82,
+    "prompt_tokens": 3815,
+    "prompt_tokens_details": null,
+    "total_tokens": 3897
+  }
+}

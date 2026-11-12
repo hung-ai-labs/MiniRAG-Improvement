@@ -1,0 +1,17 @@
+{
+  "body_sha256": "c851ea117232ac34609761badadfc2f184f329dc6b9d42b98c65266b469acde5",
+  "finish_reason": "stop",
+  "latency_s": 17.79812304100051,
+  "prediction": "The diet discussed in the conversations between Li Hua and Jennifer Moore focuses on maintaining proper hydration, balanced nutrition, and sufficient protein intake. Specifically, Jennifer suggests that Li Hua should ensure he is consuming enough protein both pre- and post-workout, which is crucial for muscle recovery and growth. Additionally, she recommends a variety of foods including lean meats like chicken breast, turkey breast, and fish, as well as plant-based options such as tofu and tempeh. Snacks are also suggested to include items like Greek yogurt with honey and berries, mixed nuts, cottage cheese with pineapple, and hummus with carrot and cucumber sticks. This diet emphasizes the importance of hydration, a well-rounded selection of nutrients, and adequate protein intake, all of which are vital components of a diet that supports both physical training and restful sleep.",
+  "prediction_sha256": "0bcb32f6bce0f8467e32a4769450a6599917c3faeb5a2ad06ee2ea174efbf193",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100411,
+  "usage": {
+    "completion_tokens": 167,
+    "prompt_tokens": 4424,
+    "prompt_tokens_details": null,
+    "total_tokens": 4591
+  }
+}

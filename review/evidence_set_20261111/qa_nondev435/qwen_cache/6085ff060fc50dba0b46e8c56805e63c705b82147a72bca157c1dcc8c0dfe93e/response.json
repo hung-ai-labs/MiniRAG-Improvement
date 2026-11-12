@@ -1,0 +1,17 @@
+{
+  "body_sha256": "6085ff060fc50dba0b46e8c56805e63c705b82147a72bca157c1dcc8c0dfe93e",
+  "finish_reason": "stop",
+  "latency_s": 8.980410208001558,
+  "prediction": "Aurora expresses enthusiasm for the atmosphere at the Bernabéu during challenging games, noting the strong connection between the players and their passionate fans. Aurora emphasizes that the support from the Bernabéu crowd significantly boosts the team's morale and performance, particularly during crucial moments in matches like the comeback against Manchester City in the Champions League. Aurora describes the atmosphere as electric, highlighting how the team's fans play a vital role in uplifting the players during those tough moments.",
+  "prediction_sha256": "edd4215b645cac35b7e090c95fc26d31692791838c22c16e40966d9ca87210bb",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100358,
+  "usage": {
+    "completion_tokens": 95,
+    "prompt_tokens": 4906,
+    "prompt_tokens_details": null,
+    "total_tokens": 5001
+  }
+}

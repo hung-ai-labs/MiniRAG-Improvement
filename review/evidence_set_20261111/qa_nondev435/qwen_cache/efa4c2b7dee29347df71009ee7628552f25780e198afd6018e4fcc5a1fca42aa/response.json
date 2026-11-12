@@ -1,0 +1,17 @@
+{
+  "body_sha256": "efa4c2b7dee29347df71009ee7628552f25780e198afd6018e4fcc5a1fca42aa",
+  "finish_reason": "stop",
+  "latency_s": 5.612722042002133,
+  "prediction": "Chae first suggested visiting the music festival in the morning during a conversation where they expressed excitement for the event and asked if they needed to bring anything special. This suggestion was made when they were discussing the event with others, indicating that the music festival took place on a Saturday, and the attendees planned to gather before the event began. Specifically, Chae mentioned that they were \"really excited for it!\" and asked if they needed to bring anything special, suggesting that the discussion about the festival was taking place in the morning prior to the planned visit.",
+  "prediction_sha256": "7073621eaf928b95838ccffa5298cac79bfe7760d0f96044db865f1b1d0e7d9c",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 445,
+  "usage": {
+    "completion_tokens": 110,
+    "prompt_tokens": 5266,
+    "prompt_tokens_details": null,
+    "total_tokens": 5376
+  }
+}

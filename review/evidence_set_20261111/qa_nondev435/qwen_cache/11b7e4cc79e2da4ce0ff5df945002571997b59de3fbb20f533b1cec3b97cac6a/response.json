@@ -1,0 +1,17 @@
+{
+  "body_sha256": "11b7e4cc79e2da4ce0ff5df945002571997b59de3fbb20f533b1cec3b97cac6a",
+  "finish_reason": "stop",
+  "latency_s": 9.705725625000923,
+  "prediction": "In the provided conversation, Adam Smith invites Li Hua to join the community bake sale event. This invitation takes place in the first entry of the timeline, where Adam Smith informs Li Hua about the upcoming bake sale which is scheduled for the following Sunday at 3 PM to support a local charity. Li Hua expresses her interest and willingness to participate, indicating that Adam Smith is the one who initiates the invitation to attend the bake sale.",
+  "prediction_sha256": "c334f9c6a9801d93575ca782a4cc0655d9d98a1708393ff4d4e0392e1494bc42",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100092,
+  "usage": {
+    "completion_tokens": 90,
+    "prompt_tokens": 3909,
+    "prompt_tokens_details": null,
+    "total_tokens": 3999
+  }
+}

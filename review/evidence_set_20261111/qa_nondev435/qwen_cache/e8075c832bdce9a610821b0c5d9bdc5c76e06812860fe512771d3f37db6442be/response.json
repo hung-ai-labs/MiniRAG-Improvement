@@ -1,0 +1,17 @@
+{
+  "body_sha256": "e8075c832bdce9a610821b0c5d9bdc5c76e06812860fe512771d3f37db6442be",
+  "finish_reason": "stop",
+  "latency_s": 4.263487166001141,
+  "prediction": "In one of the conversations, Chae first suggested visiting the local music festival in the morning. Specifically, this suggestion was made in the context of discussing a potential outing with LiHua on the Saturday of a local festival. The exact time Chae suggested was not explicitly stated, but it was part of a broader discussion about exploring the festival and its offerings.",
+  "prediction_sha256": "9222d66a8fa1c8450830a485d789e1178cadda906bcb31dd510a4950c8b4da8d",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100445,
+  "usage": {
+    "completion_tokens": 73,
+    "prompt_tokens": 5233,
+    "prompt_tokens_details": null,
+    "total_tokens": 5306
+  }
+}

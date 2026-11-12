@@ -1,0 +1,17 @@
+{
+  "body_sha256": "d0c5fec964a4f5e81ee9a56e903a30290690f414644bb05c4b907700d135d9e8",
+  "finish_reason": "stop",
+  "latency_s": 13.9027975420031,
+  "prediction": "According to the records, Li Hua and Wolfgang are scheduled to meet for breakfast at a café downtown at 12:00 on the 9th of January, 2026. This is indicated in the conversation where Wolfgang mentions, \"Hey! Just wanted to remind you about our lunch at the cozy café downtown at 12:00. Can't wait to catch up! 😊\" Li Hua responds positively, saying, \"Thanks for the reminder! I'm really looking forward to it too! What do you feel like eating? 🍽️\". There is no mention of a change to this scheduled meeting time.",
+  "prediction_sha256": "3c861f56dbe348ca6333f9fe193b58d7c7d005707f7af6c06a6645a33b8d81dd",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 403,
+  "usage": {
+    "completion_tokens": 134,
+    "prompt_tokens": 4594,
+    "prompt_tokens_details": null,
+    "total_tokens": 4728
+  }
+}

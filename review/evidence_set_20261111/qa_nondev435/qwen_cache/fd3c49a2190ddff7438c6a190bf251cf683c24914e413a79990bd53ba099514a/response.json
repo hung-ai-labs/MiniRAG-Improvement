@@ -1,0 +1,17 @@
+{
+  "body_sha256": "fd3c49a2190ddff7438c6a190bf251cf683c24914e413a79990bd53ba099514a",
+  "finish_reason": "stop",
+  "latency_s": 7.611872375004168,
+  "prediction": "In one of the discussions, Li Hua expressed interest in creating a little playlist for her children, mentioning that she thought classic lullabies and gentle guitar melodies might be suitable. Chae Song-hwa agreed enthusiastically, suggesting that creating such a playlist would be fun and could set a calming atmosphere for the babies. He further proposed including some of their band's mellow tunes. Thus, they are considering adding classic lullabies, gentle guitar melodies, and their own band's music to the baby playlist.",
+  "prediction_sha256": "d321b43efb4fb1c20ca9ee999690748adf23cf0c482e8d7a14dd277d7a9ab564",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 190,
+  "usage": {
+    "completion_tokens": 103,
+    "prompt_tokens": 4172,
+    "prompt_tokens_details": null,
+    "total_tokens": 4275
+  }
+}

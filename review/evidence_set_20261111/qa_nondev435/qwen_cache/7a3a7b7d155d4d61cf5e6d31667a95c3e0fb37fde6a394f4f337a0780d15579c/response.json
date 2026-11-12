@@ -1,0 +1,17 @@
+{
+  "body_sha256": "7a3a7b7d155d4d61cf5e6d31667a95c3e0fb37fde6a394f4f337a0780d15579c",
+  "finish_reason": "stop",
+  "latency_s": 14.31773824999982,
+  "prediction": "For the soccer practice sessions mentioned, different times are proposed throughout the conversations. In one instance, Jake Watson suggests meeting at 10 AM on a weekend for a soccer training session, specifically stating \"We could practice some drills and go over the rules while playing.\" Later, another practice session is planned for Saturday afternoon at 4 PM at the usual spot. However, the most specific time mentioned for a soccer practice is 10 AM on a weekend, which Jake Watson proposes to Li Hua. There's also a practice session scheduled for Saturday at 4 PM, but it does not specify a particular weekend. Therefore, based on the provided data, the earliest and most specific time for a soccer practice is 10 AM on a weekend.",
+  "prediction_sha256": "ab980aa99a102560fcc0468c40939be81d4f99a7c0e2e3e06975d11af2781ccb",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 362,
+  "usage": {
+    "completion_tokens": 152,
+    "prompt_tokens": 5195,
+    "prompt_tokens_details": null,
+    "total_tokens": 5347
+  }
+}

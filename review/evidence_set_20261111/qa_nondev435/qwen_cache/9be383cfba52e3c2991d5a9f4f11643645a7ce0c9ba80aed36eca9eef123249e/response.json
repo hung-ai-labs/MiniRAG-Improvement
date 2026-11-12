@@ -1,0 +1,17 @@
+{
+  "body_sha256": "9be383cfba52e3c2991d5a9f4f11643645a7ce0c9ba80aed36eca9eef123249e",
+  "finish_reason": "stop",
+  "latency_s": 6.532814915997733,
+  "prediction": "On the occasion noted as \"Time: 20260918_18:00\", WolfgangSchulz suggests hitting Starbucks after work. He proposes that they try the new Frappuccino and mentions that he wants to chill and catch up before the weekend.",
+  "prediction_sha256": "888dccbe04ca0f923a3389a48aedadf686c73b4d2e9e4950aaa7f83ba96ed021",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 234,
+  "usage": {
+    "completion_tokens": 60,
+    "prompt_tokens": 5501,
+    "prompt_tokens_details": null,
+    "total_tokens": 5561
+  }
+}

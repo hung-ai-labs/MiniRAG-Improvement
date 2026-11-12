@@ -1,0 +1,17 @@
+{
+  "body_sha256": "b54c1cc478ef69c1cd7663a1eb2eed672fcc5e1289e8951d52e814c8c1e63af6",
+  "finish_reason": "stop",
+  "latency_s": 11.135417333000078,
+  "prediction": "JakeWatson provides several pieces of advice for maintaining muscle flexibility. He recommends including yoga and dynamic stretching techniques as part of a routine, stating that these will help improve flexibility and balance. Additionally, he suggests adding some dedicated stretching sessions, noting that these can really help with muscle tightness and soreness. He also emphasizes the importance of foam rolling, which can help with muscle tightness and recovery. Overall, JakeWatson stresses the significance of a balanced approach that includes a variety of stretching and recovery methods to support overall fitness and prevent injuries.",
+  "prediction_sha256": "530a3608d0000b09a4d8cd900535a27188da03abf2a2543391d2269862cf54e6",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 269,
+  "usage": {
+    "completion_tokens": 110,
+    "prompt_tokens": 4339,
+    "prompt_tokens_details": null,
+    "total_tokens": 4449
+  }
+}

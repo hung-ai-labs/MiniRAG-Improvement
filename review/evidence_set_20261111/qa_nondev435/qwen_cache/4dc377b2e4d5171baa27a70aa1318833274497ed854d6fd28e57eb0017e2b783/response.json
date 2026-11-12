@@ -1,0 +1,17 @@
+{
+  "body_sha256": "4dc377b2e4d5171baa27a70aa1318833274497ed854d6fd28e57eb0017e2b783",
+  "finish_reason": "stop",
+  "latency_s": 6.390949041997374,
+  "prediction": "According to JakeWatson, each stretch should be held for about 30 seconds. He specifically mentioned, \"Just hold each stretch for about 30 seconds.\" This advice was given in response to LiHua asking about the duration of stretches she should perform after her workouts.",
+  "prediction_sha256": "b40a0d6bdcf4c97f8ab09e7fe8303db9a6ac5235c904c1bdedc801113be13d03",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 270,
+  "usage": {
+    "completion_tokens": 58,
+    "prompt_tokens": 3367,
+    "prompt_tokens_details": null,
+    "total_tokens": 3425
+  }
+}

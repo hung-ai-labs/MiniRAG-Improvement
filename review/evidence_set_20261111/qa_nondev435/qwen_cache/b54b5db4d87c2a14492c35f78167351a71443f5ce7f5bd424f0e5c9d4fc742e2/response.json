@@ -1,0 +1,17 @@
+{
+  "body_sha256": "b54b5db4d87c2a14492c35f78167351a71443f5ce7f5bd424f0e5c9d4fc742e2",
+  "finish_reason": "stop",
+  "latency_s": 10.536939500001608,
+  "prediction": "Based on the conversation, Viper mentioned a strategy to improve stamina. Specifically, Viper suggested incorporating interval training into their cardio workouts. This involves alternating short bursts of high-intensity exercise with periods of rest or low-intensity exercise. According to Viper, interval training can be a great way to build endurance without overstressing the body. Additionally, Viper noted that this method can keep workouts interesting, allowing participants to gradually increase the intensity and duration of the intervals as they become more comfortable.",
+  "prediction_sha256": "bec612fc9ba7d3c1404c49cc0d246f8ae2cc79f5d6b37abb31d5de6362f5140b",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200172,
+  "usage": {
+    "completion_tokens": 100,
+    "prompt_tokens": 4211,
+    "prompt_tokens_details": null,
+    "total_tokens": 4311
+  }
+}

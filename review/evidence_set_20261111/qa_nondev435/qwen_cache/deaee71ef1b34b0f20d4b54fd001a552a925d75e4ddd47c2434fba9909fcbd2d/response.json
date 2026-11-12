@@ -1,0 +1,17 @@
+{
+  "body_sha256": "deaee71ef1b34b0f20d4b54fd001a552a925d75e4ddd47c2434fba9909fcbd2d",
+  "finish_reason": "stop",
+  "latency_s": 7.830407292000018,
+  "prediction": "On a particular day, Wolfgang and Li Hua were discussing plans for dinner. They decided on having hot pot as their main course. During their conversation, Wolfgang expressed a preference for cold beer to complement the hot pot meal. While no specific dessert was mentioned for that particular dinner date, it is clear from the context that Wolfgang and Li Hua were planning to enjoy a meal of hot pot with cold beer, indicating a casual and enjoyable evening together. No further desserts were discussed in the given data for that specific dinner date.",
+  "prediction_sha256": "64eb81c33e507a48efaed4a02f098458e62de2b9399b35211da81f9e14af66fe",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 441,
+  "usage": {
+    "completion_tokens": 106,
+    "prompt_tokens": 4501,
+    "prompt_tokens_details": null,
+    "total_tokens": 4607
+  }
+}

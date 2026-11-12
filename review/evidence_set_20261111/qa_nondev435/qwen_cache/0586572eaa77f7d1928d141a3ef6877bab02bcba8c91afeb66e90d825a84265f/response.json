@@ -1,0 +1,17 @@
+{
+  "body_sha256": "0586572eaa77f7d1928d141a3ef6877bab02bcba8c91afeb66e90d825a84265f",
+  "finish_reason": "stop",
+  "latency_s": 12.240866667001683,
+  "prediction": "In the conversation, LiHua mentions several TV series that are of interest. Specifically, he expresses curiosity about \"Succession,\" which is described as having intense business wars and family dynamics, similar to the complex and evolving character arcs in The Lord of the Rings. LiHua also recommends \"The Crown\" for its historical drama and character depth, alongside \"Ted Lasso,\" a light-hearted show that provides a contrast to the heavier fare. However, the primary series LiHua brings up in relation to The Lord of the Rings is \"Succession.\"",
+  "prediction_sha256": "6d60c8753deb89d0c0dc92dcd6241f8e31ff84eb2bc9ff01f3a4930a81771895",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100261,
+  "usage": {
+    "completion_tokens": 113,
+    "prompt_tokens": 4481,
+    "prompt_tokens_details": null,
+    "total_tokens": 4594
+  }
+}

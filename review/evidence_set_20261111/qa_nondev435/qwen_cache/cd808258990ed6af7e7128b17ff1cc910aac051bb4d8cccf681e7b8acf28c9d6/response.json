@@ -1,0 +1,17 @@
+{
+  "body_sha256": "cd808258990ed6af7e7128b17ff1cc910aac051bb4d8cccf681e7b8acf28c9d6",
+  "finish_reason": "stop",
+  "latency_s": 10.089605082997878,
+  "prediction": "There is no mention of The Lord of the Rings or any other TV series related to it in the provided conversations. The entities listed in the `Entities` table include \"TV SERIES\" and \"TV SERIES SUCCESSION,\" which relate to TV series generally rather than specific franchises or universes. Therefore, based on the information given, there is no TV series that LiHua is curious about that is specifically linked to The Lord of the Rings.",
+  "prediction_sha256": "ab9bac8ae382f64ec1f84ead551f1e8a9dba1e990031dd923d9bd5377fedb85d",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200261,
+  "usage": {
+    "completion_tokens": 92,
+    "prompt_tokens": 3985,
+    "prompt_tokens_details": null,
+    "total_tokens": 4077
+  }
+}

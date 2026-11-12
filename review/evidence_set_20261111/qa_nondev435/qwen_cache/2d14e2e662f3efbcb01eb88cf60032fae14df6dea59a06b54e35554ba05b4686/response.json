@@ -1,0 +1,17 @@
+{
+  "body_sha256": "2d14e2e662f3efbcb01eb88cf60032fae14df6dea59a06b54e35554ba05b4686",
+  "finish_reason": "stop",
+  "latency_s": 8.768461833999027,
+  "prediction": "In the last message from Turalyon dated October 24, 2026 at 11:00 AM, it was announced that the picnic was set for next Saturday. This decision was made to allow everyone enough time to prepare and bring their dishes. Therefore, the community members decided on the following Saturday for the picnic.",
+  "prediction_sha256": "bb470a8ea4d4a01080bc61181a934ff9cc8a08af019c7c239786aa5a7c77463d",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 395,
+  "usage": {
+    "completion_tokens": 71,
+    "prompt_tokens": 4854,
+    "prompt_tokens_details": null,
+    "total_tokens": 4925
+  }
+}

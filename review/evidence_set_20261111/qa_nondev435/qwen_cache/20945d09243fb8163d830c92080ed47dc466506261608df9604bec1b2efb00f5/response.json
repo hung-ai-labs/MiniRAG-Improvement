@@ -1,0 +1,17 @@
+{
+  "body_sha256": "20945d09243fb8163d830c92080ed47dc466506261608df9604bec1b2efb00f5",
+  "finish_reason": "stop",
+  "latency_s": 9.586488125001779,
+  "prediction": "On January 6th, Li Hua communicated with Adam regarding a plumbing issue in their apartment. Specifically, Li Hua informed Adam that the water tap was broken and needed to be fixed. This was a matter that required immediate attention and coordination between the two individuals to ensure the problem was resolved promptly. Li Hua also expressed readiness to accommodate the plumber's arrival scheduled for the following morning at 10 AM, and she appreciated Adam's assistance in handling the situation. Adam responded positively, offering to arrange for someone to inspect the issue as soon as possible and keeping Li Hua informed about the repair schedule. He also reassured Li Hua that she could reach out to him if she needed anything else concerning the matter.",
+  "prediction_sha256": "ef81769eaa14525d52f13305948f47197a86a6df2923840b0de93b0f1d5804dc",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100060,
+  "usage": {
+    "completion_tokens": 147,
+    "prompt_tokens": 3296,
+    "prompt_tokens_details": null,
+    "total_tokens": 3443
+  }
+}

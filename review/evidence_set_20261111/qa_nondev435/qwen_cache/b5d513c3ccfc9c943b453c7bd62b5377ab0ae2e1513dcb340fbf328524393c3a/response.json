@@ -1,0 +1,17 @@
+{
+  "body_sha256": "b5d513c3ccfc9c943b453c7bd62b5377ab0ae2e1513dcb340fbf328524393c3a",
+  "finish_reason": "stop",
+  "latency_s": 9.150123833001999,
+  "prediction": "ChaeSong-hwa has mentioned the community medical knowledge lecture multiple times. According to the records, the first reminder for the lecture was sent on April 11, 2026, at 7 PM (local time). The content of the message indicates that the event will cover basic health tips and common medical myths, which is aimed at the community. There is no further mention of the lecture being rescheduled or held at a different time. Therefore, based on the provided information, the community medical knowledge lecture is scheduled for 7 PM on April 11, 2026.",
+  "prediction_sha256": "3a4e9b3bb0366a78ede041a3d176c05e527796025dbd5affa9c3853e10156217",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100106,
+  "usage": {
+    "completion_tokens": 124,
+    "prompt_tokens": 3338,
+    "prompt_tokens_details": null,
+    "total_tokens": 3462
+  }
+}

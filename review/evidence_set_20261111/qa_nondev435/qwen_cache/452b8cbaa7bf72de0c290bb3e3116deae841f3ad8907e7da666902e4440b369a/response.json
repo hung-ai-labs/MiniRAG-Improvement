@@ -1,0 +1,17 @@
+{
+  "body_sha256": "452b8cbaa7bf72de0c290bb3e3116deae841f3ad8907e7da666902e4440b369a",
+  "finish_reason": "stop",
+  "latency_s": 8.617647709001176,
+  "prediction": "On June 25, 2026, Wolfgang proposed the song \"Viva la Vida\" by Coldplay for the band's practice set. This suggestion was made during a conversation where the participants discussed potential additions to their set list for the upcoming jam session. The song was described as popular among the crowd and suggested as a way to enhance the energy of their performance.",
+  "prediction_sha256": "0d1e9dc9dfb72a52a5d186471eb316df23e629e5ce864acad05143eccc91fb84",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 142,
+  "usage": {
+    "completion_tokens": 79,
+    "prompt_tokens": 5418,
+    "prompt_tokens_details": null,
+    "total_tokens": 5497
+  }
+}

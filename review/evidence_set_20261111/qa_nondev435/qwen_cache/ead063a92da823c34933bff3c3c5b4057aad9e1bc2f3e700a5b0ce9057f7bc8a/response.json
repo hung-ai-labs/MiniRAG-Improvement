@@ -1,0 +1,17 @@
+{
+  "body_sha256": "ead063a92da823c34933bff3c3c5b4057aad9e1bc2f3e700a5b0ce9057f7bc8a",
+  "finish_reason": "stop",
+  "latency_s": 10.637241957996594,
+  "prediction": "Based on the conversation, Hailey's Bakery is the name of the bakery that Li Hua receives her bread from. For the next delivery, Hailey recommended adding a drizzle of olive oil and a sprinkle of sea salt to the rosemary focaccia. Additionally, she suggested topping it with cherry tomatoes or olives for extra flavor. This recommendation comes from a previous interaction where Li Hua expressed interest in trying the new rosemary focaccia and received guidance on how to enhance its taste.",
+  "prediction_sha256": "71adc878a5fa814a5f66c01add0c8676676485492723d5b1604e49d54d47d637",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 420,
+  "usage": {
+    "completion_tokens": 102,
+    "prompt_tokens": 5067,
+    "prompt_tokens_details": null,
+    "total_tokens": 5169
+  }
+}

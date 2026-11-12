@@ -1,0 +1,17 @@
+{
+  "body_sha256": "2a5a925e20a51ab5c63cd64ac96ffcd06cc4cf2a0ffe20db861d21fb69092df6",
+  "finish_reason": "stop",
+  "latency_s": 6.312574042000051,
+  "prediction": "The purpose of the community picnic is to serve as the catalyst for various community events and gatherings, including the celebration of the newly established community garden. It is highlighted as an opportunity to start the picnic, which is meant to inspire and initiate other community initiatives and activities centered around the garden.",
+  "prediction_sha256": "6a517b5aa9d1672a0ec6ea14ef959816725fda99bf501628da420dfa1b4dd74e",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 391,
+  "usage": {
+    "completion_tokens": 58,
+    "prompt_tokens": 5195,
+    "prompt_tokens_details": null,
+    "total_tokens": 5253
+  }
+}

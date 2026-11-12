@@ -1,0 +1,17 @@
+{
+  "body_sha256": "54c92a46fc8781dbc467fd43526f8c866b489660856e61f73487f9ec5d1510f4",
+  "finish_reason": "stop",
+  "latency_s": 9.340130874996248,
+  "prediction": "The bread delivery service was introduced by HaileyJohnson. Specifically, HaileyJohnson shared this service with LiHua, informing her about the convenience of doorstep delivery for both milk and bread. HaileyJohnson recommended Alice, a new clerk hired to assist with this service, to handle the delivery tasks. Alice is described as \"super friendly\" and is responsible for delivering the bread to recipients on Mondays and Fridays at 8 AM.",
+  "prediction_sha256": "d1b19cc6d97563658bc59ddbabc1bdd21f4fc2adbf3f28b89eefb2ae0860b51f",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100035,
+  "usage": {
+    "completion_tokens": 87,
+    "prompt_tokens": 4382,
+    "prompt_tokens_details": null,
+    "total_tokens": 4469
+  }
+}

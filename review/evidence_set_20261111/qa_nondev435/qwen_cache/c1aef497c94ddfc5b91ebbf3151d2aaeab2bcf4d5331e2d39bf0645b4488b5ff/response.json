@@ -1,0 +1,17 @@
+{
+  "body_sha256": "c1aef497c94ddfc5b91ebbf3151d2aaeab2bcf4d5331e2d39bf0645b4488b5ff",
+  "finish_reason": "stop",
+  "latency_s": 8.335627792002924,
+  "prediction": "In one conversation, Emily Burnett asked Li Hua whether she has ever met someone as quirky and brilliant as Sheldon Cooper from the TV show \"Big Bang Theory.\" Li Hua responded, \"Not really! I mean, he’s one of a kind, right? I do meet interesting people, but nobody quite like him!\" This indicates that Emily Burnett has not personally met anyone who matches the description of Sheldon Cooper from the show.",
+  "prediction_sha256": "25d41cf7401d1edee5336778dc29fcdb8b34314a9cf5bbd8c339284462994bf4",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 202,
+  "usage": {
+    "completion_tokens": 87,
+    "prompt_tokens": 3959,
+    "prompt_tokens_details": null,
+    "total_tokens": 4046
+  }
+}

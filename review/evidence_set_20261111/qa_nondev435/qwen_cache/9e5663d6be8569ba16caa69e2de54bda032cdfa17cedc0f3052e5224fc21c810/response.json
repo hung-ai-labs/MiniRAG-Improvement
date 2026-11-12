@@ -1,0 +1,17 @@
+{
+  "body_sha256": "9e5663d6be8569ba16caa69e2de54bda032cdfa17cedc0f3052e5224fc21c810",
+  "finish_reason": "stop",
+  "latency_s": 8.689796457998455,
+  "prediction": "The first interaction between Wolfgang and Li Hua regarding the basement occurred in the conversation dated 20260219_20:00. In this exchange, Li Hua proposed adding some sound-insulating pads to the basement and asked for Adam Smith's consent, while Wolfgang expressed interest in checking out the basement and taking photos. This indicates that this was the first time Wolfgang had visited the basement.",
+  "prediction_sha256": "3ead8d9b94498158c1a6aaf38a544f9b197ac6a8d193962bbf3ec1e0f55c0d46",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200079,
+  "usage": {
+    "completion_tokens": 86,
+    "prompt_tokens": 4501,
+    "prompt_tokens_details": null,
+    "total_tokens": 4587
+  }
+}

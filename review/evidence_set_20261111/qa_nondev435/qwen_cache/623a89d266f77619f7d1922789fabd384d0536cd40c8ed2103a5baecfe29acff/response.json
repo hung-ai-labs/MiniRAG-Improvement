@@ -1,0 +1,17 @@
+{
+  "body_sha256": "623a89d266f77619f7d1922789fabd384d0536cd40c8ed2103a5baecfe29acff",
+  "finish_reason": "stop",
+  "latency_s": 6.931592834000185,
+  "prediction": "There is no mention of WolfgangSchulz inquiring about health products in any of the provided conversations. The interactions discussed revolve around musical activities, personal interests, and occasionally work-related matters. Therefore, based on the information given, it appears that WolfgangSchulz does not ask the band members about health products.",
+  "prediction_sha256": "7cb6451214e6c567cfffe6cb71d160ca248429c4aeb1d02c77d336e06ebf0259",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200128,
+  "usage": {
+    "completion_tokens": 65,
+    "prompt_tokens": 4343,
+    "prompt_tokens_details": null,
+    "total_tokens": 4408
+  }
+}

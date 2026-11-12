@@ -1,0 +1,17 @@
+{
+  "body_sha256": "36f885a3f54bbee51f81aefad7c0f146c4fc6e3f8f2f68e00ea40efd2533744c",
+  "finish_reason": "stop",
+  "latency_s": 8.948652333001519,
+  "prediction": "Based on the information provided, Wolfgang arrived in Hong Kong prior to informing Li Hua about his trip. Specifically, Wolfgang communicated his intention to visit Hong Kong for a couple of days next week in a conversation dated 20261219_19:00. He mentioned that he was looking for items to purchase while he was there, indicating that he had already planned his trip and was preparing for his arrival. This suggests that Wolfgang had already arrived in Hong Kong before discussing his travel plans with Li Hua.",
+  "prediction_sha256": "c48613ac69299a364c80de5203463f01ee5070c2a207b8d16d5135b01d5978f6",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100030,
+  "usage": {
+    "completion_tokens": 109,
+    "prompt_tokens": 4005,
+    "prompt_tokens_details": null,
+    "total_tokens": 4114
+  }
+}

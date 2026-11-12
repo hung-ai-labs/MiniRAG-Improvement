@@ -1,0 +1,17 @@
+{
+  "body_sha256": "d639399fa839639c01abf38f7cbd0272a505bd99e73bb8d5248dc9b99bf72abf",
+  "finish_reason": "stop",
+  "latency_s": 10.516813083999295,
+  "prediction": "On April 28, 2026, at 5 PM, the main topic of the conversation involves Adam Smith asking Li Hua if he has received the curtains, to which Li Hua confirms that he has indeed received them and expresses his appreciation for the patterns. Adam Smith assures Li Hua that he will assist in the installation of the curtains. Li Hua proposes setting a time for the installation together, and Adam Smith agrees to be available most evenings, ultimately agreeing to meet Li Hua at 5 PM on Wednesday.",
+  "prediction_sha256": "d440774565df5ca14492b14b60752fa347d0fe6a6360546572814af38361d48a",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200115,
+  "usage": {
+    "completion_tokens": 111,
+    "prompt_tokens": 5225,
+    "prompt_tokens_details": null,
+    "total_tokens": 5336
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "53892e230bac1849b89da5001e67d6432e22f7a1eb88371753a90a839aed9b5f",
+  "finish_reason": "stop",
+  "latency_s": 12.934027832998254,
+  "prediction": "On August 10, 2026, at 18:00, AdamSmith reaches out to LiHua with the intention of discussing the warranty and maintenance plans for the air conditioner. Specifically, Adam mentions that he just remembered needing to pick up the key for the basement at 9 am the following day. This implies that their initial contact was to remind LiHua about the upcoming task, as indicated by Adam's request for a good time to discuss it.",
+  "prediction_sha256": "5e5cdd0a79fb23dac2fe96049fa5ecd6f83a0b391158a47eb15ab3931a0bd70e",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 166,
+  "usage": {
+    "completion_tokens": 100,
+    "prompt_tokens": 5144,
+    "prompt_tokens_details": null,
+    "total_tokens": 5244
+  }
+}

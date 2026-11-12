@@ -1,0 +1,17 @@
+{
+  "body_sha256": "a2f1274e4084e30ee74dd339e336c5abb779306ad54ff442a39c79b8aed13112",
+  "finish_reason": "stop",
+  "latency_s": 5.259079417002795,
+  "prediction": "According to the conversation, Adam Smith is okay with Li Hua adding decorations like sound-insulating pads to the basement, provided that the modifications are reversible and do not damage anything. This was discussed during their initial meeting regarding the basement's use.",
+  "prediction_sha256": "dcef3638601dda07e3d7a19ebe2efb48e4f21ffa33b558f62c89566632354963",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 78,
+  "usage": {
+    "completion_tokens": 50,
+    "prompt_tokens": 3265,
+    "prompt_tokens_details": null,
+    "total_tokens": 3315
+  }
+}

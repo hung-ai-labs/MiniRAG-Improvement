@@ -1,0 +1,17 @@
+{
+  "body_sha256": "d6b13362720407dd64f66ea11f56527ebbb93dad4be1c81e3d0597cf8ad32b2c",
+  "finish_reason": "stop",
+  "latency_s": 8.739979957998003,
+  "prediction": "During their conversation, Wolfgang Schulz and Li Hua discuss the possibility of exploring fusion music by mixing jazz elements with rock. Specifically, Wolfgang suggests experimenting with different styles during their planned jam session on Sunday. They express excitement about creating something new and unique by blending rock classics with jazz, indicating that they aim to produce a fusion of these musical genres. This fusion approach allows them to take their music to a new level and create something innovative together.",
+  "prediction_sha256": "4088d7323dcdf6d7b28ab90208fd896e91d9e91c9373d3cde520db930dccf0fc",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 436,
+  "usage": {
+    "completion_tokens": 90,
+    "prompt_tokens": 3955,
+    "prompt_tokens_details": null,
+    "total_tokens": 4045
+  }
+}

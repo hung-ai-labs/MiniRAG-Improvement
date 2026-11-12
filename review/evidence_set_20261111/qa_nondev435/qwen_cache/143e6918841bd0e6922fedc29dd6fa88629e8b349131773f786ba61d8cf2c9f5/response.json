@@ -1,0 +1,17 @@
+{
+  "body_sha256": "143e6918841bd0e6922fedc29dd6fa88629e8b349131773f786ba61d8cf2c9f5",
+  "finish_reason": "stop",
+  "latency_s": 9.953982999999425,
+  "prediction": "The bread delivery service was introduced by HaileyJohnson, who shared the news with LiHua, stating, \"Hey Li Hua! I wanted to let you know that I’m launching a new line of gluten-free bread options! 🎉🥖 Perfect for anyone who needs an alternative. Can’t wait for you to try it!\" HaileyJohnson also recommended Alice for handling the delivery service, specifically mentioning, \"I've hired a new clerk, Alice, to help with our doorstep delivery service for milk and bread.\"",
+  "prediction_sha256": "bbbd66f4fb9edf8c24a15d50c17805286e1a37d6fb5ea1d3ac1aa25e515de4c0",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 35,
+  "usage": {
+    "completion_tokens": 106,
+    "prompt_tokens": 5142,
+    "prompt_tokens_details": null,
+    "total_tokens": 5248
+  }
+}

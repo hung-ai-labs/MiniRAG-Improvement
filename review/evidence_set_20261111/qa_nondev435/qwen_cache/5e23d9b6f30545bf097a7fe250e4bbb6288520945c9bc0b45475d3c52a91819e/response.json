@@ -1,0 +1,17 @@
+{
+  "body_sha256": "5e23d9b6f30545bf097a7fe250e4bbb6288520945c9bc0b45475d3c52a91819e",
+  "finish_reason": "stop",
+  "latency_s": 7.363998125001672,
+  "prediction": "In the conversation recorded on December 29, 2026 at 20:30, Gavriel mentioned that he loves \"The Witcher 3\" because of its rich character development and the plot twists it offers. Specifically, Gavriel expressed appreciation for the choices Geralt makes throughout the game and highlighted the dynamic relationship between Geralt and Yennefer. He also noted the impactful storytelling and the Gwent mini-game, which adds an extra layer of fun to the game.",
+  "prediction_sha256": "b33a8954fdf6106b4b9f5a0abeda404e2d1e8da3312e41978aadcb670b780543",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100321,
+  "usage": {
+    "completion_tokens": 104,
+    "prompt_tokens": 3704,
+    "prompt_tokens_details": null,
+    "total_tokens": 3808
+  }
+}

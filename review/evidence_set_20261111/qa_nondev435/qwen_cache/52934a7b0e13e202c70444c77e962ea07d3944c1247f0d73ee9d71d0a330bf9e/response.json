@@ -1,0 +1,17 @@
+{
+  "body_sha256": "52934a7b0e13e202c70444c77e962ea07d3944c1247f0d73ee9d71d0a330bf9e",
+  "finish_reason": "stop",
+  "latency_s": 11.362768792001589,
+  "prediction": "Yes, Wolfgang Schulz recommended the band to learn and play \"Viva la Vida\" by Coldplay for their Sunday jam session. This recommendation was made during a conversation between Wolfgang and Li Hua, where they agreed on the song as a good choice for the set list. Additionally, Wolfgang expressed enthusiasm about the energy the song would bring to their performance, noting that it's a fun song to play on the drums.",
+  "prediction_sha256": "2ea091b9d8f8c9579f5fdf99f3bb795cfa1d7e385794dea6aa3a587f3c65e538",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 19,
+  "usage": {
+    "completion_tokens": 87,
+    "prompt_tokens": 4689,
+    "prompt_tokens_details": null,
+    "total_tokens": 4776
+  }
+}

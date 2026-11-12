@@ -1,0 +1,17 @@
+{
+  "body_sha256": "bcb53942fa1bece90b33abaac49fd6eb95db2b315839cd574a29b9b68f1fe42d",
+  "finish_reason": "stop",
+  "latency_s": 7.905886749998899,
+  "prediction": "For the various instances of soccer practice mentioned, the times vary. In one instance, Jake Watson and Li Hua decide to meet up for a practice session focusing on shooting at the park on Saturday at 3 PM. However, another instance mentions a passing drill practice session on Saturday afternoon at 4 PM at the usual spot. Therefore, the times for soccer practice are set for either 3 PM on Saturday or 4 PM on Saturday, depending on the specific practice session.",
+  "prediction_sha256": "e286e1a81b6d59d7c056c59936633e820fb17d55f4aa2c6216777fab37b5e274",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100362,
+  "usage": {
+    "completion_tokens": 97,
+    "prompt_tokens": 4205,
+    "prompt_tokens_details": null,
+    "total_tokens": 4302
+  }
+}

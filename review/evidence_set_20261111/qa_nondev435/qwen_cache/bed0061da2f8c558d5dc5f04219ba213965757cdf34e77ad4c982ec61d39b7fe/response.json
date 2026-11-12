@@ -1,0 +1,17 @@
+{
+  "body_sha256": "bed0061da2f8c558d5dc5f04219ba213965757cdf34e77ad4c982ec61d39b7fe",
+  "finish_reason": "stop",
+  "latency_s": 10.919130083999335,
+  "prediction": "In the conversation, JakeWatson mentions a memorable match from the Champions League final against Manchester United in 2009. Specifically, Jake recalls how \"Puyol's leadership was evident, and Piqué was solid at the back, making those key interceptions.\" This match was described as an \"epic comeback\" and a \"proud moment\" for him, given that Puyol lifted the trophy and Messi scored the crucial goal. This goal is often referred to as \"pure magic\" and is considered a match that stands out in the Champions League history.",
+  "prediction_sha256": "8378f19015224eb4ce13c0996f397af2d11d984d433b4b8825a62e02d8598fe1",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100228,
+  "usage": {
+    "completion_tokens": 116,
+    "prompt_tokens": 4160,
+    "prompt_tokens_details": null,
+    "total_tokens": 4276
+  }
+}

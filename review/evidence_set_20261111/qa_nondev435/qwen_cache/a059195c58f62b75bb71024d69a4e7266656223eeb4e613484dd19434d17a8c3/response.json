@@ -1,0 +1,17 @@
+{
+  "body_sha256": "a059195c58f62b75bb71024d69a4e7266656223eeb4e613484dd19434d17a8c3",
+  "finish_reason": "stop",
+  "latency_s": 12.694123084002058,
+  "prediction": "During the bakery's anniversary event, Li Hua specifically expressed enthusiasm for the new bread products. However, the table does not provide details about which specific flavor or type of new bread products were introduced. The conversation between Hailey Johnson and Li Hua mainly focused on the upcoming anniversary event, its duration (April 15 to 17), and the various discounts being offered, including discounts on new bread products. Li Hua indicated her excitement about the event and expressed a desire to celebrate by visiting the bakery. Therefore, while we know Li Hua enjoyed the new bread products, we do not have the exact flavor she particularly appreciated.",
+  "prediction_sha256": "ffb51f3bb22c77cbb33741d4d45c2eb3d72372ecfae608f0e85f472efe080ea8",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200424,
+  "usage": {
+    "completion_tokens": 130,
+    "prompt_tokens": 4542,
+    "prompt_tokens_details": null,
+    "total_tokens": 4672
+  }
+}

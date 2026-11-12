@@ -1,0 +1,17 @@
+{
+  "body_sha256": "34f5e87497ae28eb0d2e1b7eb53ba91133eab492f6dd12a51412e68be638bf1a",
+  "finish_reason": "stop",
+  "latency_s": 8.864868833999935,
+  "prediction": "In one of the discussions, Thrall mentioned organizing a community sports day. This event was planned to take place soon and was intended to be a great opportunity for the community to get involved, meet neighbors, and have some fun. The sports day would likely include various team sports and fun activities for children, along with refreshments to keep everyone energized throughout the day. Thrall emphasized the importance of good weather for the event and highlighted the potential for the new garden to serve as a wonderful backdrop for all the activities.",
+  "prediction_sha256": "4580817a36132edef845fd255a41a7df022b86f734710b30c4f886ec6aea8ea7",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 114,
+  "usage": {
+    "completion_tokens": 105,
+    "prompt_tokens": 4067,
+    "prompt_tokens_details": null,
+    "total_tokens": 4172
+  }
+}

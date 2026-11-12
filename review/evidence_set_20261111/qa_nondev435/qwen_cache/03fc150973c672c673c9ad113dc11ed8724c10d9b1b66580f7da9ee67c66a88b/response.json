@@ -1,0 +1,17 @@
+{
+  "body_sha256": "03fc150973c672c673c9ad113dc11ed8724c10d9b1b66580f7da9ee67c66a88b",
+  "finish_reason": "stop",
+  "latency_s": 15.359280875003606,
+  "prediction": "In the conversations provided, Wolfgang Schulz is the one who offers to check with friends for live music performances. This is evident from the following exchange:\n\n```\nTime: 20260302_18:00\nWolfgangSchulz: Hey! Got an extra ticket for a concert on March 7th at 6 PM. Wanna join me? Would be awesome to catch up and enjoy some live music!\nLiHua: That sounds amazing! I'm totally in! Can't wait! 🎶 \n```\n\nHere, Wolfgang Schulz suggests attending a concert with Li Hua, indicating his interest in live music performances. This behavior is repeated later when he proposes a trip to a local music store to check out new gear for their next jam session, showing his enthusiasm for live music experiences.",
+  "prediction_sha256": "ec455abbe549cc8ad32e2b874af1f7c21984f2ef716fbc8cb3beea6d318852ec",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200342,
+  "usage": {
+    "completion_tokens": 172,
+    "prompt_tokens": 5220,
+    "prompt_tokens_details": null,
+    "total_tokens": 5392
+  }
+}

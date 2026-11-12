@@ -1,0 +1,17 @@
+{
+  "body_sha256": "8a350894eab0e1900fe3703771019d594fa7ad3ee0af3c5b12803981c33cd441",
+  "finish_reason": "stop",
+  "latency_s": 3.8431151249969844,
+  "prediction": "In the conversation provided, it is clear that LiHua will be responsible for picking up the snacks and drinks for the movie night. Specifically, LiHua mentions, \"I'll pick them up on my way.\" This indicates that LiHua is handling the logistics of obtaining the requested items for the movie night, which includes both snacks and beverages.",
+  "prediction_sha256": "84559b5e2f328ec2c2c99c1dabb29d1a847d717d83bb116ebc3688ae9b91f61d",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100307,
+  "usage": {
+    "completion_tokens": 72,
+    "prompt_tokens": 4923,
+    "prompt_tokens_details": null,
+    "total_tokens": 4995
+  }
+}

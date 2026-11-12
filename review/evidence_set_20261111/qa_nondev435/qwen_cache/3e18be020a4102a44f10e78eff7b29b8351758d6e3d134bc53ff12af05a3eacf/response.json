@@ -1,0 +1,17 @@
+{
+  "body_sha256": "3e18be020a4102a44f10e78eff7b29b8351758d6e3d134bc53ff12af05a3eacf",
+  "finish_reason": "stop",
+  "latency_s": 11.685029375003069,
+  "prediction": "LiHua mentions that seeing a poster for a local music festival in their town presents an opportunity for the Jolly Band to perform in front of an audience. Specifically, he says, \"Time: 20260617_17:00\\nLiHua: Did you see the poster saying that our town is holding a local music festival? It looks like it can be an opportunity for our band to perform in front of the crowd!\" Thus, the local music festival is the event LiHua perceives as a potential platform for the Jolly Band to showcase their talents.",
+  "prediction_sha256": "9f3e060159b5628b0e9d9fdb53f0e2b1529366d099962c695b3fa29c612bcc73",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200138,
+  "usage": {
+    "completion_tokens": 124,
+    "prompt_tokens": 4489,
+    "prompt_tokens_details": null,
+    "total_tokens": 4613
+  }
+}

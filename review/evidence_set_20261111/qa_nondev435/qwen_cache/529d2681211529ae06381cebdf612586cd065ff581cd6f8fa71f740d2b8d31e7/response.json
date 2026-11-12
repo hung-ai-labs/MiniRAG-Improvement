@@ -1,0 +1,17 @@
+{
+  "body_sha256": "529d2681211529ae06381cebdf612586cd065ff581cd6f8fa71f740d2b8d31e7",
+  "finish_reason": "stop",
+  "latency_s": 10.199823709001066,
+  "prediction": "Based on the conversation, Li Hua indicated a desire for a bread delivery to be made to her home. Specifically, in a message dated 20260314_17:00, Li Hua mentioned, \"My address is 123 Sunny Street. Can't wait for the bread delivery! Thanks a lot, Hailey! 🌟\". This indicates that Li Hua wants the bread delivery to be made to the address 123 Sunny Street.",
+  "prediction_sha256": "4c87e5d8ceaebfbc5ba2dfe8bd5d036ebc5b8d349b84ac9e5c2913fad5817a01",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100094,
+  "usage": {
+    "completion_tokens": 103,
+    "prompt_tokens": 4231,
+    "prompt_tokens_details": null,
+    "total_tokens": 4334
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "cc964a74afcf99359f3b8314020a9ac54d465fcaab53adbfa036e6b39971b790",
+  "finish_reason": "stop",
+  "latency_s": 11.37846804199944,
+  "prediction": "Yes, based on the conversation, Li Hua did inquire about his opinion on The Last of Us prior to asking about Sekiro: Shadows Die Twice. In the initial exchange, Li Hua states, \"Hey Thane! What do you think about The Last of Us? I'm thinking of picking it up. Would love to hear your thoughts!\" This indicates that Li Hua sought Thane's perspective on The Last of Us before moving on to discuss Sekiro: Shadows Die Twice.",
+  "prediction_sha256": "d62b0ed4ee41b538ee4a8adcbf5426531bf1879be643ed08647c727e09e82a87",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100024,
+  "usage": {
+    "completion_tokens": 100,
+    "prompt_tokens": 4683,
+    "prompt_tokens_details": null,
+    "total_tokens": 4783
+  }
+}

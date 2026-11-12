@@ -1,0 +1,17 @@
+{
+  "body_sha256": "d024a86473d8e811d00e81b2f5bfdcc4a5e54383260341248b32773812b1ba77",
+  "finish_reason": "stop",
+  "latency_s": 12.173029875004431,
+  "prediction": "On March 7th, WolfgangSchulz and LiHua plan to attend a concert. The exact name of the concert isn't specified in the provided data, but it is referred to as \"the concert\" multiple times in the conversations. Specifically, Wolfgang mentions, \"Got an extra ticket for a concert on March 7th at 6 PM. Wanna join me?\" and LiHua responds, \"That sounds amazing! I'm totally in!\" Therefore, the concert Wolfgang and Li Hua plan to attend on March 7th is simply called \"the concert.\"",
+  "prediction_sha256": "737ed2f71b1e6642a3d47290138e78e1f89fdd0bf44767c912bd1705be30201b",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 415,
+  "usage": {
+    "completion_tokens": 118,
+    "prompt_tokens": 4739,
+    "prompt_tokens_details": null,
+    "total_tokens": 4857
+  }
+}

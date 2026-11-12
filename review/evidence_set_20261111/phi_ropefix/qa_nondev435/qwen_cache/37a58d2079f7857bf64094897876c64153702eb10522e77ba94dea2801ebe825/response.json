@@ -1,0 +1,17 @@
+{
+  "body_sha256": "37a58d2079f7857bf64094897876c64153702eb10522e77ba94dea2801ebe825",
+  "finish_reason": "stop",
+  "latency_s": 7.284078583004884,
+  "prediction": " Adam Smith provided Li Hua with the contact number for the maintenance worker who could fix the broken streetlight. The phone number given is 314159.\n\nHere's a markdown-formatted response with an emphasis on structuring and clarity:\n\n```markdown\n### Maintenance Worker Contact Information\n\nAdam Smith informed Li Hua that for the issue with the broken streetlight, the maintenance worker can be reached at the following number:\n\n- **Phone Number:** 314159\n\nThis detail was shared to assist Li Hua in reporting and resolving the streetlight problem promptly.\n```\n\nEnsure you have Li Hua written down the number or make a note if needed for further reference.",
+  "prediction_sha256": "e9737458872145532f2e8aafa2813732e023bbaf5a6500098e6a04c7545100db",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 200132,
+  "usage": {
+    "completion_tokens": 168,
+    "prompt_tokens": 5646,
+    "prompt_tokens_details": null,
+    "total_tokens": 5814
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "7daa9a51539eef33fe22b541d048387dc0d421f62d6ca58243d0c372d0e75263",
+  "finish_reason": "stop",
+  "latency_s": 9.54818641699967,
+  "prediction": "Based on the conversations recorded, Jennifer Moore suggested several exercises for Li Hua to perform at home. Initially, Jennifer encouraged Li Hua to consider incorporating more resistance training into his workout routine. This included suggesting the addition of more exercises that involve lifting weights to build strength. Additionally, Jennifer recommended adding some dedicated stretching or yoga sessions to improve flexibility. These recommendations were aimed at enhancing Li Hua's overall fitness and helping him achieve his fitness goals. The specific exercises were not detailed, but the context indicates that these suggestions were tailored to Li Hua's current routine and objectives.",
+  "prediction_sha256": "e57d990e0335ff15d4f632c5b9f07612654ce979c1813dcfcc033a74f2629f67",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200077,
+  "usage": {
+    "completion_tokens": 116,
+    "prompt_tokens": 4505,
+    "prompt_tokens_details": null,
+    "total_tokens": 4621
+  }
+}

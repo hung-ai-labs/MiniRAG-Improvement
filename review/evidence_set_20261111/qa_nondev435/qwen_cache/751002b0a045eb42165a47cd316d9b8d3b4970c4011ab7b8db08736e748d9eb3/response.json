@@ -1,0 +1,17 @@
+{
+  "body_sha256": "751002b0a045eb42165a47cd316d9b8d3b4970c4011ab7b8db08736e748d9eb3",
+  "finish_reason": "stop",
+  "latency_s": 7.598100375002105,
+  "prediction": "During their dinner celebration, Wolfgang suggested trying the restaurant's risotto, as he heard it was really good. However, Wolfgang also shared that he was thinking of ordering a classic cheeseburger, which is a classic fast food option he enjoys. There isn't specific mention of a dessert Wolfgang planned to order for Li Hua, but based on the context, it seems Wolfgang was focused on sharing his meal preferences rather than planning a dessert specifically for Li Hua.",
+  "prediction_sha256": "165d14453f374288fbdcc4c3dba1ea4355115089075d4d1d68b315b8b959de09",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200426,
+  "usage": {
+    "completion_tokens": 93,
+    "prompt_tokens": 4624,
+    "prompt_tokens_details": null,
+    "total_tokens": 4717
+  }
+}

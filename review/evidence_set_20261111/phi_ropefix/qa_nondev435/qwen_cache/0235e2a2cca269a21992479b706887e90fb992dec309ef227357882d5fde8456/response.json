@@ -1,0 +1,17 @@
+{
+  "body_sha256": "0235e2a2cca269a21992479b706887e90fb992dec309ef227357882d5fde8456",
+  "finish_reason": "stop",
+  "latency_s": 5.056485500001145,
+  "prediction": " Adam Smith provided Li Hua with the contact number for the maintenance worker to address the issue of a broken streetlight. The phone number given is:\n\n```\n314159\n```\n\nThis information allows Li Hua to directly reach out to the maintenance team for resolving the problem with the streetlight. It's important for Li Hua to have this number readily available in case further issues arise that require maintenance attention.",
+  "prediction_sha256": "d1759727dae7f23249ecdd915829738120055722d729eab7effcf5eb8afbd95e",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 132,
+  "usage": {
+    "completion_tokens": 93,
+    "prompt_tokens": 5646,
+    "prompt_tokens_details": null,
+    "total_tokens": 5739
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "0872133766955986e982283257d15c850196728825540ab8f51772501eeee74b",
+  "finish_reason": "stop",
+  "latency_s": 6.772432541998569,
+  "prediction": "During their dinner celebration, Wolfgang expressed interest in ordering the risotto, which he had heard was particularly good. However, Li Hua suggested getting the pasta instead. This indicates that Wolfgang was open to trying the risotto, but Li Hua had a preference for the pasta. No specific dessert was mentioned for Wolfgang to order.",
+  "prediction_sha256": "e8298eada5a1d76dca853b2d96d500379bf3c5eaaff575d851341e8ff61b27fc",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 426,
+  "usage": {
+    "completion_tokens": 67,
+    "prompt_tokens": 4571,
+    "prompt_tokens_details": null,
+    "total_tokens": 4638
+  }
+}

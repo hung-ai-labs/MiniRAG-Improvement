@@ -1,0 +1,17 @@
+{
+  "body_sha256": "db97a0b1a4161e69676407d7ade315cc06bdac630d15c99731845c3caf6f0a61",
+  "finish_reason": "stop",
+  "latency_s": 12.353148292000697,
+  "prediction": "In the month of May, Hailey's Bakery offered several special events and promotions at her bakery. One notable event was a free baking class that was hosted on the weekend. Additionally, a bread-tasting event was organized from 10 am to 2 pm on a Saturday, where customers could sample different types of bread and provide feedback to help Hailey Johnson improve her recipes. Another special promotion included a 20% discount on bread purchases on the last day of the month, which encouraged customers to visit the bakery. These special offerings not only enhanced the customer experience but also allowed Hailey to gather valuable feedback on her products and services.",
+  "prediction_sha256": "e717cb689cc455bbeaa39caf4ee796ac6e9c8e13eff29012b8c949a0d0666403",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200037,
+  "usage": {
+    "completion_tokens": 131,
+    "prompt_tokens": 5095,
+    "prompt_tokens_details": null,
+    "total_tokens": 5226
+  }
+}

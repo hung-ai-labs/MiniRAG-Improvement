@@ -1,0 +1,17 @@
+{
+  "body_sha256": "ccbc6b9877c4b9855a69677c9385ed5f0c0bfcc0f95d71ced158c8b931392dba",
+  "finish_reason": "stop",
+  "latency_s": 5.813752000001841,
+  "prediction": " On April 25, 2026, Li Hua introduced her friend to the band's jam session. Her friend, Chae, is a neurosurgeon who enjoys singing and has been part of a musical club in college. Chae shares her love for singing and warm songs. She has also expressed interest in collaborating with the band and performing during their jam sessions, particularly enjoying classic rock and acoustic songs. The group is excited about the prospect of her joining them and the new perspectives and stories she brings to the group's musical endeavors.",
+  "prediction_sha256": "9814a3061b9c2030a11c33f7dc0319f6f303fbcac936f4e206b659700aaf13cc",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 200113,
+  "usage": {
+    "completion_tokens": 124,
+    "prompt_tokens": 5209,
+    "prompt_tokens_details": null,
+    "total_tokens": 5333
+  }
+}

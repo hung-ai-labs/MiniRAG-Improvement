@@ -1,0 +1,17 @@
+{
+  "body_sha256": "1e34ce2f691d926ef2d75a98699e7ae8d7e72919f86dbc2e7f2e545fffd5f4bb",
+  "finish_reason": "stop",
+  "latency_s": 11.551239291999082,
+  "prediction": "The bread delivery service was introduced by HaileyJohnson. Alice was recommended for the delivery due to her involvement in the doorstep delivery service for milk and bread, which HaileyJohnson highlighted in one of her messages. Specifically, HaileyJohnson stated, \"I've hired a new clerk, Alice, to help with our doorstep delivery service for milk and bread. She's super friendly and will be taking care of your orders every Monday and Friday at 8am.\" This recommendation indicates that Alice was chosen based on her positive attributes and her role in the delivery service.",
+  "prediction_sha256": "83adb00f16271a91493c293f5718412f379441d7d3c25fe2a0270fb13486573f",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100035,
+  "usage": {
+    "completion_tokens": 113,
+    "prompt_tokens": 4225,
+    "prompt_tokens_details": null,
+    "total_tokens": 4338
+  }
+}

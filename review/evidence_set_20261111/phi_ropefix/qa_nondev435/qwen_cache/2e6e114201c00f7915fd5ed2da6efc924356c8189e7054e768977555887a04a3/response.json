@@ -1,0 +1,17 @@
+{
+  "body_sha256": "2e6e114201c00f7915fd5ed2da6efc924356c8189e7054e768977555887a04a3",
+  "finish_reason": "stop",
+  "latency_s": 11.413908957998501,
+  "prediction": " Li Hua has expressed the intention to celebrate Chinese Lunar New Year at her place on January 18th. This information is shared during a conversation on January 13th, as recorded in the data table entries with id 1. Li Hua's enthusiasm for the celebration is reflected in her desire to catch up with friends and enjoy a festive atmosphere, including traditional food and possibly a visit to a local festival. Wolfgang Schulz confirms his interest in joining the celebration and suggests dumplings as a perfect choice for the occasion, to which Li Hua agrees and adds that she will ensure a variety of drinks are also available.\n\n```markdown\n## Chinese Lunar New Year Celebration\n\n- **Date Mentioned**: January 18th\n- **Participants**:\n  - Li Hua: Planning to host the celebration, enjoying local festivities and traditional food such as rice cakes.\n  - Wolfgang Schulz: Excited to join, interested in dumplings and plans for green tea and traditional Chinese drinks.\n\nThe discussion highlights the participants' shared enjoyment of Chinese New Year traditions, particularly the significance of sharing a meal and experiencing cultural festivities together.\n```",
+  "prediction_sha256": "02ab12777fae96008294dc6b3a381ad3ea94975eaf3f8c92bd10756b3fadaa2e",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 100064,
+  "usage": {
+    "completion_tokens": 278,
+    "prompt_tokens": 5176,
+    "prompt_tokens_details": null,
+    "total_tokens": 5454
+  }
+}

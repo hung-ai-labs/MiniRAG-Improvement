@@ -1,0 +1,17 @@
+{
+  "body_sha256": "d51467f67bc7008c225710a262ab15bff9e861ffa219598c4ae5234e0812376e",
+  "finish_reason": "stop",
+  "latency_s": 9.671312875001604,
+  "prediction": "In one of Li Hua's memorable matches in \"Call of Duty: Warzone,\" they managed to outsmart the last team and secure victory in a highly competitive final circle. This accomplishment exemplified the strategy and teamwork required in the game, showcasing Li Hua's ability to navigate complex situations effectively. Li Hua described the excitement and adrenaline rush of winning such a match as unbeatable, highlighting the thrilling nature of the game.",
+  "prediction_sha256": "b92f23a32f0b338968d93423b373e65aa9a0289867325ad09bc47ad8471805ac",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100240,
+  "usage": {
+    "completion_tokens": 88,
+    "prompt_tokens": 4330,
+    "prompt_tokens_details": null,
+    "total_tokens": 4418
+  }
+}

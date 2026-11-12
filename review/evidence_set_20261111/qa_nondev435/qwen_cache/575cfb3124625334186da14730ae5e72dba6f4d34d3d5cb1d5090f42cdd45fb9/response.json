@@ -1,0 +1,17 @@
+{
+  "body_sha256": "575cfb3124625334186da14730ae5e72dba6f4d34d3d5cb1d5090f42cdd45fb9",
+  "finish_reason": "stop",
+  "latency_s": 8.26113195900325,
+  "prediction": "Jasper mentions a specific comeback by Manchester City in a Champions League match against Real Madrid in 2022. During this match, Manchester City found themselves down by two goals but managed to come back and score two goals in quick succession, securing a victory. This dramatic comeback showcased Manchester City's resilience and determination, attributes that have become synonymous with the team.",
+  "prediction_sha256": "8170ece3846454dcc4f71a974479cd1148d2ea7a85e8dfc52acbd5e559e962d0",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100302,
+  "usage": {
+    "completion_tokens": 74,
+    "prompt_tokens": 4607,
+    "prompt_tokens_details": null,
+    "total_tokens": 4681
+  }
+}

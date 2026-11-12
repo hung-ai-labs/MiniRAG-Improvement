@@ -1,0 +1,17 @@
+{
+  "body_sha256": "b2342e51ae1f71a9b418083ec26616369aaddc70dd4f7278aa12896d16a15fa5",
+  "finish_reason": "stop",
+  "latency_s": 8.571365499999956,
+  "prediction": "The purpose of the community picnic is announced in the message \"SIGNATURE DISH TO IMPRESS! 😄🍽️ LET'S GET THIS PICNIC GOING!\". This announcement serves as the catalyst for the event, indicating that a picnic is being organized to serve as a social gathering and to promote the community garden. It highlights the intention to bring people together for a meal and a chance to enjoy the garden's newly improved spaces.",
+  "prediction_sha256": "e430ca86cb1e2c20d60d076d413fb8967c7e44db531d14c4df7a6178eebb1864",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 391,
+  "usage": {
+    "completion_tokens": 87,
+    "prompt_tokens": 4766,
+    "prompt_tokens_details": null,
+    "total_tokens": 4853
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "4f52e631c51bbdfd9be5924af4d0889cc27f2916f5d7aa586ba92b17b065c9c9",
+  "finish_reason": "stop",
+  "latency_s": 7.25635095799953,
+  "prediction": "According to the conversation, Li Hua was initially unsure about the rules regarding hanging artwork on the walls. However, Adam Smith assured Li Hua that he could hang his artwork as long as it didn't damage the walls. He recommended using removable hooks. Therefore, it seems that Li Hua can hang his artworks on the wall, provided he follows the advice given.",
+  "prediction_sha256": "12807b897f1fc3f0d89257534e1599c0946d78568bf52503b6c1abbeb34d9a8b",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 71,
+  "usage": {
+    "completion_tokens": 75,
+    "prompt_tokens": 3189,
+    "prompt_tokens_details": null,
+    "total_tokens": 3264
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "989ead31e24fd4c9d577f6e425cbb770d51ad0b4231b2c9a1c5c6f8e9fab31cb",
+  "finish_reason": "stop",
+  "latency_s": 5.1328030840013525,
+  "prediction": " The provided data tables and conversation excerpts do not contain any information regarding Li Hua going to watch the movie \"Overwatch 3\" with anyone. Therefore, based on the available information, it is not possible to determine with whom Li Hua might go to watch the movie. If this question relates to information not present in the given data, then the answer is that there is no known information about Li Hua's plans to watch \"Overwatch 3\" with another person.",
+  "prediction_sha256": "ff495118e0eee8acadc54e85a2321c5caaf06759adf96b7580c7ba0c1fe8a67a",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 100031,
+  "usage": {
+    "completion_tokens": 102,
+    "prompt_tokens": 5080,
+    "prompt_tokens_details": null,
+    "total_tokens": 5182
+  }
+}

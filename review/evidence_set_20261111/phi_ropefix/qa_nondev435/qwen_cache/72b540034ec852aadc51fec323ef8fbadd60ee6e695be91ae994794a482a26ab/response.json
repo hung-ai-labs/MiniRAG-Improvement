@@ -1,0 +1,17 @@
+{
+  "body_sha256": "72b540034ec852aadc51fec323ef8fbadd60ee6e695be91ae994794a482a26ab",
+  "finish_reason": "stop",
+  "latency_s": 8.18155200000183,
+  "prediction": " The provided data tables and sources do not contain specific information about the flavor of cake Hailey planned to bake for the bakery's anniversary celebration in February. Hailey mentioned, \"I’ll make sure to bake a fresh batch of sourdough and some delicious pastries for you!\" and \"I can't wait for you to try the new line!,\" but no details on the particular flavor of cake were given for the anniversary event. Therefore, based on the available information, it is not possible to determine the flavor of the cake she intended to prepare for the event.\n\n```markdown\nBased on the given information, it is not possible to ascertain the specific flavor of cake Hailey planned for the bakery's anniversary celebration in February. The available data does not include details regarding the cake selection for the mentioned occasion.\n```",
+  "prediction_sha256": "a4dc31d9f3bfb960a47dff0ce5c5613e5d2c020b8d639b13e162e1721bbfa80c",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 100425,
+  "usage": {
+    "completion_tokens": 195,
+    "prompt_tokens": 5279,
+    "prompt_tokens_details": null,
+    "total_tokens": 5474
+  }
+}

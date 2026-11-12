@@ -1,0 +1,17 @@
+{
+  "body_sha256": "392e80a7ad8cad6141e312785c57dd0ea72b66a7dad869856e3237fa81d58294",
+  "finish_reason": "stop",
+  "latency_s": 13.110845791998145,
+  "prediction": "WolfgangSchulz inquires about health products specifically because he has been feeling very tired due to the excessive overtime he has been working. In the conversation, he mentions, \"I've been feeling super tired lately with all this overtime.\" This indicates his current state of exhaustion, prompting him to seek advice on potential solutions to boost his energy levels. LiHua suggests various health products such as vitamins, energy drinks, and magnesium supplements, while ChaeSong-hwa recommends incorporating fruits and nuts into his diet, emphasizing the importance of hydration and proper sleep.",
+  "prediction_sha256": "06b93a5f024035a5c65d1c2c539b26a59dd0cde5b2cab3ac6f6a7ef422874c22",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200128,
+  "usage": {
+    "completion_tokens": 114,
+    "prompt_tokens": 4451,
+    "prompt_tokens_details": null,
+    "total_tokens": 4565
+  }
+}

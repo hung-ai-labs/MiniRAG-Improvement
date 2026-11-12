@@ -1,0 +1,17 @@
+{
+  "body_sha256": "cd10738281bfaa52e667d01f6bfa752e121cf832ba94a869b2797813e1b11045",
+  "finish_reason": "stop",
+  "latency_s": 7.705176999999821,
+  "prediction": "On September 23rd, 2026, WolfgangSchulz invited LiHua to go grocery shopping after work. His intention was to purchase snacks for their next jam session, as indicated by his statement \"Hey! Wanna hit the grocery store after work today? We can grab some snacks for our next jam! 🥳\". Therefore, the primary purpose of going to the grocery store on that date was to acquire snacks for their upcoming musical gathering.",
+  "prediction_sha256": "db43ac34af1510679a9bb0d37d1ff2afa396bb7333f6e43706906a710e04d8e1",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200267,
+  "usage": {
+    "completion_tokens": 96,
+    "prompt_tokens": 4546,
+    "prompt_tokens_details": null,
+    "total_tokens": 4642
+  }
+}

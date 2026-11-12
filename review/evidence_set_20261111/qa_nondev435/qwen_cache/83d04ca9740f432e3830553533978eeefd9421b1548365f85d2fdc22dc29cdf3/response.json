@@ -1,0 +1,17 @@
+{
+  "body_sha256": "83d04ca9740f432e3830553533978eeefd9421b1548365f85d2fdc22dc29cdf3",
+  "finish_reason": "stop",
+  "latency_s": 10.804561124998145,
+  "prediction": "On October 19th, 2026, during their karaoke night planning, ChaeSong-hwa suggested starting with classic songs like \"Sweet Home Alabama\" or \"Let It Be.\" Additionally, he proposed including some fun pop songs like \"Shallow\" or \"Shake It Off\" to mix things up. The group seemed enthusiastic about these suggestions, indicating a mix of both familiar favorites and new, upbeat songs for their karaoke night.",
+  "prediction_sha256": "1d0ac2dad5b9d9f6bc7994da29e3f8449a2b735ea79d7f46bb2e40f7730a4037",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200368,
+  "usage": {
+    "completion_tokens": 95,
+    "prompt_tokens": 4452,
+    "prompt_tokens_details": null,
+    "total_tokens": 4547
+  }
+}

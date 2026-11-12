@@ -1,0 +1,17 @@
+{
+  "body_sha256": "c53da8e1c6ae136b8676323b2ae38224a2858e1ba1011a488542fb6275137841",
+  "finish_reason": "stop",
+  "latency_s": 6.203328416002478,
+  "prediction": "In one of the interactions, Adam Smith mentions that Li Hua had reported a broken water tap in the apartment, and Adam Smith assured Li Hua that he would arrange for someone to look into it as soon as possible. However, the document does not specify a particular time frame or exact schedule for when the repair would occur. This indicates that while Li Hua had notified Adam Smith about the issue, the timing of the repair was left to Adam Smith's discretion and would depend on his availability and the urgency of the situation.",
+  "prediction_sha256": "1aa51b7d33840a3ad98b7313ce1aa6a87651cec70d40ba52f76ecaf93d0f7393",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 117,
+  "usage": {
+    "completion_tokens": 107,
+    "prompt_tokens": 4347,
+    "prompt_tokens_details": null,
+    "total_tokens": 4454
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "520444cf231de1ee9cc305c5344a5d62bc3f241e4bfdea653a4ca68a469ba2af",
+  "finish_reason": "stop",
+  "latency_s": 11.901328124997235,
+  "prediction": "In the conversation, Jake did indeed share common knowledge about the offside rule before providing practical techniques for Li Hua to avoid being offside. Specifically, Jake explained that offside is when an attacking player is ahead of the last defender (excluding the goalkeeper) at the moment the ball is passed to them. He noted that it can be a tricky concept, but it helps to keep the game fair and exciting. This foundational understanding was necessary before Jake could provide practical advice on avoiding offside, such as understanding the positioning relative to the defenders and the ball. Therefore, it is clear that Jake first shared the basic rule and concept of offside before moving on to practical applications and drills.",
+  "prediction_sha256": "8a7e930c175bed88ae2d9ab1ebda31dbd8fd8376cf1dea55c73ba0048744f590",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200029,
+  "usage": {
+    "completion_tokens": 139,
+    "prompt_tokens": 3752,
+    "prompt_tokens_details": null,
+    "total_tokens": 3891
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "add9440f4a35ee229cc7c22e4dea00d523210cee7504dd38656caaaade2186c0",
+  "finish_reason": "stop",
+  "latency_s": 12.263473416001943,
+  "prediction": " During the bakery's anniversary event, Li Hua expressed a particular fondness for sourdough bread. This preference was mentioned in a conversation between Hailey Johnson and Li Hua, where Hailey Johnson assured the availability of fresh sourdough specially baked for the occasion:\n\n```markdown\nHaileyJohnson: Yay! I’m so excited to see you there! 🥳 I'll have some special treats ready just for the occasion. Do you have a favorite bread that you’re hoping to see?\nLiHua: Oh, I love sourdough! Hope you have that! And maybe some sweet pastries too? 😋\nHaileyJohnson: I’ll make sure to bake a fresh batch of sourdough and some delicious pastries for you! 🍰 Can’t wait for you to try them!\n```\n\nFrom this exchange, it's clear that sourdough was the special bread flavor that Li Hua enjoyed and looked forward to at the bakery's anniversary event, highlighting her enthusiasm for the bakery's new offerings.\n\n```markdown\nFlavor Liked at Anniversary Event: Sourdough\n```\n\nThis summary provides a concise answer to the user's question, using evidence directly from the provided conversation transcripts in the data tables.",
+  "prediction_sha256": "edbdc9a5286826b14f77698188e2d6393be97888a73b24a813e741a7ddd39cc4",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 100424,
+  "usage": {
+    "completion_tokens": 309,
+    "prompt_tokens": 5478,
+    "prompt_tokens_details": null,
+    "total_tokens": 5787
+  }
+}

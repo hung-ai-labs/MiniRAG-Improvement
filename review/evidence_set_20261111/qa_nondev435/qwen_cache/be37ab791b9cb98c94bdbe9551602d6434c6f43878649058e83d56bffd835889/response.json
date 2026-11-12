@@ -1,0 +1,17 @@
+{
+  "body_sha256": "be37ab791b9cb98c94bdbe9551602d6434c6f43878649058e83d56bffd835889",
+  "finish_reason": "stop",
+  "latency_s": 4.0544739160031895,
+  "prediction": "According to the data, Quillan mentions that Cersei's \"desperation for control often shadows her vulnerability.\" This indicates that while Cersei may have moments of emotional depth and vulnerability, her primary drive often comes from her ambition and desire for control, which can overshadow these softer aspects of her character.",
+  "prediction_sha256": "9a44d6861d6811f4b99942c30073b2be702668cd412b128f5757bd4f481d7087",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100310,
+  "usage": {
+    "completion_tokens": 62,
+    "prompt_tokens": 4789,
+    "prompt_tokens_details": null,
+    "total_tokens": 4851
+  }
+}

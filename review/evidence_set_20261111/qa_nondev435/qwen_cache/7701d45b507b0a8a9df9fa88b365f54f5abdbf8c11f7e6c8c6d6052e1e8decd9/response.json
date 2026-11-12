@@ -1,0 +1,17 @@
+{
+  "body_sha256": "7701d45b507b0a8a9df9fa88b365f54f5abdbf8c11f7e6c8c6d6052e1e8decd9",
+  "finish_reason": "stop",
+  "latency_s": 7.806337292000535,
+  "prediction": "On September 7th, 2026, AdamSmith reaches out to LiHua to inquire about the condition of the basement after a storm. He specifically asks whether there were any issues with water leakage and checks if everything is fine. This indicates that AdamSmith is concerned about the structural integrity of the basement following the weather event and wants to ensure that LiHua is not facing any issues related to moisture or leaks.",
+  "prediction_sha256": "feac53efe3f6cebb4540858e5094ecb817ce539ad04a4821023c6ee37788e922",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 192,
+  "usage": {
+    "completion_tokens": 88,
+    "prompt_tokens": 4448,
+    "prompt_tokens_details": null,
+    "total_tokens": 4536
+  }
+}

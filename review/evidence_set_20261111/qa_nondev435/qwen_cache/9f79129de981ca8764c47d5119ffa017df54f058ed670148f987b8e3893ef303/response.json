@@ -1,0 +1,17 @@
+{
+  "body_sha256": "9f79129de981ca8764c47d5119ffa017df54f058ed670148f987b8e3893ef303",
+  "finish_reason": "stop",
+  "latency_s": 8.079735625000467,
+  "prediction": "On March 7th, WolfgangSchulz and LiHua plan to attend a concert together. From the conversation in Source 1, it is clearly stated that WolfgangSchulz mentions, \"Hey! Got an extra ticket for a concert on March 7th at 6 PM.\" Therefore, the name of the concert that Wolfgang and Li Hua will attend on March 7th is a concert taking place on March 7th at 6 PM.",
+  "prediction_sha256": "97f67bbc9ea742366f97fa3357d8c2635ce2d6b81b3a26916b0abf69c0bcaaf5",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100415,
+  "usage": {
+    "completion_tokens": 96,
+    "prompt_tokens": 4734,
+    "prompt_tokens_details": null,
+    "total_tokens": 4830
+  }
+}

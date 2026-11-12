@@ -1,0 +1,17 @@
+{
+  "body_sha256": "fba63edcbf273b7741beec6189118ab90697284045e991d93a81eccf73f5b421",
+  "finish_reason": "stop",
+  "latency_s": 6.039455000001908,
+  "prediction": "In the conversations shared, Adam mentions a specific house rule related to noise levels during late hours. Specifically, Adam advises LiHua to keep the noise to a minimum during these times. This indicates that the primary house rule Adam has established is related to maintaining quietness in the evenings to avoid disturbance.",
+  "prediction_sha256": "920852d2490cf66f18d51b1e2c03fbe7531fa44cc80b64a15ed7907d5fb4de6e",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100059,
+  "usage": {
+    "completion_tokens": 61,
+    "prompt_tokens": 4630,
+    "prompt_tokens_details": null,
+    "total_tokens": 4691
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "4dd34a4965aca75eea9621763254931cb71e364be6d18197e20761d2f2e6af24",
+  "finish_reason": "stop",
+  "latency_s": 9.804516042000614,
+  "prediction": "In one of the conversations, ThaneChambers recommends \"The Last of Us\" as a game with a strong choice-based narrative. Specifically, he states, \"It's definitely one of the best out there! The storytelling sets it apart from a lot of other games. It's got this mix of action and stealth that keeps you on your toes. If you enjoyed games with strong narratives like Witcher 3, you'll love this one too!\" Therefore, ThaneChambers recommends \"The Last of Us\" for its compelling choice-based storytelling.",
+  "prediction_sha256": "baed424a8bd69820a92ca4bd78cbda45e62d5cd05760b2ecc3728631b337878a",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 322,
+  "usage": {
+    "completion_tokens": 114,
+    "prompt_tokens": 4270,
+    "prompt_tokens_details": null,
+    "total_tokens": 4384
+  }
+}

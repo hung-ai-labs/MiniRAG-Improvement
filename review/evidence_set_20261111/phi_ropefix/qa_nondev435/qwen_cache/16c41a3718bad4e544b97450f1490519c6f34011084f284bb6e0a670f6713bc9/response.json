@@ -1,0 +1,17 @@
+{
+  "body_sha256": "16c41a3718bad4e544b97450f1490519c6f34011084f284bb6e0a670f6713bc9",
+  "finish_reason": "stop",
+  "latency_s": 3.4390198749970295,
+  "prediction": " According to the conversation provided, Barcelona lost 4-0 against Bayern Munich in the year **2013**. This detail was brought up by Jake Watson as a classic example of a high-stakes match with a memorable outcome within the context of their Champions League encounters.",
+  "prediction_sha256": "09f30c0c9fc689c681e53977782e596d81706ba1b68dffeadaac2d888bb6b3b2",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 294,
+  "usage": {
+    "completion_tokens": 63,
+    "prompt_tokens": 5048,
+    "prompt_tokens_details": null,
+    "total_tokens": 5111
+  }
+}

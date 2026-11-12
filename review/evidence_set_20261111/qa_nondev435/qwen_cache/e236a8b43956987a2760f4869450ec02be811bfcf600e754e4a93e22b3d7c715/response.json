@@ -1,0 +1,17 @@
+{
+  "body_sha256": "e236a8b43956987a2760f4869450ec02be811bfcf600e754e4a93e22b3d7c715",
+  "finish_reason": "stop",
+  "latency_s": 11.380352666998078,
+  "prediction": "Based on their discussion on 20260911, LiHua and ThaneChambers are planning to shop together on a weekend, specifically around noon on Saturday. During their conversation, ThaneChambers suggested checking out the local game store for some killer discounts on PS5 games. LiHua expressed interest in a few games, including \"Spider-Man: Miles Morales\" and \"Demon's Souls.\" However, the primary focus of their shopping trip appears to be video games rather than specific titles.",
+  "prediction_sha256": "778502f1f39e4abafa0dfb1eef5176fe95614268bc230517a163a41e6f1d4a53",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200203,
+  "usage": {
+    "completion_tokens": 108,
+    "prompt_tokens": 5392,
+    "prompt_tokens_details": null,
+    "total_tokens": 5500
+  }
+}

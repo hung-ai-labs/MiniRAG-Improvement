@@ -1,0 +1,17 @@
+{
+  "body_sha256": "62a0830b57fe05158664b12076a52197ba7d51a637987566cab715ae568ff855",
+  "finish_reason": "stop",
+  "latency_s": 9.602894583000307,
+  "prediction": "In one of the conversations recorded, ThaneChambers expresses enthusiasm for the upcoming updates in \"Call of Duty: Warzone.\" Specifically, he states, \"Sounds epic! I’m looking forward to the updates! Hopefully, they’ll shake things up and bring some fresh maps and modes. It’ll be exciting to see what new features they add. You think you'll dive back in when they drop?\" This indicates that ThaneChambers is eager to experience the changes that the developers plan to implement in the game and suggests that he will revisit the game once the updates are released.",
+  "prediction_sha256": "fd0dc8030ec29f83f1c600385449d62ff95ddf17c2dacccca5eeae9021656523",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 243,
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 4860,
+    "prompt_tokens_details": null,
+    "total_tokens": 4980
+  }
+}

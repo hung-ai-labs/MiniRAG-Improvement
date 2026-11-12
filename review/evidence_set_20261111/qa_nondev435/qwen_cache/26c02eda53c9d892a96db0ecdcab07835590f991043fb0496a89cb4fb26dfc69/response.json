@@ -1,0 +1,17 @@
+{
+  "body_sha256": "26c02eda53c9d892a96db0ecdcab07835590f991043fb0496a89cb4fb26dfc69",
+  "finish_reason": "stop",
+  "latency_s": 4.782054792001873,
+  "prediction": "Based on the conversation recorded, Li Hua was informed that he can hang his artwork as long as he doesn't damage the walls. He was advised to use removable hooks for this purpose. Therefore, it appears that Li Hua is permitted to hang his artworks on the walls without any restrictions.",
+  "prediction_sha256": "7bca0e6b9628996e88cb348b34804d58761e425d26ad5ee61c7201fe968c0d19",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100071,
+  "usage": {
+    "completion_tokens": 60,
+    "prompt_tokens": 3189,
+    "prompt_tokens_details": null,
+    "total_tokens": 3249
+  }
+}

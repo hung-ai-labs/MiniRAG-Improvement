@@ -1,0 +1,17 @@
+{
+  "body_sha256": "cf22f6fbc656c81a433649e12862a9726f0938db543ecd21183674ddbcf4c64e",
+  "finish_reason": "stop",
+  "latency_s": 7.831267582998407,
+  "prediction": "Saffron highlights the pivotal moment when Cersei Lannister loses her children as a significant event that profoundly shapes her character. This loss drives Cersei to embrace cruelty to maintain her grip on power, illustrating how personal tragedies can drastically alter a person's behavior and motivations. This event serves as a critical turning point in Cersei's character arc, emphasizing her complex interplay of power, ambition, and emotional depth.",
+  "prediction_sha256": "27ba8cf21dc3d1874c062d98923c73e47a76d3674db6ca157049f7fc59e155fb",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100308,
+  "usage": {
+    "completion_tokens": 85,
+    "prompt_tokens": 4754,
+    "prompt_tokens_details": null,
+    "total_tokens": 4839
+  }
+}

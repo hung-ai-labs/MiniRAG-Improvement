@@ -1,0 +1,17 @@
+{
+  "body_sha256": "bc0e6212ecfa356f45d1796139b341bbb725c173f697a9631bb9fd186a681662",
+  "finish_reason": "stop",
+  "latency_s": 10.098489791998873,
+  "prediction": "LiHua asks Jake about various aspects of soccer, including strategies for injury prevention, the best defenders in the history of FC Barcelona, and the best moments from classic matches between FC Barcelona and Bayern Munich. Additionally, LiHua inquires about the best football manager in the Premier League history and expresses interest in practicing and learning more about the game through drills and matches. Through these exchanges, it is clear that LiHua is enthusiastic about improving his soccer skills and gaining insights from Jake, a knowledgeable figure in the realm of soccer.",
+  "prediction_sha256": "1376175ba674549f9051446b6583ef9dc60e7f17d3606764fb5a53540961f547",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200205,
+  "usage": {
+    "completion_tokens": 108,
+    "prompt_tokens": 4416,
+    "prompt_tokens_details": null,
+    "total_tokens": 4524
+  }
+}

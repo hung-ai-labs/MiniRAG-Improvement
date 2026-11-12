@@ -1,0 +1,17 @@
+{
+  "body_sha256": "cc7499ff696b73fb47136de7e2a10afd82406ad3d7a02e3b6587ab53bcef401e",
+  "finish_reason": "stop",
+  "latency_s": 5.951012416997401,
+  "prediction": "On the event marked as \"Time: 20260918_18:00\", WolfgangSchulz suggests hitting Starbucks after work. Specifically, he proposes, \"Hey! Wanna hit Starbucks after work and try that new Frappuccino? ☕️🍹\" LiHua responds positively, expressing interest in the sweet treat after a long week.",
+  "prediction_sha256": "1b50b3c76db2e3ba132c371f3bb72ea60ddf792576ae40a5fe5e595c2c94b3ab",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200234,
+  "usage": {
+    "completion_tokens": 79,
+    "prompt_tokens": 5582,
+    "prompt_tokens_details": null,
+    "total_tokens": 5661
+  }
+}

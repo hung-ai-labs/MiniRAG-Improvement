@@ -1,0 +1,17 @@
+{
+  "body_sha256": "a5aafcde16db312530abfeca1584b57d4ad6d093dfafb7b3caae51fabe4aad1f",
+  "finish_reason": "stop",
+  "latency_s": 5.2061384999979055,
+  "prediction": "There is no mention of AdamSmith wanting the window measured in the provided data. The interactions described involve AdamSmith arranging for various repairs and coordinating with repair services, picking up keys, installing curtains, reminding LiHua about maintenance, and discussing potential decorations for the basement. There is no indication that AdamSmith needed the window measured.",
+  "prediction_sha256": "0bd6642e039c7e4c28b5088fe771c845edccd7ad6d5512094c24af9d4ba5a51d",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100272,
+  "usage": {
+    "completion_tokens": 67,
+    "prompt_tokens": 4337,
+    "prompt_tokens_details": null,
+    "total_tokens": 4404
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "f8e234f8c2830f7297a5f1214c3073529565f7b34b77007bed753e46777ca566",
+  "finish_reason": "stop",
+  "latency_s": 7.880716416999348,
+  "prediction": "At the bakery's anniversary event, Li Hua shared her excitement about the new bread products. Specifically, she mentioned trying a new pastry which she described as \"delicious\" and stated that she \"will definitely be coming back for more.\" This indicates that she particularly enjoyed the pastry, although the exact flavor of the new bread products was not specified in the conversation.",
+  "prediction_sha256": "ac8736105a43f9cfb7c4506b9a993ceb385f8147073b3292ec40da12ee5dc291",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 424,
+  "usage": {
+    "completion_tokens": 74,
+    "prompt_tokens": 4381,
+    "prompt_tokens_details": null,
+    "total_tokens": 4455
+  }
+}

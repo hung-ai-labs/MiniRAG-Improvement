@@ -1,0 +1,17 @@
+{
+  "body_sha256": "8e3d30d74ee9df4e3d61298f861c36261b6274c019ec42f9d3686149f9526218",
+  "finish_reason": "stop",
+  "latency_s": 9.869702708001569,
+  "prediction": "In the conversation, Jake Watson suggests several exercises for strength training. Specifically, he recommends squats and lunges, which are effective for building leg strength. He also mentions planks, which are beneficial for core stability. Additionally, he advises including balance exercises like single-leg stands to enhance overall stability and endurance. These exercises are part of a comprehensive plan to improve both physical strength and functional performance on the field.",
+  "prediction_sha256": "45d6929072bb6cb491e29f1f367f98d46da2a284520466fb466b352c3bd63099",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100209,
+  "usage": {
+    "completion_tokens": 83,
+    "prompt_tokens": 3362,
+    "prompt_tokens_details": null,
+    "total_tokens": 3445
+  }
+}

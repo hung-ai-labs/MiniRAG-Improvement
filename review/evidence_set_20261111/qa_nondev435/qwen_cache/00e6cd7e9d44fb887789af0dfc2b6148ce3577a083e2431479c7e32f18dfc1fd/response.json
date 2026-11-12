@@ -1,0 +1,17 @@
+{
+  "body_sha256": "00e6cd7e9d44fb887789af0dfc2b6148ce3577a083e2431479c7e32f18dfc1fd",
+  "finish_reason": "stop",
+  "latency_s": 11.342050040999311,
+  "prediction": "According to the data, Jasper specifically mentions the development of Phil Foden under Pep Guardiola's player development. This indicates that Phil Foden has shown significant growth and improvement under Guardiola's coaching at Manchester City.",
+  "prediction_sha256": "027907d854c7ef7c16f9fe344f7a5c7180cf5d48103106a2d68221562d777b0c",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200300,
+  "usage": {
+    "completion_tokens": 44,
+    "prompt_tokens": 4826,
+    "prompt_tokens_details": null,
+    "total_tokens": 4870
+  }
+}

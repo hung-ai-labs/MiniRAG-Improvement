@@ -1,0 +1,17 @@
+{
+  "body_sha256": "6b0b6188d10bca0db1481fa469571dccdc6c86a5d57c729bd78c59e865235e95",
+  "finish_reason": "stop",
+  "latency_s": 9.645230458998412,
+  "prediction": "In the context of the summer promotion, Li Hua and Hailey Johnson discuss various dessert options. Specifically, Li Hua expresses her fondness for fruity desserts, particularly mango and coconut flavors. Hailey Johnson mentions that they are planning to offer some fruity ice cream flavors and a mango-coconut pastry as part of the promotion. This indicates that Li Hua is eagerly anticipating trying these specially prepared fruit-based treats during the promotion period.",
+  "prediction_sha256": "7da6ebcaf75b44bf6351095aae33d6fab357e7eb1d2e20d8995159537d833061",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 121,
+  "usage": {
+    "completion_tokens": 88,
+    "prompt_tokens": 3937,
+    "prompt_tokens_details": null,
+    "total_tokens": 4025
+  }
+}

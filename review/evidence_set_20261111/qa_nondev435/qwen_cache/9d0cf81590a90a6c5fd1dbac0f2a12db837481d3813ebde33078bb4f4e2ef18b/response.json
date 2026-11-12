@@ -1,0 +1,17 @@
+{
+  "body_sha256": "9d0cf81590a90a6c5fd1dbac0f2a12db837481d3813ebde33078bb4f4e2ef18b",
+  "finish_reason": "stop",
+  "latency_s": 8.353859415998159,
+  "prediction": "In the context of the neighborhood potluck dinner, Li Hua expresses her willingness to contribute a homemade pasta salad. She mentions that she has \"everything [she] needs\" to make the dish and will only need to pick up some fresh ingredients the following day. This indicates that Li Hua has agreed to bring the homemade pasta salad to the event.",
+  "prediction_sha256": "1fc618ce7a3c42175333ad1980270ff9a863159d33fc20c1dd529502f5e97c35",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100087,
+  "usage": {
+    "completion_tokens": 72,
+    "prompt_tokens": 4555,
+    "prompt_tokens_details": null,
+    "total_tokens": 4627
+  }
+}

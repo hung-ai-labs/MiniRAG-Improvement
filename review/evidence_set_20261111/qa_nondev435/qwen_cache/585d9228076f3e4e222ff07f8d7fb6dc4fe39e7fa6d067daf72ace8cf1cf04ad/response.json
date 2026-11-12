@@ -1,0 +1,17 @@
+{
+  "body_sha256": "585d9228076f3e4e222ff07f8d7fb6dc4fe39e7fa6d067daf72ace8cf1cf04ad",
+  "finish_reason": "stop",
+  "latency_s": 10.6651872500006,
+  "prediction": "ChaeSong-hwa organizes karaoke activities from time to time, based on the conversations provided. In one instance, he mentions planning another karaoke session soon, noting that it has been \"too long\" since the last one. He specifically states, \"Ugh, I really want to do karaoke again, but work is just crazy right now! 😩 We need to plan another session soon, it’s been too long! How about next weekend?\" Given this context, the next karaoke activity organized by ChaeSong-hwa appears to be scheduled for the following weekend.",
+  "prediction_sha256": "8b8d4ee527e5ba18fe7a9271f3f2b88d1b697f04debc79ca79252fa6cce5d016",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 112,
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 4362,
+    "prompt_tokens_details": null,
+    "total_tokens": 4482
+  }
+}

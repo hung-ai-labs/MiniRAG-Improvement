@@ -1,0 +1,17 @@
+{
+  "body_sha256": "4981cb255c807b6330a2ce1042d71a7c09e2e5543be6ea69918ea88eb184b9f0",
+  "finish_reason": "stop",
+  "latency_s": 15.05658174999553,
+  "prediction": "There are two interactions between LiHua and Adam involving the basement window. In the first interaction, dated 20260219_08:00, Adam reminds LiHua to pick up the key for the basement at 9 am the same day. In the second interaction, dated 20260227_18:30, Adam asks LiHua if she could add some decorations to the basement, suggesting that the window may have already been installed by this point. \n\nSince the first interaction occurred on February 19th and the second on February 27th, the time interval between these two events is more than three days. Thus, the time interval between LiHua asking Adam to help her install the curtains and Adam asking her to measure the size of the window is indeed more than three days.",
+  "prediction_sha256": "fbd13ce11a35c8bb16cbc21368fdaac459c9302db5053c17649c6d38b700a332",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200041,
+  "usage": {
+    "completion_tokens": 179,
+    "prompt_tokens": 4390,
+    "prompt_tokens_details": null,
+    "total_tokens": 4569
+  }
+}

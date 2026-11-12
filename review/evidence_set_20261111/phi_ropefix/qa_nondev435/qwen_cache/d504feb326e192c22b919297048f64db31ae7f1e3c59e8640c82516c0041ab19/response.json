@@ -1,0 +1,17 @@
+{
+  "body_sha256": "d504feb326e192c22b919297048f64db31ae7f1e3c59e8640c82516c0041ab19",
+  "finish_reason": "stop",
+  "latency_s": 8.597810582999955,
+  "prediction": " The provided data tables and content do not contain any information about Jennifer challenging Li Hua to do 60 pull-ups in a training session after challenging him to do 100 pushups. The discussions between Jennifer Moore and Li Hua focus on plank exercises, workout sessions, progress, and general fitness advice. There is no mention of a specific challenge involving pull-ups or a set number of repetitions related to that particular exercise. Therefore, based on the given information, it cannot be concluded that Jennifer issued such a challenge to Li Hua.",
+  "prediction_sha256": "c1d93bd264c7d839eb267174e7b249f4702198a6fd15eaeaf1c1fd24358f1f03",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 28,
+  "usage": {
+    "completion_tokens": 125,
+    "prompt_tokens": 5277,
+    "prompt_tokens_details": null,
+    "total_tokens": 5402
+  }
+}

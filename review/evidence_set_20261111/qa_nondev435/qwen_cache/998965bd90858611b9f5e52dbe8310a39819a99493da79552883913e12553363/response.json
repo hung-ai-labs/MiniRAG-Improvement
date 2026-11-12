@@ -1,0 +1,17 @@
+{
+  "body_sha256": "998965bd90858611b9f5e52dbe8310a39819a99493da79552883913e12553363",
+  "finish_reason": "stop",
+  "latency_s": 15.837616999997408,
+  "prediction": "Li Hua and Wolfgang Schulz have arranged a lunch meeting at the cozy café downtown. According to the conversation, Wolfgang Schulz reminded Li Hua about their lunch meeting at the cozy café downtown at 12:00. The exact time for their lunch meeting is specified in the message from Wolfgang Schulz, which reads, \"Hey! Just wanted to remind you about our lunch at the cozy café downtown at 12:00. Can't wait to catch up! 😊\". \n\nThis lunch meeting appears to be a recurring arrangement between Wolfgang Schulz and Li Hua, as it is mentioned multiple times in their interactions.",
+  "prediction_sha256": "e91544ec16260cf2e99b849eb2223cab99b200eb6d0a2906bd35244b354d3208",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 56,
+  "usage": {
+    "completion_tokens": 131,
+    "prompt_tokens": 4893,
+    "prompt_tokens_details": null,
+    "total_tokens": 5024
+  }
+}

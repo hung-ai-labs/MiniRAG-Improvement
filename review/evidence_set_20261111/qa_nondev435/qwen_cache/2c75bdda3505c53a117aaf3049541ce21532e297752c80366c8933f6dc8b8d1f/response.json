@@ -1,0 +1,17 @@
+{
+  "body_sha256": "2c75bdda3505c53a117aaf3049541ce21532e297752c80366c8933f6dc8b8d1f",
+  "finish_reason": "stop",
+  "latency_s": 7.560158042000694,
+  "prediction": "Thrall is planning to organize a community meeting to discuss and finalize the plans for the garden. According to the content from `Time: 20260507_16:00`, Thrall suggests setting up community meetings to brainstorm and finalize the plans. This includes considering the layout, adding seating areas, and creating a schedule for maintenance. The intention is to gather everyone's input to ensure the garden project is well-coordinated and enjoyable for all participants.",
+  "prediction_sha256": "999cd0c9ed1ea9fc4a4d0487f41c20311f7d32f640d398017c04ef65c29d5aa2",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200114,
+  "usage": {
+    "completion_tokens": 98,
+    "prompt_tokens": 3863,
+    "prompt_tokens_details": null,
+    "total_tokens": 3961
+  }
+}

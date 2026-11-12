@@ -1,0 +1,17 @@
+{
+  "body_sha256": "563e132ec39ada771f1311d28a49c09d5b078cdd339e152f1119636f14b556e3",
+  "finish_reason": "stop",
+  "latency_s": 7.131071709001844,
+  "prediction": "Based on the discussion, Rowan particularly loves the line \"I drink and I know things\" spoken by Tyrion Lannister. This line encapsulates Tyrion's wit and intelligence, highlighting his ability to gain insights through conversation and experience. In the context of the conversations provided, this line is celebrated for its cleverness and is considered a classic quote that perfectly captures Tyrion's character.",
+  "prediction_sha256": "c23155041ee87259d9cf1b50b2cb738a570e25fc6e33c1fffd35c7bea5f794d7",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 213,
+  "usage": {
+    "completion_tokens": 80,
+    "prompt_tokens": 4492,
+    "prompt_tokens_details": null,
+    "total_tokens": 4572
+  }
+}

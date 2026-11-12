@@ -1,0 +1,17 @@
+{
+  "body_sha256": "535b2f22f3ab9905f7354c05b344fdefaf55ed34527edbd0905e3d2bf904ddad",
+  "finish_reason": "stop",
+  "latency_s": 7.557941458995629,
+  "prediction": "Based on the discussion, Dyllan mentioned \"Firewatch\" as a game that had an intimate feel and drew him in with its dialogue. This game is known for its narrative approach that focuses on the relationship between the protagonist and the landscape, providing a deep and emotionally resonant experience through its dialogue-rich setting.",
+  "prediction_sha256": "9f049d3980855b959387301889ef60eec1fc90c7933ea705cab3bc79c8efdfe4",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 332,
+  "usage": {
+    "completion_tokens": 64,
+    "prompt_tokens": 4071,
+    "prompt_tokens_details": null,
+    "total_tokens": 4135
+  }
+}

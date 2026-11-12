@@ -1,0 +1,17 @@
+{
+  "body_sha256": "da02af7babb619b505d57df6b576894824da1a39ef8bc8691f5d5d11f01e69af",
+  "finish_reason": "stop",
+  "latency_s": 5.485007791998214,
+  "prediction": "According to the conversation on 20260816, Hailey Johnson offered Li Hua an early bird discount of 15% off her order if Li Hua placed it by the end of that week. This discount was part of a special sale for the upcoming holiday at Hailey's Bakery.",
+  "prediction_sha256": "35275e3390dede1a110985647385058eb98695675740b396a5ad9dd979eea006",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 173,
+  "usage": {
+    "completion_tokens": 66,
+    "prompt_tokens": 4768,
+    "prompt_tokens_details": null,
+    "total_tokens": 4834
+  }
+}

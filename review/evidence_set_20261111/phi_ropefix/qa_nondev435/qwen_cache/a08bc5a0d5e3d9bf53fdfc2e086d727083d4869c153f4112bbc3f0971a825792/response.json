@@ -1,0 +1,17 @@
+{
+  "body_sha256": "a08bc5a0d5e3d9bf53fdfc2e086d727083d4869c153f4112bbc3f0971a825792",
+  "finish_reason": "stop",
+  "latency_s": 7.8647884169986355,
+  "prediction": " According to the conversation between LiHua and Yuriko, the Freelancer Group Meeting is scheduled for Wednesday at 3 pm. This is mentioned in the first entry of the provided data table, where LiHua asks Yuriko if she's planning to attend the meeting, and Yuriko confirms her attendance. The specific date is not given, but the time is clearly stated as 3 pm on a Wednesday.\n\nHere's a summarized note in markdown format:\n\n```markdown\nThe Freelancer Group Meeting is set for Wednesday at 3 pm, as discussed between LiHua and Yuriko in their conversation. The focus of the meeting is intended to be on topics beneficial for freelancers such as new therapy techniques and management of work-life balance.\n```",
+  "prediction_sha256": "89bde086c6ab4682b280c54a78f37173449dfca818854fa316f1396b6e60a5c4",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 200133,
+  "usage": {
+    "completion_tokens": 182,
+    "prompt_tokens": 4351,
+    "prompt_tokens_details": null,
+    "total_tokens": 4533
+  }
+}

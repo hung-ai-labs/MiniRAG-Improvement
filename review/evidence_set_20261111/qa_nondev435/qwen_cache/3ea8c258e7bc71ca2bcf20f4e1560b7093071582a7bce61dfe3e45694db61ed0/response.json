@@ -1,0 +1,17 @@
+{
+  "body_sha256": "3ea8c258e7bc71ca2bcf20f4e1560b7093071582a7bce61dfe3e45694db61ed0",
+  "finish_reason": "stop",
+  "latency_s": 9.59492216599756,
+  "prediction": "Based on the information provided in the conversations, Li Hua plans to celebrate the Lunar New Year with a family dinner and to exchange gifts, which aligns with the traditional practices associated with the holiday. Additionally, she mentions plans to enjoy traditional foods and to travel to local festivals to experience the local festivities. This suggests that she intends to participate in various activities that are commonly associated with the Lunar New Year celebration, such as family gatherings, gift-giving, feasting on traditional dishes, and visiting places to experience the holiday spirit.",
+  "prediction_sha256": "ba14bb6bc79b3ef5e8885406029e93d8e8c5d9d2a172552f9b5e1d2884b9f874",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200065,
+  "usage": {
+    "completion_tokens": 107,
+    "prompt_tokens": 3273,
+    "prompt_tokens_details": null,
+    "total_tokens": 3380
+  }
+}

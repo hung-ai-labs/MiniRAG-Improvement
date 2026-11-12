@@ -1,0 +1,17 @@
+{
+  "body_sha256": "bac624a522368aa982b25ec3292787c265f23c65e38be61d81e87838d63c235c",
+  "finish_reason": "stop",
+  "latency_s": 9.850739333000092,
+  "prediction": "On January 6th, Li Hua reported to Adam that the water tap in the apartment was broken and needed to be fixed. Adam confirmed that a plumber would arrive at 10 AM the following day to address the issue, and he promised to keep Li Hua updated on the repair schedule. Li Hua appreciated Adam's prompt attention to the matter and expressed her readiness for the plumber's arrival. This interaction highlights Adam's role in resolving home maintenance issues, which he seems to handle efficiently and promptly.",
+  "prediction_sha256": "9107962d8ce8fb68890adbe5aba2276c4b46728673090d1ac08da11b92012b3e",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100060,
+  "usage": {
+    "completion_tokens": 104,
+    "prompt_tokens": 4005,
+    "prompt_tokens_details": null,
+    "total_tokens": 4109
+  }
+}

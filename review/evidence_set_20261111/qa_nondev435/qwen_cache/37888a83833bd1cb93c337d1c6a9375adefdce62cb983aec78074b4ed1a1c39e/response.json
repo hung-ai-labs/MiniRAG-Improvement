@@ -1,0 +1,17 @@
+{
+  "body_sha256": "37888a83833bd1cb93c337d1c6a9375adefdce62cb983aec78074b4ed1a1c39e",
+  "finish_reason": "stop",
+  "latency_s": 10.054364832998544,
+  "prediction": "On March 7th, WolfgangSchulz and LiHua plan to attend a concert together. This concert is mentioned in the second source, where WolfgangSchulz invites LiHua to join him for dinner and a concert at a venue that he mentions is not too far from the venue where the concert will be held. The exact name of the concert is not provided in the sources, only that it takes place on March 7th at 6 PM. Therefore, based on the information given, the name of the concert WolfgangSchulz and LiHua plan to attend is referred to as \"March 7th concert\".",
+  "prediction_sha256": "b17876f5655db94faa1ccce9afb626e2f5d74f194c05ecfc8433f72fc9096169",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 415,
+  "usage": {
+    "completion_tokens": 131,
+    "prompt_tokens": 4426,
+    "prompt_tokens_details": null,
+    "total_tokens": 4557
+  }
+}

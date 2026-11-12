@@ -1,0 +1,17 @@
+{
+  "body_sha256": "94a03bb4035ff369e6aac641a37c3c4630a8af29bf87d20ec70ccca1e6df290a",
+  "finish_reason": "stop",
+  "latency_s": 6.256241582999792,
+  "prediction": "Based on the discussion between LiHua and Emily Burnett, LiHua finds a memorable moment for the character \"Man in Black\" to be when he finally confronts the truth about himself and his choices. This moment is described as a turning point for the character, adding significant depth to his narrative arc.",
+  "prediction_sha256": "9763c5f7bb87b992e5509a4f7cc89b08fb9713bb06a0c9e63551f372a96603ec",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200222,
+  "usage": {
+    "completion_tokens": 63,
+    "prompt_tokens": 4436,
+    "prompt_tokens_details": null,
+    "total_tokens": 4499
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "09d1f42d9d928953ddfafcbde0595dc8371f2fe3a353de5a0d51ee53d12945ea",
+  "finish_reason": "stop",
+  "latency_s": 9.47670958299932,
+  "prediction": "In the conversation recorded on October 14, 2026, Jasper mentions a specific match where Manchester City came back from a two-goal deficit to win, which took place during the Champions League. This comeback against Manchester City occurred in 2022 and involved a stoppage-time goal by Rodrygo, showcasing Manchester City's resilience and determination. This match is highlighted as an example of Manchester City's ability to turn things around in difficult situations, which Jasper finds inspiring.",
+  "prediction_sha256": "06e5dcd224f679af84429e1772e8cdb55c31e0a22d3053fceaf1872545ff8343",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 302,
+  "usage": {
+    "completion_tokens": 100,
+    "prompt_tokens": 4607,
+    "prompt_tokens_details": null,
+    "total_tokens": 4707
+  }
+}

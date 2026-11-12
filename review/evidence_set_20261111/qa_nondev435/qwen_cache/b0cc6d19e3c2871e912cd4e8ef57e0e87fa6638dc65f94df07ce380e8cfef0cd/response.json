@@ -1,0 +1,17 @@
+{
+  "body_sha256": "b0cc6d19e3c2871e912cd4e8ef57e0e87fa6638dc65f94df07ce380e8cfef0cd",
+  "finish_reason": "stop",
+  "latency_s": 9.101230457999918,
+  "prediction": "Turalyon suggested a weekend picnic to bring the community together, which would involve various food-related activities. Specifically, he proposed a potluck where everyone could bring a dish to share, alongside games and perhaps music. Additionally, he suggested bringing blankets or chairs for seating, and even considered adding some music to set the mood. Overall, the picnic was envisioned as a fun and relaxed event that would allow community members to interact, enjoy food, and engage in various communal activities.",
+  "prediction_sha256": "e8270dda513ad504a358f61aa411becf7dcab115bc6aa06905d80b9ba6b06670",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200392,
+  "usage": {
+    "completion_tokens": 96,
+    "prompt_tokens": 4150,
+    "prompt_tokens_details": null,
+    "total_tokens": 4246
+  }
+}

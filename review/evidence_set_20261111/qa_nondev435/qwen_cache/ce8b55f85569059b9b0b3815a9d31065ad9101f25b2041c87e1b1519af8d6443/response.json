@@ -1,0 +1,17 @@
+{
+  "body_sha256": "ce8b55f85569059b9b0b3815a9d31065ad9101f25b2041c87e1b1519af8d6443",
+  "finish_reason": "stop",
+  "latency_s": 10.063524583001708,
+  "prediction": "In one of EmilyBurnett's conversations, she expresses a desire to meet someone akin to Sheldon Cooper, who she describes as \"one of a kind\" and \"quirky and brilliant.\" Specifically, she mentions, \"Not really! I mean, he’s one of a kind, right? I do meet interesting people, but nobody quite like him!\" This indicates that EmilyBurnett has not personally encountered anyone who matches the level of eccentricity and intellectual brilliance associated with Sheldon Cooper.",
+  "prediction_sha256": "a0858d4ff1c7bd4710ee618da121497a3a04de71dd0750d1fdf46b1c3a4140e2",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200202,
+  "usage": {
+    "completion_tokens": 98,
+    "prompt_tokens": 4328,
+    "prompt_tokens_details": null,
+    "total_tokens": 4426
+  }
+}

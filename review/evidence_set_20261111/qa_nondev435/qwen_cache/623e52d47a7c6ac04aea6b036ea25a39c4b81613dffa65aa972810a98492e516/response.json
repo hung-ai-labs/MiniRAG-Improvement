@@ -1,0 +1,17 @@
+{
+  "body_sha256": "623e52d47a7c6ac04aea6b036ea25a39c4b81613dffa65aa972810a98492e516",
+  "finish_reason": "stop",
+  "latency_s": 8.57202408300509,
+  "prediction": "Jake Watson's go-to snacks for match days typically include chips and dip, as well as pizza. He finds these snacks provide the necessary energy boost to keep him engaged and excited during the game. Additionally, he enjoys having nachos with cheese and some spicy salsa, which adds to the overall excitement and atmosphere of the event.",
+  "prediction_sha256": "00cec7e60e162b398ff13aa5ee3a6052b078fbe1a16a41eeb6420ba7486a1f70",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100297,
+  "usage": {
+    "completion_tokens": 66,
+    "prompt_tokens": 4394,
+    "prompt_tokens_details": null,
+    "total_tokens": 4460
+  }
+}

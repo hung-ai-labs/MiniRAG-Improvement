@@ -1,0 +1,17 @@
+{
+  "body_sha256": "b09d6264cf1faed0dfa042d5f9bac07f62a80d21ed88be13ed32086761a451bf",
+  "finish_reason": "stop",
+  "latency_s": 9.97528812499877,
+  "prediction": "In the conversation, LiHua is the one who asks Emily if she has read The Lord of the Rings novels. LiHua expresses curiosity about how the lore of these books could be useful for understanding \"The Rings of Power,\" a series that has recently gained popularity. LiHua specifically mentions that the visual quality and focus on character development in \"The Rings of Power\" fascinate him, and he wonders about Emily's thoughts on the series so far.",
+  "prediction_sha256": "37bb4bc700bbdbcccba041858b030d777a32f591e46118925fecf665d32cb58f",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200260,
+  "usage": {
+    "completion_tokens": 94,
+    "prompt_tokens": 3476,
+    "prompt_tokens_details": null,
+    "total_tokens": 3570
+  }
+}

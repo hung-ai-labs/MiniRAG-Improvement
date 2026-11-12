@@ -1,0 +1,17 @@
+{
+  "body_sha256": "8df3eab9c58dccef1f7444c9b79a3c1f0e4fea9539fba838eada48e77c673bc0",
+  "finish_reason": "stop",
+  "latency_s": 10.646236708002107,
+  "prediction": "On January 6th, Li Hua reported two issues to Adam Smith. Firstly, she informed Adam that the water tap in their apartment was broken and requested his assistance in fixing it. Secondly, she mentioned that she would be needing a key for the basement at 9 am on the following day, as they had previously agreed upon this. Adam assured her that he would ensure someone from the repair team was available and would keep her updated on any further developments.",
+  "prediction_sha256": "48341ec8b6e03f5d832a53180a2baab635216f5e3220e4cb7a0d9543e5f52b59",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100060,
+  "usage": {
+    "completion_tokens": 94,
+    "prompt_tokens": 3335,
+    "prompt_tokens_details": null,
+    "total_tokens": 3429
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "649b04217c1aa736f3e17d2e9fe7199552e63eaecee861c5fd05c53d92f05e23",
+  "finish_reason": "stop",
+  "latency_s": 8.447041207997245,
+  "prediction": "In the conversations recorded, Turalyon suggested organizing a weekend picnic to bring the community together. He proposed a fun and relaxed environment where people could enjoy various activities and bring dishes to share in a potluck style, which he described as \"a nice way to try everyone's cooking.\" Additionally, he mentioned that they could plan games and activities, suggesting that the picnic would likely involve communal dining, casual games, and perhaps some food-related events like a potluck.",
+  "prediction_sha256": "4115fa150304db867960fc6bcccdd778d14d8292f8b6320b1d51fcb9e928463a",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 392,
+  "usage": {
+    "completion_tokens": 94,
+    "prompt_tokens": 4150,
+    "prompt_tokens_details": null,
+    "total_tokens": 4244
+  }
+}

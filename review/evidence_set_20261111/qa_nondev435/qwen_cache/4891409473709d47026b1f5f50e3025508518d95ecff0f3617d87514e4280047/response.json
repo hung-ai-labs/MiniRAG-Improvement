@@ -1,0 +1,17 @@
+{
+  "body_sha256": "4891409473709d47026b1f5f50e3025508518d95ecff0f3617d87514e4280047",
+  "finish_reason": "stop",
+  "latency_s": 9.752449457999319,
+  "prediction": "EmilyBurnett recommends several TV shows to LiHua based on their discussions. She suggests \"Stranger Things\" as a good show to binge-watch due to its intriguing concept and cool mix of nostalgia and suspense. Additionally, she recommends \"The Crown\" for its historical drama and character depth, and \"Ted Lasso\" for a lighter, humorous viewing experience. Therefore, LiHua is encouraged to check out these recommendations for a varied binge-watching experience.",
+  "prediction_sha256": "0a03aa1b88524974f77203f435f3646ac16e09f50062a172f4f2ea264f515a79",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 387,
+  "usage": {
+    "completion_tokens": 94,
+    "prompt_tokens": 4412,
+    "prompt_tokens_details": null,
+    "total_tokens": 4506
+  }
+}

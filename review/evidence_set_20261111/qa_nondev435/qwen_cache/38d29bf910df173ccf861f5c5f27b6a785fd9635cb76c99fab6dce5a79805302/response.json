@@ -1,0 +1,17 @@
+{
+  "body_sha256": "38d29bf910df173ccf861f5c5f27b6a785fd9635cb76c99fab6dce5a79805302",
+  "finish_reason": "stop",
+  "latency_s": 9.686408749999828,
+  "prediction": "In the interaction between Jennifer Moore and Li Hua, it is mentioned that there is a special summer promotion featuring ice cream and pastries. Specifically, Jennifer Moore informed Li Hua about the promotion and asked what her favorite summer dessert flavors were. Li Hua responded by mentioning that she enjoys fruity desserts, particularly mango and coconut. This indicates that Li Hua is looking forward to trying the fruity ice cream flavors and the mango-coconut pastry that are part of the promotion.",
+  "prediction_sha256": "53c01f4a8bf3c1d6b6ce19b5328525d64747cbcf45a1b48c59847cc1e2254eee",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 121,
+  "usage": {
+    "completion_tokens": 96,
+    "prompt_tokens": 3845,
+    "prompt_tokens_details": null,
+    "total_tokens": 3941
+  }
+}

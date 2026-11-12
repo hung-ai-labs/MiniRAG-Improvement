@@ -1,0 +1,17 @@
+{
+  "body_sha256": "edd862613101c3529db7e39390917a7f3352087cb721a4342f319e7013850b6c",
+  "finish_reason": "stop",
+  "latency_s": 6.271317958002328,
+  "prediction": "JakeWatson recommends squats and lunges as exercises to improve leg strength for LiHua. These exercises are particularly beneficial for soccer players because they help build power on the field. Additionally, JakeWatson advises including stretching after workouts to keep the muscles flexible. He suggests holding each stretch for about 30 seconds to feel the benefits.",
+  "prediction_sha256": "57c9aa5a2f91b2620f439e800b60d3c0d4fc8cdacc0ac2ed602fda9ced062508",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100268,
+  "usage": {
+    "completion_tokens": 70,
+    "prompt_tokens": 4315,
+    "prompt_tokens_details": null,
+    "total_tokens": 4385
+  }
+}

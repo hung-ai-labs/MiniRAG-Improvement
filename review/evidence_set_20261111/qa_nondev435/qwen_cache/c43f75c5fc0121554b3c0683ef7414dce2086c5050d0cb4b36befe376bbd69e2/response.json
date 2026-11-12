@@ -1,0 +1,17 @@
+{
+  "body_sha256": "c43f75c5fc0121554b3c0683ef7414dce2086c5050d0cb4b36befe376bbd69e2",
+  "finish_reason": "stop",
+  "latency_s": 6.611428749998595,
+  "prediction": "There is no information provided regarding a breakfast meeting between Li Hua and Wolfgang on the morning of the 9th. The earliest meeting mentioned is a lunch at a cozy café downtown scheduled for 12:00 on the 8th. No subsequent breakfast plans are detailed in the given data.",
+  "prediction_sha256": "2b48654f002ab1f76de5767b4825dac87fa450c6962a88215efc57f603604d8b",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100403,
+  "usage": {
+    "completion_tokens": 62,
+    "prompt_tokens": 4564,
+    "prompt_tokens_details": null,
+    "total_tokens": 4626
+  }
+}

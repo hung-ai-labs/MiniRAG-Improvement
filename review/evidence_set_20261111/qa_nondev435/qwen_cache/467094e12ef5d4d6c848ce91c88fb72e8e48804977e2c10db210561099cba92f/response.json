@@ -1,0 +1,17 @@
+{
+  "body_sha256": "467094e12ef5d4d6c848ce91c88fb72e8e48804977e2c10db210561099cba92f",
+  "finish_reason": "stop",
+  "latency_s": 9.335443541996938,
+  "prediction": "In one of the practice sessions discussed, Briar reminds everyone to bring water bottles to ensure that everyone stays hydrated during the practice. This suggestion comes from Briar's encouragement to make the practice session enjoyable and productive, emphasizing the importance of staying hydrated, especially during physical activities.",
+  "prediction_sha256": "60925261a2c905220a19b391fc6d6fe1da80c5035b6acbdcb72e1dc72bdfe3eb",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100284,
+  "usage": {
+    "completion_tokens": 56,
+    "prompt_tokens": 5029,
+    "prompt_tokens_details": null,
+    "total_tokens": 5085
+  }
+}

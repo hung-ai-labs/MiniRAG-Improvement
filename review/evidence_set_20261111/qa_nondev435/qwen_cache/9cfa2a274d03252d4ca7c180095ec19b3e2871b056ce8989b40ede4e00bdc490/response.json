@@ -1,0 +1,17 @@
+{
+  "body_sha256": "9cfa2a274d03252d4ca7c180095ec19b3e2871b056ce8989b40ede4e00bdc490",
+  "finish_reason": "stop",
+  "latency_s": 7.785857916998793,
+  "prediction": "Li Hua expresses a positive sentiment towards Yennefer, highlighting her character's intensity and fierce independence. She particularly appreciates Yennefer's backstory and the dynamic relationship she shares with Geralt, describing it as adding significant depth to the game. Li Hua also mentions a favorite scene involving Yennefer, which takes place during the Battle of Kaer Morhen, emphasizing the emotional stakes and the importance of their relationship in the game.",
+  "prediction_sha256": "2cebacd553dae38ff376ec59d362480a32a717343fc93e37375b543751cd2deb",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200176,
+  "usage": {
+    "completion_tokens": 90,
+    "prompt_tokens": 3311,
+    "prompt_tokens_details": null,
+    "total_tokens": 3401
+  }
+}

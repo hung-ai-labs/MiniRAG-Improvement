@@ -1,0 +1,17 @@
+{
+  "body_sha256": "5b991610f80d2a27dde507b2f82eb047cce4a5393b7bf6f6f37b1188e3cb7650",
+  "finish_reason": "stop",
+  "latency_s": 10.325778041999001,
+  "prediction": "In the conversations between LiHua and Hailey, there is no explicit mention of dietary restrictions or preferences that LiHua has. The interactions focus mainly on ordering bread and milk, as well as discussing special promotions and new products. There is one instance where LiHua mentions a friend Wolfgang who is a \"bread lover,\" but no specific dietary restrictions or preferences are discussed. Therefore, based on the provided data, there is no information regarding LiHua's dietary restrictions in his conversations with Hailey.",
+  "prediction_sha256": "94ddf7a50214a5a1ae2558616f378f4e73eeb9deb08317be328cdb67c0f345f5",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 139,
+  "usage": {
+    "completion_tokens": 103,
+    "prompt_tokens": 3526,
+    "prompt_tokens_details": null,
+    "total_tokens": 3629
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "86a313ba679d7a92dffd9ea56ec448c14273fd1256db4a4b10c5cb2a9160214b",
+  "finish_reason": "stop",
+  "latency_s": 3.948930875001679,
+  "prediction": "According to the text, Jasper specifically mentions Phil Foden's growth under Pep Guardiola's player development. This indicates that Phil Foden is the player whose development Jasper discusses in relation to Guardiola's managerial style.",
+  "prediction_sha256": "0865885b51c173c204fb731090781955054eff95d17f6ba7d345d14ffaabf010",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 300,
+  "usage": {
+    "completion_tokens": 44,
+    "prompt_tokens": 4351,
+    "prompt_tokens_details": null,
+    "total_tokens": 4395
+  }
+}

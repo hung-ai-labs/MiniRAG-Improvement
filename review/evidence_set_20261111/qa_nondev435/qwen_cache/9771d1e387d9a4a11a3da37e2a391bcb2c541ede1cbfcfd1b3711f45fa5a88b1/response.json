@@ -1,0 +1,17 @@
+{
+  "body_sha256": "9771d1e387d9a4a11a3da37e2a391bcb2c541ede1cbfcfd1b3711f45fa5a88b1",
+  "finish_reason": "stop",
+  "latency_s": 8.472827958998096,
+  "prediction": "In one of the conversations, WolfgangSchulz invites LiHua to a movie night and asks what snacks LiHua wants to bring. LiHua responds, \"I can bring some chips!\" This implies that LiHua agrees to bring chips for the movie. There is no mention of any other snacks being discussed, so it can be concluded that chips are the only snack LiHua has agreed to bring for the movie night.",
+  "prediction_sha256": "67e5d161be6a3102e7cd8e475ac7901728ad1d5f2d81752ca6f30b6381bb3e77",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100306,
+  "usage": {
+    "completion_tokens": 90,
+    "prompt_tokens": 4482,
+    "prompt_tokens_details": null,
+    "total_tokens": 4572
+  }
+}

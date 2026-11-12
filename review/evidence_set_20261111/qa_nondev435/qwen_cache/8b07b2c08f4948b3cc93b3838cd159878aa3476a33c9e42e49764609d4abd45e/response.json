@@ -1,0 +1,17 @@
+{
+  "body_sha256": "8b07b2c08f4948b3cc93b3838cd159878aa3476a33c9e42e49764609d4abd45e",
+  "finish_reason": "stop",
+  "latency_s": 14.114074958997662,
+  "prediction": "From the information provided, Farrah remembers the style of play known as \"tiki-taka\" associated with Barcelona, not \"Total football.\" \"Total football\" is more commonly linked to Ajax and Johan Cruyff's philosophy, which emphasized fluidity, flexibility, and a high pressing style. However, the text does not mention \"Total football\" specifically. Instead, it refers to Pep Guardiola's style of play with Manchester City as \"tiki-taka style,\" and also mentions admiration for Rodri's performance, acknowledging his importance to City's success.",
+  "prediction_sha256": "c6fdb9f4f7577abbfb5ee1a122243828f677f4e6cc24167b9f7a11ad80abe345",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 299,
+  "usage": {
+    "completion_tokens": 115,
+    "prompt_tokens": 4844,
+    "prompt_tokens_details": null,
+    "total_tokens": 4959
+  }
+}

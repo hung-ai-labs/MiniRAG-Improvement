@@ -1,0 +1,17 @@
+{
+  "body_sha256": "c34ae6c90bc4c56eee531ddfdd608051eb9696ef43863886a1978e375ec4bd1f",
+  "finish_reason": "stop",
+  "latency_s": 3.224547707999591,
+  "prediction": "Based on the conversation provided, LiHua typically uses a protein shake and a fruit smoothie as her recovery snacks after a game. However, she mentions being open to trying other options, including the banana and peanut butter combination suggested by Jake Watson.",
+  "prediction_sha256": "d10bc1ad52d420d62016a2c6ed389e679474491fe2d94e658a7e533b06664911",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200390,
+  "usage": {
+    "completion_tokens": 51,
+    "prompt_tokens": 3349,
+    "prompt_tokens_details": null,
+    "total_tokens": 3400
+  }
+}

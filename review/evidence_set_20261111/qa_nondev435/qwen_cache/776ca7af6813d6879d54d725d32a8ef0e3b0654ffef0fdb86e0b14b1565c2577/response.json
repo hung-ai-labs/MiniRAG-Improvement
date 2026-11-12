@@ -1,0 +1,17 @@
+{
+  "body_sha256": "776ca7af6813d6879d54d725d32a8ef0e3b0654ffef0fdb86e0b14b1565c2577",
+  "finish_reason": "stop",
+  "latency_s": 8.452494541998021,
+  "prediction": "Based on the conversation between Li Hua and Wolfgang Schulz, they initially discussed visiting the photography exhibition on a Friday evening. However, no specific date for the exhibition is mentioned. The initial suggestion comes from a message where Li Hua invites Wolfgang Schulz to a photography exhibition that is \"next week.\" Given that the exact date isn't specified, we cannot determine the exact day they plan to visit the exhibition. Nonetheless, the most concrete date proposed is a Friday evening.",
+  "prediction_sha256": "bbf053c95a1808ed46196472cedfcd7a32ca2edc2bf8ddd313f9dd15840d9f11",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100163,
+  "usage": {
+    "completion_tokens": 96,
+    "prompt_tokens": 4083,
+    "prompt_tokens_details": null,
+    "total_tokens": 4179
+  }
+}

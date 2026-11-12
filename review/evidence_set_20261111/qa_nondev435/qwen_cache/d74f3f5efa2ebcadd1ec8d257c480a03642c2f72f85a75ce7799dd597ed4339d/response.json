@@ -1,0 +1,17 @@
+{
+  "body_sha256": "d74f3f5efa2ebcadd1ec8d257c480a03642c2f72f85a75ce7799dd597ed4339d",
+  "finish_reason": "stop",
+  "latency_s": 8.345590875000198,
+  "prediction": "In the conversation recorded on April 29th at 18:00 (Source ID 1), Li Hua confirms the rent transfer to Adam. Specifically, Li Hua states, \"Hey Adam! Just wanted to let you know that I've transferred the rent via bank transfer.\" Adam then responds, \"Great! I appreciate it.\" This indicates that Li Hua has completed the rent transfer as per the agreement.",
+  "prediction_sha256": "4077624eb7ab1543e4ee9aafb62a97fcd9936b6f10ed5d570ef7b78581163bc1",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200104,
+  "usage": {
+    "completion_tokens": 88,
+    "prompt_tokens": 4123,
+    "prompt_tokens_details": null,
+    "total_tokens": 4211
+  }
+}

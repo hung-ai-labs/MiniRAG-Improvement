@@ -1,0 +1,17 @@
+{
+  "body_sha256": "fd8b14e63e7afe84c1edb01f7daf417644161011d0010b37f9fddbad7b3c1fe9",
+  "finish_reason": "stop",
+  "latency_s": 6.417784790999576,
+  "prediction": "According to Ivor, Real Madrid's coach is Zinedine Zidane. Ivor mentions that Zidane had Real Madrid's players well-drilled for a specific match, indicating Zidane's role as the head coach.",
+  "prediction_sha256": "b511976794cecd5be2b6a60d5d4fd2aef2e8a75552d72ab3efd8df05d4cb2549",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 360,
+  "usage": {
+    "completion_tokens": 49,
+    "prompt_tokens": 4447,
+    "prompt_tokens_details": null,
+    "total_tokens": 4496
+  }
+}

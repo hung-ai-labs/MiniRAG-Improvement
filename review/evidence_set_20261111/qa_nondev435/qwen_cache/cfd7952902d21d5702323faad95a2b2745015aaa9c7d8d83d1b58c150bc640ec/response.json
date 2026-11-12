@@ -1,0 +1,17 @@
+{
+  "body_sha256": "cfd7952902d21d5702323faad95a2b2745015aaa9c7d8d83d1b58c150bc640ec",
+  "finish_reason": "stop",
+  "latency_s": 9.111501125000359,
+  "prediction": "There is no mention of Thrall participating in or organizing the community bake sale in either of the provided conversations. The interactions described pertain to a community sports day and a community bake sale, neither of which involves Thrall. Therefore, the reason Thrall cannot participate in the bake sale is because he is not involved in the activity.",
+  "prediction_sha256": "6cbb74b71bfa1f1142a12620fc3151f2a2a4e7815183c578fa38facc543c0c4e",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200169,
+  "usage": {
+    "completion_tokens": 68,
+    "prompt_tokens": 3965,
+    "prompt_tokens_details": null,
+    "total_tokens": 4033
+  }
+}

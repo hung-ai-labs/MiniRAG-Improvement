@@ -1,0 +1,17 @@
+{
+  "body_sha256": "e0f5e1ea2723342f0a7ad07f7322391ba1e97b9757507bf534a0e1b00fcbd49c",
+  "finish_reason": "stop",
+  "latency_s": 10.446328917001665,
+  "prediction": "No, the time interval between LiHua confirming receipt of the curtains and Adam inquiring about the quality does not exceed three days. According to the records, the conversation regarding the curtains took place on October 12, 2026, at 10:00 AM, where LiHua mentioned receiving the curtains \"yesterday.\" This indicates that the curtains were received on October 11, 2026. Adam then asked LiHua if the curtains were all good, which occurred on the same day, October 12, 2026. Therefore, the gap between these events is only one day, not more than three days.",
+  "prediction_sha256": "47dcb1b36207af777e56491c82f7c0607a0df162c44703fb78c9a086c2d502a4",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 43,
+  "usage": {
+    "completion_tokens": 141,
+    "prompt_tokens": 3678,
+    "prompt_tokens_details": null,
+    "total_tokens": 3819
+  }
+}

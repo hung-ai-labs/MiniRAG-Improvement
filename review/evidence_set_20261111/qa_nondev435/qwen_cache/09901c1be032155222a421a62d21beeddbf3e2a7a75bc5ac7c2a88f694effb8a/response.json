@@ -1,0 +1,17 @@
+{
+  "body_sha256": "09901c1be032155222a421a62d21beeddbf3e2a7a75bc5ac7c2a88f694effb8a",
+  "finish_reason": "stop",
+  "latency_s": 8.9087302500011,
+  "prediction": "In the conversation, LiHua recommends inverter AC units as being energy-efficient and quiet. Specifically, she mentions brands like Mitsubishi and Daikin, noting that these brands are known for being quiet and efficient. However, no specific brand recommendation is made to Wolfgang. Instead, Wolfgang appears to be interested in inverter AC units and seems to be open to different brands as long as they meet the criteria of being energy-efficient and quiet.",
+  "prediction_sha256": "b20e8fc69b9885b52ed14a32b6f70717270fd7bc2453775c07e1571f9766fd0e",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 160,
+  "usage": {
+    "completion_tokens": 89,
+    "prompt_tokens": 4048,
+    "prompt_tokens_details": null,
+    "total_tokens": 4137
+  }
+}

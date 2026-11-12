@@ -1,0 +1,17 @@
+{
+  "body_sha256": "d69f095acc92c739dc792c9ea37239dfab63d20b9c2e39945983fb06a50977d6",
+  "finish_reason": "stop",
+  "latency_s": 7.9245636249979725,
+  "prediction": "According to the conversation, Adam Smith is very accommodating regarding guests. In a previous exchange, LiHua inquired whether it was okay to have friends over occasionally. Adam responded affirmatively, stating that it was fine to have friends over occasionally, provided the gatherings were kept reasonable. He emphasized that it was important to keep noise levels down during late hours and to take good care of the property.",
+  "prediction_sha256": "7635fe4fcdf1ec2b7bb6ea20d776548d2dcc436716bcbcaa3a4c906250a57e34",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 58,
+  "usage": {
+    "completion_tokens": 80,
+    "prompt_tokens": 4541,
+    "prompt_tokens_details": null,
+    "total_tokens": 4621
+  }
+}

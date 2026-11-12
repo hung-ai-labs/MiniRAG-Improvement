@@ -1,0 +1,17 @@
+{
+  "body_sha256": "e5ab25d451ca634158e26e99224e328983cb87ca0431a580e51dabeef5eb87fa",
+  "finish_reason": "stop",
+  "latency_s": 13.717052583000623,
+  "prediction": "Based on the information provided, Li Hua's training sessions occur on different days depending on the context of each interaction. In the initial exchange mentioned in source 1, Jennifer Moore suggests scheduling a session \"tomorrow at 3 PM.\" In source 3, Jennifer Moore mentions a rescheduled session happening \"Friday instead\" due to Li Hua's work meeting. Additionally, in source 13, Jennifer Moore confirms a session scheduled for \"Friday at 10:00am.\" \n\nTherefore, it appears that Li Hua attends training sessions on both weekdays (specifically Wednesday and Friday) and possibly on weekends, based on the interactions provided. However, the exact frequency and specific days for his training sessions are not consistently detailed across all interactions.",
+  "prediction_sha256": "7e9469a6f569be547fb30bce0c9c84254f76be6b9dcad3d0b0f008bea00db403",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100073,
+  "usage": {
+    "completion_tokens": 154,
+    "prompt_tokens": 4601,
+    "prompt_tokens_details": null,
+    "total_tokens": 4755
+  }
+}

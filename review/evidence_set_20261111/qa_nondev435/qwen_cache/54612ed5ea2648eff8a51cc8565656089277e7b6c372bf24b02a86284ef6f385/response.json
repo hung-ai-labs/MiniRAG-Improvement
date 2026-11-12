@@ -1,0 +1,17 @@
+{
+  "body_sha256": "54612ed5ea2648eff8a51cc8565656089277e7b6c372bf24b02a86284ef6f385",
+  "finish_reason": "stop",
+  "latency_s": 9.986372791005124,
+  "prediction": "During the picnic, RexxarRemar suggests bringing blankets to the newly renovated garden to ensure attendees have a comfortable place to relax and enjoy the food. He emphasizes the importance of having good seating options to accommodate the crowd, as he anticipates it may become somewhat crowded. Additionally, RexxarRemar mentions that having some snacks and drinks available will help keep everyone energized throughout the event.",
+  "prediction_sha256": "e5c0f7bd0101b6b7807ecd0185c587278210eaba4bc5c0ad9b7af1575e7ff738",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 396,
+  "usage": {
+    "completion_tokens": 81,
+    "prompt_tokens": 4108,
+    "prompt_tokens_details": null,
+    "total_tokens": 4189
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "bed1d225940d75b158cdc4358a1031d931a58bfcc90fd8871d8c621c4b35eda0",
+  "finish_reason": "stop",
+  "latency_s": 10.131999249999353,
+  "prediction": "Based on the conversation between Hailey and Li on August 16, 2026, Hailey offered Li a 15% discount on her order if she placed it by the end of that week. This discount was specifically mentioned as part of the \"early bird discount\" that Hailey Johnson was offering for a special sale at Hailey's Bakery for the upcoming holiday.",
+  "prediction_sha256": "a3247a041e9c2db507eac58ef7495601945326f77bbc8b7b635d4a1cdf1ba90a",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100173,
+  "usage": {
+    "completion_tokens": 80,
+    "prompt_tokens": 4478,
+    "prompt_tokens_details": null,
+    "total_tokens": 4558
+  }
+}

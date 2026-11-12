@@ -1,0 +1,17 @@
+{
+  "body_sha256": "eb8954e662028905cdeba9de059b5a59c0d36ca8bf1aa3634a8fee969e8fb280",
+  "finish_reason": "stop",
+  "latency_s": 5.231900000002497,
+  "prediction": "According to the conversation, Adam Smith provided the maintenance worker's contact number to Li Hua for the broken streetlight issue. Specifically, Adam Smith gave the following contact number: \n\n```plaintext\n314159\n```\n\nThis number was intended for Li Hua to reach out to the maintenance worker for addressing the broken streetlight.",
+  "prediction_sha256": "a49a65dc097dc247fa8c4b4df5edd4502bf3f6372bac71785d01c4a54c793fa9",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 132,
+  "usage": {
+    "completion_tokens": 71,
+    "prompt_tokens": 4412,
+    "prompt_tokens_details": null,
+    "total_tokens": 4483
+  }
+}

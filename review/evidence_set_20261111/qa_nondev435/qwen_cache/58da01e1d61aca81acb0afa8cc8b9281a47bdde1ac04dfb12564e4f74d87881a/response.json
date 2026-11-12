@@ -1,0 +1,17 @@
+{
+  "body_sha256": "58da01e1d61aca81acb0afa8cc8b9281a47bdde1ac04dfb12564e4f74d87881a",
+  "finish_reason": "stop",
+  "latency_s": 7.937132458999258,
+  "prediction": "Based on the conversation between LiHua and WolfgangSchulz, it appears that LiHua will be responsible for picking up the snacks and drinks on her way to the movie night. WolfgangSchulz mentioned that he wants soda and juice, and LiHua confirmed that she would be bringing these items.",
+  "prediction_sha256": "caab6e9c6560d86e4bbca753c641f58f4f535dec61662eb2f5b9217724e31334",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 307,
+  "usage": {
+    "completion_tokens": 64,
+    "prompt_tokens": 5031,
+    "prompt_tokens_details": null,
+    "total_tokens": 5095
+  }
+}

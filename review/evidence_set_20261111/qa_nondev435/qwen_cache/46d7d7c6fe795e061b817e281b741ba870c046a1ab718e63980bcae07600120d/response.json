@@ -1,0 +1,17 @@
+{
+  "body_sha256": "46d7d7c6fe795e061b817e281b741ba870c046a1ab718e63980bcae07600120d",
+  "finish_reason": "stop",
+  "latency_s": 8.445708999999624,
+  "prediction": "Based on the conversations shared, WolfgangSchulz mentions that LiHua expresses a preference for Spider-Man as their favorite superhero. Specifically, WolfgangSchulz states, \"I think Spider-Man is my fave! Love his story and all the web-slinging action.\" Therefore, LiHua's favorite superhero is Spider-Man.",
+  "prediction_sha256": "df9846d97ff025a96d78288ca05fa98e56c872f0e215d943a7d1d07b67449260",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 157,
+  "usage": {
+    "completion_tokens": 69,
+    "prompt_tokens": 4236,
+    "prompt_tokens_details": null,
+    "total_tokens": 4305
+  }
+}

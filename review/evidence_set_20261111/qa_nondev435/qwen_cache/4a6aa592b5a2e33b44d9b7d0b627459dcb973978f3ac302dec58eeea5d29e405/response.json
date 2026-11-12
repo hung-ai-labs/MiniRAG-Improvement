@@ -1,0 +1,17 @@
+{
+  "body_sha256": "4a6aa592b5a2e33b44d9b7d0b627459dcb973978f3ac302dec58eeea5d29e405",
+  "finish_reason": "stop",
+  "latency_s": 9.368859791000432,
+  "prediction": "Emily Burnett is currently watching a series titled \"The Bear.\" She described it as a series that dives into the chaos of running a restaurant while also exploring the characters' emotions. The storytelling is gripping, and she particularly enjoys the raw, relatable humor that makes it feel authentic. Emily mentions that the series has a mix of drama and comedy, and she recommends it to anyone who enjoys a good character-driven story.",
+  "prediction_sha256": "d976b715d5330f6b6416e41aa25f24ec5efc90e3f24c86296e9b4d4ad7baef5c",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200386,
+  "usage": {
+    "completion_tokens": 84,
+    "prompt_tokens": 4315,
+    "prompt_tokens_details": null,
+    "total_tokens": 4399
+  }
+}

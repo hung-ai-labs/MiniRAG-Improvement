@@ -1,0 +1,17 @@
+{
+  "body_sha256": "3bcfd449b413e37bbd9a811dc27d9b1efae7dfdda7d90233ec873597adc984ab",
+  "finish_reason": "stop",
+  "latency_s": 12.36492512499899,
+  "prediction": "According to the information provided, Wolfgang is informed about his upcoming business trip to Hong Kong. Specifically, in the message dated 20261221_12:00, Wolfgang mentions, \"Hey everyone! Just a heads-up, I won't be able to make it to practice this week. I have a business trip to Hong Kong. Catch you all next time!\" This indicates that Wolfgang has shared this news with his contacts, including Li Hua, Chae Song-hwa, and Yuriko Yamamoto. Therefore, it is clear that Wolfgang's trip to Hong Kong is known by at least these individuals.",
+  "prediction_sha256": "d6eae1caeacba5c8a1e8b0f28d20d6a881805e021a44e87d090275cc7e376222",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200033,
+  "usage": {
+    "completion_tokens": 131,
+    "prompt_tokens": 4767,
+    "prompt_tokens_details": null,
+    "total_tokens": 4898
+  }
+}

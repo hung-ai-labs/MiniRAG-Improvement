@@ -1,0 +1,17 @@
+{
+  "body_sha256": "e9d9f2fbcee5559fd330981a2f9f02fe4858c7791ebc2de7a3ca6058f0e80d59",
+  "finish_reason": "stop",
+  "latency_s": 13.4160607920021,
+  "prediction": "Based on the interactions detailed in the conversation, it appears that Hailey prepares various bread types for her customers, including a rosemary focaccia, which Li Hua expressed interest in trying. For the rosemary focaccia, Hailey recommends drizzling it with olive oil and sprinkling it with sea salt. Additional toppings like cherry tomatoes or olives can enhance the flavor, according to Hailey. As for the bakery, it is clearly identified as \"Hailey's Bakery\" in multiple contexts, such as in Alice's delivery messages and in the conversations between Hailey and Li Hua. Therefore, the bakery that Li Hua receives her bread from is Hailey's Bakery.",
+  "prediction_sha256": "f540e9ac304575c703a4320d5f742a9a62987320fbde06f2dbb62541123bd1e7",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 420,
+  "usage": {
+    "completion_tokens": 140,
+    "prompt_tokens": 4949,
+    "prompt_tokens_details": null,
+    "total_tokens": 5089
+  }
+}

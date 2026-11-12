@@ -1,0 +1,17 @@
+{
+  "body_sha256": "ccba35df935d8d5e9f96cc9494dcf1c2a9274e2e250866536833a687ac5cc418",
+  "finish_reason": "stop",
+  "latency_s": 10.672628166998038,
+  "prediction": "During the discussion about the picnic, RexxarRemar suggested bringing some blankets or chairs for seating. He explained that it might get a bit crowded and that blankets would be perfect for relaxing on the grass and enjoying their food. Additionally, RexxarRemar proposed having a mix of snacks and drinks to keep everyone energized, and he even suggested having a little competition for who could bring the best treat. These suggestions were aimed at ensuring that the picnic was not only enjoyable but also a comfortable and social gathering.",
+  "prediction_sha256": "3dd1c5204f232f993e9a3fa1c3293d26424fc77f25778b62825ba39ae3983943",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100396,
+  "usage": {
+    "completion_tokens": 105,
+    "prompt_tokens": 4277,
+    "prompt_tokens_details": null,
+    "total_tokens": 4382
+  }
+}

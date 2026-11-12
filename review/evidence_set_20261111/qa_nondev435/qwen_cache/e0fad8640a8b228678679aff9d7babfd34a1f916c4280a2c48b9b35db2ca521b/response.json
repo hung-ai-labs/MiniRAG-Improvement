@@ -1,0 +1,17 @@
+{
+  "body_sha256": "e0fad8640a8b228678679aff9d7babfd34a1f916c4280a2c48b9b35db2ca521b",
+  "finish_reason": "stop",
+  "latency_s": 11.171076459002506,
+  "prediction": "In the soccer practice session planned for Saturday afternoon, Giselle offered to help with setting up drills or providing any assistance needed. Specifically, she mentioned, \"I'm excited to mix it up and improve together! See you on Saturday!\" However, the document does not explicitly state that Giselle brought the cones. Instead, it mentions that LiHua, Caspian, and others were planning to bring their own equipment for the practice session, including balls and cones.",
+  "prediction_sha256": "96b15752de096870247a8617571931e43a58e4a1c51cd596f12b9d100be7ea97",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 363,
+  "usage": {
+    "completion_tokens": 97,
+    "prompt_tokens": 4872,
+    "prompt_tokens_details": null,
+    "total_tokens": 4969
+  }
+}

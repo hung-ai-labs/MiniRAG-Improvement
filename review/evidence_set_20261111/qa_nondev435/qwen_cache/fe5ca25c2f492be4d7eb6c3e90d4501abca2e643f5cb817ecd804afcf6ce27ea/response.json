@@ -1,0 +1,17 @@
+{
+  "body_sha256": "fe5ca25c2f492be4d7eb6c3e90d4501abca2e643f5cb817ecd804afcf6ce27ea",
+  "finish_reason": "stop",
+  "latency_s": 11.607589666997228,
+  "prediction": "On the occasion marked as \"20260715_19:00\", ChaeSong-hwa mentioned checking out a live performance of \"Bohemian Rhapsody\" by Queen. He suggested that the band might want to give this song a try during their rehearsals. This performance appears to be the specific performance that Chae wanted the band to focus on for potential inclusion in their repertoire.",
+  "prediction_sha256": "91dead6f9ce12b038dfd3eaea2b319b2eb0805bf304d0953c6ba9fcc50fdc80b",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 152,
+  "usage": {
+    "completion_tokens": 87,
+    "prompt_tokens": 5648,
+    "prompt_tokens_details": null,
+    "total_tokens": 5735
+  }
+}

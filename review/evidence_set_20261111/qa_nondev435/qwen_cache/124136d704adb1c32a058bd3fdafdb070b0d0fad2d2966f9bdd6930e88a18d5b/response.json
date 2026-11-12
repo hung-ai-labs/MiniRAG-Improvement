@@ -1,0 +1,17 @@
+{
+  "body_sha256": "124136d704adb1c32a058bd3fdafdb070b0d0fad2d2966f9bdd6930e88a18d5b",
+  "finish_reason": "stop",
+  "latency_s": 18.41471054199792,
+  "prediction": "Based on the conversations provided in the table entries, Wolfgang and Li Hua are planning to meet at their favorite Italian restaurant to celebrate Wolfgang's promotion. This decision is evident from the following entry:\n\n```\nTime: 20260428_18:30\nWolfgangSchulz: Hey! 🎉 I just got promoted! Want to celebrate with dinner the day after tomorrow? How about 6 PM?\nLiHua: Congrats on the promotion! That's awesome! 🎉 I'd love to join for dinner on Thursday at 6 PM. Where do you want to go?\nWolfgangSchulz: Thanks! How about our favorite Italian place? They have the best pasta! What do you think?\nLiHua: Sounds perfect! I’ve been craving their pasta. Can't wait! 🍝\nWolfgangSchulz: Awesome! It's gonna be a great time. Looking forward to it! 🎉\n```\n\nThe exact name of the restaurant isn't mentioned, but it is referred to as \"our favorite Italian place.\" Therefore, without additional context, the name of the Italian restaurant remains unknown.",
+  "prediction_sha256": "8023af0f7fe04cdc9576a629027d8fdf8b2134d6c6c6736586a41ab03965f703",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 116,
+  "usage": {
+    "completion_tokens": 245,
+    "prompt_tokens": 3955,
+    "prompt_tokens_details": null,
+    "total_tokens": 4200
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "2abb71eb96b1d8db965df539f1b1e2dadadcc94816691233d001d909536d0e25",
+  "finish_reason": "stop",
+  "latency_s": 12.594328166000196,
+  "prediction": "In the group discussion on 20260629, ChaeSong-hwa expressed interest in bringing in a mix of classic rock and acoustic songs. Specifically, he suggested the following songs:\n\n- \"Uptown Funk\"\n- \"Happy\"\n- \"Hotel California\"\n- \"The Joker\" by Steve Miller Band\n- \"Sweet Home Alabama\"\n- \"Blackbird\"\n\nThese suggestions were part of a broader discussion about creating a setlist that included both upbeat and nostalgic tracks to bring energy and variety to the band's jam session.",
+  "prediction_sha256": "c01dad86a28c8ee508acb88dff34fc438ae010a7300531a18f45d416cd7ce7ce",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200144,
+  "usage": {
+    "completion_tokens": 112,
+    "prompt_tokens": 5341,
+    "prompt_tokens_details": null,
+    "total_tokens": 5453
+  }
+}

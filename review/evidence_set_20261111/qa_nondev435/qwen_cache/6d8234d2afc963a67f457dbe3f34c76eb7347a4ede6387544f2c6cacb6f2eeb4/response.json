@@ -1,0 +1,17 @@
+{
+  "body_sha256": "6d8234d2afc963a67f457dbe3f34c76eb7347a4ede6387544f2c6cacb6f2eeb4",
+  "finish_reason": "stop",
+  "latency_s": 8.359832333997474,
+  "prediction": "Jasper recommends the 2005 final between Liverpool and AC Milan as a classic must-watch UCL match. He describes the comeback victory of Liverpool, which was down 3-0 at halftime but managed to win in penalties, as an \"insane\" and \"miracle\" moment. This match showcases the dramatic nature of UCL finals and is highly regarded by Jasper.",
+  "prediction_sha256": "75ad93c189fe44e7233f21e3fa7ead9e3e1d34522ee0aacea4030a93b9e1e960",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 182,
+  "usage": {
+    "completion_tokens": 79,
+    "prompt_tokens": 4552,
+    "prompt_tokens_details": null,
+    "total_tokens": 4631
+  }
+}

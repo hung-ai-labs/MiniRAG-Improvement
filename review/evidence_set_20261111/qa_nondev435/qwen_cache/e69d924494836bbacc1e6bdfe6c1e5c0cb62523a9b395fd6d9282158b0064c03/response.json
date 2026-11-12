@@ -1,0 +1,17 @@
+{
+  "body_sha256": "e69d924494836bbacc1e6bdfe6c1e5c0cb62523a9b395fd6d9282158b0064c03",
+  "finish_reason": "stop",
+  "latency_s": 11.149078209000436,
+  "prediction": "On April 5th, 2026, Li Hua proposed \"Viva la Vida\" by Coldplay for their jam session. This song was suggested because Li Hua believed it would be fun to play and the crowd typically enjoyed it. Wolfgang Schulz also expressed his agreement, stating that the song would elevate their performance and it was a fun one to play on the drums. Li Hua enthusiastically agreed, indicating that they were looking forward to playing it together.",
+  "prediction_sha256": "299f40c2fa6634113822cd5adba49824c32095642782b59c34271c66635d6841",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 103,
+  "usage": {
+    "completion_tokens": 99,
+    "prompt_tokens": 4457,
+    "prompt_tokens_details": null,
+    "total_tokens": 4556
+  }
+}

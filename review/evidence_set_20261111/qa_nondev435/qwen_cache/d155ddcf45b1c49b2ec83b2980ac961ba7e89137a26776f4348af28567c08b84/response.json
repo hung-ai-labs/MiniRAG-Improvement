@@ -1,0 +1,17 @@
+{
+  "body_sha256": "d155ddcf45b1c49b2ec83b2980ac961ba7e89137a26776f4348af28567c08b84",
+  "finish_reason": "stop",
+  "latency_s": 11.008884582999599,
+  "prediction": "JakeWatson recommends several exercises for improving leg strength, emphasizing their importance for soccer players to prevent injuries and enhance performance. Specifically, he suggests squats and lunges, noting that these exercises are particularly beneficial for generating power on the field. Additionally, he mentions the importance of including balance exercises like single-leg stands, as these can help improve overall stability and reduce the risk of falls or sprains.",
+  "prediction_sha256": "9f031f3f8edcbaf7097b07d5cd1197dc3e23aa77d77fc7257661546e3e74f72e",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 268,
+  "usage": {
+    "completion_tokens": 81,
+    "prompt_tokens": 3540,
+    "prompt_tokens_details": null,
+    "total_tokens": 3621
+  }
+}

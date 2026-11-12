@@ -1,0 +1,17 @@
+{
+  "body_sha256": "c4a85291a164b672f8d27b8d58727705406112b5c1865e0ea786370ad7a69f06",
+  "finish_reason": "stop",
+  "latency_s": 13.294039166998118,
+  "prediction": "During Wolfgang's invitation for dinner, he suggested trying the restaurant's risotto, which he described as \"really good.\" However, Wolfgang also expressed interest in ordering the pasta dish that Li Hua mentioned was \"so rich and flavorful.\" This indicates that Wolfgang had a preference for the pasta dish served at the restaurant, rather than the risotto. Additionally, Wolfgang suggested they could play music for their dinner, showing his enjoyment of music and entertainment during meals. Given this context, it appears Wolfgang planned to order the pasta dish that Li Hua highly recommended, as it seemed to be the standout feature of their meal experience.",
+  "prediction_sha256": "1bbd7ab1034ab5e40245e4b5669644e2aa0398ef0b9ef90357919c4cb0892801",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 426,
+  "usage": {
+    "completion_tokens": 125,
+    "prompt_tokens": 4697,
+    "prompt_tokens_details": null,
+    "total_tokens": 4822
+  }
+}

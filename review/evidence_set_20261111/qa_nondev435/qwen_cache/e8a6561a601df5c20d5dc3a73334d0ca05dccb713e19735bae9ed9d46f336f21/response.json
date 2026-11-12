@@ -1,0 +1,17 @@
+{
+  "body_sha256": "e8a6561a601df5c20d5dc3a73334d0ca05dccb713e19735bae9ed9d46f336f21",
+  "finish_reason": "stop",
+  "latency_s": 10.154421708000882,
+  "prediction": "On April 5th, 2026, Li Hua suggested playing \"Viva la Vida\" by Coldplay for their jam session. Wolfgang Schulz agreed enthusiastically, noting that the song would be fun to play and would also elevate their performance. Li Hua expressed excitement about the possibility of adding this song to their set list, describing it as \"epic.\"",
+  "prediction_sha256": "253fd3256ea7fca0ebf8511290ff93f59dcd0c0a9ac923dbc11f3823f9e02d5a",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200103,
+  "usage": {
+    "completion_tokens": 79,
+    "prompt_tokens": 4457,
+    "prompt_tokens_details": null,
+    "total_tokens": 4536
+  }
+}

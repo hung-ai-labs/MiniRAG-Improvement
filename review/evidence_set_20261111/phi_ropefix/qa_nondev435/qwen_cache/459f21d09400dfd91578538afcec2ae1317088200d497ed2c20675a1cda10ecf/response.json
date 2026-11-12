@@ -1,0 +1,17 @@
+{
+  "body_sha256": "459f21d09400dfd91578538afcec2ae1317088200d497ed2c20675a1cda10ecf",
+  "finish_reason": "stop",
+  "latency_s": 5.107721332999063,
+  "prediction": " Elara mentions \"The Last of Us Part II\" as the game that made a significant emotional impact on her. She specifically talks about the storyline of Arthur and his confrontation with his past mistakes, which includes his efforts to help John's family and the grappling with his own morality. The contrast between Arthur's final moments of fighting for what's right and Dutch's fading morality is particularly striking to her, highlighting the weight of Arthur's journey and the redemption arc he experiences.",
+  "prediction_sha256": "b6675dfc74d363a345b17d8016bf5a604bcba3db26a282557d727b44f6b2e904",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 100323,
+  "usage": {
+    "completion_tokens": 112,
+    "prompt_tokens": 4785,
+    "prompt_tokens_details": null,
+    "total_tokens": 4897
+  }
+}

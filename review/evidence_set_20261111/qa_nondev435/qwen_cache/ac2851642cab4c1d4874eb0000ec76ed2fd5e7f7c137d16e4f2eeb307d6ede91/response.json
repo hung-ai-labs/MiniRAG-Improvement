@@ -1,0 +1,17 @@
+{
+  "body_sha256": "ac2851642cab4c1d4874eb0000ec76ed2fd5e7f7c137d16e4f2eeb307d6ede91",
+  "finish_reason": "stop",
+  "latency_s": 7.6647839170000225,
+  "prediction": "Based on the conversations recorded, on 20260908_21:00, LiHua mentioned that he had been working on two specific songs: \"Blackbird\" and \"Hotel California.\" These were mentioned in the context of exploring fusion music by blending jazz and rock elements. Therefore, on 20260908, LiHua was working on the new songs \"Blackbird\" and \"Hotel California\" on his guitar.",
+  "prediction_sha256": "7883018533c9bef41145844810b220932b7af9215a82ca56f7e2b380d2320e4d",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100195,
+  "usage": {
+    "completion_tokens": 99,
+    "prompt_tokens": 4879,
+    "prompt_tokens_details": null,
+    "total_tokens": 4978
+  }
+}

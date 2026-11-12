@@ -1,0 +1,17 @@
+{
+  "body_sha256": "6be6aa955001ad122bbdf32c7c0b5c984af1353e518ea17fd24e58da6c1a31dd",
+  "finish_reason": "stop",
+  "latency_s": 4.617257750000135,
+  "prediction": "Based on the conversations recorded, on 20260908 LiHua mentioned that he had been working on two specific songs recently: \"Blackbird\" and \"Hotel California.\" These appear to be the new guitar-related activities LiHua was focusing on at the time.",
+  "prediction_sha256": "8ce1c132afd2b146849d5877e663ab9459c2a68f1aedde64d56b5d388e17dde5",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100195,
+  "usage": {
+    "completion_tokens": 60,
+    "prompt_tokens": 4763,
+    "prompt_tokens_details": null,
+    "total_tokens": 4823
+  }
+}

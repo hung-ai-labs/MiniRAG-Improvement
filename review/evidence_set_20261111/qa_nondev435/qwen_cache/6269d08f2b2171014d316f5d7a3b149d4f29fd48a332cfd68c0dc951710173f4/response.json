@@ -1,0 +1,17 @@
+{
+  "body_sha256": "6269d08f2b2171014d316f5d7a3b149d4f29fd48a332cfd68c0dc951710173f4",
+  "finish_reason": "stop",
+  "latency_s": 11.532964625002933,
+  "prediction": "In the conversation, Wolfgang mentions that he wants to celebrate his promotion with dinner at a favorite Italian place. This preference aligns with a previous interaction where Wolfgang suggested meeting at their \"favorite Italian place\" for pasta, indicating this as the venue for the upcoming dinner celebration. Therefore, the name of the Italian restaurant where Wolfgang and Li Hua are having dinner to celebrate Wolfgang's promotion is their favorite Italian place, which they have frequented for pasta dishes.",
+  "prediction_sha256": "d7ac23eb0fe5493a7369be9a7aafbaec6d394e9f089581c6eecbf8643ffccc5c",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100116,
+  "usage": {
+    "completion_tokens": 92,
+    "prompt_tokens": 4550,
+    "prompt_tokens_details": null,
+    "total_tokens": 4642
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "4771c770f92c2d7a4f8ffc8d9be3177dac7b48672ee0268f40361632df040642",
+  "finish_reason": "stop",
+  "latency_s": 7.840074249997997,
+  "prediction": "There isn't any mention of Adam reminding Li Hua not to play guitar late at night in the provided conversations. The interactions between Adam Smith and Li Hua primarily revolve around reminders about picking up a key, class changes, and plans for jam sessions and social gatherings. There is no discussion about playing hours or noise levels affecting sleep.",
+  "prediction_sha256": "81274f6ce5f84ba30da28a846df9f6b8ab3c6d731a670a33a0eb2eb55ec89315",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100081,
+  "usage": {
+    "completion_tokens": 69,
+    "prompt_tokens": 4269,
+    "prompt_tokens_details": null,
+    "total_tokens": 4338
+  }
+}

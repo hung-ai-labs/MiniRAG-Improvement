@@ -1,0 +1,17 @@
+{
+  "body_sha256": "8a2e618a195b16cd18fdca769d0ef229474d7c92f7c6ab08a40973aec64cd9d8",
+  "finish_reason": "stop",
+  "latency_s": 10.19724504199985,
+  "prediction": " In the conversation marked with ID 6, WolfgangSchulz proposes going out for hot pot for dinner. The exchange between LiHua and WolfgangSchulz regarding this plan is as follows:\n\nWolfgangSchulz: Hey man! Wanna go have hot pot for dinner tonight? Let me know!\nLiHua: Hey man! Hot pot sounds perfect! Sichuan is my fave. What time are we thinking?\nWolfgangSchulz: How about 7 pm? That should give us enough time to get ready!\nLiHua: How about 7 pm? That should give us enough time to get ready!\nWolfgangSchulz: 7 pm works for me! Can’t wait for all that spicy goodness! 🍲🔥\nLiHua: Yeah, me too! Should we pick up some drinks on the way?\n\nThis interaction shows that WolfgangSchulz is the one suggesting the hot pot dinner, and they agree on a time to meet at 7 PM.",
+  "prediction_sha256": "c937eb0be639658f3fd6ee8383fbf5ed6b4967ad82c75922949fbb887a6a74bf",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 118,
+  "usage": {
+    "completion_tokens": 230,
+    "prompt_tokens": 5070,
+    "prompt_tokens_details": null,
+    "total_tokens": 5300
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "10c7202fe0e6fbeb217c6f0b5e9db59a5c83f312bd5c05ec392c9ca48a182db2",
+  "finish_reason": "stop",
+  "latency_s": 10.632351333002589,
+  "prediction": "In one of the discussions, Gavriel mentions \"The Witcher 3\" as a game that he loves because of its rich quests and side stories, which are described as \"just so rich and engaging.\" Additionally, Gavriel notes that \"The Witcher 3\" offers a compelling narrative with \"top-notch character development,\" particularly highlighting Geralt's character, which he describes as feeling \"real.\" Gavriel also points out that the game includes an additional layer of enjoyment through the Gwent mini-game, which adds to the overall experience. Therefore, \"The Witcher 3\" is the game that Gavriel mentions for its characters and plot twists.",
+  "prediction_sha256": "a680df48f87241b0caca0b4936eb2803b757358587ee3caec16636e1617b14d2",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 321,
+  "usage": {
+    "completion_tokens": 137,
+    "prompt_tokens": 4184,
+    "prompt_tokens_details": null,
+    "total_tokens": 4321
+  }
+}

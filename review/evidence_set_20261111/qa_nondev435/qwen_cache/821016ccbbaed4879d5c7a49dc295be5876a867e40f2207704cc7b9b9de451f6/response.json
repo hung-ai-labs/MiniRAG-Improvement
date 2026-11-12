@@ -1,0 +1,17 @@
+{
+  "body_sha256": "821016ccbbaed4879d5c7a49dc295be5876a867e40f2207704cc7b9b9de451f6",
+  "finish_reason": "stop",
+  "latency_s": 9.172287708002841,
+  "prediction": "During the bakery's anniversary event, Li Hua expressed her enjoyment of various items. She specifically mentioned that she loved sourdough, indicating a preference for that type of bread. However, her excitement extended beyond just sourdough as she also hoped to find sweet pastries, suggesting she enjoys a variety of bread types. Overall, the new bread products, including the sourdough, were well-received by Li Hua.",
+  "prediction_sha256": "e88369f6e27ecbbcd091b02b277d6e2a5415e8239df2b1888befaa15047163e4",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100424,
+  "usage": {
+    "completion_tokens": 88,
+    "prompt_tokens": 3815,
+    "prompt_tokens_details": null,
+    "total_tokens": 3903
+  }
+}

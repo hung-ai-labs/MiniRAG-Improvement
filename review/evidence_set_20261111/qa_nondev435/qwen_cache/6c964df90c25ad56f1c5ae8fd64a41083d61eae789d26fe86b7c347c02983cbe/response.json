@@ -1,0 +1,17 @@
+{
+  "body_sha256": "6c964df90c25ad56f1c5ae8fd64a41083d61eae789d26fe86b7c347c02983cbe",
+  "finish_reason": "stop",
+  "latency_s": 8.007717041000433,
+  "prediction": "No, the time interval between LiHua confirming receipt of the curtains (March 9th at 12:00) and Adam inquiring about the condition of the curtains (Wednesday at 5 pm) is less than 3 days. Specifically, it spans two days, from March 9th to March 11th. Thus, the time interval is not more than 3 days.",
+  "prediction_sha256": "1e6d63f3e6bc80cee9e59dcb3b391e9e69b27b65c882530bac30d24daf7b719a",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200043,
+  "usage": {
+    "completion_tokens": 84,
+    "prompt_tokens": 4331,
+    "prompt_tokens_details": null,
+    "total_tokens": 4415
+  }
+}

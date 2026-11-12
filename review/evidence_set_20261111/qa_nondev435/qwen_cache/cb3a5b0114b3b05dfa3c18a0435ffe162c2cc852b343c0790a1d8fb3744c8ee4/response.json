@@ -1,0 +1,17 @@
+{
+  "body_sha256": "cb3a5b0114b3b05dfa3c18a0435ffe162c2cc852b343c0790a1d8fb3744c8ee4",
+  "finish_reason": "stop",
+  "latency_s": 7.861074874999758,
+  "prediction": "Li Hua asked Jennifer Moore for tips on dealing with muscle soreness after experiencing some soreness in her arm muscles following a workout. This interaction took place on September 24, 2026, at 20:00, as noted in the conversation recorded under ID 0.",
+  "prediction_sha256": "88ddb331d11ad63fde3afa49e2442548490cdcc14a5b0733e9ab724afb97c02e",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100074,
+  "usage": {
+    "completion_tokens": 63,
+    "prompt_tokens": 3734,
+    "prompt_tokens_details": null,
+    "total_tokens": 3797
+  }
+}

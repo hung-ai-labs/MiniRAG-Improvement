@@ -1,0 +1,17 @@
+{
+  "body_sha256": "d0fcf76ffdbfde8570ac9a74b5bc94b598c3c9d0d841d454ffc3213e10a5ff4c",
+  "finish_reason": "stop",
+  "latency_s": 12.307979416000308,
+  "prediction": "ChaeSong-hwa has organized several karaoke activities based on the messages provided. From the first message dated 20260421_16:00, it is clear that he invited Li Hua to participate in a karaoke activity scheduled for Saturday at 7 PM. Additionally, there is another mention of a karaoke session planned for next weekend, as indicated in the second message dated 20260525_15:00. This indicates that ChaeSong-hwa is actively planning future karaoke sessions for his friends.",
+  "prediction_sha256": "47d3ee690ea544750f5e6448ac2afdaa117fb8dc7fea5e3fabe8a3bd68b1727a",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200112,
+  "usage": {
+    "completion_tokens": 121,
+    "prompt_tokens": 4488,
+    "prompt_tokens_details": null,
+    "total_tokens": 4609
+  }
+}

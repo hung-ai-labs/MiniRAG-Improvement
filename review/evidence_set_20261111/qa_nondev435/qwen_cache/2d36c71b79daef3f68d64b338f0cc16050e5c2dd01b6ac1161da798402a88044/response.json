@@ -1,0 +1,17 @@
+{
+  "body_sha256": "2d36c71b79daef3f68d64b338f0cc16050e5c2dd01b6ac1161da798402a88044",
+  "finish_reason": "stop",
+  "latency_s": 10.86891666700103,
+  "prediction": "Based on the conversation between Li Hua and Emily Burnett, Li Hua expressed interest in watching \"The Last of Us\". Emily Burnett mentioned that she had heard great things about the game and recommended that Li Hua give it a watch due to its engaging character development and emotional intensity. Specifically, Emily Burnett stated, \"It's really intense so far. Have you seen it? What do you think?\" Li Hua responded positively, saying, \"Sounds awesome! I'll make it a point to binge it this weekend. Thanks for the recommendation!\" Thus, Li Hua plans to watch \"The Last of Us\" this upcoming weekend, likely as part of a binge-watching session.",
+  "prediction_sha256": "5c8990634d5fdbbcafcfb2db3e0f4a4a056cb83e6817406ba2bc17db24a470e6",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 388,
+  "usage": {
+    "completion_tokens": 139,
+    "prompt_tokens": 4280,
+    "prompt_tokens_details": null,
+    "total_tokens": 4419
+  }
+}

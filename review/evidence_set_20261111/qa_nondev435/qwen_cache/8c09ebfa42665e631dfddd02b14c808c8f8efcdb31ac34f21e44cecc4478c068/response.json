@@ -1,0 +1,17 @@
+{
+  "body_sha256": "8c09ebfa42665e631dfddd02b14c808c8f8efcdb31ac34f21e44cecc4478c068",
+  "finish_reason": "stop",
+  "latency_s": 15.882769707997795,
+  "prediction": "No, there is no more than a three-day gap between LiHua confirming receipt of the curtains and Adam inquiring about their quality. Specifically, the conversation regarding the curtains took place on two separate occasions: \n\n1. On October 12, 2026 at 10:00 AM, Adam Smith reminds Li Hua to schedule a time to install the curtains together. Li Hua mentions that he received the curtains \"yesterday,\" which we interpret as the previous day, October 11, 2026.\n   \n2. On October 12, 2026 at 10:00 AM, Adam Smith asks Li Hua if the curtains are \"all good.\" \n\nTherefore, the time interval between these two conversations is exactly one day, not more than three days.",
+  "prediction_sha256": "55ea82b0623230d991fa9f2257068e982833d441b8b3a4e6157c5ec6d0e36438",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100043,
+  "usage": {
+    "completion_tokens": 172,
+    "prompt_tokens": 4388,
+    "prompt_tokens_details": null,
+    "total_tokens": 4560
+  }
+}

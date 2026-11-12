@@ -1,0 +1,17 @@
+{
+  "body_sha256": "71814ba5da8e58fd9ca62f1f220a615622ef74508530ef1f0163930d003e6ec6",
+  "finish_reason": "stop",
+  "latency_s": 7.431785042001138,
+  "prediction": "In the conversation recorded on 20261009_17:00, WolfgangSchulz suggests bringing snacks for the movie, and LiHua agrees to bring chips. Therefore, the snack that LiHua has agreed to bring for the movie is chips.",
+  "prediction_sha256": "120215555c1021df77ca46cb1e78a052ce33f4c6c512f36b6aec8a0bc32fe70c",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200306,
+  "usage": {
+    "completion_tokens": 60,
+    "prompt_tokens": 4114,
+    "prompt_tokens_details": null,
+    "total_tokens": 4174
+  }
+}

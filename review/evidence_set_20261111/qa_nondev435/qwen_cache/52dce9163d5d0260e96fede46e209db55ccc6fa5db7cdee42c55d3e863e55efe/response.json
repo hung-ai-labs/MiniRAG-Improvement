@@ -1,0 +1,17 @@
+{
+  "body_sha256": "52dce9163d5d0260e96fede46e209db55ccc6fa5db7cdee42c55d3e863e55efe",
+  "finish_reason": "stop",
+  "latency_s": 8.054140249998454,
+  "prediction": "Li Hua initiated a change in the training plan during a conversation with Jennifer Moore on February 4th, 2026, at 3 PM. Specifically, he mentioned wanting to switch to a training schedule that would allow him to balance his work and fitness better. Jennifer Moore suggested adjusting the training sessions to occur twice a week, focusing on efficiency and intensity. This discussion took place following their initial planning session and before any formal change was implemented.",
+  "prediction_sha256": "8a9bfd282838d19536b919aa74eaba3721eacc19d6bfe0aac206c1582f1b5651",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100072,
+  "usage": {
+    "completion_tokens": 93,
+    "prompt_tokens": 4547,
+    "prompt_tokens_details": null,
+    "total_tokens": 4640
+  }
+}

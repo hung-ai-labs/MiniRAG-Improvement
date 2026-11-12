@@ -1,0 +1,17 @@
+{
+  "body_sha256": "994d35c09356f62cfeb5471579104da21e0d96e7ac7f87a27d68edc3ba0c999f",
+  "finish_reason": "stop",
+  "latency_s": 16.362829957997747,
+  "prediction": "According to the records, Li Hua has requested a delivery from Hailey Johnson multiple times. Specifically, on two occasions, Li Hua requested a delivery of bread from Hailey Johnson:\n\n1. On March 14, 2026, at 17:00, Li Hua expressed interest in the doorstep delivery service and specifically asked for bread deliveries twice a week, namely Mondays at 8am and Fridays at 8am. \n\n2. Additionally, on June 3, 2026, at 09:45, Li Hua expressed interest in a new flavor, Hazelnut Basque Roasted Cheese, which was available for a limited time and included in a 20% discount promotion.\n\nIn summary, Li Hua has requested deliveries from Hailey Johnson on several occasions, including specific requests for bread delivery and interest in new flavors.",
+  "prediction_sha256": "c9a105648f6d9483eee77a1afecaacb093927710f5846741237abe7eb89d96a2",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200093,
+  "usage": {
+    "completion_tokens": 184,
+    "prompt_tokens": 4369,
+    "prompt_tokens_details": null,
+    "total_tokens": 4553
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "124b08438f0d8c3a19cea620459dea6a930312cb617a684f3ec90a41b8a45cb2",
+  "finish_reason": "stop",
+  "latency_s": 11.850749791999988,
+  "prediction": "Based on the conversations provided, Jake Watson mentions several snacks that he likes to have during match days. Specifically, he suggests having chips and dip as a go-to snack. Additionally, he emphasizes the importance of pizza, stating that \"it keeps the energy up while cheering for Barca.\" Furthermore, Jake recommends having nachos with cheese and some spicy salsa as a favorite snack, indicating that these snacks add to the excitement of the game. Overall, Jake seems to enjoy having a variety of snacks, including chips, pizza, and nachos, to keep him energized and entertained throughout the match.",
+  "prediction_sha256": "77eee0a1c894ff372aa76fc92835b73af7e89a5b7ffc4209787f645b6da682d6",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200297,
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 3900,
+    "prompt_tokens_details": null,
+    "total_tokens": 4020
+  }
+}

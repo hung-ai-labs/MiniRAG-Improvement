@@ -1,0 +1,17 @@
+{
+  "body_sha256": "3a102db845d33331786d2e0a8394973615505c289767dd222a43642262a25e1e",
+  "finish_reason": "stop",
+  "latency_s": 7.298354750000726,
+  "prediction": "In one of the conversations, Li Hua specifically asks Adam Smith about the possibility of getting a small repair done on the door hinge that has been squeaking. This query arises due to a previous door hinge repair that Adam arranged, which resolved an issue but now Li Hua notices another problem with the door hinge. Li Hua expresses her appreciation for Adam's assistance with the initial repair and seeks further help for the current squeaking issue.",
+  "prediction_sha256": "aa93864c262dc6432fc8b7b46f32b96c8c1b33c26e98bbd66d06cbd3c73612cf",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100062,
+  "usage": {
+    "completion_tokens": 89,
+    "prompt_tokens": 4409,
+    "prompt_tokens_details": null,
+    "total_tokens": 4498
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "18055738788f6f85d3f9d270e75a39a0083a5bbf4b7ee30ece3e000647140a51",
+  "finish_reason": "stop",
+  "latency_s": 3.318451167004241,
+  "prediction": " Hailey Johnson begins her baking process early in the morning, typically at around 4 AM. This schedule ensures that all products, including bread, are fresh and ready for the day. It's a testament to her dedication to providing customers with the highest quality of baked goods.",
+  "prediction_sha256": "db21356033a2d068859c444534ec1b0de0ca6941d972d10eb03d797ce4a4ac78",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 200096,
+  "usage": {
+    "completion_tokens": 62,
+    "prompt_tokens": 4784,
+    "prompt_tokens_details": null,
+    "total_tokens": 4846
+  }
+}

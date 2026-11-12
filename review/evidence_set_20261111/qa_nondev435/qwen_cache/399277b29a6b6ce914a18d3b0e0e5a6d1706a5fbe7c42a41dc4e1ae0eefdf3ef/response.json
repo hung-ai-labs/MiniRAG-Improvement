@@ -1,0 +1,17 @@
+{
+  "body_sha256": "399277b29a6b6ce914a18d3b0e0e5a6d1706a5fbe7c42a41dc4e1ae0eefdf3ef",
+  "finish_reason": "stop",
+  "latency_s": 18.487095542001043,
+  "prediction": "Based on the conversations provided, Wolfgang and Li Hua decide to meet at their favorite Italian restaurant to celebrate Wolfgang's promotion. This is evident from the conversation in entry 1, where Wolfgang initiates the idea: \"Hey! I just got promoted! Want to celebrate with dinner the day after tomorrow? How about 6 PM?\" and Li Hua responds positively, saying, \"That's awesome! I'd love to join for dinner on Thursday at 6 PM.\" Then Wolfgang suggests, \"How about our favorite Italian place? They have the best pasta!\" \n\nThe celebration dinner takes place in entry 2, where Wolfgang says, \"Thanks! How about our favorite Italian place? They have the best pasta! What do you think?\" and Li Hua agrees, \"Sounds perfect! I’ve been craving their pasta.\" Thus, the name of the Italian restaurant they choose to celebrate Wolfgang's promotion is their favorite Italian place, though the exact name is not specified in the given data.",
+  "prediction_sha256": "c3109f5ffccdf68e1d35813d59f189f3d263ad9bb363fc89af3bc9bf64fe62a0",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 116,
+  "usage": {
+    "completion_tokens": 200,
+    "prompt_tokens": 3626,
+    "prompt_tokens_details": null,
+    "total_tokens": 3826
+  }
+}

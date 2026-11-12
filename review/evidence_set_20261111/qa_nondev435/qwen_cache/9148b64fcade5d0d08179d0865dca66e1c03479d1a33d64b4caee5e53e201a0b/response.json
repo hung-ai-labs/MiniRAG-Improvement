@@ -1,0 +1,17 @@
+{
+  "body_sha256": "9148b64fcade5d0d08179d0865dca66e1c03479d1a33d64b4caee5e53e201a0b",
+  "finish_reason": "stop",
+  "latency_s": 6.827208583999891,
+  "prediction": "In the conversation, Adam Smith reminded Li Hua that she should keep the noise to a minimum during late hours, which likely refers to playing the guitar late at night. This is a common courtesy for neighbors or roommates who may have other commitments or preferences regarding quiet times.",
+  "prediction_sha256": "62de73e2580675b084f47016b5de6297d19f62822d4e89587934e21b93b76c54",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100081,
+  "usage": {
+    "completion_tokens": 56,
+    "prompt_tokens": 4435,
+    "prompt_tokens_details": null,
+    "total_tokens": 4491
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "6d3ac792c12dc450d906aab9277f11b04349cc8ab26c145e2aac1aa8ecb06349",
+  "finish_reason": "stop",
+  "latency_s": 9.946973624995735,
+  "prediction": "In the conversation, LiHua is the one who asks Emily Burnett if she has read The Lord of the Rings novels. LiHua expresses curiosity about how the novels tie into the series \"The Rings of Power\" and inquires whether Emily has read them. LiHua mentions that Emily has only seen the movies but has seen the series and appreciates how it explores the rich background and lore of the books.",
+  "prediction_sha256": "1ae0f3e1650553be8559b019bdf106b80764770028860b0a83544dfd124fd93a",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200260,
+  "usage": {
+    "completion_tokens": 85,
+    "prompt_tokens": 4312,
+    "prompt_tokens_details": null,
+    "total_tokens": 4397
+  }
+}

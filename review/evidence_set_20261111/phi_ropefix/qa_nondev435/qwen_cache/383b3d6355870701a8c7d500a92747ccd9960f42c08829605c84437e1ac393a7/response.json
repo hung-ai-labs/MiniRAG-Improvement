@@ -1,0 +1,17 @@
+{
+  "body_sha256": "383b3d6355870701a8c7d500a92747ccd9960f42c08829605c84437e1ac393a7",
+  "finish_reason": "stop",
+  "latency_s": 8.746922167003504,
+  "prediction": " Li Hua intends to celebrate the Chinese Lunar New Year on January 18th, as indicated in the conversation with WolfgangSchulz in the data table under entry #1. Here's a summary of the relevant exchange in the provided data:\n\n**Conversation Entry #1:**\n\nLiHua: Hey! Just thinking of celebrating Chinese Lunar New Year at my place on Jan 18th. Wanna come over and join the fun? 🥳🎉\nWolfgangSchulz: Sounds like a blast! I’m totally in! Can’t wait to celebrate with you and enjoy some awesome food. Let me know if you need help with anything! 🎊🍜\n\nThis interaction clearly shows Li Hua's plan to celebrate the festival on the specified date.",
+  "prediction_sha256": "2eae928c0c01be0800b526181941cfb32c6ba5772bf25ca694b4807394821a56",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 200064,
+  "usage": {
+    "completion_tokens": 191,
+    "prompt_tokens": 5176,
+    "prompt_tokens_details": null,
+    "total_tokens": 5367
+  }
+}

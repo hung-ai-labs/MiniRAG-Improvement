@@ -1,0 +1,17 @@
+{
+  "body_sha256": "9772aa56da362ce3e4dc579867267b40673f4cfb7fb0e4de760cdc55c8e83c82",
+  "finish_reason": "stop",
+  "latency_s": 7.486000375000003,
+  "prediction": "In one of the conversations, Jennifer Moore reached out to Li Hua asking her to fill out a quick survey regarding her experience with the training sessions they have been participating in. Jennifer expressed that her feedback is crucial for improving the training sessions, and she mentioned that she \"appreciates it\" when someone provides feedback. This suggests that the survey aims to gather opinions and experiences from participants to enhance the training program.",
+  "prediction_sha256": "f50f737ad325f5405e9d7d8a37045cf810dd19cee0fcf5beee40ecd72d6e74c4",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200141,
+  "usage": {
+    "completion_tokens": 84,
+    "prompt_tokens": 3530,
+    "prompt_tokens_details": null,
+    "total_tokens": 3614
+  }
+}

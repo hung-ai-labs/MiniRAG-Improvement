@@ -1,0 +1,17 @@
+{
+  "body_sha256": "727ffd9c1ee7695dc70074c36e25369c81c0c2ea6e0832ea4985711b0fd1e0ce",
+  "finish_reason": "stop",
+  "latency_s": 7.775456457999098,
+  "prediction": " According to JakeWatson's comments in the provided data:\n\n> \"I just saw a few classic comebacks from Real Madrid! I gotta say Real Madrid is just something else! They really know how to turn things around, don't they? They really thrive under pressure. I remember watching a game where they were down by two goals, and somehow, they found their way back! It's that never-say-die attitude. What do you all think?\"\n\nOne characteristic of Real Madrid that JakeWatson mentions is their ability to turn things around and thrive under pressure. He highlights their never-say-die attitude with an example of them coming back from a two-goal deficit in a game, demonstrating their resilience and determination to win even when the situation seems dire.",
+  "prediction_sha256": "e6363467d85fd10429277a8839bcc3826d4d3b0823c5b343b00d89bc928c0d9b",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 356,
+  "usage": {
+    "completion_tokens": 178,
+    "prompt_tokens": 4859,
+    "prompt_tokens_details": null,
+    "total_tokens": 5037
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "630dfaa5915014712ea5c67cb1d4266a419abb6c8a6dbaada779e11699a456dc",
+  "finish_reason": "stop",
+  "latency_s": 8.481121082993923,
+  "prediction": "In the discussions, LiHua shares an exciting moment from playing \"Black Myth: Wukong.\" Specifically, he mentions having an \"amazing battle scene where I had to outsmart a giant enemy!\" The description highlights the strategy involved and how the graphics enhanced the experience, making it an \"epic\" battle. This moment showcases the game's immersive combat mechanics and its ability to create visually impressive and engaging battles.",
+  "prediction_sha256": "9a6f4304b2c5e39cfba0f321bfc5ba1e9e83b5d9edbb3ee5fb9e82ae8df4304e",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 378,
+  "usage": {
+    "completion_tokens": 86,
+    "prompt_tokens": 4295,
+    "prompt_tokens_details": null,
+    "total_tokens": 4381
+  }
+}

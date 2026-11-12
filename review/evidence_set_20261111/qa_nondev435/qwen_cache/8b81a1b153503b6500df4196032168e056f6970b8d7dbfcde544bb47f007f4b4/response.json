@@ -1,0 +1,17 @@
+{
+  "body_sha256": "8b81a1b153503b6500df4196032168e056f6970b8d7dbfcde544bb47f007f4b4",
+  "finish_reason": "stop",
+  "latency_s": 4.5596445830015,
+  "prediction": "Phaedra mentions two memorable quotes from the show \"Game of Thrones.\" Specifically, she comments on the intensity of Tyrion Lannister's explosive moment and highlights Jon Snow's famous line, \"You know nothing.\"",
+  "prediction_sha256": "3e989d8cba8f8f962557bf81b3ffba4497b9f4c85d985ea6078b7bf15907db85",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100212,
+  "usage": {
+    "completion_tokens": 45,
+    "prompt_tokens": 4306,
+    "prompt_tokens_details": null,
+    "total_tokens": 4351
+  }
+}

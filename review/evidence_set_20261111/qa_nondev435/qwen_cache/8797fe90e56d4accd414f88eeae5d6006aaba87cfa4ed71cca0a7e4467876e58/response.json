@@ -1,0 +1,17 @@
+{
+  "body_sha256": "8797fe90e56d4accd414f88eeae5d6006aaba87cfa4ed71cca0a7e4467876e58",
+  "finish_reason": "stop",
+  "latency_s": 11.12591566699848,
+  "prediction": "No, based on the conversation, Wolfgang initially suggested grabbing dinner together, but Li Hua responded that he had been busy lately and suggested another day. Wolfgang agreed and suggested a weekend dinner, which Li Hua accepted. Therefore, Wolfgang did not ask Li Hua to go out for dinner after asking him; instead, Wolfgang proposed a potential dinner date for a weekend.",
+  "prediction_sha256": "8970015549cb9aa77d68e7a322c24c1b0e6550bdc6e490975b2f663c9c3e66f1",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100014,
+  "usage": {
+    "completion_tokens": 75,
+    "prompt_tokens": 4561,
+    "prompt_tokens_details": null,
+    "total_tokens": 4636
+  }
+}

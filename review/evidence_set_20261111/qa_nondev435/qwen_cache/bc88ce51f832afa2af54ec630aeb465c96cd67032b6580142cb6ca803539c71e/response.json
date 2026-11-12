@@ -1,0 +1,17 @@
+{
+  "body_sha256": "bc88ce51f832afa2af54ec630aeb465c96cd67032b6580142cb6ca803539c71e",
+  "finish_reason": "stop",
+  "latency_s": 14.649092958003166,
+  "prediction": "On the date 20260810, AdamSmith reaches out to LiHua at 18:00 (or 6:00 PM) with a reminder about the warranty and maintenance plans for the air conditioner. LiHua responds positively and asks for a good time to discuss it further. Adam suggests a post-dinner time, which LiHua agrees to, setting up a meeting after dinner to go over the details. Adam also mentions that if LiHua needs any additional help or has any questions regarding the maintenance, he would be available to assist.",
+  "prediction_sha256": "9085c8c7bc7b5dcbf079e3ecded46b040111b7fdcb77c7b9c005c386ec740732",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200166,
+  "usage": {
+    "completion_tokens": 122,
+    "prompt_tokens": 5428,
+    "prompt_tokens_details": null,
+    "total_tokens": 5550
+  }
+}

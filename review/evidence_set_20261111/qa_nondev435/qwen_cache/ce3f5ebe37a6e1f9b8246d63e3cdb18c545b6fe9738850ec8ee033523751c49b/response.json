@@ -1,0 +1,17 @@
+{
+  "body_sha256": "ce3f5ebe37a6e1f9b8246d63e3cdb18c545b6fe9738850ec8ee033523751c49b",
+  "finish_reason": "stop",
+  "latency_s": 6.3695021659987106,
+  "prediction": "Li Hua requested extra exercises to do at home to complement his training schedule, aiming to maximize his progress. He expressed his desire to add these exercises alongside his existing training regimen, as he was enthusiastic about incorporating them into his routine. This request came from his interest in enhancing his fitness levels and trying to optimize his workouts.",
+  "prediction_sha256": "46a342f24e7a56c100cfe32e237fc49ce2d6eaaaac6b020b7d381035a1d29b39",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100076,
+  "usage": {
+    "completion_tokens": 66,
+    "prompt_tokens": 4348,
+    "prompt_tokens_details": null,
+    "total_tokens": 4414
+  }
+}

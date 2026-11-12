@@ -1,0 +1,17 @@
+{
+  "body_sha256": "aa1c5bf144b93f2f0d7690b6a4217e93407e0948f884a160c6b4cd44d9a93e68",
+  "finish_reason": "stop",
+  "latency_s": 10.101779583004827,
+  "prediction": "In the discussion about the upcoming bonfire singing party, Li Hua expresses enthusiasm for joining the event. She agrees to bring her guitar to the gathering. This commitment from Li Hua indicates her intention to contribute musically to the planned evening event hosted by Chae Song-hwa.",
+  "prediction_sha256": "0524a39883e42e294b3ea55855b917e009cb6e128e08e726e0f9dbf87e83a3f7",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 99,
+  "usage": {
+    "completion_tokens": 58,
+    "prompt_tokens": 4403,
+    "prompt_tokens_details": null,
+    "total_tokens": 4461
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "98e9ec8786e13f7ca4ebc1c490981677ad95e7a2e1ab7d24750154653a1cf223",
+  "finish_reason": "stop",
+  "latency_s": 8.95798020899747,
+  "prediction": "The provided data does not contain specific information regarding the costs of the air conditioner installation, including labor and materials. It only contains conversations about discussions related to the installation, such as the need for a contractor team, the preferences for energy efficiency and noise levels, and the dimensions of the basement. Without explicit financial details or quotes from contractors, we cannot determine the total cost of the air conditioner installation based on the given information.",
+  "prediction_sha256": "1b564dd37983ddd336edcfc525226c81bb7e6bfaa41e352ea306973f6d88e3de",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 435,
+  "usage": {
+    "completion_tokens": 85,
+    "prompt_tokens": 4387,
+    "prompt_tokens_details": null,
+    "total_tokens": 4472
+  }
+}

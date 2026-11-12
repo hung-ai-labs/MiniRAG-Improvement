@@ -1,0 +1,17 @@
+{
+  "body_sha256": "cd81d8220091bd025562d602bd0251880d115312aa91e4913953a6f0dc102af6",
+  "finish_reason": "stop",
+  "latency_s": 9.70401020799909,
+  "prediction": "In the context of the conversations provided, Li Hua agrees to bring her guitar to the bonfire singing party that Chae Song-hwa is planning. This agreement is evident from a conversation snippet dated 20260320_18:00, where Li Hua states, \"I’ll bring my guitar!\" This commitment indicates that Li Hua is enthusiastic about joining the gathering and contributing her musical talent to the event.",
+  "prediction_sha256": "4011f448a14216ed0f2b824a92d2c7c5998b3364fdfda630ae16595cad58d3b1",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100099,
+  "usage": {
+    "completion_tokens": 92,
+    "prompt_tokens": 3679,
+    "prompt_tokens_details": null,
+    "total_tokens": 3771
+  }
+}

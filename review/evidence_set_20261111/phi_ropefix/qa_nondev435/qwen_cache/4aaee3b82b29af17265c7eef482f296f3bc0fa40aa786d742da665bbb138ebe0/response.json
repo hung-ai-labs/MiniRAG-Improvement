@@ -1,0 +1,17 @@
+{
+  "body_sha256": "4aaee3b82b29af17265c7eef482f296f3bc0fa40aa786d742da665bbb138ebe0",
+  "finish_reason": "stop",
+  "latency_s": 11.13632625000173,
+  "prediction": " According to the data provided in the tables related to scheduling events, there is a scheduled power outage in the neighborhood on March 7, 2026. The outage is planned to occur from 2pm to 3pm.\n\nHere is the relevant information presented in a markdown formatted summary:\n\n```markdown\n## Scheduled Power Outage Instance\n\n- **Date:** March 7, 2026\n- **Time Interval:** From 2pm to 3pm\n\nThe records show communication between AdamSmith and LiHua indicating the upcoming power outage:\n\n> AdamSmith: Hi Li Hua, just a heads up that there will be a power outage tomorrow from 2pm to 3pm for maintenance. Are you all set for that?\n> LiHua: Thanks for the heads up, Adam! I'll make sure to charge everything and plan accordingly. Appreciate it!\n\nThis indicates that LiHua has been informed about the outage and is preparing accordingly by charging devices beforehand.\n```\n\nThis concise information addresses the user's query regarding the timing of the power outage without delving into unrelated details from the data.",
+  "prediction_sha256": "776113e7395b4abc430ecfd8f60e30e3851f5cc05ffe6cee2c13d83b5d38ca94",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 200090,
+  "usage": {
+    "completion_tokens": 268,
+    "prompt_tokens": 5219,
+    "prompt_tokens_details": null,
+    "total_tokens": 5487
+  }
+}

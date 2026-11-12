@@ -1,0 +1,17 @@
+{
+  "body_sha256": "d73110ab75b426b273b8feb4c51ab852af7b7e92be154308876cedaadd3a3652",
+  "finish_reason": "stop",
+  "latency_s": 13.736955041000328,
+  "prediction": "In the conversation, Jake Watson shared common knowledge about the offside rule with Li Hua before diving into practical techniques to avoid being offside. Specifically, Jake explained that a player is considered offside if they are \"closer to the opponent's goal line than both the ball and the second-to-last opponent when the ball is played to them.\" This definition is a fundamental aspect of understanding the offside rule. Following this explanation, Jake then offered practical advice to Li Hua, suggesting that warming up and stretching, staying hydrated, and wearing the right footwear can help prevent offside issues during games. This indicates that Jake first conveyed the rule itself before moving onto practical application and preventive measures.",
+  "prediction_sha256": "fdb96e9fef3fea8e9ad9eec92abd055e7c572168a2e791c9f0341cc3e193d95a",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200029,
+  "usage": {
+    "completion_tokens": 140,
+    "prompt_tokens": 4421,
+    "prompt_tokens_details": null,
+    "total_tokens": 4561
+  }
+}

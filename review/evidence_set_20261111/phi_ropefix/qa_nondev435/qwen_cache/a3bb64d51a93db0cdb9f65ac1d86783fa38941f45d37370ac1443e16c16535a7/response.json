@@ -1,0 +1,17 @@
+{
+  "body_sha256": "a3bb64d51a93db0cdb9f65ac1d86783fa38941f45d37370ac1443e16c16535a7",
+  "finish_reason": "stop",
+  "latency_s": 5.5916950829996495,
+  "prediction": " According to the conversation between LiHua and Jennifer, Jennifer advises LiHua to aim for at least 5 servings of vegetables each day to maintain good health and support energy and recovery. Jennifer emphasizes the importance of including a variety of vegetables for the best nutritional benefits and suggests creative ways to incorporate them into meals such as salads and stir-fries. This recommendation is based on general dietary guidelines and Jennifer's expertise in fitness and nutrition.",
+  "prediction_sha256": "50ad0374ce6f63107b6bf8ce029aadd8b7b41c3bd2180d47adfbc8c702ef4466",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 200204,
+  "usage": {
+    "completion_tokens": 113,
+    "prompt_tokens": 5608,
+    "prompt_tokens_details": null,
+    "total_tokens": 5721
+  }
+}

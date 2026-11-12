@@ -1,0 +1,17 @@
+{
+  "body_sha256": "2981e065f4dd2a786750449bddc325a3c6eeb5de0e7245e2495ee01640a86ff1",
+  "finish_reason": "stop",
+  "latency_s": 5.7133214169989515,
+  "prediction": "There is no mention of WolfgangSchulz planning to go to the grocery store on 20260923 in the provided data. The available records do not contain any information related to a grocery store visit by WolfgangSchulz on that specific date.",
+  "prediction_sha256": "9a7c30bb92a4e72a862ee72a5dcab00d293500ae715adbd432a5dac883cad65c",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100267,
+  "usage": {
+    "completion_tokens": 56,
+    "prompt_tokens": 4306,
+    "prompt_tokens_details": null,
+    "total_tokens": 4362
+  }
+}

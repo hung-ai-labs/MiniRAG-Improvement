@@ -1,0 +1,17 @@
+{
+  "body_sha256": "d67ca94c35cd95bc3973da853f74e0d4f34ef47a69a34706c6d17572f32351c8",
+  "finish_reason": "stop",
+  "latency_s": 11.390479083001992,
+  "prediction": "Based on the information provided, it appears that the timeline from LiHua expressing interest in adding an air-conditioner to the basement until its actual installation took less than three weeks. Initially, LiHua asked Adam Smith about adding an air-conditioner to the basement on July 16th at 10:00 AM (Source 1). Adam responded positively, indicating that he would check with the maintenance team and get back to her (Source 1). He then contacted the maintenance team, and LiHua was informed that the contractor team was scheduled to install the air-conditioner in the basement at 6 PM on August 12th (Source 2). This means that from the initial inquiry on July 16th to the installation on August 12th, there was a span of approximately six days. Therefore, it did not take more than three weeks for the air-conditioner to be installed.",
+  "prediction_sha256": "04d5816722e4fe18480f51d6244f2711f7e25944e2640193d8c0ceb7109ea05f",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200039,
+  "usage": {
+    "completion_tokens": 190,
+    "prompt_tokens": 3777,
+    "prompt_tokens_details": null,
+    "total_tokens": 3967
+  }
+}

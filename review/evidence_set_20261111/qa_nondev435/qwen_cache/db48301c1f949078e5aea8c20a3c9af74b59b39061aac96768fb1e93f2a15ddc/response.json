@@ -1,0 +1,17 @@
+{
+  "body_sha256": "db48301c1f949078e5aea8c20a3c9af74b59b39061aac96768fb1e93f2a15ddc",
+  "finish_reason": "stop",
+  "latency_s": 14.409115166003176,
+  "prediction": "The installation of the air-conditioner for the basement is scheduled for 6 PM on the same day, which is mentioned in the conversation snippet dated \"20260812_11:00\". Adam Smith informs Li Hua about the timing, stating, \"I contacted the maintenance worker, and I'll let you know as soon as I hear back from him. Hang tight!\", followed by Li Hua's response, \"Sounds good! I'll be waiting for your update.\" Adam Smith then confirms, \"The contractor team is coming to install the AC in the basement at 6 PM today.\" Thus, the installation date is set for August 12th, 2026.",
+  "prediction_sha256": "de749b55f94f5a40b3fb98294631b38226bb7f08baf363fadc1144608918f25a",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100165,
+  "usage": {
+    "completion_tokens": 147,
+    "prompt_tokens": 3927,
+    "prompt_tokens_details": null,
+    "total_tokens": 4074
+  }
+}

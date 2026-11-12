@@ -1,0 +1,17 @@
+{
+  "body_sha256": "0e3cc851bd458b9142f8778650c08759a18607af235fe32913f1b2224a513abd",
+  "finish_reason": "stop",
+  "latency_s": 4.90423099999316,
+  "prediction": "Chae first suggested visiting the music festival in the morning during a conversation where they expressed excitement about attending the event. This suggestion was made around December 8th, according to the conversation recorded in source ID 1. At that time, Chae indicated they were looking forward to checking out the lineup and making a plan for what to see at the festival.",
+  "prediction_sha256": "9bab62417e62a78c67abab557c313818b468639eae8b02d1ee233a8e795627e0",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100445,
+  "usage": {
+    "completion_tokens": 73,
+    "prompt_tokens": 5285,
+    "prompt_tokens_details": null,
+    "total_tokens": 5358
+  }
+}

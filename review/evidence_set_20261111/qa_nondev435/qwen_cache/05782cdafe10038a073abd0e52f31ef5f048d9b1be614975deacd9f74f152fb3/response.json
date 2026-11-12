@@ -1,0 +1,17 @@
+{
+  "body_sha256": "05782cdafe10038a073abd0e52f31ef5f048d9b1be614975deacd9f74f152fb3",
+  "finish_reason": "stop",
+  "latency_s": 32.28185054200003,
+  "prediction": "In the conversation recorded at Time: 20260122_17:00, LiHua mentions she will be picking up the snacks and drinks on her way to the movie night. Specifically, LiHua states, \"I'll pick them up on my way. See you soon! 🎉\". Therefore, LiHua will be responsible for picking up the snacks and drinks.",
+  "prediction_sha256": "08d0c3be0c07120ab10cdd824a1239c218bc2f6563a582328d53f4593abc94c9",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100307,
+  "usage": {
+    "completion_tokens": 86,
+    "prompt_tokens": 5306,
+    "prompt_tokens_details": null,
+    "total_tokens": 5392
+  }
+}

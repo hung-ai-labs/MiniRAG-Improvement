@@ -1,0 +1,17 @@
+{
+  "body_sha256": "f77da83108fe59f492428b1bb7454101bdf2de5c31ff097657ae1eda5252748d",
+  "finish_reason": "stop",
+  "latency_s": 8.440279999998893,
+  "prediction": "At the bakery's anniversary event, Li Hua mentioned enjoying sourdough bread, which Hailey Johnson had prepared specially for her. Additionally, Li Hua expressed interest in sweet pastries, indicating that she had a variety of bread types to choose from during the event. Therefore, based on the conversations shared, Li Hua seemed to enjoy the sourdough bread and potentially some sweet pastries at the bakery's anniversary event.",
+  "prediction_sha256": "4c504220724c492a83399b5b0c1856b40a5872b6b70b6fe8ea2056a282cfd74c",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 424,
+  "usage": {
+    "completion_tokens": 88,
+    "prompt_tokens": 4542,
+    "prompt_tokens_details": null,
+    "total_tokens": 4630
+  }
+}

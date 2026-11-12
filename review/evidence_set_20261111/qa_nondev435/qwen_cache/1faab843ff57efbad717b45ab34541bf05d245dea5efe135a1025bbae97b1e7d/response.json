@@ -1,0 +1,17 @@
+{
+  "body_sha256": "1faab843ff57efbad717b45ab34541bf05d245dea5efe135a1025bbae97b1e7d",
+  "finish_reason": "stop",
+  "latency_s": 10.933595834001608,
+  "prediction": "According to the conversation recorded on 20261017 at 17:00, LiHua and Wolfgang discussed their favorite types of pizza and beverages. Wolfgang expressed his preference for classic margherita pizza, which he enjoys paired with a cold drink such as soda or craft beer. On the other hand, LiHua favored a refreshing lemonade, which complements the flavors of the pizza. They also talked about potential locations for enjoying pizza, with Wolfgang mentioning a new place downtown that he had heard good things about, suggesting they might plan a pizza night together soon.",
+  "prediction_sha256": "02c38ddc2d3db8bd2aefef6231506814115541f9b2b732b01aa5e487228e75c2",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100367,
+  "usage": {
+    "completion_tokens": 122,
+    "prompt_tokens": 5456,
+    "prompt_tokens_details": null,
+    "total_tokens": 5578
+  }
+}

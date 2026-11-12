@@ -1,0 +1,17 @@
+{
+  "body_sha256": "5c6ed4cd050ca33878c6a8d8b43120e625baa39f21f740d5ae2dfb1713188228",
+  "finish_reason": "stop",
+  "latency_s": 8.546667624999827,
+  "prediction": "Based on the conversations, JakeWatson provides several practical tips for refueling after an intense soccer game. Specifically, he suggests quickly refueling with a snack that includes carbohydrates and protein, recommending a banana with peanut butter as a tasty option. Additionally, he emphasizes the importance of hydration, suggesting either water or an electrolyte drink. JakeWatson also proposes the possibility of practicing some stretches together after their next game, which can be beneficial for easing muscle tension. Overall, his advice focuses on ensuring proper nutrition and hydration to aid in recovery and readiness for future games.",
+  "prediction_sha256": "a25500ea4596fe59e716ad0c169b7a0b3a3bd8c91e2e59c491193f718760091c",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200389,
+  "usage": {
+    "completion_tokens": 114,
+    "prompt_tokens": 3809,
+    "prompt_tokens_details": null,
+    "total_tokens": 3923
+  }
+}

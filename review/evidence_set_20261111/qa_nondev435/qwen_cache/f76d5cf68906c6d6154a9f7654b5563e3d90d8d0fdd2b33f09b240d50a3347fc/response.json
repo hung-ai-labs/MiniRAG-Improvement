@@ -1,0 +1,17 @@
+{
+  "body_sha256": "f76d5cf68906c6d6154a9f7654b5563e3d90d8d0fdd2b33f09b240d50a3347fc",
+  "finish_reason": "stop",
+  "latency_s": 7.099058874999173,
+  "prediction": "In the conversation, LiHua asks Jake to play as the goalkeeper for their soccer training this weekend. This can be seen in the first interaction where LiHua initiates the conversation by saying, \"Hey Jake! Any chance you can play as the goalkeeper for our soccer training this weekend? I think it would be fun!\"",
+  "prediction_sha256": "cde797fcc985e758a074395b3be23b4d4e3cbc811edbfeb36e1eb108bfc75901",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 292,
+  "usage": {
+    "completion_tokens": 67,
+    "prompt_tokens": 4255,
+    "prompt_tokens_details": null,
+    "total_tokens": 4322
+  }
+}

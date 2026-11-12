@@ -1,0 +1,17 @@
+{
+  "body_sha256": "b4ae09445fea0b6c85ac58b33cbf0d31f134fbd44acde47510c88643b088bb6b",
+  "finish_reason": "stop",
+  "latency_s": 8.037989833996107,
+  "prediction": "According to the conversation, Li Hua and Wolfgang are planning to meet for breakfast at a cozy café downtown at 12:00 on January 8th (as noted in entry 4). There is no mention of any changes to this scheduled time.",
+  "prediction_sha256": "1d864dad589084071fb4dd40fc435a1999f0f24d083be89b46a2f04221f705d7",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100403,
+  "usage": {
+    "completion_tokens": 54,
+    "prompt_tokens": 4594,
+    "prompt_tokens_details": null,
+    "total_tokens": 4648
+  }
+}

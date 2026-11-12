@@ -1,0 +1,17 @@
+{
+  "body_sha256": "cecde359e8ef857b9fdf262a871f106ddf7e6078202c7bb6974f40651ad9721b",
+  "finish_reason": "stop",
+  "latency_s": 8.39038100000107,
+  "prediction": "LiHua is the one who asks Emily if she has read The Lord of the Rings novels. In a conversation recorded on 20260922_17:00, LiHua initiates the query, expressing curiosity about Emily's familiarity with the book series, given her interest in the upcoming series \"The Rings of Power.\"",
+  "prediction_sha256": "989f77832f62b3726e4fe6c3e845c380b9b1a11c3297b8ae98a85cb1cf728f0e",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100260,
+  "usage": {
+    "completion_tokens": 74,
+    "prompt_tokens": 3476,
+    "prompt_tokens_details": null,
+    "total_tokens": 3550
+  }
+}

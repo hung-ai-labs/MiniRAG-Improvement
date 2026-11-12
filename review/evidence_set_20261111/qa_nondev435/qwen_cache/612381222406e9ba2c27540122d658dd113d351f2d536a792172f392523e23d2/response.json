@@ -1,0 +1,17 @@
+{
+  "body_sha256": "612381222406e9ba2c27540122d658dd113d351f2d536a792172f392523e23d2",
+  "finish_reason": "stop",
+  "latency_s": 7.804661040998326,
+  "prediction": "Bodyweight exercises are recommended as a starting point for beginners in strength training. These exercises are versatile and can be performed without any equipment, making them accessible and convenient for individuals who are just beginning their fitness journey. They serve as foundational movements that help build basic strength and motor skills before progressing to more complex forms of training. This method ensures that beginners can safely and effectively engage in physical activity, which can lead to improved overall fitness and a healthier lifestyle.",
+  "prediction_sha256": "0c415da7112fffbf50fc16c252324a408ef61f09a6f25e21c9f70853254cce7a",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200210,
+  "usage": {
+    "completion_tokens": 91,
+    "prompt_tokens": 4933,
+    "prompt_tokens_details": null,
+    "total_tokens": 5024
+  }
+}

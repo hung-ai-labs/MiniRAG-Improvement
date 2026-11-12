@@ -1,0 +1,17 @@
+{
+  "body_sha256": "0fa28ab29410ba85748d6c92aea733bcaca5f4b454b1389e5b019bc09b1fb89d",
+  "finish_reason": "stop",
+  "latency_s": 8.373031916999025,
+  "prediction": "RexxarRemar suggests having refreshments available to keep everyone energized throughout the picnic. He specifically mentions that blankets would be perfect for relaxing on the grass and enjoying the food, and he emphasizes the importance of ensuring there are plenty of snacks and drinks available to keep everyone hydrated and refreshed.",
+  "prediction_sha256": "e89e2173b208e1c0e58471e7683b867a6aeae1aafc9e669ae773d8bb13c0d0bf",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100396,
+  "usage": {
+    "completion_tokens": 61,
+    "prompt_tokens": 4343,
+    "prompt_tokens_details": null,
+    "total_tokens": 4404
+  }
+}

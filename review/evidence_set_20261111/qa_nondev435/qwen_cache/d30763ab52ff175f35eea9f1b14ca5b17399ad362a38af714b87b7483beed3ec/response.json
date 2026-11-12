@@ -1,0 +1,17 @@
+{
+  "body_sha256": "d30763ab52ff175f35eea9f1b14ca5b17399ad362a38af714b87b7483beed3ec",
+  "finish_reason": "stop",
+  "latency_s": 12.400451667002926,
+  "prediction": "Based on the conversations between Wolfgang Schulz and Li Hua, Wolfgang Schulz tends to favor a classic cheeseburger with minimal toppings. In one instance, Wolfgang specifically recommends \"just keep it simple with lettuce, tomato, and some pickles\" for his preferred burger. However, he also shows flexibility and openness to different tastes. For example, when Li Hua suggests adventurous toppings like jalapeños, Wolfgang states, \"I can handle a little spice, but I prefer to keep it mild.\" This indicates that while he appreciates the experience of spicy flavors, he generally prefers a more mild and classic approach to his burgers. \n\nIn summary, Wolfgang Schulz typically goes for a classic cheeseburger topped with lettuce, tomato, and pickles, showing his preference for simplicity and comfort, while still being open to exploring new flavors like a mild spice.",
+  "prediction_sha256": "44a996077ff48c1873a5cc7414b6ce070f321e4428bcbca2739082b8d3104190",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200187,
+  "usage": {
+    "completion_tokens": 172,
+    "prompt_tokens": 4705,
+    "prompt_tokens_details": null,
+    "total_tokens": 4877
+  }
+}

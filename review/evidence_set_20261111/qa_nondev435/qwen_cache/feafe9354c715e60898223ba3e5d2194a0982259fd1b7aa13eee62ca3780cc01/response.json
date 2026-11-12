@@ -1,0 +1,17 @@
+{
+  "body_sha256": "feafe9354c715e60898223ba3e5d2194a0982259fd1b7aa13eee62ca3780cc01",
+  "finish_reason": "stop",
+  "latency_s": 6.814562792002107,
+  "prediction": "According to the information provided, Li Hua plans to celebrate Chinese Lunar New Year by enjoying traditional foods and possibly traveling to experience local festivities. This aligns with the description given for the festival, which mentions activities such as family gatherings, exchanging gifts, and enjoying traditional foods. Additionally, Li Hua seems particularly enthusiastic about visiting local festivals and taking part in the local celebrations.",
+  "prediction_sha256": "75a0e62bff7cfc210f85b8e63c80113f10b56be7df89ad77e95f7ce94cb7b4b2",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 65,
+  "usage": {
+    "completion_tokens": 76,
+    "prompt_tokens": 3524,
+    "prompt_tokens_details": null,
+    "total_tokens": 3600
+  }
+}

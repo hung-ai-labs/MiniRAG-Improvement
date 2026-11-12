@@ -1,0 +1,17 @@
+{
+  "body_sha256": "a2f3f2e5af013ac1322c97c9d412e6ab79dee6660864b385bf698b3e28ea8ace",
+  "finish_reason": "stop",
+  "latency_s": 8.38425400000051,
+  "prediction": "LiHua expresses a strong appreciation for Geralt from The Witcher 3, highlighting his complex personality and his deep sense of morality. She finds Geralt's no-nonsense attitude intriguing, but also admires his inherent goodness. Additionally, she points out Geralt's exceptional monster-slaying skills as a standout feature. Overall, LiHua values Geralt's character development and the choices he makes throughout the game.",
+  "prediction_sha256": "77c1c067def757a2f95c2494da5f6ad4e2dbe8a594ca3e9dca0832927b6e09ac",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 175,
+  "usage": {
+    "completion_tokens": 87,
+    "prompt_tokens": 4465,
+    "prompt_tokens_details": null,
+    "total_tokens": 4552
+  }
+}

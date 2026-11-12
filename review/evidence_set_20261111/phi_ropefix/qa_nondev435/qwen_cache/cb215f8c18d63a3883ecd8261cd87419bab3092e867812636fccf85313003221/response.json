@@ -1,0 +1,17 @@
+{
+  "body_sha256": "cb215f8c18d63a3883ecd8261cd87419bab3092e867812636fccf85313003221",
+  "finish_reason": "stop",
+  "latency_s": 5.112243084000511,
+  "prediction": " Quillan observes that Cersei's \"desperation for control\" frequently overshadows her vulnerability. This suggests that while she exhibits a strong exterior seeking dominance and power, there are moments where her true feelings of insecurity and the need for security come to the forefront. Despite her attempts to appear invincible and omnipotent, Quillan implies that this facade is challenged by an underlying sense of fear and the need to feel secure, which contrasts with her public image of being an unyielding queen.",
+  "prediction_sha256": "0dc3ae6d8a429d1940d84f7125329c69fed61675115e5042b9ecf59a10639648",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 310,
+  "usage": {
+    "completion_tokens": 119,
+    "prompt_tokens": 4445,
+    "prompt_tokens_details": null,
+    "total_tokens": 4564
+  }
+}

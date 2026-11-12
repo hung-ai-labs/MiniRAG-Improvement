@@ -1,0 +1,17 @@
+{
+  "body_sha256": "2696b2298482a8189f0b54e60313cbfe712194739ce5408d92f2a194ef870102",
+  "finish_reason": "stop",
+  "latency_s": 5.513819999996485,
+  "prediction": "According to the information provided, there is a scheduled power outage in the neighborhood. This outage is described as occurring from 2pm to 3pm on the afternoon of the next day. There are no further details given regarding the exact timing within those two hours.",
+  "prediction_sha256": "1621ecc5237f9068c999bf87e24ddabdb47d6bff54f283f728f8f230d371eb83",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100090,
+  "usage": {
+    "completion_tokens": 54,
+    "prompt_tokens": 5134,
+    "prompt_tokens_details": null,
+    "total_tokens": 5188
+  }
+}

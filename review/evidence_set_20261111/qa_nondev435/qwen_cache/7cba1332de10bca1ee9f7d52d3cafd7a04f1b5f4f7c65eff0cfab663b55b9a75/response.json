@@ -1,0 +1,17 @@
+{
+  "body_sha256": "7cba1332de10bca1ee9f7d52d3cafd7a04f1b5f4f7c65eff0cfab663b55b9a75",
+  "finish_reason": "stop",
+  "latency_s": 11.339520542001992,
+  "prediction": "According to the conversations recorded, Li Hua and Wolfgang Schulz initially discussed visiting the photography exhibition. Wolfgang Schulz suggested a Friday evening for the outing. Li Hua proposed going on Friday evening because it would be less crowded compared to other days. Wolfgang Schulz agreed with this suggestion and expressed his enthusiasm for the event. Therefore, Li Hua and Wolfgang Schulz plan to visit the photography exhibition on a Friday evening.",
+  "prediction_sha256": "a727dc9de52b527dd57f70ab191663d9645179b62266f975ce032d05d13a8ccf",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200163,
+  "usage": {
+    "completion_tokens": 86,
+    "prompt_tokens": 4676,
+    "prompt_tokens_details": null,
+    "total_tokens": 4762
+  }
+}

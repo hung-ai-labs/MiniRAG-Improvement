@@ -1,0 +1,17 @@
+{
+  "body_sha256": "e3b33d9fe893f6582b87ae57b862503a2519bb2922360882b28cddfca41630da",
+  "finish_reason": "stop",
+  "latency_s": 9.17842012500114,
+  "prediction": "Li Hua has an unexpected work meeting scheduled for Thursday afternoon at Central Perk. The purpose of this meeting is to discuss homepage updates. This information is detailed in the entry dated 20260306_13:00, where Li Hua informs Yuriko Yamamoto about the meeting and expresses her anticipation of brainstorming ideas for the homepage updates.",
+  "prediction_sha256": "8b794b8afee7596403f445c1de6a1d4497f5e8d048c4212a2fac2be448174a85",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 419,
+  "usage": {
+    "completion_tokens": 79,
+    "prompt_tokens": 4289,
+    "prompt_tokens_details": null,
+    "total_tokens": 4368
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "295ff889772b809166ec52eecf63de55a0f4ff863f87e791d0f73110b89f6641",
+  "finish_reason": "stop",
+  "latency_s": 15.532315083000867,
+  "prediction": "In the conversation recorded on June 5th, 2026 at 18:45, Li Hua inquires about who to contact for the broken streetlight. Adam Smith replies by saying, \"You can call the maintenance worker at 314159. They'll be able to help with that.\" This indicates that the phone number for the maintenance worker, which Adam Smith provided to Li Hua, is 314159.",
+  "prediction_sha256": "cf1e9bd50ec39593402e6e46b77b3d8500945519f1eb346a8697396770ee4f5d",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 132,
+  "usage": {
+    "completion_tokens": 99,
+    "prompt_tokens": 4663,
+    "prompt_tokens_details": null,
+    "total_tokens": 4762
+  }
+}

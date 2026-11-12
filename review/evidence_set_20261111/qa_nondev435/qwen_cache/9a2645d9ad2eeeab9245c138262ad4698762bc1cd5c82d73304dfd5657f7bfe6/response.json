@@ -1,0 +1,17 @@
+{
+  "body_sha256": "9a2645d9ad2eeeab9245c138262ad4698762bc1cd5c82d73304dfd5657f7bfe6",
+  "finish_reason": "stop",
+  "latency_s": 10.41134483299902,
+  "prediction": "Based on the conversations shared, WolfgangSchulz mentions a particularly memorable risotto experience during his travels. Specifically, he recalls having the \"best risotto\" when he was in Venice. The risotto was described as creamy and featuring seafood, making it a pinnacle of culinary experiences. This risotto stands out in WolfgangSchulz's recollection as an exceptional dining moment, highlighting the rich and varied food experiences he enjoys during his travels.",
+  "prediction_sha256": "e34221d37a37fb14b0d29dada4e428814e9fae1648ae10dcfd822a550e156835",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200400,
+  "usage": {
+    "completion_tokens": 90,
+    "prompt_tokens": 3726,
+    "prompt_tokens_details": null,
+    "total_tokens": 3816
+  }
+}

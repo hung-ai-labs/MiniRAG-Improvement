@@ -1,0 +1,17 @@
+{
+  "body_sha256": "c73d54a8d74889db913bb158904c5881274aaa4560361f7af0fd2ca87ce37da7",
+  "finish_reason": "stop",
+  "latency_s": 5.790622833999805,
+  "prediction": "JakeWatson recommends squats and lunges as key exercises for improving leg strength. He also suggests adding balance exercises like single-leg stands to complement these for overall stability and performance. Additionally, he mentions the importance of stretching after workouts to keep the muscles flexible.",
+  "prediction_sha256": "630c632d7b0a851b507ab7f85e5d8d108fe91ba9f4e739d4e086dc0f6595935f",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 268,
+  "usage": {
+    "completion_tokens": 53,
+    "prompt_tokens": 3519,
+    "prompt_tokens_details": null,
+    "total_tokens": 3572
+  }
+}

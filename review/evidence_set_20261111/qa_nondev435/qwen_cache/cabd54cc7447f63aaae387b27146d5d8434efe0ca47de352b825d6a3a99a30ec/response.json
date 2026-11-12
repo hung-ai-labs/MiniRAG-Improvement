@@ -1,0 +1,17 @@
+{
+  "body_sha256": "cabd54cc7447f63aaae387b27146d5d8434efe0ca47de352b825d6a3a99a30ec",
+  "finish_reason": "stop",
+  "latency_s": 7.858754624998255,
+  "prediction": "Li Hua initiates contact with Adam regarding the details of the move-in event multiple times. According to the timeline, the earliest interaction about moving in occurred on 20260105 at 14:00. This is detailed in the conversation snippet where Li Hua expresses her desire to check in about the move-in plans, asking when it would be a good time for her to visit.",
+  "prediction_sha256": "c4fa508ca14bd6fc1b6174391ce7402375f718857e60f78a8b5423e1435fa2bb",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100055,
+  "usage": {
+    "completion_tokens": 86,
+    "prompt_tokens": 4457,
+    "prompt_tokens_details": null,
+    "total_tokens": 4543
+  }
+}

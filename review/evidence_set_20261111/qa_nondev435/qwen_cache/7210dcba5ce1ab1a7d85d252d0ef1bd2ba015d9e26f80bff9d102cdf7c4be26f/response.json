@@ -1,0 +1,17 @@
+{
+  "body_sha256": "7210dcba5ce1ab1a7d85d252d0ef1bd2ba015d9e26f80bff9d102cdf7c4be26f",
+  "finish_reason": "stop",
+  "latency_s": 11.734974500002863,
+  "prediction": "No, Li Hua initially declined Wolfgang's invitation to dinner, stating that he had been very busy lately. However, Wolfgang responded positively, suggesting another day when both were free. Wolfgang specifically reminded Li Hua about dinner again on a later date, emphasizing that they could do something low-key this weekend, possibly catching a movie or hanging out at a cafe. This indicates that Li Hua eventually agreed to go out for dinner with Wolfgang, though the exact date is not specified in the given information.",
+  "prediction_sha256": "98bf3b2bc4f8c58c7715aef5857afedfd8fd4cda2fee90f905917a3e1539d127",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200014,
+  "usage": {
+    "completion_tokens": 101,
+    "prompt_tokens": 4458,
+    "prompt_tokens_details": null,
+    "total_tokens": 4559
+  }
+}

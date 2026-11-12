@@ -1,0 +1,17 @@
+{
+  "body_sha256": "ca220adad1305e9f30cbd92c8f0919a88d65ce082b541c1dca63da5cd54ffeb2",
+  "finish_reason": "stop",
+  "latency_s": 8.868386583002575,
+  "prediction": "On April 3rd, 2026, Alice is delivering the bread to Li Hua. This information is derived from the timeline provided in the conversation where Alice explicitly mentions delivering the bread, confirming that Alice is the delivery person for that day.",
+  "prediction_sha256": "4aadddff3d62b3595866c24bbf68cd0049110ccb32ae1a07fe9de942aaf395c3",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 105,
+  "usage": {
+    "completion_tokens": 53,
+    "prompt_tokens": 4253,
+    "prompt_tokens_details": null,
+    "total_tokens": 4306
+  }
+}

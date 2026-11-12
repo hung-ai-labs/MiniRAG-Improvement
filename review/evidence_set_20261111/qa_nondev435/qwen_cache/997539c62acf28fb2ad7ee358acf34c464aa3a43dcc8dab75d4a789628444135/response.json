@@ -1,0 +1,17 @@
+{
+  "body_sha256": "997539c62acf28fb2ad7ee358acf34c464aa3a43dcc8dab75d4a789628444135",
+  "finish_reason": "stop",
+  "latency_s": 9.66280904100131,
+  "prediction": "In soccer, wearing the right footwear is crucial for several reasons. Proper footwear can significantly enhance comfort and performance during gameplay. The type of shoe designed for soccer typically includes features like traction, cushioning, and support that help players maintain their footing and minimize the risk of injuries such as slips or sprains. This is particularly important because soccer involves dynamic movements, quick stops, starts, and frequent contact with the ball and other players. Therefore, choosing the right footwear can contribute to better overall player safety and efficiency on the field.",
+  "prediction_sha256": "40b147f08a627446ce531591cfc5861e1ef434fb99abec738045b94356307216",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100207,
+  "usage": {
+    "completion_tokens": 106,
+    "prompt_tokens": 4852,
+    "prompt_tokens_details": null,
+    "total_tokens": 4958
+  }
+}

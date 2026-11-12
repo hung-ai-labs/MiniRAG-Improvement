@@ -1,0 +1,17 @@
+{
+  "body_sha256": "b51305782741add99bc7f977bf7ff58a3172bb1bdb850a090bcdfea43206c5f5",
+  "finish_reason": "stop",
+  "latency_s": 11.3141474580043,
+  "prediction": "In one of their conversations, LiHua asks Jake Watson about strategies for avoiding injuries during soccer games. LiHua specifically inquires about proper warm-up and stretching routines, hydration, and the importance of wearing appropriate footwear. LiHua also expresses interest in learning more about strength training and its role in injury prevention. In another conversation, LiHua seeks advice on the best strategies to follow to avoid handballs and understanding the offside rule. LiHua demonstrates a genuine interest in improving her soccer skills and gaining a deeper understanding of the game.",
+  "prediction_sha256": "a933174c7294d1e0cc1997993ec5f85583067ef98261785e2ba32a2986cf9f1e",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 205,
+  "usage": {
+    "completion_tokens": 112,
+    "prompt_tokens": 4489,
+    "prompt_tokens_details": null,
+    "total_tokens": 4601
+  }
+}

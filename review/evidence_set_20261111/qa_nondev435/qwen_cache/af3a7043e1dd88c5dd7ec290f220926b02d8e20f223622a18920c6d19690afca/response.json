@@ -1,0 +1,17 @@
+{
+  "body_sha256": "af3a7043e1dd88c5dd7ec290f220926b02d8e20f223622a18920c6d19690afca",
+  "finish_reason": "stop",
+  "latency_s": 5.615157582993561,
+  "prediction": "According to the information provided, Ivor does not specify the current coach of Real Madrid. The text only mentions that Ivor discusses the comeback capabilities of Real Madrid and their performances in matches, but does not mention the name of the coach.",
+  "prediction_sha256": "12d5678dbcf31b637c37d9f0254b3f888f27cf42fff4dffb42ed302788e44d3a",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 360,
+  "usage": {
+    "completion_tokens": 49,
+    "prompt_tokens": 4331,
+    "prompt_tokens_details": null,
+    "total_tokens": 4380
+  }
+}

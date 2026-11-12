@@ -1,0 +1,17 @@
+{
+  "body_sha256": "6143b7bde038e790d789857c9e25ae79cc0efa3b45eadd406ab002a2ea132275",
+  "finish_reason": "stop",
+  "latency_s": 9.296672917000251,
+  "prediction": "Based on the information provided in the dialogue, LiHua does not mention The Lord of the Rings or any related series. The conversations focus primarily on TV series such as \"Chernobyl,\" \"Silicon Valley,\" \"Game of Thrones,\" \"Brooklyn Nine-Nine,\" \"Succession,\" \"The Last of Us,\" \"The Bear,\" \"Stranger Things,\" and \"The White Lotus.\" There is no reference to \"The Lord of the Rings\" or any series based on Tolkien's works.",
+  "prediction_sha256": "e8d6589317d0472b59774c4820e801ad021dada1f0b04bb5f3da407ac4bf39b1",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100261,
+  "usage": {
+    "completion_tokens": 104,
+    "prompt_tokens": 4194,
+    "prompt_tokens_details": null,
+    "total_tokens": 4298
+  }
+}

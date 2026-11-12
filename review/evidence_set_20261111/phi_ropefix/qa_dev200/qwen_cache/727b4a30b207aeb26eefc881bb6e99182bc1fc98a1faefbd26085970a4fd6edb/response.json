@@ -1,0 +1,17 @@
+{
+  "body_sha256": "727b4a30b207aeb26eefc881bb6e99182bc1fc98a1faefbd26085970a4fd6edb",
+  "finish_reason": "stop",
+  "latency_s": 5.022468291997939,
+  "prediction": " On September 20, 2026, LiHua mentions that she has been playing \"Call of Duty: Warzone\" lately. She expresses her enjoyment of the game, particularly highlighting the battle royale mode and the strategy involved, which she finds fun and engaging. Her conversation with ThaneChambers revolves around their shared interest in the game and they both discuss their experiences and favorite aspects of \"Warzone.\"",
+  "prediction_sha256": "05a849b007684ef59c17c0e4bd2d55c5b7bd640dd5e7b67244dc46660bb64580",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 194,
+  "usage": {
+    "completion_tokens": 97,
+    "prompt_tokens": 3770,
+    "prompt_tokens_details": null,
+    "total_tokens": 3867
+  }
+}

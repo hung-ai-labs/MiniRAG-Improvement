@@ -1,0 +1,17 @@
+{
+  "body_sha256": "25a32270d7905ce27e80a807cfd6715d70f8fff4af97a72708ce0dcba5d64265",
+  "finish_reason": "stop",
+  "latency_s": 9.410751874998823,
+  "prediction": "In a conversation dated 20260328_15:00, Adam Smith reminds Li Hua about the building's recycling policy. This policy emphasizes the importance of environmental conservation and encourages all residents to participate actively. Li Hua expresses gratitude for the reminder and confirms her commitment to following the recycling rules. Adam further offers assistance and resources for any questions or concerns regarding the recycling process.",
+  "prediction_sha256": "c3fe31249ab2394a7bdae0b60fd1d7ae2f0d7c6105bd8cea80f64956b9c19365",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100101,
+  "usage": {
+    "completion_tokens": 84,
+    "prompt_tokens": 4149,
+    "prompt_tokens_details": null,
+    "total_tokens": 4233
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "9dbd8e09f929f848f42662f02829c5e5ca780c9d08205f5ee1f95cf45a0c10b2",
+  "finish_reason": "stop",
+  "latency_s": 4.560983833001956,
+  "prediction": " In the provided text data, there isn't a direct mention of someone asking Emily if she has read The Lord of the Rings novels. Therefore, based on the information given, I do not have an answer to this question. \n\nIf this is not the information you were looking for, or if there's more context available, please provide additional details, and I'll do my best to assist you.",
+  "prediction_sha256": "6a95914255fed22db927afd35109e098321c2ef4f6bb7e489034aa7a52ad2e29",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 260,
+  "usage": {
+    "completion_tokens": 89,
+    "prompt_tokens": 4623,
+    "prompt_tokens_details": null,
+    "total_tokens": 4712
+  }
+}

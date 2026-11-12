@@ -1,0 +1,17 @@
+{
+  "body_sha256": "e7f810c48a452e2f7e5208cdc375b131f4aa69e1a17e1c0ff6ca564fe1ac7c2f",
+  "finish_reason": "stop",
+  "latency_s": 11.478214624999964,
+  "prediction": "In the conversation recorded at Time: 20260828_10:00, WolfgangSchulz expresses his preference for a well-done meat patty in a burger, stating that he thinks \"well-done is just safer and more flavorful.\" However, he acknowledges that LiHua prefers a medium rare patty, noting that she loves the \"juicy texture of a medium rare patty.\" This indicates that Wolfgang prefers a well-done patty due to personal taste preferences, despite acknowledging that others might prefer a medium rare patty.",
+  "prediction_sha256": "7a524326a7d5751ad35181c88f8ece9cbe1178f3908a020a499d94d02596c23c",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100186,
+  "usage": {
+    "completion_tokens": 115,
+    "prompt_tokens": 4946,
+    "prompt_tokens_details": null,
+    "total_tokens": 5061
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "38e2e72cf6013154794eccbbb05a65f474f076647133f7b1fc2a787c8173126c",
+  "finish_reason": "stop",
+  "latency_s": 11.400633291999839,
+  "prediction": "Based on the provided data, Li Hua requests a delivery from Hailey Johnson specifically for bread items. In the conversation dated 20260314_17:00, Li Hua expresses interest in trying the doorstep delivery service for fresh milk and bread. This indicates that Li Hua requests deliveries containing bread products, primarily for her personal consumption. There are no further detailed requests for delivery schedules or timings provided in the available data.",
+  "prediction_sha256": "87de7101d3f122c2784208fe5c27c165d60b0461ba0bc6e52fe28c8edacca088",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 93,
+  "usage": {
+    "completion_tokens": 94,
+    "prompt_tokens": 4563,
+    "prompt_tokens_details": null,
+    "total_tokens": 4657
+  }
+}

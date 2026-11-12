@@ -1,0 +1,17 @@
+{
+  "body_sha256": "e4a5553835aca7bb14883f6afcd141a93e23be2d148b293243896c3f4fabe187",
+  "finish_reason": "stop",
+  "latency_s": 11.384061999997357,
+  "prediction": "In the conversation between Li Hua and Adam Smith regarding the community garden renovation, Li Hua suggests several types of flowers that could be incorporated into the flower beds. Specifically, Li Hua recommends lavender and coneflowers, stating that these flowers are \"both beautiful and great for pollinators\" and do not require too much maintenance. Adam Smith agrees with these suggestions, highlighting that lavender and coneflowers \"sound perfect!\" and that they also \"smell amazing.\" These recommendations align with the goals of enhancing the aesthetic appeal of the garden and providing benefits to local wildlife.",
+  "prediction_sha256": "821d85f0fb4aded447c9f35da62ee0b0837d78557e6b78d9eabd924f5862d11c",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200110,
+  "usage": {
+    "completion_tokens": 119,
+    "prompt_tokens": 3708,
+    "prompt_tokens_details": null,
+    "total_tokens": 3827
+  }
+}

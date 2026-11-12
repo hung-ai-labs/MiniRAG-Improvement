@@ -1,0 +1,17 @@
+{
+  "body_sha256": "09021ca5c95d789ffff9944c1fd0a734b64d77ba11629a0b65dd47d48c560bf4",
+  "finish_reason": "stop",
+  "latency_s": 8.035754125001404,
+  "prediction": "In the conversation recorded on 20260312_12:30, AdamSmith mentions a \"community bake sale this Sunday at 3 PM to support a local charity.\" This event is referred to as the \"Garage sale\" in the provided data, although it's important to note that a garage sale typically involves selling items from one's home rather than being specifically a fundraising event. Therefore, while the term \"garage sale\" is used, the event described is actually a community bake sale.",
+  "prediction_sha256": "88cfb1693dea057e8942c175f72d58d48321f5b33c7982eeaaa68d85ddf7882b",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200168,
+  "usage": {
+    "completion_tokens": 108,
+    "prompt_tokens": 4971,
+    "prompt_tokens_details": null,
+    "total_tokens": 5079
+  }
+}

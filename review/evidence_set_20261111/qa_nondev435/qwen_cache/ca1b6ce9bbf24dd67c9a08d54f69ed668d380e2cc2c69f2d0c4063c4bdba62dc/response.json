@@ -1,0 +1,17 @@
+{
+  "body_sha256": "ca1b6ce9bbf24dd67c9a08d54f69ed668d380e2cc2c69f2d0c4063c4bdba62dc",
+  "finish_reason": "stop",
+  "latency_s": 8.505583124999248,
+  "prediction": "In the conversation between LiHua and WolfgangSchulz, it is explicitly stated that LiHua will be responsible for picking up the snacks and drinks on her way to the movie. WolfgangSchulz mentioned, \"For sure! I can bring some snacks too for the movie? 🍿✨\" and \"I'll see you soon!\" indicating that LiHua will handle the logistics of bringing the food and beverages.",
+  "prediction_sha256": "ede380ac0cac56f257a744a3cc068ce6448de56953c0c6236dd176bdea5a603d",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100307,
+  "usage": {
+    "completion_tokens": 88,
+    "prompt_tokens": 5297,
+    "prompt_tokens_details": null,
+    "total_tokens": 5385
+  }
+}

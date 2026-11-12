@@ -1,0 +1,17 @@
+{
+  "body_sha256": "59b3bb714152a2755afb94be2da28346140075a091e71eba849c864a60086204",
+  "finish_reason": "stop",
+  "latency_s": 9.898998874996323,
+  "prediction": " AdamSmith invites Li Hua to join the community bake sale. This is evident from the conversation transcript where Adam Smith (id: 0) sends a message to Li Hua, mentioning the event taking place on Sunday at 3 PM with the intention of supporting a local charity and fostering community interaction. Li Hua expresses interest and enthusiasm for participating in the event, indicating support for both the cause and social engagement.\n\n```markdown\nAdamSmith: Hey Li Hua! There's a community bake sale this Sunday at 3 PM to support a local charity. It would be great if you could join. Let me know if you’re interested!\nLiHua: That sounds fun! I’d love to help out and enjoy some baked goodies. Count me in! 🍰\n```\n\nThis interaction shows Adam Smith's initiative in extending an invitation and Li Hua's positive response, highlighting the community spirit behind the bake sale.",
+  "prediction_sha256": "4c946b4ff266433473a1918c299fa7fb3a346245d661835461bd4f94d18ad66c",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 200092,
+  "usage": {
+    "completion_tokens": 221,
+    "prompt_tokens": 5284,
+    "prompt_tokens_details": null,
+    "total_tokens": 5505
+  }
+}

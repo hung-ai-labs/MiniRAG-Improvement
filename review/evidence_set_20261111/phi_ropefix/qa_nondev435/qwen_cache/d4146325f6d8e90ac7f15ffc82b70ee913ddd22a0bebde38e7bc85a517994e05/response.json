@@ -1,0 +1,17 @@
+{
+  "body_sha256": "d4146325f6d8e90ac7f15ffc82b70ee913ddd22a0bebde38e7bc85a517994e05",
+  "finish_reason": "stop",
+  "latency_s": 8.53276624999853,
+  "prediction": " Based on the data provided, Li Hua and Wolfgang had dinner at a new burger place near the cinema on the night of June 9, 2026. The conversation leading up to this event is as follows:\n\n```\nWolfgangSchulz: Hey! Wanna hit the new burger place for dinner tonight? I heard their fries are awesome too!\nLiHua: That sounds perfect! I’ve been wanting to try it out. What time should we head there?\nWolfgangSchulz: Let's meet at 6:00, then we can make our way to the event after. Sound good?\nLiHua: Sounds like a plan! See you at 6:00! Can't wait!\"\n```\n\nDuring their discussion, they agree to meet at 6:00, which indicates that the new burger place is their chosen location for dinner that evening. The specific name of the restaurant is not mentioned in the provided data tables or content.",
+  "prediction_sha256": "892ceba2a3b19a74a73ef8e07ddd475975414cc791d949f5b4ad6a50aaa8215d",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 431,
+  "usage": {
+    "completion_tokens": 221,
+    "prompt_tokens": 5038,
+    "prompt_tokens_details": null,
+    "total_tokens": 5259
+  }
+}

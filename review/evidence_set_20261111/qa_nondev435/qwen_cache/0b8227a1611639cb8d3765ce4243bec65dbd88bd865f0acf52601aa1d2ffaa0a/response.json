@@ -1,0 +1,17 @@
+{
+  "body_sha256": "0b8227a1611639cb8d3765ce4243bec65dbd88bd865f0acf52601aa1d2ffaa0a",
+  "finish_reason": "stop",
+  "latency_s": 13.832707334000588,
+  "prediction": "According to the information provided, Wolfgang is informed about his upcoming trip to Hong Kong. Specifically, Wolfgang mentions this in a message to LiHua on December 19th, saying, \"Hey! Just a heads up, I'm off to Hong Kong for a couple of days next week. Anything you want me to grab while I'm there?\" This indicates that LiHua is aware of Wolfgang's travel plans to Hong Kong. Additionally, on December 23rd, Wolfgang shares his arrival in Hong Kong with LiHua, noting, \"Just touched down in Hong Kong! 😍 The city is incredible, so vibrant and full of life. Can’t wait to explore!\", suggesting that LiHua is also informed about his destination and his initial impressions of the city. Thus, both Wolfgang and LiHua are informed about Wolfgang's trip to Hong Kong.",
+  "prediction_sha256": "e651b294fa8a3e9a112d5aec0f52502f7bf0688f1ec5be01f7b07a1a0d66848c",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200033,
+  "usage": {
+    "completion_tokens": 177,
+    "prompt_tokens": 4716,
+    "prompt_tokens_details": null,
+    "total_tokens": 4893
+  }
+}

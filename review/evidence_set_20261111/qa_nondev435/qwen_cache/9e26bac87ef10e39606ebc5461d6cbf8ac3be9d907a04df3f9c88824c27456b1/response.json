@@ -1,0 +1,17 @@
+{
+  "body_sha256": "9e26bac87ef10e39606ebc5461d6cbf8ac3be9d907a04df3f9c88824c27456b1",
+  "finish_reason": "stop",
+  "latency_s": 17.984466665999207,
+  "prediction": "In the month of May, Hailey's Bakery offered several special items and promotions to its customers. One notable event was a free baking class that was hosted on a weekend. Additionally, a bread-tasting event was organized where guests could sample the new healthy bread options that Hailey was launching. This event took place at the bakery, and it was open to the public, allowing attendees to try and taste the innovative breads. In terms of promotions, a 20% off bread promotion was active, encouraging customers to visit the bakery on a specific date to purchase discounted bread. These events and offers aimed to engage the community and provide customers with new experiences and products to enjoy.",
+  "prediction_sha256": "325ea70c8bdb65619c91424774b1f0ae9335d53739f56a9f7d99c6c28685f496",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200037,
+  "usage": {
+    "completion_tokens": 138,
+    "prompt_tokens": 5095,
+    "prompt_tokens_details": null,
+    "total_tokens": 5233
+  }
+}

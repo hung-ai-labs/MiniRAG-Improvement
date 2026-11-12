@@ -1,0 +1,17 @@
+{
+  "body_sha256": "996289a9552a3d899242277bcbf6ee6a20adebb080d0efb9186eb58d53a9977f",
+  "finish_reason": "stop",
+  "latency_s": 6.420841417002521,
+  "prediction": "There is no information provided regarding any complaint from Li Hua about a customer modifying their requirements or Wolfgang comforting Li Hua. The entities table only mentions Wolfgang in relation to Li Hua's musical preferences and potential involvement in a stand-up comedy event. Therefore, based on the data available, it is not possible to determine if Li Hua's complaint occurred before Wolfgang comforted him.",
+  "prediction_sha256": "9148a5a5a256e9dfdf63b190af396c21eb9d37ed853892b2fa567114c24d392c",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100049,
+  "usage": {
+    "completion_tokens": 78,
+    "prompt_tokens": 4366,
+    "prompt_tokens_details": null,
+    "total_tokens": 4444
+  }
+}

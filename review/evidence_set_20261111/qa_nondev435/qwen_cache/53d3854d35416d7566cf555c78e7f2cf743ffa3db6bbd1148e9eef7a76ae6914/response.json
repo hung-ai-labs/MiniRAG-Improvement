@@ -1,0 +1,17 @@
+{
+  "body_sha256": "53d3854d35416d7566cf555c78e7f2cf743ffa3db6bbd1148e9eef7a76ae6914",
+  "finish_reason": "stop",
+  "latency_s": 9.587394417001633,
+  "prediction": "Based on the conversation, Li Hua prefers to drink a protein shake after his workout sessions. Specifically, Jennifer Moore suggests that Li Hua \"focus on post-workout for sure\" and recommends having a protein shake after a workout for optimal recovery. There is no indication that Li Hua drinks a protein shake before his workouts.",
+  "prediction_sha256": "3e34f6a3d50ba43099e6bdef7bbe9c5f5207feed736fcebe3620e2fc6fc62e31",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200412,
+  "usage": {
+    "completion_tokens": 67,
+    "prompt_tokens": 4407,
+    "prompt_tokens_details": null,
+    "total_tokens": 4474
+  }
+}

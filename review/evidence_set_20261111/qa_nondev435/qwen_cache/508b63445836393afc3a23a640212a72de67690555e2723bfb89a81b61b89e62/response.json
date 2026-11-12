@@ -1,0 +1,17 @@
+{
+  "body_sha256": "508b63445836393afc3a23a640212a72de67690555e2723bfb89a81b61b89e62",
+  "finish_reason": "stop",
+  "latency_s": 8.490511708005215,
+  "prediction": "In the conversation recorded on 20260425, Li Hua mentions that he will introduce his friend to the group the following day. His friend's name is Chae, who is described as a neurosurgeon. Li Hua expresses enthusiasm about introducing Chae to the group, noting that she will bring a \"cool perspective\" to the jam session. Thus, Li Hua is bringing his neurosurgeon friend, Chae, to the band's jam session.",
+  "prediction_sha256": "5ef8335fe2e6e3de67b599f842c52082083872333e3a1f75250de88bf3ca8dcb",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100113,
+  "usage": {
+    "completion_tokens": 103,
+    "prompt_tokens": 4331,
+    "prompt_tokens_details": null,
+    "total_tokens": 4434
+  }
+}

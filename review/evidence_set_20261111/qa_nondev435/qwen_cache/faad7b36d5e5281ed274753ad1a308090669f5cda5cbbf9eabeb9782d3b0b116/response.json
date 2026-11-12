@@ -1,0 +1,17 @@
+{
+  "body_sha256": "faad7b36d5e5281ed274753ad1a308090669f5cda5cbbf9eabeb9782d3b0b116",
+  "finish_reason": "stop",
+  "latency_s": 7.676726249999774,
+  "prediction": "For the seating area in the community garden, soft white lights are preferred according to the discussion. This choice was made because soft white lights give a cozy and inviting glow, perfect for relaxing evenings in the garden. The preference for soft white lights aligns with the aim to create a warm and inviting atmosphere, enhancing the comfort and appeal of the seating area.",
+  "prediction_sha256": "a0232a3efaa5478a6e94b29d5f635b680f26b25bf9eb37e76ce39043beefb357",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 122,
+  "usage": {
+    "completion_tokens": 72,
+    "prompt_tokens": 4844,
+    "prompt_tokens_details": null,
+    "total_tokens": 4916
+  }
+}

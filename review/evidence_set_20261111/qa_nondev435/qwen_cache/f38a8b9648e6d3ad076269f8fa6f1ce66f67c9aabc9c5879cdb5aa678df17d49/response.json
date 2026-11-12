@@ -1,0 +1,17 @@
+{
+  "body_sha256": "f38a8b9648e6d3ad076269f8fa6f1ce66f67c9aabc9c5879cdb5aa678df17d49",
+  "finish_reason": "stop",
+  "latency_s": 7.078509875002055,
+  "prediction": "In the conversation, Li Hua mentioned planning to meet JakeWatson for a soccer practice session. Specifically, Li Hua suggested meeting at the park on Saturday at 10 AM, while JakeWatson agreed to this time. Therefore, Li Hua plans to meet JakeWatson for soccer practice on Saturday at 10 AM.",
+  "prediction_sha256": "5bf11026a23f4ae1d8ea2b34aa64c2d502c68d1defdad19c600df56cabe22701",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100181,
+  "usage": {
+    "completion_tokens": 70,
+    "prompt_tokens": 3128,
+    "prompt_tokens_details": null,
+    "total_tokens": 3198
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "a9aeba9c79aeaf1a71c9a69134f51a02ee7f1ad69f040550d01269489c19e4b9",
+  "finish_reason": "stop",
+  "latency_s": 8.983859042000404,
+  "prediction": "In the conversation, Wolfgang and Li Hua mention their favorite Italian place multiple times. Initially, Wolfgang suggests their \"favorite Italian place\" during a conversation about celebrating his promotion, stating, \"How about our favorite Italian place? They have the best pasta!\" Later, they discuss plans for dinner again, with Wolfgang saying, \"Thanks! How about our favorite Italian place? They have the best pasta! What do you think?\" Therefore, the name of the Italian restaurant where Wolfgang and Li Hua are having dinner to celebrate Wolfgang's promotion is their favorite Italian place. However, without additional specific details from the conversations, we cannot provide the exact name of the restaurant.",
+  "prediction_sha256": "20b8a71a3ee603e6fb53d846235e7e2d00c6f41fbd0c80dc440ebb35ff5ebc4c",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 116,
+  "usage": {
+    "completion_tokens": 134,
+    "prompt_tokens": 4550,
+    "prompt_tokens_details": null,
+    "total_tokens": 4684
+  }
+}

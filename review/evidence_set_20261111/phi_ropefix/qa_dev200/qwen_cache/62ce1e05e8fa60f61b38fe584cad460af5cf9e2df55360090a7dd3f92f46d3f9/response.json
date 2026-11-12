@@ -1,0 +1,17 @@
+{
+  "body_sha256": "62ce1e05e8fa60f61b38fe584cad460af5cf9e2df55360090a7dd3f92f46d3f9",
+  "finish_reason": "stop",
+  "latency_s": 11.606815334002022,
+  "prediction": " Li Hua expresses enthusiasm and interest in attending Hailey's bakery's anniversary event. During their conversation, Hailey Johnson mentions that the bakery will be offering lots of discounts and new bread products during the event. Specifically, Li Hua mentions that she loves sourdough and hopes Hailey will have that available. She also shows interest in trying some sweet pastries as part of the celebration. Therefore, for Hailey's bakery shop anniversary event, Li Hua wants to try sourdough bread and possibly some new sweet pastries.\n\nHere is the relevant section from the discussions formatted in markdown:\n\n```markdown\nHaileyJohnson: \"Yay! I’m so excited to see you there! 🥳 I’ll have some special treats ready just for the occasion. Do you have a favorite bread that you’re hoping to see?\"\n\nLiHua: \"Oh, I love sourdough! Hope you have that! And maybe some sweet pastries too? 😋\"\n\nThis exchange illustrates Li Hua's anticipation for the event and her interest in particular items that Hailey's bakery might offer, specifically sourdough bread and various sweet pastries.\n```",
+  "prediction_sha256": "c7a502410c4713c0e6fdf6dbbd5a2177f2519a897695e39d37fd0509a26cdc47",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 40,
+  "usage": {
+    "completion_tokens": 282,
+    "prompt_tokens": 4491,
+    "prompt_tokens_details": null,
+    "total_tokens": 4773
+  }
+}

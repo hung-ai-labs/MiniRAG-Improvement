@@ -1,0 +1,17 @@
+{
+  "body_sha256": "03d9e9cfe972fe0e6ec6eb288d13778e67c922a274987f766b2ca1184701cf02",
+  "finish_reason": "stop",
+  "latency_s": 6.808191667005303,
+  "prediction": "There doesn't appear to be any instance where Li Hua expressed frustration about a client changing requirements based on the provided conversation snippets. All interactions related to client communications seem to involve positive exchanges and supportive dialogues.",
+  "prediction_sha256": "1f21ffc045ca9729b3db0dd595588ab790ff9db41a57e45b878e874e295d717d",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100069,
+  "usage": {
+    "completion_tokens": 43,
+    "prompt_tokens": 4447,
+    "prompt_tokens_details": null,
+    "total_tokens": 4490
+  }
+}

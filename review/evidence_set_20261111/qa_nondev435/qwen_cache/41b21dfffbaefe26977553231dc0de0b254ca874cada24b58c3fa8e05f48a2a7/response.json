@@ -1,0 +1,17 @@
+{
+  "body_sha256": "41b21dfffbaefe26977553231dc0de0b254ca874cada24b58c3fa8e05f48a2a7",
+  "finish_reason": "stop",
+  "latency_s": 12.30696983300004,
+  "prediction": "Based on the information provided, Wolfgang's favorite superhero is Spider-Man. This can be inferred from the conversation where Wolfgang mentions, \"I think Spider-Man is my fave!\" and further expresses his appreciation for Spider-Man's storyline and action-packed nature. However, it's important to note that Wolfgang has a preference for Iron Man as well, stating, \"I have a soft spot for Iron Man though. The tech and personality are just cool.\" Despite this, Spider-Man emerges as Wolfgang's favorite among the superheroes discussed.",
+  "prediction_sha256": "f75420c359e905af4d4cf27a3bb814168989a255cbea8b76ce326d68f68a71be",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 156,
+  "usage": {
+    "completion_tokens": 105,
+    "prompt_tokens": 3825,
+    "prompt_tokens_details": null,
+    "total_tokens": 3930
+  }
+}

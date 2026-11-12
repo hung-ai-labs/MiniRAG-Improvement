@@ -1,0 +1,17 @@
+{
+  "body_sha256": "5fcbc5fe7f8f57d32455652e2fd6e7f67a5d8bd154d67043f0979f469be30bf0",
+  "finish_reason": "stop",
+  "latency_s": 8.691774708000594,
+  "prediction": "Jasper mentions a comeback match against Manchester City, indicating that Manchester City recently had a notable performance. Specifically, Jasper refers to the 2005 UEFA Champions League (UCL) final where Manchester City, despite trailing 3-0 at halftime, managed to win the match in extra time via penalties. This comeback is described as \"insane\" and \"epic,\" suggesting that Manchester City's recent performance in this match was highly successful and memorable.",
+  "prediction_sha256": "c09c4f20355e8511d37643ef0e266f1c68999ba2b82a191383b11ac76eac23f0",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 302,
+  "usage": {
+    "completion_tokens": 94,
+    "prompt_tokens": 4775,
+    "prompt_tokens_details": null,
+    "total_tokens": 4869
+  }
+}

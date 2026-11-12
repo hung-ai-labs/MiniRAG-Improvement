@@ -1,0 +1,17 @@
+{
+  "body_sha256": "2d468d09d7a525499cdcbf1bfbda692a7ca20524d48e54ebaaa8e7cd1a32273b",
+  "finish_reason": "stop",
+  "latency_s": 5.833628833999683,
+  "prediction": "In the conversation recorded under ID 0, Wolfgang Schulz mentions, \"How about our favorite Italian place? They have the best pasta!\" This indicates that the Italian restaurant they are planning to visit for dinner to celebrate Wolfgang's promotion is the one they often frequent due to its excellent pasta. No specific name is mentioned, only that it is their favorite Italian establishment. This preference for the same Italian restaurant suggests consistency in their dining choices, likely a place they enjoy visiting for quality Italian cuisine.",
+  "prediction_sha256": "ff6bc401786384477991cb5d061e47e5f7a2bf674f712110ec6a3ed8fada95ed",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200116,
+  "usage": {
+    "completion_tokens": 99,
+    "prompt_tokens": 3955,
+    "prompt_tokens_details": null,
+    "total_tokens": 4054
+  }
+}

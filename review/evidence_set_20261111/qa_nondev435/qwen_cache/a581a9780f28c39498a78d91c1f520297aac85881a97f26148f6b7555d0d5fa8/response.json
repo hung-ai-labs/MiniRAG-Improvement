@@ -1,0 +1,17 @@
+{
+  "body_sha256": "a581a9780f28c39498a78d91c1f520297aac85881a97f26148f6b7555d0d5fa8",
+  "finish_reason": "stop",
+  "latency_s": 10.136942332996114,
+  "prediction": "In the records provided, Li Hua gives feedback on Chae Song-hwa's medical knowledge lecture. Specifically, she notes that the lecture was \"really insightful\" and that Chae Song-hwa's \"presentation style made complex topics easy to understand.\" Additionally, Li Hua looks forward to attending the lecture and mentions that she'll bring her curiosity to the event, indicating a positive outlook on the opportunity to learn more.",
+  "prediction_sha256": "e50829a957f6541747a9a38ae4b6d458527f42ccacf306e28b291e02118a86a2",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100107,
+  "usage": {
+    "completion_tokens": 86,
+    "prompt_tokens": 4528,
+    "prompt_tokens_details": null,
+    "total_tokens": 4614
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "c01755bb3fc13149d9f9aca7333ff6a7c037311427d68844bdf63c584e749f1f",
+  "finish_reason": "stop",
+  "latency_s": 5.147926000001462,
+  "prediction": " Helios is currently engrossed in playing \"Horizon Forbidden West.\" He finds the large, diverse environments and world-building particularly captivating. He praises the stunning graphics and top-notch gameplay mechanics, which provide an immersive experience. Additionally, he mentions a chapter dealing with innovative machines that contribute to the game's allure, making it a standout title in terms of visual and gameplay quality.",
+  "prediction_sha256": "35e59e4abe2e48d3484245b3d2821b65b9f8496d6ae369c015924da7da7f6cec",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 100,
+  "usage": {
+    "completion_tokens": 95,
+    "prompt_tokens": 4452,
+    "prompt_tokens_details": null,
+    "total_tokens": 4547
+  }
+}

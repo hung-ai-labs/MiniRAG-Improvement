@@ -1,0 +1,17 @@
+{
+  "body_sha256": "2d916cc54fc3b1ed141d6a503cbc682ec5571bfdb65a43ca1cb7593d0c01943b",
+  "finish_reason": "stop",
+  "latency_s": 11.06953312499536,
+  "prediction": "On April 25, 2026, in the conversation recorded at Time: 20260425_21:00, Li Hua mentioned that he had a new friend named Chae. Chae is described as a neurosurgeon. In this context, Li Hua is inviting his friend Chae to join their jam session. This indicates that Li Hua intends to bring Chae, his neurosurgeon friend, to the band's jam session.",
+  "prediction_sha256": "505dc0276e1900d026e57f5020f7ac01978a975ab04ae9c6c2aaa40567c4c88e",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200113,
+  "usage": {
+    "completion_tokens": 106,
+    "prompt_tokens": 4772,
+    "prompt_tokens_details": null,
+    "total_tokens": 4878
+  }
+}

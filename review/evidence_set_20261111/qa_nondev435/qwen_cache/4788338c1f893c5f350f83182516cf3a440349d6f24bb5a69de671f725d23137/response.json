@@ -1,0 +1,17 @@
+{
+  "body_sha256": "4788338c1f893c5f350f83182516cf3a440349d6f24bb5a69de671f725d23137",
+  "finish_reason": "stop",
+  "latency_s": 7.3278312500005995,
+  "prediction": "No, there is no information provided suggesting that Li Hua asked Wolfgang Schulz for a recommendation on a gym or fitness center before seeking book recommendations from Jennifer Moore. The interactions described between Li Hua and Wolfgang Schulz pertain to discussions about musical sessions and jamming, while the interactions with Jennifer Moore revolve around fitness nutrition and books. There is no mention of Wolfgang Schulz being involved in recommending a gym or fitness center to Li Hua.",
+  "prediction_sha256": "a88d44929e88c0d3302ddc1769c69f4898a4841331693d9e5458149494c329a8",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100046,
+  "usage": {
+    "completion_tokens": 92,
+    "prompt_tokens": 4500,
+    "prompt_tokens_details": null,
+    "total_tokens": 4592
+  }
+}

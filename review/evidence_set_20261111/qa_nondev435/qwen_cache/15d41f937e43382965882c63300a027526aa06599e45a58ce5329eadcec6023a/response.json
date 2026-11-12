@@ -1,0 +1,17 @@
+{
+  "body_sha256": "15d41f937e43382965882c63300a027526aa06599e45a58ce5329eadcec6023a",
+  "finish_reason": "stop",
+  "latency_s": 9.749444165998284,
+  "prediction": "No, there is no mention of Li Hua asking Thane about his opinion on The Last of Us before he inquired about Sekiro: Shadows Die Twice. The conversation specifically starts with Li Hua expressing interest in Sekiro: Shadows Die Twice and seeking Thane's thoughts on it, rather than beginning with a discussion about The Last of Us.",
+  "prediction_sha256": "50f164efbe2bc8e03f0c9b2eb9706d241ef017bdfb806d97b0550b52f0b0c205",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 24,
+  "usage": {
+    "completion_tokens": 72,
+    "prompt_tokens": 3678,
+    "prompt_tokens_details": null,
+    "total_tokens": 3750
+  }
+}

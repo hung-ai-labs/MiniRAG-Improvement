@@ -1,0 +1,17 @@
+{
+  "body_sha256": "9ef7800aa151032fab4f797d16ff9686b99e029f5816e48a7b32d5e0b3a63446",
+  "finish_reason": "stop",
+  "latency_s": 11.563939250001567,
+  "prediction": "Based on the conversation between Li Hua and Jennifer Moore, Li Hua prefers to take a protein shake after his workout sessions rather than before. Jennifer advises him to consume the protein shake after his workouts for optimal recovery, stating, \"After workouts is generally better! Your muscles are primed to absorb the protein for recovery. Just try to have it within 30-60 minutes post-workout for the best results.\" Li Hua also mentions that he focuses on post-workout for sure, indicating that he does not prefer a pre-workout protein shake.",
+  "prediction_sha256": "2db50e487074a2c257d986be214de0a3e6c53b0e40986e5dcf5fcb57a6d17bee",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200412,
+  "usage": {
+    "completion_tokens": 115,
+    "prompt_tokens": 4030,
+    "prompt_tokens_details": null,
+    "total_tokens": 4145
+  }
+}

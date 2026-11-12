@@ -1,0 +1,17 @@
+{
+  "body_sha256": "ba1f250467760898407df62988f7f0fc0a230c0831e01d619bf392149f5d34f0",
+  "finish_reason": "stop",
+  "latency_s": 11.389267999998992,
+  "prediction": "On April 3, 2026, there were two instances of bread delivery to Li Hua. In the first instance, HaileyJohnson reminded Li Hua about the bread delivery that was scheduled to occur that morning. However, in the second instance, Alice from Hailey's bakery personally delivered the bread to Li Hua, as indicated by the message \"I am Alice from Hailey's bakery. Your bread has been delivered, please come and pick it up ASAP. Have a good day : ).\" Therefore, it appears that Alice from Hailey's bakery was responsible for the bread delivery to Li Hua on April 3, 2026.",
+  "prediction_sha256": "2db23724d97db5469f7c074b10397baa530d7cc25b47cd8f49dd004fab92aae5",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100105,
+  "usage": {
+    "completion_tokens": 138,
+    "prompt_tokens": 3544,
+    "prompt_tokens_details": null,
+    "total_tokens": 3682
+  }
+}

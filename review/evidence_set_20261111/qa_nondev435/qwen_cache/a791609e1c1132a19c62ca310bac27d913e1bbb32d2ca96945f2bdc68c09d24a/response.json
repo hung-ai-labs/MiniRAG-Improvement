@@ -1,0 +1,17 @@
+{
+  "body_sha256": "a791609e1c1132a19c62ca310bac27d913e1bbb32d2ca96945f2bdc68c09d24a",
+  "finish_reason": "stop",
+  "latency_s": 6.119786208000733,
+  "prediction": "There isn't any information regarding Li Hua inviting Adam Smith to check the basement renovation progress in the provided data. The data only contains conversations between Adam Smith and Li Hua concerning various matters such as reminders about rent payments, plans to watch a movie, and discussions about environmental sustainability and photography. No mention is made of checking the progress of the basement renovation.",
+  "prediction_sha256": "e0e8db9effb9bdcccecdde4f6c47ac0a43c5b72f671cca502fd59c25161b02f6",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200083,
+  "usage": {
+    "completion_tokens": 73,
+    "prompt_tokens": 3706,
+    "prompt_tokens_details": null,
+    "total_tokens": 3779
+  }
+}

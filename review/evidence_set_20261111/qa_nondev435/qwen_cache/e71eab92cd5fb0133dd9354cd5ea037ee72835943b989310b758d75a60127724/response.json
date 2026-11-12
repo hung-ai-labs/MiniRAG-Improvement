@@ -1,0 +1,17 @@
+{
+  "body_sha256": "e71eab92cd5fb0133dd9354cd5ea037ee72835943b989310b758d75a60127724",
+  "finish_reason": "stop",
+  "latency_s": 8.489603249996435,
+  "prediction": "In the conversation, LiHua and AdamSmith discuss setting a time for installing the curtain. They decide to meet on a Wednesday at 5 PM. Therefore, according to the information provided, LiHua and AdamSmith agree to install the curtain on a Wednesday.",
+  "prediction_sha256": "45b05e57ccc6063ad5b82795c4efe194239b4f0980e903127019a0faa961088e",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100249,
+  "usage": {
+    "completion_tokens": 55,
+    "prompt_tokens": 4347,
+    "prompt_tokens_details": null,
+    "total_tokens": 4402
+  }
+}

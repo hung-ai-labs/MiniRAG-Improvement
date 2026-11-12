@@ -1,0 +1,17 @@
+{
+  "body_sha256": "7a6f292aade1096ecbdb7d900065d15b3e7b15ef8f7a870d7e80fe2dea586091",
+  "finish_reason": "stop",
+  "latency_s": 6.738557791999483,
+  "prediction": "There is no mention of Li Hua asking Wolfgang Schulz to go to the gym together or of any interaction between Li Hua and Wolfgang Schulz regarding the gym membership feedback activity. The conversation focuses primarily on the membership feedback activity itself, with Jennifer reminding Li Hua to participate. No prior invitation or discussion about going to the gym together is referenced in the provided data.",
+  "prediction_sha256": "3c39468a8e9bce001e48da930007bd3365c62c071bf66ba5c1b9c98282a19a7d",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200047,
+  "usage": {
+    "completion_tokens": 76,
+    "prompt_tokens": 4438,
+    "prompt_tokens_details": null,
+    "total_tokens": 4514
+  }
+}

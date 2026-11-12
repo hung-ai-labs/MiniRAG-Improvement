@@ -1,0 +1,17 @@
+{
+  "body_sha256": "a63d6413239bc9be3ca2e91a3dbe0b1d0ce7a9676e8fa551fd9562ef67e78c7e",
+  "finish_reason": "stop",
+  "latency_s": 11.585284332999436,
+  "prediction": "Based on the conversation provided, Li Hua did not initially ask Jennifer Moore for book recommendations on fitness nutrition before announcing the special guest speaker at the gym. Instead, Jennifer recommended two books: \"The New Rules of Lifting\" by Lou Schuler and Alwyn Cosgrove and \"Precision Nutrition,\" which offers online courses. The mention of the guest speaker does not appear in the given dialogue.",
+  "prediction_sha256": "ef1dcdaec2e74f8fe88f8424869e9221d6e6f799769a52947c3a185bd7e837fc",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100021,
+  "usage": {
+    "completion_tokens": 81,
+    "prompt_tokens": 4448,
+    "prompt_tokens_details": null,
+    "total_tokens": 4529
+  }
+}

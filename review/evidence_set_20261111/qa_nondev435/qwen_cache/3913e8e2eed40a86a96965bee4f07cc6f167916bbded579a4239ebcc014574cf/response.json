@@ -1,0 +1,17 @@
+{
+  "body_sha256": "3913e8e2eed40a86a96965bee4f07cc6f167916bbded579a4239ebcc014574cf",
+  "finish_reason": "stop",
+  "latency_s": 9.45399095799803,
+  "prediction": "Based on the information provided, Wolfgang did indeed arrive in Hong Kong after informing Li Hua about his trip. This is evident from the interactions recorded in the timeline. Specifically, Wolfgang informed Li Hua about his trip on December 19th (Source 1) and arrived in Hong Kong on December 23rd (Source 0), confirming that Wolfgang had already reached his destination by the time he shared the news.",
+  "prediction_sha256": "67b6468bd03a1682340452f17c2ba93196006f803a9fddd5738cb53bf6a1ab71",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100030,
+  "usage": {
+    "completion_tokens": 87,
+    "prompt_tokens": 4696,
+    "prompt_tokens_details": null,
+    "total_tokens": 4783
+  }
+}

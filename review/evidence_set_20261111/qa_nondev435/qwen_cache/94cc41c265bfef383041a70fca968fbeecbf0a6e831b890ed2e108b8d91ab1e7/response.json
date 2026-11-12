@@ -1,0 +1,17 @@
+{
+  "body_sha256": "94cc41c265bfef383041a70fca968fbeecbf0a6e831b890ed2e108b8d91ab1e7",
+  "finish_reason": "stop",
+  "latency_s": 8.98918287500419,
+  "prediction": "Li Hua checks in with Adam about the details for the move-in right after 5 PM each day. Specifically, the conversation mentions that Li Hua will be there around 5:30 PM. This indicates that the earliest time Li Hua can check in with Adam is 5:30 PM.",
+  "prediction_sha256": "2292ae8f41df0cd6581bad10cfbd690881839cd79072eb75588e83646131c987",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200055,
+  "usage": {
+    "completion_tokens": 65,
+    "prompt_tokens": 4456,
+    "prompt_tokens_details": null,
+    "total_tokens": 4521
+  }
+}

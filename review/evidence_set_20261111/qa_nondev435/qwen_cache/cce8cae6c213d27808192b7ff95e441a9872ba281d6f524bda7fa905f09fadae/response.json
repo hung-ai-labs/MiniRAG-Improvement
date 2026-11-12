@@ -1,0 +1,17 @@
+{
+  "body_sha256": "cce8cae6c213d27808192b7ff95e441a9872ba281d6f524bda7fa905f09fadae",
+  "finish_reason": "stop",
+  "latency_s": 13.08546291699895,
+  "prediction": "Based on the conversations detailed in the messages, Hailey's Bakery is the source for Li Hua's bread deliveries. For Li Hua's upcoming delivery, Hailey Johnson recommended that Li Hua try the rosemary focaccia. The instructions provided by Hailey included suggestions for toppings such as drizzling olive oil and sprinkling sea salt, as well as additional flavors like cherry tomatoes or olives. Therefore, for Li Hua's next delivery, the bread will likely be the rosemary focaccia, which Hailey Johnson recommends, and it may be topped with olive oil, sea salt, cherry tomatoes, or olives. The bakery that delivers Li Hua's bread is Hailey's Bakery.",
+  "prediction_sha256": "c6d25fd033b3a6fc29e7a1f8632ad91f842ccbecc20482536afff6f9aefe6d7d",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100420,
+  "usage": {
+    "completion_tokens": 145,
+    "prompt_tokens": 5067,
+    "prompt_tokens_details": null,
+    "total_tokens": 5212
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "e89b23771ff04d6001d0f869f3d213ca05d0d43e8275b3c9b83463f29b8ccac7",
+  "finish_reason": "stop",
+  "latency_s": 5.252727500002948,
+  "prediction": "At the neighborhood potluck dinner, Li Hua expressed her intention to bring homemade pasta salad. She mentioned she would need to pick up some fresh ingredients the following day, indicating that she was already preparing to contribute to the gathering.",
+  "prediction_sha256": "f831d942e0d9aa5f181035a3373e4f4a0bab5bc3055a33d22a56150b8fc9b8ca",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 87,
+  "usage": {
+    "completion_tokens": 47,
+    "prompt_tokens": 4426,
+    "prompt_tokens_details": null,
+    "total_tokens": 4473
+  }
+}

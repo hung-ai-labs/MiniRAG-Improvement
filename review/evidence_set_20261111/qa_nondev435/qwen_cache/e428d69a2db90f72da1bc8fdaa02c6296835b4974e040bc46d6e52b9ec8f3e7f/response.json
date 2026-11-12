@@ -1,0 +1,17 @@
+{
+  "body_sha256": "e428d69a2db90f72da1bc8fdaa02c6296835b4974e040bc46d6e52b9ec8f3e7f",
+  "finish_reason": "stop",
+  "latency_s": 6.661445707999519,
+  "prediction": "Based on the conversations between Li Hua and Jennifer Moore, it appears that Li Hua was following a balanced diet rich in whole foods. Jennifer recommended that Li Hua focus on lean proteins (such as chicken, fish, and tofu), whole grains (like quinoa or brown rice), plenty of vegetables, and healthy fats (such as avocados or nuts) to support his fitness goals. She suggested that Li Hua consume about 1.6 to 2.2 grams of protein per kilogram of body weight, depending on his level of training, and that he might need to adjust his protein powder servings based on the protein he already gets from his meals. Additionally, Jennifer advised Li Hua to maintain a steady intake of whole foods and to balance his meals, including snacks, to ensure he is getting adequate nutrients. She provided several meal ideas, which included breakfasts like scrambled eggs with spinach and tomatoes on whole-grain toast, lunches like grilled chicken salads with mixed greens, and dinners like baked salmon with quinoa and steamed broccoli. These meal suggestions were designed to be healthy and nutritious while accommodating Li Hua's dietary needs and preferences.",
+  "prediction_sha256": "614839def6baf1f0437d8dbdcee6870a4b05b31efcb234d59b1cc472fe227e33",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200409,
+  "usage": {
+    "completion_tokens": 235,
+    "prompt_tokens": 4237,
+    "prompt_tokens_details": null,
+    "total_tokens": 4472
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "8bc94fe7263b18dc7603756e85c1c74ef2dd953031908096fefff214b0579a65",
+  "finish_reason": "stop",
+  "latency_s": 10.597354916997574,
+  "prediction": "Yes, Li Hua did inquire about his protein powder intake and its relationship to his fitness goals prior to asking for Jennifer's advice on protein supplements. Specifically, Li Hua asked Jennifer if he should adjust his protein powder servings based on his daily protein intake recommendations. This suggests that he had already considered the importance of adjusting his protein intake but wanted to seek Jennifer's professional opinion on the specifics of how much protein powder he should consume daily to support his fitness goals.",
+  "prediction_sha256": "966fa7014fa142fbc83d9a9100de3f0181cdb28f41f7a6a9afe4636d352b72ca",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200016,
+  "usage": {
+    "completion_tokens": 94,
+    "prompt_tokens": 4169,
+    "prompt_tokens_details": null,
+    "total_tokens": 4263
+  }
+}

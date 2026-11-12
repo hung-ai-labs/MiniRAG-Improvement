@@ -1,0 +1,17 @@
+{
+  "body_sha256": "d6b7c068e7dabe603689bf4cd861d9edbf46ed1a142687972e1b836aeeef1972",
+  "finish_reason": "stop",
+  "latency_s": 8.072846000002755,
+  "prediction": "Li Hua and Jennifer Moore discussed the possibility of changing the training plan during their initial meeting. Li Hua expressed that he thought a change would help him balance his work and fitness better. Jennifer Moore suggested adjusting the schedule to train twice a week instead of the original plan. This adjustment took place on February 4th at 3 PM, as mentioned in the conversation log entry marked as \"Time: 20260204_15:00\".",
+  "prediction_sha256": "08e9d9d9d944190e7647609cacb727a30c455519cc368e6049d344ead552dc0d",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100072,
+  "usage": {
+    "completion_tokens": 98,
+    "prompt_tokens": 4377,
+    "prompt_tokens_details": null,
+    "total_tokens": 4475
+  }
+}

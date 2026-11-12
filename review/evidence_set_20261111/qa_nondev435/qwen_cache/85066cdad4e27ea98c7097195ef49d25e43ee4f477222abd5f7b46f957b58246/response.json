@@ -1,0 +1,17 @@
+{
+  "body_sha256": "85066cdad4e27ea98c7097195ef49d25e43ee4f477222abd5f7b46f957b58246",
+  "finish_reason": "stop",
+  "latency_s": 8.560246959001233,
+  "prediction": "In the conversation between Adam Smith and Li Hua, Adam mentions that he and Li Hua planned to go shopping together this weekend for the new PS5 games, which suggests that Li Hua is suggesting a group purchase of the new games. This is indicated in the dialogue where Adam asks Li Hua if she has any games in mind that they should look for, showing that Li Hua is initiating the idea of purchasing games collectively.",
+  "prediction_sha256": "04c4f55e763c88e2854cab3d9bc61bfe4087161f1798075638e8f881a222ff2b",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 344,
+  "usage": {
+    "completion_tokens": 89,
+    "prompt_tokens": 5071,
+    "prompt_tokens_details": null,
+    "total_tokens": 5160
+  }
+}

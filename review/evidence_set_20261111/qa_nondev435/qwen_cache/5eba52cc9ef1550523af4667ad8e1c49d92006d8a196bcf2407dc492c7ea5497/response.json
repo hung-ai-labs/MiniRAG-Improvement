@@ -1,0 +1,17 @@
+{
+  "body_sha256": "5eba52cc9ef1550523af4667ad8e1c49d92006d8a196bcf2407dc492c7ea5497",
+  "finish_reason": "stop",
+  "latency_s": 13.393356041997322,
+  "prediction": "Hailey Johnson offers a variety of services to Li Hua, primarily centered around delivering freshly baked goods. In one interaction, Hailey mentions leaving a fresh sourdough loaf at Li Hua's doorstep, along with a bottle of milk as a thank-you for being a new customer. She also offers to make special treats just for Li Hua when she comes by the bakery. Additionally, she provides regular deliveries of bread and milk, including Monday and Friday mornings at 8 AM. These offerings show Hailey's commitment to providing Li Hua with consistently fresh and enjoyable baked goods.",
+  "prediction_sha256": "c54e93a54b7d941b9c8da08e1c8c630dff2b9465074cd5d7acc3cc4f26fe44e0",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 95,
+  "usage": {
+    "completion_tokens": 119,
+    "prompt_tokens": 4350,
+    "prompt_tokens_details": null,
+    "total_tokens": 4469
+  }
+}

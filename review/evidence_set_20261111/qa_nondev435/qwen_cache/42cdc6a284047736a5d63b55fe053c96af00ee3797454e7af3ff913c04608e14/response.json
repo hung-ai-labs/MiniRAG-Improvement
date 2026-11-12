@@ -1,0 +1,17 @@
+{
+  "body_sha256": "42cdc6a284047736a5d63b55fe053c96af00ee3797454e7af3ff913c04608e14",
+  "finish_reason": "stop",
+  "latency_s": 3.8557975000003353,
+  "prediction": "In the conversations provided, there is no explicit mention of which song Li Hua performed at the local music festival. The discussions revolve around planning and preparing for the festival, including discussing sets, meeting times, and sharing musical preferences, but there is no indication of a specific performance. Therefore, based on the available data, we cannot determine which song Li Hua played at the local music festival.",
+  "prediction_sha256": "64d8a10f0d9e80cfede0c021526dbc44d55b03a4a641b48f3dec4ff5e718a93d",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200430,
+  "usage": {
+    "completion_tokens": 81,
+    "prompt_tokens": 4503,
+    "prompt_tokens_details": null,
+    "total_tokens": 4584
+  }
+}

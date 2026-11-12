@@ -1,0 +1,17 @@
+{
+  "body_sha256": "91acda8339405f1a5c55e7bb53e30acdfdff1f29b780fc8066f6bad6f903cb8c",
+  "finish_reason": "stop",
+  "latency_s": 7.918728041000577,
+  "prediction": "In the conversation, Henley mentions looking forward to practicing dribbling skills on Friday before the upcoming football match. Additionally, Henley expresses eagerness for the upcoming Saturday and looks forward to practicing together with friends, suggesting that the practice on that day will involve improving their dribbling skills.",
+  "prediction_sha256": "c346de29332b058d284b631ace15fdb9103b3be6e86cc4dbc7a3e1648bdabcad",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100364,
+  "usage": {
+    "completion_tokens": 58,
+    "prompt_tokens": 4920,
+    "prompt_tokens_details": null,
+    "total_tokens": 4978
+  }
+}

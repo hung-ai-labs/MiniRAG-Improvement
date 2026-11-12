@@ -1,0 +1,17 @@
+{
+  "body_sha256": "e48a0f54aff6a2174e0fb81b8f09440e923a3cba8a5b635b12ed5ca4170c7a7d",
+  "finish_reason": "stop",
+  "latency_s": 11.477995417000784,
+  "prediction": "In the month of May, Hailey's Bakery offered several special events and promotions at her bakery. One significant event was a free baking class that was hosted on a date that hasn't been specified, but it is known that LiHua expressed interest in attending. Additionally, there was a bread-tasting event planned for Saturday from 10 AM to 2 PM, which was organized by Hailey to gather feedback from her customers. This event aimed to provide an opportunity for customers to sample various types of bread and give their opinions on them. These special offerings helped engage customers and create a memorable experience within the bakery.",
+  "prediction_sha256": "06a904dca7177918863cfa24d01b6456f980edc32a7cbcb98f953e5ccdb635fc",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200037,
+  "usage": {
+    "completion_tokens": 126,
+    "prompt_tokens": 5096,
+    "prompt_tokens_details": null,
+    "total_tokens": 5222
+  }
+}

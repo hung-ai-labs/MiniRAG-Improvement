@@ -1,0 +1,17 @@
+{
+  "body_sha256": "855f4cb3002d013916d34dd40b6e8fd084bafdef357b03ab9397621ed7d76aff",
+  "finish_reason": "stop",
+  "latency_s": 4.357874207998975,
+  "prediction": " JakeWatson fondly recalls Messi's solo goal against Getafe in 2007 as one that he never forgets. He describes it as a moment of pure genius, where Messi dribbled past multiple defenders and scored in a way that resembled a scene from a movie. This goal stands out for JakeWatson as a highlight of Messi's incredible skills on the field.",
+  "prediction_sha256": "f39cab49a590c28c7f8bacc0fc69ba501e813c7921388c3725a2ac9262ba0705",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 200230,
+  "usage": {
+    "completion_tokens": 94,
+    "prompt_tokens": 4235,
+    "prompt_tokens_details": null,
+    "total_tokens": 4329
+  }
+}

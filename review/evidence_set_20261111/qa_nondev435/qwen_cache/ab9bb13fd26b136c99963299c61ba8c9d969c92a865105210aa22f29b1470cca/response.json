@@ -1,0 +1,17 @@
+{
+  "body_sha256": "ab9bb13fd26b136c99963299c61ba8c9d969c92a865105210aa22f29b1470cca",
+  "finish_reason": "stop",
+  "latency_s": 10.161556750001182,
+  "prediction": "Thrall is planning to organize community meetings to brainstorm and finalize the plans for the community garden. These meetings are intended to gather input from everyone involved and ensure that everyone is on the same page regarding the garden's design and layout. Specifically, Thrall mentioned setting up a couple of meetings to bounce around ideas and finalize a date for the first meeting, likely to take place on a weekend around 10 AM. The goal is to make the garden a beautiful and engaging space for the entire community.",
+  "prediction_sha256": "3d07bb039c6f3dc16731bc5b0bfb905c2e6ab2db11639fe86d63d5012d105ef7",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100114,
+  "usage": {
+    "completion_tokens": 101,
+    "prompt_tokens": 4142,
+    "prompt_tokens_details": null,
+    "total_tokens": 4243
+  }
+}

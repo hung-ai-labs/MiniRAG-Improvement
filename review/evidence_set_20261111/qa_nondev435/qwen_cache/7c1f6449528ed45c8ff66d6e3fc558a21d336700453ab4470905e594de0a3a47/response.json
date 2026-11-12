@@ -1,0 +1,17 @@
+{
+  "body_sha256": "7c1f6449528ed45c8ff66d6e3fc558a21d336700453ab4470905e594de0a3a47",
+  "finish_reason": "stop",
+  "latency_s": 13.065649083997414,
+  "prediction": "During the bakery's anniversary event, which took place from April 15 to 17, Hailey Johnson introduced new bread products and offered Li Hua a chance to taste one of them. Specifically, Li Hua mentioned, \"I tried that new pastry you have! It was delicious. I'll definitely be coming back for more.\" Although the exact name of the new pastry wasn't specified, Li Hua's positive reaction indicates that she particularly enjoyed the new bread product that Hailey Johnson had prepared. This suggests that the new bread product featured at the anniversary event was a new variety that impressed Li Hua enough to warrant repeated visits.",
+  "prediction_sha256": "c9f8b0b7e58739f428a766494cd8bcc814871a8ef3ac9f725ab33ccd0b2e978f",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200424,
+  "usage": {
+    "completion_tokens": 131,
+    "prompt_tokens": 4381,
+    "prompt_tokens_details": null,
+    "total_tokens": 4512
+  }
+}

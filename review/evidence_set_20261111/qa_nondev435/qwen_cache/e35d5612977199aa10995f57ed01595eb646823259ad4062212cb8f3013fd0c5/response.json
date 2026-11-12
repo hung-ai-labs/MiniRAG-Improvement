@@ -1,0 +1,17 @@
+{
+  "body_sha256": "e35d5612977199aa10995f57ed01595eb646823259ad4062212cb8f3013fd0c5",
+  "finish_reason": "stop",
+  "latency_s": 9.170190582997748,
+  "prediction": "In the conversation, JakeWatson mentions a memorable match from the Champions League final against Manchester United in 2009. Specifically, JakeWatson recalls a moment where \"Puyol lifted the trophy was such a proud moment.\" This indicates that JakeWatson cherishes the Champions League final against Manchester United in 2009, particularly the moment when Carles Puyol (one of the best defenders in FC Barcelona's history) lifted the trophy.",
+  "prediction_sha256": "e51090b2860d45b34cea942e240f2b8c9a2c7e41c3197abc2f971b6bd203fa16",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 228,
+  "usage": {
+    "completion_tokens": 96,
+    "prompt_tokens": 4160,
+    "prompt_tokens_details": null,
+    "total_tokens": 4256
+  }
+}

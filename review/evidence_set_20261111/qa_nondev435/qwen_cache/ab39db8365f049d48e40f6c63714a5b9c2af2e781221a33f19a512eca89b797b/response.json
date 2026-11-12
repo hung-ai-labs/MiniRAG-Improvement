@@ -1,0 +1,17 @@
+{
+  "body_sha256": "ab39db8365f049d48e40f6c63714a5b9c2af2e781221a33f19a512eca89b797b",
+  "finish_reason": "stop",
+  "latency_s": 10.471447374999116,
+  "prediction": "In the conversation, JakeWatson expresses fond memories of several matches involving Barcelona. Specifically, Jake mentions a match against Manchester United in the 2009 Champions League final, describing it as \"one of my favorites.\" Jake recalls that \"Puyol's leadership was evident, and Piqué was solid at the back, making those key interceptions.\" He emphasizes that this match was \"insane\" and highlights the moment when Messi lifted the trophy, stating it was \"such a proud moment.\" Therefore, the match JakeWatson cherishes from the Champions League final against Manchester United is the 2009 edition.",
+  "prediction_sha256": "1eddec9957406c951213e9d2782d925e1278fcde31a631d83589166b92e20024",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100228,
+  "usage": {
+    "completion_tokens": 127,
+    "prompt_tokens": 3397,
+    "prompt_tokens_details": null,
+    "total_tokens": 3524
+  }
+}

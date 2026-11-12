@@ -1,0 +1,17 @@
+{
+  "body_sha256": "9ae58abbac0c1cd701ae064f18473f6fcde3985e50a0475b058637993ab724ad",
+  "finish_reason": "stop",
+  "latency_s": 6.982031916999404,
+  "prediction": "On the event scheduled for September 18, 2026 at 18:00, WolfgangSchulz suggests hitting Starbucks after work. This suggestion is made in the context of a casual invitation to meet up and try a new Frappuccino.",
+  "prediction_sha256": "a9021365fa278bcd9a759b1c33d3977a2153a571b19f9eb0142689c792251c47",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200234,
+  "usage": {
+    "completion_tokens": 57,
+    "prompt_tokens": 5679,
+    "prompt_tokens_details": null,
+    "total_tokens": 5736
+  }
+}

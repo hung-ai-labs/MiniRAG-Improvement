@@ -1,0 +1,17 @@
+{
+  "body_sha256": "f845c6b56d94d116787845c53ae4e4021e8806cb2f808cb99c460ff1a4520f69",
+  "finish_reason": "stop",
+  "latency_s": 13.209259790997748,
+  "prediction": "According to the records provided, Li Hua informed Adam Smith that the rent for last month had been transferred on 20260105_14:00. This was part of a series of communications regarding the rent payment between Li Hua and Adam Smith, starting in January 2026. Li Hua expressed her intention to check in about the details for the move-in, and Adam Smith replied affirmatively, confirming that Li Hua could come by anytime after 5 PM that day. Li Hua assured him she would be there around 5:30 PM, highlighting the ongoing communication and coordination between them regarding the rental agreement.",
+  "prediction_sha256": "b0d23ae035862c687a2318fe42d8fd48de70f09f77a8449d15f9613459aa2361",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 130,
+  "usage": {
+    "completion_tokens": 138,
+    "prompt_tokens": 3920,
+    "prompt_tokens_details": null,
+    "total_tokens": 4058
+  }
+}

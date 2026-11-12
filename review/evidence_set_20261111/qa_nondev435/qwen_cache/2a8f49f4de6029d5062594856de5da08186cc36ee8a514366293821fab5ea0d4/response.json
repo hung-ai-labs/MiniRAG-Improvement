@@ -1,0 +1,17 @@
+{
+  "body_sha256": "2a8f49f4de6029d5062594856de5da08186cc36ee8a514366293821fab5ea0d4",
+  "finish_reason": "stop",
+  "latency_s": 8.423842374999367,
+  "prediction": "In the month of May, Hailey's Bakery offered several special promotions and events. In May, the bakery ran a 20% off bread promotion from the 29th until the end of the month. Additionally, on multiple occasions, Hailey Johnson invited Li Hua to participate in various activities, including a free baking class, a bread-tasting event, and a special event where a new line of healthy bread options was launched. This indicates that throughout May, the bakery focused on offering discounts on regular products, hosting educational sessions for customers, and introducing new product lines to attract and engage its customer base.",
+  "prediction_sha256": "c1bf97fa3fcf6aaf38c7f87fc3a7319ea6285d02ac573fc7a5f4273626088411",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200037,
+  "usage": {
+    "completion_tokens": 126,
+    "prompt_tokens": 4714,
+    "prompt_tokens_details": null,
+    "total_tokens": 4840
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "b2ba5614f038a7b0003d4c2d664071d5d17801882a1d98866b857e8c596551ad",
+  "finish_reason": "stop",
+  "latency_s": 7.298488917003851,
+  "prediction": "According to the conversation, Adam Smith is accommodating regarding friends visiting occasionally. He states, \"Having friends over occasionally is fine, just try to keep the gatherings reasonable.\" He provides this advice in response to LiHua's inquiry about whether it's acceptable to have guests over.",
+  "prediction_sha256": "ed209e553814d41465bc517d24e7cf11681947c586b191e01f04f5c74ade4b15",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200058,
+  "usage": {
+    "completion_tokens": 56,
+    "prompt_tokens": 4541,
+    "prompt_tokens_details": null,
+    "total_tokens": 4597
+  }
+}

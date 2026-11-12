@@ -1,0 +1,17 @@
+{
+  "body_sha256": "08884c687dcf41b7ce3f98f7ef5c08d3865c37977417158bb6c24f77f24bf783",
+  "finish_reason": "stop",
+  "latency_s": 8.23039987499942,
+  "prediction": "Aurora expresses that the atmosphere at the Bernabéu during tough games is electric, highlighting how deeply connected the fans are with the players. Aurora notes that the fans play a significant role in lifting the team during challenging moments, suggesting that the support from the home crowd can be a major factor in helping Real Madrid perform well. This atmosphere of unity and passion between players and fans is seen as integral to the club's success, especially during those nail-biting matches.",
+  "prediction_sha256": "d3364b59efb266e11332f4e5dc2a909c107f4c328c2a0a1b6d5c4f79d93369ba",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100358,
+  "usage": {
+    "completion_tokens": 96,
+    "prompt_tokens": 4507,
+    "prompt_tokens_details": null,
+    "total_tokens": 4603
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "b708b748d0d2a500847a96a2ecfd5e76a6a3c355818c90c3759bbb894a3e4aec",
+  "finish_reason": "stop",
+  "latency_s": 4.724247458001628,
+  "prediction": "In the recorded interactions, Jennifer and Li Hua discussed adjusting their training plans to better fit Li Hua's work schedule. Specifically, Jennifer suggested changing their training frequency from daily sessions to two sessions per week. This adjustment aims to provide Li Hua with a more balanced schedule between her professional commitments and her fitness goals. Jennifer proposed Tuesdays and Thursdays as optimal days for their sessions, ensuring that Li Hua has enough time to prepare for and recover from each workout. This collaborative decision demonstrates Jennifer's dedication to tailoring the training program to Li Hua's unique needs and lifestyle.",
+  "prediction_sha256": "b30da77db55754b1dcb82a5533b52e078ccaa7d3f887a9dedf5dd9f19c670846",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100446,
+  "usage": {
+    "completion_tokens": 119,
+    "prompt_tokens": 4093,
+    "prompt_tokens_details": null,
+    "total_tokens": 4212
+  }
+}

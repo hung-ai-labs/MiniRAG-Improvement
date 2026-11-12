@@ -1,0 +1,17 @@
+{
+  "body_sha256": "f94091f29940e36cde748e064d894df47a122743e6af4b96b8ea9c7a8501adb0",
+  "finish_reason": "stop",
+  "latency_s": 7.153996040997299,
+  "prediction": "In the conversation, JakeWatson mentions a memorable match involving Barcelona from the Champions League final against Manchester United in 2011. Specifically, JakeWatson recalls a header scored by Lionel Messi, describing it as \"such a beautiful moment.\" This header goal is highlighted as one of the standout moments from that final match.",
+  "prediction_sha256": "90dc910f60da406cf8be161a255cddabf98353235a37576ee1cb376ee3011955",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 228,
+  "usage": {
+    "completion_tokens": 67,
+    "prompt_tokens": 4324,
+    "prompt_tokens_details": null,
+    "total_tokens": 4391
+  }
+}

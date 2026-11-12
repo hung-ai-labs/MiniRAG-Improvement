@@ -1,0 +1,17 @@
+{
+  "body_sha256": "3a55f1aa6106d71e62cbd979b7ccffae9a6b3698a88140362407cc1652914beb",
+  "finish_reason": "stop",
+  "latency_s": 9.888969832998555,
+  "prediction": "According to the conversations provided, there are two instances of a power outage scheduled. The first one is described as \"Power Outage is an event scheduled for the afternoon of the next day,\" indicating it will occur the following day at an unspecified time. The second power outage is explicitly stated as \"Power Outage is an event scheduled for 2pm to 3pm today,\" meaning it will take place at 2:00 PM to 3:00 PM on the same day.",
+  "prediction_sha256": "7a52c22208f9f5a63dab4475bff253d79d761e62897198dcdb7f5f917e67885b",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 90,
+  "usage": {
+    "completion_tokens": 101,
+    "prompt_tokens": 4992,
+    "prompt_tokens_details": null,
+    "total_tokens": 5093
+  }
+}

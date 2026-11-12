@@ -1,0 +1,17 @@
+{
+  "body_sha256": "b66baf856dbdbbabc40686a3ebf50aa6183407bab3d268a1506f0d4ce36ef235",
+  "finish_reason": "stop",
+  "latency_s": 8.814066874998389,
+  "prediction": "In the conversation regarding the planned hot pot dinner, LiHua suggests picking up drinks on the way. Specifically, LiHua mentions, \"Yeah, me too! Should we pick up some drinks on the way?\" This indicates that LiHua brought up the idea of purchasing drinks to accompany the hot pot dinner.",
+  "prediction_sha256": "560f6d2df5d69d14afe1eb7d795ae311c849cbcc6c335b48ea28afaed06fe2d4",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 281,
+  "usage": {
+    "completion_tokens": 65,
+    "prompt_tokens": 5256,
+    "prompt_tokens_details": null,
+    "total_tokens": 5321
+  }
+}

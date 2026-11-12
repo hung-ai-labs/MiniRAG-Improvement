@@ -1,0 +1,17 @@
+{
+  "body_sha256": "c8d66d6bcfc4032a233755aa420ee15b066ac5de01cf7250b882046664215cf4",
+  "finish_reason": "stop",
+  "latency_s": 7.804810165998788,
+  "prediction": "In their conversation regarding the upcoming karaoke night, WolfgangSchulz suggests that the group finalize the date and give it a good vibe. He also emphasizes the importance of picking their songs ahead of time to ensure they are prepared for the night. Additionally, he encourages the group to share their song ideas in the group beforehand to make the karaoke night truly memorable.",
+  "prediction_sha256": "9232fbd44608db0348dfc7bd3a0d634616f576766a77aabd4b157f21bef5df79",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100372,
+  "usage": {
+    "completion_tokens": 74,
+    "prompt_tokens": 4491,
+    "prompt_tokens_details": null,
+    "total_tokens": 4565
+  }
+}

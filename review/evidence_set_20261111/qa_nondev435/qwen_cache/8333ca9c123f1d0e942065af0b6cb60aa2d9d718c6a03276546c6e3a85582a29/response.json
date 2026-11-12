@@ -1,0 +1,17 @@
+{
+  "body_sha256": "8333ca9c123f1d0e942065af0b6cb60aa2d9d718c6a03276546c6e3a85582a29",
+  "finish_reason": "stop",
+  "latency_s": 9.269404083002883,
+  "prediction": "According to the information provided, there is a power outage scheduled for the afternoon of the next day. Specifically, the first message indicates a power outage starting at 2 pm and lasting until 3 pm, which will occur on the following day. There is no mention of a power outage occurring on the same day as the conversation.",
+  "prediction_sha256": "671197a3600fe524c7360876709697726d0d4d839656c544f8a1cd7351e0d7a6",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 90,
+  "usage": {
+    "completion_tokens": 67,
+    "prompt_tokens": 4966,
+    "prompt_tokens_details": null,
+    "total_tokens": 5033
+  }
+}

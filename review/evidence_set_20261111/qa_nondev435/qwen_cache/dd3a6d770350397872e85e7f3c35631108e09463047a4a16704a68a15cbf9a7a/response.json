@@ -1,0 +1,17 @@
+{
+  "body_sha256": "dd3a6d770350397872e85e7f3c35631108e09463047a4a16704a68a15cbf9a7a",
+  "finish_reason": "stop",
+  "latency_s": 10.898563208997075,
+  "prediction": "Quillan mentioned that Cersei's desperation for control often shadows her vulnerability. This indicates that despite her potential for compassion and the love she holds for her family, Cersei's drive for power and control often leads her to push away those who care about her. This dynamic is a significant aspect of her character, highlighting the tension between her strong ambitions and her underlying emotional needs.",
+  "prediction_sha256": "844d54a69b96b382b04399ff11bf9b63c489c9e732f9adeee944b00a61114790",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100310,
+  "usage": {
+    "completion_tokens": 77,
+    "prompt_tokens": 4653,
+    "prompt_tokens_details": null,
+    "total_tokens": 4730
+  }
+}

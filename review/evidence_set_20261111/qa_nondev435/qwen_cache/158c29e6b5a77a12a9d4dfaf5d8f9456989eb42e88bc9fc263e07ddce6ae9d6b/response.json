@@ -1,0 +1,17 @@
+{
+  "body_sha256": "158c29e6b5a77a12a9d4dfaf5d8f9456989eb42e88bc9fc263e07ddce6ae9d6b",
+  "finish_reason": "stop",
+  "latency_s": 5.558851375000813,
+  "prediction": "There is no conversation between Hailey's Bakery and Li Hua dated 20260816 available in the provided data. Therefore, we cannot determine the discount Hailey is willing to give to Li Hua based on the information provided.",
+  "prediction_sha256": "8b14c092a36578a037414b8916b510ccb154c27aa4e1adca65b027e8ea03fe78",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 173,
+  "usage": {
+    "completion_tokens": 53,
+    "prompt_tokens": 5217,
+    "prompt_tokens_details": null,
+    "total_tokens": 5270
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "11ab3fb469a1bd21a55d5c075ea12ad98393862ece90c2f85b575304e9b52402",
+  "finish_reason": "stop",
+  "latency_s": 9.617143999996188,
+  "prediction": "During their meeting at \"Central Perk,\" Li Hua suggested several design elements for Yuriko's studio homepage. Specifically, Li Hua proposed incorporating a simple form for users to leave comments or suggestions, as well as a star rating system to evaluate the feedback. Additionally, Li Hua suggested adding space for testimonials, which he believed would help build trust with potential clients. These design features were intended to enhance the user experience and provide valuable insights for the studio. Li Hua also emphasized matching the overall look of the studio with pastel colors to create a welcoming and calming atmosphere.",
+  "prediction_sha256": "73a1de936def4fe3f0dbf2f973ced88386c1adc7c940703ea063ed6ceee4d570",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100414,
+  "usage": {
+    "completion_tokens": 119,
+    "prompt_tokens": 3915,
+    "prompt_tokens_details": null,
+    "total_tokens": 4034
+  }
+}

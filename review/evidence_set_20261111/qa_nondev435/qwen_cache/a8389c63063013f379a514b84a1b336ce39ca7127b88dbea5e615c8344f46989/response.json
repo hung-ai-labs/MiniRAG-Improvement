@@ -1,0 +1,17 @@
+{
+  "body_sha256": "a8389c63063013f379a514b84a1b336ce39ca7127b88dbea5e615c8344f46989",
+  "finish_reason": "stop",
+  "latency_s": 11.28890341600345,
+  "prediction": "Based on the information provided, Li Hua and Jennifer Moore have been discussing and rescheduling their training sessions. In the conversation recorded in Source 1, Jennifer mentions that they had a training session on a Friday at 10:00 AM. Additionally, Source 7 indicates that Li Hua and Jake Watson were planning a soccer training session for the following day, which was also mentioned to be at 10:00 AM. \n\nFrom these sources, it seems that Li Hua has been participating in training sessions on Fridays at 10:00 AM, and possibly also on other days depending on the context of each source. However, the specific days are not consistently mentioned across all records. Therefore, we can infer that Li Hua typically attends training sessions on Fridays, but there may be additional sessions on other days as well.",
+  "prediction_sha256": "f1f3a6221da4667151b881b9953854d1cc308ef7bd667b3d4334affd5ca50b8a",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100073,
+  "usage": {
+    "completion_tokens": 174,
+    "prompt_tokens": 4625,
+    "prompt_tokens_details": null,
+    "total_tokens": 4799
+  }
+}

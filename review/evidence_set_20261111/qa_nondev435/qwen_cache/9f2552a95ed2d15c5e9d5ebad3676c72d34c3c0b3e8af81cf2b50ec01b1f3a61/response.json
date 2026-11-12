@@ -1,0 +1,17 @@
+{
+  "body_sha256": "9f2552a95ed2d15c5e9d5ebad3676c72d34c3c0b3e8af81cf2b50ec01b1f3a61",
+  "finish_reason": "stop",
+  "latency_s": 8.650912583998434,
+  "prediction": "WolfgangSchulz inquires about health products specifically because he has been feeling very tired due to the ongoing overtime work. He seeks advice on potential supplements or dietary changes that might help boost his energy levels. His interest aligns with the broader discussion in Source 6, where the group discusses ways to maintain and enhance their health and energy levels amidst their demanding schedules.",
+  "prediction_sha256": "d1fce5ed08b8e590b91b2f87f02c6f6fa31bc220d227aab76bcfd93f4f28966f",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200128,
+  "usage": {
+    "completion_tokens": 76,
+    "prompt_tokens": 4451,
+    "prompt_tokens_details": null,
+    "total_tokens": 4527
+  }
+}

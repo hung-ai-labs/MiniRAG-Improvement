@@ -1,0 +1,17 @@
+{
+  "body_sha256": "bc8e4057a22ddbbbff30b8f285c2f719b1fa4acc4b7b31b13a5ad983445cfb03",
+  "finish_reason": "stop",
+  "latency_s": 8.697868041999754,
+  "prediction": "Based on the conversation between Jennifer Moore and Li Hua, Jennifer suggested a few exercises for Li Hua to incorporate into his home workouts. Specifically, Jennifer recommended adding more resistance training to Li Hua's routine to improve his strength. Additionally, she suggested including some dedicated stretching or yoga sessions to enhance Li Hua's flexibility. This holistic approach to fitness aims to address both strength and flexibility, which Jennifer believes can complement Li Hua's existing workout plan.",
+  "prediction_sha256": "d73ec4d747b5bc111658d772e2fadc7b79a0a2058893d38c9e94a1a586a1f09f",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200077,
+  "usage": {
+    "completion_tokens": 93,
+    "prompt_tokens": 3653,
+    "prompt_tokens_details": null,
+    "total_tokens": 3746
+  }
+}

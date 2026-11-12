@@ -1,0 +1,17 @@
+{
+  "body_sha256": "0e71b9df3838ffc5f38353ca532d3aac7c29e21818fda5d184ed381b3998a2cb",
+  "finish_reason": "stop",
+  "latency_s": 9.449221124999895,
+  "prediction": "Thrall is organizing a community meeting to brainstorm and finalize plans for a garden renovation project. The goal is to gather input from the community to decide on the layout, types of plants, and other elements to incorporate into the garden. Specifically, Thrall suggests setting up community meetings to bounce around ideas and finalize plans, aiming to make the garden the best it can be. This includes considering the best times to plant different types of flowers and possibly adding seating areas for community gatherings.",
+  "prediction_sha256": "b7e126c1ffbc645022019e1a2e42c7b0ba6a3b43ae4107534b93f409a8015455",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100114,
+  "usage": {
+    "completion_tokens": 96,
+    "prompt_tokens": 3863,
+    "prompt_tokens_details": null,
+    "total_tokens": 3959
+  }
+}

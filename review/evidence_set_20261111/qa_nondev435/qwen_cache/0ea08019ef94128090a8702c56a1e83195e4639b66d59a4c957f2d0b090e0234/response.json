@@ -1,0 +1,17 @@
+{
+  "body_sha256": "0ea08019ef94128090a8702c56a1e83195e4639b66d59a4c957f2d0b090e0234",
+  "finish_reason": "stop",
+  "latency_s": 9.282784584000183,
+  "prediction": "Based on the conversation between Jake Watson and Li Hua, Li Hua's usual recovery snack after a game involves a protein shake and a fruit smoothie. However, Li Hua suggests trying a banana with peanut butter as a new recovery snack, which she finds particularly effective. Jake Watson recommends this combination, suggesting it is a good alternative to her usual smoothie routine.",
+  "prediction_sha256": "c44f3463f138678b7edc6721e07cb4bd41707fa09b768cafeda18a2093cf6e7a",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100390,
+  "usage": {
+    "completion_tokens": 76,
+    "prompt_tokens": 4220,
+    "prompt_tokens_details": null,
+    "total_tokens": 4296
+  }
+}

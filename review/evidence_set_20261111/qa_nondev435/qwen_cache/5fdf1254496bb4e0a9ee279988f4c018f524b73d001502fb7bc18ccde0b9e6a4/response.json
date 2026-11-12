@@ -1,0 +1,17 @@
+{
+  "body_sha256": "5fdf1254496bb4e0a9ee279988f4c018f524b73d001502fb7bc18ccde0b9e6a4",
+  "finish_reason": "stop",
+  "latency_s": 6.316478000000643,
+  "prediction": "Based on the conversation between Wolfgang and LiHua, Wolfgang recommended a fast food joint downtown for LiHua to try. While Wolfgang mentions he \"totally loves\" the shakes from this place, the specific name of the restaurant is not provided. Therefore, we cannot determine the exact name of the gym Wolfgang recommended.",
+  "prediction_sha256": "3a0ab0b49e4a1790e8e6d3eb97e644f43ab5c83f61620916aee60b94ef546751",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200063,
+  "usage": {
+    "completion_tokens": 65,
+    "prompt_tokens": 3459,
+    "prompt_tokens_details": null,
+    "total_tokens": 3524
+  }
+}

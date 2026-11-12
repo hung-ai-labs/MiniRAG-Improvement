@@ -1,0 +1,17 @@
+{
+  "body_sha256": "8c3351dd4bac21f4b9236afc1a0016e33f61f44e88c600e403b3ac820be2c62a",
+  "finish_reason": "stop",
+  "latency_s": 9.293809583003167,
+  "prediction": "Elara enjoys a chilled-out experience after intense battles. She finds that after a big challenge, she likes to wander around and collect items or undertake side quests to help her reset and relax before diving back into the action. This downtime allows her to step away from the immediate stress of combat and recharge, making the subsequent gameplay sessions more enjoyable and effective. Additionally, she spends time leveling up her characters or experimenting with different party combinations to further enhance her gaming experience.",
+  "prediction_sha256": "6865b5175d7ab5c56c2ca952734ecfd3b1907e808362852c1ccdb153cd0fe654",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100259,
+  "usage": {
+    "completion_tokens": 93,
+    "prompt_tokens": 3738,
+    "prompt_tokens_details": null,
+    "total_tokens": 3831
+  }
+}

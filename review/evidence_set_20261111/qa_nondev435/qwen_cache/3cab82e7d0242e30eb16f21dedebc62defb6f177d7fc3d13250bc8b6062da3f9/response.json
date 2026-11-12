@@ -1,0 +1,17 @@
+{
+  "body_sha256": "3cab82e7d0242e30eb16f21dedebc62defb6f177d7fc3d13250bc8b6062da3f9",
+  "finish_reason": "stop",
+  "latency_s": 8.151973750002071,
+  "prediction": "According to the conversation, Adam Smith is willing to allow Li Hua to add some sound-insulating pads to the basement, provided that they meet two conditions: the additions must be reversible and should not cause any damage to existing structures. Adam Smith offered to assist Li Hua with the installation if needed.",
+  "prediction_sha256": "80fd79f84d699eb9e0c9924ba14aebf7d519ea9ada044ed6e7d18501d55c1398",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100078,
+  "usage": {
+    "completion_tokens": 62,
+    "prompt_tokens": 3706,
+    "prompt_tokens_details": null,
+    "total_tokens": 3768
+  }
+}

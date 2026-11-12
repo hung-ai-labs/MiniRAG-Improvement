@@ -1,0 +1,17 @@
+{
+  "body_sha256": "05c24a708ce27407a22f382c3164566762508f5fb3d3864ebf85dcc88e444190",
+  "finish_reason": "stop",
+  "latency_s": 6.063342458000989,
+  "prediction": " The community bake sale is scheduled to take place on a Sunday, as mentioned in the conversation between AdamSmith and LiHua. The specific time allocated for the event is at 3 PM. This information is derived from the exchange where AdamSmith informs LiHua about the bake sale and invites her to attend, to which LiHua responds with enthusiasm and confirms her attendance at that time.\n\nHere is the summarized information in a markdown format:\n\n```markdown\nThe community bake sale is planned for **Sunday at 3 PM**.\n```",
+  "prediction_sha256": "177ce4ee5bb0988eed5a6bf11c927a6ce6db108de56f74504e6cff772ed3f2ca",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 90,
+  "usage": {
+    "completion_tokens": 129,
+    "prompt_tokens": 4748,
+    "prompt_tokens_details": null,
+    "total_tokens": 4877
+  }
+}

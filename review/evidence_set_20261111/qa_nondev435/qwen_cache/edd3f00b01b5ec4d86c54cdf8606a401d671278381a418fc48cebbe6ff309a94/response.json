@@ -1,0 +1,17 @@
+{
+  "body_sha256": "edd3f00b01b5ec4d86c54cdf8606a401d671278381a418fc48cebbe6ff309a94",
+  "finish_reason": "stop",
+  "latency_s": 9.69652587499877,
+  "prediction": "In the conversation, WolfgangSchulz mentions that they are planning to watch \"Overwatch 3\" together. However, it is not specified with whom Li Hua will be watching the movie. From the given data, only the plans to watch the movie are mentioned without indicating who will accompany Li Hua. Therefore, based on the information available, we cannot determine who Li Hua goes to watch \"Overwatch 3\" with.",
+  "prediction_sha256": "8fe689b1e30fd75fbd7f3e8d7b0713d0773ffc4ef0fc01feb03a71fabe7386b2",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100031,
+  "usage": {
+    "completion_tokens": 90,
+    "prompt_tokens": 4520,
+    "prompt_tokens_details": null,
+    "total_tokens": 4610
+  }
+}

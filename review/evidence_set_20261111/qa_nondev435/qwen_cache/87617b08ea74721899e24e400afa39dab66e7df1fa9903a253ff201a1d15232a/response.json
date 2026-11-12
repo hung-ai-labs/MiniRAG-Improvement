@@ -1,0 +1,17 @@
+{
+  "body_sha256": "87617b08ea74721899e24e400afa39dab66e7df1fa9903a253ff201a1d15232a",
+  "finish_reason": "stop",
+  "latency_s": 9.117616750001616,
+  "prediction": "Li Hua checks in with Adam about the move-in details right after 5 PM each day. Specifically, the conversation takes place on multiple occasions, including February 19th at 9 AM (which is considered after 5 PM), April 29th at 8 PM, and March 31st at 5 PM. This indicates that Li Hua generally plans to visit Adam's place around 5:30 PM or later, which falls within the specified timeframe.",
+  "prediction_sha256": "574e058c16bd963892742e144dc796fa5f8d3d4da3e68216b0f85f8edec9922d",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 55,
+  "usage": {
+    "completion_tokens": 101,
+    "prompt_tokens": 4457,
+    "prompt_tokens_details": null,
+    "total_tokens": 4558
+  }
+}

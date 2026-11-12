@@ -1,0 +1,17 @@
+{
+  "body_sha256": "020cdee8a9f98050a1222ebbc491e2b9bc0086dec01ada4f979397339b927740",
+  "finish_reason": "stop",
+  "latency_s": 9.157876625002245,
+  "prediction": "Based on the records provided, Li Hua requests a delivery from Hailey Johnson primarily at two specific times: Mondays at 8 am and Fridays at 8 am. This pattern suggests that Li Hua prefers a routine delivery service from Hailey Johnson, which is convenient for her as she needs bread twice a week. Additionally, there is another instance where Li Hua specifically mentions a delivery for a trial run on Tuesday, indicating that while she prefers a regular schedule, she is open to flexible arrangements as well.",
+  "prediction_sha256": "07f28742383232409f194bf833b42032cbabbccca782e2ec60dbcb3edbc77fa9",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200093,
+  "usage": {
+    "completion_tokens": 104,
+    "prompt_tokens": 3693,
+    "prompt_tokens_details": null,
+    "total_tokens": 3797
+  }
+}

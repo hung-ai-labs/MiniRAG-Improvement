@@ -1,0 +1,17 @@
+{
+  "body_sha256": "b2ecee3b5fbceb660836cf2b772a9c9e19bc396f67c382c88d2dd3808f44d07e",
+  "finish_reason": "stop",
+  "latency_s": 7.912768750000396,
+  "prediction": "On the specified date, WolfgangSchulz suggested trying the Thai restaurant for dinner. From the conversation, Wolfgang expressed interest in two dishes: pad thai and spring rolls. Specifically, Wolfgang stated, \"Thinking of trying their pad thai and maybe some spring rolls.\" Therefore, the Thai dishes Wolfgang wants to try at the restaurant are pad thai and spring rolls.",
+  "prediction_sha256": "fa865672747a83a938e5fd2387b7f79a67c61aad59eaec8d263185dfdf7b308f",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100147,
+  "usage": {
+    "completion_tokens": 72,
+    "prompt_tokens": 5651,
+    "prompt_tokens_details": null,
+    "total_tokens": 5723
+  }
+}

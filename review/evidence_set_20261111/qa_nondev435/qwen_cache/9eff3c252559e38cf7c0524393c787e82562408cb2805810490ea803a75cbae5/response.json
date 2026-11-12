@@ -1,0 +1,17 @@
+{
+  "body_sha256": "9eff3c252559e38cf7c0524393c787e82562408cb2805810490ea803a75cbae5",
+  "finish_reason": "stop",
+  "latency_s": 9.779178459000832,
+  "prediction": "In \"Octopath Traveler,\" Dyllan emphasizes the significance of having a balanced party, stating that it provides more flexibility in battles and helps adapt to different challenges. Specifically, Dyllan explains that ensuring the party includes someone capable of taking hits (the tank) and someone who can distribute damage and heal (the healer) keeps battles interesting. This balanced composition allows for greater adaptability, making the party more resilient and versatile against varied enemy types and scenarios.",
+  "prediction_sha256": "5acbc0dcf17aa7f1ee5469d1a6136afd1c5d9e169f5d720861f63d75a2e99e22",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100258,
+  "usage": {
+    "completion_tokens": 94,
+    "prompt_tokens": 3725,
+    "prompt_tokens_details": null,
+    "total_tokens": 3819
+  }
+}

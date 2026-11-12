@@ -1,0 +1,17 @@
+{
+  "body_sha256": "7dbdb26998cee59dcf04343fc351c28d5323c1b1f27e1b9a5d1f2f855cded3c0",
+  "finish_reason": "stop",
+  "latency_s": 11.692583791002107,
+  "prediction": "Based on the information provided, the new line of high-protein breads at HaileyJohnson's bakery is likely designed to cater to individuals with specific dietary needs or preferences, particularly those seeking higher protein content. However, without direct nutritional information about the new breads, we cannot compare their nutritional value directly to traditional white bread. White bread typically contains around 1 gram of protein per slice, which is significantly lower than the protein content found in the high-protein varieties. The new breads presumably contain more protein to meet the demands of individuals requiring a higher protein intake, such as athletes, people following strict vegan diets, or those with specific health conditions. To determine the exact nutritional values, one would need to consult the product labels or contact HaileyJohnson's bakery for specific details.",
+  "prediction_sha256": "5bf566e8aa608f385c71cf2480d70812f31bce29d85a8a6c781bc544425ef7b6",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 432,
+  "usage": {
+    "completion_tokens": 159,
+    "prompt_tokens": 5304,
+    "prompt_tokens_details": null,
+    "total_tokens": 5463
+  }
+}

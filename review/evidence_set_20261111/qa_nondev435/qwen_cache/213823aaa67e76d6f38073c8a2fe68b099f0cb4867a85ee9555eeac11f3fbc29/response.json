@@ -1,0 +1,17 @@
+{
+  "body_sha256": "213823aaa67e76d6f38073c8a2fe68b099f0cb4867a85ee9555eeac11f3fbc29",
+  "finish_reason": "stop",
+  "latency_s": 9.980177249999542,
+  "prediction": "Based on the conversation between Wolfgang Schulz and Li Hua, they arranged their lunch meeting at the cozy café downtown for 12:00. Specifically, Wolfgang Schulz reminded Li Hua about their lunch at the cozy café downtown at 12:00, saying, \"Hey! Just wanted to remind you about our lunch at the cozy café downtown at 12:00.\" Li Hua responded positively, indicating her eagerness for the meeting, mentioning, \"Thanks for the reminder! I'm really looking forward to it too!\" Thus, the lunch meeting at the cozy café downtown was scheduled for 12:00.",
+  "prediction_sha256": "d05b3850f56e9b146e51cd62717553e3a98b222570073f203e5ae8ecd0c05a4a",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 56,
+  "usage": {
+    "completion_tokens": 134,
+    "prompt_tokens": 4837,
+    "prompt_tokens_details": null,
+    "total_tokens": 4971
+  }
+}

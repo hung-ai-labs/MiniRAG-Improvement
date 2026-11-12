@@ -1,0 +1,17 @@
+{
+  "body_sha256": "e6a0ca9044d82bd9dc53e2b1fe3ef6f6bd9150b420802cc28e23f2ff0f460811",
+  "finish_reason": "stop",
+  "latency_s": 13.625515542000358,
+  "prediction": "During their meeting at \"Central Perk,\" Li Hua suggested several design elements for Yuriko's studio homepage. Specifically, Li Hua proposed including a blog section, visual components like images and videos, and testimonials. Li Hua also emphasized the importance of a welcoming and engaging design that could be achieved through soft and calming pastel colors, and he suggested integrating a user feedback section to enhance the user experience. Additionally, Li Hua recommended adding a call-to-action button at the end of each blog post to encourage reader engagement and community building. These design elements were aimed at creating a visually appealing and user-friendly homepage that could effectively showcase Yuriko's speech therapy studio and its services.",
+  "prediction_sha256": "1a2ef5f61ebd829e68aa65ef53907632d394996ed66eb5d59d3f2fddb49396a7",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100414,
+  "usage": {
+    "completion_tokens": 141,
+    "prompt_tokens": 4782,
+    "prompt_tokens_details": null,
+    "total_tokens": 4923
+  }
+}

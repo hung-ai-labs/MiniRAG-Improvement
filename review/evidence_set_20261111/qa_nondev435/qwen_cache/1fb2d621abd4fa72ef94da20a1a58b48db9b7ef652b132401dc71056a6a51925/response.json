@@ -1,0 +1,17 @@
+{
+  "body_sha256": "1fb2d621abd4fa72ef94da20a1a58b48db9b7ef652b132401dc71056a6a51925",
+  "finish_reason": "stop",
+  "latency_s": 10.740872874997876,
+  "prediction": "In the conversations provided, Wolfgang invites Li Hua to a concert on March 7th at 6 PM. This concert is part of a series of virtual music events that Wolfgang organizes and mentions regularly, indicating that this event is part of a recurring schedule. Specifically, Wolfgang reminds Li Hua about the concert via messages dated March 7th at 20:00 (as seen in Source 1). This concert appears to be a regular occurrence, scheduled for the same time each month.",
+  "prediction_sha256": "b2796574ff0913f3b3af3925d780b35a2efdb81108024822bf4b6bacc9aebdc9",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100086,
+  "usage": {
+    "completion_tokens": 103,
+    "prompt_tokens": 4633,
+    "prompt_tokens_details": null,
+    "total_tokens": 4736
+  }
+}

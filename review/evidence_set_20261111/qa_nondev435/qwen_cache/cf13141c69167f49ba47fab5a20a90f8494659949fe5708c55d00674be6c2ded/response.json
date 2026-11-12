@@ -1,0 +1,17 @@
+{
+  "body_sha256": "cf13141c69167f49ba47fab5a20a90f8494659949fe5708c55d00674be6c2ded",
+  "finish_reason": "stop",
+  "latency_s": 12.527977249999822,
+  "prediction": "Li Hua did not explicitly mention changing the training plan in the provided conversations. However, there were instances where adjustments were made to the training schedule. Specifically, on January 12th, Jennifer introduced herself as Li Hua's personal trainer and suggested discussing his training goals to develop a plan that fits his needs. On February 4th, Li Hua expressed interest in changing the training plan to better balance his work and fitness, and Jennifer agreed to modify the schedule to train twice a week instead of once. Therefore, the first instance of a change in the training plan occurred on February 4th.",
+  "prediction_sha256": "b74c5c55c66f2195cd42d5bbe93bf7ee007bab3ee763bb540069e5f45925ca3b",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100072,
+  "usage": {
+    "completion_tokens": 124,
+    "prompt_tokens": 4483,
+    "prompt_tokens_details": null,
+    "total_tokens": 4607
+  }
+}

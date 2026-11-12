@@ -1,0 +1,17 @@
+{
+  "body_sha256": "2536eecd6a26cd30a17fd9a25bcfe161a79f9b33dff27dc4b18a978f244b7de5",
+  "finish_reason": "stop",
+  "latency_s": 10.188707165998494,
+  "prediction": "The topic of discussion between Li Hua and Wolfgang Schulz revolves around their preferences regarding the type of burger patties they prefer in a classic American cheeseburger. Specifically, Li Hua expresses a preference for a medium-rare patty, which she finds to have a juicier texture, while Wolfgang Schulz leans towards a well-done patty, arguing that it is safer and more flavorful. They also discuss additional toppings, with Wolfgang Schulz suggesting classic cheese and perhaps some bacon, while Li Hua favors jalapeños for added spiciness. This conversation highlights their differing tastes in the preparation and toppings of a classic cheeseburger.",
+  "prediction_sha256": "efc15fdf3d48dfcebe3f10f411bc7c60ba62bb8db2b7ff2d2a35de761ad1d200",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 185,
+  "usage": {
+    "completion_tokens": 130,
+    "prompt_tokens": 4354,
+    "prompt_tokens_details": null,
+    "total_tokens": 4484
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "b92db8e62127a13872f12e9faf513cec6827aeb05b4d6e9a9453ad62337a26bb",
+  "finish_reason": "stop",
+  "latency_s": 7.070905708998907,
+  "prediction": "During the picnic planning session, RexxarRemar suggested incorporating music as a way to enhance the atmosphere and create a joyful vibe. He recommended ensuring the music wasn't too loud to avoid disturbing anyone nearby and added that blankets would be perfect for relaxing on the grass and enjoying their food. This suggestion was meant to provide a pleasant environment for everyone to enjoy the newly renovated garden together.",
+  "prediction_sha256": "35a230af982c98a1f2f588115fbace2fcba0b0a0783d31c0780b75b628d15edc",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 396,
+  "usage": {
+    "completion_tokens": 78,
+    "prompt_tokens": 4277,
+    "prompt_tokens_details": null,
+    "total_tokens": 4355
+  }
+}

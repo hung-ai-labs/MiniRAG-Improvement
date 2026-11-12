@@ -1,0 +1,17 @@
+{
+  "body_sha256": "5d488b04cdcd8efcfbe0189a8cfa59c0c8b48b1fde6292380415cf03dc08e1f4",
+  "finish_reason": "stop",
+  "latency_s": 7.454693624997162,
+  "prediction": "In the conversation, Aurora suggested meeting at the local park around 3 PM on Saturday to practice shooting skills and brought the idea to include some cones. She specifically mentioned, \"How about we meet at the local park around 3 PM on Saturday? Let's bring some cones and have fun while working on our shots!\" Therefore, Aurora offered to bring the cones for the soccer practice.",
+  "prediction_sha256": "7796cd51544817ab38e118186f02e6097f91d1e1e8465bce686df7ae576c3c03",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100363,
+  "usage": {
+    "completion_tokens": 78,
+    "prompt_tokens": 4890,
+    "prompt_tokens_details": null,
+    "total_tokens": 4968
+  }
+}

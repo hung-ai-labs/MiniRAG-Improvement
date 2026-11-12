@@ -1,0 +1,17 @@
+{
+  "body_sha256": "84f44121e019c888d6a3a1d5021bb2486cbf3fdd39d875a73dfe0e0b92b726ae",
+  "finish_reason": "stop",
+  "latency_s": 11.284019791997707,
+  "prediction": " The karaoke activity organized by ChaeSong-hwa is scheduled for Saturday at 7 PM on **20260421**. This event is described in a conversation where participants express excitement and discuss their preferences for singing genres, with LiHua mentioning her not-so-frequent but enjoyable participation in karaoke. The group also acknowledges the relaxing and heart-touching nature of ballads and soft pop, which could be the music selections for the activity. The enthusiasm and preparations are evident from the dialogue, with LiHua confirming her attendance and the group looking forward to a fun gathering to enjoy some music together.\n\n```markdown\n### Karaoke Activity Schedule\n\n- **Date:** Saturday, 21st April 2026\n- **Time:** 7 PM\n- **Organizer:** ChaeSong-hwa\n\nParticipants discuss their favorite singing genres, ChaeSong-hwa shares her fondness for ballads and soft pop, which resonates with LiHua's preference for classic rock and folk music.\n```",
+  "prediction_sha256": "39cdb9e7a982d6c179156fd0f6cc10f60c8a2c6de54be269c7373591e1fb0bdf",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 112,
+  "usage": {
+    "completion_tokens": 254,
+    "prompt_tokens": 4358,
+    "prompt_tokens_details": null,
+    "total_tokens": 4612
+  }
+}

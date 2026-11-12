@@ -1,0 +1,17 @@
+{
+  "body_sha256": "661f2867260841174c2b5deb2e057a8d3bd422de912a9095ea64d17c7820fe41",
+  "finish_reason": "stop",
+  "latency_s": 9.453042291999736,
+  "prediction": "The table does not contain explicit information regarding the specific address where Li Hua wishes for the bread delivery to be made. From the interactions detailed, we learn that Li Hua receives bread deliveries from Hailey's Bakery at specified times, and Alice from the bakery contacts Li Hua to inform her that her bread has been delivered. However, there is no mention of a preferred location or address for these deliveries. Therefore, based on the data provided, it is not possible to determine the exact address where Li Hua wants the bread delivery to be made.",
+  "prediction_sha256": "a6a2a54acc352d0ba07ee2b30a1a5a9c38a96e2277e350b35408b5b21a013ab9",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100094,
+  "usage": {
+    "completion_tokens": 112,
+    "prompt_tokens": 4271,
+    "prompt_tokens_details": null,
+    "total_tokens": 4383
+  }
+}

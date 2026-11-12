@@ -1,0 +1,17 @@
+{
+  "body_sha256": "d6bf61349d2911aa8e981bdc2e0cc1358f38da0bf7d3287e55644e5edb68231d",
+  "finish_reason": "stop",
+  "latency_s": 9.397895333000633,
+  "prediction": "Fionnuala emphasizes the convenience of the Control Center's audio settings adjustment, highlighting that it allows users to make these adjustments \"on the fly without having to pause the game.\" This feature is presented as a significant advantage that enhances the gaming experience, allowing players to optimize their audio settings seamlessly while actively playing the game.",
+  "prediction_sha256": "05c56dcf6cbb23ad829b2c1c77a540f0da488a60ba840a74cd5fe7fe9262501c",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100251,
+  "usage": {
+    "completion_tokens": 65,
+    "prompt_tokens": 4313,
+    "prompt_tokens_details": null,
+    "total_tokens": 4378
+  }
+}

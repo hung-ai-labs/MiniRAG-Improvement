@@ -1,0 +1,17 @@
+{
+  "body_sha256": "5f5cd1557bc147e71d1f7f8d52f99d83cd0e384d166a5285d78b29c29a89af61",
+  "finish_reason": "stop",
+  "latency_s": 6.836271624997607,
+  "prediction": "There is no information provided about a food event suggested by Turalyon in the given data. The conversations focus on various topics including Lunar New Year celebrations, dining out experiences, healthy eating challenges, and catching up over meals. None of these conversations mention a specific food event being suggested by Turalyon.",
+  "prediction_sha256": "a4e566dcf76a0e2e3d6c3dd73d148d30e80032e175342593a63c1a529ccba7b2",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100392,
+  "usage": {
+    "completion_tokens": 62,
+    "prompt_tokens": 3285,
+    "prompt_tokens_details": null,
+    "total_tokens": 3347
+  }
+}

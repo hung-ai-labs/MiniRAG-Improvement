@@ -1,0 +1,17 @@
+{
+  "body_sha256": "39e664f65f44870dc25dd18fb6bd0a5c49ee90541a8be6f3f7faf53a919f3a57",
+  "finish_reason": "stop",
+  "latency_s": 8.600079583000479,
+  "prediction": "In one of the discussions recorded, Li Hua suggested lavender and coneflowers for the flower beds. She explained that these flowers would be beautiful and beneficial for pollinators, making them perfect additions to the community garden. Adam Smith agreed with this suggestion, stating that lavender and coneflowers \"sound perfect!\" and noting that they also have a pleasant scent. Thus, based on the conversations documented, lavender and coneflowers are the flowers recommended by Li Hua for the flower beds in the community garden.",
+  "prediction_sha256": "b6c6b82ff742c0ed38b184a7f43460f5c93f21ea65cb1dfbf66f5ecf3c01a2fc",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200110,
+  "usage": {
+    "completion_tokens": 107,
+    "prompt_tokens": 4282,
+    "prompt_tokens_details": null,
+    "total_tokens": 4389
+  }
+}

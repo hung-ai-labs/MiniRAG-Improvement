@@ -1,0 +1,17 @@
+{
+  "body_sha256": "f650e2ecf705a66dafd98a8f28096144d356a9d524c6f03fd368e5bc165beda0",
+  "finish_reason": "stop",
+  "latency_s": 7.830244458000379,
+  "prediction": "JakeWatson recommends squats and lunges as exercises to improve leg strength, which he suggests can enhance overall stability and performance on the field. He also notes that including balance exercises, such as single-leg stands, can be beneficial. Additionally, JakeWatson mentions stretching as an important part of the post-workout routine to keep muscles flexible.",
+  "prediction_sha256": "af545df2436a9519450ab7972af2ec7a2fc51a4d291d52009bac812378031479",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200268,
+  "usage": {
+    "completion_tokens": 70,
+    "prompt_tokens": 3519,
+    "prompt_tokens_details": null,
+    "total_tokens": 3589
+  }
+}

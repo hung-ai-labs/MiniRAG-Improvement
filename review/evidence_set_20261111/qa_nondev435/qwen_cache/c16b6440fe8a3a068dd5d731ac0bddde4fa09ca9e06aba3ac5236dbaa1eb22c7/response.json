@@ -1,0 +1,17 @@
+{
+  "body_sha256": "c16b6440fe8a3a068dd5d731ac0bddde4fa09ca9e06aba3ac5236dbaa1eb22c7",
+  "finish_reason": "stop",
+  "latency_s": 8.716302042001189,
+  "prediction": "On September 7th, 2026, AdamSmith reaches out to LiHua to check in on how the basement held up after the recent storm. Specifically, AdamSmith inquires about any issues with water leakage and asks if there are any problems with dampness. Given that the basement had recently experienced weather conditions that could potentially lead to water-related issues, AdamSmith's follow-up indicates his concern for LiHua's living conditions and whether she needs any assistance.",
+  "prediction_sha256": "6307d9ab436358f8a965242c7b88a7d6ad05142c330cdfa87673948a5ac21c24",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 192,
+  "usage": {
+    "completion_tokens": 98,
+    "prompt_tokens": 4362,
+    "prompt_tokens_details": null,
+    "total_tokens": 4460
+  }
+}

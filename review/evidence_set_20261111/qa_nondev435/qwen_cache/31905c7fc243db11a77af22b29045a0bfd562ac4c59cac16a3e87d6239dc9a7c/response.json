@@ -1,0 +1,17 @@
+{
+  "body_sha256": "31905c7fc243db11a77af22b29045a0bfd562ac4c59cac16a3e87d6239dc9a7c",
+  "finish_reason": "stop",
+  "latency_s": 6.806803125000442,
+  "prediction": "In the conversation, Adam Smith clarifies that it's acceptable to have friends over occasionally, provided the gatherings are kept reasonable. This statement is derived from a previous interaction where LiHua inquired about house rules and specifically asked if it was okay to have friends over occasionally. Adam's reply indicated that such gatherings are fine, just as long as they maintain a reasonable scale.",
+  "prediction_sha256": "7e48eab323152a51bde9c32780cc389831ee3c204414f259cb68b5a6309384f0",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100058,
+  "usage": {
+    "completion_tokens": 76,
+    "prompt_tokens": 3358,
+    "prompt_tokens_details": null,
+    "total_tokens": 3434
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "9028fdab8ead21984083be307bdff0d85ce863f000f146acda15840b1fbf0a2e",
+  "finish_reason": "stop",
+  "latency_s": 10.480337791996135,
+  "prediction": "JakeWatson recommends several exercises for improving leg strength. In a previous conversation, he suggested adding squats and lunges to LiHua's routine. He elaborated further by recommending specific stretches that he finds beneficial, such as the hamstring stretch and quad stretch, which he suggests holding for about 30 seconds. These stretches are part of his advice to keep muscles flexible after workouts. Additionally, Jake mentioned the importance of strength training, stating that it builds the muscles around joints, which can reduce the risk of injuries and improve overall stability and endurance on the field.",
+  "prediction_sha256": "28867d4662482544964c4496f0a7336b142a79bb0f7fb20e4a15c3bc466e5256",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200268,
+  "usage": {
+    "completion_tokens": 115,
+    "prompt_tokens": 4273,
+    "prompt_tokens_details": null,
+    "total_tokens": 4388
+  }
+}

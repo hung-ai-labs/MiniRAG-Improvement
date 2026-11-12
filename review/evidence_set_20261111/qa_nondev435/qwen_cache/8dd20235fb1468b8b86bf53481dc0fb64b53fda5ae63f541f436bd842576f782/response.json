@@ -1,0 +1,17 @@
+{
+  "body_sha256": "8dd20235fb1468b8b86bf53481dc0fb64b53fda5ae63f541f436bd842576f782",
+  "finish_reason": "stop",
+  "latency_s": 14.394860333999532,
+  "prediction": "In one of the conversations, LiHua mentioned that she would be bringing some chips for the movie night. However, regarding the match mentioned in the second source (20261223_23:00), WolfgangSchulz had expressed interest in grabbing some snacks and drinks. LiHua confirmed that she would be picking up these items along with drinks for the movie night. For the match mentioned, it is unclear what LiHua specifically plans to bring, but her role seems to revolve around getting snacks and drinks for the movie night, rather than the match itself.",
+  "prediction_sha256": "c877bdef95bca20e987855a0b655165cdaca4e7d155ffdad33be8e954dc2bf46",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200301,
+  "usage": {
+    "completion_tokens": 123,
+    "prompt_tokens": 4386,
+    "prompt_tokens_details": null,
+    "total_tokens": 4509
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "b5fef6d6a6642ddc66bf610108727873703898c3413611436155ccd19d008d95",
+  "finish_reason": "stop",
+  "latency_s": 6.891227667001658,
+  "prediction": " According to the information provided in the data tables, Henley offers to bring cones for the soccer practice. This contribution is mentioned in the following exchange from the sources:\n\n```\nHenley: I'll bring some cones so we can set up drills and practice! Let’s make sure we work on the weak spots from our last matches. 🏃‍♂️⚽️\n```\n\nIn summary, Henley is volunteering to bring cones to facilitate the setup of drills during the soccer practice sessions. This gesture is intended to help the team address and improve any weaknesses observed in their previous matches.",
+  "prediction_sha256": "61e724685d9d82c643ddf5e13983e9feeb888c4f233c842ae74fe98993aafa39",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 100363,
+  "usage": {
+    "completion_tokens": 141,
+    "prompt_tokens": 4975,
+    "prompt_tokens_details": null,
+    "total_tokens": 5116
+  }
+}

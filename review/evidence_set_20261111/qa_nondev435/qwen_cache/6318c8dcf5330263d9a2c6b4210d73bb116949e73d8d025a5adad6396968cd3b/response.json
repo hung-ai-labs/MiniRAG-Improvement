@@ -1,0 +1,17 @@
+{
+  "body_sha256": "6318c8dcf5330263d9a2c6b4210d73bb116949e73d8d025a5adad6396968cd3b",
+  "finish_reason": "stop",
+  "latency_s": 11.033935708997888,
+  "prediction": "According to the records, there are two power outages scheduled in the neighborhood. The first one is for today from 2pm to 3pm, as mentioned in messages between AdamSmith and LiHua dated 20260308_13:00. The second power outage is for the next day from 2pm to 3pm, as indicated in a message dated 20260307_14:45.",
+  "prediction_sha256": "4679b0c75296b1d568377e7bd928703f10ead7b6cb67fd1437d8559a4b8639ea",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200090,
+  "usage": {
+    "completion_tokens": 100,
+    "prompt_tokens": 5096,
+    "prompt_tokens_details": null,
+    "total_tokens": 5196
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "8a9f676034cd2a8aa93a47e7143edc5b07365eddc9f446dbf78ef76223509343",
+  "finish_reason": "stop",
+  "latency_s": 9.421969124996394,
+  "prediction": "WolfgangSchulz suggests getting pizza for dinner in the conversation recorded on Time: 20261015_15:00. In this interaction, he proposes having pizza as a pre-dinner activity after work.",
+  "prediction_sha256": "2ffefbc9ef0928d39e4c93b6dfbf5baf28ec52b1b0023848a0e8954e2025d5e1",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 365,
+  "usage": {
+    "completion_tokens": 52,
+    "prompt_tokens": 5156,
+    "prompt_tokens_details": null,
+    "total_tokens": 5208
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "190a92a5dfb13018c42148de3a0c4466342cae623aa82b2ff80f7ddb7c94f090",
+  "finish_reason": "stop",
+  "latency_s": 7.913120625002193,
+  "prediction": "Before the upcoming karaoke night, WolfgangSchulz suggests that the group finalize the date and give the night a good vibe. He encourages the group to choose their favorite songs and mix them with some pop hits, ensuring the karaoke night is a fun and enjoyable experience for everyone involved.",
+  "prediction_sha256": "feaebf05efe8f7333c29fa6cff2840648c35ab40c26cfb6521685bd5c6eeafed",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100372,
+  "usage": {
+    "completion_tokens": 59,
+    "prompt_tokens": 4482,
+    "prompt_tokens_details": null,
+    "total_tokens": 4541
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "5bf19df6d1e569d9292416037ced4d746fe5e16af7267f661e7a76528b482ca1",
+  "finish_reason": "stop",
+  "latency_s": 17.836815041999216,
+  "prediction": "According to the interactions recorded, AdamSmith indicates his availability to help with the curtain installation multiple times. Specifically, on February 19th at 8:00 AM, AdamSmith reminds LiHua that he needs to pick up the key for the basement at 9 AM, suggesting he is flexible and available for tasks around that time. On another occasion, on February 19th at 8:00 PM, AdamSmith mentions he is \"free most evenings\" and asks LiHua to suggest a suitable time. Given these points, AdamSmith is available on evenings and mornings, but the most specific mention regarding the curtain installation task is on February 19th at 8:00 PM, where he confirms he is available most evenings. Therefore, the earliest and most concrete availability mentioned is on February 19th at 8:00 PM.",
+  "prediction_sha256": "bff643b52a58ec45432e4e96555c25e83653909b2b4fe30779da1a6f11dd57e7",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200248,
+  "usage": {
+    "completion_tokens": 181,
+    "prompt_tokens": 4347,
+    "prompt_tokens_details": null,
+    "total_tokens": 4528
+  }
+}

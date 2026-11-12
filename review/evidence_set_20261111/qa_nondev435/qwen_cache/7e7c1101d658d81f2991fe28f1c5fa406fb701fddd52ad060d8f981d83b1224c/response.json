@@ -1,0 +1,17 @@
+{
+  "body_sha256": "7e7c1101d658d81f2991fe28f1c5fa406fb701fddd52ad060d8f981d83b1224c",
+  "finish_reason": "stop",
+  "latency_s": 7.445464166001329,
+  "prediction": "In one of the messages, Adam Smith reminds Li Hua about the building's recycling policy. This reminder emphasizes the importance of environmental responsibility within the community and highlights the collective effort required to maintain a clean and sustainable living space. Adam encourages participation in the recycling program and offers to provide answers to any questions Li Hua might have regarding the recycling process.",
+  "prediction_sha256": "233aa43410428b122d12aa2d219e40917db3a055bbaecf1af0e5eb67fd805ce2",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 101,
+  "usage": {
+    "completion_tokens": 71,
+    "prompt_tokens": 4127,
+    "prompt_tokens_details": null,
+    "total_tokens": 4198
+  }
+}

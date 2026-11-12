@@ -1,0 +1,17 @@
+{
+  "body_sha256": "390e2b78fc24cd2b32f2b6e797a099de6afe06a459284b4fef7e65f11bc077e9",
+  "finish_reason": "stop",
+  "latency_s": 10.080473707999772,
+  "prediction": "In one of the discussions, Li Hua suggests lavender and coneflowers for the flower beds. Li Hua mentions that these flowers are both beautiful and great for attracting pollinators, such as butterflies and bees. Adam Smith agrees that lavender and coneflowers sound perfect and notes that they also have a pleasant scent. These flower recommendations align with the community's desire to enhance the garden's aesthetic appeal and support biodiversity through native plant species.",
+  "prediction_sha256": "51a042762ea463544c5b2b99460cf9db715764a205064f3777cb7baf515e8618",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200110,
+  "usage": {
+    "completion_tokens": 92,
+    "prompt_tokens": 3166,
+    "prompt_tokens_details": null,
+    "total_tokens": 3258
+  }
+}

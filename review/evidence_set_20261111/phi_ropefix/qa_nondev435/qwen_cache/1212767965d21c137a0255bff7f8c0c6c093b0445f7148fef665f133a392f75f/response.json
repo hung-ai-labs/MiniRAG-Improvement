@@ -1,0 +1,17 @@
+{
+  "body_sha256": "1212767965d21c137a0255bff7f8c0c6c093b0445f7148fef665f133a392f75f",
+  "finish_reason": "stop",
+  "latency_s": 5.604411208005331,
+  "prediction": " The provided data tables and sources do not contain any information about LiHua's response to the suggestion of taking a warm shower before bed. Therefore, based on the given information, I am unable to provide an answer to this specific question. LiHua's response regarding this topic is not documented in the given data.\n\n---\n\n*It's important to note that when responding to questions not covered by the provided data, one must acknowledge the lack of evidence and avoid making assumptions or fabricating details that cannot be substantiated by the given content.*",
+  "prediction_sha256": "371e7af2f41e658765d67db1451a0d8d07cf9d2996f016e315385810dbdb2ea5",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 100271,
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 4701,
+    "prompt_tokens_details": null,
+    "total_tokens": 4821
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "830d8a5859089830feab392153d1be6a73762ad6a3f2453914b78a63c0fc825d",
+  "finish_reason": "stop",
+  "latency_s": 4.264433958000154,
+  "prediction": "According to JakeWatson, the key to quick refueling after a soccer game involves consuming a snack that includes both carbohydrates and protein, such as a banana with peanut butter. This combination helps replenish energy stores and aids in muscle recovery. Additionally, he emphasizes the importance of hydration, suggesting water or an electrolyte drink to replace fluids lost during the game.",
+  "prediction_sha256": "d211854a089237c6774f3404ba63b52802e00ce174089660ca74e08d6e8d8456",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200389,
+  "usage": {
+    "completion_tokens": 73,
+    "prompt_tokens": 3593,
+    "prompt_tokens_details": null,
+    "total_tokens": 3666
+  }
+}

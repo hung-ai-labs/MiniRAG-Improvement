@@ -1,0 +1,17 @@
+{
+  "body_sha256": "32dfd5badbc6410e827e01acba02096149e96e070aa3392eb6de4f250f964ce3",
+  "finish_reason": "stop",
+  "latency_s": 6.981068542001594,
+  "prediction": "According to the conversations recorded, the contractor team is scheduled to install the air-conditioner in the basement at 6 PM on the same day, which is specified in the message from AdamSmith to LiHua on August 12, 2026 at 11:00 AM.",
+  "prediction_sha256": "fc42fe279d126bad4a84499c54d9898cc701d54a5799611913c6140fe00312c0",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 167,
+  "usage": {
+    "completion_tokens": 63,
+    "prompt_tokens": 5040,
+    "prompt_tokens_details": null,
+    "total_tokens": 5103
+  }
+}

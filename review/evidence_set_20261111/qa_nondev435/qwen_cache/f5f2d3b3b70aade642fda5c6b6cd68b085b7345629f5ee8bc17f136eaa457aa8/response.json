@@ -1,0 +1,17 @@
+{
+  "body_sha256": "f5f2d3b3b70aade642fda5c6b6cd68b085b7345629f5ee8bc17f136eaa457aa8",
+  "finish_reason": "stop",
+  "latency_s": 5.66531216599833,
+  "prediction": "According to Ivor, Real Madrid is a prominent Spanish football club known for their comeback capabilities. However, there is no explicit mention of Real Madrid's current coach in Ivor's statements.",
+  "prediction_sha256": "aafe58e405fe1b2bdef1f493031213a6738b19469f832beb3b45363de2d09886",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 360,
+  "usage": {
+    "completion_tokens": 39,
+    "prompt_tokens": 4763,
+    "prompt_tokens_details": null,
+    "total_tokens": 4802
+  }
+}

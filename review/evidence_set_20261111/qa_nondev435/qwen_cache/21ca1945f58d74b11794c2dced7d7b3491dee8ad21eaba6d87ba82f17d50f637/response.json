@@ -1,0 +1,17 @@
+{
+  "body_sha256": "21ca1945f58d74b11794c2dced7d7b3491dee8ad21eaba6d87ba82f17d50f637",
+  "finish_reason": "stop",
+  "latency_s": 9.699956124997698,
+  "prediction": "Based on the conversations provided, Emily Burnett is currently watching \"The Bear.\" She expressed enthusiasm about the series and found it engaging, particularly due to its combination of a chaotic restaurant setting and compelling storytelling. Emily also highlighted the raw, relatable humor in the show, making it enjoyable for her. This aligns with her preference for character-driven stories, as opposed to the previous series she mentioned, such as \"Chernobyl,\" which she described as darker and more focused on historical events.",
+  "prediction_sha256": "0c6ba09291003a7ec470aeaa9d5d79f25aaa495d29a3a94b7161a7b14f5930df",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 386,
+  "usage": {
+    "completion_tokens": 100,
+    "prompt_tokens": 3933,
+    "prompt_tokens_details": null,
+    "total_tokens": 4033
+  }
+}

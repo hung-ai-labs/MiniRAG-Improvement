@@ -1,0 +1,17 @@
+{
+  "body_sha256": "8dc1b245e355b823e654f418b52abc0ccd879c6e888c471ec492844fe341a02b",
+  "finish_reason": "stop",
+  "latency_s": 9.953883624999435,
+  "prediction": "From the interactions described, Wolfgang Schulz prefers a classic cheeseburger without additional toppings. In the conversation about a burger night, Wolfgang specifically mentions, \"I'm all about classic cheeseburger vibes! Just keep it simple with lettuce, tomato, and some pickles.\" However, he is open to experimenting with simple additions like jalapeños or hot sauce. This indicates that while he leans towards a basic setup, he is flexible with minor adjustments.",
+  "prediction_sha256": "bafe036231701e52884e994c88552cee2bb9baf6eb8ee0b6f005ca6966adc9ef",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100187,
+  "usage": {
+    "completion_tokens": 90,
+    "prompt_tokens": 4539,
+    "prompt_tokens_details": null,
+    "total_tokens": 4629
+  }
+}

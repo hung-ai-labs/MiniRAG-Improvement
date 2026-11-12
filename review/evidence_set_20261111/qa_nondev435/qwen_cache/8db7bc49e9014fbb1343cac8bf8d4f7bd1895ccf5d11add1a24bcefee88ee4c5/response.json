@@ -1,0 +1,17 @@
+{
+  "body_sha256": "8db7bc49e9014fbb1343cac8bf8d4f7bd1895ccf5d11add1a24bcefee88ee4c5",
+  "finish_reason": "stop",
+  "latency_s": 11.40388533299847,
+  "prediction": "No, Li Hua initially declined Wolfgang's invitation to dinner, stating that he has been very busy lately. However, Wolfgang suggested another day for dinner, and Li Hua agreed to plan for another day, indicating that he was open to the idea eventually. This shows that Wolfgang did not secure a commitment for a dinner date immediately after his initial suggestion.",
+  "prediction_sha256": "67d72c09a885a2176616a765b0c830144cc0f26e7bbbbcc484d4ec5f9b06a5f0",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 14,
+  "usage": {
+    "completion_tokens": 72,
+    "prompt_tokens": 4458,
+    "prompt_tokens_details": null,
+    "total_tokens": 4530
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "6e9b7b4489a5062ccda87328e8b74937afd3770bdb9a37c3418d9f8036553155",
+  "finish_reason": "stop",
+  "latency_s": 7.754136542000197,
+  "prediction": "In the conversation provided, WolfgangSchulz suggests checking for live music performances, specifically mentioning a concert scheduled on March 7th at 6 PM. He invites LiHua to join him, stating that it would be a great opportunity to \"catch up and enjoy some live music!\" Therefore, it is WolfgangSchulz who offers to check with friends for a live music performance.",
+  "prediction_sha256": "3b1d207f77a544fe1b8476d8bfd193083092dbbaa48a4e859fcefbc31eca42eb",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 342,
+  "usage": {
+    "completion_tokens": 79,
+    "prompt_tokens": 4583,
+    "prompt_tokens_details": null,
+    "total_tokens": 4662
+  }
+}

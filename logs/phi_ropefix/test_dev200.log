@@ -1,0 +1,110 @@
+== capture (dev200)
+capture dev200/baseline: complete (200)
+capture dev200/c0: complete (200)
+== score (dev200)
+python-dotenv could not parse statement starting at line 4
+python-dotenv could not parse statement starting at line 6
+python-dotenv could not parse statement starting at line 7
+python-dotenv could not parse statement starting at line 8
+python-dotenv could not parse statement starting at line 9
+{"questions": 200, "labelled": 177, "candidates": 9000, "positives": 136}
+Loading weights:   0%|          | 0/105 [00:00<?, ?it/s]Loading weights: 100%|██████████| 105/105 [00:00<00:00, 8838.97it/s]
+CE0 {0: 0.8912, 1: 0.9724, 2: 0.94, 3: 0.9752, 4: 0.9691}
+F {0: 0.8532, 1: 0.9611, 2: 0.9442, 3: 0.96, 4: 0.9793}
+CE0+F {0: 0.9116, 1: 0.989, 2: 0.9597, 3: 0.9835, 4: 0.9874}
+python-dotenv could not parse statement starting at line 4
+python-dotenv could not parse statement starting at line 6
+python-dotenv could not parse statement starting at line 7
+python-dotenv could not parse statement starting at line 8
+python-dotenv could not parse statement starting at line 9
+pool=native@45  labelled=177
+BASELINE                     full= 71  S= 60 M=11  +0/-0 p=1  tok_med=3705.0  chunks=8.0
+A1_WIDE                      full= 71  S= 60 M=11  +0/-0 p=1  tok_med=3705.0  chunks=8.0
+ORACLE_WIDE                  full=109  S= 97 M=12  +38/-0 p=7.28e-12  tok_med=3718.0  chunks=8.0
+BM25_RERANK                  full=102  S= 92 M=10  +34/-3 p=1.23e-07  tok_med=3608.0  chunks=6.0
+CE0_RERANK                   full= 95  S= 85 M=10  +31/-7 p=0.000116  tok_med=3639.0  chunks=6.0
+CE0_SET                      full= 93  S= 82 M=11  +27/-5 p=0.000113  tok_med=2636.5  chunks=5.0
+CE0_SET_NO_COVERAGE          full= 96  S= 85 M=11  +30/-5 p=2.24e-05  tok_med=3948.0  chunks=12.0
+CE0_SET_FILL                 full= 99  S= 88 M=11  +30/-2 p=2.46e-07  tok_med=3953.5  chunks=11.5
+CE0_SET_POOL30               full= 93  S= 81 M=12  +27/-5 p=0.000113  tok_med=2453.5  chunks=5.0
+F_RERANK                     full= 97  S= 87 M=10  +29/-3 p=2.56e-06  tok_med=3648.5  chunks=7.5
+F_SET                        full= 89  S= 79 M=10  +24/-6 p=0.00143  tok_med=3702.0  chunks=8.0
+F_SET_NO_COVERAGE            full= 93  S= 83 M=10  +26/-4 p=5.95e-05  tok_med=3953.0  chunks=12.0
+F_SET_FILL                   full= 92  S= 82 M=10  +25/-4 p=0.000104  tok_med=3955.0  chunks=12.0
+F_SET_POOL30                 full= 89  S= 79 M=10  +24/-6 p=0.00143  tok_med=3644.0  chunks=8.0
+CE0+F_RERANK                 full= 97  S= 87 M=10  +30/-4 p=6.16e-06  tok_med=3625.0  chunks=6.0
+CE0+F_SET                    full= 96  S= 86 M=10  +29/-4 p=1.09e-05  tok_med=3937.5  chunks=9.0
+CE0+F_SET_NO_COVERAGE        full= 96  S= 86 M=10  +29/-4 p=1.09e-05  tok_med=3937.5  chunks=9.0
+CE0+F_SET_FILL               full=101  S= 90 M=11  +32/-2 p=6.94e-08  tok_med=3952.0  chunks=10.0
+CE0+F_SET_POOL30             full= 96  S= 86 M=10  +29/-4 p=1.09e-05  tok_med=3928.0  chunks=9.0
+{"CE0": {"0": [2.0, 0.05], "1": [2.0, 0.1], "2": [1.0, 0.05], "3": [2.0, 0.05], "4": [2.0, 0.05]}, "F": {"0": [0.5, 0.05], "1": [1.0, 0.05], "2": [0.0, 0.0], "3": [0.25, 0.0], "4": [0.25, 0.05]}, "CE0+F": {"0": [0.0, 0.05], "1": [0.0, 0.0], "2": [0.0, 0.0], "3": [0.0, 0.0], "4": [0.0, 0.0]}}
+== build (dev200)
+python-dotenv could not parse statement starting at line 4
+python-dotenv could not parse statement starting at line 6
+python-dotenv could not parse statement starting at line 7
+python-dotenv could not parse statement starting at line 8
+python-dotenv could not parse statement starting at line 9
+{
+ "split": "dev200",
+ "questions": 200,
+ "arms": [
+  "C0",
+  "BASELINE",
+  "F",
+  "CE0F",
+  "CE0F_SET"
+ ],
+ "pool": "native@45",
+ "scores": "cross-fitted (5 folds); beta/tau nested per fold",
+ "labelled": 177,
+ "full_evidence": {
+  "C0": 60,
+  "BASELINE": 71,
+  "F": 97,
+  "CE0F": 97,
+  "CE0F_SET": 96
+ },
+ "identical_to_baseline": {
+  "C0": 179,
+  "BASELINE": 200,
+  "F": 0,
+  "CE0F": 0,
+  "CE0F_SET": 0
+ },
+ "no_context_fail_response": {
+  "C0": 0,
+  "BASELINE": 0,
+  "F": 0,
+  "CE0F": 0,
+  "CE0F_SET": 0
+ },
+ "contexts_sha256": "6a2565db0cbc6c85c52c25e6c1b386c0ff7d52690971feee937e38165b5f4239",
+ "pipeline_sha256": "891fe1b39ad8f44d2c2f1fd674e878638e377d8bad59aebdb82bd92cf34b8db0",
+ "api_calls": 0
+}
+== generate (dev200)
+python-dotenv could not parse statement starting at line 4
+python-dotenv could not parse statement starting at line 6
+python-dotenv could not parse statement starting at line 7
+python-dotenv could not parse statement starting at line 8
+python-dotenv could not parse statement starting at line 9
+round 1 BASELINE: 50/200
+round 1 BASELINE: 100/200
+round 1 BASELINE: 150/200
+round 1 BASELINE: 200/200
+round 1 C0: 50/200
+round 1 C0: 100/200
+round 1 C0: 150/200
+round 1 C0: 200/200
+round 1 F: 50/200
+round 1 F: 100/200
+round 1 F: 150/200
+round 1 F: 200/200
+round 1 CE0F: 50/200
+round 1 CE0F: 100/200
+round 1 CE0F: 150/200
+round 1 CE0F: 200/200
+round 1 CE0F_SET: 50/200
+round 1 CE0F_SET: 100/200
+round 1 CE0F_SET: 150/200
+round 1 CE0F_SET: 200/200

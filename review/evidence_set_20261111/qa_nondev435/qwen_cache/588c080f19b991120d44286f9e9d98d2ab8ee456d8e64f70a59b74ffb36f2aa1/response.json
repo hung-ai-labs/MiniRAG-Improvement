@@ -1,0 +1,17 @@
+{
+  "body_sha256": "588c080f19b991120d44286f9e9d98d2ab8ee456d8e64f70a59b74ffb36f2aa1",
+  "finish_reason": "stop",
+  "latency_s": 11.607388541997352,
+  "prediction": "In the conversations provided, Turalyon suggested organizing a weekend picnic to bring the community together. He proposed a fun and relaxed environment where people could enjoy various activities and bring dishes to share in a potluck style. Additionally, he mentioned considering games or activities to make the event more engaging. Turalyon also recommended bringing blankets or chairs for seating and possibly having music to enhance the atmosphere. Overall, the picnic event aimed to be a delightful and inclusive gathering where community members could relax, socialize, and enjoy each other's company.",
+  "prediction_sha256": "380085fea7f3753447c5e729750c3170e9f04df917a8688b9a0470fc54a39c22",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 392,
+  "usage": {
+    "completion_tokens": 108,
+    "prompt_tokens": 4302,
+    "prompt_tokens_details": null,
+    "total_tokens": 4410
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "396d2a1c964fe0f351a0453f476274d29b5ab59cc03c2de9a4383439d89fbb30",
+  "finish_reason": "stop",
+  "latency_s": 9.432852750000166,
+  "prediction": "From the information available, it seems that Wolfgang's upcoming business trip to Hong Kong is known to LiHua. This can be inferred from the messages exchanged between Wolfgang and LiHua in source 1 and source 2, where Wolfgang informs LiHua about his travel plans and LiHua responds positively, suggesting potential activities for Wolfgang to do in Hong Kong. Additionally, there is no indication of anyone else knowing about Wolfgang's trip to Hong Kong except for LiHua and Wolfgang themselves.",
+  "prediction_sha256": "ccdfde029295ae4160fada49d24d24ebcd2bd22ab83f11c78818f0f5ab91280f",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100033,
+  "usage": {
+    "completion_tokens": 101,
+    "prompt_tokens": 4716,
+    "prompt_tokens_details": null,
+    "total_tokens": 4817
+  }
+}

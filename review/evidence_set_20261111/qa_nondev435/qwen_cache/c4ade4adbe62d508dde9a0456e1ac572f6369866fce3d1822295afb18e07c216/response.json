@@ -1,0 +1,17 @@
+{
+  "body_sha256": "c4ade4adbe62d508dde9a0456e1ac572f6369866fce3d1822295afb18e07c216",
+  "finish_reason": "stop",
+  "latency_s": 10.878878791998432,
+  "prediction": "According to the conversation recorded on 20260731, Li Hua is invited to assist with a bread-tasting event at Hailey's Bakery. Hailey Johnson specifically mentions, \"I'm planning a bread-tasting event at the bakery and would love your help gathering feedback from our customers.\" This indicates that Li Hua is tasked with collecting feedback from the customers regarding the different types of bread being served at the bakery.",
+  "prediction_sha256": "80c25187df49a095cdd0132d210cfdc39310557671a39666fd01b061265883c4",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100162,
+  "usage": {
+    "completion_tokens": 91,
+    "prompt_tokens": 4109,
+    "prompt_tokens_details": null,
+    "total_tokens": 4200
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "caf4601a1f265355a549df2b30094b9f4bb51076fa07c2bb01d5ad407e66e455",
+  "finish_reason": "stop",
+  "latency_s": 25.802119707997917,
+  "prediction": "ChaeSong-hwa organizes karaoke activities on multiple occasions. From the data provided, two events stand out:\n\n1. The first event is scheduled for Saturday at 7 PM, as indicated in the message dated \"Time: 20260421_16:00\". In this message, ChaeSong-hwa invites LiHua to join him for a karaoke activity he's organizing that Saturday at 7 PM. He expresses his excitement about having LiHua there and mentions that it'll be nice to have her join.\n\n2. Another karaoke activity is planned for the following month, as noted in the message dated \"Time: 20260525_15:00\". Here, ChaeSong-hwa expresses his desire to organize another karaoke session after a long period without one. He suggests having it the following weekend, which LiHua agrees to enthusiastically, looking forward to singing together.\n\nIn summary, ChaeSong-hwa organizes karaoke activities on Saturdays, with the most recent one being planned for the following weekend. However, specific dates and times for these activities are not explicitly mentioned; only the frequency and general timeframe are given.",
+  "prediction_sha256": "67b536fe20094b084e28898db0e1190c12645f1de92659854cc277a1d32aa983",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100112,
+  "usage": {
+    "completion_tokens": 251,
+    "prompt_tokens": 4362,
+    "prompt_tokens_details": null,
+    "total_tokens": 4613
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "231fe062f3e6026789227733f63c6e9605b2537c5de2c064fc35fcafa2e12c45",
+  "finish_reason": "stop",
+  "latency_s": 10.074495207998552,
+  "prediction": "In the conversation regarding baby-friendly music, Li Hua expressed her interest in creating a playlist for her children. Chae Song-hwa suggested classic lullabies and gentle guitar melodies, highlighting that these types of songs can help with the development of babies. Li Hua added that they might incorporate some of their band's mellow tunes into the playlist, further emphasizing the versatility and appeal of their music to young listeners. However, there is no mention of any specific songs being considered for the baby playlist, only the broad category of gentle and soothing music.",
+  "prediction_sha256": "2e6cf618b7645d0a2e4898ee7fddca496635856e5a7f398e7cb32c9da2bd78de",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200190,
+  "usage": {
+    "completion_tokens": 112,
+    "prompt_tokens": 3743,
+    "prompt_tokens_details": null,
+    "total_tokens": 3855
+  }
+}

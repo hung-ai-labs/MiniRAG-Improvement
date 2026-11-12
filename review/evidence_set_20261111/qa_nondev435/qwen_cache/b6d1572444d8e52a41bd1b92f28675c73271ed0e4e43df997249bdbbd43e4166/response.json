@@ -1,0 +1,17 @@
+{
+  "body_sha256": "b6d1572444d8e52a41bd1b92f28675c73271ed0e4e43df997249bdbbd43e4166",
+  "finish_reason": "stop",
+  "latency_s": 9.270332917003543,
+  "prediction": "Based on the interactions between Hailey Johnson and Li Hua, Hailey Johnson starts baking very early, typically around 4 AM. This is evident from the conversation in the interaction dated 20260317_08:00, where Li Hua mentions, \"I start baking super early, usually around 4 AM! That way everything is fresh and ready for the day.\"",
+  "prediction_sha256": "fbb4d4f7ddc9ff98b7791470693de170517611813a3b967673194426ff87e21e",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100096,
+  "usage": {
+    "completion_tokens": 84,
+    "prompt_tokens": 4494,
+    "prompt_tokens_details": null,
+    "total_tokens": 4578
+  }
+}

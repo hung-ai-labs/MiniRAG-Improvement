@@ -1,0 +1,17 @@
+{
+  "body_sha256": "093e1c573dee653e7854e6a81896c83e6cfd0fec64ab5310820bf014386c708c",
+  "finish_reason": "stop",
+  "latency_s": 8.195478916000866,
+  "prediction": "Henley, who is enthusiastic about the upcoming practice session, plans to work on dribbling skills. Specifically, she suggests having a quick chat about favorite players during practice and asks for others' opinions, indicating that the practice aims to improve these skills collectively. Additionally, Henley emphasizes the importance of having a good time and maintaining a positive attitude during the practice session.",
+  "prediction_sha256": "d70bc467bafc1fab91b99ecf4bb504de87d2c63dd93fb1023ac3258c0eccaed4",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 364,
+  "usage": {
+    "completion_tokens": 74,
+    "prompt_tokens": 4920,
+    "prompt_tokens_details": null,
+    "total_tokens": 4994
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "81fc53a8f1e9157e5fde225eb1df16711304caa0f681cbb1f453995beef16eea",
+  "finish_reason": "stop",
+  "latency_s": 11.555027207999956,
+  "prediction": "In one of the conversations, Li Hua and Chae Song-hwa discussed creating a playlist for babies to enjoy listening to music. Specifically, Chae Song-hwa mentioned that they could include classic lullabies and gentle guitar melodies. Li Hua suggested classic lullabies as well, alongside gentle guitar melodies. This indicates that the pair intends to compile a playlist consisting primarily of soothing and calm music designed to be enjoyable for infants, with the aim of potentially creating a calming atmosphere for them.",
+  "prediction_sha256": "fdb25f02c1d627bef2f0bc978d86699c0d1687730a3fa0f73f80665a9fcd3743",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100190,
+  "usage": {
+    "completion_tokens": 101,
+    "prompt_tokens": 4421,
+    "prompt_tokens_details": null,
+    "total_tokens": 4522
+  }
+}

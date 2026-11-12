@@ -1,0 +1,17 @@
+{
+  "body_sha256": "045deb3c4eb782415ffb2f01c485a14cc7490946640a7c5012ef28d8ff3d450b",
+  "finish_reason": "stop",
+  "latency_s": 6.254257625001628,
+  "prediction": "On June 30, 2026, at 15:30, Jennifer Moore advises her gym members to prioritize staying hydrated during their workouts. Specifically, she suggests keeping track of their water intake and motivating each other. This tip underscores the importance of hydration not only for immediate physical comfort but also for enhancing overall fitness performance and endurance.",
+  "prediction_sha256": "a12c14327461fdf05f21072d1d7a77c6fa18e02e67cdc6d3c60d16394dc4c359",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 145,
+  "usage": {
+    "completion_tokens": 73,
+    "prompt_tokens": 5567,
+    "prompt_tokens_details": null,
+    "total_tokens": 5640
+  }
+}

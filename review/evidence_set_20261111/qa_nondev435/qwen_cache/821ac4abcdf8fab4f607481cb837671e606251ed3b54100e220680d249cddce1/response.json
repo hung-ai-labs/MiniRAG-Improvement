@@ -1,0 +1,17 @@
+{
+  "body_sha256": "821ac4abcdf8fab4f607481cb837671e606251ed3b54100e220680d249cddce1",
+  "finish_reason": "stop",
+  "latency_s": 12.118084791000001,
+  "prediction": "In one of the conversations, WolfgangSchulz suggests grabbing some snacks before the movie, and LiHua agrees to bring chips. Specifically, this interaction took place on January 22nd at 5:00 PM:\n\n```\nTime: 20260122_17:00\nWolfgangSchulz: Hey! Sounds great! Want to grab some snacks too for the movie? 🍿✨\nLiHua: For sure! I can bring some chips! What drinks do you want? 🥤\n```\n\nTherefore, LiHua agrees to bring chips as a snack for the movie.",
+  "prediction_sha256": "3c5a0efa951bbc0432c902f30ac643793ecfd55f2656c7a1f685bcc31d90866c",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100306,
+  "usage": {
+    "completion_tokens": 136,
+    "prompt_tokens": 4114,
+    "prompt_tokens_details": null,
+    "total_tokens": 4250
+  }
+}

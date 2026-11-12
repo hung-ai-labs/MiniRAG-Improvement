@@ -1,0 +1,17 @@
+{
+  "body_sha256": "1f7c076aadf575e20c945c65244dcda9d78ca245187c9879863d3036fb05f1c5",
+  "finish_reason": "stop",
+  "latency_s": 7.462342458999046,
+  "prediction": "In one of the conversation threads, Wolfgang expressed interest in trying some drinks with hot pot, specifically mentioning beer as a good match. However, there is no mention of Wolfgang planning a dessert with Li Hua after their hot pot dinner. This interaction focused more on discussing the types of drinks they would have together rather than any specific dessert plans. Therefore, based on the available data, we cannot determine what type of dessert Wolfgang planned to have with Li Hua after their hot pot dinner.",
+  "prediction_sha256": "59ec56b5276f14e814bf53e094d18b6dbc715e05bdd55d52642ebe25d7e445e9",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100441,
+  "usage": {
+    "completion_tokens": 98,
+    "prompt_tokens": 4508,
+    "prompt_tokens_details": null,
+    "total_tokens": 4606
+  }
+}

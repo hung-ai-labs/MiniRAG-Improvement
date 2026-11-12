@@ -1,0 +1,17 @@
+{
+  "body_sha256": "806e3c692ef6a104c475415950430a353ad7456fbe69555b30682deb1f0667f1",
+  "finish_reason": "stop",
+  "latency_s": 34.10655333300383,
+  "prediction": "Saffron highlights the pivotal moment when Jaime Lannister confronts Cersei Lannister, which serves as a significant turning point in the character's arc. This scene showcases the internal conflict within Jaime, torn between his love for Cersei and his own moral compass, leading to a crucial decision that shapes his character's development significantly. This confrontation underscores the complex interplay of power, love, and duty that defines Cersei's character, making it a critical juncture in her story.",
+  "prediction_sha256": "d279c03de8a143d0b7307f175080b4bd3db62b3b0acbd59d535671074aa5b0ca",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100308,
+  "usage": {
+    "completion_tokens": 101,
+    "prompt_tokens": 4753,
+    "prompt_tokens_details": null,
+    "total_tokens": 4854
+  }
+}

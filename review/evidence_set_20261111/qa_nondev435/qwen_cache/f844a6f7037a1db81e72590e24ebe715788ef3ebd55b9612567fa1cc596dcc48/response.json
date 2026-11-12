@@ -1,0 +1,17 @@
+{
+  "body_sha256": "f844a6f7037a1db81e72590e24ebe715788ef3ebd55b9612567fa1cc596dcc48",
+  "finish_reason": "stop",
+  "latency_s": 9.292191334003292,
+  "prediction": "Dacey suggests organizing passing drills on Saturday afternoon. Specifically, she proposes setting up cones for target practice during the passing drills. This idea aims to make the practice session more engaging and interactive, thus helping to improve the participants' passing skills.",
+  "prediction_sha256": "772ee1f48527ae61184335465372406c20c83cf083e46e2541828ab83ab7f466",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100283,
+  "usage": {
+    "completion_tokens": 49,
+    "prompt_tokens": 4951,
+    "prompt_tokens_details": null,
+    "total_tokens": 5000
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "d010c0f187aca4d4fef0e31e2c6e4f4afbb1659c8b3cdd821759b7045dfb4c13",
+  "finish_reason": "stop",
+  "latency_s": 10.121084500002326,
+  "prediction": "Based on the conversations recorded, WolfgangSchulz typically pairs his pizza with a cold drink. Specifically, he mentioned preferring \"a nice cold drink\" and suggested options such as soda or craft beer depending on the occasion. This preference for a cold beverage to complement his pizza suggests that a refreshing soft drink or perhaps a light beer would be typical choices for WolfgangSchulz.",
+  "prediction_sha256": "08968db4d824a4f3f0b72f83881d06d243a3c78b7b82ba7745a93fc95e6d1448",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 366,
+  "usage": {
+    "completion_tokens": 76,
+    "prompt_tokens": 4404,
+    "prompt_tokens_details": null,
+    "total_tokens": 4480
+  }
+}

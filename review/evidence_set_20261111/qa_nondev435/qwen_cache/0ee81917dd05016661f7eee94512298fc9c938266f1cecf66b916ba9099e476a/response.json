@@ -1,0 +1,17 @@
+{
+  "body_sha256": "0ee81917dd05016661f7eee94512298fc9c938266f1cecf66b916ba9099e476a",
+  "finish_reason": "stop",
+  "latency_s": 8.053601000003255,
+  "prediction": "Based on the information provided in the entities table, there is no specific mention of Li Hua preparing for a marathon race on September 1, 2026. The entities table discusses Jennifer Moore focusing on building endurance for upcoming marathons, but it does not provide details on Li Hua's preparations for a particular marathon on that date. Therefore, there is insufficient data to answer the question regarding the specific techniques Li Hua used for that marathon.",
+  "prediction_sha256": "bcc8075d84fc660fa5d1b6604ba01ba9363a1e50c6c2bf83cf4202b19ad03904",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100440,
+  "usage": {
+    "completion_tokens": 94,
+    "prompt_tokens": 3948,
+    "prompt_tokens_details": null,
+    "total_tokens": 4042
+  }
+}

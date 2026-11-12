@@ -1,0 +1,17 @@
+{
+  "body_sha256": "afb83d2ebadbebaa640c3e6b9bb942a693a10c5cbdabd06bda61bc30d9886d60",
+  "finish_reason": "stop",
+  "latency_s": 13.109383249997336,
+  "prediction": "According to the information provided, Ivor is a participant in the discussion about the best football manager in Premier League history. However, there is no direct mention of Real Madrid's current coach. The source indicates that Ivor is discussing the topic of the best football manager in the Premier League, not necessarily the best coach in Spain or the current coach of Real Madrid. Therefore, based on the data given, it is not possible to determine Real Madrid's current coach from Ivor's comments.",
+  "prediction_sha256": "f08f0900357746b986ecaa3102b72811f78a47fff997b4256a13473bb3b02673",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100360,
+  "usage": {
+    "completion_tokens": 99,
+    "prompt_tokens": 4876,
+    "prompt_tokens_details": null,
+    "total_tokens": 4975
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "5672137cac0004e40eead811bd3c3da39a85591cf045656cd420fcf058b7a80d",
+  "finish_reason": "stop",
+  "latency_s": 12.468158166000649,
+  "prediction": "In the conversation, WolfgangSchulz expresses a preference for a well-done meat patty in a classic American cheeseburger, stating, \"I think well-done is just safer and more flavorful. Plus, I like a little char on my burger!\" However, he acknowledges that his preference for a well-done patty contrasts with LiHua's preference for a medium-rare patty, which she believes has \"all the flavor.\" This shows that Wolfgang enjoys a more well-done texture, likely appreciating the safety and flavor associated with it.",
+  "prediction_sha256": "72d7ea99b6086c3599fd357cc4ec75b2f0e4a66a2e18593e1099b5204558b046",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200186,
+  "usage": {
+    "completion_tokens": 110,
+    "prompt_tokens": 4946,
+    "prompt_tokens_details": null,
+    "total_tokens": 5056
+  }
+}

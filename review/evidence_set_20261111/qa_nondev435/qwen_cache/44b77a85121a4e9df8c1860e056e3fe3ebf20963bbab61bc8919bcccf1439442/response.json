@@ -1,0 +1,17 @@
+{
+  "body_sha256": "44b77a85121a4e9df8c1860e056e3fe3ebf20963bbab61bc8919bcccf1439442",
+  "finish_reason": "stop",
+  "latency_s": 9.003074583997659,
+  "prediction": "In one of the conversations, JakeWatson provides advice on maintaining muscle flexibility, which is particularly important for soccer players. Specifically, Jake mentions two key stretches that he loves: the hamstring stretch and the quad stretch. He suggests holding each of these stretches for approximately 30 seconds. These stretches are effective in helping to keep the muscles flexible, which is crucial for preventing injuries and enhancing performance during games. Additionally, Jake emphasizes the importance of hydration and quick refueling after intense games to aid in muscle recovery and readiness for the next session.",
+  "prediction_sha256": "f23825ac10b2a4ad7760689dee99a70e5ad0f69cf59ea9f662eb3f619eecaeef",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 269,
+  "usage": {
+    "completion_tokens": 109,
+    "prompt_tokens": 3876,
+    "prompt_tokens_details": null,
+    "total_tokens": 3985
+  }
+}

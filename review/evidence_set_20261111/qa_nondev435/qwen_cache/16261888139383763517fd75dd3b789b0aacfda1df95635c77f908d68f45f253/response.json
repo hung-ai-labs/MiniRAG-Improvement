@@ -1,0 +1,17 @@
+{
+  "body_sha256": "16261888139383763517fd75dd3b789b0aacfda1df95635c77f908d68f45f253",
+  "finish_reason": "stop",
+  "latency_s": 3.5843221670002094,
+  "prediction": "ChaeSong-hwa is planning a karaoke activity for this Saturday at 7 PM. LiHua expressed her interest in participating, and they both look forward to having a fun time singing together.",
+  "prediction_sha256": "9a5c3385a7a895ca582b9eb033f667f69dbf2486020de3c7c20f210f77e76e65",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100112,
+  "usage": {
+    "completion_tokens": 42,
+    "prompt_tokens": 4094,
+    "prompt_tokens_details": null,
+    "total_tokens": 4136
+  }
+}

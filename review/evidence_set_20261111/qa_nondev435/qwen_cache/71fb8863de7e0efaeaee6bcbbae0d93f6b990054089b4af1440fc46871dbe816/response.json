@@ -1,0 +1,17 @@
+{
+  "body_sha256": "71fb8863de7e0efaeaee6bcbbae0d93f6b990054089b4af1440fc46871dbe816",
+  "finish_reason": "stop",
+  "latency_s": 5.826866832998348,
+  "prediction": "Chae first suggested visiting the music festival in the morning during a conversation where they were discussing the local music festival that was taking place on a Saturday. Specifically, Chae mentioned this music festival is the one that LiHua is planning to attend along with WolfgangSchulz, and they are planning to perform there. However, Chae did not specify a particular morning time for visiting the festival; they only indicated it was happening on a Saturday.",
+  "prediction_sha256": "1e044407353677ac14dc996a8ca29d2b10067af8ebc28293f344acb5868bde4b",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 445,
+  "usage": {
+    "completion_tokens": 91,
+    "prompt_tokens": 5199,
+    "prompt_tokens_details": null,
+    "total_tokens": 5290
+  }
+}

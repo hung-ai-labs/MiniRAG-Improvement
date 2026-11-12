@@ -1,0 +1,17 @@
+{
+  "body_sha256": "e0a6b444049bf79c64987e7d2fd8ef865274a0f16564e0ea07150a0e78383279",
+  "finish_reason": "stop",
+  "latency_s": 13.96028945800208,
+  "prediction": "On July 2, 2026, WolfgangSchulz suggested dining at a Thai restaurant for dinner and shared his preferences regarding the dishes he would like to try. According to the conversation, Wolfgang expressed interest in ordering Pad Thai, which is a popular Thai dish consisting of stir-fried noodles served with a savory sauce made from tamarind, fish sauce, palm sugar, garlic, and chilies. Additionally, he mentioned wanting to try some spring rolls, which are a type of appetizer commonly found in Thai cuisine. Therefore, Wolfgang wants to try Pad Thai and spring rolls at the Thai restaurant planned for their dinner date.",
+  "prediction_sha256": "71ed10a0674ffad4d17e0159d36627850d4703cfbc496e746938f645d2e8d324",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200147,
+  "usage": {
+    "completion_tokens": 130,
+    "prompt_tokens": 5651,
+    "prompt_tokens_details": null,
+    "total_tokens": 5781
+  }
+}

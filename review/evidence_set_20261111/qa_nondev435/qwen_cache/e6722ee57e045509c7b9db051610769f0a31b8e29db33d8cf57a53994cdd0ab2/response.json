@@ -1,0 +1,17 @@
+{
+  "body_sha256": "e6722ee57e045509c7b9db051610769f0a31b8e29db33d8cf57a53994cdd0ab2",
+  "finish_reason": "stop",
+  "latency_s": 3.941227875002369,
+  "prediction": "During Wolfgang's trip to Hong Kong, he expressed an intention to purchase something special for Li Hua. Specifically, he mentioned looking for \"unique snacks and a souvenir.\" However, the exact items Wolfgang bought were not specified in the provided data. The information available indicates that Wolfgang was keen to find something meaningful for Li Hua while he was away, but the specifics of the gifts he purchased were not detailed.",
+  "prediction_sha256": "c620cded1becc4876ba2b968550cb6ccbf4630c98c6ae13d47054616845d4cdb",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100447,
+  "usage": {
+    "completion_tokens": 83,
+    "prompt_tokens": 4565,
+    "prompt_tokens_details": null,
+    "total_tokens": 4648
+  }
+}

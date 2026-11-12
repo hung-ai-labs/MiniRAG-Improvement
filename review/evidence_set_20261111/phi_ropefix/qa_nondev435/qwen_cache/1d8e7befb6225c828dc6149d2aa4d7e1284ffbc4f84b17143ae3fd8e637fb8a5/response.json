@@ -1,0 +1,17 @@
+{
+  "body_sha256": "1d8e7befb6225c828dc6149d2aa4d7e1284ffbc4f84b17143ae3fd8e637fb8a5",
+  "finish_reason": "stop",
+  "latency_s": 7.842100542002299,
+  "prediction": " Hailey Johnson begins her baking process early in the morning, typically at around 4 AM. This schedule ensures that all products are fresh for customers and the bakery's operations throughout the day. She mentioned this detail in a conversation with Li Hua, expressing her willingness to show Li Hua the baking process if Li Hua is interested in visiting the bakery during these early hours.\n\n```markdown\n## Baking Schedule\nHailey Johnson starts her baking at:\n- **Time:** 4 AM\n- **Purpose:** To ensure all products are fresh and ready for the day ahead.\n- **Offer for Visitors:** She invites customers like Li Hua to visit the bakery to witness the baking process and gain insight into how fresh products are prepared each day.\n```",
+  "prediction_sha256": "fc8d1749ec0513176ad206e6af3dfdb6d651767cbd4935390f0ccee08c13301a",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 200096,
+  "usage": {
+    "completion_tokens": 183,
+    "prompt_tokens": 5144,
+    "prompt_tokens_details": null,
+    "total_tokens": 5327
+  }
+}

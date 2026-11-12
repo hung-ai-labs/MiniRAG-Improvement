@@ -1,0 +1,17 @@
+{
+  "body_sha256": "f2146beeb6d052daa4a76c826cab5e4ae62ea4c97ec525ab5923c793902a0cd1",
+  "finish_reason": "stop",
+  "latency_s": 10.203560458001448,
+  "prediction": "Based on the conversation between Adam Smith and Li Hua, Li Hua suggests two types of flowers for the flower beds: lavender and coneflowers. These flowers were specifically mentioned in their discussion about the community garden renovation. Additionally, Li Hua recommends including some native plants, as she believes they are beneficial for attracting wildlife. While not explicitly named, native plants are implied to be one of the additional flower types they plan to incorporate into the garden.",
+  "prediction_sha256": "2c8cdef21267eda5d74ed4f6be0a248b15802eb2044ba0a43d04cf84577a3a91",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100110,
+  "usage": {
+    "completion_tokens": 93,
+    "prompt_tokens": 4422,
+    "prompt_tokens_details": null,
+    "total_tokens": 4515
+  }
+}

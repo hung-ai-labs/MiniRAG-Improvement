@@ -1,0 +1,17 @@
+{
+  "body_sha256": "8e6864a3191c966e93febe76e771ef4bec98fa26a0309916ee0ead63e20782b6",
+  "finish_reason": "stop",
+  "latency_s": 9.090352874998644,
+  "prediction": "Tamara mentions that Cersei's love, specifically for her children, played a significant role in shaping her character. When her children were lost, it pushed Cersei over the edge and led her to embrace cruelty to secure her power, indicating that her love for her children was deeply intertwined with her ambitions. This highlights how her emotional vulnerabilities and desires for familial bonds were overshadowed by her pursuit of power, leading to a complex and tragic journey.",
+  "prediction_sha256": "159f32104abd37550582216827c55480d496aba6d35041570ae79aae9196747d",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100316,
+  "usage": {
+    "completion_tokens": 90,
+    "prompt_tokens": 4870,
+    "prompt_tokens_details": null,
+    "total_tokens": 4960
+  }
+}

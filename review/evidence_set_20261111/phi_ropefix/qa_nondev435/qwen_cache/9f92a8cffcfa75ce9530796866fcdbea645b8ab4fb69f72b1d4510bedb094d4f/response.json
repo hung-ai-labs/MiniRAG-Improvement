@@ -1,0 +1,17 @@
+{
+  "body_sha256": "9f92a8cffcfa75ce9530796866fcdbea645b8ab4fb69f72b1d4510bedb094d4f",
+  "finish_reason": "stop",
+  "latency_s": 5.332933165998838,
+  "prediction": " Adam confirms that the plumber will arrive on January 6, 2026, at 10 AM. This information is derived from content ID 0 in the provided data tables. The conversation between AdamSmith and LiHua at the specified time discusses the confirmation of the plumber's visit and the coordination of LiHua's availability for the maintenance task.",
+  "prediction_sha256": "26477716d98acb9d264317ad36f8d151efc18dd6ef629656fd8bb1ea8b477e22",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 61,
+  "usage": {
+    "completion_tokens": 84,
+    "prompt_tokens": 5112,
+    "prompt_tokens_details": null,
+    "total_tokens": 5196
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "7989e3ad8e6aabf74ebefd45d4cfca3c7f72967956ec589751987070d2193be7",
+  "finish_reason": "stop",
+  "latency_s": 11.596527375000733,
+  "prediction": "In the conversation with Li Hua, Wolfgang Schulz proposes a couple of new hobbies that he hopes to engage in during the upcoming year. Specifically, he mentions focusing more on his drumming skills, which he hasn't thought about in a while. Additionally, he hints at revisiting some old favorites and getting back into playing music, suggesting that they should plan some jam sessions together. This proposal indicates that Wolfgang is not only interested in improving his existing musical skills but also in engaging in more recreational activities involving music, such as jamming with friends.",
+  "prediction_sha256": "0f1057a6b12fa0fea546cb468bf349003f6be26ed969e7660d36e57181108b5f",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200159,
+  "usage": {
+    "completion_tokens": 111,
+    "prompt_tokens": 4561,
+    "prompt_tokens_details": null,
+    "total_tokens": 4672
+  }
+}

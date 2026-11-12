@@ -1,0 +1,17 @@
+{
+  "body_sha256": "bf12d7af4f2f8bf3a4667e16d475244cd7718e00537a15bc49bc99b9e5c08961",
+  "finish_reason": "stop",
+  "latency_s": 9.573819375000312,
+  "prediction": "EmilyBurnett describes the \"Man in Black\" as a complex character in Westworld who is driven by a search for deeper meaning and fulfillment, influenced by his past. She explains that his primary motivation stems from his desire to find truth and experiences that push boundaries. This pursuit is tied closely to his unresolved past issues, making him a character on a personal journey within the confines of the show.",
+  "prediction_sha256": "d34e80c764c1e491c22af6d2afe7e69d58a3e1692dbcc3b0da3196de157f8e37",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100219,
+  "usage": {
+    "completion_tokens": 80,
+    "prompt_tokens": 4433,
+    "prompt_tokens_details": null,
+    "total_tokens": 4513
+  }
+}

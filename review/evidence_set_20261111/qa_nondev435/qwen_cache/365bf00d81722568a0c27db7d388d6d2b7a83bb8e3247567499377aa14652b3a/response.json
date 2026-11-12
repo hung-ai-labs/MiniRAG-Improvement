@@ -1,0 +1,17 @@
+{
+  "body_sha256": "365bf00d81722568a0c27db7d388d6d2b7a83bb8e3247567499377aa14652b3a",
+  "finish_reason": "stop",
+  "latency_s": 9.024742999998125,
+  "prediction": "JakeWatson recommends several exercises to improve leg strength, which he suggests can help prevent injuries and enhance performance on the field. Specifically, he mentions squats and lunges as being particularly beneficial. Additionally, he advises including balance exercises like single-leg stands to further strengthen the legs and improve overall stability. These exercises are simple yet effective and can be incorporated into a routine, starting with a few reps and gradually increasing as one gets stronger.",
+  "prediction_sha256": "2df546a93ae3fd6579d90280c0f6d087930cbbe5c40ab103580ea2cbe5599ccc",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100268,
+  "usage": {
+    "completion_tokens": 88,
+    "prompt_tokens": 3540,
+    "prompt_tokens_details": null,
+    "total_tokens": 3628
+  }
+}

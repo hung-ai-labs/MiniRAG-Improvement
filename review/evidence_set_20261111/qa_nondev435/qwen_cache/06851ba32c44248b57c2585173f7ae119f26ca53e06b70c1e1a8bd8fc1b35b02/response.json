@@ -1,0 +1,17 @@
+{
+  "body_sha256": "06851ba32c44248b57c2585173f7ae119f26ca53e06b70c1e1a8bd8fc1b35b02",
+  "finish_reason": "stop",
+  "latency_s": 11.18820954200055,
+  "prediction": "In one of the conversations, Hailey Johnson shared details about a new pastry she had introduced, which she believes provides a good balance of flavors. However, the specific name of this new pastry is not explicitly mentioned in the provided data. Hailey Johnson expressed that the new pastry is a success and that she plans to continue experimenting with flavors for her customers. She recommended it as a \"good balance\" between less sweet and maintaining a pleasant level of sweetness. Without the exact name being given, we cannot determine the specific new flavor cheese pastry Hailey Johnson has introduced.",
+  "prediction_sha256": "f802ffed215612c996ef676443e01ad743296946856be07d8c1264ae98edad90",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100131,
+  "usage": {
+    "completion_tokens": 114,
+    "prompt_tokens": 3989,
+    "prompt_tokens_details": null,
+    "total_tokens": 4103
+  }
+}

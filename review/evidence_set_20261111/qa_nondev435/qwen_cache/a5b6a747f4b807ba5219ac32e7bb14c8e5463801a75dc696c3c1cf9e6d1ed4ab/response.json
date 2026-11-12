@@ -1,0 +1,17 @@
+{
+  "body_sha256": "a5b6a747f4b807ba5219ac32e7bb14c8e5463801a75dc696c3c1cf9e6d1ed4ab",
+  "finish_reason": "stop",
+  "latency_s": 12.823546292001993,
+  "prediction": "Jasper mentions a match against Manchester United in the conversation, where he discusses the excitement of watching Liverpool versus Manchester United. However, the specific match that Jasper is referring to as a recent comeback against Manchester City is the Champions League comeback mentioned earlier in the text, where Manchester City scored two goals in stoppage time to beat Manchester City in 2022. This comeback was particularly dramatic given that Manchester City had been down by two goals at halftime.",
+  "prediction_sha256": "7c14b26e2cd156d709dfd2f8952352ebff284d702af11d3d777f46399d93efe7",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200302,
+  "usage": {
+    "completion_tokens": 92,
+    "prompt_tokens": 5014,
+    "prompt_tokens_details": null,
+    "total_tokens": 5106
+  }
+}

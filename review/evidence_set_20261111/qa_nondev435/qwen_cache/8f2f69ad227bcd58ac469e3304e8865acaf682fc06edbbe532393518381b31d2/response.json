@@ -1,0 +1,17 @@
+{
+  "body_sha256": "8f2f69ad227bcd58ac469e3304e8865acaf682fc06edbbe532393518381b31d2",
+  "finish_reason": "stop",
+  "latency_s": 6.423518374998821,
+  "prediction": "No, the time interval between LiHua confirming receipt of the curtains (March 9th) and Adam asking if the curtains are all good (March 12th) is less than 3 days. Specifically, it is 3 days, which is within the 3-day threshold mentioned. Therefore, the time interval between these two events does not exceed the specified period.",
+  "prediction_sha256": "e26ee4166c280bfa22e22a3a6bc08e4ba12833fbba37179bd2351bdf27ab48b2",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100043,
+  "usage": {
+    "completion_tokens": 78,
+    "prompt_tokens": 4331,
+    "prompt_tokens_details": null,
+    "total_tokens": 4409
+  }
+}

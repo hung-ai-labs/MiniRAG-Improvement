@@ -1,0 +1,17 @@
+{
+  "body_sha256": "0c75238459bb5c49d7fbf777de8ff35fbddf2292e835a6766c90a4ace663e3f6",
+  "finish_reason": "stop",
+  "latency_s": 6.928199666999717,
+  "prediction": "In a conversation with LiHua, Adam Smith provides some guidelines regarding hosting friends over. Specifically, Adam mentions, \"Having friends over occasionally is fine, just try to keep the gatherings reasonable.\" This indicates that while Adam approves of occasional social gatherings with friends, he advises moderation to maintain a balanced living environment. Additionally, he emphasizes that the frequency and size of these gatherings should be kept within acceptable limits to avoid disruptions.",
+  "prediction_sha256": "b21f36d150bc9d57e51a445309c1c6b4c70d52a2aa9fe654f6181d8185d68704",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100058,
+  "usage": {
+    "completion_tokens": 85,
+    "prompt_tokens": 4474,
+    "prompt_tokens_details": null,
+    "total_tokens": 4559
+  }
+}

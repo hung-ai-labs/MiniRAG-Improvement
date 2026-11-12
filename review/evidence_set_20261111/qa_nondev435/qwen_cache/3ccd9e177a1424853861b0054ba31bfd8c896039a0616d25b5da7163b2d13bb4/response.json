@@ -1,0 +1,17 @@
+{
+  "body_sha256": "3ccd9e177a1424853861b0054ba31bfd8c896039a0616d25b5da7163b2d13bb4",
+  "finish_reason": "stop",
+  "latency_s": 7.519585499998357,
+  "prediction": "According to the conversation, ChaeSong-hwa reminded LiHua about the community medical knowledge lecture, which is scheduled for the evening of April 11th at 7 PM. This is indicated by the timestamp \"20260411_16:00\" in the first message.",
+  "prediction_sha256": "1593f53a8011ea5f60b08933a06d40e8005592386292823790a853a080f11c5b",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 106,
+  "usage": {
+    "completion_tokens": 66,
+    "prompt_tokens": 4147,
+    "prompt_tokens_details": null,
+    "total_tokens": 4213
+  }
+}

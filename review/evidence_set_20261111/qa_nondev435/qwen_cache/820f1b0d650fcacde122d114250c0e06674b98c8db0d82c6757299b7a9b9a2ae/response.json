@@ -1,0 +1,17 @@
+{
+  "body_sha256": "820f1b0d650fcacde122d114250c0e06674b98c8db0d82c6757299b7a9b9a2ae",
+  "finish_reason": "stop",
+  "latency_s": 5.694827458002692,
+  "prediction": "In the conversation, Chae first suggested visiting the music festival in the morning. Specifically, this suggestion was made in a context where the local music festival was being discussed and plans were being laid out. This morning visit was part of a broader plan involving WolfgangSchulz and LiHua, where they were considering meeting up around 2 PM to check out the food stalls before the crowds hit, and possibly catching some live music later. However, the precise morning time Chae initially proposed for visiting the festival was not explicitly stated in the provided data.",
+  "prediction_sha256": "95364cf06df72ee8840a75faa2beffe176d35747807abe1426e774cdfb914955",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100445,
+  "usage": {
+    "completion_tokens": 112,
+    "prompt_tokens": 5286,
+    "prompt_tokens_details": null,
+    "total_tokens": 5398
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "e34238600ccd6330a26e3f90050a7ec93ccc60ccb1d0c929b0f18cd9c3c57b3c",
+  "finish_reason": "stop",
+  "latency_s": 6.435356792000675,
+  "prediction": "Based on the conversation between Li Hua and Adam Smith, Li Hua can indeed hang his new artwork on the walls without damaging them. Adam Smith informs Li Hua that he can hang the artwork as long as he uses removable hooks, ensuring that the pieces are safely displayed.",
+  "prediction_sha256": "9822d904efb649bee643b44bd33008fcf1a19bfb1bc80390074fad3f08dd60c2",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200071,
+  "usage": {
+    "completion_tokens": 57,
+    "prompt_tokens": 4460,
+    "prompt_tokens_details": null,
+    "total_tokens": 4517
+  }
+}

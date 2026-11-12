@@ -1,0 +1,17 @@
+{
+  "body_sha256": "dfa437a6dd573382d58770db21838bc0ffd44683f617391a7a9872a82fdc7cbb",
+  "finish_reason": "stop",
+  "latency_s": 4.912635499997123,
+  "prediction": "According to the conversation, Li Hua first checks in with Adam about the move-in details on January 5th, 2026, at 14:00 (2:00 PM). This initial inquiry is made to confirm a good time for Li Hua to visit the new place.",
+  "prediction_sha256": "11986f5fafa12b9944bb24f5067d02a20ac1a275a3d2da32eb585bc22fb55087",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 55,
+  "usage": {
+    "completion_tokens": 65,
+    "prompt_tokens": 4187,
+    "prompt_tokens_details": null,
+    "total_tokens": 4252
+  }
+}

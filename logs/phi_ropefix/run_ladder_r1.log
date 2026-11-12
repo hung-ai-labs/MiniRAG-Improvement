@@ -1,0 +1,913 @@
+== capture (dev200)
+capture dev200/baseline: complete (200)
+capture dev200/c0: complete (200)
+== capture (nondev)
+python-dotenv could not parse statement starting at line 4
+python-dotenv could not parse statement starting at line 4
+python-dotenv could not parse statement starting at line 4
+python-dotenv could not parse statement starting at line 4
+python-dotenv could not parse statement starting at line 6
+python-dotenv could not parse statement starting at line 7
+python-dotenv could not parse statement starting at line 6
+python-dotenv could not parse statement starting at line 6
+python-dotenv could not parse statement starting at line 8
+python-dotenv could not parse statement starting at line 6
+python-dotenv could not parse statement starting at line 7
+python-dotenv could not parse statement starting at line 7
+python-dotenv could not parse statement starting at line 9
+python-dotenv could not parse statement starting at line 8
+python-dotenv could not parse statement starting at line 7
+python-dotenv could not parse statement starting at line 8
+python-dotenv could not parse statement starting at line 9
+python-dotenv could not parse statement starting at line 8
+python-dotenv could not parse statement starting at line 9
+python-dotenv could not parse statement starting at line 9
+INFO:nano-vectordb:Load (2296, 384) data
+INFO:nano-vectordb:Init {'embedding_dim': 384, 'metric': 'cosine', 'storage_file': '/var/folders/1w/ww5v892s6xn284xgnjq4zyym0000gn/T/evidence-set-pool-4djdb10h/vdb_entities.json'} 2296 data
+INFO:nano-vectordb:Load (2296, 384) data
+INFO:nano-vectordb:Init {'embedding_dim': 384, 'metric': 'cosine', 'storage_file': '/var/folders/1w/ww5v892s6xn284xgnjq4zyym0000gn/T/evidence-set-pool-4djdb10h/vdb_entities_name.json'} 2296 data
+INFO:nano-vectordb:Load (2296, 384) data
+INFO:nano-vectordb:Init {'embedding_dim': 384, 'metric': 'cosine', 'storage_file': '/var/folders/1w/ww5v892s6xn284xgnjq4zyym0000gn/T/evidence-set-pool-hhijo71k/vdb_entities.json'} 2296 data
+INFO:nano-vectordb:Load (2117, 384) data
+INFO:nano-vectordb:Init {'embedding_dim': 384, 'metric': 'cosine', 'storage_file': '/var/folders/1w/ww5v892s6xn284xgnjq4zyym0000gn/T/evidence-set-pool-4djdb10h/vdb_relationships.json'} 2117 data
+INFO:nano-vectordb:Load (2296, 384) data
+INFO:nano-vectordb:Init {'embedding_dim': 384, 'metric': 'cosine', 'storage_file': '/var/folders/1w/ww5v892s6xn284xgnjq4zyym0000gn/T/evidence-set-pool-rij0qjf3/vdb_entities.json'} 2296 data
+INFO:nano-vectordb:Load (516, 384) data
+INFO:nano-vectordb:Load (2296, 384) data
+INFO:nano-vectordb:Load (2296, 384) data
+INFO:nano-vectordb:Init {'embedding_dim': 384, 'metric': 'cosine', 'storage_file': '/var/folders/1w/ww5v892s6xn284xgnjq4zyym0000gn/T/evidence-set-pool-4djdb10h/vdb_chunks.json'} 516 data
+INFO:nano-vectordb:Init {'embedding_dim': 384, 'metric': 'cosine', 'storage_file': '/var/folders/1w/ww5v892s6xn284xgnjq4zyym0000gn/T/evidence-set-pool-hhijo71k/vdb_entities_name.json'} 2296 data
+INFO:nano-vectordb:Init {'embedding_dim': 384, 'metric': 'cosine', 'storage_file': '/var/folders/1w/ww5v892s6xn284xgnjq4zyym0000gn/T/evidence-set-pool-ldxoz_p4/vdb_entities.json'} 2296 data
+INFO:nano-vectordb:Load (2117, 384) data
+INFO:nano-vectordb:Init {'embedding_dim': 384, 'metric': 'cosine', 'storage_file': '/var/folders/1w/ww5v892s6xn284xgnjq4zyym0000gn/T/evidence-set-pool-hhijo71k/vdb_relationships.json'} 2117 data
+INFO:nano-vectordb:Load (2296, 384) data
+INFO:nano-vectordb:Load (516, 384) data
+INFO:nano-vectordb:Init {'embedding_dim': 384, 'metric': 'cosine', 'storage_file': '/var/folders/1w/ww5v892s6xn284xgnjq4zyym0000gn/T/evidence-set-pool-hhijo71k/vdb_chunks.json'} 516 data
+INFO:nano-vectordb:Init {'embedding_dim': 384, 'metric': 'cosine', 'storage_file': '/var/folders/1w/ww5v892s6xn284xgnjq4zyym0000gn/T/evidence-set-pool-rij0qjf3/vdb_entities_name.json'} 2296 data
+INFO:nano-vectordb:Load (2296, 384) data
+INFO:nano-vectordb:Init {'embedding_dim': 384, 'metric': 'cosine', 'storage_file': '/var/folders/1w/ww5v892s6xn284xgnjq4zyym0000gn/T/evidence-set-pool-ldxoz_p4/vdb_entities_name.json'} 2296 data
+INFO:nano-vectordb:Load (2117, 384) data
+INFO:nano-vectordb:Init {'embedding_dim': 384, 'metric': 'cosine', 'storage_file': '/var/folders/1w/ww5v892s6xn284xgnjq4zyym0000gn/T/evidence-set-pool-rij0qjf3/vdb_relationships.json'} 2117 data
+INFO:nano-vectordb:Load (2117, 384) data
+INFO:nano-vectordb:Load (516, 384) data
+INFO:nano-vectordb:Init {'embedding_dim': 384, 'metric': 'cosine', 'storage_file': '/var/folders/1w/ww5v892s6xn284xgnjq4zyym0000gn/T/evidence-set-pool-ldxoz_p4/vdb_relationships.json'} 2117 data
+INFO:nano-vectordb:Init {'embedding_dim': 384, 'metric': 'cosine', 'storage_file': '/var/folders/1w/ww5v892s6xn284xgnjq4zyym0000gn/T/evidence-set-pool-rij0qjf3/vdb_chunks.json'} 516 data
+INFO:nano-vectordb:Load (516, 384) data
+INFO:nano-vectordb:Init {'embedding_dim': 384, 'metric': 'cosine', 'storage_file': '/var/folders/1w/ww5v892s6xn284xgnjq4zyym0000gn/T/evidence-set-pool-ldxoz_p4/vdb_chunks.json'} 516 data
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+{"split": "nondev", "shard": 1, "question_index": 10, "total": 435}
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+{"split": "nondev", "shard": 3, "question_index": 20, "total": 435}
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+{"split": "nondev", "shard": 1, "question_index": 30, "total": 435}
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+{"split": "nondev", "shard": 3, "question_index": 40, "total": 435}
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+{"split": "nondev", "shard": 1, "question_index": 50, "total": 435}
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+{"split": "nondev", "shard": 3, "question_index": 60, "total": 435}
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+{"split": "nondev", "shard": 1, "question_index": 70, "total": 435}
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+{"split": "nondev", "shard": 3, "question_index": 80, "total": 435}
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+{"split": "nondev", "shard": 1, "question_index": 90, "total": 435}
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+{"split": "nondev", "shard": 3, "question_index": 100, "total": 435}
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+{"split": "nondev", "shard": 1, "question_index": 110, "total": 435}
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+{"split": "nondev", "shard": 3, "question_index": 120, "total": 435}
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+{"split": "nondev", "shard": 1, "question_index": 130, "total": 435}
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+{"split": "nondev", "shard": 3, "question_index": 140, "total": 435}
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/Users/hunggoodboy/Documents/HTTM-TK/MiniRAG-HTTM/reproduce/evidence_set/pool.py", line 230, in <module>
+    asyncio.run(run(a.limit, a.split, (k, n), a.profile))
+    ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/asyncio/runners.py", line 195, in run
+    return runner.run(main)
+           ~~~~~~~~~~^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/asyncio/runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/asyncio/base_events.py", line 725, in run_until_complete
+    return future.result()
+           ~~~~~~~~~~~~~^^
+  File "/Users/hunggoodboy/Documents/HTTM-TK/MiniRAG-HTTM/reproduce/evidence_set/pool.py", line 174, in run
+    ctx = await rag.aquery(q, QueryParam(mode='mini', top_k=60, only_need_context=True))
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hunggoodboy/Documents/HTTM-TK/MiniRAG-HTTM/minirag/minirag.py", line 571, in aquery
+    response = await minirag_query(
+               ^^^^^^^^^^^^^^^^^^^^
+    ...<10 lines>...
+    )
+    ^
+  File "/Users/hunggoodboy/Documents/HTTM-TK/MiniRAG-HTTM/minirag/operate.py", line 2115, in minirag_query
+    type_keywords = keywords_data.get("answer_type_keywords", [])
+                    ^^^^^^^^^^^^^^^^^
+AttributeError: 'list' object has no attribute 'get'
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+{"split": "nondev", "shard": 1, "question_index": 150, "total": 435}
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+{"split": "nondev", "shard": 1, "question_index": 170, "total": 435}
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+{"split": "nondev", "shard": 1, "question_index": 190, "total": 435}
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+{"split": "nondev", "shard": 1, "question_index": 210, "total": 435}
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/Users/hunggoodboy/Documents/HTTM-TK/MiniRAG-HTTM/reproduce/evidence_set/pool.py", line 230, in <module>
+    ap.add_argument('--profile', choices=('baseline', 'c0'), default='baseline')
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/asyncio/runners.py", line 195, in run
+    return runner.run(main)
+           ~~~~~~~~~~^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/asyncio/runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/asyncio/base_events.py", line 725, in run_until_complete
+    return future.result()
+           ~~~~~~~~~~~~~^^
+  File "/Users/hunggoodboy/Documents/HTTM-TK/MiniRAG-HTTM/reproduce/evidence_set/pool.py", line 174, in run
+    ctx = await rag.aquery(q, QueryParam(mode='mini', top_k=60, only_need_context=True))
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hunggoodboy/Documents/HTTM-TK/MiniRAG-HTTM/minirag/minirag.py", line 571, in aquery
+    response = await minirag_query(
+               ^^^^^^^^^^^^^^^^^^^^
+    ...<10 lines>...
+    )
+    ^
+  File "/Users/hunggoodboy/Documents/HTTM-TK/MiniRAG-HTTM/minirag/operate.py", line 2115, in minirag_query
+    # json_repair turns some malformed replies (Phi-3.5) into a list; upstream then crashed with
+AttributeError: 'list' object has no attribute 'get'
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/Users/hunggoodboy/Documents/HTTM-TK/MiniRAG-HTTM/reproduce/evidence_set/pool.py", line 230, in <module>
+    ap.add_argument('--profile', choices=('baseline', 'c0'), default='baseline')
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/asyncio/runners.py", line 195, in run
+    return runner.run(main)
+           ~~~~~~~~~~^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/asyncio/runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/asyncio/base_events.py", line 725, in run_until_complete
+    return future.result()
+           ~~~~~~~~~~~~~^^
+  File "/Users/hunggoodboy/Documents/HTTM-TK/MiniRAG-HTTM/reproduce/evidence_set/pool.py", line 174, in run
+    ctx = await rag.aquery(q, QueryParam(mode='mini', top_k=60, only_need_context=True))
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hunggoodboy/Documents/HTTM-TK/MiniRAG-HTTM/minirag/minirag.py", line 571, in aquery
+    response = await minirag_query(
+               ^^^^^^^^^^^^^^^^^^^^
+    ...<10 lines>...
+    )
+    ^
+  File "/Users/hunggoodboy/Documents/HTTM-TK/MiniRAG-HTTM/minirag/operate.py", line 2115, in minirag_query
+    # json_repair turns some malformed replies (Phi-3.5) into a list; upstream then crashed with
+AttributeError: 'list' object has no attribute 'get'
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/Users/hunggoodboy/Documents/HTTM-TK/MiniRAG-HTTM/reproduce/evidence_set/pipeline.py", line 400, in <module>
+    capture(a.split)
+    ~~~~~~~^^^^^^^^^
+  File "/Users/hunggoodboy/Documents/HTTM-TK/MiniRAG-HTTM/reproduce/evidence_set/pipeline.py", line 110, in capture
+    assert all(c == 0 for c in codes), f'capture {split}/{profile} failed: {codes}'
+           ~~~^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: capture nondev/baseline failed: [0, 1, 1, 1]
+== step failed (attempt 1), retrying in 60 s: .venv/bin/python -m reproduce.evidence_set.pipeline all --split nondev --rounds 1 --workers 16
+== capture (nondev)
+python-dotenv could not parse statement starting at line 4
+python-dotenv could not parse statement starting at line 4
+python-dotenv could not parse statement starting at line 4
+python-dotenv could not parse statement starting at line 4
+python-dotenv could not parse statement starting at line 6
+python-dotenv could not parse statement starting at line 6
+python-dotenv could not parse statement starting at line 7
+python-dotenv could not parse statement starting at line 6
+python-dotenv could not parse statement starting at line 7
+python-dotenv could not parse statement starting at line 8
+python-dotenv could not parse statement starting at line 7
+python-dotenv could not parse statement starting at line 8
+python-dotenv could not parse statement starting at line 6
+python-dotenv could not parse statement starting at line 9
+python-dotenv could not parse statement starting at line 8
+python-dotenv could not parse statement starting at line 7
+python-dotenv could not parse statement starting at line 9
+python-dotenv could not parse statement starting at line 8
+python-dotenv could not parse statement starting at line 9
+python-dotenv could not parse statement starting at line 9
+INFO:nano-vectordb:Load (2296, 384) data
+INFO:nano-vectordb:Init {'embedding_dim': 384, 'metric': 'cosine', 'storage_file': '/var/folders/1w/ww5v892s6xn284xgnjq4zyym0000gn/T/evidence-set-pool-w32pgfl_/vdb_entities.json'} 2296 data
+INFO:nano-vectordb:Load (2296, 384) data
+INFO:nano-vectordb:Init {'embedding_dim': 384, 'metric': 'cosine', 'storage_file': '/var/folders/1w/ww5v892s6xn284xgnjq4zyym0000gn/T/evidence-set-pool-on_8soy6/vdb_entities.json'} 2296 data
+INFO:nano-vectordb:Load (2296, 384) data
+INFO:nano-vectordb:Init {'embedding_dim': 384, 'metric': 'cosine', 'storage_file': '/var/folders/1w/ww5v892s6xn284xgnjq4zyym0000gn/T/evidence-set-pool-4bsjuvh8/vdb_entities.json'} 2296 data
+INFO:nano-vectordb:Load (2296, 384) data
+INFO:nano-vectordb:Load (2296, 384) data
+INFO:nano-vectordb:Init {'embedding_dim': 384, 'metric': 'cosine', 'storage_file': '/var/folders/1w/ww5v892s6xn284xgnjq4zyym0000gn/T/evidence-set-pool-w32pgfl_/vdb_entities_name.json'} 2296 data
+INFO:nano-vectordb:Init {'embedding_dim': 384, 'metric': 'cosine', 'storage_file': '/var/folders/1w/ww5v892s6xn284xgnjq4zyym0000gn/T/evidence-set-pool-j_8hvw64/vdb_entities.json'} 2296 data
+INFO:nano-vectordb:Load (2296, 384) data
+INFO:nano-vectordb:Init {'embedding_dim': 384, 'metric': 'cosine', 'storage_file': '/var/folders/1w/ww5v892s6xn284xgnjq4zyym0000gn/T/evidence-set-pool-on_8soy6/vdb_entities_name.json'} 2296 data
+INFO:nano-vectordb:Load (2117, 384) data
+INFO:nano-vectordb:Init {'embedding_dim': 384, 'metric': 'cosine', 'storage_file': '/var/folders/1w/ww5v892s6xn284xgnjq4zyym0000gn/T/evidence-set-pool-w32pgfl_/vdb_relationships.json'} 2117 data
+INFO:nano-vectordb:Load (2296, 384) data
+INFO:nano-vectordb:Init {'embedding_dim': 384, 'metric': 'cosine', 'storage_file': '/var/folders/1w/ww5v892s6xn284xgnjq4zyym0000gn/T/evidence-set-pool-4bsjuvh8/vdb_entities_name.json'} 2296 data
+INFO:nano-vectordb:Load (2117, 384) data
+INFO:nano-vectordb:Init {'embedding_dim': 384, 'metric': 'cosine', 'storage_file': '/var/folders/1w/ww5v892s6xn284xgnjq4zyym0000gn/T/evidence-set-pool-on_8soy6/vdb_relationships.json'} 2117 data
+INFO:nano-vectordb:Load (516, 384) data
+INFO:nano-vectordb:Init {'embedding_dim': 384, 'metric': 'cosine', 'storage_file': '/var/folders/1w/ww5v892s6xn284xgnjq4zyym0000gn/T/evidence-set-pool-w32pgfl_/vdb_chunks.json'} 516 data
+INFO:nano-vectordb:Load (2296, 384) data
+INFO:nano-vectordb:Init {'embedding_dim': 384, 'metric': 'cosine', 'storage_file': '/var/folders/1w/ww5v892s6xn284xgnjq4zyym0000gn/T/evidence-set-pool-j_8hvw64/vdb_entities_name.json'} 2296 data
+INFO:nano-vectordb:Load (516, 384) data
+INFO:nano-vectordb:Init {'embedding_dim': 384, 'metric': 'cosine', 'storage_file': '/var/folders/1w/ww5v892s6xn284xgnjq4zyym0000gn/T/evidence-set-pool-on_8soy6/vdb_chunks.json'} 516 data
+INFO:nano-vectordb:Load (2117, 384) data
+INFO:nano-vectordb:Init {'embedding_dim': 384, 'metric': 'cosine', 'storage_file': '/var/folders/1w/ww5v892s6xn284xgnjq4zyym0000gn/T/evidence-set-pool-4bsjuvh8/vdb_relationships.json'} 2117 data
+INFO:nano-vectordb:Load (516, 384) data
+INFO:nano-vectordb:Init {'embedding_dim': 384, 'metric': 'cosine', 'storage_file': '/var/folders/1w/ww5v892s6xn284xgnjq4zyym0000gn/T/evidence-set-pool-4bsjuvh8/vdb_chunks.json'} 516 data
+INFO:nano-vectordb:Load (2117, 384) data
+INFO:nano-vectordb:Init {'embedding_dim': 384, 'metric': 'cosine', 'storage_file': '/var/folders/1w/ww5v892s6xn284xgnjq4zyym0000gn/T/evidence-set-pool-j_8hvw64/vdb_relationships.json'} 2117 data
+INFO:nano-vectordb:Load (516, 384) data
+INFO:nano-vectordb:Init {'embedding_dim': 384, 'metric': 'cosine', 'storage_file': '/var/folders/1w/ww5v892s6xn284xgnjq4zyym0000gn/T/evidence-set-pool-j_8hvw64/vdb_chunks.json'} 516 data
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+{"split": "nondev", "shard": 1, "question_index": 230, "total": 435}
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+{"split": "nondev", "shard": 3, "question_index": 160, "total": 435}
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+{"split": "nondev", "shard": 1, "question_index": 250, "total": 435}
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+{"split": "nondev", "shard": 3, "question_index": 180, "total": 435}
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+{"split": "nondev", "shard": 1, "question_index": 270, "total": 435}
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+{"split": "nondev", "shard": 3, "question_index": 200, "total": 435}
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+{"split": "nondev", "shard": 1, "question_index": 290, "total": 435}
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+{"split": "nondev", "shard": 3, "question_index": 220, "total": 435}
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+{"split": "nondev", "shard": 1, "question_index": 310, "total": 435}
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+{"split": "nondev", "shard": 3, "question_index": 240, "total": 435}
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+{"split": "nondev", "shard": 1, "question_index": 330, "total": 435}
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+{"split": "nondev", "shard": 3, "question_index": 260, "total": 435}
+{"split": "nondev", "shard": 1, "question_index": 350, "total": 435}
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+{"split": "nondev", "shard": 3, "question_index": 280, "total": 435}
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+{"split": "nondev", "shard": 1, "question_index": 370, "total": 435}
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+{"split": "nondev", "shard": 3, "question_index": 300, "total": 435}
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+{"split": "nondev", "shard": 1, "question_index": 390, "total": 435}
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+{"split": "nondev", "shard": 3, "question_index": 320, "total": 435}
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+{"split": "nondev", "shard": 1, "question_index": 410, "total": 435}
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+{"split": "nondev", "shard": 3, "question_index": 340, "total": 435}
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+{"split": "nondev", "shard": 1, "question_index": 430, "total": 435}
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+{"split": "nondev", "shard": 3, "question_index": 360, "total": 435}
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+{"split": "nondev", "shard": 3, "question_index": 380, "total": 435}
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+{"split": "nondev", "shard": 3, "question_index": 400, "total": 435}
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+{"split": "nondev", "shard": 3, "question_index": 420, "total": 435}
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://hung-ai-labs--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
+python-dotenv could not parse statement starting at line 4
+python-dotenv could not parse statement starting at line 4
+python-dotenv could not parse statement starting at line 4
+python-dotenv could not parse statement starting at line 4
+python-dotenv could not parse statement starting at line 6
+python-dotenv could not parse statement starting at line 6
+python-dotenv could not parse statement starting at line 7
+python-dotenv could not parse statement starting at line 7
+python-dotenv could not parse statement starting at line 6
+python-dotenv could not parse statement starting at line 6
+python-dotenv could not parse statement starting at line 8
+python-dotenv could not parse statement starting at line 8
+python-dotenv could not parse statement starting at line 7
+python-dotenv could not parse statement starting at line 9
+python-dotenv could not parse statement starting at line 7
+python-dotenv could not parse statement starting at line 9
+python-dotenv could not parse statement starting at line 8
+python-dotenv could not parse statement starting at line 8
+python-dotenv could not parse statement starting at line 9
+python-dotenv could not parse statement starting at line 9
+INFO:nano-vectordb:Load (2296, 384) data
+INFO:nano-vectordb:Load (2296, 384) data
+INFO:nano-vectordb:Load (2296, 384) data
+INFO:nano-vectordb:Init {'embedding_dim': 384, 'metric': 'cosine', 'storage_file': '/var/folders/1w/ww5v892s6xn284xgnjq4zyym0000gn/T/evidence-set-pool-aq3c_dvu/vdb_entities.json'} 2296 data
+INFO:nano-vectordb:Init {'embedding_dim': 384, 'metric': 'cosine', 'storage_file': '/var/folders/1w/ww5v892s6xn284xgnjq4zyym0000gn/T/evidence-set-pool-o7o5hq8i/vdb_entities.json'} 2296 data
+INFO:nano-vectordb:Init {'embedding_dim': 384, 'metric': 'cosine', 'storage_file': '/var/folders/1w/ww5v892s6xn284xgnjq4zyym0000gn/T/evidence-set-pool-tju9tk7r/vdb_entities.json'} 2296 data
+INFO:nano-vectordb:Load (2296, 384) data
+INFO:nano-vectordb:Init {'embedding_dim': 384, 'metric': 'cosine', 'storage_file': '/var/folders/1w/ww5v892s6xn284xgnjq4zyym0000gn/T/evidence-set-pool-5i_7hkpz/vdb_entities.json'} 2296 data
+INFO:nano-vectordb:Load (2296, 384) data
+INFO:nano-vectordb:Init {'embedding_dim': 384, 'metric': 'cosine', 'storage_file': '/var/folders/1w/ww5v892s6xn284xgnjq4zyym0000gn/T/evidence-set-pool-o7o5hq8i/vdb_entities_name.json'} 2296 data
+INFO:nano-vectordb:Load (2296, 384) data
+INFO:nano-vectordb:Init {'embedding_dim': 384, 'metric': 'cosine', 'storage_file': '/var/folders/1w/ww5v892s6xn284xgnjq4zyym0000gn/T/evidence-set-pool-aq3c_dvu/vdb_entities_name.json'} 2296 data
+INFO:nano-vectordb:Load (2296, 384) data
+INFO:nano-vectordb:Init {'embedding_dim': 384, 'metric': 'cosine', 'storage_file': '/var/folders/1w/ww5v892s6xn284xgnjq4zyym0000gn/T/evidence-set-pool-tju9tk7r/vdb_entities_name.json'} 2296 data
+INFO:nano-vectordb:Load (2296, 384) data
+INFO:nano-vectordb:Init {'embedding_dim': 384, 'metric': 'cosine', 'storage_file': '/var/folders/1w/ww5v892s6xn284xgnjq4zyym0000gn/T/evidence-set-pool-5i_7hkpz/vdb_entities_name.json'} 2296 data
+INFO:nano-vectordb:Load (2117, 384) data
+INFO:nano-vectordb:Init {'embedding_dim': 384, 'metric': 'cosine', 'storage_file': '/var/folders/1w/ww5v892s6xn284xgnjq4zyym0000gn/T/evidence-set-pool-o7o5hq8i/vdb_relationships.json'} 2117 data
+INFO:nano-vectordb:Load (2117, 384) data
+INFO:nano-vectordb:Init {'embedding_dim': 384, 'metric': 'cosine', 'storage_file': '/var/folders/1w/ww5v892s6xn284xgnjq4zyym0000gn/T/evidence-set-pool-aq3c_dvu/vdb_relationships.json'} 2117 data
+INFO:nano-vectordb:Load (2117, 384) data
+INFO:nano-vectordb:Load (516, 384) data
+INFO:nano-vectordb:Init {'embedding_dim': 384, 'metric': 'cosine', 'storage_file': '/var/folders/1w/ww5v892s6xn284xgnjq4zyym0000gn/T/evidence-set-pool-tju9tk7r/vdb_relationships.json'} 2117 data
+INFO:nano-vectordb:Init {'embedding_dim': 384, 'metric': 'cosine', 'storage_file': '/var/folders/1w/ww5v892s6xn284xgnjq4zyym0000gn/T/evidence-set-pool-o7o5hq8i/vdb_chunks.json'} 516 data
+INFO:nano-vectordb:Load (516, 384) data
+INFO:nano-vectordb:Load (2117, 384) data
+INFO:nano-vectordb:Init {'embedding_dim': 384, 'metric': 'cosine', 'storage_file': '/var/folders/1w/ww5v892s6xn284xgnjq4zyym0000gn/T/evidence-set-pool-aq3c_dvu/vdb_chunks.json'} 516 data
+INFO:nano-vectordb:Init {'embedding_dim': 384, 'metric': 'cosine', 'storage_file': '/var/folders/1w/ww5v892s6xn284xgnjq4zyym0000gn/T/evidence-set-pool-5i_7hkpz/vdb_relationships.json'} 2117 data
+INFO:nano-vectordb:Load (516, 384) data
+INFO:nano-vectordb:Init {'embedding_dim': 384, 'metric': 'cosine', 'storage_file': '/var/folders/1w/ww5v892s6xn284xgnjq4zyym0000gn/T/evidence-set-pool-tju9tk7r/vdb_chunks.json'} 516 data
+INFO:nano-vectordb:Load (516, 384) data
+INFO:nano-vectordb:Init {'embedding_dim': 384, 'metric': 'cosine', 'storage_file': '/var/folders/1w/ww5v892s6xn284xgnjq4zyym0000gn/T/evidence-set-pool-5i_7hkpz/vdb_chunks.json'} 516 data
+{"split": "nondev", "shard": 1, "question_index": 10, "total": 435}
+{"split": "nondev", "shard": 3, "question_index": 20, "total": 435}
+{"split": "nondev", "shard": 1, "question_index": 30, "total": 435}
+{"split": "nondev", "shard": 3, "question_index": 40, "total": 435}
+{"split": "nondev", "shard": 1, "question_index": 50, "total": 435}
+{"split": "nondev", "shard": 3, "question_index": 60, "total": 435}
+{"split": "nondev", "shard": 1, "question_index": 70, "total": 435}
+{"split": "nondev", "shard": 3, "question_index": 80, "total": 435}
+{"split": "nondev", "shard": 1, "question_index": 90, "total": 435}
+{"split": "nondev", "shard": 3, "question_index": 100, "total": 435}
+{"split": "nondev", "shard": 1, "question_index": 110, "total": 435}
+{"split": "nondev", "shard": 3, "question_index": 120, "total": 435}
+{"split": "nondev", "shard": 1, "question_index": 130, "total": 435}
+{"split": "nondev", "shard": 3, "question_index": 140, "total": 435}
+{"split": "nondev", "shard": 1, "question_index": 150, "total": 435}
+{"split": "nondev", "shard": 3, "question_index": 160, "total": 435}
+{"split": "nondev", "shard": 1, "question_index": 170, "total": 435}
+{"split": "nondev", "shard": 3, "question_index": 180, "total": 435}
+{"split": "nondev", "shard": 1, "question_index": 190, "total": 435}
+{"split": "nondev", "shard": 3, "question_index": 200, "total": 435}
+{"split": "nondev", "shard": 1, "question_index": 210, "total": 435}
+{"split": "nondev", "shard": 3, "question_index": 220, "total": 435}
+{"split": "nondev", "shard": 1, "question_index": 230, "total": 435}
+{"split": "nondev", "shard": 3, "question_index": 240, "total": 435}
+{"split": "nondev", "shard": 1, "question_index": 250, "total": 435}
+{"split": "nondev", "shard": 3, "question_index": 260, "total": 435}
+{"split": "nondev", "shard": 1, "question_index": 270, "total": 435}
+{"split": "nondev", "shard": 1, "question_index": 290, "total": 435}
+{"split": "nondev", "shard": 3, "question_index": 280, "total": 435}
+{"split": "nondev", "shard": 1, "question_index": 310, "total": 435}
+{"split": "nondev", "shard": 3, "question_index": 300, "total": 435}
+{"split": "nondev", "shard": 1, "question_index": 330, "total": 435}
+{"split": "nondev", "shard": 3, "question_index": 320, "total": 435}
+{"split": "nondev", "shard": 1, "question_index": 350, "total": 435}
+{"split": "nondev", "shard": 3, "question_index": 340, "total": 435}
+{"split": "nondev", "shard": 1, "question_index": 370, "total": 435}
+{"split": "nondev", "shard": 3, "question_index": 360, "total": 435}
+{"split": "nondev", "shard": 1, "question_index": 390, "total": 435}
+{"split": "nondev", "shard": 3, "question_index": 380, "total": 435}
+{"split": "nondev", "shard": 1, "question_index": 410, "total": 435}
+{"split": "nondev", "shard": 3, "question_index": 400, "total": 435}
+{"split": "nondev", "shard": 1, "question_index": 430, "total": 435}
+{"split": "nondev", "shard": 3, "question_index": 420, "total": 435}
+== score (nondev)
+== build (nondev)
+python-dotenv could not parse statement starting at line 4
+python-dotenv could not parse statement starting at line 6
+python-dotenv could not parse statement starting at line 7
+python-dotenv could not parse statement starting at line 8
+python-dotenv could not parse statement starting at line 9
+Loading weights:   0%|          | 0/105 [00:00<?, ?it/s]Loading weights: 100%|██████████| 105/105 [00:00<00:00, 8409.27it/s]
+{
+ "split": "nondev",
+ "questions": 435,
+ "arms": [
+  "C0",
+  "BASELINE",
+  "F",
+  "CE0F",
+  "CE0F_SET"
+ ],
+ "pool": "native@45",
+ "scores": "all-fold models fit on dev200 only",
+ "beta_tau_from_dev": [
+  0.0,
+  0.0
+ ],
+ "models_sha256": {
+  "F": "6d8d0a2b9cabf038ea6c138e29e1ce6ea0decdf7963e55714beb1d6ccc96c623",
+  "CE0+F": "63cb9ae63dd0b91bcb0cf46991fbc8d3b74daa2b4a4d1121bd686954b64b3fd4"
+ },
+ "labelled": 385,
+ "full_evidence": {
+  "C0": 128,
+  "BASELINE": 147,
+  "F": 202,
+  "CE0F": 211,
+  "CE0F_SET": 212
+ },
+ "identical_to_baseline": {
+  "C0": 398,
+  "BASELINE": 435,
+  "F": 0,
+  "CE0F": 0,
+  "CE0F_SET": 0
+ },
+ "no_context_fail_response": {
+  "C0": 0,
+  "BASELINE": 0,
+  "F": 0,
+  "CE0F": 0,
+  "CE0F_SET": 0
+ },
+ "contexts_sha256": "233ecabf779bc47ce873f18ca8e6df757ea9309c5d8939455948f1f4c01efddb",
+ "pipeline_sha256": "65106466e080bf2eab1ea905dfad178219aba194d3c6e0ec01e9638976cb4fa2",
+ "api_calls": 0
+}
+== generate (nondev)
+round 1 BASELINE: 50/435
+round 1 BASELINE: 100/435
+round 1 BASELINE: 150/435
+round 1 BASELINE: 200/435
+round 1 BASELINE: 250/435
+round 1 BASELINE: 300/435
+round 1 BASELINE: 350/435
+round 1 BASELINE: 400/435
+round 1 BASELINE: 435/435
+round 1 C0: 50/435
+round 1 C0: 100/435
+round 1 C0: 150/435
+round 1 C0: 200/435
+round 1 C0: 250/435
+round 1 C0: 300/435
+round 1 C0: 350/435
+round 1 C0: 400/435
+round 1 C0: 435/435
+round 1 F: 50/435
+round 1 F: 100/435
+round 1 F: 150/435
+round 1 F: 200/435
+round 1 F: 250/435
+round 1 F: 300/435
+round 1 F: 350/435
+round 1 F: 400/435
+round 1 F: 435/435
+round 1 CE0F: 50/435
+round 1 CE0F: 100/435
+round 1 CE0F: 150/435
+round 1 CE0F: 200/435
+round 1 CE0F: 250/435
+round 1 CE0F: 300/435
+round 1 CE0F: 350/435
+round 1 CE0F: 400/435
+round 1 CE0F: 435/435
+round 1 CE0F_SET: 50/435
+round 1 CE0F_SET: 100/435
+round 1 CE0F_SET: 150/435
+round 1 CE0F_SET: 200/435
+round 1 CE0F_SET: 250/435
+round 1 CE0F_SET: 300/435
+round 1 CE0F_SET: 350/435
+round 1 CE0F_SET: 400/435
+round 1 CE0F_SET: 435/435
+== judge (nondev)
+DeepSeek judge: 1768 unique answers x 3 passes, 5304 calls to make
+judged 500/5304  spent $3.088
+judged 1000/5304  spent $3.151
+judged 1500/5304  spent $3.208
+judged 2000/5304  spent $3.258
+judged 2500/5304  spent $3.303
+judged 3000/5304  spent $3.345
+judged 3500/5304  spent $3.382
+judged 4000/5304  spent $3.416
+judged 4500/5304  spent $3.448
+judged 5000/5304  spent $3.480
+judged 5304/5304  spent $3.499
+== report (nondev)
+# Table 1 — Phi-3.5-mini-instruct (LongRoPE fix), nondev (435 questions)
+
+1 generation round(s) × 3 deepseek-flash judge passes. ACC/ERR = mean over rounds × passes, ± = sd between generation rounds. McNemar on the per-round majority verdict, one entry per round (became / ceased, exact p).
+
+| # | Configuration | Full evidence | ACC | ERR | Neither | ACC vs baseline | ACC vs row above | ERR vs row above |
+|---|---|---:|---:|---:|---:|---|---|---|
+| 1 | C0 (MiniRAG original) | 128/385 | 42.68 | 29.81 | 27.51 | 0/18, p=7.6e-06 | — | — |
+| 2 | + source-time (baseline) | 147/385 | 46.59 | 28.20 | 25.21 | — | 18/0, p=7.6e-06 | 1/8, p=0.039 |
+| 3 | + learned scorer: graph/time/structure features | 202/385 | 54.18 | 25.98 | 19.85 | 70/37, p=0.0018 | 70/37, p=0.0018 | 45/54, p=0.42 |
+| 4 | + semantic signal (cross-encoder) | 211/385 | 54.48 | 27.89 | 17.62 | 69/35, p=0.0011 | 29/28, p=1 | 36/27, p=0.31 |
+| 5 | + budgeted set selection (full method) | 212/385 | 56.70 | 25.90 | 17.39 | 72/27, p=6.9e-06 | 29/18, p=0.14 | 24/35, p=0.19 |
+
+## ACC by question type
+
+| Configuration | Single (347) | Multi (43) | Null (45) |
+|---|---:|---:|---:|
+| C0 (MiniRAG original) | 39.77 | 30.23 | 77.04 |
+| + source-time (baseline) | 44.67 | 30.23 | 77.04 |
+| + learned scorer: graph/time/structure features | 56.20 | 25.58 | 65.93 |
+| + semantic signal (cross-encoder) | 55.33 | 33.33 | 68.15 |
+| + budgeted set selection (full method) | 56.96 | 41.86 | 68.89 |
+
+Judge noise: sd between passes of baseline ACC = 0.48.
+Rows 3–5 score the first 45 candidates of the baseline ranking. Widening 30 → 45 without re-scoring leaves every context identical to the baseline. Scores: all-fold models fit on dev200 only.

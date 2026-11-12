@@ -1,0 +1,17 @@
+{
+  "body_sha256": "916c67b37b05d57d4e062a42da9cd7cc98b0765001f286447c99ea2c85976e8a",
+  "finish_reason": "stop",
+  "latency_s": 14.627769041995634,
+  "prediction": "The timeline provided shows several interactions concerning the air-conditioner installation. Initially, LiHua inquires about adding an air-conditioner to the basement (Event 1). Following this, Adam Smith confirms he will contact the maintenance worker (Event 2), which suggests the initial assessment and preparation phase. After obtaining a recommendation for a split-type air-conditioner (Event 3), Adam schedules the installation for 6 PM on July 23rd (Event 4). \n\nTherefore, from LiHua's initial request to the actual installation, it takes from the point of inquiry until the scheduled installation time. Given the timeline, the total duration from LiHua planning to get the air-conditioner to its installation is approximately 6 days.",
+  "prediction_sha256": "4cd059ae91e0d0af44e7f4579f2955ef6b1e37d86cfb88f3bf16b6395e3a550a",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100038,
+  "usage": {
+    "completion_tokens": 151,
+    "prompt_tokens": 4519,
+    "prompt_tokens_details": null,
+    "total_tokens": 4670
+  }
+}

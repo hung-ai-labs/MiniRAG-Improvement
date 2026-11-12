@@ -1,0 +1,17 @@
+{
+  "body_sha256": "6ee14941190708759af7e34cc9e16a40673f118142fe0c932afe6f22775e621d",
+  "finish_reason": "stop",
+  "latency_s": 8.791465458001767,
+  "prediction": "In the conversation, Li Hua mentions Geralt as their favorite character from The Witcher 3. They describe Geralt as a complex character with a no-nonsense attitude who deeply cares about moral principles. Additionally, Li Hua highlights Yennefer as another favorite character, appreciating her backstory and dynamic relationship with Geralt, which adds significant depth to the game.",
+  "prediction_sha256": "7ecfdc4e38beeb2e82b1218cddb65c25d22420b0d535e301b6c38793c2085aa1",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 174,
+  "usage": {
+    "completion_tokens": 76,
+    "prompt_tokens": 4420,
+    "prompt_tokens_details": null,
+    "total_tokens": 4496
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "e6883d277764b90a892b7751bafa755395e40702bc0960a282e96fc648ce5638",
+  "finish_reason": "stop",
+  "latency_s": 9.986548499997298,
+  "prediction": "From the interactions described, Wolfgang Schulz prefers a classic cheeseburger, with a focus on simplicity. He likes lettuce, tomato, and pickles, suggesting he doesn't favor additional toppings. However, it's important to note that his preferences can vary based on the context or personal preference. In the conversation regarding fast food, he mentioned enjoying a little spice, but he prefers to keep it mild, indicating a preference for a basic burger without too many additional toppings.",
+  "prediction_sha256": "5cb6a6c5abd1a2e34a09180b2c887fda075231066ca77442eb32ca4bf191566e",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100187,
+  "usage": {
+    "completion_tokens": 94,
+    "prompt_tokens": 4733,
+    "prompt_tokens_details": null,
+    "total_tokens": 4827
+  }
+}

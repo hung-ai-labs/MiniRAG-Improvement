@@ -1,0 +1,17 @@
+{
+  "body_sha256": "6c0d920f6847b9ece47cd4e3512ef1d66cc2d2ccb78521dcf1cefcc7917a04a0",
+  "finish_reason": "stop",
+  "latency_s": 9.541054291999899,
+  "prediction": "According to the conversation recorded on 20261017, LiHua and Wolfgang discussed grabbing a pizza for dinner after work. Wolfgang expressed his preference for the new pizza place downtown that he had heard had some amazing toppings, while LiHua indicated a fondness for the lemonade pairing with pizza. They agreed on meeting around 7 o'clock to unwind after work, suggesting they planned to have a casual dinner and perhaps catch up over a shared meal.",
+  "prediction_sha256": "8dba9f35c75c5e6db58dde5d8cf65281d777adba5360ad41451ea898ef5eaa4d",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100367,
+  "usage": {
+    "completion_tokens": 97,
+    "prompt_tokens": 5281,
+    "prompt_tokens_details": null,
+    "total_tokens": 5378
+  }
+}

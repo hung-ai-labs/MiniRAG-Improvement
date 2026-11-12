@@ -1,0 +1,17 @@
+{
+  "body_sha256": "878872a7281f95637c6871aca84a0ee6ec4abd039249bebfa4167c177dd60936",
+  "finish_reason": "stop",
+  "latency_s": 11.529705542001466,
+  "prediction": "Based on the information provided, Wolfgang is aware that he is traveling to Hong Kong. This is indicated through two entries in the sources table. In the first entry dated 20261219_19:00, Wolfgang mentions that he has a business trip to Hong Kong scheduled for the following week. Additionally, in the second entry dated 20261221_12:00, Wolfgang informs the group that he won't be able to make it to practice due to his upcoming business trip to Hong Kong. Therefore, both Wolfgang and the group (including Li Hua, Yuriko Yamamoto, and Chae Song-hwa) are informed about Wolfgang's trip to Hong Kong.",
+  "prediction_sha256": "e168bad1339be4ca50fe1ed5a5a4fb8b96935fed7f1a13b9604f4a8e8189c45c",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 33,
+  "usage": {
+    "completion_tokens": 151,
+    "prompt_tokens": 4711,
+    "prompt_tokens_details": null,
+    "total_tokens": 4862
+  }
+}

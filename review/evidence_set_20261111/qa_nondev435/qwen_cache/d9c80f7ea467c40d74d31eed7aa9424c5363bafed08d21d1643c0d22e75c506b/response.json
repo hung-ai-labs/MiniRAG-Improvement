@@ -1,0 +1,17 @@
+{
+  "body_sha256": "d9c80f7ea467c40d74d31eed7aa9424c5363bafed08d21d1643c0d22e75c506b",
+  "finish_reason": "stop",
+  "latency_s": 5.80945708299987,
+  "prediction": "According to the conversation recorded, Adam Smith confirms that the plumber will be arriving the following day at 10 AM to fix the water tap. This confirmation is detailed in a message sent to LiHua on January 6, 2026, at 15:00.",
+  "prediction_sha256": "5b8682dd142a39cad5c517997f55af4c85dd5c0c718e87eba1cbd4d1a4e53865",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 61,
+  "usage": {
+    "completion_tokens": 61,
+    "prompt_tokens": 3777,
+    "prompt_tokens_details": null,
+    "total_tokens": 3838
+  }
+}

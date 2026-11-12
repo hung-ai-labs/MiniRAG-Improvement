@@ -1,0 +1,17 @@
+{
+  "body_sha256": "0c3d1651b36c8a4ae67521b431d49989c898b3696ed583efd83948ca490fba07",
+  "finish_reason": "stop",
+  "latency_s": 10.533593125001062,
+  "prediction": "According to the conversations recorded, Li Hua expressed her desire to add some flexibility and balance to her routine to complement her existing workouts. Jennifer proposed incorporating yoga and dynamic stretching techniques, which she thought would particularly benefit Li Hua's fitness goals. Jennifer also suggested starting these sessions next week, focusing on flexibility on their regular days following their strength training on Tuesdays and Thursdays. Li Hua enthusiastically agreed to this plan, looking forward to the new routine which she believed would offer a nice change of pace and complement her current fitness regimen.",
+  "prediction_sha256": "d0442d0cf5f5faa3d0aa516b77c50c96c20e9d20c1ec16770fa7a018f73317e9",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200100,
+  "usage": {
+    "completion_tokens": 109,
+    "prompt_tokens": 4304,
+    "prompt_tokens_details": null,
+    "total_tokens": 4413
+  }
+}

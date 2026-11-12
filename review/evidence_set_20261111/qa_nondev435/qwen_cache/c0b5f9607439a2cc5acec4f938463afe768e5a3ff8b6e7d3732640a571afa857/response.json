@@ -1,0 +1,17 @@
+{
+  "body_sha256": "c0b5f9607439a2cc5acec4f938463afe768e5a3ff8b6e7d3732640a571afa857",
+  "finish_reason": "stop",
+  "latency_s": 8.849879625005997,
+  "prediction": "Jake Watson recommends several strength training exercises that can be performed to build muscles and reduce the risk of injuries. During an interaction with Li Hua, Jake suggests squats, lunges, and planks as effective exercises for building core and leg strength. He also mentions that beginners can start with bodyweight exercises and gradually increase the intensity as they get stronger. Additionally, Jake advises including balance exercises like single-leg stands, which he notes help in improving overall stability and endurance.",
+  "prediction_sha256": "b1b47ee266f80a9c030c5d8dbd78594877d0d1b047ada855bfa93fad2f9d3f31",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 209,
+  "usage": {
+    "completion_tokens": 95,
+    "prompt_tokens": 4429,
+    "prompt_tokens_details": null,
+    "total_tokens": 4524
+  }
+}

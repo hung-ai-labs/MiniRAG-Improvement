@@ -1,0 +1,17 @@
+{
+  "body_sha256": "ac682a3cba0cf42d43eba9bcb7ff6ed5effce283e592571fb5dc610ef7baa7a5",
+  "finish_reason": "stop",
+  "latency_s": 11.291396166998311,
+  "prediction": "In one of the conversations shared, LiHua invites Jake to play as the goalkeeper for their upcoming soccer training session. Specifically, LiHua suggests, \"Hey Jake! Any chance you can play as the goalkeeper for our soccer training this weekend? I think it would be fun!\", to which Jake enthusiastically replies, \"That sounds awesome! I’d love to have you in goal. It'll be a good experience for you! What time are you thinking? 🥉⚽️\". Therefore, it is clear that LiHua is the one who asks Jake to participate as the goalkeeper in the soccer training session.",
+  "prediction_sha256": "01a5396d6727763d5d5cce237ec486f88b6f809524e6ad8a63bc4de7e2fe2de6",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 292,
+  "usage": {
+    "completion_tokens": 125,
+    "prompt_tokens": 4254,
+    "prompt_tokens_details": null,
+    "total_tokens": 4379
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "3089988a963f7acb402960c455b31a4b3ad612702a202de381cf219e1b072f60",
+  "finish_reason": "stop",
+  "latency_s": 7.357466292000026,
+  "prediction": "Based on the conversation, Wolfgang recommended a \"little burger joint downtown\" to LiHua for their post-gym shake fix. However, the specific name of the gym where the gym membership feedback activity takes place is not mentioned. The details provided are centered around Wolfgang's recommendation for a fast food joint rather than a gym.",
+  "prediction_sha256": "ba2cde480418ce2747e0acdd6d6df98e17804847edf5636b8ddcce7bad46db7b",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100063,
+  "usage": {
+    "completion_tokens": 66,
+    "prompt_tokens": 4492,
+    "prompt_tokens_details": null,
+    "total_tokens": 4558
+  }
+}

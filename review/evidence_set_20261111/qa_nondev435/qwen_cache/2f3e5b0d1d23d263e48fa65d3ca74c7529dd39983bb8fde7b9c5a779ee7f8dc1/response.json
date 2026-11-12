@@ -1,0 +1,17 @@
+{
+  "body_sha256": "2f3e5b0d1d23d263e48fa65d3ca74c7529dd39983bb8fde7b9c5a779ee7f8dc1",
+  "finish_reason": "stop",
+  "latency_s": 10.340532792000886,
+  "prediction": "In one of their conversations, Jennifer provides several suggestions to help LiHua boost his endurance. She recommends incorporating longer cardio sessions and interval training into his routine. Additionally, Jennifer suggests mixing different types of activities such as cycling, running, or swimming. She also emphasizes the importance of proper hydration and nutrition. Specifically, she mentions focusing on hydration and nutrition, indicating that these aspects are crucial for overall performance and recovery.",
+  "prediction_sha256": "8bef42dc81aa0cada16e30c4e4132b2380208506c569a3b3c2bfb3dc98dbdc57",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 134,
+  "usage": {
+    "completion_tokens": 84,
+    "prompt_tokens": 4410,
+    "prompt_tokens_details": null,
+    "total_tokens": 4494
+  }
+}

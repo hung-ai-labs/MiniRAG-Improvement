@@ -1,0 +1,17 @@
+{
+  "body_sha256": "d4398bb4617bd0dca1aaed1b19c2e9054fd00a4a2b78c7ccfeaa91456e79ff18",
+  "finish_reason": "stop",
+  "latency_s": 11.842857083000126,
+  "prediction": "In the conversation recorded on 20260910_12:00, Emily Burnett asks Li Hua if he has ever encountered someone as quirky and brilliant as Sheldon Cooper, a character from the television show \"The Big Bang Theory.\" Li Hua responds that he hasn't, saying, \"Not really! I mean, he’s one of a kind, right?\" This indicates that Li Hua has not personally met anyone with a level of eccentricity and brilliance comparable to that of Sheldon Cooper.",
+  "prediction_sha256": "320d6dffd58edb7414495c6752eca9ec1ea86a338557ea88dd2daf013bf3a709",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200201,
+  "usage": {
+    "completion_tokens": 107,
+    "prompt_tokens": 4242,
+    "prompt_tokens_details": null,
+    "total_tokens": 4349
+  }
+}

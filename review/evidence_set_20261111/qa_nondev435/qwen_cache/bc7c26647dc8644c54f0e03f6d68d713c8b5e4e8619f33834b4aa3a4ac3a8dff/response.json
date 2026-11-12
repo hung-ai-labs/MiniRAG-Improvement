@@ -1,0 +1,17 @@
+{
+  "body_sha256": "bc7c26647dc8644c54f0e03f6d68d713c8b5e4e8619f33834b4aa3a4ac3a8dff",
+  "finish_reason": "stop",
+  "latency_s": 8.596806124995055,
+  "prediction": "There isn't any specific mention of Li Hua inviting Adam Smith to check the basement renovation progress in the provided data. The interactions described involve various daily reminders and updates related to the basement, such as picking up keys, coordinating with contractors, and planning for future jam sessions, but there is no indication of a scheduled visit to inspect the renovation work.",
+  "prediction_sha256": "33c2ce55c9e16ce6e8d8399bac07602459f4e8c478ca0b79828f35f975b7afdd",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200083,
+  "usage": {
+    "completion_tokens": 71,
+    "prompt_tokens": 4423,
+    "prompt_tokens_details": null,
+    "total_tokens": 4494
+  }
+}

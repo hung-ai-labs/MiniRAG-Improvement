@@ -1,0 +1,17 @@
+{
+  "body_sha256": "778e40dd0f415908fc3ccfc6268cc8c9b22ee289edd18fd4a0b504d5d8ad595e",
+  "finish_reason": "stop",
+  "latency_s": 7.635233042004984,
+  "prediction": "In the conversation shared under source ID 1, Li Hua mentions an \"unexpected work meeting tomorrow\" which falls on Thursday. However, no specific reason for this unexpected meeting is provided in the text. Therefore, based solely on the information given, we cannot determine the exact reason for Li Hua's work meeting on Thursday.",
+  "prediction_sha256": "b70b8c720f2b47e70c36baeae0d7055a4008f41d81372174ccb9badd7c9aa084",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 419,
+  "usage": {
+    "completion_tokens": 67,
+    "prompt_tokens": 3503,
+    "prompt_tokens_details": null,
+    "total_tokens": 3570
+  }
+}

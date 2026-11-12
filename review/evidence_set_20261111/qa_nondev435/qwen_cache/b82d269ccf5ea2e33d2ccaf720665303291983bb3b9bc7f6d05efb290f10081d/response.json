@@ -1,0 +1,17 @@
+{
+  "body_sha256": "b82d269ccf5ea2e33d2ccaf720665303291983bb3b9bc7f6d05efb290f10081d",
+  "finish_reason": "stop",
+  "latency_s": 10.292835666001338,
+  "prediction": "Based on the conversation, Emily Burnett mentioned several TV shows that she enjoys, including \"Brooklyn Nine-Nine,\" \"The Office,\" and \"Game of Thrones.\" However, she expressed her preference for \"Brooklyn Nine-Nine,\" calling it \"hilarious\" and stating that she finds \"The Office\" to be \"never [getting] old.\" Emily Burnett didn't specifically name a single favorite TV show, but \"Brooklyn Nine-Nine\" appears to be her current top choice among the ones discussed.",
+  "prediction_sha256": "70402fc7d6ed6205fb79ff0e603a52f4f182365da9f736fbfcf9dbf002e2b3e1",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100383,
+  "usage": {
+    "completion_tokens": 105,
+    "prompt_tokens": 3112,
+    "prompt_tokens_details": null,
+    "total_tokens": 3217
+  }
+}

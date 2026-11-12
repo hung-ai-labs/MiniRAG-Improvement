@@ -1,0 +1,17 @@
+{
+  "body_sha256": "65b32fa56584b91bf1cb5b172a1b3d6b9e147db1deeb9beb370bd808342376d1",
+  "finish_reason": "stop",
+  "latency_s": 7.867752124999242,
+  "prediction": "WolfgangSchulz suggests getting pizza for dinner. This suggestion is made during a conversation where he invites LiHua to grab some pizza for dinner after work. The context indicates that WolfgangSchulz is proposing this option, and LiHua agrees to the idea, showing that WolfgangSchulz initiated the dinner plan by suggesting pizza.",
+  "prediction_sha256": "d810b9d000145597d4e96895f1ef4b1714316c033d504fca65a0facbc781c6b0",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 365,
+  "usage": {
+    "completion_tokens": 71,
+    "prompt_tokens": 5122,
+    "prompt_tokens_details": null,
+    "total_tokens": 5193
+  }
+}

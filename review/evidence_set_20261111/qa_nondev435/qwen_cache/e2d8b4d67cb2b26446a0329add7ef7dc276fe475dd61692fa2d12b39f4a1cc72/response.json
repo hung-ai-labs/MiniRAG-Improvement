@@ -1,0 +1,17 @@
+{
+  "body_sha256": "e2d8b4d67cb2b26446a0329add7ef7dc276fe475dd61692fa2d12b39f4a1cc72",
+  "finish_reason": "stop",
+  "latency_s": 11.646651374998328,
+  "prediction": "The purpose of starting with bodyweight exercises is emphasized in the \"BODYWEIGHT EXERCISES\" entity, where it is stated that \"Bodyweight Exercises refer to exercises performed without any equipment, emphasizing versatility and self-motivation.\" Additionally, it is noted that \"Simple bodyweight exercises are recommended as a starting point for beginners in strength training.\" This means that bodyweight exercises are ideal for individuals who are new to strength training, offering a straightforward and accessible option to begin their fitness journey. These exercises can serve as foundational movements that help build a strong base of strength and form, making it easier to transition to more complex and equipment-dependent exercises later on.",
+  "prediction_sha256": "aa580f02609ba1c09e23dbea24836efd06a40471cefbd400d5f15f332fe289c9",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200210,
+  "usage": {
+    "completion_tokens": 134,
+    "prompt_tokens": 3997,
+    "prompt_tokens_details": null,
+    "total_tokens": 4131
+  }
+}

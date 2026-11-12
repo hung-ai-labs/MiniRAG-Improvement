@@ -1,0 +1,17 @@
+{
+  "body_sha256": "bf30b69f6426b5a1cd4bcdedbd4021e4f2ea2f3592df0f830e304e2809c0c0f0",
+  "finish_reason": "stop",
+  "latency_s": 7.299404499997763,
+  "prediction": "According to the conversation, Li Hua and Wolfgang Schulz have a lunch meeting scheduled at the cozy café downtown at 12:00. This information can be found in the content of message 1, where Wolfgang Schulz reminds Li Hua about their lunch meeting at the cozy café downtown at 12:00.",
+  "prediction_sha256": "20ae8be283bc0ab0aefb2fda510e5eb8ec0564e6057bf3790f8fa0c7d028716f",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100056,
+  "usage": {
+    "completion_tokens": 69,
+    "prompt_tokens": 4874,
+    "prompt_tokens_details": null,
+    "total_tokens": 4943
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "9ad4976d7357f3c64b034611ffcee0be7251a8d7de3a2f4bd7327d6ae813c45e",
+  "finish_reason": "stop",
+  "latency_s": 7.147969458001171,
+  "prediction": "During Wolfgang's dinner invitation, he suggested trying the restaurant's risotto, which he claimed was particularly good. However, Wolfgang did not explicitly mention any specific dessert he wished to order for Li Hua. The conversation focused mainly on the meal options and drinks they might order rather than detailing desserts.",
+  "prediction_sha256": "7a4b5560f4d3bcb14511abda06c51709d21e21f885e2d228cb2e5f63cf3bb47f",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 426,
+  "usage": {
+    "completion_tokens": 60,
+    "prompt_tokens": 4624,
+    "prompt_tokens_details": null,
+    "total_tokens": 4684
+  }
+}

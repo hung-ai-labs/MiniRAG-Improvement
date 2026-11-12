@@ -1,0 +1,17 @@
+{
+  "body_sha256": "43c896efe8cb57c1844e0736cafd059634b779ec16f739354a839045353142cd",
+  "finish_reason": "stop",
+  "latency_s": 10.877629916998558,
+  "prediction": "On June 9, 2026, Li Hua and Wolfgang had dinner at a restaurant. However, the name of the specific restaurant is not provided in the given data. Based on the context, this dinner likely took place at a venue discussed previously, such as a Thai restaurant, an Italian place, or another establishment mentioned in the conversations. Without additional details, we cannot pinpoint the exact name of the restaurant.",
+  "prediction_sha256": "6c0237012e061abdc1f435a096583d8f3a70abc0d91cc8248a28c0566431f529",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100431,
+  "usage": {
+    "completion_tokens": 87,
+    "prompt_tokens": 4732,
+    "prompt_tokens_details": null,
+    "total_tokens": 4819
+  }
+}

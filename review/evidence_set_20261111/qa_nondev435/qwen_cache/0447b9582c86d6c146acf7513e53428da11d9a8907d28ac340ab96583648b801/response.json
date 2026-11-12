@@ -1,0 +1,17 @@
+{
+  "body_sha256": "0447b9582c86d6c146acf7513e53428da11d9a8907d28ac340ab96583648b801",
+  "finish_reason": "stop",
+  "latency_s": 9.836317207998945,
+  "prediction": "In the conversations shared, Wolfgang Schulz and Li Hua both mention their interest in attending concerts and live performances. Specifically, Wolfgang Schulz expressed his excitement about joining a concert on March 7th at 6 PM. He mentioned that he would enjoy catching up with friends and experiencing live music together. Li Hua also indicated her willingness to join, stating she is \"totally in\" for the karaoke activity and looking forward to it. Therefore, both Wolfgang Schulz and Li Hua offer to check with friends for live music performances, although Wolfgang Schulz seems more enthusiastic about attending a concert.",
+  "prediction_sha256": "d17f31c36ad6e93c73d314be0e001951711fcfa653047750f3f28cc144d5b4dc",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100342,
+  "usage": {
+    "completion_tokens": 123,
+    "prompt_tokens": 4608,
+    "prompt_tokens_details": null,
+    "total_tokens": 4731
+  }
+}

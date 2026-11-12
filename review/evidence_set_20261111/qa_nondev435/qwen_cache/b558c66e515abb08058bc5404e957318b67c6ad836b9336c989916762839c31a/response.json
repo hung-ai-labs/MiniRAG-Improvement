@@ -1,0 +1,17 @@
+{
+  "body_sha256": "b558c66e515abb08058bc5404e957318b67c6ad836b9336c989916762839c31a",
+  "finish_reason": "stop",
+  "latency_s": 9.124766417000501,
+  "prediction": "Yuriko Yamamoto considers adding a user feedback section to her studio's homepage. This section would allow users to leave comments or suggestions, providing valuable insights into her services and helping her continuously improve her approach. Additionally, a star rating system and possibly testimonials could be included to enhance the credibility and trustworthiness of her therapy methods. These additions align with her vision of making her studio more engaging and reflective of the essence of speech therapy.",
+  "prediction_sha256": "cd47f17438907aab40cfc6e9cd550d7e67ea4700dfe45409449d7685e0a40168",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 89,
+  "usage": {
+    "completion_tokens": 89,
+    "prompt_tokens": 4798,
+    "prompt_tokens_details": null,
+    "total_tokens": 4887
+  }
+}

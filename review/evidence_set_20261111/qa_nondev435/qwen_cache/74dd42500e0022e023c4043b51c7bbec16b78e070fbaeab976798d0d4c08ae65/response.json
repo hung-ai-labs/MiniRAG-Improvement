@@ -1,0 +1,17 @@
+{
+  "body_sha256": "74dd42500e0022e023c4043b51c7bbec16b78e070fbaeab976798d0d4c08ae65",
+  "finish_reason": "stop",
+  "latency_s": 11.425255374997505,
+  "prediction": "According to the interactions recorded, AdamSmith indicates that he is available most evenings. Specifically, in one interaction dated 20261012_10:00, AdamSmith mentions being \"flexible\" and states, \"I’ll coordinate with the repair service and keep you posted. Shouldn't take long to fix.\" He further clarifies, \"My schedule's pretty open!\" However, no specific time is mentioned for the curtain installation, only that he is available most evenings. Therefore, while AdamSmith expresses flexibility, the exact availability for the curtain installation is not specified in the given records.",
+  "prediction_sha256": "91745cdeed3c3e1572ec3d16c759bd0a78da0f9870d0ff2a27bf60fe9c011202",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200248,
+  "usage": {
+    "completion_tokens": 126,
+    "prompt_tokens": 4124,
+    "prompt_tokens_details": null,
+    "total_tokens": 4250
+  }
+}

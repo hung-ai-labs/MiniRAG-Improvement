@@ -1,0 +1,17 @@
+{
+  "body_sha256": "2c7e2ef2e8f045657392617034f860335cc1a7dd45e0b929e9fd73a6e015dc59",
+  "finish_reason": "stop",
+  "latency_s": 10.897217082998395,
+  "prediction": "In the conversation, Li Hua mentions two characters from The Witcher 3 as ones she particularly likes. She expresses her affinity for Geralt, describing him as having \"a complex character with that no-nonsense attitude, but deep down he has a great sense of morality.\" Additionally, Li Hua highlights Yennefer, noting that \"Her backstory and dynamic with Geralt add so much depth to the game.\" Therefore, based on the dialogue, Li Hua's favorite characters from The Witcher 3 are Geralt and Yennefer.",
+  "prediction_sha256": "e080a3beba8d779793445ba7f616c4f0df8ab2443147ae33f71ab0df774197df",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100174,
+  "usage": {
+    "completion_tokens": 112,
+    "prompt_tokens": 4420,
+    "prompt_tokens_details": null,
+    "total_tokens": 4532
+  }
+}

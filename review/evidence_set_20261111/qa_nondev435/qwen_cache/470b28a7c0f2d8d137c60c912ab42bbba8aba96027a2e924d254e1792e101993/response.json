@@ -1,0 +1,17 @@
+{
+  "body_sha256": "470b28a7c0f2d8d137c60c912ab42bbba8aba96027a2e924d254e1792e101993",
+  "finish_reason": "stop",
+  "latency_s": 5.238834791001864,
+  "prediction": "Li Hua's favorite actor in the television series \"Chernobyl\" is Stellan Skarsgård, who played the role of Boris Shcherbina. Li Hua appreciated how Shcherbina's character's journey throughout the series was fascinating and added a lot of emotional weight to the scenes.",
+  "prediction_sha256": "42bbc91dfa7dab6f58b7700fe0201f67ac591ee4dc0c96001f1450581e6dd825",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100385,
+  "usage": {
+    "completion_tokens": 66,
+    "prompt_tokens": 4500,
+    "prompt_tokens_details": null,
+    "total_tokens": 4566
+  }
+}

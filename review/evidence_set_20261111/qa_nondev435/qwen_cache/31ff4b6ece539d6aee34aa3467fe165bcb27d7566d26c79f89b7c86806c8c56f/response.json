@@ -1,0 +1,17 @@
+{
+  "body_sha256": "31ff4b6ece539d6aee34aa3467fe165bcb27d7566d26c79f89b7c86806c8c56f",
+  "finish_reason": "stop",
+  "latency_s": 8.800494249997428,
+  "prediction": "Based on the conversation, WolfgangSchulz expresses a strong appreciation for Prague, describing it as having \"magical\" architecture and noting the enchanting atmosphere of the old town. He particularly mentions that the old town square has a unique vibe that he finds captivating.",
+  "prediction_sha256": "c633d96ca1aa027612152a33898ae8fbd226c52e2a2b3a3c6f005153b4e61d83",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 399,
+  "usage": {
+    "completion_tokens": 54,
+    "prompt_tokens": 4666,
+    "prompt_tokens_details": null,
+    "total_tokens": 4720
+  }
+}

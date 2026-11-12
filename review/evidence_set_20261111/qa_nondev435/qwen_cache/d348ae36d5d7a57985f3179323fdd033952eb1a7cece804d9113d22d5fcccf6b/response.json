@@ -1,0 +1,17 @@
+{
+  "body_sha256": "d348ae36d5d7a57985f3179323fdd033952eb1a7cece804d9113d22d5fcccf6b",
+  "finish_reason": "stop",
+  "latency_s": 11.482158375001745,
+  "prediction": "In the conversation recorded on June 1, 2026 at 16:00, Li Hua informed Adam Smith that she had transferred the rent for last month. Specifically, she stated, \"Oh no, I completely forgot about that. I'll make sure to get that sorted out ASAP. Thanks for letting me know!\" This implies that the rent for May had been transferred.",
+  "prediction_sha256": "22c07604def656359d7363058f6e9bf85ae09ae304d6f424420a9ff13eb2c30e",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100130,
+  "usage": {
+    "completion_tokens": 82,
+    "prompt_tokens": 4593,
+    "prompt_tokens_details": null,
+    "total_tokens": 4675
+  }
+}

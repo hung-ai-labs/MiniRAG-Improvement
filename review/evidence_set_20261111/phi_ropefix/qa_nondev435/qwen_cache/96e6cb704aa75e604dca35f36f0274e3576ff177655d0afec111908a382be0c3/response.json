@@ -1,0 +1,17 @@
+{
+  "body_sha256": "96e6cb704aa75e604dca35f36f0274e3576ff177655d0afec111908a382be0c3",
+  "finish_reason": "stop",
+  "latency_s": 4.298595124997519,
+  "prediction": " According to the conversation provided, Barca lost 4-0 against Bayern in the year **2013**. This event was mentioned by JakeWatson as a classic match with a lot of drama that highlights the intense rivalry between the two teams in the UEFA Champions League (UCL).",
+  "prediction_sha256": "0b2bf27ae91d3a78065df8abc9b19c8fc5ffbf7d44ae1126d989270573a05dfa",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 294,
+  "usage": {
+    "completion_tokens": 66,
+    "prompt_tokens": 6214,
+    "prompt_tokens_details": null,
+    "total_tokens": 6280
+  }
+}

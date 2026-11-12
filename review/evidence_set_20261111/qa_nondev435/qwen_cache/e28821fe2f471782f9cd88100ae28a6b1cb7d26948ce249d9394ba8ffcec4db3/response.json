@@ -1,0 +1,17 @@
+{
+  "body_sha256": "e28821fe2f471782f9cd88100ae28a6b1cb7d26948ce249d9394ba8ffcec4db3",
+  "finish_reason": "stop",
+  "latency_s": 9.625485374999698,
+  "prediction": "Based on the provided data, there is no explicit mention of Li Hua requesting a delivery directly from Hailey Johnson. Instead, the interactions between them involve Li Hua providing feedback on the quality of the bread and occasionally mentioning that she needs to pick up the bread. There are multiple instances where Alice, who works at Hailey's bakery, informs Li Hua about the delivery of bread. Therefore, it appears that Li Hua does not specifically request a delivery from Hailey Johnson; rather, she receives the deliveries from Alice.",
+  "prediction_sha256": "5d3031a7e506e809922bb9a5070b899989be6acd2ece23a2a3b3ec80ca435a16",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 93,
+  "usage": {
+    "completion_tokens": 108,
+    "prompt_tokens": 4048,
+    "prompt_tokens_details": null,
+    "total_tokens": 4156
+  }
+}

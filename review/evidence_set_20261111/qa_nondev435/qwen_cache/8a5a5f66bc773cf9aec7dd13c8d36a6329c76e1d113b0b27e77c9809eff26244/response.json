@@ -1,0 +1,17 @@
+{
+  "body_sha256": "8a5a5f66bc773cf9aec7dd13c8d36a6329c76e1d113b0b27e77c9809eff26244",
+  "finish_reason": "stop",
+  "latency_s": 4.720462958001008,
+  "prediction": "Based on the conversation, Emily Burnett is currently watching \"The Last of Us.\" She shared that it's an intense series so far, and she is particularly enjoying the character development and the handling of the post-apocalyptic setting.",
+  "prediction_sha256": "d0eca146e825a228d40637f720fff585e4ca8cea25e96432c1b9cb3c4f423705",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100386,
+  "usage": {
+    "completion_tokens": 46,
+    "prompt_tokens": 3155,
+    "prompt_tokens_details": null,
+    "total_tokens": 3201
+  }
+}

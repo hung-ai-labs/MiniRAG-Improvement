@@ -1,0 +1,17 @@
+{
+  "body_sha256": "d8666234306906cc5638de52c283d52f2d9c197d5b6d3cb0beb880dfbfdc68b9",
+  "finish_reason": "stop",
+  "latency_s": 3.401184749993263,
+  "prediction": "In the conversation provided, there is no explicit mention of the exact reason for Li Hua's unexpected work meeting on Thursday. However, the context indicates that Li Hua had an unexpected work meeting scheduled for Thursday afternoon, which she informed Jennifer Moore about. Jennifer Moore responded positively, suggesting they reschedule the training session to Friday, but since the exact reason for the unexpected meeting is not specified, we cannot determine the specific cause.",
+  "prediction_sha256": "f114fa8f1525733d6d52cb0d1818f86805c80e9f27e87ec54a99d5056c2e863d",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200419,
+  "usage": {
+    "completion_tokens": 87,
+    "prompt_tokens": 3503,
+    "prompt_tokens_details": null,
+    "total_tokens": 3590
+  }
+}

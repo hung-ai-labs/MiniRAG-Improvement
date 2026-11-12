@@ -1,0 +1,29 @@
+{
+  "baseline": "profile c0: C0 original, A1@4000, no source-time",
+  "index": "LiHua-World-qwen-modal",
+  "index_sha256": {
+    "extracted_chunks.json": "3fcd438448c5c1b399a8dac7616a2a70279844a86355bd273e6962bc4abce687",
+    "graph_chunk_entity_relation.graphml": "3be760266aff16799a30d9f1b18badcfce50cc2098f6a562135cded5913f037b",
+    "kv_store_doc_status.json": "3903c4a868ccf53443bbd9ea7df815f89753ff25e46ddd770753901c4e06d63f",
+    "kv_store_full_docs.json": "1c8aeab2289396a310f971963980d54fc2d6e7872cbc3f55fc3fc0d4f5a9e27f",
+    "kv_store_llm_response_cache.json": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+    "kv_store_text_chunks.json": "a1f7878010a874c7a2773902d26f20a5b0c2f701512cd591445ff149a36db6d6",
+    "minirag.log": "7013ed94dc4cb2a290369132ee53c563274fb84b9a73c83d2e7ce5d311c12172",
+    "vdb_chunks.json": "d32bfa580a358f5a627a74fd269ae3a437097d2d3e39bcef7bd912d0e1d83c49",
+    "vdb_entities.json": "d5766f4bc4ae4d5bafaf93aaf5b805c241a7362416d6726299998fe1713f20e5",
+    "vdb_entities_name.json": "376812ca703baa9e094a6ca03a95cd6caa12ef1bad201d0b89d6b302af99439b",
+    "vdb_relationships.json": "58ed9053b74af99dd06fb2c032a7c0a14c0426964f9161b147348e8fd997d8fa"
+  },
+  "native_contexts_match_frozen_baseline": false,
+  "native_prefix_asserted": true,
+  "parser": "frozen keyword cache only",
+  "parser_calls": 0,
+  "pools_sha256": "80f716a761e35b6e9bcd859069cf4eb646b41c99fa035223e5a69b408d6e541c",
+  "questions": 109,
+  "shard": [
+    1,
+    4
+  ],
+  "slm": "qwen",
+  "split": "nondev"
+}

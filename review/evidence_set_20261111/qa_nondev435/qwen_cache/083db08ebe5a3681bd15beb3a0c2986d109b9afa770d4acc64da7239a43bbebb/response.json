@@ -1,0 +1,17 @@
+{
+  "body_sha256": "083db08ebe5a3681bd15beb3a0c2986d109b9afa770d4acc64da7239a43bbebb",
+  "finish_reason": "stop",
+  "latency_s": 11.827486041998782,
+  "prediction": "On the event marked as \"20260715_19:00,\" ChaeSong-hwa expresses interest in checking out a live performance of the song \"Bohemian Rhapsody\" by Queen. He suggests that it would be \"awesome\" for the band to try performing this song. Therefore, the performance Chae wants the band members to check out is Queen's live rendition of \"Bohemian Rhapsody.\"",
+  "prediction_sha256": "e9e83f5a5a8619d299b12f6842c402537fe715868dfc08d1345c1ad575b3fc4d",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200152,
+  "usage": {
+    "completion_tokens": 94,
+    "prompt_tokens": 5648,
+    "prompt_tokens_details": null,
+    "total_tokens": 5742
+  }
+}

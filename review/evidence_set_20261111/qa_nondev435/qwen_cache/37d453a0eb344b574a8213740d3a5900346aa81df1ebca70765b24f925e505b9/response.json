@@ -1,0 +1,17 @@
+{
+  "body_sha256": "37d453a0eb344b574a8213740d3a5900346aa81df1ebca70765b24f925e505b9",
+  "finish_reason": "stop",
+  "latency_s": 9.24923654200029,
+  "prediction": "In one of their conversations, ThaneChambers shares a memorable moment from playing \"Warzone.\" Specifically, he recounts a clutch moment where they came back from a tough spot and managed to secure the win at the last second. This instance highlights the thrilling and strategic nature of the game, emphasizing the importance of teamwork and planning in achieving victory.",
+  "prediction_sha256": "f03573bcdb4dac07fcdaf21cc89b261cddb02b7966a08a851515559d4c3b96a2",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100239,
+  "usage": {
+    "completion_tokens": 71,
+    "prompt_tokens": 4265,
+    "prompt_tokens_details": null,
+    "total_tokens": 4336
+  }
+}

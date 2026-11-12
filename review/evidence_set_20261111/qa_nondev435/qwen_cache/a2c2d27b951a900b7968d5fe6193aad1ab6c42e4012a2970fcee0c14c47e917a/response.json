@@ -1,0 +1,17 @@
+{
+  "body_sha256": "a2c2d27b951a900b7968d5fe6193aad1ab6c42e4012a2970fcee0c14c47e917a",
+  "finish_reason": "stop",
+  "latency_s": 3.8236355839981115,
+  "prediction": "On Saturday, Dacey suggests organizing a practice session focused on passing drills. She proposes meeting up at 3 PM on Saturday afternoon to work on improving their passing skills. Additionally, she offers to set up cones for target practice during the passing drills, suggesting a fun and interactive approach to skill improvement.",
+  "prediction_sha256": "46ecfc1e9241a5568e8efd2523eab7209f84cd265d56c38e2393525f3bc9b287",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100361,
+  "usage": {
+    "completion_tokens": 61,
+    "prompt_tokens": 4923,
+    "prompt_tokens_details": null,
+    "total_tokens": 4984
+  }
+}

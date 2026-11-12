@@ -1,0 +1,17 @@
+{
+  "body_sha256": "7bddcebfdb230cd3d57e85e55406bc64dfe9ccc8e9b87d4539c6ac7c1737c1e7",
+  "finish_reason": "stop",
+  "latency_s": 8.899447542004054,
+  "prediction": "In one of the conversations between Adam Smith and LiHua, Adam mentions a house rule regarding noise levels. Specifically, he states, \"Please keep noise to a minimum during late hours and take good care of the property.\" This rule aims to ensure a peaceful environment, particularly during nighttime hours, and emphasizes the importance of maintaining the property.",
+  "prediction_sha256": "f29196f33234bf1511df469c570f52685cca8e96e849dac68423e5a6e0b3f130",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200059,
+  "usage": {
+    "completion_tokens": 69,
+    "prompt_tokens": 4702,
+    "prompt_tokens_details": null,
+    "total_tokens": 4771
+  }
+}

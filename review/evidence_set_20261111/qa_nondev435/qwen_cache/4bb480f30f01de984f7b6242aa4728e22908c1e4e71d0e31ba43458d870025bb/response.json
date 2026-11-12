@@ -1,0 +1,17 @@
+{
+  "body_sha256": "4bb480f30f01de984f7b6242aa4728e22908c1e4e71d0e31ba43458d870025bb",
+  "finish_reason": "stop",
+  "latency_s": 7.319422082997335,
+  "prediction": "In a conversation with LiHua, Emily expresses that one of the aspects of a series she particularly enjoys is how it allows her to feel like she is really getting to know the characters. This sentiment is evident when Emily mentions, \"The visuals are amazing, right? I really love how they are bringing Middle-earth to life. My favorite part so far has been the emphasis on character development and their backstories. It feels like we’re really getting to know them!\" This indicates that Emily appreciates series that provide in-depth character development, allowing viewers to form connections and understand the characters on a deeper level.",
+  "prediction_sha256": "895b8f5794daae223fc46fb061467f860b3c8b538e4a99d3dbbebac565e15446",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100266,
+  "usage": {
+    "completion_tokens": 123,
+    "prompt_tokens": 4112,
+    "prompt_tokens_details": null,
+    "total_tokens": 4235
+  }
+}

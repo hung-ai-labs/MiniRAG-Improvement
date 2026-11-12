@@ -1,0 +1,17 @@
+{
+  "body_sha256": "577a5db403c59d20bc89e733551dae20b940a5dc8924e5fa49fe6d80d3869eca",
+  "finish_reason": "stop",
+  "latency_s": 10.803266166996764,
+  "prediction": "ChaeSong-hwa has mentioned planning a community medical knowledge lecture. According to the conversation, the lecture is scheduled for tonight at 7 PM. No specific date is provided, only that it's happening \"tonight.\" Given the context of the messages, it seems the lecture is likely taking place on the same day as the previous messages, which were dated around November 25th. Therefore, the lecture is occurring on the evening of November 25th at 7 PM.",
+  "prediction_sha256": "54ee2faa44a2efee99ac785039cfeb50d11d8932bbaa7cd4f7158a8a057e9e07",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100106,
+  "usage": {
+    "completion_tokens": 100,
+    "prompt_tokens": 3482,
+    "prompt_tokens_details": null,
+    "total_tokens": 3582
+  }
+}

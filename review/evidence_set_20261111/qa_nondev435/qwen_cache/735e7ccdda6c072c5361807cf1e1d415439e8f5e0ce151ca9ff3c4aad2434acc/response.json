@@ -1,0 +1,17 @@
+{
+  "body_sha256": "735e7ccdda6c072c5361807cf1e1d415439e8f5e0ce151ca9ff3c4aad2434acc",
+  "finish_reason": "stop",
+  "latency_s": 7.247268040999188,
+  "prediction": "Based on the conversation, Fionnuala highlights the convenience of the Control Center's ability to adjust audio settings on the fly without having to pause the game. She expresses enthusiasm about how this feature makes switching between games and apps smoother, emphasizing its practical benefits during gameplay.",
+  "prediction_sha256": "15c2bd3045111db57d75075cee959bc1ce8d27af9c0b5b435e11081f51b6561e",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 251,
+  "usage": {
+    "completion_tokens": 55,
+    "prompt_tokens": 4313,
+    "prompt_tokens_details": null,
+    "total_tokens": 4368
+  }
+}

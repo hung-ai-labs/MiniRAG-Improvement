@@ -1,0 +1,17 @@
+{
+  "body_sha256": "c90010f7b4783cc646c04474850308b21346a6f6ab942bc45d1ca39a3f02d86c",
+  "finish_reason": "stop",
+  "latency_s": 13.10766225000043,
+  "prediction": "Based on the conversation recorded in the source, the Freelancer Group Meeting was initially scheduled for March 6th at 2:00 PM. However, LiHua and Yuriko decided to reschedule the meeting to a later date. In the subsequent discussion, LiHua asked Yuriko whether she planned to attend the Freelancer Group Meeting on Wednesday at 3 PM, which suggests that the meeting has been postponed to a later date than originally planned. No further specific dates were mentioned in the provided conversation, so the initial scheduled date remains as March 6th at 2:00 PM.",
+  "prediction_sha256": "49baa1aecd48c5007bc1c42dd2afa3faf9735ea1ac48669d7dbcd7e9b2eeed8e",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100133,
+  "usage": {
+    "completion_tokens": 126,
+    "prompt_tokens": 4413,
+    "prompt_tokens_details": null,
+    "total_tokens": 4539
+  }
+}

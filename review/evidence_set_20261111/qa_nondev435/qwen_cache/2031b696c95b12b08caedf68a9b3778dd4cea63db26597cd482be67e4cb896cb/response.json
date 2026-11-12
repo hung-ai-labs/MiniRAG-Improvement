@@ -1,0 +1,17 @@
+{
+  "body_sha256": "2031b696c95b12b08caedf68a9b3778dd4cea63db26597cd482be67e4cb896cb",
+  "finish_reason": "stop",
+  "latency_s": 7.107102166999539,
+  "prediction": "IllidanStormrage expresses his eagerness to bring some epic games to the picnic, aiming to ensure that everyone remains entertained and engaged throughout the event. He describes these games as a way to \"keep everyone entertained\" and hopes that the picnic will be \"legendary.\"",
+  "prediction_sha256": "e625010f8294a7ef82fae0780b22bee196d0f423d81a9095cd3c8b1f0bd407c7",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200397,
+  "usage": {
+    "completion_tokens": 55,
+    "prompt_tokens": 4425,
+    "prompt_tokens_details": null,
+    "total_tokens": 4480
+  }
+}

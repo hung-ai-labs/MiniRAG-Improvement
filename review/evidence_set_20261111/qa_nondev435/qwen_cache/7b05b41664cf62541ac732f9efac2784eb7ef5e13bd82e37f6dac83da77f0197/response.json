@@ -1,0 +1,17 @@
+{
+  "body_sha256": "7b05b41664cf62541ac732f9efac2784eb7ef5e13bd82e37f6dac83da77f0197",
+  "finish_reason": "stop",
+  "latency_s": 9.85735541699978,
+  "prediction": "Based on the information provided in the entities table, it mentions that \"Local Music Festival is the event the band is planning to perform at, scheduled for the coming days.\" However, there is no explicit mention of which song Li Hua performed at this local music festival. The details given are primarily related to band practices and discussions about song selection for upcoming gatherings rather than a specific performance at a local music festival. Therefore, without additional context from the data tables, we cannot determine the exact song Li Hua performed at the local music festival.",
+  "prediction_sha256": "428ff02ce5b05c7d3b23f39fab617aed072dee20f46e0a42abf89d9775e9b675",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100430,
+  "usage": {
+    "completion_tokens": 109,
+    "prompt_tokens": 4099,
+    "prompt_tokens_details": null,
+    "total_tokens": 4208
+  }
+}

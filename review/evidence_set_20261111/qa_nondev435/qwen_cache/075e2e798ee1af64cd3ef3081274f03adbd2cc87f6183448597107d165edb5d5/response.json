@@ -1,0 +1,17 @@
+{
+  "body_sha256": "075e2e798ee1af64cd3ef3081274f03adbd2cc87f6183448597107d165edb5d5",
+  "finish_reason": "stop",
+  "latency_s": 9.500533833997906,
+  "prediction": "According to JakeWatson's conversation with LiHua, one of his favorite memories involving Puyol and Piqué was the comeback against Paris Saint-Germain (PSG) in the Champions League. During this match, Puyol demonstrated exceptional leadership qualities, while Piqué contributed with his solid defensive work, making key interceptions. This match was described as \"insane\" by JakeWatson, highlighting the drama and emotion associated with the team's comeback.",
+  "prediction_sha256": "4efa858c48342db8cadc2507206abedd0d5375ac187768c0172eac6a771c8ef8",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100227,
+  "usage": {
+    "completion_tokens": 95,
+    "prompt_tokens": 3537,
+    "prompt_tokens_details": null,
+    "total_tokens": 3632
+  }
+}

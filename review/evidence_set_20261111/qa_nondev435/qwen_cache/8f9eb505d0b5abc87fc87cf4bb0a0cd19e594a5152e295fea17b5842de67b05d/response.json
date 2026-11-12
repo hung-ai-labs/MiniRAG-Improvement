@@ -1,0 +1,17 @@
+{
+  "body_sha256": "8f9eb505d0b5abc87fc87cf4bb0a0cd19e594a5152e295fea17b5842de67b05d",
+  "finish_reason": "stop",
+  "latency_s": 11.66383041699737,
+  "prediction": "In the conversations provided, Li Hua and Wolfgang Schulz discuss various aspects of burger preferences. Initially, Li Hua asks Wolfgang Schulz his opinion on the ideal level of doneness for a burger patty, specifically whether he prefers medium rare or well-done. Wolfgang Schulz argues for well-done due to its perceived safety and flavor, while Li Hua maintains that he appreciates the juicy texture of a medium rare patty. They also touch upon the importance of toppings, with Wolfgang Schulz suggesting a classic cheeseburger with optional bacon, while Li Hua recommends jalapeños for a spicy kick. This exchange highlights their differing tastes and opinions on how to enhance the overall burger experience.",
+  "prediction_sha256": "3bc4b860d96bfde7e0c473bad522b547cfd2266047dfcec009847de810868ee7",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200185,
+  "usage": {
+    "completion_tokens": 140,
+    "prompt_tokens": 4536,
+    "prompt_tokens_details": null,
+    "total_tokens": 4676
+  }
+}

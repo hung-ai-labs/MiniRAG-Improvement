@@ -1,0 +1,17 @@
+{
+  "body_sha256": "f78f8e972336cad756e857bebbe69417715d0c3ce07c1dfffa16fac2c2893e03",
+  "finish_reason": "stop",
+  "latency_s": 10.471872958005406,
+  "prediction": "According to Jennifer Moore, protein is crucial for maintaining a healthy physique. She emphasizes the importance of sufficient protein intake, particularly after workouts, for muscle recovery and building lean mass. This aligns with the description in the \"PROTEIN\" entity, which highlights protein's role in keeping the body in shape. Additionally, she recommends different types of protein supplements such as whey and pea protein, noting their benefits for muscle recovery and suggesting they are suitable for individuals who may need alternatives to dairy-based products.",
+  "prediction_sha256": "4fdd856ccac66545ac512e012f99af143071e20f35dcc927c0ced32c5c99cdcd",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 235,
+  "usage": {
+    "completion_tokens": 102,
+    "prompt_tokens": 3567,
+    "prompt_tokens_details": null,
+    "total_tokens": 3669
+  }
+}

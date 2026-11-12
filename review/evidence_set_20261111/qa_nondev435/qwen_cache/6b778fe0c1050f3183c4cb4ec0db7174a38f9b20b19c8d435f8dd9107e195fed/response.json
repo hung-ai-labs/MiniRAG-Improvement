@@ -1,0 +1,17 @@
+{
+  "body_sha256": "6b778fe0c1050f3183c4cb4ec0db7174a38f9b20b19c8d435f8dd9107e195fed",
+  "finish_reason": "stop",
+  "latency_s": 7.973954249995586,
+  "prediction": "Jasper mentions a comeback match involving Manchester City, specifically stating that \"Real Madrid participated in a comeback against Manchester City.\" This comeback was part of the Champions League, indicating a recent match where Manchester City managed to turn the tide against a strong opponent, showcasing their resilience and skill.",
+  "prediction_sha256": "c2a53c5eba01d830a159a20b9d9db53e63a33b4284bc85739ae1ce743c63c0d0",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 302,
+  "usage": {
+    "completion_tokens": 57,
+    "prompt_tokens": 5050,
+    "prompt_tokens_details": null,
+    "total_tokens": 5107
+  }
+}

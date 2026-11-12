@@ -1,0 +1,17 @@
+{
+  "body_sha256": "b72eaca43b47250c4ea47f41abc76cc7d9ebb245b3210d5dae773c331e312460",
+  "finish_reason": "stop",
+  "latency_s": 7.204456042003585,
+  "prediction": "According to the conversation, Turalyon announced that he plans to limit noisy activities from 2-3 pm. He suggested putting up temporary barriers or using quieter tools during that timeframe to address the concerns about noise.",
+  "prediction_sha256": "93dd8d456378ae4c9af516db03fa1a98c034962e8b4b35894dd3a619f28a1f30",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 127,
+  "usage": {
+    "completion_tokens": 44,
+    "prompt_tokens": 4332,
+    "prompt_tokens_details": null,
+    "total_tokens": 4376
+  }
+}

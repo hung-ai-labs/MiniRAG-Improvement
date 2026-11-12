@@ -1,0 +1,17 @@
+{
+  "body_sha256": "d77cc009b4f92434ed1204a15ea970131b4349ab4fd0e5bdab9bcb9a01758a04",
+  "finish_reason": "stop",
+  "latency_s": 20.56523116599783,
+  "prediction": "Li Hua and Wolfgang Schulz have a lunch meeting scheduled at the cozy café downtown at 12:00 PM. This information is derived from the content of message number 4, which states, \"Time: 20260121_13:00 WolfgangSchulz: Hey! You up for some stand-up comedy tonight? Could be fun! LiHua: Sounds awesome! I've been needing a good laugh. What time do you have in mind?\" Following this, Wolfgang Schulz clarifies, \"Great! How about we catch the 7 PM show? Gives us time to grab some food before. LiHua: Perfect! Let’s meet a bit earlier then to eat. Any place in mind?\" Wolfgang Schulz then proposes, \"How about that new burger place near the cinema? I've heard good things! LiHua: That sounds delicious! I've been wanting to try it. Let’s do it! See you tomorrow! 🍔🎥\" This indicates that Wolfgang Schulz mentioned a different event later in the day, but the initial lunch meeting with the cozy café downtown at 12:00 PM is clearly stated in the conversation.",
+  "prediction_sha256": "b1fccfa558afa403fc0b8ba542a37037f0cc2239b101bf30df642256bb3bacf2",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200056,
+  "usage": {
+    "completion_tokens": 249,
+    "prompt_tokens": 4660,
+    "prompt_tokens_details": null,
+    "total_tokens": 4909
+  }
+}

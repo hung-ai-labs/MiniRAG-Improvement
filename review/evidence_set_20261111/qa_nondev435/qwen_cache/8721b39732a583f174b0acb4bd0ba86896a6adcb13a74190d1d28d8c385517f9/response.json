@@ -1,0 +1,17 @@
+{
+  "body_sha256": "8721b39732a583f174b0acb4bd0ba86896a6adcb13a74190d1d28d8c385517f9",
+  "finish_reason": "stop",
+  "latency_s": 14.15602708300139,
+  "prediction": "In a conversation recorded on June 5, 2026 at 18:45, Li Hua informed Adam Smith that she had noticed a broken streetlight nearby. Li Hua then asked if he knew who to contact regarding the repair. Adam responded by suggesting that she should call the maintenance worker at the number 314159. He emphasized that the maintenance team would be able to assist with fixing the issue. Li Hua thanked Adam for the advice and indicated her intention to follow through with contacting the maintenance workers. Adam assured her that he would be available to help if she needed anything else.",
+  "prediction_sha256": "c5cf6dcb5c7d151e636be87c610ec2a0bb7ff1df2120e57786fd131cf72e88d6",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100067,
+  "usage": {
+    "completion_tokens": 129,
+    "prompt_tokens": 4363,
+    "prompt_tokens_details": null,
+    "total_tokens": 4492
+  }
+}

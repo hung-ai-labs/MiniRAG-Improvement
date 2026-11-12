@@ -1,0 +1,17 @@
+{
+  "body_sha256": "44ed79dc7d6887e909ba1ce1facb0ac16c5387f2012a9f1765b544648d57892c",
+  "finish_reason": "stop",
+  "latency_s": 7.977026250002382,
+  "prediction": "In their conversation, LiHua mentions that he enjoys a \"chill weekend\" and suggests potential activities like watching a movie or hanging out at a cafe. However, there is no specific mention of a perfect place for him to work. LiHua seems to prefer low-key activities that allow for relaxation and social interaction rather than a dedicated workspace.",
+  "prediction_sha256": "a64d7fb20e237b149769463d2ec0702bc9b6d552dc27f21288dd8b2062da3dfb",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100125,
+  "usage": {
+    "completion_tokens": 71,
+    "prompt_tokens": 4409,
+    "prompt_tokens_details": null,
+    "total_tokens": 4480
+  }
+}

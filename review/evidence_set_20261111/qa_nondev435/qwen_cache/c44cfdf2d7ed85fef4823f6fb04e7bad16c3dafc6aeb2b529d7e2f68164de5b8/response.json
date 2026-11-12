@@ -1,0 +1,17 @@
+{
+  "body_sha256": "c44cfdf2d7ed85fef4823f6fb04e7bad16c3dafc6aeb2b529d7e2f68164de5b8",
+  "finish_reason": "stop",
+  "latency_s": 7.125900499999261,
+  "prediction": "On a different day, specifically on April 30, 2026, Wolfgang and Li Hua discussed their dining plans at Venedia Grancaffe after Wolfgang received a promotion. During this conversation, Wolfgang expressed a desire to try the risotto offered by the restaurant. Therefore, it can be inferred that Wolfgang planned to have risotto with Li Hua after their hot pot dinner.",
+  "prediction_sha256": "a6ddb9580020d099866d871f4ed3b30925b22d7ca98b061b41d5d5ef2cb257f6",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 441,
+  "usage": {
+    "completion_tokens": 80,
+    "prompt_tokens": 4519,
+    "prompt_tokens_details": null,
+    "total_tokens": 4599
+  }
+}

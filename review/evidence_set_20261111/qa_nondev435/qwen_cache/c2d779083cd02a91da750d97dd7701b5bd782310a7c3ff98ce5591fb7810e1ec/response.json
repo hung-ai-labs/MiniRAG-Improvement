@@ -1,0 +1,17 @@
+{
+  "body_sha256": "c2d779083cd02a91da750d97dd7701b5bd782310a7c3ff98ce5591fb7810e1ec",
+  "finish_reason": "stop",
+  "latency_s": 5.8046872909981175,
+  "prediction": "The discussion about the garage sale is mentioned in the third source entry, which takes place at a time of \"20260312_12:30\". This indicates that the garage sale event is scheduled for March 12, 2026, at 12:30 PM.",
+  "prediction_sha256": "58b8b971935057d39b70f250009ce93c00612e457f3ee653c2fb8e212aa3fcd9",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100168,
+  "usage": {
+    "completion_tokens": 68,
+    "prompt_tokens": 5168,
+    "prompt_tokens_details": null,
+    "total_tokens": 5236
+  }
+}

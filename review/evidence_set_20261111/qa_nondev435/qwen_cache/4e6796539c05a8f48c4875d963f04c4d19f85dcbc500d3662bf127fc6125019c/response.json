@@ -1,0 +1,17 @@
+{
+  "body_sha256": "4e6796539c05a8f48c4875d963f04c4d19f85dcbc500d3662bf127fc6125019c",
+  "finish_reason": "stop",
+  "latency_s": 10.102501375000429,
+  "prediction": "According to the conversation, WolfgangSchulz invited LiHua to go grocery shopping after work on 20260923. The purpose was to grab some snacks for their next jam session. LiHua expressed enthusiasm for the idea, indicating she could use some snacks for the weekend. WolfgangSchulz suggested a meeting time of around 5:30, aiming to avoid crowds, and LiHua agreed to the proposed time.",
+  "prediction_sha256": "de12db100e5af6f135e141dc62dd343291065f2659ba8772f1efe8405828e20f",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200267,
+  "usage": {
+    "completion_tokens": 94,
+    "prompt_tokens": 4446,
+    "prompt_tokens_details": null,
+    "total_tokens": 4540
+  }
+}

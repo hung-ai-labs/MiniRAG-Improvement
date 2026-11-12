@@ -1,0 +1,17 @@
+{
+  "body_sha256": "635b0682529c28b70a9d6c622067d68894d9415d6d79d9af2be449b2fa4d7454",
+  "finish_reason": "stop",
+  "latency_s": 12.485481499999878,
+  "prediction": "No, Li Hua did not ask Wolfgang Schulz if he wanted to go to the gym together prior to Jennifer reminding Li Hua about the gym's membership feedback activity. The conversation about going to the gym together occurs after Jennifer reminds Li Hua about the feedback activity. Specifically, in the timeline entry for January 11th, Wolfgang Schulz suggests Li Hua try a gym called FitZone and offers to hit the gym together, which Li Hua agrees to. This follows the reminder from Jennifer about the gym's membership feedback activity.",
+  "prediction_sha256": "5e3cc8bbb70497ccb0cf61c53cf23a900eda473df2d0029071f2d721dfb7e39c",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200047,
+  "usage": {
+    "completion_tokens": 111,
+    "prompt_tokens": 4556,
+    "prompt_tokens_details": null,
+    "total_tokens": 4667
+  }
+}

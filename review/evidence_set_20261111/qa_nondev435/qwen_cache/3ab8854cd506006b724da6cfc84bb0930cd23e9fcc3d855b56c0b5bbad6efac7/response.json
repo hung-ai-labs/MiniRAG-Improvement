@@ -1,0 +1,17 @@
+{
+  "body_sha256": "3ab8854cd506006b724da6cfc84bb0930cd23e9fcc3d855b56c0b5bbad6efac7",
+  "finish_reason": "stop",
+  "latency_s": 7.755464084002597,
+  "prediction": "Jasper recommends the 2005 final between Liverpool and AC Milan as a classic UCL match that he finds particularly thrilling. In this match, Liverpool found themselves down 3-0 at halftime but managed to come back and win the game in penalties. This comeback is widely considered to be a dramatic and memorable moment in football history.",
+  "prediction_sha256": "19f5b987da3a91b14c82dda03148b1cc53ee72ab06a18f14d8b90ed4e61e410c",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 182,
+  "usage": {
+    "completion_tokens": 70,
+    "prompt_tokens": 4870,
+    "prompt_tokens_details": null,
+    "total_tokens": 4940
+  }
+}

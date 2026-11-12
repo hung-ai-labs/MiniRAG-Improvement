@@ -1,0 +1,17 @@
+{
+  "body_sha256": "70d05e334ca75b19778534d968a3f2c9b37d75c670dc964f2561fa9e7e85598a",
+  "finish_reason": "stop",
+  "latency_s": 4.71919875000458,
+  "prediction": "JakeWatson recommends several exercises to improve leg strength, which he suggests for Li Hua. Specifically, Jake recommends squats and lunges. He states, \"They really help with your power on the field.\" Additionally, he mentions the importance of stretching after workouts to keep muscles flexible, which is a general tip rather than an exercise recommendation. Thus, squats and lunges are the two primary leg-strengthening exercises JakeWatson endorses.",
+  "prediction_sha256": "d4a7614adbb269446bd7d9dcc3675d3048ff4e26a89a274975a89094f939ed73",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100268,
+  "usage": {
+    "completion_tokens": 93,
+    "prompt_tokens": 4305,
+    "prompt_tokens_details": null,
+    "total_tokens": 4398
+  }
+}

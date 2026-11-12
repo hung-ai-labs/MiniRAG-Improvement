@@ -1,0 +1,17 @@
+{
+  "body_sha256": "1831893df6d1479bd05e6b2e676cd66ecb6baee8c72c14c6cd0303cbf94d295a",
+  "finish_reason": "stop",
+  "latency_s": 7.25287112499791,
+  "prediction": "In the conversations recorded, Li Hua expresses enthusiasm about the curtains she has received. Specifically, she mentions liking the patterns very much. However, there is no additional detail provided regarding what aspects of the curtains Li Hua specifically appreciates or finds appealing.",
+  "prediction_sha256": "487ef3d273f5f98922041ef5b172857188e611022100bd02fa6d870148e0056f",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100334,
+  "usage": {
+    "completion_tokens": 52,
+    "prompt_tokens": 4312,
+    "prompt_tokens_details": null,
+    "total_tokens": 4364
+  }
+}

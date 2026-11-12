@@ -1,0 +1,17 @@
+{
+  "body_sha256": "681ee253c5a810ad9f221761ad04342b77845a76f5d95230a1aa05820f335bd9",
+  "finish_reason": "stop",
+  "latency_s": 7.222901332999754,
+  "prediction": "According to the records, Li Hua has been scheduled for training sessions on Tuesdays and Thursdays. Jennifer Moore proposed this arrangement to help balance Li Hua's fitness regimen with his work schedule. Li Hua confirmed this plan, expressing enthusiasm about the new training schedule.",
+  "prediction_sha256": "c558a1d1bc6635c01ad17b09bf686b4165ff43f8866a37151b2dce32230b409a",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200073,
+  "usage": {
+    "completion_tokens": 56,
+    "prompt_tokens": 4328,
+    "prompt_tokens_details": null,
+    "total_tokens": 4384
+  }
+}

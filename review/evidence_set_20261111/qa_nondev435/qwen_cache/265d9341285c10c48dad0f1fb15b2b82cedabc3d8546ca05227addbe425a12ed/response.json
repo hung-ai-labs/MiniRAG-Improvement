@@ -1,0 +1,17 @@
+{
+  "body_sha256": "265d9341285c10c48dad0f1fb15b2b82cedabc3d8546ca05227addbe425a12ed",
+  "finish_reason": "stop",
+  "latency_s": 8.776030916997115,
+  "prediction": "Li Hua initiates contact with Adam Smith regarding the move-in details multiple times. From the records provided, the first instance of Li Hua checking in with Adam about the move-in is at 20260105_14:00, which corresponds to 2:00 PM on January 5th, 2026. This indicates that Adam is available for Li Hua to visit after 5 PM that day.",
+  "prediction_sha256": "69e5bf743772ec1a5c033a696587649814c293d25f84263baee56f5b5a24a874",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100055,
+  "usage": {
+    "completion_tokens": 96,
+    "prompt_tokens": 4456,
+    "prompt_tokens_details": null,
+    "total_tokens": 4552
+  }
+}

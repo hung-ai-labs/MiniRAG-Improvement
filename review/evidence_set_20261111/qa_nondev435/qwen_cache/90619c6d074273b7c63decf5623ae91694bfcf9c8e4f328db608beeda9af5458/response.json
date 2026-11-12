@@ -1,0 +1,17 @@
+{
+  "body_sha256": "90619c6d074273b7c63decf5623ae91694bfcf9c8e4f328db608beeda9af5458",
+  "finish_reason": "stop",
+  "latency_s": 10.534051500002533,
+  "prediction": "According to the timeline provided, Li Hua informed Adam Smith that the rent for last month (May) had been transferred on June 2nd at 10:00 AM. This communication appears in the third entry of the source data, where Li Hua updates Adam Smith about the late payment of rent, stating, \"Hi Adam, just wanted to let you know that I've already transferred the rent through bank transfer. Thanks!\"",
+  "prediction_sha256": "958e4ce0044c0528ac342bb9e1ef7933350c416960604af9558716643a2c0ae5",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100130,
+  "usage": {
+    "completion_tokens": 90,
+    "prompt_tokens": 4358,
+    "prompt_tokens_details": null,
+    "total_tokens": 4448
+  }
+}

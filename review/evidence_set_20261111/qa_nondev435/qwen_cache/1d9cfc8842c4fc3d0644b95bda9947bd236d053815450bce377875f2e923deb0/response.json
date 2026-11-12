@@ -1,0 +1,17 @@
+{
+  "body_sha256": "1d9cfc8842c4fc3d0644b95bda9947bd236d053815450bce377875f2e923deb0",
+  "finish_reason": "stop",
+  "latency_s": 8.239717458000086,
+  "prediction": "Based on the conversations shared, ThaneChambers highly recommends \"The Last of Us\" for its choice-based storytelling. He describes it as a \"masterpiece\" with a \"super gripping and emotional\" story that features \"really well developed characters.\" Additionally, ThaneChambers points out that the game's \"mix of action and stealth keeps you on your toes\" and compares it favorably to games with strong narratives like \"Witcher 3,\" indicating that it would be a fitting recommendation for fans of that series.",
+  "prediction_sha256": "73a0f3bc93da33f3442a62d53318e423116a67b3b7300e6ea270a27c55953931",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100322,
+  "usage": {
+    "completion_tokens": 109,
+    "prompt_tokens": 4270,
+    "prompt_tokens_details": null,
+    "total_tokens": 4379
+  }
+}

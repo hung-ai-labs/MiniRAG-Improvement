@@ -1,0 +1,17 @@
+{
+  "body_sha256": "5c384a7ad7d0bba1cdaf978cbe1fa9492cbb485bf6245a243068f20cc6ab1855",
+  "finish_reason": "stop",
+  "latency_s": 14.339566292001109,
+  "prediction": " According to the provided data tables, Wolfgang Schulz and Li Hua have a planned lunch meeting at the cozy café downtown. The specific time for their lunch is mentioned in two entries within the sources:\n\n**Source Entry #0:**\n```\n\"WolfgangSchulz: Hey! Just wanted to remind you about our lunch at the cozy café downtown at 12:00. Can't wait to catch up! 😊\nLiHua: Thanks for the reminder! I'm really looking forward to it too! What do you feel like eating? 🍽️\nWolfgangSchulz: I'm in the mood for something warm and hearty. Maybe a nice soup or a sandwich? What about you?\nLiHua: Sounds perfect! I'm thinking of getting a nice burger. It's always a good choice! 🍔 See you there in a bit!\nWolfgangSchulz: Awesome! I'll see you soon!\"\n```\n\n**Source Entry #1:**\n```\n\"WolfgangSchulz: Sounds perfect! I'll see you there in a bit! \nLiHua: Yeah! See you at 12! 🍽️\"\n```\n\nFrom these entries, it is clear that the planned lunch between Wolfgang Schulz and Li Hua at the cozy café downtown is scheduled for 12:00 PM. Both participants are looking forward to the gathering and discussing their food preferences, with Li Hua considering ordering a burger and Wolfgang Schulz suggesting either soup or a sandwich.",
+  "prediction_sha256": "61703972d527e50c27bed1fb97b3a1df4c569e1885ff463611458178281ff0b8",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 100056,
+  "usage": {
+    "completion_tokens": 377,
+    "prompt_tokens": 4082,
+    "prompt_tokens_details": null,
+    "total_tokens": 4459
+  }
+}

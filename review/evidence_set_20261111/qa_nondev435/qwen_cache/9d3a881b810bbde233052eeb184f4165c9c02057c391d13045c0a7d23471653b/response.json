@@ -1,0 +1,17 @@
+{
+  "body_sha256": "9d3a881b810bbde233052eeb184f4165c9c02057c391d13045c0a7d23471653b",
+  "finish_reason": "stop",
+  "latency_s": 5.960698959002912,
+  "prediction": "According to the conversations provided, WolfgangSchulz suggests getting pizza for dinner after work. This suggestion appears in the second source, where WolfgangSchulz invites LiHua to grab some pizza for dinner after work.",
+  "prediction_sha256": "e7854f0d7b7da505b70ca3a2f1bbad62d5b9fb15dab13e5bb9d0e901961fbe51",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100365,
+  "usage": {
+    "completion_tokens": 45,
+    "prompt_tokens": 5288,
+    "prompt_tokens_details": null,
+    "total_tokens": 5333
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "4c1dc60387c79149cf23fcaff6d3037a7615f8b74c1e1eff7615cf80e70fdc46",
+  "finish_reason": "stop",
+  "latency_s": 8.886659083000268,
+  "prediction": "During the bakery's anniversary event, Li Hua expressed enthusiasm about trying new bread products. However, there is no specific mention of which flavor of new bread product Li Hua particularly enjoyed. Li Hua did mention that she loves sourdough, but this preference was based on her usual tastes rather than the new offerings at the event. No particular flavor was highlighted as her favorite among the new products.",
+  "prediction_sha256": "78c3d0b35823e548995e63c0def5a69cd722e72e924e956fe5a4a1b35adcad7d",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100424,
+  "usage": {
+    "completion_tokens": 82,
+    "prompt_tokens": 4498,
+    "prompt_tokens_details": null,
+    "total_tokens": 4580
+  }
+}

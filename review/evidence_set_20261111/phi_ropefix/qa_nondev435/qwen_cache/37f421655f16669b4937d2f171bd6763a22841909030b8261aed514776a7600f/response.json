@@ -1,0 +1,17 @@
+{
+  "body_sha256": "37f421655f16669b4937d2f171bd6763a22841909030b8261aed514776a7600f",
+  "finish_reason": "stop",
+  "latency_s": 4.92189758400491,
+  "prediction": " According to the data provided in the tables, LiHua and AdamSmith come to an agreement to install the curtain on **Thursday afternoon**. This is confirmed from the exchange recorded on **Time: 20260921_16:00**, where AdamSmith says, \"Thursday afternoon works for you?\" and LiHua responds, \"Thursday afternoon works for me!\" confirming their mutual availability for the task. They further discuss the specifics of the installation, ensuring the plan is set for the agreed day.",
+  "prediction_sha256": "4bcf9ed6961691429d2f83cd8e67484b45932ba1d701d8d5fdafb96b33da7fbd",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 100249,
+  "usage": {
+    "completion_tokens": 123,
+    "prompt_tokens": 3949,
+    "prompt_tokens_details": null,
+    "total_tokens": 4072
+  }
+}

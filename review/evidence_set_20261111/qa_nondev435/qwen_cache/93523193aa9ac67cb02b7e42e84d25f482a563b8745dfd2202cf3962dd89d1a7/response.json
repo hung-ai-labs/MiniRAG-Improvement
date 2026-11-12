@@ -1,0 +1,17 @@
+{
+  "body_sha256": "93523193aa9ac67cb02b7e42e84d25f482a563b8745dfd2202cf3962dd89d1a7",
+  "finish_reason": "stop",
+  "latency_s": 10.838619665999431,
+  "prediction": "Jennifer Moore checks in with Li Hua about their arm muscles after the bench press session. This interaction occurs in a text message dated 20261008_14:00, where Jennifer asks about the soreness in Li Hua's arm muscles following their recent session.",
+  "prediction_sha256": "c4c8983a0aef69f86e819b76a939bc04ea77c530e5eb58c8bfcdfbb7a63bc27e",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200305,
+  "usage": {
+    "completion_tokens": 62,
+    "prompt_tokens": 4526,
+    "prompt_tokens_details": null,
+    "total_tokens": 4588
+  }
+}

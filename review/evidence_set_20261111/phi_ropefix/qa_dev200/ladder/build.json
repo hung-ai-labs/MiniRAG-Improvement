@@ -1,0 +1,38 @@
+{
+  "api_calls": 0,
+  "arms": [
+    "C0",
+    "BASELINE",
+    "F",
+    "CE0F",
+    "CE0F_SET"
+  ],
+  "contexts_sha256": "6a2565db0cbc6c85c52c25e6c1b386c0ff7d52690971feee937e38165b5f4239",
+  "full_evidence": {
+    "BASELINE": 71,
+    "C0": 60,
+    "CE0F": 97,
+    "CE0F_SET": 96,
+    "F": 97
+  },
+  "identical_to_baseline": {
+    "BASELINE": 200,
+    "C0": 179,
+    "CE0F": 0,
+    "CE0F_SET": 0,
+    "F": 0
+  },
+  "labelled": 177,
+  "no_context_fail_response": {
+    "BASELINE": 0,
+    "C0": 0,
+    "CE0F": 0,
+    "CE0F_SET": 0,
+    "F": 0
+  },
+  "pipeline_sha256": "891fe1b39ad8f44d2c2f1fd674e878638e377d8bad59aebdb82bd92cf34b8db0",
+  "pool": "native@45",
+  "questions": 200,
+  "scores": "cross-fitted (5 folds); beta/tau nested per fold",
+  "split": "dev200"
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "62563948a766401f8d403e21e1c7c6fb49da070921d2e48eb77471879634da69",
+  "finish_reason": "stop",
+  "latency_s": 5.914307792001637,
+  "prediction": "Based on the conversation between Adam Smith and Li Hua, Li Hua expressed her willingness to contribute to the potluck dinner by saying, \"I can whip up some homemade pasta salad.\" Although Adam Smith suggested that the homemade pasta salad would be a great addition to the dinner, Li Hua confirmed her intention to bring the dish. Therefore, the dish that Li Hua agreed to bring to the neighborhood potluck dinner is homemade pasta salad.",
+  "prediction_sha256": "b48da656a7f17ef61aa88a9e39a74fbc70c3c6138b86ab08e3d61c06ef4faeff",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100087,
+  "usage": {
+    "completion_tokens": 90,
+    "prompt_tokens": 3968,
+    "prompt_tokens_details": null,
+    "total_tokens": 4058
+  }
+}

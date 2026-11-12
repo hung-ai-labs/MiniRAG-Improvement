@@ -1,0 +1,17 @@
+{
+  "body_sha256": "37dc5125b939867551c6274b6a9b28c6ec4d022df136da1cc34ede64c516948b",
+  "finish_reason": "stop",
+  "latency_s": 8.015859375002037,
+  "prediction": "Based on the information provided in the entities table, Wolfgang Schulz and Li Hua discussed various aspects of the Lunar New Year celebration, including family gatherings, exchanging gifts, and enjoying traditional foods. However, there is no specific mention of traditional games they played together during the celebration. The interactions between Wolfgang and Li Hua revolve more around plans for Lunar New Year festivities and personal preferences regarding food and cultural activities.",
+  "prediction_sha256": "4618a529fac95177fdd343afa0d3960dcf73250ed1b9c2482d2a20e55e09e2cc",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100405,
+  "usage": {
+    "completion_tokens": 84,
+    "prompt_tokens": 4178,
+    "prompt_tokens_details": null,
+    "total_tokens": 4262
+  }
+}

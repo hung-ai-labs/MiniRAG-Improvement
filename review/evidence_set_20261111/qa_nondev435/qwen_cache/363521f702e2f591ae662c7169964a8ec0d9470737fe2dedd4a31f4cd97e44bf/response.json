@@ -1,0 +1,17 @@
+{
+  "body_sha256": "363521f702e2f591ae662c7169964a8ec0d9470737fe2dedd4a31f4cd97e44bf",
+  "finish_reason": "stop",
+  "latency_s": 11.22760129100061,
+  "prediction": "LiHua mentions \"Detroit: Become Human\" as an example of a game that explores themes of choice, consciousness, and humanity in a thought-provoking manner. The game allows players to experience different perspectives and multiple endings, keeping the narrative fresh with each playthrough. This game seems to have a rich storyline that delves into significant ethical and philosophical questions related to artificial intelligence and human nature.",
+  "prediction_sha256": "1ad196f5372fe08babe3f04e7156cc8e680230ff66c1042b1ceee6d040cb047b",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200330,
+  "usage": {
+    "completion_tokens": 81,
+    "prompt_tokens": 4274,
+    "prompt_tokens_details": null,
+    "total_tokens": 4355
+  }
+}

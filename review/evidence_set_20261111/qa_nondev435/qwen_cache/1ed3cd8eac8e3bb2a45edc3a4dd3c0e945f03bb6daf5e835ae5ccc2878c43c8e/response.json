@@ -1,0 +1,17 @@
+{
+  "body_sha256": "1ed3cd8eac8e3bb2a45edc3a4dd3c0e945f03bb6daf5e835ae5ccc2878c43c8e",
+  "finish_reason": "stop",
+  "latency_s": 61.05602654199902,
+  "prediction": "Li Hua did not mention discussing his progress with the fitness plan before sharing a blog post about his recent fitness achievements. In the conversation provided, there is no explicit mention of Li Hua reviewing his progress with Jennifer Moore prior to writing a blog post. Instead, the discussions revolve around their current fitness routines, plans for future sessions, and encouragement for each other. Li Hua shared his progress with Jennifer Moore in a separate communication, which occurred after their initial discussion about his current fitness journey and future plans.",
+  "prediction_sha256": "2c906abe97e5f5adca72109b9d0756be80edff20169e1daf0c1821c25473bea0",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 18,
+  "usage": {
+    "completion_tokens": 104,
+    "prompt_tokens": 3586,
+    "prompt_tokens_details": null,
+    "total_tokens": 3690
+  }
+}

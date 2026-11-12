@@ -1,0 +1,17 @@
+{
+  "body_sha256": "29db7b0155ecb3895f1198c5af1f9dda9dd2af5466148c86245f16d389c22dca",
+  "finish_reason": "stop",
+  "latency_s": 9.983256708001136,
+  "prediction": "JenniferMoore suggests several types of stretches both before and after workouts. Before workouts, she recommends performing warm-up stretches that were taught in her class, emphasizing the importance of hydration and the use of foam rolling for recovery. Post-workout, she advises engaging in light activities like walking or gentle yoga to aid in recovery, spending time stretching muscles post-workout to improve flexibility and relieve tension, and using a foam roller on sore spots. Additionally, she stresses the importance of resting to allow muscles to heal.",
+  "prediction_sha256": "d869672d3282385eacae9cb50210a8707104ff73252765821008ea96044c7473",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200119,
+  "usage": {
+    "completion_tokens": 102,
+    "prompt_tokens": 4266,
+    "prompt_tokens_details": null,
+    "total_tokens": 4368
+  }
+}

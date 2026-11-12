@@ -1,0 +1,17 @@
+{
+  "body_sha256": "d2e00622fa3398320a31eaacc6c17311ed6c04dc3bd276dbec16cd1205bef78f",
+  "finish_reason": "stop",
+  "latency_s": 7.229173708001326,
+  "prediction": "In the conversation provided, LiHua asks Jake Watson to play as the goalkeeper for their soccer training session. This request occurs in the first entry of the timeline, where LiHua initiates the conversation by saying, \"Hey Jake! Any chance you can play as the goalkeeper for our soccer training this weekend?\" and Jake Watson enthusiastically accepts the offer.",
+  "prediction_sha256": "7fb74889b1578392522ffb5261c9f50079efcdeaf584f90ee4b9b7cfa0864ffa",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200292,
+  "usage": {
+    "completion_tokens": 72,
+    "prompt_tokens": 4412,
+    "prompt_tokens_details": null,
+    "total_tokens": 4484
+  }
+}

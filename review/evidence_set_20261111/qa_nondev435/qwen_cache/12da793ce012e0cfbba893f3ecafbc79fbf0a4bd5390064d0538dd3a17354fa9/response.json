@@ -1,0 +1,17 @@
+{
+  "body_sha256": "12da793ce012e0cfbba893f3ecafbc79fbf0a4bd5390064d0538dd3a17354fa9",
+  "finish_reason": "stop",
+  "latency_s": 14.60069250000015,
+  "prediction": "According to the conversations, Hailey Johnson provides various types of bread and pastries to Li Hua regularly, including items like gluten-free bread, hazelnut Basque Roasted Cheese, and sprinkled cake donuts. The name of the bakery from which Li Hua receives her bread is Hailey's Bakery. The exact toppings for Li Hua's next delivery are not specified in the given data; however, it is known that Hailey Johnson recommends a drizzle of olive oil and a sprinkle of sea salt for the rosemary focaccia, and cherry tomatoes or olives as additional flavoring. \n\nIn summary, Hailey's Bakery is the source of Li Hua's bread deliveries, and while specific toppings for the next delivery are unknown, Hailey Johnson suggests olive oil and sea salt for the rosemary focaccia.",
+  "prediction_sha256": "f74ae9f7c69a87127c0fed94ef46a74cb5afba57692fcf07916257d66fc22a69",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100420,
+  "usage": {
+    "completion_tokens": 171,
+    "prompt_tokens": 4850,
+    "prompt_tokens_details": null,
+    "total_tokens": 5021
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "67f742406051dda0a34561c17e2206fb791425aa3b100ab492b59529c6257896",
+  "finish_reason": "stop",
+  "latency_s": 9.710128209000686,
+  "prediction": "In one of their conversations, EmilyBurnett recommended several TV shows to LiHua, including \"The Expanse,\" which she described as a \"space adventure\" that she found \"amazing.\" Additionally, EmilyBurnett suggested \"Stranger Things,\" describing it as a \"cool mix of nostalgia and suspense,\" and encouraged LiHua to check it out. However, the specific show that EmilyBurnett recommends LiHua to watch is \"The Expanse.\"",
+  "prediction_sha256": "69c7d8ef235165e343af99ad64483faf1f3d77f9730dbf6f1e46608e4dc84ad7",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200387,
+  "usage": {
+    "completion_tokens": 95,
+    "prompt_tokens": 3175,
+    "prompt_tokens_details": null,
+    "total_tokens": 3270
+  }
+}

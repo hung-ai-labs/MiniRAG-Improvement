@@ -1,0 +1,17 @@
+{
+  "body_sha256": "7abaa6c212270c48e8319cec5b878b1b73289d3b9fc73d63f98f2820535aa523",
+  "finish_reason": "stop",
+  "latency_s": 14.825114917002793,
+  "prediction": " Li Hua plans to meet Yuriko Yamamoto at the Central Perk café to showcase the final website. This meeting is scheduled for Thursday at 3 pm, as indicated in the content of the message with id 0 from the provided data tables. The conversation between Li Hua and Yuriko Yamamoto expresses mutual excitement about the final website presentation and the opportunity for feedback. Both participants show appreciation for each other's effort and express enthusiasm about the upcoming meeting.\n\nHere is the relevant portion of the conversation formatted in Markdown:\n\n```markdown\n| Message ID | Sender       | Date       | Time  | Content                                                                                                                                                                           |\n|------------|--------------|------------|-------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| 0          | LiHua        | 20260317    | 15:30 | Hey Yuriko! I can show you the final website this Thursday at 3pm if that works for you. How about we meet at Central Perk café? Looking forward to your feedback! |\n|            | YurikoYamoto  | 20260317    | 15:30 | That sounds great! I’ll be there. Excited to see the final result! 😊                                                                                                                              |\n```\n\nThis table succinctly summarizes the circumstance of the meeting location and time as derived from the conversation entries in the data tables.",
+  "prediction_sha256": "ace0ff14a35004df6f6ae4902e4f902f825db0e5fabc237e14fa1644b80e33c7",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 100097,
+  "usage": {
+    "completion_tokens": 361,
+    "prompt_tokens": 5212,
+    "prompt_tokens_details": null,
+    "total_tokens": 5573
+  }
+}

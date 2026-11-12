@@ -1,0 +1,17 @@
+{
+  "body_sha256": "0b26e5f773975dbe2cd34baf636cc8f580404be8318e8ea4ac6f8534c7ed18ad",
+  "finish_reason": "stop",
+  "latency_s": 5.013829916999384,
+  "prediction": "The web design seminar is scheduled for Thursday at 3 PM, and it is hosted by WolfgangSchulz's company. This information was communicated via a conversation between WolfgangSchulz and LiHua, where WolfgangSchulz invited LiHua to join him at the seminar.",
+  "prediction_sha256": "f4f85c6aec883e4ddb1cee63002522bc32fe46299c7e389e3aea898c83beaa07",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100120,
+  "usage": {
+    "completion_tokens": 59,
+    "prompt_tokens": 4443,
+    "prompt_tokens_details": null,
+    "total_tokens": 4502
+  }
+}

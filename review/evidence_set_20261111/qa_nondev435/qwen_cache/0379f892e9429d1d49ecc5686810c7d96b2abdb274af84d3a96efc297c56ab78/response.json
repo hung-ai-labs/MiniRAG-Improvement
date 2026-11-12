@@ -1,0 +1,17 @@
+{
+  "body_sha256": "0379f892e9429d1d49ecc5686810c7d96b2abdb274af84d3a96efc297c56ab78",
+  "finish_reason": "stop",
+  "latency_s": 7.015252042001521,
+  "prediction": "In the conversation, Adam reminds Li Hua about the house rules regarding noise levels, specifically mentioning that \"keep noise to a minimum during late hours.\" This implies that Adam reminded Li Hua not to play guitar late at night to ensure that the environment remains quiet for everyone.",
+  "prediction_sha256": "658a7b081a768e9c7ad71b2b6b08f37f3f382e1834a09694ab68edd51eecae99",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200081,
+  "usage": {
+    "completion_tokens": 56,
+    "prompt_tokens": 4389,
+    "prompt_tokens_details": null,
+    "total_tokens": 4445
+  }
+}

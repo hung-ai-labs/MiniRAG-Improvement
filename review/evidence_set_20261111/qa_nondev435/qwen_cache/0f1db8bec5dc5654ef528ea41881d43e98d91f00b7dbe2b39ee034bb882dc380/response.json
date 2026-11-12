@@ -1,0 +1,17 @@
+{
+  "body_sha256": "0f1db8bec5dc5654ef528ea41881d43e98d91f00b7dbe2b39ee034bb882dc380",
+  "finish_reason": "stop",
+  "latency_s": 7.833658416002436,
+  "prediction": "Wolfgang invites Li Hua to a concert on March 7th at 6 PM. This information is derived from the conversation where Wolfgang suggests joining him for a concert on March 7th at 6 PM, indicating that this event is the music concert that Wolfgang invites Li Hua to.",
+  "prediction_sha256": "b1dbbe2dc6afbc93458190b47e3bee035ba483c23e736e6cabffca8dfc007dd4",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100086,
+  "usage": {
+    "completion_tokens": 62,
+    "prompt_tokens": 4149,
+    "prompt_tokens_details": null,
+    "total_tokens": 4211
+  }
+}

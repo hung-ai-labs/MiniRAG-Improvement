@@ -1,0 +1,17 @@
+{
+  "body_sha256": "64d08c5770cd33605ad796a04e8b4f4db7298a47575ed7bff8e634b6b3e271fa",
+  "finish_reason": "stop",
+  "latency_s": 11.969865875002142,
+  "prediction": "There isn't an explicit mention of why Li Hua had an unexpected work meeting on Thursday in the provided data. The table entry only indicates that Li Hua had a meeting scheduled with Yuriko Yamamoto at 2 PM at Central Perk. However, the context provided in the messages shows that Li Hua suggested the meeting time (2 PM) to Yuriko, implying that she chose this time. There is no information suggesting that Li Hua unexpectedly had to attend a meeting; she was the one proposing the meeting time. Therefore, without additional details, the reason for the meeting cannot be determined from the given data.",
+  "prediction_sha256": "04d6acd9f8e806ded082b018757d28592bc66a043f68378e6862781eef7cd673",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200419,
+  "usage": {
+    "completion_tokens": 129,
+    "prompt_tokens": 4157,
+    "prompt_tokens_details": null,
+    "total_tokens": 4286
+  }
+}

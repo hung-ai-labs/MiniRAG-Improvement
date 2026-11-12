@@ -1,0 +1,17 @@
+{
+  "body_sha256": "7d549cfc78126347870249950d39484bf3fe99c8ec0c2853c26228b9b628d624",
+  "finish_reason": "stop",
+  "latency_s": 8.58345670899871,
+  "prediction": "According to JakeWatson, each stretch should be held for about 30 seconds. He specifically mentions, \"Just hold each stretch for about 30 seconds.\"",
+  "prediction_sha256": "d59667fdf6c30ffb5598fbd96c1ef7352f04113281284db0e29003bf85e2aeb6",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 270,
+  "usage": {
+    "completion_tokens": 35,
+    "prompt_tokens": 4441,
+    "prompt_tokens_details": null,
+    "total_tokens": 4476
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "d5628de3e1c622ed50cc402f9327b9ccde1af10812db79f6416f2a834d1739be",
+  "finish_reason": "stop",
+  "latency_s": 8.86362445800114,
+  "prediction": "There is no mention of Adam Smith wanting the window measured in the provided data. The interactions between Li Hua and Adam Smith involve various tasks such as repairing a water tap, picking up a key, coordinating a community emergency response team, arranging a fitness session, discussing football managers, recommending comedy TV series, handling curtain installation, and adding sound-insulating pads to the basement. None of these interactions include Adam Smith requesting a window to be measured.",
+  "prediction_sha256": "a8f6997d276b9a521429779e94bd56aad660ff07284ac50d1b934192a6737132",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 272,
+  "usage": {
+    "completion_tokens": 90,
+    "prompt_tokens": 4296,
+    "prompt_tokens_details": null,
+    "total_tokens": 4386
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "b39ebc5134b8ff4093214a9040f679848683dbdf09e3c8acba0144bf97969d1b",
+  "finish_reason": "stop",
+  "latency_s": 4.01942712500022,
+  "prediction": " Briar suggests adding quick one-twos to the practice drills. This variation of passing is intended to keep the players engaged and to help maintain their stamina during the training session. The inclusion of quick one-twos could provide an additional challenge and dynamic element to their passing practice, making the session more enjoyable and beneficial for their athletic development.",
+  "prediction_sha256": "a990c29a5f91e359b739d16d39e9fb6f1e84b81cf39d27e3775b58bf5e8375e7",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 152,
+  "usage": {
+    "completion_tokens": 76,
+    "prompt_tokens": 4946,
+    "prompt_tokens_details": null,
+    "total_tokens": 5022
+  }
+}

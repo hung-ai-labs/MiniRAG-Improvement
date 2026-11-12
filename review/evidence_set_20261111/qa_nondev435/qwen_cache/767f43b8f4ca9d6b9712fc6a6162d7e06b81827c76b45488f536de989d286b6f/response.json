@@ -1,0 +1,17 @@
+{
+  "body_sha256": "767f43b8f4ca9d6b9712fc6a6162d7e06b81827c76b45488f536de989d286b6f",
+  "finish_reason": "stop",
+  "latency_s": 6.308509832997515,
+  "prediction": "In one of the interactions, Li Hua expressed interest in receiving bread delivery services more frequently. Specifically, she suggested setting up a delivery for Mondays at 8am and Fridays at 8am. Hailey agreed to these requests and confirmed that Alice would be delivering the bread on those specified days. This indicates that Li Hua prefers a more regular schedule for her bread deliveries, aiming for at least two deliveries per week.",
+  "prediction_sha256": "c6f140957102fc8d9eef1ccc2a86809bd1227f3a3861a3fc14001904996f62f3",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 98,
+  "usage": {
+    "completion_tokens": 86,
+    "prompt_tokens": 4580,
+    "prompt_tokens_details": null,
+    "total_tokens": 4666
+  }
+}

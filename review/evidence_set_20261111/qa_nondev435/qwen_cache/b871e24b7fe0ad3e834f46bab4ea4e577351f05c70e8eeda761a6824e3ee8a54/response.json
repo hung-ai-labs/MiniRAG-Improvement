@@ -1,0 +1,17 @@
+{
+  "body_sha256": "b871e24b7fe0ad3e834f46bab4ea4e577351f05c70e8eeda761a6824e3ee8a54",
+  "finish_reason": "stop",
+  "latency_s": 11.036828249998507,
+  "prediction": "During their conversation at the music store, Wolfgang Schulz and Li Hua discussed the idea of exploring fusion music by blending jazz elements with rock. Specifically, Wolfgang suggested starting with a classic rock song and adding jazz chords or improvisation to it. Li Hua agreed enthusiastically and proposed starting with songs like \"Smoke on the Water\" or \"Back in Black,\" which they could re-imagine with a jazzy twist. They were excited about the potential for creating something unique and innovative through this fusion approach. Thus, Wolfgang Schulz and Li Hua planned to experiment with fusing rock with jazz during their upcoming jam session.",
+  "prediction_sha256": "7d66cfef4b850333ffe226d16ffd6834409b9f8811c68d03ff67dc5ec0783a5a",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200436,
+  "usage": {
+    "completion_tokens": 127,
+    "prompt_tokens": 4769,
+    "prompt_tokens_details": null,
+    "total_tokens": 4896
+  }
+}

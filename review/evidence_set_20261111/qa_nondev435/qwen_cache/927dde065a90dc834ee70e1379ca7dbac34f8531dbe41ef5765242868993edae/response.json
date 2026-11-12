@@ -1,0 +1,17 @@
+{
+  "body_sha256": "927dde065a90dc834ee70e1379ca7dbac34f8531dbe41ef5765242868993edae",
+  "finish_reason": "stop",
+  "latency_s": 6.9218004169997585,
+  "prediction": "Li Hua checks in with Adam about the move-in details at 5 PM. This is indicated in the conversation where Li Hua says, \"I'll be there around 5:30 PM then. Can’t wait to see the place! Thanks for the quick reply!\" Adam responds positively, agreeing to meet her at that time.",
+  "prediction_sha256": "bbf035c6b887d32428072f73beca29aff7d2516d8da7a3869babc2161476decc",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 55,
+  "usage": {
+    "completion_tokens": 70,
+    "prompt_tokens": 4245,
+    "prompt_tokens_details": null,
+    "total_tokens": 4315
+  }
+}

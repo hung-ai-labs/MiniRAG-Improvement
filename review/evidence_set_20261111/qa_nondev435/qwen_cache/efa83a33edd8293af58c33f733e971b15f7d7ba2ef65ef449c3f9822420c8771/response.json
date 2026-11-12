@@ -1,0 +1,17 @@
+{
+  "body_sha256": "efa83a33edd8293af58c33f733e971b15f7d7ba2ef65ef449c3f9822420c8771",
+  "finish_reason": "stop",
+  "latency_s": 8.380647624999256,
+  "prediction": "In the conversation, Emily Burnett expresses that she has not encountered someone as quirky and brilliant as Sheldon Cooper in real life. She mentions, \"Not really! I mean, he’s one of a kind, right? I do meet interesting people, but nobody quite like him!\" This clearly indicates that Emily has not had the opportunity to meet anyone who matches the description of Sheldon Cooper.",
+  "prediction_sha256": "209cc13df740cfd55c0231ff1d6ae6c2325e101aa5e7f7ad53213ba71c305eb5",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 202,
+  "usage": {
+    "completion_tokens": 77,
+    "prompt_tokens": 4328,
+    "prompt_tokens_details": null,
+    "total_tokens": 4405
+  }
+}

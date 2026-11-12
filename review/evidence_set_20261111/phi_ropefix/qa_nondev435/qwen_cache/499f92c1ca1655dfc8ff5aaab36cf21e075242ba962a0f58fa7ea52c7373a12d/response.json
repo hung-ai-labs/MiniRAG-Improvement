@@ -1,0 +1,17 @@
+{
+  "body_sha256": "499f92c1ca1655dfc8ff5aaab36cf21e075242ba962a0f58fa7ea52c7373a12d",
+  "finish_reason": "stop",
+  "latency_s": 3.881560707995959,
+  "prediction": " The conversation mentions that Barcelona lost 4-0 against Bayern Munich in the year **2013**. This detail is brought up to highlight a memorable match in the history of both teams, which demonstrates the intense competition and passion for the sport shared by the individuals discussing these iconic football moments.",
+  "prediction_sha256": "9b4a1d57275606cc3fdbf7da1852495f60d6452368df46eebba451b601ba2318",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 200294,
+  "usage": {
+    "completion_tokens": 67,
+    "prompt_tokens": 5615,
+    "prompt_tokens_details": null,
+    "total_tokens": 5682
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "2fcf6fce8306ca9c33345e1ab57710444f8bbda445d025e63e3e1adfd7e3a3da",
+  "finish_reason": "stop",
+  "latency_s": 12.839803708000545,
+  "prediction": "In the conversation dated 20260111_17:00, Li Hua mentioned that she had a light fixture issue, which led to her reaching out to Adam, her landlord. Adam responded promptly and assured her that he was available to assist with any concerns regarding the light fixture. He expressed that everything was working well and offered to be reachable if she needed further assistance. Adam concluded by wishing Li Hua a pleasant Sunday, noting that he was also looking forward to her enjoying the day. From this exchange, it is clear that Adam Smith was concerned about the lighting issue and was willing to help resolve it.",
+  "prediction_sha256": "3d4f04104a535df0a637057c1029f044e802d2086b4c846d16ae8e554e1f53cc",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 67,
+  "usage": {
+    "completion_tokens": 131,
+    "prompt_tokens": 4363,
+    "prompt_tokens_details": null,
+    "total_tokens": 4494
+  }
+}

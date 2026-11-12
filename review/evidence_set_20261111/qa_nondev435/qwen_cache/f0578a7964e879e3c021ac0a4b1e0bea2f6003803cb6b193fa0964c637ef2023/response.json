@@ -1,0 +1,17 @@
+{
+  "body_sha256": "f0578a7964e879e3c021ac0a4b1e0bea2f6003803cb6b193fa0964c637ef2023",
+  "finish_reason": "stop",
+  "latency_s": 5.902993208001135,
+  "prediction": "Henley plans to work on dribbling skills on Friday around 4 PM. She suggests having a quick chat about favorite players during practice and asks for others' opinions. Additionally, she looks forward to the practice day and shares the goal of improving skills together. During the practice, Henley encourages high spirits and teamwork, emphasizing the importance of bringing enthusiasm and water bottles for hydration. Overall, Henley focuses on dribbling practice and aims to enhance her skills alongside her teammates.",
+  "prediction_sha256": "19db5e3d26012294938efe4b680d2799ea85b83eb947bb61a5b4977238c16420",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 364,
+  "usage": {
+    "completion_tokens": 96,
+    "prompt_tokens": 4963,
+    "prompt_tokens_details": null,
+    "total_tokens": 5059
+  }
+}

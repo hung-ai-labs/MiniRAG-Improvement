@@ -1,0 +1,17 @@
+{
+  "body_sha256": "98b019f211fc8015ea63c0985ad14cb3407a02cafaebe2359fdb73ea167ec2e3",
+  "finish_reason": "stop",
+  "latency_s": 5.868144000000029,
+  "prediction": " According to the information provided in the data tables, the special guest speaker Jennifer talked to LiHua about will be discussing **nutrition for athletes**. The talk is set for **next Wednesday at 6 PM**, with the focus on providing **great tips for performance and recovery**. This indicates that the speaker is expected to share insights and advice on how athletes can optimize their nutrition to enhance their athletic performance and ensure proper recovery from their training sessions. The topic is of particular interest to LiHua, who is already interested in learning more about nutrition and has expressed excitement about attending this event.",
+  "prediction_sha256": "7d3aeb390d08ac26ed3e57de45b855fa80a1e3d8d4f780581f8431f0d8885f2b",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 200140,
+  "usage": {
+    "completion_tokens": 138,
+    "prompt_tokens": 4615,
+    "prompt_tokens_details": null,
+    "total_tokens": 4753
+  }
+}

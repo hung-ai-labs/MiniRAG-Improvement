@@ -1,0 +1,17 @@
+{
+  "body_sha256": "ad86047bd0c7e4013f080dbaecb8ad80b38854aa473f7fc8448d9197e98ad82f",
+  "finish_reason": "stop",
+  "latency_s": 12.35178254100174,
+  "prediction": "During the bakery's anniversary event, which took place from April 15 to 17, Hailey Johnson introduced new bread products and offered discounts on existing ones. Li Hua expressed her enjoyment of the new bread products, particularly mentioning that she had tried a new pastry that was \"delicious.\" She also hinted at trying the new bread products, saying, \"I'll definitely be coming back for more.\" Although Li Hua didn't specify the exact flavor of the new bread product she enjoyed, her enthusiasm and willingness to return suggest that the new bread products were quite popular and met her preferences.",
+  "prediction_sha256": "4bea00ffbb47f971476c0d1ca4b0f6e45e4816da0332d816ad44b00265add8a0",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200424,
+  "usage": {
+    "completion_tokens": 122,
+    "prompt_tokens": 4382,
+    "prompt_tokens_details": null,
+    "total_tokens": 4504
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "46feee81c78e238207a0826d046e55d17697175d66bc968c456e713f93714da5",
+  "finish_reason": "stop",
+  "latency_s": 5.519283041998278,
+  "prediction": "According to JakeWatson, each stretch should be held for approximately 30 seconds. He mentioned this specifically when providing advice on stretches to include in LiHua's workout routine.",
+  "prediction_sha256": "6061543cea6eea3e8507b9fab4d9928d9525c7ecff0644a3d60fc49fcfacd349",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200270,
+  "usage": {
+    "completion_tokens": 38,
+    "prompt_tokens": 3648,
+    "prompt_tokens_details": null,
+    "total_tokens": 3686
+  }
+}

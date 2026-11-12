@@ -1,0 +1,17 @@
+{
+  "body_sha256": "2ac6678b7d2cbb53403531c0df1f346fc7a4f679e3cc2f405e1726c933916bf7",
+  "finish_reason": "stop",
+  "latency_s": 8.783045125001081,
+  "prediction": " The discussion about Cersei's journey in \"Game of Thrones\" was initiated by EmilyBurnett, as indicated in the first data table entry:\n\n```csv\nentity,score,description\nEmilyBurnett,0,\"Time: 20261010_10:10\nEmilyBurnett: Hey guys! I was reviewing Cersei's journey in Game of Thrones this afternoon. I just can't help saying that it is so fascinating! From a love-struck girl to this power-hungry queen, it's wild how her character just keeps evolving. She definitely has some deep layers, don't you think?\n```\n\nEmilyBurnett's comment kicked off a series of conversations among the group, who then shared their varied perspectives on the character's development and choices throughout the series.",
+  "prediction_sha256": "5a71bb2184ae6f6f69b0361ab881fd9f8f009f927890351ea12d8e6609d9df2d",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 62,
+  "usage": {
+    "completion_tokens": 202,
+    "prompt_tokens": 4888,
+    "prompt_tokens_details": null,
+    "total_tokens": 5090
+  }
+}

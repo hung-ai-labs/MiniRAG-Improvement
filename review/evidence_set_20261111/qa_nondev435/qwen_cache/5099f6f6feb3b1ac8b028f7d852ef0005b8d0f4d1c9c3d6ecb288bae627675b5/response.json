@@ -1,0 +1,17 @@
+{
+  "body_sha256": "5099f6f6feb3b1ac8b028f7d852ef0005b8d0f4d1c9c3d6ecb288bae627675b5",
+  "finish_reason": "stop",
+  "latency_s": 8.318137457998091,
+  "prediction": "During the picnic, RexxarRemar suggests bringing some blankets or chairs for seating, which would make it more comfortable to relax on the grass and enjoy the food. Additionally, he proposes having a mix of snacks and drinks to keep everyone energized throughout the various activities planned. RexxarRemar also emphasizes the importance of having some refreshments available, such as water and drinks, to ensure everyone stays hydrated, especially if the picnic is held outdoors.",
+  "prediction_sha256": "247425fa589a93ac7992fdc0517a68595d55a313d864c164ab68534d7b181c49",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200396,
+  "usage": {
+    "completion_tokens": 93,
+    "prompt_tokens": 4343,
+    "prompt_tokens_details": null,
+    "total_tokens": 4436
+  }
+}

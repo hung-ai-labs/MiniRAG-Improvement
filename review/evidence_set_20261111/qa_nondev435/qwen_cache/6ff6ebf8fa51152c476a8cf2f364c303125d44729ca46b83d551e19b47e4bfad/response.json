@@ -1,0 +1,17 @@
+{
+  "body_sha256": "6ff6ebf8fa51152c476a8cf2f364c303125d44729ca46b83d551e19b47e4bfad",
+  "finish_reason": "stop",
+  "latency_s": 3.9387593749997905,
+  "prediction": "In the discussion regarding the upcoming soccer practice session, Dacey proposes setting up cones for target practice during the passing drills. This suggestion aims to make the practice more engaging and interactive, thereby helping to sharpen the passing skills of the participants.",
+  "prediction_sha256": "bf434dd7c303fce9657c50c79a1c837ec5e20c5d4981d2a8abc10458a0ace865",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100283,
+  "usage": {
+    "completion_tokens": 48,
+    "prompt_tokens": 5060,
+    "prompt_tokens_details": null,
+    "total_tokens": 5108
+  }
+}

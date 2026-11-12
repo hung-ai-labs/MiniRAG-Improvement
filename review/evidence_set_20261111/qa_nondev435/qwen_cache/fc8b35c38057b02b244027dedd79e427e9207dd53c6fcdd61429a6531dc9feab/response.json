@@ -1,0 +1,17 @@
+{
+  "body_sha256": "fc8b35c38057b02b244027dedd79e427e9207dd53c6fcdd61429a6531dc9feab",
+  "finish_reason": "stop",
+  "latency_s": 10.22196358400106,
+  "prediction": "Aurora expresses that the atmosphere at the Bernabéu during tough games is electric and highlights the strong connection between the players and their passionate fans. She describes how the Bernabéu showcases Real Madrid's strong home advantage and the significant role its fans play in boosting the team's morale during challenging moments. Aurora notes that the fans' energy is instrumental in pushing the players to perform even better, emphasizing the importance of the collective spirit and support within the team.",
+  "prediction_sha256": "a6b48cc28fdcf1bcbafdb98eb2f020de8ca974256bfdc76c876305f5ae05b560",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 358,
+  "usage": {
+    "completion_tokens": 95,
+    "prompt_tokens": 4857,
+    "prompt_tokens_details": null,
+    "total_tokens": 4952
+  }
+}

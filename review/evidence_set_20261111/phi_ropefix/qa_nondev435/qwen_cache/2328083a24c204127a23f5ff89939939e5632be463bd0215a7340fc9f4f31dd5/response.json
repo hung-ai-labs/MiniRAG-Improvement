@@ -1,0 +1,17 @@
+{
+  "body_sha256": "2328083a24c204127a23f5ff89939939e5632be463bd0215a7340fc9f4f31dd5",
+  "finish_reason": "stop",
+  "latency_s": 4.398851124999055,
+  "prediction": " Li Hua expressed frustration about a client changing requirements on **20260123_17:30**. During this interaction, WolfgangSchulz provided support and suggested maintaining open communication with the client and setting clear expectations about potential changes to help manage the situation. Li Hua acknowledged the advice, indicating a willingness to be more proactive in these communications.",
+  "prediction_sha256": "cbb7e1b69545294a47343943dffb6b693fa12fa3cf1898fa3036b945df52965a",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 200069,
+  "usage": {
+    "completion_tokens": 85,
+    "prompt_tokens": 4997,
+    "prompt_tokens_details": null,
+    "total_tokens": 5082
+  }
+}

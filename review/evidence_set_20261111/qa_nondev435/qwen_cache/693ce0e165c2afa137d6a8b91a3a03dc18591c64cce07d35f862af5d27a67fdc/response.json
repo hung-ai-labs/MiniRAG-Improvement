@@ -1,0 +1,17 @@
+{
+  "body_sha256": "693ce0e165c2afa137d6a8b91a3a03dc18591c64cce07d35f862af5d27a67fdc",
+  "finish_reason": "stop",
+  "latency_s": 8.302112749999651,
+  "prediction": "Based on the conversation recorded, Li Hua suggests lavender and coneflowers for the flower beds. Li Hua believes these flowers would be beneficial additions as they are both beautiful and attractive to pollinators such as butterflies and bees. Adam Smith mentions that he likes these ideas and will mention them in the next meeting.",
+  "prediction_sha256": "24eb9d02bc5bea18eb8b29ace8ee95623eea3e04fb957e5699297b23f26a8712",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200110,
+  "usage": {
+    "completion_tokens": 66,
+    "prompt_tokens": 3869,
+    "prompt_tokens_details": null,
+    "total_tokens": 3935
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "62fb6855d446b66cab0616a8d7ecbd67edf4a87a1ccf76da5bdb5f52a1e0b081",
+  "finish_reason": "stop",
+  "latency_s": 9.552276250000432,
+  "prediction": "According to their conversation on 20260905, Wolfgang Schulz expresses feelings of being pushed to his limits with the new software project, comparing it to being in a \"pressure cooker.\" He mentions feeling overwhelmed at times, indicating that the project is causing significant stress and strain on him. LiHua reassures him, acknowledging his talent and encouraging him to manage the pressure by taking things one step at a time, offering support and motivation to Wolfgang throughout the discussion.",
+  "prediction_sha256": "9ad053fda00a70b071d1098bea7df94bd7af16dcc9bd5887ca6c81cb62577459",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 191,
+  "usage": {
+    "completion_tokens": 99,
+    "prompt_tokens": 4221,
+    "prompt_tokens_details": null,
+    "total_tokens": 4320
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "059d34315c418a98dbb2a53e689ee97d4a4e3319048dbbb4cfce5ae0c6ad8456",
+  "finish_reason": "stop",
+  "latency_s": 7.439837041998544,
+  "prediction": "ThaneChambers recommends Sekiro: Shadows Die Twice to individuals who enjoy a challenging game, stating that the game \"has a unique combat system that really makes you think\" and that it \"can be pretty tough, but that’s part of the fun.\" He emphasizes that for those who love a good challenge, the game is definitely worth trying.",
+  "prediction_sha256": "09d80b70cf192717448b4117dd745835606119bbb5076198fcb002e45d650a60",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200286,
+  "usage": {
+    "completion_tokens": 72,
+    "prompt_tokens": 3473,
+    "prompt_tokens_details": null,
+    "total_tokens": 3545
+  }
+}

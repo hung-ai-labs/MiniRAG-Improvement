@@ -1,0 +1,17 @@
+{
+  "body_sha256": "f08270ecafe5a03c90c50adb57b6ad0b18097df2b78fde80e8341e730835496d",
+  "finish_reason": "stop",
+  "latency_s": 10.5478036659988,
+  "prediction": "Li Hua did not specifically invite Adam Smith to check the basement renovation progress; rather, the conversation mentions that Li Hua reminded Adam Smith about the upcoming AC installation, which is part of the basement renovation. This occurred during a conversation on August 12th at 11:00 AM. Li Hua informed Adam Smith that the contractor team would be installing the AC unit in the basement at 6 PM that same day. There is no indication that Li Hua invited Adam Smith to inspect the basement work at any point.",
+  "prediction_sha256": "77612db0201dbeae572a4bed95a5b3d03562f0e7b1775c9d155f053b97a3bb59",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100083,
+  "usage": {
+    "completion_tokens": 110,
+    "prompt_tokens": 4423,
+    "prompt_tokens_details": null,
+    "total_tokens": 4533
+  }
+}

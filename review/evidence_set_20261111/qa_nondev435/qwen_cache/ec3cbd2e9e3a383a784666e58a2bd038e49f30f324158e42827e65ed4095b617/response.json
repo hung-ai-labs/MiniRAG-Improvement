@@ -1,0 +1,17 @@
+{
+  "body_sha256": "ec3cbd2e9e3a383a784666e58a2bd038e49f30f324158e42827e65ed4095b617",
+  "finish_reason": "stop",
+  "latency_s": 10.207122583000455,
+  "prediction": "According to the conversation, the construction has to be postponed due to the ongoing storm and rain, which have lasted for several days. Tirion Fordring explains that \"As everyone can see, the storm and the rain have been going on for days! As a result, our construction has to be postponed, and hopefully, it will resume soon once the weather gets better!\" This indicates that the current weather conditions are preventing the commencement of the construction project.",
+  "prediction_sha256": "02d848de8d40e768de80379774062d20460738b6909b940575043d3275e66ec7",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 146,
+  "usage": {
+    "completion_tokens": 91,
+    "prompt_tokens": 4481,
+    "prompt_tokens_details": null,
+    "total_tokens": 4572
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "ce410e263270f8e431961ac817151951650e69ae1c5eab96d40742b11529dc57",
+  "finish_reason": "stop",
+  "latency_s": 11.473301625002932,
+  "prediction": "In one of their conversations, LiHua asks Jake about strategies for avoiding injuries during soccer games. LiHua specifically inquires about proper warm-up and stretching routines, the importance of staying hydrated, and the benefits of wearing the correct footwear. Additionally, LiHua expresses interest in learning more about the offside rule, which is a significant aspect of soccer strategy and gameplay. Through these discussions, LiHua aims to improve his understanding of the sport and enhance his skills, as evidenced by his desire to play soccer more regularly and attend practices.",
+  "prediction_sha256": "8ae4cc891b26de3dda994ef94cb4f54824b020cea860d0b5ba7bbcab8efd1108",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 205,
+  "usage": {
+    "completion_tokens": 111,
+    "prompt_tokens": 4471,
+    "prompt_tokens_details": null,
+    "total_tokens": 4582
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "6f1961e484051bcbbbe0b9f5546a1de8cb9326a620caf9443c3715868d11aeaf",
+  "finish_reason": "stop",
+  "latency_s": 9.25161483300326,
+  "prediction": "In the conversation, Adam reminds Li Hua to keep the noise level low during late hours. This reminder appears in a previous interaction where Adam mentions, \"Let me know if you have any other questions!\" and follows with a detailed list of house rules, one of which states, \"Keep noise to a minimum during late hours and take good care of the property.\" This indicates that Adam is providing Li Hua with specific guidelines to ensure the apartment remains a pleasant environment for both parties.",
+  "prediction_sha256": "e25718fdeaa3b35b9d6c37a91555592e44d3d92c12705af0275b70c70ff6b33e",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200081,
+  "usage": {
+    "completion_tokens": 98,
+    "prompt_tokens": 4435,
+    "prompt_tokens_details": null,
+    "total_tokens": 4533
+  }
+}

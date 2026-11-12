@@ -1,0 +1,17 @@
+{
+  "body_sha256": "cc17d8b7b8fddc35453f0e840d699eab406b62000307a662f0b7679a24058af5",
+  "finish_reason": "stop",
+  "latency_s": 10.90797345899773,
+  "prediction": "In the conversations recorded, Jake Watson initially shared common knowledge about the offside rule in soccer with Li Hua. Specifically, Jake explained that a player is offside if they are positioned ahead of the last defender (excluding the goalkeeper) at the moment the ball is played to them, and this rule is designed to maintain fairness and excitement in the game. However, before diving into practical techniques to avoid being offside, Jake first introduced Li Hua to the fundamental principle of the offside rule. Therefore, yes, Jake did share common knowledge about offside before passing along practical techniques to Li Hua.",
+  "prediction_sha256": "58909c033e1a088d1d9cb1384d02b9c8615c8e747595803a5a550c35c5711e08",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100029,
+  "usage": {
+    "completion_tokens": 123,
+    "prompt_tokens": 3447,
+    "prompt_tokens_details": null,
+    "total_tokens": 3570
+  }
+}

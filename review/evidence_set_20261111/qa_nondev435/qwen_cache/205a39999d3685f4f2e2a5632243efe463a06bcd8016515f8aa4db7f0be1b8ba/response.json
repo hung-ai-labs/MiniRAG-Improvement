@@ -1,0 +1,17 @@
+{
+  "body_sha256": "205a39999d3685f4f2e2a5632243efe463a06bcd8016515f8aa4db7f0be1b8ba",
+  "finish_reason": "stop",
+  "latency_s": 7.3754371670002,
+  "prediction": "On June 25, 2026, Wolfgang proposed adding the song \"Viva la Vida\" by Coldplay to their set list. He emphasized that the song would be a good choice because it is very popular among the audience and would enhance their performance with its energetic quality, which he thought would be great for the drums.",
+  "prediction_sha256": "2322dea38f357aba15339d17847c9a75fd34ed3b0b85dbf255401d6ee79d99e6",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200142,
+  "usage": {
+    "completion_tokens": 71,
+    "prompt_tokens": 5529,
+    "prompt_tokens_details": null,
+    "total_tokens": 5600
+  }
+}

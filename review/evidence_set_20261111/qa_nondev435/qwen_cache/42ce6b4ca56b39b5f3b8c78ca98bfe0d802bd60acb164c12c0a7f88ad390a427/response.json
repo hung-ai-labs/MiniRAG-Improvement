@@ -1,0 +1,17 @@
+{
+  "body_sha256": "42ce6b4ca56b39b5f3b8c78ca98bfe0d802bd60acb164c12c0a7f88ad390a427",
+  "finish_reason": "stop",
+  "latency_s": 7.157153667001694,
+  "prediction": "Fionnuala mentions that the Control Center is \"super convenient\" because it allows users to adjust audio settings on the fly without having to pause the game. This suggests that the feature streamlines the process of personalizing the audio experience during gameplay, providing a seamless and immediate adjustment capability.",
+  "prediction_sha256": "7c11157ec2d542b20fe7816134575aa94000ca7015ac942b8ce169e3fbf81336",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 251,
+  "usage": {
+    "completion_tokens": 59,
+    "prompt_tokens": 3478,
+    "prompt_tokens_details": null,
+    "total_tokens": 3537
+  }
+}

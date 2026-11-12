@@ -1,0 +1,17 @@
+{
+  "body_sha256": "aa2582bebc38cec51e0c5e7964d9d9f789336572e6b106fab5ce519450d32d1f",
+  "finish_reason": "stop",
+  "latency_s": 9.100647958999616,
+  "prediction": "In the conversation, there is no mention of Li Hua watching the movie \"Overwatch 3.\" Instead, the context revolves around planning a movie night with Wolfgang Schulz at Li Hua's place to watch a classic film, Star Wars: A New Hope. Therefore, based on the provided data, Li Hua does not go to watch \"Overwatch 3\" with anyone; rather, she plans to watch a movie with Wolfgang Schulz.",
+  "prediction_sha256": "b55e0c7155cbc52694804440e42aba1ce30ad1a4249b81aafdfbafa2c09f3d41",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 31,
+  "usage": {
+    "completion_tokens": 93,
+    "prompt_tokens": 4032,
+    "prompt_tokens_details": null,
+    "total_tokens": 4125
+  }
+}

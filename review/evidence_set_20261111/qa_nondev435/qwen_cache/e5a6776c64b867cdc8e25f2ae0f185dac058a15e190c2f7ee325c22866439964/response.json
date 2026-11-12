@@ -1,0 +1,17 @@
+{
+  "body_sha256": "e5a6776c64b867cdc8e25f2ae0f185dac058a15e190c2f7ee325c22866439964",
+  "finish_reason": "stop",
+  "latency_s": 14.172248957998818,
+  "prediction": "In the conversation recorded under source ID 1, dated Time: 20260601_16:00, Li Hua informs Adam Smith that she has transferred the rent for May. Specifically, Li Hua states, \"Oh no, I completely forgot about that. I'll make sure to get that sorted out ASAP. Thanks for letting me know!\" This indicates that the rent for May had indeed been transferred by Li Hua.",
+  "prediction_sha256": "9e13205372a7f40cf4974d5914db8868939d838c4200338feb8268292447cda8",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 130,
+  "usage": {
+    "completion_tokens": 95,
+    "prompt_tokens": 4593,
+    "prompt_tokens_details": null,
+    "total_tokens": 4688
+  }
+}

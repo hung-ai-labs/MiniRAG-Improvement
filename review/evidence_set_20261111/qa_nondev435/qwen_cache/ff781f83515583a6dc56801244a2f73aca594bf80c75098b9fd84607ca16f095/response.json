@@ -1,0 +1,17 @@
+{
+  "body_sha256": "ff781f83515583a6dc56801244a2f73aca594bf80c75098b9fd84607ca16f095",
+  "finish_reason": "stop",
+  "latency_s": 9.901066667000123,
+  "prediction": "On April 3rd, 2026, the delivery of bread to Li Hua was handled by Alice. This can be deduced from the content of message number 6 in the sources table, which states, \"Time: 20260403_15:00 Alice: I am Alice from Hailey's bakery. Your bread has been delivered, please come and pick it up ASAP. Have a good day : )\" Here, Alice identifies herself as the delivery person for the bread that Li Hua received.",
+  "prediction_sha256": "9a75a59b8de389fa8106307bc529c4658c94e3dae6357df1d6cfe587e3eb50f9",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200105,
+  "usage": {
+    "completion_tokens": 114,
+    "prompt_tokens": 3616,
+    "prompt_tokens_details": null,
+    "total_tokens": 3730
+  }
+}

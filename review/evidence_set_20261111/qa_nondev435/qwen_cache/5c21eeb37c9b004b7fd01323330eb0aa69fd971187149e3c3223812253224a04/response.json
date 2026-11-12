@@ -1,0 +1,17 @@
+{
+  "body_sha256": "5c21eeb37c9b004b7fd01323330eb0aa69fd971187149e3c3223812253224a04",
+  "finish_reason": "stop",
+  "latency_s": 9.553662959002395,
+  "prediction": "The conversation shows that Li Hua received the curtains \"yesterday\", but the exact date is not specified. Adam Smith asks Li Hua if the curtain is all good, which seems to imply that Li Hua has had sufficient time to inspect the curtains. Given that \"yesterday\" could refer to any day within the past three days, there is no concrete evidence to definitively state that the time interval between receiving the curtains and Adam Smith's follow-up question exceeds three days. Therefore, based on the information provided, we cannot conclusively determine whether the time interval is more than three days.",
+  "prediction_sha256": "d7c8e66f49b89ab6e25b8339ab62e59ceaccc62a5a3353f3783275ae1420edf8",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100043,
+  "usage": {
+    "completion_tokens": 121,
+    "prompt_tokens": 3678,
+    "prompt_tokens_details": null,
+    "total_tokens": 3799
+  }
+}

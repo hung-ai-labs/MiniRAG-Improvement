@@ -1,0 +1,17 @@
+{
+  "body_sha256": "135b35fd035a46d1bbf087e4b934d71d76a5c0b7d4a1138e4305ad63f955ba93",
+  "finish_reason": "stop",
+  "latency_s": 13.001336332999927,
+  "prediction": "From the information provided, it seems that Wolfgang's upcoming trip to Hong Kong is known to several individuals. Specifically, he has communicated this to LiHua, who has shared the news with Yuriko. Additionally, Wolfgang has made preparations for his trip by asking LiHua for recommendations on what to grab in Hong Kong, indicating that LiHua is aware of his departure and is providing assistance. Furthermore, Wolfgang has informed LiHua about his absence from practice, suggesting that at least LiHua is informed about his travel plans and is prepared to organize a jam session in his absence. Therefore, we can conclude that Wolfgang's trip to Hong Kong is known to at least LiHua, Yuriko, and Wolfgang himself.",
+  "prediction_sha256": "450d2904ab86bbc7327b36dc720b7934ccbd31f0c7966c705a1cdfb8ea687e04",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100033,
+  "usage": {
+    "completion_tokens": 150,
+    "prompt_tokens": 4711,
+    "prompt_tokens_details": null,
+    "total_tokens": 4861
+  }
+}

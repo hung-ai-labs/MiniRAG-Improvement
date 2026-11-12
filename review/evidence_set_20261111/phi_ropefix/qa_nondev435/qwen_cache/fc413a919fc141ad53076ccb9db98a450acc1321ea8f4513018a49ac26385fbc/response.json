@@ -1,0 +1,17 @@
+{
+  "body_sha256": "fc413a919fc141ad53076ccb9db98a450acc1321ea8f4513018a49ac26385fbc",
+  "finish_reason": "stop",
+  "latency_s": 17.144636959001218,
+  "prediction": " On April 3, 2026, the bread deliveries to Li Hua were being handled by Alice from Hailey's bakery. This is confirmed by the content in the data tables, specifically the entries with the following IDs:\n\n- ID 4: \"Time: 20260329_13:00\n   HaileyJohnson: Hey! Just wanted to share some exciting news! 🎉 I've hired a new clerk, Alice, to help with our doorstep delivery service for milk and bread. She's super friendly and will be taking care of your orders every Monday and Friday at 8am. Hope you're as excited as I am! 😊🥖🥛\n   LiHua: That’s awesome! Congrats on hiring Alice! 🎉 Can't wait to meet her when she delivers my bread. Everything's going smoothly on your end?\n   HaileyJohnson: Thanks! Everything's great, just super busy with baking and running the shop. Alice is doing a wonderful job already! I think you’ll really like her. If you have any suggestions or special requests for your orders, just let me know!\"\n\nHere, Hailey Johnson announces the hiring of Alice for the delivery service, and Li Hua expresses excitement about meeting her and having Alice deliver the bread. It is stated that Alice will handle deliveries on Mondays and Fridays at 8am, which includes the delivery to Li Hua on that date.",
+  "prediction_sha256": "371d844f582edabdb85d194a66f7d799caeb7447af7f7712fb8ffef8b315b067",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 105,
+  "usage": {
+    "completion_tokens": 346,
+    "prompt_tokens": 4816,
+    "prompt_tokens_details": null,
+    "total_tokens": 5162
+  }
+}

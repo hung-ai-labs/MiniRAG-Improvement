@@ -1,0 +1,17 @@
+{
+  "body_sha256": "b237728131343ce2a75a31a2027d945d01313a36a0aff9e08021c261eb1c052d",
+  "finish_reason": "stop",
+  "latency_s": 10.436083208998753,
+  "prediction": "According to the conversation, Adam Smith confirms the arrival of the plumber for fixing the water tap. This confirmation is detailed in a message sent to LiHua at 20260106_15:00, where Adam states, \"Hey Li Hua, just wanted to confirm that the plumber will be arriving tomorrow at 10 AM to fix the water tap. Let me know if that works for you!\" This indicates that the plumber will be coming to LiHua's apartment on the following day, specifically at 10 AM.",
+  "prediction_sha256": "b26b394d2cd00f274be003e982082d58f4c42a437a3423c5d508dec8e615c008",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100061,
+  "usage": {
+    "completion_tokens": 116,
+    "prompt_tokens": 3899,
+    "prompt_tokens_details": null,
+    "total_tokens": 4015
+  }
+}

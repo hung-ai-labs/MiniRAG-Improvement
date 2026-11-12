@@ -1,0 +1,17 @@
+{
+  "body_sha256": "271e329bc182b3570e2bea839a930317d2207c84f3e51f43426e92ff232e840c",
+  "finish_reason": "stop",
+  "latency_s": 13.248393166999449,
+  "prediction": "According to the conversations recorded, the contractor team is scheduled to install the air-conditioner in the basement at 6 PM on the same day, which is specified as August 12th. Adam Smith informed Li Hua about this plan, stating, \"I think the basement has enough space, so you can choose an air-conditioner that suits your needs. Just let me know the size you prefer, and we can go from there!\" He also mentioned, \"Just let me know what works for you!\" This indicates that Li Hua will be available at 6 PM on August 12th for the installation.",
+  "prediction_sha256": "fb2f56dfdbabaccb49bdbcbf5f9c0527ed6d74e095e642337f9e37f00b82ce6a",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 167,
+  "usage": {
+    "completion_tokens": 127,
+    "prompt_tokens": 5195,
+    "prompt_tokens_details": null,
+    "total_tokens": 5322
+  }
+}

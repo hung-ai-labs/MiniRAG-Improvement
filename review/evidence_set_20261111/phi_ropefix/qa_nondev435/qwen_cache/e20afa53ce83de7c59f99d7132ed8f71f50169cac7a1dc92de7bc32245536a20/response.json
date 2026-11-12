@@ -1,0 +1,17 @@
+{
+  "body_sha256": "e20afa53ce83de7c59f99d7132ed8f71f50169cac7a1dc92de7bc32245536a20",
+  "finish_reason": "stop",
+  "latency_s": 8.445583374999842,
+  "prediction": " LiHua mentions a particularly memorable scene from \"Chernobyl\" that involves the workers trying to contain the radiation. She highlights this scene as super impactful, emphasizing the human spirit's resilience in difficult situations. This moment stands out to LiHua because it showcases the determination and sacrifices of the individuals facing the crisis, illustrating the depth of human character in the face of adversity.\n\n```markdown\nLiHua specifically recalls a poignant scene in \"Chernobyl\" where the workers are grappling with the challenge of containing the spreading radiation. She finds this part of the series deeply moving, as it captures the essence of human bravery and sacrifice during a critical and dangerous situation. This scene effectively embodies the strength and commitment of the individuals who are working tirelessly to manage the catastrophic events unfolding at the nuclear power plant.\n```",
+  "prediction_sha256": "d004cbd01148468bcc45e6c9b5829a24a6bd9800835716692b0594499e7aee37",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 384,
+  "usage": {
+    "completion_tokens": 199,
+    "prompt_tokens": 6114,
+    "prompt_tokens_details": null,
+    "total_tokens": 6313
+  }
+}

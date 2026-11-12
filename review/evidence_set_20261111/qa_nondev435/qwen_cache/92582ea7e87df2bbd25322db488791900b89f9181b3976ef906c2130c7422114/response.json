@@ -1,0 +1,17 @@
+{
+  "body_sha256": "92582ea7e87df2bbd25322db488791900b89f9181b3976ef906c2130c7422114",
+  "finish_reason": "stop",
+  "latency_s": 12.804143832996488,
+  "prediction": "Based on the information provided, Wolfgang has indeed been to Hong Kong for his business trip. This is evident from the conversation snippet dated 20261219_19:00, where Wolfgang mentions that he is \"off to Hong Kong for a couple of days next week.\" Additionally, there is a subsequent entry on 20261221_12:00, indicating that Wolfgang has returned from his trip and shares his impressions of the city, noting that \"The city is incredible, so vibrant and full of life. Can't wait to explore!\" This confirms that Wolfgang has visited Hong Kong and has had positive experiences there.",
+  "prediction_sha256": "ae501493efcd12f58ea392fec9ed0b359e234e6980e75991368c0c1e84161673",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100032,
+  "usage": {
+    "completion_tokens": 138,
+    "prompt_tokens": 4909,
+    "prompt_tokens_details": null,
+    "total_tokens": 5047
+  }
+}

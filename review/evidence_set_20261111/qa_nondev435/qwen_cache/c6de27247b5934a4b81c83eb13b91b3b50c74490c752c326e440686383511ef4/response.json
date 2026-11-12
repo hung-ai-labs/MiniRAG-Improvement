@@ -1,0 +1,17 @@
+{
+  "body_sha256": "c6de27247b5934a4b81c83eb13b91b3b50c74490c752c326e440686383511ef4",
+  "finish_reason": "stop",
+  "latency_s": 14.786986499995692,
+  "prediction": "In the conversation, Adam reminded Li Hua to keep noise levels low during late hours as part of the house rules. This suggestion came up during a discussion about house rules and expectations when sharing living space with others. Specifically, Adam mentioned, \"As for house rules, please keep noise to a minimum during late hours and take good care of the property.\" Li Hua responded by asking if it was okay to have friends over occasionally, to which Adam replied, \"Yes, having friends over occasionally is fine, just try to keep the gatherings reasonable.\" Thus, it appears that keeping the noise level down at night is a guideline Adam suggested to maintain a peaceful living environment.",
+  "prediction_sha256": "c41d4b277efca5ca768e95291d9519d7ab4483c3b3bb3c4803458cab3e713f60",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100081,
+  "usage": {
+    "completion_tokens": 135,
+    "prompt_tokens": 4389,
+    "prompt_tokens_details": null,
+    "total_tokens": 4524
+  }
+}

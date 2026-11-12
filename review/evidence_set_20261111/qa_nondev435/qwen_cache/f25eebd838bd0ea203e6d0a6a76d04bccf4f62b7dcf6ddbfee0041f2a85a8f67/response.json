@@ -1,0 +1,17 @@
+{
+  "body_sha256": "f25eebd838bd0ea203e6d0a6a76d04bccf4f62b7dcf6ddbfee0041f2a85a8f67",
+  "finish_reason": "stop",
+  "latency_s": 6.5236482079999405,
+  "prediction": "During their dinner celebration, Wolfgang expressed interest in trying the risotto at Venedia Grancaffe, which he heard was really good. However, Wolfgang also suggested that Li Hua might prefer the pasta, indicating that Li Hua likely planned to order the pasta for their meal. There is no mention of a specific dessert that Wolfgang planned to order for Li Hua during their dinner celebration.",
+  "prediction_sha256": "30708e79c58c5478b597470775a7a638e05de4c81b32f6d90f3399b22ebd127a",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100426,
+  "usage": {
+    "completion_tokens": 78,
+    "prompt_tokens": 4618,
+    "prompt_tokens_details": null,
+    "total_tokens": 4696
+  }
+}

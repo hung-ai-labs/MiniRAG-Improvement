@@ -1,0 +1,17 @@
+{
+  "body_sha256": "f24ec4f38e5cb60f329b7c5f79085a29ab0576206baac63d310cdf33f40c76aa",
+  "finish_reason": "stop",
+  "latency_s": 10.32672429199738,
+  "prediction": "In the conversation dated 20260717, LiHua praises Chae for her impressive performance in the band last Sunday. LiHua specifically mentions that Chae's singing has \"really leveled up\" and that her performance on higher pitches is \"impressive.\" LiHua expresses her excitement for the upcoming rehearsal and even suggests new songs for their performance, indicating her appreciation and support for Chae's musical abilities.",
+  "prediction_sha256": "b83c3c43b278841e34b463dbd27e23c8fe1b3f91eb537cc95c672c7d6a92e1ca",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200153,
+  "usage": {
+    "completion_tokens": 90,
+    "prompt_tokens": 5244,
+    "prompt_tokens_details": null,
+    "total_tokens": 5334
+  }
+}

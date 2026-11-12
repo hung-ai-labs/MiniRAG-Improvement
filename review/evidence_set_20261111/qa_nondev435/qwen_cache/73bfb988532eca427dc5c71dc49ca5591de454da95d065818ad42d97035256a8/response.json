@@ -1,0 +1,17 @@
+{
+  "body_sha256": "73bfb988532eca427dc5c71dc49ca5591de454da95d065818ad42d97035256a8",
+  "finish_reason": "stop",
+  "latency_s": 18.6008749169996,
+  "prediction": "Li Hua checks in with Adam about the details for the move-in at a time that is convenient for her. According to the conversations recorded, Li Hua initially asks Adam about a good time for her to visit after she has moved in. This is mentioned in the following context:\n\n> Time: 20260105_14:00\n> \n> LiHua: Hey Adam! Hope you’re doing well. I wanted to check in about the details for the move-in. When’s a good time for me to come by? Thanks!\n\nLi Hua specifically inquires about a \"good time for me to come by,\" indicating that she is seeking a suitable moment to visit Adam's place post-move-in. Thereafter, Adam informs her that she can come by anytime after 5 PM, which she accepts and confirms. Therefore, the initial time Li Hua checks in about the move-in details is sometime between 14:00 (2:00 PM) and 19:00 (7:00 PM).",
+  "prediction_sha256": "6f8213671e50b8e04b0c17fb5be85dbaf7004fb3db7c62fb211104cbfb4be6f0",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200055,
+  "usage": {
+    "completion_tokens": 221,
+    "prompt_tokens": 4245,
+    "prompt_tokens_details": null,
+    "total_tokens": 4466
+  }
+}

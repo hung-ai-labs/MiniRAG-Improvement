@@ -1,0 +1,17 @@
+{
+  "body_sha256": "795d348382816d37ff90707522d41ead177a8662b410758716eefd5a10ced7d7",
+  "finish_reason": "stop",
+  "latency_s": 13.888110667001456,
+  "prediction": "Li Hua and Wolfgang Schulz discuss various aspects related to burger preferences, including the ideal level of doneness (whether they prefer a medium-rare or well-done patty), preferred toppings, and favorite burger establishments. Specifically, Wolfgang Schulz mentions his preference for a classic cheeseburger with simple toppings like lettuce, tomato, and pickles, while also expressing a liking for a little spicy kick. Li Hua, on the other hand, favors a medium-rare patty and enjoys adventurous toppings such as spicy jalapeños. Both individuals express enthusiasm about visiting a new burger place near the cinema and enjoying the burgers there. Additionally, they touch upon the importance of pairing burgers with drinks, with Wolfgang Schulz suggesting a cold drink or craft beer, whereas Li Hua prefers a refreshing lemonade.",
+  "prediction_sha256": "6370b79fbec0ecb22c3dff6d47fe878d8823987ed98c21727a3c5140fe37c9d8",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200185,
+  "usage": {
+    "completion_tokens": 162,
+    "prompt_tokens": 4184,
+    "prompt_tokens_details": null,
+    "total_tokens": 4346
+  }
+}

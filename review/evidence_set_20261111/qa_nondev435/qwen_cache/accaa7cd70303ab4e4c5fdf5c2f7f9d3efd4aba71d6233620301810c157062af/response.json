@@ -1,0 +1,17 @@
+{
+  "body_sha256": "accaa7cd70303ab4e4c5fdf5c2f7f9d3efd4aba71d6233620301810c157062af",
+  "finish_reason": "stop",
+  "latency_s": 6.254829959001654,
+  "prediction": "Based on the conversation, Jake Watson's go-to snacks for match days typically include chips and dip. Additionally, he mentioned that pizza is a must-have for match days, as it helps to keep the energy up while cheering for his favorite team.",
+  "prediction_sha256": "2b3c133626daf901d3422bafc3dc7e7def4c8bf4d9efe6926572c76986bf1bc5",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 297,
+  "usage": {
+    "completion_tokens": 50,
+    "prompt_tokens": 3900,
+    "prompt_tokens_details": null,
+    "total_tokens": 3950
+  }
+}

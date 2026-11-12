@@ -1,0 +1,17 @@
+{
+  "body_sha256": "4b5be0ca10a034ab51a50a5831aed2ade83484a45e5faefce080575ad1b858de",
+  "finish_reason": "stop",
+  "latency_s": 12.826925583998673,
+  "prediction": " Li Hua engages in a conversation with Hailey Johnson regarding the bakery's doorstep delivery service for fresh bread. During their exchange, Hailey proposes the idea of a trial run for the delivery service, leading Li Hua to express his interest in setting up a delivery for the subsequent Tuesday.\n\nHailey provides specific details about the delivery logistics, explaining that Alice, the new clerk, would be responsible for handling the orders. Li Hua follows up by providing his home address, 123 Sunny Street, for Alice to note and deliver the fresh sourdough loaf.\n\nIn terms of frequency, Hailey Johnson offers some flexibility, stating that deliveries can be scheduled a couple of times a week, tailored to Li Hua's preference and needs. Furthermore, Hailey suggests the possibility of establishing a regular delivery schedule to better accommodate Li Hua's weekly routine. This arrangement appears to be primarily based on Li Hua's requirements and anticipated consumption patterns, ensuring that the delivery service remains a convenient and dependable source of fresh bread for Li Hua.\n\nOverall, Li Hua is open to the trial delivery on Tuesday and is considering the potential of scheduling more frequent, perhaps regular, deliveries as per his personal choice, balancing his desire for fresh bread with the bakery's delivery capacity and his own schedule. Hailey is supportive and ready to adjust the delivery pattern based on Li Hua's feedback and future requests.",
+  "prediction_sha256": "ca2f0cc79b7f1a1c320422189827f41373d49306a75284ad675a6beec98943ad",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 200098,
+  "usage": {
+    "completion_tokens": 324,
+    "prompt_tokens": 5271,
+    "prompt_tokens_details": null,
+    "total_tokens": 5595
+  }
+}

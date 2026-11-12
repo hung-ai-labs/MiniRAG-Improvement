@@ -1,0 +1,17 @@
+{
+  "body_sha256": "688b1e16225f0b8019efc80811fe6b21d89b2c8dc617064612f208962df2bab5",
+  "finish_reason": "stop",
+  "latency_s": 9.464631833001476,
+  "prediction": "In the conversation, LiHua mentions she will pick up the snacks and drinks on her way to WolfgangSchulz's place for the movie night. Specifically, WolfgangSchulz asks LiHua, \"Can't wait for the movie night! 🚀🎥\" to which LiHua responds, \"Cool! I'll pick them up on my way.\" Therefore, LiHua will be responsible for picking up the snacks and drinks for the movie night.",
+  "prediction_sha256": "0628610be849ebacb7e5b319c826d32e90c1b8f693fa2fe872906707c90cb87c",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200307,
+  "usage": {
+    "completion_tokens": 96,
+    "prompt_tokens": 5031,
+    "prompt_tokens_details": null,
+    "total_tokens": 5127
+  }
+}

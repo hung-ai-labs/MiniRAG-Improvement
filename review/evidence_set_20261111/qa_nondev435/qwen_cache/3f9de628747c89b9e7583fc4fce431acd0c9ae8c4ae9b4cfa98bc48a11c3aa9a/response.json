@@ -1,0 +1,17 @@
+{
+  "body_sha256": "3f9de628747c89b9e7583fc4fce431acd0c9ae8c4ae9b4cfa98bc48a11c3aa9a",
+  "finish_reason": "stop",
+  "latency_s": 10.979706291000184,
+  "prediction": "In the conversation between Jennifer Moore and Li Hua, Jennifer expresses enthusiasm about sharing Li Hua's amazing success story with other clients. She mentions that she believes it will serve as an inspiration and looks forward to celebrating more milestones together. However, there is no mention of a special guest speaker or a specific topic that Jennifer will be discussing. The dialogue focuses mainly on congratulating Li Hua on his progress and encouraging him to continue pushing forward.",
+  "prediction_sha256": "d7d75cf30f58c34938a272c3f15fc781526fdf03f8835e3554c97cef6a00a5c9",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 140,
+  "usage": {
+    "completion_tokens": 90,
+    "prompt_tokens": 4473,
+    "prompt_tokens_details": null,
+    "total_tokens": 4563
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "97d9fe5273768c565f6483de2426be4d8bb8d3e4ad0352c460a68fd4f0ec737d",
+  "finish_reason": "stop",
+  "latency_s": 10.950721917004557,
+  "prediction": " EmilyBurnett recommends LiHua to watch \"The Crown,\" which is known for its historical drama and character depth. She mentions that it's a great series that unfolds with rich storytelling. She also suggests \"Ted Lasso,\" which she finds hilarious, to provide a lighter counterpart to the heavy themes found in \"The Crown.\" These recommendations are reflective of EmilyBurnett's personal preferences for engaging narratives and characters, as well as her appreciation for different tones within TV shows.\n\nIn markdown, the response could be structured as follows:\n\n```markdown\nEmilyBurnett recommends the following TV shows to LiHua:\n\n- **The Crown**: Renowned for its historical drama and deep character development.\n- **Ted Lasso**: Highlighted for its humor and entertaining take on light-hearted themes.\n\nThese suggestions are based on EmilyBurnett's tastes and her recognition of LiHua's interest in shows with intriguing narratives and potentially relatable characters.\n```",
+  "prediction_sha256": "68dba3b3a0abda52f7ae8414392659951a9df37125de9310bf7da1bd41b2b753",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 100387,
+  "usage": {
+    "completion_tokens": 247,
+    "prompt_tokens": 5256,
+    "prompt_tokens_details": null,
+    "total_tokens": 5503
+  }
+}

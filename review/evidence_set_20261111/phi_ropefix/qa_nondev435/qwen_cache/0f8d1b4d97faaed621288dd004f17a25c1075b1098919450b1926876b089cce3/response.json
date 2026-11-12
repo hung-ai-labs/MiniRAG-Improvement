@@ -1,0 +1,17 @@
+{
+  "body_sha256": "0f8d1b4d97faaed621288dd004f17a25c1075b1098919450b1926876b089cce3",
+  "finish_reason": "stop",
+  "latency_s": 4.936348750001343,
+  "prediction": " Farrah remembers the style of play known as \"Total football\" when referring to Barcelona's matches. This style is associated with the team's performance, particularly during the 2015 match where they demonstrated exceptional teamwork and skills, securing a significant victory. \"Total football\" is a tactical philosophy that emphasizes fluid positional interchange among outfield players of any position, a concept that Barcelona has shown proficiency in during that memorable encounter.",
+  "prediction_sha256": "e5696507b449ffb8eb396ddbcea67d18c4f6f9554a73c7dfbf30ea913d8883a2",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 299,
+  "usage": {
+    "completion_tokens": 101,
+    "prompt_tokens": 4359,
+    "prompt_tokens_details": null,
+    "total_tokens": 4460
+  }
+}

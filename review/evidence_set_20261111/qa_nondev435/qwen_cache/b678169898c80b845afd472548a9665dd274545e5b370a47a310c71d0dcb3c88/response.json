@@ -1,0 +1,17 @@
+{
+  "body_sha256": "b678169898c80b845afd472548a9665dd274545e5b370a47a310c71d0dcb3c88",
+  "finish_reason": "stop",
+  "latency_s": 9.803693166999437,
+  "prediction": "Based on the conversation recorded, LiHua typically opts for a protein shake and a fruit smoothie after a game. However, she mentions trying a new combination of a banana with peanut butter, which she found to be quite effective and enjoyable. This suggests that while her usual recovery snack includes a protein-rich beverage, she is open to experimenting with different items to find what works best for her.",
+  "prediction_sha256": "6ffcac37237b890d173f1efbc0acb08a1c684e0f2d8f293d060a40d3d4d52fa2",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 390,
+  "usage": {
+    "completion_tokens": 80,
+    "prompt_tokens": 4167,
+    "prompt_tokens_details": null,
+    "total_tokens": 4247
+  }
+}

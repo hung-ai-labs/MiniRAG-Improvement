@@ -1,0 +1,17 @@
+{
+  "body_sha256": "c161f0fda47973ec80a2de04096b22990c9cb8b77106d4df4b278094ae6a3d6a",
+  "finish_reason": "stop",
+  "latency_s": 18.425987750000786,
+  "prediction": "At the meeting held on May 27th at 10:00 AM, Turalyon addressed the concerns raised by the residents regarding the noise levels during the construction period. Specifically, he mentioned that he planned to limit noisy activities from 2-3 PM and suggested potential solutions such as putting up temporary barriers or using quieter tools during that timeframe. Additionally, he proposed notifying residents a day in advance about any particularly loud work, which would help them plan around it. \n\nThe residents expressed their agreement with these suggestions and shared other ideas like posting updates in the chat or placing notices at the entrance of the garden. Muradin Bronzebeard suggested incorporating sound-absorbing materials for the benches or play area, while Rexxar Remar recommended creating play areas a bit further from the construction site to provide a quieter spot for children. Grom Hellscream suggested adding plants around the area for extra noise dampening. Turalyon and the residents collectively agreed on the implementation of tall shrubs and trees, as well as native plant species, to not only reduce noise but also enhance the aesthetic appeal of the garden. \n\nIn summary, the specific noise control measures discussed included limiting noisy activities during certain hours, providing advance notifications to residents, and implementing sound-absorbing materials and native plants in the garden.",
+  "prediction_sha256": "1d3ce19f63e1a1d6735f1d11ebc43faeb712f3be8a4d53181690ff55ed9abbde",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 428,
+  "usage": {
+    "completion_tokens": 266,
+    "prompt_tokens": 4250,
+    "prompt_tokens_details": null,
+    "total_tokens": 4516
+  }
+}

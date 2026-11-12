@@ -1,0 +1,17 @@
+{
+  "body_sha256": "2bdea29446db75b376499fbc683d1eaf6d278cd585419fc1261ac968228e6e03",
+  "finish_reason": "stop",
+  "latency_s": 12.522851124998851,
+  "prediction": "In the conversation, WolfgangSchulz invites LiHua over to watch a movie at his place. During their discussion about snacks, LiHua agrees to bring some chips. This decision is made clear in the following exchange:\n\n> LiHua: For sure! I can bring some chips! What drinks do you want? 🥤\n>\n> WolfgangSchulz: Awesome! Just some soda and juice will be perfect. Can't wait for the movie night! 🚀🎥\n\nTherefore, the snack that LiHua agrees to bring for the movie is chips.",
+  "prediction_sha256": "fac2fbfff71a58f1b5f6ab53d92106fc636ff8d13b23f4d41ce8bfaf609c6ccf",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 306,
+  "usage": {
+    "completion_tokens": 119,
+    "prompt_tokens": 4482,
+    "prompt_tokens_details": null,
+    "total_tokens": 4601
+  }
+}

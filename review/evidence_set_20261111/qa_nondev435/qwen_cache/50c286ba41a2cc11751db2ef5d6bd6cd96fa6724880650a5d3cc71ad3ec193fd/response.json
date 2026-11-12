@@ -1,0 +1,17 @@
+{
+  "body_sha256": "50c286ba41a2cc11751db2ef5d6bd6cd96fa6724880650a5d3cc71ad3ec193fd",
+  "finish_reason": "stop",
+  "latency_s": 8.251656500000536,
+  "prediction": "According to the conversation, LiHua has already received the curtains and seems pleased with the patterns. She mentioned, \"Yep, I have received it yesterday! Thanks so much, Adam! And by the way, I really like the patterns!\" This indicates that the curtains have been successfully delivered and she is satisfied with their appearance.",
+  "prediction_sha256": "5374b9f58504b85d842437955877aa4b957140addcc67cb10c08b1e32a65fb4f",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100375,
+  "usage": {
+    "completion_tokens": 67,
+    "prompt_tokens": 4004,
+    "prompt_tokens_details": null,
+    "total_tokens": 4071
+  }
+}

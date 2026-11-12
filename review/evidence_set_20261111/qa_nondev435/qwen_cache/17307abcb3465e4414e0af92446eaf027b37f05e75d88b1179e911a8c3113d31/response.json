@@ -1,0 +1,17 @@
+{
+  "body_sha256": "17307abcb3465e4414e0af92446eaf027b37f05e75d88b1179e911a8c3113d31",
+  "finish_reason": "stop",
+  "latency_s": 8.054763333006122,
+  "prediction": "In the conversation recorded on 20261102_14:00, LiHua inquires about having friends over occasionally, and AdamSmith responds affirmatively. He states, \"You're welcome! Yes, having friends over occasionally is fine, just try to keep the gatherings reasonable.\" This indicates that AdamSmith is generally okay with friends visiting on an occasional basis, as long as the gatherings remain manageable and do not disrupt the peace and order of the premises.",
+  "prediction_sha256": "f7874de0792eb0a0a41d133128a78a7c1bcaa112ed0ecfe32a3e294d90e6784a",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 58,
+  "usage": {
+    "completion_tokens": 100,
+    "prompt_tokens": 3358,
+    "prompt_tokens_details": null,
+    "total_tokens": 3458
+  }
+}

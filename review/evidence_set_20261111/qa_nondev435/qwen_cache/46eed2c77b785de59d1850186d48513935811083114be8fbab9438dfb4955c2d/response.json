@@ -1,0 +1,17 @@
+{
+  "body_sha256": "46eed2c77b785de59d1850186d48513935811083114be8fbab9438dfb4955c2d",
+  "finish_reason": "stop",
+  "latency_s": 17.148306958999456,
+  "prediction": "In their conversation, LiHua expresses a preference for a place where he can capture great shots and enjoy a photography walk. He suggests a spot that offers a view and ample time to explore before sunset. However, the specific location isn't explicitly mentioned; instead, LiHua recommends that they \"meet around 3\" and notes that it \"gives us plenty of time to explore before sunset!\" This indicates that the ideal place for a photography walk for LiHua is somewhere that allows for a leisurely exploration around 3 o'clock, likely in an area with scenic views and favorable lighting conditions.",
+  "prediction_sha256": "b6cd6d147c5497c54a05be434cdc2ae206ae6b70f9f6c621cfca1cbbd74d4b7e",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 125,
+  "usage": {
+    "completion_tokens": 123,
+    "prompt_tokens": 4511,
+    "prompt_tokens_details": null,
+    "total_tokens": 4634
+  }
+}

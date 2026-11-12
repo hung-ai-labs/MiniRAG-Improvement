@@ -1,0 +1,17 @@
+{
+  "body_sha256": "38ce20e38ea8759bcce1849098e922190b71eadd8df95b2e89eadb6dbd0b8e91",
+  "finish_reason": "stop",
+  "latency_s": 6.9190803750025225,
+  "prediction": "In the conversation provided, there is no explicit mention of the reason for Li Hua's unexpected work meeting on Thursday. The context given is about scheduling a meeting for Adam Smith and Li Hua regarding the installation of curtains. However, a detailed explanation for the unexpected work meeting on Thursday cannot be derived from the information present in the data provided.",
+  "prediction_sha256": "fa20a6511c5373e71a890769d51d8f0ab65755bc2d2fa806939087beef0261e3",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100419,
+  "usage": {
+    "completion_tokens": 70,
+    "prompt_tokens": 4536,
+    "prompt_tokens_details": null,
+    "total_tokens": 4606
+  }
+}

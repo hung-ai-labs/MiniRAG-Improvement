@@ -1,0 +1,17 @@
+{
+  "body_sha256": "699c91d6dbf69ccef3e37781f879c9e310730138797f5cbc9fdf549997f52a63",
+  "finish_reason": "stop",
+  "latency_s": 11.851380000000063,
+  "prediction": " According to the data provided in the tables and sources, Wolfgang and LiHua have planned to attend the photography exhibition on Friday, August 5, 2026. The conversation on timestamp 0 indicates their arrangement for the event:\n\n```\nLiHua: Hey man! Just a quick reminder that we are going to the photography exhibition at 19:00 tonight!\nWolfgangSchulz: Of course, not gonna forget about that!\nLiHua: Sounds good! Let’s grab a bite before the event. What do you feel like eating?\nWolfgangSchulz: How about we hit that new burger place? Heard their fries are awesome too!\nLiHua: That sounds perfect! I’ve been wanting to try it out. What time should we head there?\nWolfgangSchulz: Let's meet at 6:00, then we can make our way to the event after. Sound good?\nLiHua: Sounds like a plan! See you at 6:00! Can't wait!\"\n```\n\nThe conversation shows that they intend to meet at the venue at 6:00 PM on the same day, August 5, 2026, right before the exhibition starts at 7:00 PM.",
+  "prediction_sha256": "4bfc967ecec0ae158d4948167754af93bac9574cd9a41a8c206d0c05067fedad",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 200164,
+  "usage": {
+    "completion_tokens": 294,
+    "prompt_tokens": 5835,
+    "prompt_tokens_details": null,
+    "total_tokens": 6129
+  }
+}

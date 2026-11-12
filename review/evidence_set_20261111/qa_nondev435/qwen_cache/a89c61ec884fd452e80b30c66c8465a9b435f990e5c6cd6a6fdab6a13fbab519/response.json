@@ -1,0 +1,17 @@
+{
+  "body_sha256": "a89c61ec884fd452e80b30c66c8465a9b435f990e5c6cd6a6fdab6a13fbab519",
+  "finish_reason": "stop",
+  "latency_s": 8.865521249997983,
+  "prediction": "According to the conversation, Viper plans to incorporate interval training into their cardio routines. This strategy is intended to help build endurance without overstressing the body, and it has reportedly worked well for Viper. Additionally, Viper suggests gradually increasing the intensity and duration of the intervals as one becomes more comfortable with the training regimen.",
+  "prediction_sha256": "3ec703d0d35fc037e6425e994f3053fe4e643b9407062b13112d7bc690f9cd56",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100172,
+  "usage": {
+    "completion_tokens": 66,
+    "prompt_tokens": 3223,
+    "prompt_tokens_details": null,
+    "total_tokens": 3289
+  }
+}

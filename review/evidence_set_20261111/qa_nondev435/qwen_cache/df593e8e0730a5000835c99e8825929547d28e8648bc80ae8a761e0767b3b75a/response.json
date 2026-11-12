@@ -1,0 +1,17 @@
+{
+  "body_sha256": "df593e8e0730a5000835c99e8825929547d28e8648bc80ae8a761e0767b3b75a",
+  "finish_reason": "stop",
+  "latency_s": 28.429793625000457,
+  "prediction": "Orion discusses Cersei's complex relationship with her father, Tywin, noting the significant influence Tywin had on her character. Tywin instilled in Cersei a survival mentality, teaching her to fight for power and approval at all costs. This upbringing instilled a strong sense of loyalty and fear in Cersei, as she learned to value approval above all else. However, this independence also made her more vulnerable, as she had to choose between power and meaningful connections. Orion suggests that while Tywin's influence certainly gave Cersei strength and a sense of control, it also left her isolated, pushing away those who cared about her in favor of her ambition. This complex dynamic highlights Cersei's journey from a vulnerable young girl to a power-hungry queen.",
+  "prediction_sha256": "6307de7cffab0c5284ad6327bb1c1bb3b0611552bb720db9e60db269f349a72f",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100313,
+  "usage": {
+    "completion_tokens": 155,
+    "prompt_tokens": 4836,
+    "prompt_tokens_details": null,
+    "total_tokens": 4991
+  }
+}

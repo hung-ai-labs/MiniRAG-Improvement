@@ -1,0 +1,117 @@
+{
+  "api_calls": 0,
+  "chosen_pool": "native@45",
+  "labelled": 177,
+  "questions": 200,
+  "questions_with_unreachable_gold": 58,
+  "rule_tolerance_questions": 4,
+  "table": {
+    "all+date": {
+      "Multi": 13,
+      "Single": 109,
+      "full_evidence": 122,
+      "size_max": 195,
+      "size_median": 110.5,
+      "size_p90": 150,
+      "tokens_median": 63355.0
+    },
+    "all+date+same_doc": {
+      "Multi": 13,
+      "Single": 125,
+      "full_evidence": 138,
+      "size_max": 223,
+      "size_median": 139.5,
+      "size_p90": 181,
+      "tokens_median": 84022.0
+    },
+    "all+dense30": {
+      "Multi": 18,
+      "Single": 152,
+      "full_evidence": 170,
+      "size_max": 202,
+      "size_median": 123.0,
+      "size_p90": 165,
+      "tokens_median": 68044.5
+    },
+    "all+same_doc": {
+      "Multi": 10,
+      "Single": 125,
+      "full_evidence": 135,
+      "size_max": 223,
+      "size_median": 139.5,
+      "size_p90": 180,
+      "tokens_median": 84022.0
+    },
+    "baseline_kept": {
+      "Multi": 6,
+      "Single": 82,
+      "full_evidence": 88
+    },
+    "native@120": {
+      "Multi": 10,
+      "Single": 109,
+      "full_evidence": 119,
+      "size_max": 120,
+      "size_median": 110.5,
+      "size_p90": 120,
+      "tokens_median": 61582.5
+    },
+    "native@30": {
+      "Multi": 10,
+      "Single": 104,
+      "full_evidence": 114,
+      "size_max": 30,
+      "size_median": 30.0,
+      "size_p90": 30,
+      "tokens_median": 18023.5
+    },
+    "native@45": {
+      "Multi": 10,
+      "Single": 107,
+      "full_evidence": 117,
+      "size_max": 45,
+      "size_median": 45.0,
+      "size_p90": 45,
+      "tokens_median": 27673.0
+    },
+    "native@60": {
+      "Multi": 10,
+      "Single": 108,
+      "full_evidence": 118,
+      "size_max": 60,
+      "size_median": 60.0,
+      "size_p90": 60,
+      "tokens_median": 35657.0
+    },
+    "native@90": {
+      "Multi": 10,
+      "Single": 109,
+      "full_evidence": 119,
+      "size_max": 90,
+      "size_median": 90.0,
+      "size_p90": 90,
+      "tokens_median": 50998.5
+    },
+    "native@all": {
+      "Multi": 10,
+      "Single": 109,
+      "full_evidence": 119,
+      "size_max": 188,
+      "size_median": 110.5,
+      "size_p90": 148,
+      "tokens_median": 63355.0
+    }
+  },
+  "unreachable_gold_stamps_found_in": {
+    "dense30": 52,
+    "unreached": 7
+  },
+  "worst_gold_rank_when_reachable": {
+    "max": 68,
+    "median": 2,
+    "n": 119,
+    "over_30": 5,
+    "over_60": 1,
+    "p90": 13
+  }
+}

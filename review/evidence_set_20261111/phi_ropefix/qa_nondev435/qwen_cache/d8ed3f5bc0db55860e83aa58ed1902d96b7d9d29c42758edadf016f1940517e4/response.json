@@ -1,0 +1,17 @@
+{
+  "body_sha256": "d8ed3f5bc0db55860e83aa58ed1902d96b7d9d29c42758edadf016f1940517e4",
+  "finish_reason": "stop",
+  "latency_s": 12.884663417004049,
+  "prediction": " According to the information provided in the data tables, there are two scheduled power outages mentioned:\n\n1. The first power outage is scheduled for March 7, 2026, from 2 pm to 3 pm. This was discussed in a conversation between AdamSmith and LiHua, where AdamSmith reminded LiHua of the upcoming power outage for maintenance and LiHua acknowledged and planned to finish her tasks before the outage.\n\n2. The second power outage is mentioned without a specific date but on August 12, 2026, from 6 PM to an unspecified time. In a different conversation, AdamSmith informed LiHua about the contractor team coming to install an air-conditioner in the basement at that time, and LiHua confirmed her availability at 6 PM for that purpose.\n\nIn summary, there are scheduled power outages on March 7, 2026, from 2 pm to 3 pm, and some unspecified date in August 2026, starting from 6 PM. There is no precise time provided for the second power outage beyond the starting time of 6 PM.\n\n----\n\n**Note**: For the most accurate and updated information regarding power outages, it is always recommended to check with local utility providers or official announcements, as the data provided is limited and does not include specific dates for the second power outage.",
+  "prediction_sha256": "e95535ec7aff79fe6e93efcbbdd3cccb0eb09cfde146763225ce4670ed8fdfeb",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 100090,
+  "usage": {
+    "completion_tokens": 316,
+    "prompt_tokens": 5219,
+    "prompt_tokens_details": null,
+    "total_tokens": 5535
+  }
+}

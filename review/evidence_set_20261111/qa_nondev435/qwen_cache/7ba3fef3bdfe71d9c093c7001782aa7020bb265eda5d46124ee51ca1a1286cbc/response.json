@@ -1,0 +1,17 @@
+{
+  "body_sha256": "7ba3fef3bdfe71d9c093c7001782aa7020bb265eda5d46124ee51ca1a1286cbc",
+  "finish_reason": "stop",
+  "latency_s": 8.556251959002111,
+  "prediction": "Li Hua expresses a strong affinity for the strategic aspects of \"Call of Duty: Warzone.\" He particularly enjoys the planning required for approaches and teamwork with teammates, highlighting the adrenaline rush during the final circle as an unbeatable experience. Additionally, Li Hua recalls a memorable victory where his team managed to overcome a difficult situation and secure the win at the last second, indicating the excitement and suspense he derives from the game.",
+  "prediction_sha256": "8a811c2891c03b98ed41c0e7ee2f196d9675a331a0f7712da49da27f67a97909",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200238,
+  "usage": {
+    "completion_tokens": 86,
+    "prompt_tokens": 4232,
+    "prompt_tokens_details": null,
+    "total_tokens": 4318
+  }
+}

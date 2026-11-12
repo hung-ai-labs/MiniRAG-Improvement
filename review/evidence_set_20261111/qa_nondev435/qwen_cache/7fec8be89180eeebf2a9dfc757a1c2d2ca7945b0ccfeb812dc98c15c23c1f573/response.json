@@ -1,0 +1,17 @@
+{
+  "body_sha256": "7fec8be89180eeebf2a9dfc757a1c2d2ca7945b0ccfeb812dc98c15c23c1f573",
+  "finish_reason": "stop",
+  "latency_s": 7.424655957998766,
+  "prediction": "In the conversation provided, WolfgangSchulz and LiHua discussed their plans for an upcoming event titled \"Overwatch 3.\" According to their discussion, LiHua expressed enthusiasm for attending the event, and WolfgangSchulz suggested catching the 7 PM show. They agreed to meet up at the cinema and planned to grab some food beforehand. Therefore, LiHua watches the movie \"Overwatch 3\" with WolfgangSchulz.",
+  "prediction_sha256": "8cc208e86ccdb5109b46cb736ad0076983d6cf0997bcc8367f8cd555cb2bffcc",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 31,
+  "usage": {
+    "completion_tokens": 92,
+    "prompt_tokens": 3587,
+    "prompt_tokens_details": null,
+    "total_tokens": 3679
+  }
+}

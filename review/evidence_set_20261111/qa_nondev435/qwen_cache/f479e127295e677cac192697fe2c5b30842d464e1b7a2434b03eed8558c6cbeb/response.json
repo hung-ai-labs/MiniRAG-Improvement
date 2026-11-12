@@ -1,0 +1,17 @@
+{
+  "body_sha256": "f479e127295e677cac192697fe2c5b30842d464e1b7a2434b03eed8558c6cbeb",
+  "finish_reason": "stop",
+  "latency_s": 7.410035582994169,
+  "prediction": "On Saturday, Dacey suggests organizing a practice session focused on passing drills. Specifically, she proposes meeting up in the afternoon on Saturday at 3 PM. She emphasizes the importance of enhancing their passing skills and having fun while doing so. Additionally, she mentions that they might mix in some shooting practice after the passing drills.",
+  "prediction_sha256": "48a6a70284d2ad658b0a5e968922568da58841f558854462fced0c82b1b5515d",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100361,
+  "usage": {
+    "completion_tokens": 65,
+    "prompt_tokens": 4227,
+    "prompt_tokens_details": null,
+    "total_tokens": 4292
+  }
+}

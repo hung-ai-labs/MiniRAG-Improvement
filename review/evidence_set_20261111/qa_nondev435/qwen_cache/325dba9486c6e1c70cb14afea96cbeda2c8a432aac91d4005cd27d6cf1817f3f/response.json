@@ -1,0 +1,17 @@
+{
+  "body_sha256": "325dba9486c6e1c70cb14afea96cbeda2c8a432aac91d4005cd27d6cf1817f3f",
+  "finish_reason": "stop",
+  "latency_s": 10.206829209000716,
+  "prediction": "Based on the conversations detailed in the data, WolfgangSchulz expresses strong appreciation for the city of Prague. He particularly highlights the magical architecture and the enchanting atmosphere of the old town. This is evident from his statement, \"I've always been a fan of the streets of Prague. The architecture is just magical, especially at night. Plus, the vibe of the old town is something else!\" Additionally, Wolfgang mentions that he remembers trying the hearty and tasty goulash and the delightful pastries with powdered sugar during his visit to Prague, indicating his enjoyment of the local cuisine as well.",
+  "prediction_sha256": "b42e1e8a7f904a3be7e1c3d71013f4d0f8883a0f92434b1dee9fb53e72daa0ee",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 399,
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 3541,
+    "prompt_tokens_details": null,
+    "total_tokens": 3661
+  }
+}

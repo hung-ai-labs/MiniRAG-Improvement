@@ -1,0 +1,17 @@
+{
+  "body_sha256": "de876a7e0c0a49062634ecae429d0f63f4111974e78c6d0bd73c424d5647f839",
+  "finish_reason": "stop",
+  "latency_s": 7.342730209002184,
+  "prediction": "In the conversation regarding the neighborhood potluck dinner, Li Hua mentioned that she would \"whip up some homemade pasta salad.\" This indicates that the dish Li Hua intends to bring to the potluck dinner is homemade pasta salad. No other specific dish was agreed upon or discussed in relation to this particular event.",
+  "prediction_sha256": "0805260b3e7def8cbfd827eedb8f44284e3f18073d002c93f63469b00339cf10",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 87,
+  "usage": {
+    "completion_tokens": 64,
+    "prompt_tokens": 4281,
+    "prompt_tokens_details": null,
+    "total_tokens": 4345
+  }
+}

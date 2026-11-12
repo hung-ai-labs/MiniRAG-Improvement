@@ -1,0 +1,17 @@
+{
+  "body_sha256": "d39a5559368bd4a0c8233e9d960299195e1cd0fb37140dd3eac8ca8b4165b77d",
+  "finish_reason": "stop",
+  "latency_s": 9.599510124997323,
+  "prediction": "In the conversation provided, there is no explicit mention of a specific song that Li Hua performed at the local music festival. The entities table does not contain any details about a song performance at a local music festival, only that a Local Music Festival is the event the band is planning to perform at. Therefore, based on the information given, we cannot determine which song Li Hua performed at the local music festival in 2026.",
+  "prediction_sha256": "54e8b375117051bdae7f72bda21b76f98f56777b07296c5174b44f7c657cdd17",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100430,
+  "usage": {
+    "completion_tokens": 90,
+    "prompt_tokens": 4552,
+    "prompt_tokens_details": null,
+    "total_tokens": 4642
+  }
+}

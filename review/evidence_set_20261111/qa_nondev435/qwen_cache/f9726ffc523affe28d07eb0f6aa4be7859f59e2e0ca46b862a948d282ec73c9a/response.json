@@ -1,0 +1,17 @@
+{
+  "body_sha256": "f9726ffc523affe28d07eb0f6aa4be7859f59e2e0ca46b862a948d282ec73c9a",
+  "finish_reason": "stop",
+  "latency_s": 11.14113904199985,
+  "prediction": "In soccer, wearing the right footwear is crucial for several reasons. According to the conversation between Jake Watson and Li Hua, proper footwear can significantly reduce the risk of injuries, particularly sprains and slips, which are common during games. Jake emphasized the importance of wearing the right footwear to prevent these injuries, highlighting its significance for both players and coaches in ensuring a safe and enjoyable game environment. Additionally, the right footwear can provide better traction on various surfaces, enhancing a player's performance and stability on the field.",
+  "prediction_sha256": "b646b843ba16065bdb3a2e0be4001a1e4983b2e25f0e25a31bb58b192952341a",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 207,
+  "usage": {
+    "completion_tokens": 103,
+    "prompt_tokens": 5089,
+    "prompt_tokens_details": null,
+    "total_tokens": 5192
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "17f37d823fd2cbb40b6687694c476940f89cea646f1077657f86a7e6f774dda9",
+  "finish_reason": "stop",
+  "latency_s": 11.199264167000365,
+  "prediction": "Yes, Wolfgang did arrive in Hong Kong after he informed Li Hua about his upcoming trip. This can be inferred from the timeline of events provided. Initially, Wolfgang mentions that he is leaving for Hong Kong for a couple of days next week, and shortly thereafter, he confirms his arrival in Hong Kong, describing the city as \"incredible, so vibrant and full of life.\" This sequence of events shows that Wolfgang indeed arrived in Hong Kong after informing Li Hua about his trip.",
+  "prediction_sha256": "1989d8c70af95005eb844ad13de6f4c6a2c79b3b6f539d02405cad5baa22b3aa",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200030,
+  "usage": {
+    "completion_tokens": 98,
+    "prompt_tokens": 4591,
+    "prompt_tokens_details": null,
+    "total_tokens": 4689
+  }
+}

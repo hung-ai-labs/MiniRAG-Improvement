@@ -1,0 +1,17 @@
+{
+  "body_sha256": "76de04f722095d52a054cf74da3a778462136a5d1f695be779756433cc8d2349",
+  "finish_reason": "stop",
+  "latency_s": 8.912034000000858,
+  "prediction": "Based on the information provided in the dialogue, Li Hua does not specify an exact address where she wants the bread delivery to be made. The conversations revolve around the timing and frequency of the bread deliveries, with Li Hua requesting that Hailey Johnson arrange for the bread to be delivered on Mondays at 8 AM and Fridays at 8 AM. However, no specific address is mentioned or inferred from the given text.",
+  "prediction_sha256": "f464f2af1d1d8dc2c4fb797016de7fdd2cfcb5012df9b55a0972c3d860bb474f",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 94,
+  "usage": {
+    "completion_tokens": 86,
+    "prompt_tokens": 4444,
+    "prompt_tokens_details": null,
+    "total_tokens": 4530
+  }
+}

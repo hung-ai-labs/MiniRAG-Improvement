@@ -1,0 +1,17 @@
+{
+  "body_sha256": "24347363c9feac07501a377a11bf82df303c497e58a8c6bb6b5835faf9891bff",
+  "finish_reason": "stop",
+  "latency_s": 7.362590125001589,
+  "prediction": "There is no mention of Starbucks or any suggestions to meet up after work on 20260918 in the provided data. The conversations listed focus on various events, times, and locations such as meetings, trainings, social gatherings, and professional discussions. Starbucks is not referenced in any of these entries.",
+  "prediction_sha256": "7648e2e11a61572ab4ed961502f70b5e89521ee1f728de0f6d531d2c4907bcc5",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 234,
+  "usage": {
+    "completion_tokens": 66,
+    "prompt_tokens": 5651,
+    "prompt_tokens_details": null,
+    "total_tokens": 5717
+  }
+}

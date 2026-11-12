@@ -1,0 +1,17 @@
+{
+  "body_sha256": "4d1fcb822f0f43b4f33120bd95c53bcb36d8bf5926c70104bd7cc260f2d7be61",
+  "finish_reason": "stop",
+  "latency_s": 9.751678874999925,
+  "prediction": "Based on the conversation, LiHua has committed to taking care of the pizza order for the watch party. Specifically, she stated, \"I can take care of the pizza order! Just let me know everyone's favorite toppings, and I'll make sure to get a variety.\" Additionally, she mentioned, \"This is going to be such a fun match day!\" Therefore, it appears that LiHua will bring pizza for the watch party following the match.",
+  "prediction_sha256": "b633ab2f1489aa0f2a4bbf838e6799ebe4b1d9afc451388790262b525de18305",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 301,
+  "usage": {
+    "completion_tokens": 93,
+    "prompt_tokens": 3828,
+    "prompt_tokens_details": null,
+    "total_tokens": 3921
+  }
+}

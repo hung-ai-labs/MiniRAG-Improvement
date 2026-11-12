@@ -1,0 +1,17 @@
+{
+  "body_sha256": "c67777244463224d6948199eb18cc354ebdf01b3c8a9d7ab20c41884054568ef",
+  "finish_reason": "stop",
+  "latency_s": 10.377888125000027,
+  "prediction": "Based on the conversations, ThaneChambers is currently playing \"Black Myth: Wukong.\" This was mentioned in a message he sent to LiHua on November 24th, stating, \"I get that! I've been hooked on \"\"Black Myth: Wukong.\"\" The visuals are stunning, and the story is super immersive.\" Additionally, LiHua expressed her enjoyment of the game, saying, \"Yeah, \"\"Black Myth: Wukong\"\" is awesome! I love how the gameplay feels so dynamic. I can't wait to unlock more abilities.\"",
+  "prediction_sha256": "44b08d2ce4e16a54e796b6a92bed6502f264f45894d5a2e3f7a24fc9838514bf",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 287,
+  "usage": {
+    "completion_tokens": 119,
+    "prompt_tokens": 4339,
+    "prompt_tokens_details": null,
+    "total_tokens": 4458
+  }
+}

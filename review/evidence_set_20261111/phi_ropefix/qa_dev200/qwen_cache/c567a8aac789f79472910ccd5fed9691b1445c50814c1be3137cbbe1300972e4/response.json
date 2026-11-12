@@ -1,0 +1,17 @@
+{
+  "body_sha256": "c567a8aac789f79472910ccd5fed9691b1445c50814c1be3137cbbe1300972e4",
+  "finish_reason": "stop",
+  "latency_s": 6.28786483300064,
+  "prediction": " The provided data tables do not include specific information regarding games, recommendations by individuals like Dyllan, or details on game characteristics such as turn-based combat or art style. Therefore, I'm unable to provide an answer based on the given data. If Dyllan has made a recommendation, it is not included in the current dataset provided. To find out which game Dyllan suggests for its turn-based combat and art style, additional information or context would be required.",
+  "prediction_sha256": "c2d89f30765c011981b6cd6ddaf8b946922acd270d77ea97e3804288165a5500",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 83,
+  "usage": {
+    "completion_tokens": 99,
+    "prompt_tokens": 216,
+    "prompt_tokens_details": null,
+    "total_tokens": 315
+  }
+}

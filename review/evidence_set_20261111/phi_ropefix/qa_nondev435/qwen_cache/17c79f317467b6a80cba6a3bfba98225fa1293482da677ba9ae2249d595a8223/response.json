@@ -1,0 +1,17 @@
+{
+  "body_sha256": "17c79f317467b6a80cba6a3bfba98225fa1293482da677ba9ae2249d595a8223",
+  "finish_reason": "stop",
+  "latency_s": 5.618873165993136,
+  "prediction": " According to Jennifer, LiHua should aim for at least 5 servings of vegetables each day to maintain good health. Vegetables are crucial for providing energy and aiding recovery during physical activities. She also suggests mixing up the types of vegetables to maximize the nutritional benefits. This can be achieved by incorporating a variety of vegetables into meals, such as salads or stir-fries. For instance, Jennifer recommends leafy greens like spinach and kale, as well as bell peppers and broccoli, as part of a balanced diet.",
+  "prediction_sha256": "ee6567c46bdc63f9783cbe3a57d8844be804140ba298d2467b5179e5f16af2dc",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 200204,
+  "usage": {
+    "completion_tokens": 128,
+    "prompt_tokens": 5513,
+    "prompt_tokens_details": null,
+    "total_tokens": 5641
+  }
+}

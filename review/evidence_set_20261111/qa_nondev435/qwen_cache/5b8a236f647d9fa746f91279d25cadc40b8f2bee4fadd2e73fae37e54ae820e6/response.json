@@ -1,0 +1,17 @@
+{
+  "body_sha256": "5b8a236f647d9fa746f91279d25cadc40b8f2bee4fadd2e73fae37e54ae820e6",
+  "finish_reason": "stop",
+  "latency_s": 8.938932417000615,
+  "prediction": "Thrall is planning to organize a community sports day, which is scheduled to happen soon. The sports day aims to get residents involved, meet neighbors, and have fun outdoors. Thrall mentioned that they had posted about the event on the community bulletin board and emphasized the importance of having good weather for the day. The sports day will likely feature various team sports such as soccer and basketball, along with fun activities specifically designed for children. Refreshments will also be provided to keep everyone energized throughout the day. The goal is to create a memorable event that brings the community together in celebration of the newly renovated garden.",
+  "prediction_sha256": "d682dc6b2794026010529a3cc25eb63bf7f83ec252fa5897b56006dbc077b081",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100114,
+  "usage": {
+    "completion_tokens": 123,
+    "prompt_tokens": 4067,
+    "prompt_tokens_details": null,
+    "total_tokens": 4190
+  }
+}

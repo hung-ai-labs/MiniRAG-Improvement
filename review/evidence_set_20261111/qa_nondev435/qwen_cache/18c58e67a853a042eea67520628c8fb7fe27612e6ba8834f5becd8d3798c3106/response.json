@@ -1,0 +1,17 @@
+{
+  "body_sha256": "18c58e67a853a042eea67520628c8fb7fe27612e6ba8834f5becd8d3798c3106",
+  "finish_reason": "stop",
+  "latency_s": 8.219267500004207,
+  "prediction": "On January 6th, Li Hua reported to Adam that the water tap in their apartment was broken. Specifically, she mentioned that she needed assistance with the issue, and Adam assured her that he would arrange for someone to look into it as soon as possible. Li Hua expressed gratitude for the help and asked Adam to keep her informed about any developments, including if there were any other issues that she might encounter. Adam promised to provide regular updates and offered to assist with any other needs she might have.",
+  "prediction_sha256": "409cf64119f124c05ca2791d918a504981aeb9266883ce74fce281dc9c639037",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200060,
+  "usage": {
+    "completion_tokens": 103,
+    "prompt_tokens": 3335,
+    "prompt_tokens_details": null,
+    "total_tokens": 3438
+  }
+}

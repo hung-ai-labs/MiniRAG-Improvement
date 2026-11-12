@@ -1,0 +1,17 @@
+{
+  "body_sha256": "35107a1219ea254f534c0a741f00846fd5cc2b1abc95745e4ea76d61dd490093",
+  "finish_reason": "stop",
+  "latency_s": 10.522683125000185,
+  "prediction": "Phaedra mentions two memorable quotes from the show \"Game of Thrones.\" Specifically, she references Tyrion Lannister's line, \"I drink and I know things,\" which is a well-known and clever remark from the character. Additionally, Phaedra notes Jon Snow's famous quote, \"You know nothing,\" which highlights their relationship and the tension between them.",
+  "prediction_sha256": "f1503cf54ef1c288b204ddbd4ed34a6301fd07f595ade73c7bf4f31cc381857c",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100212,
+  "usage": {
+    "completion_tokens": 75,
+    "prompt_tokens": 4351,
+    "prompt_tokens_details": null,
+    "total_tokens": 4426
+  }
+}

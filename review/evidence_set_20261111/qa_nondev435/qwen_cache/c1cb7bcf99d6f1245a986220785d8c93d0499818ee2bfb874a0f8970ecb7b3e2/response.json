@@ -1,0 +1,17 @@
+{
+  "body_sha256": "c1cb7bcf99d6f1245a986220785d8c93d0499818ee2bfb874a0f8970ecb7b3e2",
+  "finish_reason": "stop",
+  "latency_s": 14.463965833998373,
+  "prediction": "In the conversation, Li Hua expresses interest in receiving bread more frequently. Initially, she asks Hailey if they could send her bread twice a week, specifically requesting deliveries on Mondays at 8 AM and Fridays at 8 AM. However, Li Hua later suggests a trial run for a specific type of bread. She mentions, \"Let’s do a trial run and see how often I might need it.\" This indicates that while she initially wants more frequent deliveries, she is open to testing the frequency with a particular type of bread. Li Hua eventually agrees to a delivery on a specific day, which Hailey sets for Tuesday, indicating that Li Hua is willing to adjust her preferences based on her experience with the bread.",
+  "prediction_sha256": "d307a7a936fddc08429baccb7a6e6860e820bb90e20d0110206b33e0ea16a516",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100098,
+  "usage": {
+    "completion_tokens": 148,
+    "prompt_tokens": 4579,
+    "prompt_tokens_details": null,
+    "total_tokens": 4727
+  }
+}

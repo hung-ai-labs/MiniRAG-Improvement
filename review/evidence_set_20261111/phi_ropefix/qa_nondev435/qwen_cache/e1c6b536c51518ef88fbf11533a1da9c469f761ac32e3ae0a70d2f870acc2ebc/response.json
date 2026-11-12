@@ -1,0 +1,17 @@
+{
+  "body_sha256": "e1c6b536c51518ef88fbf11533a1da9c469f761ac32e3ae0a70d2f870acc2ebc",
+  "finish_reason": "stop",
+  "latency_s": 5.920742124999379,
+  "prediction": " According to the conversation provided, Barca suffered a 4-0 loss against Bayern in the year 2013. This was mentioned during a discussion about classic matches between Barcelona and Bayern Munich, particularly emphasizing the dramatic moments and the significance of certain goals that have defined their football history. The participants remember this match vividly as it encapsulates the high-pressure, high-stakes nature of their rivalry.",
+  "prediction_sha256": "e444af129ca1980b3e251ba800df73642e3d2a1b5e086ef48dbc8512a7cd4a16",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 294,
+  "usage": {
+    "completion_tokens": 93,
+    "prompt_tokens": 5048,
+    "prompt_tokens_details": null,
+    "total_tokens": 5141
+  }
+}

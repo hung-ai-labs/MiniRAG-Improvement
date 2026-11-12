@@ -1,0 +1,17 @@
+{
+  "body_sha256": "00f4fb217d0f1c4b2524713a3ecf3bf712bdb2c57488e1f44fe2f13d460a7cab",
+  "finish_reason": "stop",
+  "latency_s": 9.783437334001064,
+  "prediction": " LiHua expresses a fondness for pepperoni pizza, appreciating its spiciness and extra cheese topping. She finds the combination satisfying and enjoyable, highlighting her preference for flavorful and rich toppings on her favorite pizza.\n\n```markdown\n## Food Preferences\n\n### Pizza\n\n- **LiHua's Favorite:** Pepperoni Pizza\n  - **Toppings:** Spicy pepperoni with an additional layer of melted cheese\n  - **Flavor Profile:** Rich and flavorful with a kick of spiciness from the pepperoni\n  - **Complementary Drink:** Refreshing lemonade\n```\n\nThis summary captures LiHua's preference for pepperoni pizza from the conversations provided. The chosen toppings and her desire for a complementary drink during her pizza experience are drawn directly from the dialogue excerpts, reflecting her taste and choice of pizza.",
+  "prediction_sha256": "505c86f1a1fd12fdee1fd9634fb01cf0f5207dc31565bc39fd3058bc9e4c8088",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 198,
+  "usage": {
+    "completion_tokens": 222,
+    "prompt_tokens": 5289,
+    "prompt_tokens_details": null,
+    "total_tokens": 5511
+  }
+}

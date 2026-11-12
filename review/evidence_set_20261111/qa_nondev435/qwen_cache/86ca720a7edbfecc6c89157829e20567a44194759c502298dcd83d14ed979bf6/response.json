@@ -1,0 +1,17 @@
+{
+  "body_sha256": "86ca720a7edbfecc6c89157829e20567a44194759c502298dcd83d14ed979bf6",
+  "finish_reason": "stop",
+  "latency_s": 7.9269161249976605,
+  "prediction": "On April 3, 2026, the bread delivery to Li Hua is being handled by Alice, as indicated in the conversation where Alice informs Li Hua, \"Your bread has been delivered, please come and pick it up ASAP. Have a good day : )\" This delivery is part of the regular service provided by Hailey's bakery, with Alice delivering the bread to customers' addresses.",
+  "prediction_sha256": "893eeab99f36fc73b52816ee46a1947e3b5ace3ef727174f1fef46eccbc79d4b",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 105,
+  "usage": {
+    "completion_tokens": 83,
+    "prompt_tokens": 3544,
+    "prompt_tokens_details": null,
+    "total_tokens": 3627
+  }
+}

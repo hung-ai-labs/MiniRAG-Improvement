@@ -1,0 +1,17 @@
+{
+  "body_sha256": "b942f903047188380555708be32cf57daa6640857ca5e4d8640b38f57cab7a23",
+  "finish_reason": "stop",
+  "latency_s": 9.855114665999281,
+  "prediction": "Emily Burnett is currently watching \"The Bear,\" which is described as a different type of show that engages her due to its focus on the chaos of running a restaurant while exploring the characters' emotions. The narrative is gripping, and the cooking scenes are intense. Emily suggests that Li Hua should definitely give it a shot, as it seems to be a highly engaging watch.",
+  "prediction_sha256": "f1c16fe1d27cfda41cfd2c5f2b8549502ea22b8251122ece6a108d38a6b9428b",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200386,
+  "usage": {
+    "completion_tokens": 75,
+    "prompt_tokens": 4365,
+    "prompt_tokens_details": null,
+    "total_tokens": 4440
+  }
+}

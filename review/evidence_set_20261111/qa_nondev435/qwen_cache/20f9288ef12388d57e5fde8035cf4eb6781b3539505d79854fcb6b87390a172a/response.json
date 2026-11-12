@@ -1,0 +1,17 @@
+{
+  "body_sha256": "20f9288ef12388d57e5fde8035cf4eb6781b3539505d79854fcb6b87390a172a",
+  "finish_reason": "stop",
+  "latency_s": 10.146359916005167,
+  "prediction": "No explicit agreement was made regarding a dinner date following the lunch arrangement. In the interactions detailed, Wolfgang reminded Li Hua about their lunch at a café downtown, and Li Hua confirmed her intention to meet Wolfgang there at the specified time. However, there is no mention of Wolfgang subsequently suggesting or Li Hua agreeing to a dinner date. The focus appears to have shifted to other activities such as attending a movie night, trying out new restaurants, and engaging in various hobbies and events.",
+  "prediction_sha256": "ba9c45880f9a49fdcd265a2980f5f77ab6961095c60ec357d6de8fe93376c18d",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 45,
+  "usage": {
+    "completion_tokens": 98,
+    "prompt_tokens": 4687,
+    "prompt_tokens_details": null,
+    "total_tokens": 4785
+  }
+}

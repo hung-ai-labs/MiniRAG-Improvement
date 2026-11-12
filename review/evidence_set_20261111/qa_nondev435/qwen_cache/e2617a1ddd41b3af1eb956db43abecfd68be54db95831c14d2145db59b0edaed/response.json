@@ -1,0 +1,17 @@
+{
+  "body_sha256": "e2617a1ddd41b3af1eb956db43abecfd68be54db95831c14d2145db59b0edaed",
+  "finish_reason": "stop",
+  "latency_s": 4.190137749999849,
+  "prediction": "Jake considers Neymar's goal in the 2015 match incredible. This goal was particularly notable due to its finishing prowess and the way it secured Barca's position in the final, showcasing the team's resilience and unity.",
+  "prediction_sha256": "9d92adf11de8de1f390b3387b2547fc85e0c7294dcc3bab5ac4a250462267ac3",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100295,
+  "usage": {
+    "completion_tokens": 48,
+    "prompt_tokens": 4405,
+    "prompt_tokens_details": null,
+    "total_tokens": 4453
+  }
+}

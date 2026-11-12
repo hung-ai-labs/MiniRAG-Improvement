@@ -1,0 +1,17 @@
+{
+  "body_sha256": "6e72a32042d7b67eedf9a6fd7083ef47f3aaa49e9e11428f9c6a2d11f63d4fea",
+  "finish_reason": "stop",
+  "latency_s": 8.749654541999917,
+  "prediction": "In the discussion regarding the upcoming garage sale, Thrall mentioned that he is excited about the next steps and looks forward to seeing the plans unfold. However, there is no explicit mention of Thrall being unable to participate in the garage sale. Instead, Thrall expressed enthusiasm for the event and noted that the team had covered a lot of ground during their previous discussions, indicating that he is actively involved in planning the garage sale. Therefore, based on the information provided, Thrall is participating in the garage sale preparations.",
+  "prediction_sha256": "b31af1c27bcdb49b53aa83d9dcc463aa0bbc64c24b12bf56b3464933fc5c27cf",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 169,
+  "usage": {
+    "completion_tokens": 104,
+    "prompt_tokens": 4201,
+    "prompt_tokens_details": null,
+    "total_tokens": 4305
+  }
+}

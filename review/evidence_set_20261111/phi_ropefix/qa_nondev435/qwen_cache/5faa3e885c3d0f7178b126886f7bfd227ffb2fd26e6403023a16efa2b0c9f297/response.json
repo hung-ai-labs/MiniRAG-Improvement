@@ -1,0 +1,17 @@
+{
+  "body_sha256": "5faa3e885c3d0f7178b126886f7bfd227ffb2fd26e6403023a16efa2b0c9f297",
+  "finish_reason": "stop",
+  "latency_s": 7.670035582996206,
+  "prediction": " Li Hua agrees to bring a homemade pasta salad to the neighborhood potluck dinner. This decision is mentioned in the conversation with AdamSmith, where Li Hua responds to Adam's inquiry about any kitchen supplies or assistance he might need for contributing to the potluck:\n\n```\nAdamSmith: That sounds delicious! I'm sure everyone will enjoy it. Do you need any kitchen supplies or anything from my side?\nLiHua: Thanks, Adam! I think I have everything I need. Just need to pick up some fresh ingredients tomorrow. Really looking forward to the potluck!\n```\n\nHere, Li Hua confirms that she has all the necessary equipment and only needs to acquire fresh ingredients to prepare the pasta salad, indicating her readiness and enthusiasm for the communal meal.",
+  "prediction_sha256": "f9f06c72438c37650e9494751e097a32e25e82ceaca306be72ecf49e9754e1e2",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 200087,
+  "usage": {
+    "completion_tokens": 190,
+    "prompt_tokens": 5057,
+    "prompt_tokens_details": null,
+    "total_tokens": 5247
+  }
+}

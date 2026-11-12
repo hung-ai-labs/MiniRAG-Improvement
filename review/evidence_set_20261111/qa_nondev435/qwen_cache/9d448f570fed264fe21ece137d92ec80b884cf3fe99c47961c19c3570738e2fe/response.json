@@ -1,0 +1,17 @@
+{
+  "body_sha256": "9d448f570fed264fe21ece137d92ec80b884cf3fe99c47961c19c3570738e2fe",
+  "finish_reason": "stop",
+  "latency_s": 11.735128416999942,
+  "prediction": "There is no mention of Adam Smith sending a message to Li Hua regarding the maintenance schedule prior to the temporary change in the construction schedule due to weather conditions. The messages between Adam Smith and Li Hua only deal with various maintenance requests, power outages, and other immediate concerns arising during the building's regular operations. There is no indication of Adam Smith providing advance notice about the maintenance schedule to Li Hua before the administrators made adjustments based on weather conditions. Therefore, it cannot be concluded that Adam Smith sent such a message.",
+  "prediction_sha256": "1c6ef7037b59f6bab2ff9ce78afa888b4b20f3401790a111f08227fa878e5088",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200013,
+  "usage": {
+    "completion_tokens": 107,
+    "prompt_tokens": 4516,
+    "prompt_tokens_details": null,
+    "total_tokens": 4623
+  }
+}

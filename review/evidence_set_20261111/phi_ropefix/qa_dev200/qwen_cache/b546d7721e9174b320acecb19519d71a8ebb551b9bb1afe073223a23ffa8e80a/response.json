@@ -1,0 +1,17 @@
+{
+  "body_sha256": "b546d7721e9174b320acecb19519d71a8ebb551b9bb1afe073223a23ffa8e80a",
+  "finish_reason": "stop",
+  "latency_s": 12.81077916600043,
+  "prediction": " According to the conversation between Hailey and LiHua on June 22, 2026, the special event at Hailey's bakery, which involves a new line of healthy bread options and a tasting session, is scheduled to start at 10 AM on that same day.\n\nHere's a structured representation of the relevant part of their conversation with emphasis on the event's timing:\n\n```\nHaileyJohnson: Hey Li Hua! Just wanted to invite you to a special event at the bakery this Saturday! We're launching a new line of healthy bread options, and I’d love for you to check it out. It'll be a fun tasting session!\nLiHua: Sounds amazing! I'm definitely in for the tasting session! Can't wait to try the new healthy options. What time does it start?\nHaileyJohnson: Awesome! 🎉 The event starts at 10 AM this Saturday. We’re planning some lovely samples and a little workshop too! Bring your appetite!\n```\n\nThis information succinctly captures the start time and date (Saturday, June 22, 2026) for Hailey's bakery's special event.",
+  "prediction_sha256": "2ad01cb94744c85c0a9210027fefcc4dbcffe59a5b10643e7407a41ed156657b",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 191,
+  "usage": {
+    "completion_tokens": 293,
+    "prompt_tokens": 5822,
+    "prompt_tokens_details": null,
+    "total_tokens": 6115
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "59fa05cc2bc8e3303c7fb35986c1378de22cfa4abdcf3b88570d5a5f25746069",
+  "finish_reason": "stop",
+  "latency_s": 8.874257915998896,
+  "prediction": "On April 3, 2026, the bread delivery to Li Hua is being handled by Hailey Johnson. This is indicated in the conversation where HaileyJohnson reminds LiHua about the fresh bread delivery and asks for feedback. Additionally, the context of the delivery event is described as \"Bread Delivery is the event of bread delivery facilitated by Alice,\" which suggests that Alice is the person responsible for picking up and delivering the bread, although Alice is not mentioned directly in the conversation for this specific delivery. Therefore, the primary person delivering the bread on April 3, 2026, is Hailey Johnson.",
+  "prediction_sha256": "bea26511664d0ef40aa92eff38d26c92153ca9c707a2e52a95f6daf1e5348647",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 105,
+  "usage": {
+    "completion_tokens": 130,
+    "prompt_tokens": 4606,
+    "prompt_tokens_details": null,
+    "total_tokens": 4736
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "e9b7e18cbbc79a74e0073655962b876497db7fe2ab0a802e7f9b012533d3f5e3",
+  "finish_reason": "stop",
+  "latency_s": 8.791693125000165,
+  "prediction": " Jasper mentions a recent match where Manchester City was involved, specifically referring to a Champions League game where Manchester City was down by two goals but managed to stage a remarkable comeback. The detailed account of this match comes from JakeWatson's comment, where he highlights a significant moment in the game:\n\n> JakeWatson: One that really stuck with me was the famous Champions League comeback against Manchester City in 2022! That stoppage-time goal by Rodrygo was just epic! They looked done for, but somehow managed to score two in quick succession. It just shows their belief and determination. What a night!\n\nThis conversation, provided in the data table regarding soccer matches and the context of a chat among friends discussing football and games, supports Jasper's reference to the Manchester City match. It indicates the friends' shared interest in football's unpredictable nature and underdog comebacks, which in this case, Manchester City orchestrated successfully against their opponents.",
+  "prediction_sha256": "e7c0ab6596b7128d0ca1a09e4f8216605c4b342552fcfa96697182e33f4cc69c",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 200302,
+  "usage": {
+    "completion_tokens": 221,
+    "prompt_tokens": 4450,
+    "prompt_tokens_details": null,
+    "total_tokens": 4671
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "83ab36115f707c5ad1973a5ee7a38a4df33e4e0b094b37b9692d554d4bf08542",
+  "finish_reason": "stop",
+  "latency_s": 6.000237457999901,
+  "prediction": "According to the conversation recorded on October 5, 2026, at 10:05 AM, Barca lost 4-0 against Bayern Munich in a UCL (UEFA Champions League) match. This loss occurred in the year 2013.",
+  "prediction_sha256": "a9541a752417ade6b77dc5f7b373c2f728dc71808d19ee3c7271897456ddb962",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100294,
+  "usage": {
+    "completion_tokens": 60,
+    "prompt_tokens": 4401,
+    "prompt_tokens_details": null,
+    "total_tokens": 4461
+  }
+}

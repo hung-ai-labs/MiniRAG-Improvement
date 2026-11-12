@@ -1,0 +1,17 @@
+{
+  "body_sha256": "155b38a6a5a9f0e99902fabe9fda4691e4ec2f98d1b3077e5834d2ecf3c8f83b",
+  "finish_reason": "stop",
+  "latency_s": 16.793424415998743,
+  "prediction": "Yes, Li Hua did inquire about his protein powder intake and its relationship to his fitness goals, specifically asking for Jennifer's advice. This occurred on a date that was recorded as 20261120_20:00. In this conversation, Jennifer suggested that Li Hua aim for about 1.6 to 2.2 grams of protein per kilogram of body weight, and she recommended using protein powder to supplement his diet, particularly focusing on post-workout consumption. She advised him to adjust his servings based on his overall protein intake from meals, suggesting he might only need a scoop of protein powder post-workout or as a snack. This inquiry came before he asked for advice regarding protein powder usage and intake.",
+  "prediction_sha256": "17a0e667d715631db7b21c066b1ee57c5106d1511ed29daeab88e0a7835176ea",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200016,
+  "usage": {
+    "completion_tokens": 153,
+    "prompt_tokens": 4419,
+    "prompt_tokens_details": null,
+    "total_tokens": 4572
+  }
+}

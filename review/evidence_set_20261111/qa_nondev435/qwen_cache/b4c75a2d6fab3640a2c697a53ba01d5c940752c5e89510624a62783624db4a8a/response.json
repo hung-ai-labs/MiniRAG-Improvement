@@ -1,0 +1,17 @@
+{
+  "body_sha256": "b4c75a2d6fab3640a2c697a53ba01d5c940752c5e89510624a62783624db4a8a",
+  "finish_reason": "stop",
+  "latency_s": 8.897222708001209,
+  "prediction": "Henley does not directly praise Rodri's performance. However, based on the context provided, Henley appears to be discussing a soccer practice session with friends, mentioning that Henley looks forward to the practice session on Saturday at 3 PM, emphasizing the importance of bringing enthusiasm and water bottles for hydration. Therefore, Henley's comments are related to the upcoming practice session rather than praising Rodri's performance.",
+  "prediction_sha256": "9442f724aaf7ce00819cb52d906b3ddc2402cf8b21842c8f157d0ba01c4be81c",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 304,
+  "usage": {
+    "completion_tokens": 83,
+    "prompt_tokens": 4462,
+    "prompt_tokens_details": null,
+    "total_tokens": 4545
+  }
+}

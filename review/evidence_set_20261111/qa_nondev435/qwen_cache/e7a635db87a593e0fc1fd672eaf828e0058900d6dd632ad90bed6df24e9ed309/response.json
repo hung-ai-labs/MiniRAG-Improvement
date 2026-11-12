@@ -1,0 +1,17 @@
+{
+  "body_sha256": "e7a635db87a593e0fc1fd672eaf828e0058900d6dd632ad90bed6df24e9ed309",
+  "finish_reason": "stop",
+  "latency_s": 11.008849957997882,
+  "prediction": "According to the conversation, Li Hua and Jennifer discussed her fitness plan for the upcoming month. Specifically, Jennifer inquired about Li Hua's progress and if she had noticed any improvements in her fitness level. Li Hua reported that she had indeed noticed improvements, including more stamina during workouts and enjoyment of the sessions. Jennifer responded positively and encouraged Li Hua to focus on increasing her strength and possibly adding some flexibility to her routine. This indicates that the main focus of Li Hua's next month's fitness plan will be to enhance her strength and perhaps incorporate some flexibility exercises.",
+  "prediction_sha256": "0bbb8ceb2f71de96a9de6e50f0926dfc5425382ae80c54b8cc250dee9af3f8ec",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100,
+  "usage": {
+    "completion_tokens": 117,
+    "prompt_tokens": 4313,
+    "prompt_tokens_details": null,
+    "total_tokens": 4430
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "d43ccedd6370788e7328391aca18257d44b61c16bf74fa8dc66a70166c405175",
+  "finish_reason": "stop",
+  "latency_s": 10.7646653329939,
+  "prediction": "In the month of May, Hailey Johnson offered several special offerings at her bakery. A notable event was a free baking class hosted on a weekend, which Li Hua enthusiastically attended and expressed interest in participating in more. Additionally, there was a bread-tasting event scheduled on a Saturday from 10 AM to 2 PM, which was planned to gather feedback from customers. These special events highlighted Hailey's commitment to engaging with her customers and introducing new experiences to enhance their bakery visits.",
+  "prediction_sha256": "30126d96f8c8514d973cbd3410ccecfea38b092b8f32feb1a015eef71648529e",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100037,
+  "usage": {
+    "completion_tokens": 100,
+    "prompt_tokens": 5096,
+    "prompt_tokens_details": null,
+    "total_tokens": 5196
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "741aba5cf89ea9a1163d2f5e8461ab739189bbb0d4e345a18d7caa6e624dd2c3",
+  "finish_reason": "stop",
+  "latency_s": 10.296347374998732,
+  "prediction": " Li Hua has plans to celebrate the Chinese Lunar New Year at her place on January 18th. This information is mentioned in the conversation entry labeled as number 3 in the provided data table. During this discussion, she extends an invitation to Wolfgang Schultz to join the festivities, expressing her anticipation for a joyful experience of catching up and savoring good food together. They touch upon the idea of preparing traditional dishes and decorations to enhance the celebratory atmosphere.\n\n```markdown\n- **Chinese Lunar New Year Celebration:**\n  - Date: January 18th\n  - Host: Li Hua\n  - Invitation Details: Li Hua invites Wolfgang Schultz to her home for the celebration, indicating a planned event with traditional dishes and possibly some festive decorations to create a lively environment.\n```\n\nThis brief summary encapsulates the relevant data pertaining to Li Hua's planned celebration of the Chinese Lunar New Year.",
+  "prediction_sha256": "db7a1244a12d2e0124c84450d615e6272b00082d82e2ecfa6a775a7317d80d4a",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 64,
+  "usage": {
+    "completion_tokens": 229,
+    "prompt_tokens": 4832,
+    "prompt_tokens_details": null,
+    "total_tokens": 5061
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "6edac09a73a0e7328d79a8099b636def29bb879b72500d1d935d2c0aa1b9dce0",
+  "finish_reason": "stop",
+  "latency_s": 14.13271112500297,
+  "prediction": "During the picnic planning session, RexxarRemar suggested bringing blankets or chairs for seating, as it might get a bit crowded. Additionally, he proposed having a mix of snacks and drinks to keep everyone energized. Specifically, RexxarRemar recommended having a mix of food options including desserts to ensure there was something for everyone to enjoy. He also suggested having a small competition for the best dessert brought by participants, which could be a fun activity. To keep everyone hydrated, RexxarRemar proposed setting up a small drink station with water and refreshing beverages. Overall, RexxarRemar's suggestions were geared towards ensuring the picnic was both enjoyable and comfortable for all attendees.",
+  "prediction_sha256": "9b2fa62201daf37463d3e3e34f21f9378c03906401197dc93b6fd4cd2c7982ae",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 396,
+  "usage": {
+    "completion_tokens": 140,
+    "prompt_tokens": 3922,
+    "prompt_tokens_details": null,
+    "total_tokens": 4062
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "f20a62f6598a5acb900da180d8d9fc77377be27566c25813d2ae8de2b00f68db",
+  "finish_reason": "stop",
+  "latency_s": 6.772524833002535,
+  "prediction": "According to the conversation recorded on 20260529_17:00, LiHua suggests revisiting the song \"The History of Everything\" from the TV show Big Bang Theory for the band's music session.",
+  "prediction_sha256": "2e395c43195dc58a411569118f15ae85dfafd5d0abc0d6e8646f3f332f6bfdd8",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 129,
+  "usage": {
+    "completion_tokens": 51,
+    "prompt_tokens": 5426,
+    "prompt_tokens_details": null,
+    "total_tokens": 5477
+  }
+}

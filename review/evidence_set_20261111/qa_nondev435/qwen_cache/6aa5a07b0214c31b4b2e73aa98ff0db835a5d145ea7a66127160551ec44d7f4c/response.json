@@ -1,0 +1,17 @@
+{
+  "body_sha256": "6aa5a07b0214c31b4b2e73aa98ff0db835a5d145ea7a66127160551ec44d7f4c",
+  "finish_reason": "stop",
+  "latency_s": 6.472258791000058,
+  "prediction": "In the discussion about the upcoming soccer practice, Farrah suggested bringing cones to the local park on Saturday afternoon to work on shooting skills. Specifically, Farrah proposed, \"Let's bring some cones and have fun while working on our shots!\" Therefore, Farrah offered to bring cones for the soccer practice.",
+  "prediction_sha256": "329397f4fe0839907fae04a4229ae4d8768f80197150f6b2169dddfee5d49017",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 363,
+  "usage": {
+    "completion_tokens": 62,
+    "prompt_tokens": 4488,
+    "prompt_tokens_details": null,
+    "total_tokens": 4550
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "cc5a732cb445c5c02513896bb944727ea8b1fa365e0d6462718292292ba670c7",
+  "finish_reason": "stop",
+  "latency_s": 5.086508249998587,
+  "prediction": "Dacey suggests setting up cones for target practice during the passing drills. This suggestion aims to make the practice more interactive and fun, thereby enhancing the participants' skills in a novel and engaging manner.",
+  "prediction_sha256": "241a5aadb0e8916e3d39f1dea4c73a8aa1f15451f5f3840a78079710ac9c4b34",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 283,
+  "usage": {
+    "completion_tokens": 40,
+    "prompt_tokens": 4140,
+    "prompt_tokens_details": null,
+    "total_tokens": 4180
+  }
+}

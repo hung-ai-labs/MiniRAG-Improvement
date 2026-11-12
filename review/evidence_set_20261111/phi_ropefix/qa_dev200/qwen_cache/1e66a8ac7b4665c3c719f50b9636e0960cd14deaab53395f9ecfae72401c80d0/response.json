@@ -1,0 +1,17 @@
+{
+  "body_sha256": "1e66a8ac7b4665c3c719f50b9636e0960cd14deaab53395f9ecfae72401c80d0",
+  "finish_reason": "stop",
+  "latency_s": 14.62348854100128,
+  "prediction": " The community bake sale is scheduled to take place on a Sunday. The specific time mentioned in the conversation is 3 PM. This information is derived from a message between AdamSmith and LiHua, where Adam invites LiHua to join the event and expresses his anticipation for meeting neighbors and enjoying some homemade baked goods together. LiHua confirms her attendance and enthusiasm for the event. The designated time for the bake sale is a significant aspect of the event's planning, as it sets the stage for community interaction and support for a local charity.\n\nHere is the relevant excerpt from the conversation to provide context:\n\n```\nAdamSmith: Hey Li Hua! There's a community bake sale this Sunday at 3 PM to support a local charity. It would be great if you could join. Let me know if you’re interested!\nLiHua: That sounds fun! I’d love to help out and enjoy some baked goodies. Count me in! 🍰\nAdamSmith: Awesome! It’ll be a nice way to meet some neighbors too. Looking forward to it!\nLiHua: Yeah, it’s always great to connect with the community! Let me know if you need any help setting things up. 😊\nAdamSmith: Thanks for the offer! I think we’ll manage, but I’ll reach out if we need an extra hand. Appreciate it!\nLiHua: Sounds good! Just give me a shout if you do. See you at the bake sale! 🍪\n```\n\nIn summary, the bake sale will occur on a Sunday at 3 PM, featuring a charitable cause and opportunities for community engagement.",
+  "prediction_sha256": "2469c155471d7b450142da9f4e8c62be75e0cda3e7e86854053ddb19ded48556",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 90,
+  "usage": {
+    "completion_tokens": 389,
+    "prompt_tokens": 6056,
+    "prompt_tokens_details": null,
+    "total_tokens": 6445
+  }
+}

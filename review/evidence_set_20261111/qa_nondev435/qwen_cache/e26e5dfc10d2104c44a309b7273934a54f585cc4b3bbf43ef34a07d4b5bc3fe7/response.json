@@ -1,0 +1,17 @@
+{
+  "body_sha256": "e26e5dfc10d2104c44a309b7273934a54f585cc4b3bbf43ef34a07d4b5bc3fe7",
+  "finish_reason": "stop",
+  "latency_s": 5.857825917002629,
+  "prediction": "Dacey proposes to participate in a soccer practice session on Saturday afternoon, specifically suggesting they meet at 3 PM to work on passing drills. Additionally, she mentions she would be open to setting up cones for target practice during the passing drills, indicating a fun and interactive approach to skill improvement.",
+  "prediction_sha256": "0ccac4111caf4cbb33419283eb901f9eed358283ea84c93be6f94414ef678808",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 361,
+  "usage": {
+    "completion_tokens": 59,
+    "prompt_tokens": 4923,
+    "prompt_tokens_details": null,
+    "total_tokens": 4982
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "e23413f5691bdd39760133ae99562e7b3bb63b241331f55dce22f31ff2cd1867",
+  "finish_reason": "stop",
+  "latency_s": 4.815604666000581,
+  "prediction": "On April 5th, 2026, Li Hua suggests playing \"Viva la Vida\" for the jam session. The conversation indicates that this song is chosen because it is enjoyable to play and they believe it would be fun to perform together.",
+  "prediction_sha256": "ab9684a1bc01afe6ac156eab8324149fd891196cd18ec5a26bf6574ff0746968",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100103,
+  "usage": {
+    "completion_tokens": 55,
+    "prompt_tokens": 4468,
+    "prompt_tokens_details": null,
+    "total_tokens": 4523
+  }
+}

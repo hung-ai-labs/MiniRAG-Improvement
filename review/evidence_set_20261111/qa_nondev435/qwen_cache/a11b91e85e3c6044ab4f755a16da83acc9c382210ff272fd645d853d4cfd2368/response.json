@@ -1,0 +1,17 @@
+{
+  "body_sha256": "a11b91e85e3c6044ab4f755a16da83acc9c382210ff272fd645d853d4cfd2368",
+  "finish_reason": "stop",
+  "latency_s": 6.84914208400005,
+  "prediction": "No, Li Hua did not ask Wolfgang Schulz if he wanted to go to the gym together before Jennifer reminded Li Hua about the gym's membership feedback activity. The membership feedback activity discussion took place in a separate context, unrelated to Wolfgang Schulz asking Li Hua to join him at the gym. Wolfgang Schulz mentioned his admiration for Li Hua's physique and proposed a workout session together, but this was initiated separately from the gym's membership feedback activity.",
+  "prediction_sha256": "a2622241d1de537ac9e59c46296313e64ed441bbf19e7bd864cb0d27253a3d60",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 47,
+  "usage": {
+    "completion_tokens": 95,
+    "prompt_tokens": 3750,
+    "prompt_tokens_details": null,
+    "total_tokens": 3845
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "37b98092797cf7cd3f17b23c875c2fa6435dd6097203400354156460dbbaa375",
+  "finish_reason": "stop",
+  "latency_s": 10.805369583002175,
+  "prediction": "Based on the conversations provided, Li Hua and Yuriko both express an interest in playing a mix of genres, though they particularly enjoy classic rock and acoustic songs. Li Hua specifically mentions that Yuriko loves playing bass and enjoys classic rock and acoustic songs. Yuriko also states that she loves a mix of genres, with a particular fondness for classic rock and acoustic songs. Therefore, their favorite types of music to play together seem to encompass classic rock and acoustic genres.",
+  "prediction_sha256": "d60e785e7c237a68ece9bb131fc4356f9823d47985c2215c7bab81f13373aa45",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 421,
+  "usage": {
+    "completion_tokens": 99,
+    "prompt_tokens": 4446,
+    "prompt_tokens_details": null,
+    "total_tokens": 4545
+  }
+}

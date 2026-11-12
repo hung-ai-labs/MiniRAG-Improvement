@@ -1,0 +1,17 @@
+{
+  "body_sha256": "65fdb56b49be31d0c730ee9409fa739897943fe8c052b78839b08421d1b1c4bc",
+  "finish_reason": "stop",
+  "latency_s": 12.83552229199995,
+  "prediction": "Li Hua did not mention discussing his progress with the fitness plan before sharing a blog post about his recent fitness achievements. In the conversation found in Source 2, Jennifer Moore asks Li Hua if he has noticed any improvements in his fitness level since starting the plan. Li Hua responds positively, stating that he has \"definitely noticed some improvements\" and that he feels \"more stamina during workouts and [enjoys] the sessions.\" Jennifer Moore expresses her delight at this progress and encourages Li Hua to share his story with other clients, indicating that he was already confident in the effectiveness of the fitness plan. There is no indication that they discussed any specific details of the fitness plan or progress in a formal manner prior to Li Hua posting about his achievements.",
+  "prediction_sha256": "2c5ac1104cbccf96cc384052da02ac85bd198608059103da8e38f48ba3335f18",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 18,
+  "usage": {
+    "completion_tokens": 155,
+    "prompt_tokens": 4548,
+    "prompt_tokens_details": null,
+    "total_tokens": 4703
+  }
+}

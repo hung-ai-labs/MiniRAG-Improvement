@@ -1,0 +1,17 @@
+{
+  "body_sha256": "72155e1265eb72d18f0e9d8300bfd0a3f05e94101ea7b2aa906a29d62051f9f9",
+  "finish_reason": "stop",
+  "latency_s": 8.016890208000405,
+  "prediction": "On the jam session scheduled for 20260405 at 10:00 AM, Li Hua suggests playing \"Viva la Vida\" by Coldplay. This song is highlighted as a potential fun addition to their repertoire due to its popularity and the enjoyment it brings to the crowd. Li Hua is enthusiastic about the idea and considers it a good choice for their jam session.",
+  "prediction_sha256": "987335108c0daa661da329726a23aaa676a6c0783994c92fc252be5b55f88d52",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200103,
+  "usage": {
+    "completion_tokens": 85,
+    "prompt_tokens": 4192,
+    "prompt_tokens_details": null,
+    "total_tokens": 4277
+  }
+}

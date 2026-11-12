@@ -1,0 +1,17 @@
+{
+  "body_sha256": "2933ef9624da52cdfea119a955d8a5fd08e18bcdbb78e8b34e4137886c44bc66",
+  "finish_reason": "stop",
+  "latency_s": 9.130529165999178,
+  "prediction": "Jennifer Moore checks in with Li Hua about her arm muscles after the bench press session. This interaction is documented in the conversation snippet from Time: 20261211_11:00, where Li Hua mentions experiencing soreness in his arm muscles following their recent workout. Jennifer encourages him to follow up with some warm-up stretches and hydration, suggesting that she is aware of the physical state of their workout session.",
+  "prediction_sha256": "2e1b784f8e7240a8e1532a43bfbe48c61397d8bd8b456752b20d5ae93c5a09d5",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 305,
+  "usage": {
+    "completion_tokens": 91,
+    "prompt_tokens": 3568,
+    "prompt_tokens_details": null,
+    "total_tokens": 3659
+  }
+}

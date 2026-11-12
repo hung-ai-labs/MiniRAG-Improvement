@@ -1,0 +1,17 @@
+{
+  "body_sha256": "99edc30d018a0685dea231b4fa76c6fd10fefb7b8b5564679ee864198bb74934",
+  "finish_reason": "stop",
+  "latency_s": 8.101635667000664,
+  "prediction": "Based on the information provided, the new line of high-protein breads appears to be an alternative for individuals with gluten allergies. However, there isn't specific nutritional data comparing these breads directly to traditional white bread. Typically, breads can vary significantly in nutritional content depending on the ingredients used. High-protein breads often contain higher levels of protein due to the inclusion of protein powders or other protein-rich ingredients, which can affect their nutrient profile. Without direct nutritional comparisons between the new high-protein breads and traditional white bread, it's challenging to provide a definitive statement about their nutritional values.",
+  "prediction_sha256": "1a67e7325a9d981393a34f949e60c76e34142968fd37054bc37a2ca4cda61058",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 432,
+  "usage": {
+    "completion_tokens": 123,
+    "prompt_tokens": 5131,
+    "prompt_tokens_details": null,
+    "total_tokens": 5254
+  }
+}

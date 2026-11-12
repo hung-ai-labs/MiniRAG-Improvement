@@ -1,0 +1,17 @@
+{
+  "body_sha256": "f5259cebc9289e37beaf9b8b4cb37c0508c2fb54a0204269f2e4584a6334e730",
+  "finish_reason": "stop",
+  "latency_s": 9.263003332998778,
+  "prediction": "In the conversation, LiHua asks JakeWatson who they think is the best football manager in the Premier League history. JakeWatson responds by saying that he believes Sir Alex Ferguson tops the list for him, citing the numerous trophies Ferguson brought to Manchester United. However, JakeWatson also expresses respect for other managers, indicating that there are multiple excellent football managers throughout history. No single definitive choice was made regarding the best manager in the Premier League, but Sir Alex Ferguson was highlighted as one of the top contenders.",
+  "prediction_sha256": "7709931a62d578379a771f32db9b3eb1d1505533e9d1c2d3273a6c51384d5bae",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 298,
+  "usage": {
+    "completion_tokens": 105,
+    "prompt_tokens": 4168,
+    "prompt_tokens_details": null,
+    "total_tokens": 4273
+  }
+}

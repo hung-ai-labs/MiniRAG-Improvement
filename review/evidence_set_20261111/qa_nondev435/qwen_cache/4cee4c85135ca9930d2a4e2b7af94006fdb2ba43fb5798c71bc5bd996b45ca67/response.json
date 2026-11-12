@@ -1,0 +1,17 @@
+{
+  "body_sha256": "4cee4c85135ca9930d2a4e2b7af94006fdb2ba43fb5798c71bc5bd996b45ca67",
+  "finish_reason": "stop",
+  "latency_s": 8.82862195800044,
+  "prediction": "Based on the conversations between Li Hua and Adam Smith, it appears that Li Hua is planning to celebrate Chinese Lunar New Year. Li Hua mentions, \"I'm planning to enjoy some delicious food and do a little bit of traveling if I can. I love experiencing the local festivities!\" This statement indicates that Li Hua intends to partake in the celebrations, including traditional activities and possibly visiting local festivals, to enjoy the festive atmosphere and the local customs associated with the Lunar New Year.",
+  "prediction_sha256": "c51bb045d60afda0c66a0c5f8c785db94a0dca0f68d2f00bcb3a98fe066ca917",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 64,
+  "usage": {
+    "completion_tokens": 100,
+    "prompt_tokens": 3524,
+    "prompt_tokens_details": null,
+    "total_tokens": 3624
+  }
+}

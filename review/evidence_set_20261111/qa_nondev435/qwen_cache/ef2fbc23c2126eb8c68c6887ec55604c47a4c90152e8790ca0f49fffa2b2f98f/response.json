@@ -1,0 +1,17 @@
+{
+  "body_sha256": "ef2fbc23c2126eb8c68c6887ec55604c47a4c90152e8790ca0f49fffa2b2f98f",
+  "finish_reason": "stop",
+  "latency_s": 5.683714083999803,
+  "prediction": "According to the conversation, Barca lost 4-0 against Bayern Munich in the UEFA Champions League (UCL) in 2013. This loss is cited by LiHua as one of the memorable matches she watched and remembers fondly despite its lopsided scoreline.",
+  "prediction_sha256": "06bd952fae36433498b686fd55bb4a6203468f4283f39b22db154192844d0e5f",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200294,
+  "usage": {
+    "completion_tokens": 60,
+    "prompt_tokens": 4401,
+    "prompt_tokens_details": null,
+    "total_tokens": 4461
+  }
+}

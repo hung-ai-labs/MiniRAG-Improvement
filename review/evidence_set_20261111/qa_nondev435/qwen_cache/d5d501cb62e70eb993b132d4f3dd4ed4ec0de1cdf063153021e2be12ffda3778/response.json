@@ -1,0 +1,17 @@
+{
+  "body_sha256": "d5d501cb62e70eb993b132d4f3dd4ed4ec0de1cdf063153021e2be12ffda3778",
+  "finish_reason": "stop",
+  "latency_s": 11.928497166998568,
+  "prediction": "On April 3rd, 2026, Alice is delivering the bread to Li Hua. This is evident from the conversation where HaileyJohnson mentions, \"Hey Li Hua! Just a quick reminder that Alice is on her way to deliver your fresh bread this morning. Enjoy! 🥖💖\" and LiHua confirms, \"Thanks for the heads up! Always excited for some fresh bread. Can't wait to try it! 😋\".",
+  "prediction_sha256": "d59f0a92f3f491a42c8eb98680f92df7a2aabb3e13facc636855e3fbe2996f6d",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200105,
+  "usage": {
+    "completion_tokens": 96,
+    "prompt_tokens": 4663,
+    "prompt_tokens_details": null,
+    "total_tokens": 4759
+  }
+}

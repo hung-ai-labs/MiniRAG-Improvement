@@ -1,0 +1,17 @@
+{
+  "body_sha256": "6297e63358346d93c83f22cbf8637e97b251a4c4014679ea5859c05a80a8bf56",
+  "finish_reason": "stop",
+  "latency_s": 11.144141332999425,
+  "prediction": "Based on the conversation, Wolfgang recommended a \"little burger joint downtown\" as his favorite fast food spot. However, there is no mention of a specific gym that he recommended to LiHua. The only gym-related information provided is that LiHua usually goes for a gym membership feedback activity at the gym and that she received a reminder about the event from Jennifer Moore. Therefore, we cannot determine the name of the gym Wolfgang recommended to LiHua.",
+  "prediction_sha256": "a3f478881a38adb154b90116218b88d3bee3f98be0df709fd7404006cf95ef69",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100063,
+  "usage": {
+    "completion_tokens": 92,
+    "prompt_tokens": 4558,
+    "prompt_tokens_details": null,
+    "total_tokens": 4650
+  }
+}

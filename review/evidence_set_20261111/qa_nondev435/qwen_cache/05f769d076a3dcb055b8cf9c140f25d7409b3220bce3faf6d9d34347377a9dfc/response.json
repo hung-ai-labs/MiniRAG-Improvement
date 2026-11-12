@@ -1,0 +1,17 @@
+{
+  "body_sha256": "05f769d076a3dcb055b8cf9c140f25d7409b3220bce3faf6d9d34347377a9dfc",
+  "finish_reason": "stop",
+  "latency_s": 6.544059624997317,
+  "prediction": "For the soccer practice mentioned in the conversation, the participants decided to meet at 3 PM on Saturday afternoon. LiHua proposed this time and invited her friends to join her for some passing drills. The group agreed that it would be beneficial to practice together and enhance their skills.",
+  "prediction_sha256": "71437a1b8f807c13ee052097c12009aba24fbb0f1e113b23d0d9cb8b1b00f4c1",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 362,
+  "usage": {
+    "completion_tokens": 57,
+    "prompt_tokens": 5180,
+    "prompt_tokens_details": null,
+    "total_tokens": 5237
+  }
+}

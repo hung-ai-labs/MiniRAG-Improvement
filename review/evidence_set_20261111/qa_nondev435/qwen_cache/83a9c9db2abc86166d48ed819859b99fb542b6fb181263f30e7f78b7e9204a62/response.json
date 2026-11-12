@@ -1,0 +1,17 @@
+{
+  "body_sha256": "83a9c9db2abc86166d48ed819859b99fb542b6fb181263f30e7f78b7e9204a62",
+  "finish_reason": "stop",
+  "latency_s": 13.323338624999451,
+  "prediction": "In the conversations provided, LiHua frequently asks Jake Watson about various aspects of soccer, particularly focusing on its rules and strategies. LiHua seeks clarification on specific topics such as offsides, handballs, and the offside rule. Additionally, LiHua inquires about Messi's performance and skills, as well as Jake's personal experiences watching classic matches between FC Barcelona and Bayern Munich. LiHua also expresses interest in learning more about the sport, asking about the importance of rules and how they affect gameplay. Overall, LiHua appears eager to improve his understanding of the game and gain insights into the nuances of professional soccer.",
+  "prediction_sha256": "7fea7dd09d933f2e7c67a2afe24baf8a81e5425afb5846c52776439f30581b4a",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100205,
+  "usage": {
+    "completion_tokens": 129,
+    "prompt_tokens": 3730,
+    "prompt_tokens_details": null,
+    "total_tokens": 3859
+  }
+}

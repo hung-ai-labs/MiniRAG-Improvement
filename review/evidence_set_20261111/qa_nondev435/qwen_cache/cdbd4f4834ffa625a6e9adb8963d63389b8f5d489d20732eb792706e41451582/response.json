@@ -1,0 +1,17 @@
+{
+  "body_sha256": "cdbd4f4834ffa625a6e9adb8963d63389b8f5d489d20732eb792706e41451582",
+  "finish_reason": "stop",
+  "latency_s": 10.772192333999556,
+  "prediction": "In one of the practice sessions discussed, Briar reminds everyone to bring water bottles to the practice session. Specifically, Briar suggests that everyone should \"bring a ball and your water bottles for our practice!\" This is to ensure that everyone stays hydrated during the practice, making it more enjoyable and productive. Additionally, Briar encourages the group to have fun while practicing, emphasizing the importance of being prepared and enthusiastic.",
+  "prediction_sha256": "d7b91beea1a09fda6bd4d01fe6a16b3b126b0b673b12cab03bcc086c5a698809",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100284,
+  "usage": {
+    "completion_tokens": 83,
+    "prompt_tokens": 4955,
+    "prompt_tokens_details": null,
+    "total_tokens": 5038
+  }
+}

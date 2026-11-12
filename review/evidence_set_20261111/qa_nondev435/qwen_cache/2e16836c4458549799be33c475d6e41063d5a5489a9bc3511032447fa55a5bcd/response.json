@@ -1,0 +1,17 @@
+{
+  "body_sha256": "2e16836c4458549799be33c475d6e41063d5a5489a9bc3511032447fa55a5bcd",
+  "finish_reason": "stop",
+  "latency_s": 9.215946416999941,
+  "prediction": "Based on the conversation between Wolfgang and Li Hua, they discussed their plans for dessert after their hot pot dinner. Specifically, Wolfgang mentioned, \"The dessert was a nice treat too!\" and Li Hua responded, \"Wow, that sounds amazing! I'm definitely looking forward to trying those fruity options you mentioned.\" This indicates that they were planning to have a fruit-based dessert after their hot pot meal. However, the exact dessert item they planned to have together wasn't specified in the given data.",
+  "prediction_sha256": "e7299d36127f14f2b32bc0858253c25891550c2f466ee5e110ade625aeeb98ee",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100441,
+  "usage": {
+    "completion_tokens": 101,
+    "prompt_tokens": 4619,
+    "prompt_tokens_details": null,
+    "total_tokens": 4720
+  }
+}

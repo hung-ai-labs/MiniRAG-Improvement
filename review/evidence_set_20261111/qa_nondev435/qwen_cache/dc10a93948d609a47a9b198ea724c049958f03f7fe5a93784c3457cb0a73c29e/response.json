@@ -1,0 +1,17 @@
+{
+  "body_sha256": "dc10a93948d609a47a9b198ea724c049958f03f7fe5a93784c3457cb0a73c29e",
+  "finish_reason": "stop",
+  "latency_s": 14.283949666998524,
+  "prediction": "Based on the information provided, the new line of high-protein breads, particularly those featuring protein powder, appear to offer higher nutritional value compared to traditional white bread. Traditional white bread is primarily composed of refined flour, which lacks many of the essential nutrients found in whole grains, such as fiber, vitamins, and minerals. In contrast, the new high-protein breads likely contain additional proteins derived from supplements like whey, pea, or rice protein, which provide a significant amount of protein without the carbohydrate content associated with white bread. However, specific nutritional values such as calorie count, fat content, and micronutrient profiles were not detailed in the given texts. Therefore, to understand the full nutritional comparison, one would need to refer to the nutritional labels of the actual products or consult more detailed dietary analyses.",
+  "prediction_sha256": "efa116f52761d7f29788f501798ec106d661dea53cfea096a626d514968776c6",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100432,
+  "usage": {
+    "completion_tokens": 164,
+    "prompt_tokens": 5131,
+    "prompt_tokens_details": null,
+    "total_tokens": 5295
+  }
+}

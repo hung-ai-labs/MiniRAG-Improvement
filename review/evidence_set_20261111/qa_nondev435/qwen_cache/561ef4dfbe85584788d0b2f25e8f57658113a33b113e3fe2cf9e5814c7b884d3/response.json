@@ -1,0 +1,17 @@
+{
+  "body_sha256": "561ef4dfbe85584788d0b2f25e8f57658113a33b113e3fe2cf9e5814c7b884d3",
+  "finish_reason": "stop",
+  "latency_s": 10.131799208000302,
+  "prediction": "Li Hua expressed a desire to modify his training plan with Jennifer Moore on February 4th, 2026, at 3 PM. Initially, Jennifer proposed adjusting the schedule to training twice a week to better balance work and fitness. Li Hua agreed to this suggestion and settled on Tuesdays and Thursdays as the training days. This indicates that the change in the training plan occurred on February 4th, 2026.",
+  "prediction_sha256": "c64d3e30d2070317c15c95a44e178c49ef8d55ed7bc3eaac6275be8de7cc6388",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200072,
+  "usage": {
+    "completion_tokens": 93,
+    "prompt_tokens": 3312,
+    "prompt_tokens_details": null,
+    "total_tokens": 3405
+  }
+}

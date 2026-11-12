@@ -1,0 +1,17 @@
+{
+  "body_sha256": "86960a43860586f4af4cb946290e897b98f56f27c16f0d9f2b17385fddf1c2cb",
+  "finish_reason": "stop",
+  "latency_s": 8.748157875001198,
+  "prediction": "Li Hua first asked Jennifer Moore for tips on dealing with muscle soreness during their workout sessions in 20260206_16:00. This conversation took place shortly after Li Hua mentioned he had been feeling pretty sore after their workout sessions. Jennifer provided several tips including the importance of hydration, active recovery, stretching, foam rolling, and resting. Li Hua appreciated the advice and expressed his intention to try these methods.",
+  "prediction_sha256": "8106a892e769b9060eeabc76769ba72ecbdf6e9d1193d611e368494b4a7db1f6",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200074,
+  "usage": {
+    "completion_tokens": 94,
+    "prompt_tokens": 3313,
+    "prompt_tokens_details": null,
+    "total_tokens": 3407
+  }
+}

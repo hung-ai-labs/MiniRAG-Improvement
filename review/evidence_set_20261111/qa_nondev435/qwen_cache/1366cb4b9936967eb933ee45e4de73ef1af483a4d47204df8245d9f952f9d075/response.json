@@ -1,0 +1,17 @@
+{
+  "body_sha256": "1366cb4b9936967eb933ee45e4de73ef1af483a4d47204df8245d9f952f9d075",
+  "finish_reason": "stop",
+  "latency_s": 13.252115916999173,
+  "prediction": "Based on the conversations provided, LiHua will be responsible for picking up the snacks and drinks on her way to the movie night. WolfgangSchulz expressed interest in bringing snacks for the movie, but LiHua offered to bring the food items. Specifically, the conversation states:\n\n```\nLiHua: For sure! I can bring some chips! What drinks do you want? 🥤\nWolfgangSchulz: Awesome! Just some soda and juice will be perfect. Can't wait for the movie night! 🚀🎥\nLiHua: Cool! I'll pick them up on my way. See you soon! 🎉\n```\n\nTherefore, it is LiHua who will be responsible for the logistics of obtaining the snacks and drinks for the movie night.",
+  "prediction_sha256": "c5ccf751bf6782179a086190a98677bac55c377d2ff6b730a1f962dd0e0819e2",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 307,
+  "usage": {
+    "completion_tokens": 164,
+    "prompt_tokens": 4923,
+    "prompt_tokens_details": null,
+    "total_tokens": 5087
+  }
+}

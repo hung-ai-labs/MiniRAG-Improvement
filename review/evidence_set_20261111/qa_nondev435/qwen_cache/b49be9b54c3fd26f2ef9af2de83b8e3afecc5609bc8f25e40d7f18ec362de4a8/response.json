@@ -1,0 +1,17 @@
+{
+  "body_sha256": "b49be9b54c3fd26f2ef9af2de83b8e3afecc5609bc8f25e40d7f18ec362de4a8",
+  "finish_reason": "stop",
+  "latency_s": 6.065611582998827,
+  "prediction": "Based on the conversation, WolfgangSchulz shared a particularly fond memory of the risotto he had when he visited Venice. He described it as \"creamy and had seafood in it, just perfection!\" This risotto was mentioned as a standout dish from his travels and is highlighted as something he particularly enjoyed. No other risotto-related memories are referenced in the provided dialogue.",
+  "prediction_sha256": "10e073583b7d60b4d08e2ee99f4dc77b321836b80d77d1cf3261a15a0ef6d48e",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100400,
+  "usage": {
+    "completion_tokens": 76,
+    "prompt_tokens": 3949,
+    "prompt_tokens_details": null,
+    "total_tokens": 4025
+  }
+}

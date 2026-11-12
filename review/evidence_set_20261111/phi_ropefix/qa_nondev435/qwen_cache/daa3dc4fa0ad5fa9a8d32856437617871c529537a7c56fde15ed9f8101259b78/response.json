@@ -1,0 +1,17 @@
+{
+  "body_sha256": "daa3dc4fa0ad5fa9a8d32856437617871c529537a7c56fde15ed9f8101259b78",
+  "finish_reason": "stop",
+  "latency_s": 7.736956041997473,
+  "prediction": " In the conversation between LiHua and Hailey, LiHua explicitly states that he has no dietary restrictions. This information is found in the exchange where Hailey asks if there are any dietary restrictions to consider for the baking class, and LiHua responds with:\n\n```\nHaileyJohnson: Great! Do you have any dietary restrictions I should keep in mind?\nLiHua: Thanks for asking! No dietary restrictions here, I'm all set. Looking forward to the class! 🍰\n```\n\nTherefore, LiHua does not have any specific dietary restrictions that Hailey needs to be aware of for the baking class. He is comfortable with all standard baked goods offered at the event.",
+  "prediction_sha256": "6276274aa4285fb5da9712aff4e487d2c6fea9f7e510e60e11cdeb77a6644160",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 200139,
+  "usage": {
+    "completion_tokens": 166,
+    "prompt_tokens": 5387,
+    "prompt_tokens_details": null,
+    "total_tokens": 5553
+  }
+}

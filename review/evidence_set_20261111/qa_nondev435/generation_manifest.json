@@ -1,0 +1,10 @@
+{
+  "contexts_sha256": "b5f0b01c39c97763b996f41fce5ce9b7038531e004f98544f13e41a079d068fb",
+  "generation_rounds": 1,
+  "generator": "Qwen/Qwen2.5-3B-Instruct",
+  "max_generation_tokens": 1024,
+  "response_type": "Multiple Paragraphs",
+  "runner_sha256": "3408b4be5b6332e286189a46b929cead690d0796df2075f8a3ac2d668dedf64d",
+  "sampling": "server defaults; seed 13+question id, same in every arm",
+  "template_sha256": "eed4e03cb807985adcaf503031a28a17ef38a81b543ec16caaf9731957b1a5bb"
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "d494deac3bcc5fa27a673bb8b3f0a358697c39f773f3f76f2adc1434a1e20dc0",
+  "finish_reason": "stop",
+  "latency_s": 7.229030333000992,
+  "prediction": "Jennifer Moore checks in with the group on July 8, 2026, at 14:00 to remind everyone about their fitness progress. She expresses enthusiasm for hearing about their current fitness status and offers personalized advice. This interaction demonstrates her commitment to keeping members engaged and motivated, encouraging them to maintain and improve their fitness routines.",
+  "prediction_sha256": "c7d57adc344f3771dd34cafa0d1b21c56ec896fca88c778b4f7b3fe18ddc293d",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 149,
+  "usage": {
+    "completion_tokens": 71,
+    "prompt_tokens": 4572,
+    "prompt_tokens_details": null,
+    "total_tokens": 4643
+  }
+}

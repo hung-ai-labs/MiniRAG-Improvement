@@ -1,0 +1,17 @@
+{
+  "body_sha256": "1f590a8e64eeca5aa35068ae3c20862ec2313e5af526be5199483a619b0bb396",
+  "finish_reason": "stop",
+  "latency_s": 13.17862358399725,
+  "prediction": "WolfgangSchulz inquires about health products because he has been feeling very tired due to excessive overtime. He seeks advice from his bandmates, LiHua, ChaeSong-hwa, and YurikoYamamoto, on potential supplements or drinks that might help boost his energy levels. His primary concern is finding ways to manage his fatigue while balancing his demanding schedule. The band members offer various suggestions including vitamins, energy drinks, magnesium supplements, and a balanced diet rich in fruits and nuts.",
+  "prediction_sha256": "0adc6d9448a910d0a9e188cdf4617ad3a0a156834243f8bce80893f5c32a5634",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 128,
+  "usage": {
+    "completion_tokens": 104,
+    "prompt_tokens": 4451,
+    "prompt_tokens_details": null,
+    "total_tokens": 4555
+  }
+}

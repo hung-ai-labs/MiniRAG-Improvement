@@ -1,0 +1,17 @@
+{
+  "body_sha256": "65b8d204d7fdf57f72a04189408457c1a002276fa76c74b544472d3dd5489c9b",
+  "finish_reason": "stop",
+  "latency_s": 8.157148667000001,
+  "prediction": "In the conversation regarding the hot pot dinner, LiHua initiates the discussion by suggesting that they should \"pick up some drinks on the way.\" This idea is further supported by WolfgangSchulz, who agrees and mentions that \"Good idea! Let’s grab some drinks.\" Therefore, it appears that LiHua comes up with the idea of picking up drinks, and WolfgangSchulz endorses it.",
+  "prediction_sha256": "d1e8676444525ea15d817b0f553432259313c87fec8f4a6536a604a1cb827a24",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 281,
+  "usage": {
+    "completion_tokens": 84,
+    "prompt_tokens": 5078,
+    "prompt_tokens_details": null,
+    "total_tokens": 5162
+  }
+}

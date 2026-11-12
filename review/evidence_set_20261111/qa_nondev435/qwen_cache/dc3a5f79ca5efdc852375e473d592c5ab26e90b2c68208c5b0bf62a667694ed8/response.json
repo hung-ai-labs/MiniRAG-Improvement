@@ -1,0 +1,17 @@
+{
+  "body_sha256": "dc3a5f79ca5efdc852375e473d592c5ab26e90b2c68208c5b0bf62a667694ed8",
+  "finish_reason": "stop",
+  "latency_s": 8.961307290999684,
+  "prediction": "In one of the conversations, EmilyBurnett recommends several TV series to LiHua. Initially, she suggests \"Stranger Things,\" describing it as a series with a cool mix of nostalgia and suspense. She further recommends \"The Crown,\" highlighting its historical drama and character depth. Additionally, she recommends \"Ted Lasso,\" noting its lighter and humorous tone. EmilyBurnett expresses her anticipation for LiHua to watch these series, suggesting that they are worth the time investment given their engaging narratives.",
+  "prediction_sha256": "af452faddcc4bd8a551c74a6f93bfda1cf354952c29a33f9e1e227391f5a6375",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100387,
+  "usage": {
+    "completion_tokens": 101,
+    "prompt_tokens": 4044,
+    "prompt_tokens_details": null,
+    "total_tokens": 4145
+  }
+}

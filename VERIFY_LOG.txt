@@ -1,0 +1,19 @@
+# python -m reproduce.verify_results --recapture 20   (2026-11-13 00:11 +0700, máy tác giả)
+
+=== Qwen2.5-3B-Instruct  (index LiHua-World-qwen-modal, kết quả review/evidence_set_20261111/qa_nondev435/ladder)
+  [OK ] [1] TABLE tính lại == results.json: C0 47.20, BASELINE 52.92, F 56.02, CE0F 59.05, CE0F_SET 58.93
+  [OK ] [2] CONTEXT dựng lại, sha256 == build.json: afaa67a8dc98e14f
+  [OK ] [3] ANSWER context -> request body -> phản hồi server: 6525 câu trả lời (3 lượt sinh), 5310 request khác nhau, model server {'Qwen/Qwen2.5-3B-Instruct': 6525}, created 2026-11-11 15:02 UTC -> 2026-11-11 16:38 UTC
+  [OK ] [4] JUDGE mỗi phán quyết có hoá đơn DeepSeek: 15900 phán quyết (pass {1: 5300, 2: 5300, 3: 5300}), 5300 câu trả lời khác nhau
+  [OK ] [5] SCORER huấn luyện lại trên dev200 == model đã dùng: F max|Δhệ số|=0.0e+00, CE0+F max|Δhệ số|=0.0e+00
+  [OK ] [6] RECAPTURE baseline: truy hồi lại từ index == pool đã lưu: 20/20 câu trùng từng byte
+  [OK ] [6] RECAPTURE c0: truy hồi lại từ index == pool đã lưu: 20/20 câu trùng từng byte
+=== Phi-3.5-mini-instruct (LongRoPE fix)  (index LiHua-World-phi-ropefix, kết quả review/evidence_set_20261111/phi_ropefix/qa_nondev435/ladder)
+  [OK ] [1] TABLE tính lại == results.json: C0 42.30, BASELINE 46.03, F 53.72, CE0F 55.33, CE0F_SET 55.43
+  [OK ] [2] CONTEXT dựng lại, sha256 == build.json: 233ecabf779bc47c
+  [OK ] [3] ANSWER context -> request body -> phản hồi server: 6525 câu trả lời (3 lượt sinh), 5304 request khác nhau, model server {'microsoft/Phi-3.5-mini-instruct': 6525}, created 2026-11-12 13:39 UTC -> 2026-11-12 15:48 UTC
+  [OK ] [4] JUDGE mỗi phán quyết có hoá đơn DeepSeek: 15900 phán quyết (pass {1: 5300, 2: 5300, 3: 5300}), 5300 câu trả lời khác nhau
+  [OK ] [5] SCORER huấn luyện lại trên dev200 == model đã dùng: F max|Δhệ số|=0.0e+00, CE0+F max|Δhệ số|=0.0e+00
+  [OK ] [6] RECAPTURE baseline: truy hồi lại từ index == pool đã lưu: 20/20 câu trùng từng byte
+  [OK ] [6] RECAPTURE c0: truy hồi lại từ index == pool đã lưu: 20/20 câu trùng từng byte
+KẾT LUẬN: TẤT CẢ KIỂM TRA ĐỀU ĐẠT

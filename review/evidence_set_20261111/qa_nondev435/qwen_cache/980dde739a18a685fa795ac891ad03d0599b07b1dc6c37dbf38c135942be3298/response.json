@@ -1,0 +1,17 @@
+{
+  "body_sha256": "980dde739a18a685fa795ac891ad03d0599b07b1dc6c37dbf38c135942be3298",
+  "finish_reason": "stop",
+  "latency_s": 10.339437874998112,
+  "prediction": "No, Li Hua initially declined Wolfgang's invitation to go out for dinner, stating that he had been very busy recently. However, Wolfgang suggested another day and offered to plan a low-key outing for the following weekend, such as a movie or hanging out at a cafe. Li Hua agreed to this idea, indicating that he was free on Saturday night. This shows that Wolfgang did not manage to convince Li Hua to go out for dinner that particular evening, but they did find another activity that suited both of them.",
+  "prediction_sha256": "2ed2197002582cb9ffd53e4518325269b2a2ec8f130a901e2653f412e5360173",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200014,
+  "usage": {
+    "completion_tokens": 106,
+    "prompt_tokens": 4670,
+    "prompt_tokens_details": null,
+    "total_tokens": 4776
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "34ee19bc1ccd1335eb5d96708cf2d716319d2587a47973ced9640db0e766362e",
+  "finish_reason": "stop",
+  "latency_s": 11.310672583000269,
+  "prediction": "Li Hua asked Jennifer Moore for tips on dealing with muscle soreness in two instances according to the provided conversation. The first instance was on 20260206 at 16:00, and the second was on 20261008 at 14:00. In both occasions, Li Hua expressed discomfort following a workout session, specifically mentioning soreness in his arm muscles. Jennifer provided various tips including hydration, active recovery, stretching, foam rolling, and resting to aid in recovery.",
+  "prediction_sha256": "a619220c9058a1d277367f948d51befdaccb8f5c63470587694be6ee1e3aa1c6",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100074,
+  "usage": {
+    "completion_tokens": 113,
+    "prompt_tokens": 4148,
+    "prompt_tokens_details": null,
+    "total_tokens": 4261
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "6c7a6cdfabc079af6171c5196f7adc0ecc4482d3bbb4ae9c1fb1f0a5657d5c7f",
+  "finish_reason": "stop",
+  "latency_s": 12.22885637500076,
+  "prediction": "In one of the conversations, LiHua mentions preparing for the match with WolfgangSchulz. Specifically, LiHua states, \"I can bring some chips! What drinks do you want? 🥤\". Additionally, LiHua later clarifies, \"I can take care of the pizza order! Just let me know everyone's favorite toppings, and I'll make sure to get a variety.\" Therefore, based on these statements, it seems that LiHua will bring chips and a pizza order for the match, along with drinks of their choosing.",
+  "prediction_sha256": "c3fbb7d96048846dd4aff483e009a2e073999a49dd6be0388107c449ee3aeeef",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100301,
+  "usage": {
+    "completion_tokens": 114,
+    "prompt_tokens": 4386,
+    "prompt_tokens_details": null,
+    "total_tokens": 4500
+  }
+}

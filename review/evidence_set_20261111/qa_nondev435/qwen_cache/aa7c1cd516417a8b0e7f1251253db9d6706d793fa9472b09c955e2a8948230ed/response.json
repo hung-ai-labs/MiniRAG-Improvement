@@ -1,0 +1,17 @@
+{
+  "body_sha256": "aa7c1cd516417a8b0e7f1251253db9d6706d793fa9472b09c955e2a8948230ed",
+  "finish_reason": "stop",
+  "latency_s": 10.428112624998903,
+  "prediction": "According to the records, two individuals wished Li Hua a happy Lunar New Year. These were WolfgangSchulz and JenniferMoore. WolfgangSchulz sent his greetings at 09:30 on January 19th, wishing Li Hua a \"fantastic celebration and lots of yummy food.\" JenniferMoore expressed her wishes at 14:30 on the same date, wishing Li Hua a \"fantastic celebration\" and hoping she had a \"great time celebrating!\"",
+  "prediction_sha256": "0234c949a24d2f5066b49f1d32f9c46ab79ee843cc4689fd171c10a1d0cff884",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100034,
+  "usage": {
+    "completion_tokens": 103,
+    "prompt_tokens": 3723,
+    "prompt_tokens_details": null,
+    "total_tokens": 3826
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "05810f810d553f76279bc03aa47983879196e28120a0574362b45c73941847b4",
+  "finish_reason": "stop",
+  "latency_s": 9.76423204200546,
+  "prediction": "On April 3rd, 2026, Alice is delivering the bread to Li Hua. This information is derived from the conversation between HaileyJohnson and LiHua in source content ID 1, where HaileyJohnson mentions, \"Your fresh bread this morning\" and provides Alice's identification as the bread delivery person.",
+  "prediction_sha256": "b54cf5f994ecca41756773ac5b2ccd33c6adff4c217bae6c6b96e01c6ed1c7fa",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100105,
+  "usage": {
+    "completion_tokens": 69,
+    "prompt_tokens": 4663,
+    "prompt_tokens_details": null,
+    "total_tokens": 4732
+  }
+}

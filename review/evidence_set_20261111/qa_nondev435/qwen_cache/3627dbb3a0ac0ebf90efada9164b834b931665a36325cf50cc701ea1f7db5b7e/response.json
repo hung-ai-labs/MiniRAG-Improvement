@@ -1,0 +1,17 @@
+{
+  "body_sha256": "3627dbb3a0ac0ebf90efada9164b834b931665a36325cf50cc701ea1f7db5b7e",
+  "finish_reason": "stop",
+  "latency_s": 13.066119667000748,
+  "prediction": "According to the records, Li Hua has requested a delivery from Hailey Johnson multiple times. Specifically, Li Hua requested a delivery of bread twice a week, with deliveries scheduled for Mondays at 8 AM and Fridays at 8 AM. This pattern indicates that Li Hua prefers a consistent supply of fresh bread from Hailey Johnson. Additionally, there are instances where Li Hua has requested specific types of bread, such as the rosemary focaccia and sourdough. Li Hua seems to appreciate the convenience and quality of Hailey Johnson's doorstep delivery service.",
+  "prediction_sha256": "2827950c73152ff5007651997f1b55d8b4614524637a85c549381b297ac6f383",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200093,
+  "usage": {
+    "completion_tokens": 117,
+    "prompt_tokens": 3298,
+    "prompt_tokens_details": null,
+    "total_tokens": 3415
+  }
+}

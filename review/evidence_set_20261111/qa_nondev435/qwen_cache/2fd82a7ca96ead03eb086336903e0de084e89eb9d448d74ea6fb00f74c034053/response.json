@@ -1,0 +1,17 @@
+{
+  "body_sha256": "2fd82a7ca96ead03eb086336903e0de084e89eb9d448d74ea6fb00f74c034053",
+  "finish_reason": "stop",
+  "latency_s": 11.083350625001913,
+  "prediction": "In the conversation regarding the new software WolfgangSchulz developed, LiHua expresses enthusiasm and anticipation. Specifically, LiHua says, \"That sounds awesome! I'm really excited to check it out. Let me know when it's ready!\" This indicates that LiHua is very excited about the new software and is eager to try it out once it is completed.",
+  "prediction_sha256": "2de80675b64646fc6b0282fd59a6f68ea5a74887869c687028aa91e07d3dc7e7",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100291,
+  "usage": {
+    "completion_tokens": 76,
+    "prompt_tokens": 4417,
+    "prompt_tokens_details": null,
+    "total_tokens": 4493
+  }
+}

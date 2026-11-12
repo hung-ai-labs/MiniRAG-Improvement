@@ -1,0 +1,17 @@
+{
+  "body_sha256": "c0b8f5796212d0aeb961c207738c6aa17677475f7d551836bdd9c8acbc377c8c",
+  "finish_reason": "stop",
+  "latency_s": 6.063120666000032,
+  "prediction": "On March 7th, WolfgangSchulz and LiHua plan to attend a concert together. However, the specific details of the concert, including the name of the event, are not explicitly mentioned in the given data. The conversation focuses on their intention to attend a concert and their preferences regarding the timing and location of the event, but no further details beyond the basic mention of a concert on March 7th are provided.",
+  "prediction_sha256": "058aec23fe15da8cb0a1878f73e0659e72984d8cf2c281b8186e24a38a255cc0",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200415,
+  "usage": {
+    "completion_tokens": 88,
+    "prompt_tokens": 4295,
+    "prompt_tokens_details": null,
+    "total_tokens": 4383
+  }
+}

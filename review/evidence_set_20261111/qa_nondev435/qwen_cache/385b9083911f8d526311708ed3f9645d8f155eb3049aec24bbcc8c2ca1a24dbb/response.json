@@ -1,0 +1,17 @@
+{
+  "body_sha256": "385b9083911f8d526311708ed3f9645d8f155eb3049aec24bbcc8c2ca1a24dbb",
+  "finish_reason": "stop",
+  "latency_s": 14.26244512500125,
+  "prediction": "In the conversation, Adam reminded Li Hua to be mindful of playing the guitar late at night, primarily because of the potential disturbance it could cause. This was discussed in a previous conversation (ID 3) where ChaeSong-hwa mentioned that they were planning a jam session on Sunday and asked Li Hua about using the basement for their rehearsals. Adam informed Li Hua that they would be doing some necessary repairs in the basement soon, and he advised her to be considerate about the timing. Specifically, Adam said, \"I'll keep you posted on the schedule for the repairs. Should be straightforward, but I'll make sure to minimize any disruption.\" This indicates that Adam wanted to ensure that the repairs wouldn't interfere with Li Hua's planned jam session.",
+  "prediction_sha256": "3a40687d08b04941e558fffa0279bd4074cb2034a8f03a1749394ee67190d0a4",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 81,
+  "usage": {
+    "completion_tokens": 157,
+    "prompt_tokens": 3984,
+    "prompt_tokens_details": null,
+    "total_tokens": 4141
+  }
+}

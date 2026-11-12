@@ -1,0 +1,17 @@
+{
+  "body_sha256": "8d396956d62719ad475358b2d9d5540400fc8dc53f9fd3588375eeec4bf1305c",
+  "finish_reason": "stop",
+  "latency_s": 11.316802832996473,
+  "prediction": "Based on the provided data, Li Hua requests a delivery from Hailey Johnson specifically for bread. In one instance, Li Hua mentions that she wants to receive bread \"twice a week, like Mondays at 8am and Fridays at 8am.\" This indicates that Li Hua requests a delivery on Mondays and Fridays, with the bread being delivered at 8am each day. There are no other instances of Li Hua requesting a delivery from Hailey Johnson outside of this bread delivery schedule.",
+  "prediction_sha256": "726157d33e618d43c0cf543f74745f4d3c5f92de2123919b71238e2cf1db8ce5",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 93,
+  "usage": {
+    "completion_tokens": 103,
+    "prompt_tokens": 4367,
+    "prompt_tokens_details": null,
+    "total_tokens": 4470
+  }
+}

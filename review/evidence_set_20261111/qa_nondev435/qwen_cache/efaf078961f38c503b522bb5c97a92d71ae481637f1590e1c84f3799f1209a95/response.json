@@ -1,0 +1,17 @@
+{
+  "body_sha256": "efaf078961f38c503b522bb5c97a92d71ae481637f1590e1c84f3799f1209a95",
+  "finish_reason": "stop",
+  "latency_s": 5.018005040998105,
+  "prediction": "In the conversations provided, Wolfgang Schulz does not propose any new hobbies to Li Hua. Wolfgang and Li Hua primarily discuss their existing musical activities and plans for future jam sessions. Wolfgang mentions his interest in focusing more on his drumming skills in the year ahead, which is a hobby he has maintained over time. There is no indication of Wolfgang introducing any new hobbies or activities to Li Hua.",
+  "prediction_sha256": "9e1c8100263c1c848bed81079bbda92a4d1e2a7e7a0f9052c3d7746d2bf73171",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 159,
+  "usage": {
+    "completion_tokens": 82,
+    "prompt_tokens": 4610,
+    "prompt_tokens_details": null,
+    "total_tokens": 4692
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "5af2b6fb8ca960f217686c6705d74f731789920a8760fb8ceb558be51233e2a5",
+  "finish_reason": "stop",
+  "latency_s": 8.363768917002744,
+  "prediction": " According to the information provided in the data tables, the contractor team is scheduled to install the air-conditioner on Wednesday next week, as confirmed by a conversation between Adam Smith and Li Hua. Adam Smith reminded Li Hua about the installation plan, indicating that it is still the upcoming event:\n\nAdamSmith: Hey Li Hua! Just checking in to see if you have any concerns or special requests for the air conditioner installation. It’s set for Wednesday next week. Let me know!\nLiHua: Thanks for the update! I don't have any special requests, just hoping everything goes smoothly. Appreciate your help!\n\nThis conversation took place on August 9th, 2026, and confirms that the installation is indeed planned for the next Wednesday from that date.",
+  "prediction_sha256": "beffe36caa5a47a675486047cabf064b1e7be90b286e9afe80c08d77007447e6",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 167,
+  "usage": {
+    "completion_tokens": 182,
+    "prompt_tokens": 5731,
+    "prompt_tokens_details": null,
+    "total_tokens": 5913
+  }
+}

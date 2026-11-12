@@ -1,0 +1,17 @@
+{
+  "body_sha256": "4053b0c1e64dc1e8c619a47e47ee07bd4edf6e7ccc44b92d34e36f4946b125c6",
+  "finish_reason": "stop",
+  "latency_s": 6.590051874998608,
+  "prediction": "Rowan appreciates the cleverness and wit encapsulated in Tyrion's famous line, \"I drink and I know things.\" This line highlights Tyrion's remarkable intellect and ability to gather insights from various situations. Rowan finds it compelling because it perfectly captures Tyrion's character—a man of wit and intelligence who can derive wisdom from seemingly mundane experiences.",
+  "prediction_sha256": "636ec2118765dd2149466aeda6b301dcef32104da818f4e30f0d601e81d693c6",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200213,
+  "usage": {
+    "completion_tokens": 72,
+    "prompt_tokens": 4356,
+    "prompt_tokens_details": null,
+    "total_tokens": 4428
+  }
+}

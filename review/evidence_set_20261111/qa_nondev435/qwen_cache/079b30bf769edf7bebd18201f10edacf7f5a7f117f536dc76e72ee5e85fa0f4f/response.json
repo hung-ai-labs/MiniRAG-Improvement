@@ -1,0 +1,17 @@
+{
+  "body_sha256": "079b30bf769edf7bebd18201f10edacf7f5a7f117f536dc76e72ee5e85fa0f4f",
+  "finish_reason": "stop",
+  "latency_s": 12.095525209002517,
+  "prediction": "Based on the conversations shared in the data, WolfgangSchulz mentions his favorite risotto memory specifically in one of the conversations. This occurs in the conversation dated \"20261025_16:00\", where he recalls a risotto he had when he was in Venice. WolfgangSchulz describes this risotto as \"creamy and had seafood in it, just perfection!\" He expresses excitement about the possibility of revisiting Venice and enjoying more authentic Italian cuisine, including the seafood risotto he enjoyed previously.",
+  "prediction_sha256": "91ab1aa4305b21deb70dca679245e37b328eb135e274eba92d0b95179bb10ede",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200400,
+  "usage": {
+    "completion_tokens": 110,
+    "prompt_tokens": 4427,
+    "prompt_tokens_details": null,
+    "total_tokens": 4537
+  }
+}

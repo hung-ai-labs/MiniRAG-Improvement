@@ -1,0 +1,17 @@
+{
+  "body_sha256": "abb570ca5c7239a144e1e0c59f804b54399db124ccd1f4ffecbb955df3aa4b73",
+  "finish_reason": "stop",
+  "latency_s": 10.48904470799971,
+  "prediction": "According to the information provided, Orion discusses Cersei's complex relationship with her father, Tywin. Specifically, Orion notes that Tywin's methods were ruthless and had a significant influence on Cersei's character, teaching her a lot about the necessity of power and the need to fight for it at all costs. However, Orion also suggests that this pressure likely instilled a survival mentality in Cersei, leading to a sense of loyalty mixed with fear. This mixture of loyalty and fear is described by Orion as a \"weird mix\" that contributed to Cersei's behavior and choices, ultimately shaping her into a powerful yet isolated figure.",
+  "prediction_sha256": "adb39e8c105d877e1b6627a222df627335d9a1d9a44ea03f0ec90e18c829e424",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200313,
+  "usage": {
+    "completion_tokens": 128,
+    "prompt_tokens": 4459,
+    "prompt_tokens_details": null,
+    "total_tokens": 4587
+  }
+}

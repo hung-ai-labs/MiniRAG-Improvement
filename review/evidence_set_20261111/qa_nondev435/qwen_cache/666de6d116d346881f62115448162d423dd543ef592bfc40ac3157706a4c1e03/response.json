@@ -1,0 +1,17 @@
+{
+  "body_sha256": "666de6d116d346881f62115448162d423dd543ef592bfc40ac3157706a4c1e03",
+  "finish_reason": "stop",
+  "latency_s": 8.750083791001089,
+  "prediction": "Jasper recommends the 2005 final between Liverpool and AC Milan as a classic must-watch UCL match. He describes the comeback Liverpool achieved in the match, stating that despite being down 3-0 at halftime, they managed to pull off a miraculous victory in penalties. This match is known for its dramatic turn of events and is often considered one of the most thrilling and memorable in the history of the UEFA Champions League.",
+  "prediction_sha256": "3405709dedc4c1f90b38db44b79f5efa244ccf8fc79a32a2e62bfd660e4d1993",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 182,
+  "usage": {
+    "completion_tokens": 88,
+    "prompt_tokens": 4912,
+    "prompt_tokens_details": null,
+    "total_tokens": 5000
+  }
+}

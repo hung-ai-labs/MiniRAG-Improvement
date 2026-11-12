@@ -1,0 +1,17 @@
+{
+  "body_sha256": "8279cba18b97c0a2fae1ef250eadc22ca18e1e46448044eeb0d889e52bd59204",
+  "finish_reason": "stop",
+  "latency_s": 12.10180779199436,
+  "prediction": "In the conversation between WolfgangSchulz and LiHua, Wolfgang expresses a preference for a well-done meat patty, stating, \"I think well-done is just safer and more flavorful. Plus, I like a little char on my burger!\" This indicates that he values a fully cooked patty for safety and taste, particularly appreciating the char that comes from overcooking. However, it's worth noting that Wolfgang also mentions liking a medium-rare patty, as seen in the following exchange: \"I get the point of medium rare, but I think well-done is just safer and more flavorful.\" Thus, while he prefers well-done burgers, he acknowledges the appeal of medium-rare ones as well.",
+  "prediction_sha256": "9330a6dc8238e2b805c3dc0ad73ed7a70eb711dd79d60c192870cad4cbc4d763",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100186,
+  "usage": {
+    "completion_tokens": 145,
+    "prompt_tokens": 4971,
+    "prompt_tokens_details": null,
+    "total_tokens": 5116
+  }
+}

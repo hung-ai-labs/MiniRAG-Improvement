@@ -1,0 +1,17 @@
+{
+  "body_sha256": "ae71ecd7bcb7e0d4115af6585c870a57553ed530049a7cb24ea575683bf42fb8",
+  "finish_reason": "stop",
+  "latency_s": 12.654230000000098,
+  "prediction": "Illidan Stormrage proposed several ideas to involve the community in supporting local businesses, which were highlighted in the discussion. Specifically, he suggested forming a community emergency response team. He outlined the roles within this team, including a team leader, a medic, a communication officer, and someone responsible for managing logistics. Additionally, Illidan emphasized the importance of involving community members in gardening activities, suggesting regular community gardening days where everyone could pitch in and learn about maintaining the garden. These initiatives aimed to foster a sense of community involvement and responsibility, ensuring that the garden and its support for local businesses would thrive.",
+  "prediction_sha256": "558d0dd49a7e1a360a45f84828514847190b8ad6eedefa66a7e0216d4c898ddc",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 245,
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 4615,
+    "prompt_tokens_details": null,
+    "total_tokens": 4735
+  }
+}

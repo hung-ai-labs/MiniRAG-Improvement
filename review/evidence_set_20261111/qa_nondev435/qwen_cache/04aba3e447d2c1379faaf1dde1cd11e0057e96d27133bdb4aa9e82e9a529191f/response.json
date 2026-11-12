@@ -1,0 +1,17 @@
+{
+  "body_sha256": "04aba3e447d2c1379faaf1dde1cd11e0057e96d27133bdb4aa9e82e9a529191f",
+  "finish_reason": "stop",
+  "latency_s": 6.304630708000332,
+  "prediction": "The provided timeline does not contain any entries indicating that Li Hua invited Adam Smith to check the basement renovation progress. Therefore, based on the data available, there is no specific date mentioned for such an invitation.",
+  "prediction_sha256": "906e84edd86fd5d8dcb3c68a59f2046caddd8fc29dec70443756d309d57540d0",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100083,
+  "usage": {
+    "completion_tokens": 43,
+    "prompt_tokens": 3833,
+    "prompt_tokens_details": null,
+    "total_tokens": 3876
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "42741a3050e2956ccb88793dffd20eecb10ddd486c5a7d349e7b3b8d9a669653",
+  "finish_reason": "stop",
+  "latency_s": 9.955853458999627,
+  "prediction": "In one of the conversations recorded, Li Hua mentions ordering cold beer to accompany the hot pot. This interaction takes place under the context of a dinner date between Li Hua and Wolfgang Schulz, where they discuss their preferences regarding food and drinks. However, the specific dessert that Li Hua ordered after the hot pot meal is not mentioned in the provided data. \n\nGiven the limited information available, it is not possible to determine the dessert that Li Hua ordered after having Sichuan hot pot with Wolfgang Schulz.",
+  "prediction_sha256": "d8174cd87a383c66fa952eac6d52a148bbefc972d422d2327b759c7c16e6253a",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200408,
+  "usage": {
+    "completion_tokens": 106,
+    "prompt_tokens": 4629,
+    "prompt_tokens_details": null,
+    "total_tokens": 4735
+  }
+}

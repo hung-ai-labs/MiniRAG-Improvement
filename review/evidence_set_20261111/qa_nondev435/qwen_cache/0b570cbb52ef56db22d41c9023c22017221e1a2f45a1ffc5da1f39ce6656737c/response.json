@@ -1,0 +1,17 @@
+{
+  "body_sha256": "0b570cbb52ef56db22d41c9023c22017221e1a2f45a1ffc5da1f39ce6656737c",
+  "finish_reason": "stop",
+  "latency_s": 9.133256582998001,
+  "prediction": "In the conversation, Emily Burnett expresses that she has not encountered someone as quirky and brilliant as Sheldon Cooper in real life. She mentions, \"It’s hard to find those kinds of geniuses! 😂\" Furthermore, she acknowledges that while she meets interesting people, \"nobody quite like him!\" Therefore, based on the exchange, Emily Burnett has not met anyone who matches the description of Sheldon Cooper.",
+  "prediction_sha256": "93e04d874592b3ed9d2e29ebdba371c9f0b28f433295e4d331c421349faaece1",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 202,
+  "usage": {
+    "completion_tokens": 83,
+    "prompt_tokens": 4172,
+    "prompt_tokens_details": null,
+    "total_tokens": 4255
+  }
+}

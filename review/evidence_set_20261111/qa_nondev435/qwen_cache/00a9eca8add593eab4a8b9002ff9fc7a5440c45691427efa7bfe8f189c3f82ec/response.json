@@ -1,0 +1,17 @@
+{
+  "body_sha256": "00a9eca8add593eab4a8b9002ff9fc7a5440c45691427efa7bfe8f189c3f82ec",
+  "finish_reason": "stop",
+  "latency_s": 9.417174999998679,
+  "prediction": "In the conversations provided, Wolfgang Schulz is the one who mentions an upcoming concert and suggests inviting Li Hua to join him. Specifically, he states, \"Hey! Got an extra ticket for a concert on March 7th at 6 PM. Wanna join me? Would be awesome to catch up and enjoy some live music!\" This indicates that Wolfgang Schulz is offering to check with Li Hua to see if she is interested in attending a live music performance.",
+  "prediction_sha256": "797ca618ac9ccd1fafc3e7e8b6c72c6b80bd2cc08d94612bea5fc006d8b5a67e",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200342,
+  "usage": {
+    "completion_tokens": 95,
+    "prompt_tokens": 4608,
+    "prompt_tokens_details": null,
+    "total_tokens": 4703
+  }
+}

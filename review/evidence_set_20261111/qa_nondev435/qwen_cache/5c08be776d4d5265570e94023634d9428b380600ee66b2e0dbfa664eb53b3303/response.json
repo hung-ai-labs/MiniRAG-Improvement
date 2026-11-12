@@ -1,0 +1,17 @@
+{
+  "body_sha256": "5c08be776d4d5265570e94023634d9428b380600ee66b2e0dbfa664eb53b3303",
+  "finish_reason": "stop",
+  "latency_s": 10.620882749994053,
+  "prediction": "Based on the timeline provided in the conversation, it appears that the process took less than 3 weeks. Initially, LiHua inquired about adding an air-conditioner to the basement (Event 1). Adam Smith confirmed that an air-conditioner would be beneficial and checked with the maintenance team (Event 2). Following this, Adam Smith reminded LiHua about the installation date, which was set for 6 PM the following day (Event 3). This suggests that the process spanned only one day, indicating that it took less than 3 weeks from the initial inquiry to the installation of the air-conditioner.",
+  "prediction_sha256": "d854083c0945c6a1a1f54e6f16acb1eff8f6cb97341ac5988a454cdb1210cd7c",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200039,
+  "usage": {
+    "completion_tokens": 127,
+    "prompt_tokens": 4149,
+    "prompt_tokens_details": null,
+    "total_tokens": 4276
+  }
+}

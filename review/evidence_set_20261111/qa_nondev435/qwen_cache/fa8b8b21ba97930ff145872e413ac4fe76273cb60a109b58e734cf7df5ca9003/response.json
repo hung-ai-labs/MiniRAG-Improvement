@@ -1,0 +1,17 @@
+{
+  "body_sha256": "fa8b8b21ba97930ff145872e413ac4fe76273cb60a109b58e734cf7df5ca9003",
+  "finish_reason": "stop",
+  "latency_s": 8.557467541999358,
+  "prediction": "No, according to the provided data, Wolfgang has never been to Hong Kong. The only mention of Wolfgang's travel to a specific location is that he is heading to Hong Kong for a business trip as indicated in the message \"WolfgangSchulz: Hey everyone! Just a heads-up, I won't be able to make it to practice this week. I have a business trip to Hong Kong. Catch you all next time!\" from December 21st, 2026.",
+  "prediction_sha256": "31f1927247e2ca826c84abdb67e62da02a01c75650339b925c5b89e7efa42427",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100032,
+  "usage": {
+    "completion_tokens": 102,
+    "prompt_tokens": 4699,
+    "prompt_tokens_details": null,
+    "total_tokens": 4801
+  }
+}

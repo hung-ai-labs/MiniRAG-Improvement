@@ -1,0 +1,17 @@
+{
+  "body_sha256": "4a36e2ac8fbbb36bf92f8dfb76e4e3d87a8f9ae520472dd996fc89cb22553c88",
+  "finish_reason": "stop",
+  "latency_s": 9.04970612499892,
+  "prediction": "According to the conversation, WolfgangSchulz invited LiHua to go grocery shopping after work on September 23, 2026. The purpose was to \"grab some snacks for our next jam!\" WolfgangSchulz suggested 5:30 PM as a convenient time, mentioning that they could \"get there before it gets too crowded!\" The pair looked forward to their jam session following the grocery trip.",
+  "prediction_sha256": "d0bc550f126d4399bb2dfd335633e5cf848bd88a4bbbb6fc6517b53156442d23",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 267,
+  "usage": {
+    "completion_tokens": 87,
+    "prompt_tokens": 4374,
+    "prompt_tokens_details": null,
+    "total_tokens": 4461
+  }
+}

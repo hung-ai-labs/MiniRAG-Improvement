@@ -1,0 +1,17 @@
+{
+  "body_sha256": "9c08641cc6fcb2ff7ce2c1711809a55a7bc3368a059e812594d79938eb650dc9",
+  "finish_reason": "stop",
+  "latency_s": 6.753830249999737,
+  "prediction": "Li Hua and Wolfgang Schulz have a lunch meeting scheduled at the cozy café downtown. According to the conversation record, the lunch meeting is set for 12:00 PM. This meeting is also mentioned in the context of Wolfgang reminding Li Hua about the lunch at the cozy café downtown at 12:00.",
+  "prediction_sha256": "71575133eae719dbe3d8a5de4e613709fd0b8d30d60fe25ecaec3055d28b09de",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200056,
+  "usage": {
+    "completion_tokens": 69,
+    "prompt_tokens": 4837,
+    "prompt_tokens_details": null,
+    "total_tokens": 4906
+  }
+}

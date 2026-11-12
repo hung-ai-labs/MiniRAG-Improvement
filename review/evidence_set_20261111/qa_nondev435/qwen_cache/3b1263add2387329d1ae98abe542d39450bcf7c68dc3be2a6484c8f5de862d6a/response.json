@@ -1,0 +1,17 @@
+{
+  "body_sha256": "3b1263add2387329d1ae98abe542d39450bcf7c68dc3be2a6484c8f5de862d6a",
+  "finish_reason": "stop",
+  "latency_s": 8.690458417000627,
+  "prediction": "LiHua is the individual who is considering purchasing Sekiro: Shadows Die Twice and seeks ThaneChambers' opinion on whether it is worth the investment. ThaneChambers enthusiastically recommends the game, highlighting its unique combat system and challenging battles, and advises LiHua to prepare for some tough encounters. He emphasizes that the game offers a thrilling challenge, making it a worthwhile purchase for those who enjoy a game with depth and difficulty.",
+  "prediction_sha256": "a3b107de4f8bc2a877903df92cf3162a2c306ebf69314aad660541c9ea547afd",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100285,
+  "usage": {
+    "completion_tokens": 91,
+    "prompt_tokens": 4230,
+    "prompt_tokens_details": null,
+    "total_tokens": 4321
+  }
+}

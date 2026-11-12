@@ -1,0 +1,17 @@
+{
+  "body_sha256": "59ec4ef3f1bb90cd903b64c6f18f6a1f94e161393841f15743c2745bdf456d14",
+  "finish_reason": "stop",
+  "latency_s": 12.602338666998548,
+  "prediction": "Based on the conversations shared, Emily Burnett expresses a preference for multiple TV shows. She mentions enjoying \"Brooklyn Nine-Nine\" and \"The Office.\" Additionally, she recommends \"The Bear\" to Li Hua, suggesting it has a different vibe but is engaging. However, her personal favorite appears to be \"Game of Thrones,\" although she acknowledges that she is still grappling with the series' ending. Emily's enthusiasm for \"Game of Thrones\" is evident, as she describes it as a show that never gets old for her. Thus, among the shows discussed, \"Game of Thrones\" seems to be Emily Burnett's favorite.",
+  "prediction_sha256": "23523a3f808ec2a863292cf9788e4a0d1d6297e8432e57b7b96b54279b70b3ae",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200383,
+  "usage": {
+    "completion_tokens": 128,
+    "prompt_tokens": 4306,
+    "prompt_tokens_details": null,
+    "total_tokens": 4434
+  }
+}

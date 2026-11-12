@@ -1,0 +1,17 @@
+{
+  "body_sha256": "485b60d66c3ad5c2d1e766dd5bfc843a6107563fce89213edcd7d3df33151970",
+  "finish_reason": "stop",
+  "latency_s": 4.544064582998544,
+  "prediction": " There is no mention in the provided data tables or content about anyone asking LiHua to measure the window in the basement. The conversation between LiHua and AdamSmith is solely focused on discussing the possibility of installing an air-conditioner in the basement to improve comfort levels during the warm summer months. Therefore, based on the information given, there is no answer to this question as it does not pertain to any of the provided data.",
+  "prediction_sha256": "db8fa5390a7d88cfa4423bb48cf37b0693bc8eee030419db661d403d738f7f9a",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 140,
+  "usage": {
+    "completion_tokens": 94,
+    "prompt_tokens": 5261,
+    "prompt_tokens_details": null,
+    "total_tokens": 5355
+  }
+}

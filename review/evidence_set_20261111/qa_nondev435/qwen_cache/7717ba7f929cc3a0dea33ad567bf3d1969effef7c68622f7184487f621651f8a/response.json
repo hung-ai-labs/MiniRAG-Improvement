@@ -1,0 +1,17 @@
+{
+  "body_sha256": "7717ba7f929cc3a0dea33ad567bf3d1969effef7c68622f7184487f621651f8a",
+  "finish_reason": "stop",
+  "latency_s": 5.817878666999604,
+  "prediction": "Based on the conversations recorded, Li Hua plans to celebrate Chinese Lunar New Year by enjoying some delicious food and participating in a local festival. However, the exact date for her celebrations is not specified within the provided data. The interactions focus more on her plans and preparations rather than the specific date of the Lunar New Year.",
+  "prediction_sha256": "80ccbecaf17212a688dc1bb21d1dfe11f31006c05db0a49ab2840721d39bda68",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 64,
+  "usage": {
+    "completion_tokens": 65,
+    "prompt_tokens": 4461,
+    "prompt_tokens_details": null,
+    "total_tokens": 4526
+  }
+}

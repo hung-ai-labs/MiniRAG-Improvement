@@ -1,0 +1,17 @@
+{
+  "body_sha256": "8d08d502af17d23eb9d11e7969eccd1fdfb8620122062621739f466596b9706e",
+  "finish_reason": "stop",
+  "latency_s": 6.240407917000994,
+  "prediction": "According to the conversation, Adam Smith is okay with Li Hua adding sound-insulating pads to the basement as long as the modifications are reversible and don't cause any damage to the existing structure. This condition ensures that any changes made can easily be undone if necessary, preserving the integrity of the basement space.",
+  "prediction_sha256": "71638e2bbfc9cc7df266886de7c5605c7962855c15afcb9e4efe8b8741a4c1a5",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 78,
+  "usage": {
+    "completion_tokens": 62,
+    "prompt_tokens": 4418,
+    "prompt_tokens_details": null,
+    "total_tokens": 4480
+  }
+}

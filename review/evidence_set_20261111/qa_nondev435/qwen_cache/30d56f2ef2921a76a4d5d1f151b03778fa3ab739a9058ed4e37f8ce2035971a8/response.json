@@ -1,0 +1,17 @@
+{
+  "body_sha256": "30d56f2ef2921a76a4d5d1f151b03778fa3ab739a9058ed4e37f8ce2035971a8",
+  "finish_reason": "stop",
+  "latency_s": 3.9048341659981816,
+  "prediction": "In the discussion about the upcoming soccer practice, Caspian offers to bring cones if anyone needs assistance with setting up drills or other equipment. This suggests that Caspian is prepared to contribute to the practice session by bringing additional tools needed for the drills.",
+  "prediction_sha256": "617333ca1333b227f1679ce4f4d689263f01de89448f6d5e7b61146f0c5feb0c",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 363,
+  "usage": {
+    "completion_tokens": 52,
+    "prompt_tokens": 4630,
+    "prompt_tokens_details": null,
+    "total_tokens": 4682
+  }
+}

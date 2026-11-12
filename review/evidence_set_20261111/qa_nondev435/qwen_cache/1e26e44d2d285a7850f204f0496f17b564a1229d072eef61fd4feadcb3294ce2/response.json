@@ -1,0 +1,17 @@
+{
+  "body_sha256": "1e26e44d2d285a7850f204f0496f17b564a1229d072eef61fd4feadcb3294ce2",
+  "finish_reason": "stop",
+  "latency_s": 9.549980540999968,
+  "prediction": "Jennifer Moore has requested that Li Hua complete a survey about their experience with her training sessions thus far. This survey serves as a valuable tool for Jennifer to gather feedback from participants, which she uses to continuously improve her training methods and ensure that they align with the needs and goals of her clients. Specifically, Jennifer hopes that Li Hua's feedback will help her identify areas for enhancement in the training sessions and overall program.",
+  "prediction_sha256": "2cf6f63c42dbc2261a26c4c431062ef0d0ec3932a9e8ff3e4a79eff57e941209",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200141,
+  "usage": {
+    "completion_tokens": 85,
+    "prompt_tokens": 3985,
+    "prompt_tokens_details": null,
+    "total_tokens": 4070
+  }
+}

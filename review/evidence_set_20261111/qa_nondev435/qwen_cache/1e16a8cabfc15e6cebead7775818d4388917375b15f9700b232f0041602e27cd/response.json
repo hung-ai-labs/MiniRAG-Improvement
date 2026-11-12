@@ -1,0 +1,17 @@
+{
+  "body_sha256": "1e16a8cabfc15e6cebead7775818d4388917375b15f9700b232f0041602e27cd",
+  "finish_reason": "stop",
+  "latency_s": 18.52321841599769,
+  "prediction": "Based on the conversations provided, Li Hua engages primarily in workouts that involve strength training and cardiovascular activities. This is evident from the discussions about maintaining a fitness routine, aiming for specific goals, and the occasional mention of sessions including bodyweight squats, plank holds, push-ups, lunges, and glute bridges.\n\nRegarding Wolfgang, the information indicates he enjoys participating in music jam sessions. Specifically, Wolfgang is mentioned as someone who shares musical interests and participates in jamming sessions organized by Li Hua. Additionally, Wolfgang is noted as someone who might attend the Bakery's anniversary event and has an ear for rhythm, suggesting he likely engages in musical activities rather than traditional gym workouts.\n\nFor the timing, Wolfgang's gym visits are not explicitly mentioned in the given data. However, it is stated that Li Hua and Wolfgang plan to meet at 5:00 PM for a workout together, indicating that Wolfgang attends the gym around this time.",
+  "prediction_sha256": "c5e3090a444750a750830453ee9f1f3ccfb009b50f228e754aa514e5e247a8d3",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200404,
+  "usage": {
+    "completion_tokens": 190,
+    "prompt_tokens": 4639,
+    "prompt_tokens_details": null,
+    "total_tokens": 4829
+  }
+}

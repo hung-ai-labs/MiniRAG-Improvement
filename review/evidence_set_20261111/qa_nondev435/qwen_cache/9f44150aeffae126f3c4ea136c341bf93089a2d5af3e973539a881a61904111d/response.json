@@ -1,0 +1,17 @@
+{
+  "body_sha256": "9f44150aeffae126f3c4ea136c341bf93089a2d5af3e973539a881a61904111d",
+  "finish_reason": "stop",
+  "latency_s": 11.395135540999036,
+  "prediction": "From the conversation, it appears that WolfgangSchulz prefers a Sichuan-style hot pot. Specifically, he expresses a preference for Sichuan cuisine, stating \"Sichuan is my fave.\" This preference is referenced during a dinner activity discussion involving LiHua, where WolfgangSchulz suggests a time of 7 PM for the hot pot dinner. Given the context of their conversation, it can be inferred that they are planning to have a Sichuan-style hot pot dinner.",
+  "prediction_sha256": "b99112e99b19677742dd8e18e2ad40871080d08b87a1736d6329c1e6a51ac618",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 280,
+  "usage": {
+    "completion_tokens": 101,
+    "prompt_tokens": 4403,
+    "prompt_tokens_details": null,
+    "total_tokens": 4504
+  }
+}

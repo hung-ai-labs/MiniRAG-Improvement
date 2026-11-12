@@ -1,0 +1,17 @@
+{
+  "body_sha256": "8fc368ad54eb44f0bee6ac8b974823e0325a74b45566b4268325b91ebdf8627b",
+  "finish_reason": "stop",
+  "latency_s": 10.323176458001399,
+  "prediction": "Based on the conversation recorded, Li Hua is informed that he can hang his new artwork as long as he doesn't damage the walls. Specifically, Adam Smith advises Li Hua to use removable hooks for hanging his pieces. This indicates that Li Hua is allowed to display his artwork in a manner that avoids causing harm to the walls.",
+  "prediction_sha256": "2d507f96f22e77ccca7ed322a0412db6e9709bb31f4de44941bc66604596e989",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100071,
+  "usage": {
+    "completion_tokens": 69,
+    "prompt_tokens": 4460,
+    "prompt_tokens_details": null,
+    "total_tokens": 4529
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "7f59a1fa261343541b93ecafa1ec4759f6af269a3685e7214a2476b18c3a6c1c",
+  "finish_reason": "stop",
+  "latency_s": 8.4559064999994,
+  "prediction": "No, Li Hua did not ask Wolfgang Schulz if he wanted to go to the gym together before Jennifer reminded Li Hua to participate in the gym's membership feedback activity. The conversation about Wolfgang Schulz recommending a gym and Li Hua asking about nearby fitness centers occurred prior to Jennifer reminding Li Hua about the membership feedback activity. The membership feedback activity reminder was communicated by Jennifer to Li Hua through a message, which happened after Wolfgang Schulz had already suggested the gym FitZone.",
+  "prediction_sha256": "5d0d4c17ba6bd55383c7793cd2e8c4d02f5b493e5d8741dd95205dd0d22c9e1b",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100047,
+  "usage": {
+    "completion_tokens": 100,
+    "prompt_tokens": 4437,
+    "prompt_tokens_details": null,
+    "total_tokens": 4537
+  }
+}

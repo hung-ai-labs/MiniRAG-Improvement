@@ -1,0 +1,17 @@
+{
+  "body_sha256": "a077ed7f80faeab157cddbadb7a2ce82e25607ed49d43a5e16b876c82552208d",
+  "finish_reason": "stop",
+  "latency_s": 7.915819624999131,
+  "prediction": "In one of the recorded messages, Jennifer Moore expresses her enthusiasm and excitement about a team swimming competition scheduled for December. During a conversation on December 28th at 16:00, Jennifer shares her plans with Li Hua, expressing optimism about the upcoming event. Jennifer mentions that they are already preparing for the competition and wants to ensure that Li Hua is aware of the preparations and upcoming events. However, the exact details of the competition itself were not discussed. Jennifer encourages Li Hua to stay updated and participate actively in the team's preparations.",
+  "prediction_sha256": "d43a56b27bdd85797a0c8f589b2b637a9b1631bec2c68047fd759a8d0d196910",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 442,
+  "usage": {
+    "completion_tokens": 114,
+    "prompt_tokens": 4194,
+    "prompt_tokens_details": null,
+    "total_tokens": 4308
+  }
+}

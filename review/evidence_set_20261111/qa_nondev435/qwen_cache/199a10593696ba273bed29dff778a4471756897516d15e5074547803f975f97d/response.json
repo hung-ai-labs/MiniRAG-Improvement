@@ -1,0 +1,17 @@
+{
+  "body_sha256": "199a10593696ba273bed29dff778a4471756897516d15e5074547803f975f97d",
+  "finish_reason": "stop",
+  "latency_s": 10.807146999999532,
+  "prediction": "In the conversation, WolfgangSchulz mentions that LiHua should pick up snacks and drinks on her way to the movie night. Specifically, WolfgangSchulz says, \"For sure! I can bring some chips! What drinks do you want? 🥤\" and LiHua responds, \"Cool! I'll pick them up on my way. See you soon! 🎉\" This indicates that LiHua will be responsible for picking up the snacks and drinks for the movie night.",
+  "prediction_sha256": "57349f010ef016543e75961431ca4d466edae3ca680bcc7aafeab3fdaabbf190",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200307,
+  "usage": {
+    "completion_tokens": 103,
+    "prompt_tokens": 5252,
+    "prompt_tokens_details": null,
+    "total_tokens": 5355
+  }
+}

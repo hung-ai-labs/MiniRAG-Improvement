@@ -1,0 +1,17 @@
+{
+  "body_sha256": "2a156a4123bc924bb5e322190788218b20e9b34bee56c77129eeb7068b17ff61",
+  "finish_reason": "stop",
+  "latency_s": 10.487990666995756,
+  "prediction": "As of the event on 20260908_21:00, the latest good news from Wolfgang is that his software project has made significant progress. He expressed gratitude towards LiHua's support during challenging times and shared that the project is now looking much better with all the pieces finally coming together. He is particularly excited to participate in their next jam session and suggested new tracks like \"Come Together\" and \"Here Comes the Sun\" to play together.",
+  "prediction_sha256": "da1790f2cbeeb939fcccbbea6b3558870ddcbbb0f49427242b6d2cf4e8bcdde0",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100194,
+  "usage": {
+    "completion_tokens": 99,
+    "prompt_tokens": 5380,
+    "prompt_tokens_details": null,
+    "total_tokens": 5479
+  }
+}

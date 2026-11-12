@@ -1,0 +1,17 @@
+{
+  "body_sha256": "dddb6643c8387db326139bdf399bf950aa5cc4d427140a48bed52096efec9306",
+  "finish_reason": "stop",
+  "latency_s": 5.552609125003073,
+  "prediction": "In the dialogue provided, Adam mentions that there will be a power outage starting at 2 PM tomorrow due to maintenance work. This indicates a house rule related to power usage, specifically advising Li Hua to ensure that her electronic devices are charged and to plan accordingly for the outage.",
+  "prediction_sha256": "1ebd8aa710edf46be4d36cf4229f5e81e2fd2ffd3a2b45c5f538e55ed793611c",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200059,
+  "usage": {
+    "completion_tokens": 57,
+    "prompt_tokens": 4478,
+    "prompt_tokens_details": null,
+    "total_tokens": 4535
+  }
+}

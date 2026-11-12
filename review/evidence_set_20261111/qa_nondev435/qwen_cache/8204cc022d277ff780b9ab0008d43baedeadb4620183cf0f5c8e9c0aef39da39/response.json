@@ -1,0 +1,17 @@
+{
+  "body_sha256": "8204cc022d277ff780b9ab0008d43baedeadb4620183cf0f5c8e9c0aef39da39",
+  "finish_reason": "stop",
+  "latency_s": 7.887563833999593,
+  "prediction": "In the conversation, JakeWatson expresses a particular fondness for a match from the Champions League final against Manchester United in 2009. Specifically, Jake mentions that his favorite memory from that match involves Messi scoring a goal that he describes as \"pure magic.\" He notes that this goal was significant enough to be included in the history books, indicating its importance and memorability.",
+  "prediction_sha256": "2f3e9babe3d4a1d60663a7193c24e8ffdd1cf982994994d1f591fd2632fb8687",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100228,
+  "usage": {
+    "completion_tokens": 78,
+    "prompt_tokens": 4324,
+    "prompt_tokens_details": null,
+    "total_tokens": 4402
+  }
+}

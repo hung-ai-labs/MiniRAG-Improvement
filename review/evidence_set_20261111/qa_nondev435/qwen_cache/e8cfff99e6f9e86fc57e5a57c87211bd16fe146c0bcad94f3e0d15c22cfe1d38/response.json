@@ -1,0 +1,17 @@
+{
+  "body_sha256": "e8cfff99e6f9e86fc57e5a57c87211bd16fe146c0bcad94f3e0d15c22cfe1d38",
+  "finish_reason": "stop",
+  "latency_s": 13.71494525000162,
+  "prediction": "In the conversation, WolfgangSchulz suggests a time and location for the movie viewing of \"Overwatch 3.\" Specifically, WolfgangSchulz proposes catching the 7 PM show at a cinema and recommends grabbing some food before the movie. LiHua agrees to this plan, stating that \"Food first sounds like a plan! Let’s pick a place we both like.\" WolfgangSchulz then suggests a \"new burger place near the cinema,\" indicating that LiHua and WolfgangSchulz would go to this place to have their pre-movie meal. Therefore, LiHua goes to watch \"Overwatch 3\" with WolfgangSchulz.",
+  "prediction_sha256": "4a42e169dcd91a485ecddfbed8d8c2e84180edd1847ad08a3680f65a2732653c",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100031,
+  "usage": {
+    "completion_tokens": 135,
+    "prompt_tokens": 4407,
+    "prompt_tokens_details": null,
+    "total_tokens": 4542
+  }
+}

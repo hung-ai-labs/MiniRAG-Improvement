@@ -1,0 +1,17 @@
+{
+  "body_sha256": "4b6dc49c87dadbde18128fa905e5c1bad4842943997929826d6077fdfd3e0a46",
+  "finish_reason": "stop",
+  "latency_s": 9.064431750004587,
+  "prediction": "In the conversation, WolfgangSchulz suggests that LiHua should join him for the 7 PM show of \"Overwatch 3.\" WolfgangSchulz proposes that they catch the 7 PM show, giving them time to grab some food before the movie. LiHua agrees to the suggestion, indicating that they will watch the movie together. Therefore, LiHua goes to watch the movie \"Overwatch 3\" with WolfgangSchulz.",
+  "prediction_sha256": "92931345b33a673cc454b4222df59d9b53c8f6f68126b947225746745ab5106a",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 31,
+  "usage": {
+    "completion_tokens": 94,
+    "prompt_tokens": 4520,
+    "prompt_tokens_details": null,
+    "total_tokens": 4614
+  }
+}

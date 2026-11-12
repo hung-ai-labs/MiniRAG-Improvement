@@ -1,0 +1,17 @@
+{
+  "body_sha256": "038ecdb390c58f22dfd6ab1d5d05267ae073283b7061cb4284a1b500dbdec623",
+  "finish_reason": "stop",
+  "latency_s": 11.01226562499869,
+  "prediction": "Jennifer Moore is checking in with her group in the gym group chat on 20260708 at 14:00. Her purpose is to remind everyone to check in with her about their fitness progress. This indicates that she is interested in hearing about the members' fitness routines and providing personalized advice to help them achieve their fitness goals. Additionally, she mentions she'd love to hear how everyone is doing, suggesting that she wants to encourage engagement and interaction within the group. This regular communication highlights the support network among the members, aiming to keep everyone motivated and on track with their fitness plans.",
+  "prediction_sha256": "36a13d64edd46fcb3fad83759fbaf8eb6dc256ea993a136f67e90ded13800bdf",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100149,
+  "usage": {
+    "completion_tokens": 125,
+    "prompt_tokens": 4028,
+    "prompt_tokens_details": null,
+    "total_tokens": 4153
+  }
+}

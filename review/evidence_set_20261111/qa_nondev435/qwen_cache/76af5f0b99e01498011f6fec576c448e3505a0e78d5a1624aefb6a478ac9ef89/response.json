@@ -1,0 +1,17 @@
+{
+  "body_sha256": "76af5f0b99e01498011f6fec576c448e3505a0e78d5a1624aefb6a478ac9ef89",
+  "finish_reason": "stop",
+  "latency_s": 11.834790417000477,
+  "prediction": "For the various instances of soccer practice mentioned, the times vary. In one instance, Jake Watson suggests a practice session on Saturday afternoon at 3 PM, where they plan to work on passing drills. However, another practice session is scheduled for Saturday at 4 PM, where Jake Watson and Li Hua will gather the group for a practice session, with the possibility of practicing drills and reviewing rules. There is also a mention of a practice session planned for 10 AM the following day, which involves Li Hua playing as the goalkeeper. Therefore, the times for soccer practice range from 3 PM to 10 AM, depending on the specific practice session and the participants involved.",
+  "prediction_sha256": "733e66786ffe5289d40460e4d1059fdba6404d7f06a0a65e74763c4d52e89158",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 362,
+  "usage": {
+    "completion_tokens": 139,
+    "prompt_tokens": 4205,
+    "prompt_tokens_details": null,
+    "total_tokens": 4344
+  }
+}

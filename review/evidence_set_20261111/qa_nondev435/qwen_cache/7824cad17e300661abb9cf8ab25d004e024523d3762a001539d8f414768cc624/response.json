@@ -1,0 +1,17 @@
+{
+  "body_sha256": "7824cad17e300661abb9cf8ab25d004e024523d3762a001539d8f414768cc624",
+  "finish_reason": "stop",
+  "latency_s": 10.355327583998587,
+  "prediction": "According to the data provided, Phaedra mentioned two memorable quotes. The first one was from Tyrion Lannister, who said, \"That moment with Tyrion was so intense!\" followed by, \"I also thought Jon Snow's 'You know nothing' scene with Ygritte was super memorable.\" The second quote mentioned by Phaedra was from Tyrion Lannister, stating, \"I drink and I know things.\" This quote is a well-known and celebrated line from the HBO series Game of Thrones.",
+  "prediction_sha256": "5369cb04b1a1fa329bd44659b45f1348f93d70c05e11ec37abe3595ca85f595a",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 212,
+  "usage": {
+    "completion_tokens": 106,
+    "prompt_tokens": 4090,
+    "prompt_tokens_details": null,
+    "total_tokens": 4196
+  }
+}

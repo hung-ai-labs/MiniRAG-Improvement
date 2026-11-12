@@ -1,0 +1,17 @@
+{
+  "body_sha256": "867f68d7f8b07a035d0518b5f40330a5199967044171fd8433a367b9b254f0bd",
+  "finish_reason": "stop",
+  "latency_s": 9.387297166998906,
+  "prediction": "In the conversation, ThaneChambers recalls a particularly memorable moment from playing \"Warzone,\" stating, \"I remember this one time we came back from a tough spot and snagged the win at the last second. Those clutch moments feel amazing.\" This indicates that one of his most significant experiences in \"Warzone\" involves a dramatic comeback victory at the last minute.",
+  "prediction_sha256": "5f97a84179589914132a49c5bffd8062c801a3b9069eafd199d40b8394569dab",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200239,
+  "usage": {
+    "completion_tokens": 76,
+    "prompt_tokens": 4264,
+    "prompt_tokens_details": null,
+    "total_tokens": 4340
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "6cabf8995dace2224cabef6d9ed8126ee5ececc8f035d6392eaacfae7a52c6f6",
+  "finish_reason": "stop",
+  "latency_s": 5.622950500001025,
+  "prediction": "LiHua mentions a scene in \"Chernobyl\" where the workers are trying to contain the radiation and the sacrifices made by the workers, which he finds particularly impactful and gripping. This scene showcases the human spirit in challenging circumstances, highlighting the bravery and resilience of the individuals involved.",
+  "prediction_sha256": "ec636d807ab74d660291bd2d5cb9c9d5e4b17d5819cda7f3c4ed4de108d894f2",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200384,
+  "usage": {
+    "completion_tokens": 59,
+    "prompt_tokens": 4185,
+    "prompt_tokens_details": null,
+    "total_tokens": 4244
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "307c63981f4500d27e97b235b9892478cf70c87d9d78bb87b45ea20ee4f6d3db",
+  "finish_reason": "stop",
+  "latency_s": 5.234205625005416,
+  "prediction": " On July 30, 2026, during the gym group chat, Jennifer encourages Raize to share some of his favorite fitness tips. Raize responds positively, expressing his enthusiasm for the opportunity to share his insights and contribute to the group's collective improvement. Jennifer's suggestion aims to create a supportive environment where members can learn from each other's experiences and strategies for enhancing their fitness routines.",
+  "prediction_sha256": "90445652457cf3d959046aa4e4416d7b426f831751ebc59efc8ea67063e645bc",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 200161,
+  "usage": {
+    "completion_tokens": 104,
+    "prompt_tokens": 5033,
+    "prompt_tokens_details": null,
+    "total_tokens": 5137
+  }
+}

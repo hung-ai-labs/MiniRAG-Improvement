@@ -1,0 +1,17 @@
+{
+  "body_sha256": "7965bf8d1bb3ccef0d447d2ae1862006b48a5dc5a985f5e75e6b1b2d1af29ec3",
+  "finish_reason": "stop",
+  "latency_s": 10.45184641599917,
+  "prediction": "No, Li Hua initially declined Wolfgang's invitation to go out for dinner, stating that he had been very busy lately. However, Wolfgang did not press the matter further, instead suggesting another day when they could plan something together. Later, Wolfgang reminded Li Hua about dinner plans at Venedia Grancaffe, and Li Hua expressed enthusiasm about the idea, indicating that he was available to go out for dinner. Therefore, while Wolfgang did ask Li Hua to go out for dinner, Li Hua did not immediately agree but eventually accepted the invitation.",
+  "prediction_sha256": "e4acee17b19d12cf06b86e35b2bddda090314d30cdee326e84c9aa5dd85e7391",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100014,
+  "usage": {
+    "completion_tokens": 112,
+    "prompt_tokens": 4338,
+    "prompt_tokens_details": null,
+    "total_tokens": 4450
+  }
+}

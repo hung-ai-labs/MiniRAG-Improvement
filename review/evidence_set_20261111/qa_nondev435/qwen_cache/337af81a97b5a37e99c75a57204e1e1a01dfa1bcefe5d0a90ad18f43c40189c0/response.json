@@ -1,0 +1,17 @@
+{
+  "body_sha256": "337af81a97b5a37e99c75a57204e1e1a01dfa1bcefe5d0a90ad18f43c40189c0",
+  "finish_reason": "stop",
+  "latency_s": 9.010914791997493,
+  "prediction": "In the conversation recorded on October 24, 2026 at 11:00 AM, Turalyon announced that the community had decided to hold the picnic on the following Saturday. This decision was made after the community gathered to discuss the upcoming event, including games, a potluck, and music. The choice of Saturday aligns with the timeline given in the records, suggesting that this was the agreed-upon date for the picnic.",
+  "prediction_sha256": "1e570ef8a85293c6089c531ae17cefed1358ce40d4be11b9def8e02b92432e13",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200395,
+  "usage": {
+    "completion_tokens": 94,
+    "prompt_tokens": 4854,
+    "prompt_tokens_details": null,
+    "total_tokens": 4948
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "83316f4872ccbfe9b028d5faa026b34c1ad0414ba63e79c26721aaeecdf50861",
+  "finish_reason": "stop",
+  "latency_s": 16.601667999999336,
+  "prediction": "According to the conversation records, Wolfgang and LiHua are going to the photography exhibition at 19:00 on August 5, 2026. Specifically, WolfgangSchulz mentions, \"Hey! Just got back from the exhibition. Those football stadium photos were something else! So massive and impressive, right? I could just stare at them for ages. What did you think?\" LiHua responds, \"Totally agree! They really capture the energy and design. I love how each one has its own vibe. Did you have a favorite?\" and they discuss plans to meet at 6:00 to head to the exhibition after grabbing a bite at the new burger place.",
+  "prediction_sha256": "b0a51623d675a4e63898995ac4cd3ae5dfaf756a402091c28ffed3db2521cbb7",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 164,
+  "usage": {
+    "completion_tokens": 144,
+    "prompt_tokens": 5714,
+    "prompt_tokens_details": null,
+    "total_tokens": 5858
+  }
+}

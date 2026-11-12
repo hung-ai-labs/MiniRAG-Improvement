@@ -1,0 +1,17 @@
+{
+  "body_sha256": "5de11f0d68bef95005d93000a84f2aae2fbfdbacf8e06562aac6dd7d458d5881",
+  "finish_reason": "stop",
+  "latency_s": 8.59571862500161,
+  "prediction": "In the conversation, LiHua mentions that she will pick up the snacks and drinks on her way to WolfgangSchulz's place for the movie night. Specifically, LiHua states, \"I'll pick them up on my way. See you soon! 🎉\" This indicates that LiHua will be responsible for bringing the snacks and drinks to WolfgangSchulz.",
+  "prediction_sha256": "deaad984e72a42923ce2bc4b5494f5fa1c848a4538051bf9e1a039cbb2ebcb7b",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200307,
+  "usage": {
+    "completion_tokens": 79,
+    "prompt_tokens": 4923,
+    "prompt_tokens_details": null,
+    "total_tokens": 5002
+  }
+}

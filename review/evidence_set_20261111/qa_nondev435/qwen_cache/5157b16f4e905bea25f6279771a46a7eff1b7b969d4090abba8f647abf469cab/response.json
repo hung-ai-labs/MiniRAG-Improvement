@@ -1,0 +1,17 @@
+{
+  "body_sha256": "5157b16f4e905bea25f6279771a46a7eff1b7b969d4090abba8f647abf469cab",
+  "finish_reason": "stop",
+  "latency_s": 6.287108500000613,
+  "prediction": "Based on the information provided in the table, the local music festival that Li Hua is planning to attend is the \"LOCAL MUSIC FESTIVAL\". However, there is no specific song mentioned as being performed at this event. The table describes plans for Li Hua to attend and participate in the event, but does not provide details about the exact performances or songs played.",
+  "prediction_sha256": "9c9d413ca2fcd2ce8818ab23042bc59cdd9d40f77e296a82399931f95aa5e02c",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 430,
+  "usage": {
+    "completion_tokens": 75,
+    "prompt_tokens": 4099,
+    "prompt_tokens_details": null,
+    "total_tokens": 4174
+  }
+}

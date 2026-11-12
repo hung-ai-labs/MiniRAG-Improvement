@@ -1,0 +1,17 @@
+{
+  "body_sha256": "3f6b07582eec4e030f5a4c41eabe9544588eabc00232f7e7a4adc95722b9fe89",
+  "finish_reason": "stop",
+  "latency_s": 9.186973249998118,
+  "prediction": "In the conversation, Caspian expressed enthusiasm for joining the soccer practice and suggested bringing cones for the passing drills. He said, \"Count me in too! 3 PM it is! Excited to work on those passing drills and just have some fun with all of you! 🎉\" Therefore, Caspian offered to bring cones for the soccer practice.",
+  "prediction_sha256": "76639632b877c5c22fa98409e1b1df3696993b1d791c431681dddf47ec259d44",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100363,
+  "usage": {
+    "completion_tokens": 75,
+    "prompt_tokens": 5012,
+    "prompt_tokens_details": null,
+    "total_tokens": 5087
+  }
+}

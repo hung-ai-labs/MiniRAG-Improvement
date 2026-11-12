@@ -1,0 +1,17 @@
+{
+  "body_sha256": "1d911206cf4548429c374b8ee7c908c8edabbb8cdfd0b5b5cf69f50ec1505b78",
+  "finish_reason": "stop",
+  "latency_s": 5.904229874999146,
+  "prediction": "Henley, during the conversation about the Manchester City vs Chelsea match, commends Rodri's contributions to the team, specifically highlighting his significant role in controlling the pace of the game and breaking up opposition plays. Henley also notes his importance in set pieces, indicating that Rodri is indeed a vital part of City's system.",
+  "prediction_sha256": "bd0d7dfe9b8f984af4317f6e8b703190f2d241b36d1b5945d26ccff3d343c7f7",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100304,
+  "usage": {
+    "completion_tokens": 67,
+    "prompt_tokens": 4716,
+    "prompt_tokens_details": null,
+    "total_tokens": 4783
+  }
+}

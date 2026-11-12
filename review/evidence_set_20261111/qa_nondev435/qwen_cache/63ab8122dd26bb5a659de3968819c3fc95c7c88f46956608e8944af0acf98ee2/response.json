@@ -1,0 +1,17 @@
+{
+  "body_sha256": "63ab8122dd26bb5a659de3968819c3fc95c7c88f46956608e8944af0acf98ee2",
+  "finish_reason": "stop",
+  "latency_s": 10.753173083998263,
+  "prediction": "On August 10, 2026, at 18:00 (20260810_18:00), AdamSmith reaches out to LiHua for a discussion regarding the warranty and maintenance plans for the air conditioner. LiHua confirms that she has reviewed the documents and has some questions about them, and they agree to discuss the matter further after dinner. This interaction highlights a typical scenario where a landlord and tenant communicate about maintenance and warranty issues concerning the property.",
+  "prediction_sha256": "8b6d79865df779a7eb9fde568318a9bf6cd9eabc93035599f36111e1249395e9",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 166,
+  "usage": {
+    "completion_tokens": 107,
+    "prompt_tokens": 5129,
+    "prompt_tokens_details": null,
+    "total_tokens": 5236
+  }
+}

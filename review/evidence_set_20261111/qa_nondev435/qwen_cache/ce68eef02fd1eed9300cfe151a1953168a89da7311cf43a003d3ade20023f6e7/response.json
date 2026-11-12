@@ -1,0 +1,17 @@
+{
+  "body_sha256": "ce68eef02fd1eed9300cfe151a1953168a89da7311cf43a003d3ade20023f6e7",
+  "finish_reason": "stop",
+  "latency_s": 9.17994529200223,
+  "prediction": "On June 30, 2026, at 15:30, Jennifer Moore provides a tip related to hydration during workouts. Specifically, she suggests that staying hydrated is very important during exercise and encourages her colleagues to keep track of their water intake. Jennifer notes that staying hydrated can give individuals more energy and enhance their endurance during intense sessions. She also mentions that staying hydrated is key to maintaining gains and recommends that everyone motivate each other to drink water.",
+  "prediction_sha256": "718d82cf474ad59e4c1872c91ce92441f3f03e396631b13ef093185b75379b92",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100145,
+  "usage": {
+    "completion_tokens": 96,
+    "prompt_tokens": 5554,
+    "prompt_tokens_details": null,
+    "total_tokens": 5650
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "f3ecb53f8e8ec91e1484f7e2eda4c56b9456d22d8f7aa7c6ed8c1ced11017317",
+  "finish_reason": "stop",
+  "latency_s": 15.38563941600296,
+  "prediction": "In the conversation between AdamSmith and LiHua, LiHua recommends inverter AC units for energy efficiency and low noise, suggesting brands like Mitsubishi and Daikin. However, regarding Wolfgang specifically, there is no direct recommendation made by LiHua. LiHua focuses on the types of air-conditioners that would be suitable for the basement, such as a split-type air-conditioner, which is efficient and quieter. LiHua also mentions the importance of the SEER rating for choosing an appropriate air-conditioner, but Wolfgang does not appear to have asked for specific brand recommendations.",
+  "prediction_sha256": "3a20b24c75ca6305d7288e8c409c45e0089af6d88f75f31d1435f2913fa7d97c",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200160,
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 4939,
+    "prompt_tokens_details": null,
+    "total_tokens": 5059
+  }
+}

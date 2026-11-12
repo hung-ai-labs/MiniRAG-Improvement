@@ -1,0 +1,17 @@
+{
+  "body_sha256": "f71424f166445333531ddb5a14a59797f9c395143b19b24d4521e5ef2d96560d",
+  "finish_reason": "stop",
+  "latency_s": 13.802024374999746,
+  "prediction": "In one of the conversations, Hailey Johnson introduces a new weekly flavor called \"Hazelnut Basque Roasted Cheese.\" This information comes from the conversation dated \"Time: 20260603_09:45\" where Hailey informs Li Hua about the new flavor, stating, \"Sounds delicious! I just wanted to let you know I have a new weekly flavor – Hazelnut Basque Roasted Cheese! 🧀✨ Plus, it's on a 20% discount for the first 3 days!\" Thus, the name of Hailey Johnson's new weekly flavor cheese is Hazelnut Basque Roasted Cheese.",
+  "prediction_sha256": "d9307a2ede31f05d81b0394cfecf224e2fae3b4735698addf9e9331db2312040",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100131,
+  "usage": {
+    "completion_tokens": 138,
+    "prompt_tokens": 4390,
+    "prompt_tokens_details": null,
+    "total_tokens": 4528
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "26aa577cf2462d4b2c09b176ed0919ef0555c81ae1563aa3806b09c79a304100",
+  "finish_reason": "stop",
+  "latency_s": 9.537763874999655,
+  "prediction": "Based on the conversations provided, LiHua's favorite game according to ThaneChambers is \"Black Myth: Wukong.\" This is mentioned specifically in one of the discussions where ThaneChambers asks LiHua about their favorite game, and LiHua confirms it is \"Black Myth: Wukong.\"",
+  "prediction_sha256": "c31f4550445a1bdcadc4c43cb5a31c0cef8b22e6b0b5ea391bd1c8ae3c468b61",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200376,
+  "usage": {
+    "completion_tokens": 68,
+    "prompt_tokens": 4312,
+    "prompt_tokens_details": null,
+    "total_tokens": 4380
+  }
+}

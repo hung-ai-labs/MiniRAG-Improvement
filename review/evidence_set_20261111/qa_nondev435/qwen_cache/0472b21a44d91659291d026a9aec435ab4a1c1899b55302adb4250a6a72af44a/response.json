@@ -1,0 +1,17 @@
+{
+  "body_sha256": "0472b21a44d91659291d026a9aec435ab4a1c1899b55302adb4250a6a72af44a",
+  "finish_reason": "stop",
+  "latency_s": 8.496267582995642,
+  "prediction": "In the conversation between Li Hua and Adam Smith, Li Hua initially mentions noticing a broken streetlight nearby and inquires if Adam knows who to contact to get it fixed. Adam replies, \"You can call the maintenance worker at 314159. They'll be able to help with that.\" This indicates that the light fixture in question was a streetlight rather than a light fixture inside a building. There is no mention of a broken light fixture in Adam's apartment or any other indoor location.",
+  "prediction_sha256": "7a1e129cb325dd4ffec600c7025b6f1e7a9a4cd00ab14bf5de11d41c63d18c8c",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100067,
+  "usage": {
+    "completion_tokens": 105,
+    "prompt_tokens": 4346,
+    "prompt_tokens_details": null,
+    "total_tokens": 4451
+  }
+}

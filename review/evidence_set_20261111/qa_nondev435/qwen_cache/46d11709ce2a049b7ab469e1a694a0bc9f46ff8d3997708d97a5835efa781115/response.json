@@ -1,0 +1,17 @@
+{
+  "body_sha256": "46d11709ce2a049b7ab469e1a694a0bc9f46ff8d3997708d97a5835efa781115",
+  "finish_reason": "stop",
+  "latency_s": 8.5331678750008,
+  "prediction": "ChaeSong-hwa shares an article with LiHua about how human beings form short-term and long-term memories. This article delves into the intricacies of how our brains process and store memories, and it highlights how experiences, emotions, and context significantly influence how we recall events. LiHua finds the topic extremely intriguing and appreciates the detailed explanation of the mechanisms behind memory formation and storage.",
+  "prediction_sha256": "87b808b079855cbe45d7d2612e550184c095cd698d3756e2017b9b5a7dfdba8c",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100150,
+  "usage": {
+    "completion_tokens": 82,
+    "prompt_tokens": 3394,
+    "prompt_tokens_details": null,
+    "total_tokens": 3476
+  }
+}

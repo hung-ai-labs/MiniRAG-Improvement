@@ -1,0 +1,17 @@
+{
+  "body_sha256": "704d96a442f2d0babae784a69136e1a7654e536ce6260af3797c07d6c7457105",
+  "finish_reason": "stop",
+  "latency_s": 8.173303458999726,
+  "prediction": "The table does not contain information about Wolfgang using the new drum practice app or playing specific songs with it. There is no mention of any song titles in relation to this app. Therefore, there isn't enough data to determine the name of the last song Wolfgang played with the new drum practice app.",
+  "prediction_sha256": "3a63192971dc9b849f6a11c285254be686ba192f78d9da71748f352e4d31ef6b",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200423,
+  "usage": {
+    "completion_tokens": 60,
+    "prompt_tokens": 4025,
+    "prompt_tokens_details": null,
+    "total_tokens": 4085
+  }
+}

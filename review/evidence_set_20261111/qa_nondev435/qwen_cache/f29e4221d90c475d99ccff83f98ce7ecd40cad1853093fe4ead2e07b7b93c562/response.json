@@ -1,0 +1,17 @@
+{
+  "body_sha256": "f29e4221d90c475d99ccff83f98ce7ecd40cad1853093fe4ead2e07b7b93c562",
+  "finish_reason": "stop",
+  "latency_s": 11.025372583997523,
+  "prediction": "In a conversation recorded on January 6th, 2026, Adam Smith responds to Li Hua's inquiry about having friends over occasionally. Adam clarifies that while it is allowed, the gatherings should be kept reasonable and mindful of the quiet hours. Specifically, Adam states, \"You're welcome! Yes, having friends over occasionally is fine, just try to keep the gatherings reasonable. Enjoy!\" This indicates that while it is permissible to host friends, there should be consideration for the peace and quiet of the premises.",
+  "prediction_sha256": "9b71aa060a993bbb7210c2324f99d6aea513c2d9db59dea2a09921ae49606774",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 58,
+  "usage": {
+    "completion_tokens": 107,
+    "prompt_tokens": 4474,
+    "prompt_tokens_details": null,
+    "total_tokens": 4581
+  }
+}

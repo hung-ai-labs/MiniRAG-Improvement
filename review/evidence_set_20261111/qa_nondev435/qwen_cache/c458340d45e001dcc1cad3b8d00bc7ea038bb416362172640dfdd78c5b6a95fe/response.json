@@ -1,0 +1,17 @@
+{
+  "body_sha256": "c458340d45e001dcc1cad3b8d00bc7ea038bb416362172640dfdd78c5b6a95fe",
+  "finish_reason": "stop",
+  "latency_s": 7.437851665999915,
+  "prediction": "According to JakeWatson, each stretch should be held for approximately 30 seconds. He specifically mentions this duration in his conversation with LiHua regarding soccer-related stretches.",
+  "prediction_sha256": "6ee062a16332f4dca8ffba787ea034edfefb03908d55c4281dfb7fa61ba3e7ea",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100270,
+  "usage": {
+    "completion_tokens": 36,
+    "prompt_tokens": 4363,
+    "prompt_tokens_details": null,
+    "total_tokens": 4399
+  }
+}

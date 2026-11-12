@@ -1,0 +1,17 @@
+{
+  "body_sha256": "29b396f2ea5b1de4bc33c053e98ba8b027b02e58c7a3e25f829cda85f3b96b0e",
+  "finish_reason": "stop",
+  "latency_s": 10.815126792000228,
+  "prediction": "Yes, Li Hua did inquire about the best type of protein supplement for his fitness goals earlier in the conversation, which took place on February 14, 2026, at 16:00. In this message, Jennifer Moore suggested considering whey protein, which is great for muscle recovery and building lean mass. She also recommended plant-based options like pea or rice protein, advising to check the ingredients for added sugars or fillers. This indicates that prior to Li Hua asking about his daily protein powder intake, he had already discussed potential protein supplements with Jennifer.",
+  "prediction_sha256": "6630ea8b78a6a0d45ba2e46025f596e10f69b1cfe98070bd5d6b49fc74b64712",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 16,
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 3349,
+    "prompt_tokens_details": null,
+    "total_tokens": 3469
+  }
+}

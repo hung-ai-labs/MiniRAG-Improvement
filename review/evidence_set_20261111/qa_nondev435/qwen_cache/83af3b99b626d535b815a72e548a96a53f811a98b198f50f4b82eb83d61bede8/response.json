@@ -1,0 +1,17 @@
+{
+  "body_sha256": "83af3b99b626d535b815a72e548a96a53f811a98b198f50f4b82eb83d61bede8",
+  "finish_reason": "stop",
+  "latency_s": 6.829391332998057,
+  "prediction": "Li Hua and Wolfgang Schulz plan to visit the photography exhibition on Friday evening. This decision is made clear through their conversation where Li Hua suggests Friday evening as a better time to avoid crowds and Wolfgang Schulz agrees to the same. Specifically, they discuss the timing in a conversation dated 20260801_19:00.",
+  "prediction_sha256": "f1ee24cbdd33f4ed5cf439c51053e43b389df83fa6f3a6a4cf66b3738013a489",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100163,
+  "usage": {
+    "completion_tokens": 75,
+    "prompt_tokens": 4676,
+    "prompt_tokens_details": null,
+    "total_tokens": 4751
+  }
+}

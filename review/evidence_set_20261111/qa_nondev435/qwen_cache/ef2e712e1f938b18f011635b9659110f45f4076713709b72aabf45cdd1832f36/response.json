@@ -1,0 +1,17 @@
+{
+  "body_sha256": "ef2e712e1f938b18f011635b9659110f45f4076713709b72aabf45cdd1832f36",
+  "finish_reason": "stop",
+  "latency_s": 17.992811917003564,
+  "prediction": "Based on the conversations between Li Hua and Jennifer Moore, Li Hua followed a balanced meal plan that included lean proteins, whole grains, lots of vegetables, and healthy fats. Jennifer recommended a few specific meal ideas that Li Hua could try, including:\n\n1. Breakfast: Scrambled eggs with spinach and tomatoes on whole-grain toast.\n2. Lunch: Grilled chicken salad with mixed greens, cucumbers, and a vinaigrette.\n3. Snack: Greek yogurt with a handful of nuts and some berries.\n4. Dinner: Baked salmon with quinoa and steamed broccoli.\n\nAdditionally, Jennifer suggested aiming for at least 5 servings of vegetables each day, which aligns with the recommendation to include a variety of leafy greens, bell peppers, and broccoli in meals. Overall, Jennifer's dietary advice focused on providing a wide range of nutrients to support Li Hua's fitness goals, emphasizing whole foods over processed items.",
+  "prediction_sha256": "54d06efe0ef4a48a4e35061e99a074322b091fdb79d0447b22d63ffd937a78d1",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 409,
+  "usage": {
+    "completion_tokens": 194,
+    "prompt_tokens": 4358,
+    "prompt_tokens_details": null,
+    "total_tokens": 4552
+  }
+}

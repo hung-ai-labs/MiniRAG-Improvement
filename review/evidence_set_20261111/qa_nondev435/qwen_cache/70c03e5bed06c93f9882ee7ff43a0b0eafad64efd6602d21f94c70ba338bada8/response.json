@@ -1,0 +1,17 @@
+{
+  "body_sha256": "70c03e5bed06c93f9882ee7ff43a0b0eafad64efd6602d21f94c70ba338bada8",
+  "finish_reason": "stop",
+  "latency_s": 9.48240737499873,
+  "prediction": "In the conversation, JakeWatson mentions a specific match from the Champions League final that he holds dear. Specifically, JakeWatson recalls the match against Manchester United in 2009, highlighting the moment where Lionel Messi lifted the trophy. He describes it as a \"proud moment\" and considers it one of the \"most memorable matches\" involving Barcelona. This particular match showcases Messi's ability to perform under significant pressure, culminating in a decisive victory and a historic moment for the club.",
+  "prediction_sha256": "07f2ac8ed3877fd11e21840f26962f305bd41d5de0985714185213b0ba23ca38",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200228,
+  "usage": {
+    "completion_tokens": 101,
+    "prompt_tokens": 3397,
+    "prompt_tokens_details": null,
+    "total_tokens": 3498
+  }
+}

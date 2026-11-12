@@ -1,0 +1,17 @@
+{
+  "body_sha256": "76958490e65c86da2f50ceda362e2bf987b78ea5674c14aa8122bc75a4da7946",
+  "finish_reason": "stop",
+  "latency_s": 9.119956834001641,
+  "prediction": "During their conversation about the weekend activities, Wolfgang Schulz mentions a plan to explore fusion music by mixing jazz elements with rock. Specifically, he proposes trying to blend these genres during their upcoming jam session. Additionally, Wolfgang and Li Hua decide to visit the local music store on the planned trip, suggesting that the fusion music concept is one of the activities they intend to engage in together. Therefore, Wolfgang Schulz and Li Hua plan to create fusion music by fusing jazz elements with rock music during their weekend trip to the music store.",
+  "prediction_sha256": "007fcc12af07480ad62ea93e1175bbe8f6235464021cf026db8fe0f8164d34e5",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100436,
+  "usage": {
+    "completion_tokens": 109,
+    "prompt_tokens": 3634,
+    "prompt_tokens_details": null,
+    "total_tokens": 3743
+  }
+}

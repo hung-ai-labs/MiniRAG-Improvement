@@ -1,0 +1,17 @@
+{
+  "body_sha256": "74bf31030081b7a4d1a73359c8e03cf20f59740646f89bd40b7d2703abdd662e",
+  "finish_reason": "stop",
+  "latency_s": 9.819865834000666,
+  "prediction": "On April 28, 2026, at 5 PM, there was a conversation between WolfgangSchulz and LiHua centered around plans for a dinner celebration following WolfgangSchulz's recent promotion. LiHua expressed enthusiasm for joining WolfgangSchulz at his favorite Italian restaurant for dinner at 6 PM the following day. WolfgangSchulz confirmed the plan, recommending the same venue for its excellent pasta, which LiHua was looking forward to. This conversation revolves around professional recognition, social plans, and dining out.",
+  "prediction_sha256": "9401b39cff1d6de19a120f7300510898348164621f9bd8f79e6dbeaa3cbc6c5a",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100115,
+  "usage": {
+    "completion_tokens": 113,
+    "prompt_tokens": 5317,
+    "prompt_tokens_details": null,
+    "total_tokens": 5430
+  }
+}

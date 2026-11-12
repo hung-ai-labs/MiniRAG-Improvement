@@ -1,0 +1,17 @@
+{
+  "body_sha256": "b242f5daeba2b0742db82b87425e851547d6bbdbc849dfdcf91d4d03fd46148e",
+  "finish_reason": "stop",
+  "latency_s": 5.439367875002063,
+  "prediction": "According to the conversation, WolfgangSchulz prefers Sichuan-style hot pot. This preference is mentioned during an earlier discussion about dinner plans, where LiHua invites WolfgangSchulz to join him for hot pot, specifying \"Sichuan is my fave.\"",
+  "prediction_sha256": "7224b68bfe43a32ac98d99d11e736d2f6b817eedae907ea976c3d945a71e71fc",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200280,
+  "usage": {
+    "completion_tokens": 56,
+    "prompt_tokens": 4403,
+    "prompt_tokens_details": null,
+    "total_tokens": 4459
+  }
+}

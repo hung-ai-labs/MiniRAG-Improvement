@@ -1,0 +1,17 @@
+{
+  "body_sha256": "9187fd7ad2ef50e01357c15c80f1d8bc569c2239452cf0391bcc504d9512fd5a",
+  "finish_reason": "stop",
+  "latency_s": 3.5714597920014057,
+  "prediction": "In a previous conversation, Adam reminds Li Hua about the building's recycling policy, emphasizing its importance for maintaining environmental health. Specifically, Adam mentions, \"It's really important for us to keep the environment in mind. Let’s all do our part by participating!\" This highlights the building's recycling policy, which requires residents to participate in recycling efforts.",
+  "prediction_sha256": "265ea2ac7b5a12186bf1a1ad4812aadfc83b7accaf89fa4d888072d76cfe9182",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200101,
+  "usage": {
+    "completion_tokens": 71,
+    "prompt_tokens": 3483,
+    "prompt_tokens_details": null,
+    "total_tokens": 3554
+  }
+}

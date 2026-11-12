@@ -1,0 +1,17 @@
+{
+  "body_sha256": "fb41a943f22f570c02d091a1a487b587333ef3a2ac9164788660cb02b560d428",
+  "finish_reason": "stop",
+  "latency_s": 8.08940554199944,
+  "prediction": "In one of the conversations, Li Hua expressed interest in having bread delivered twice a week. Specifically, she asked if Alice could send her bread twice daily, with one delivery at 8 AM on Mondays and another at 8 AM on Fridays. While Hailey Johnson suggested that Alice could handle these deliveries, Li Hua was enthusiastic about the possibility, indicating her willingness to receive bread regularly at those times. This shows that Li Hua prefers a consistent delivery schedule, which Hailey is accommodating through Alice's doorstep delivery service.",
+  "prediction_sha256": "082f981bba9f41d3e494b59537055ac0d009699163a976a89bf464fcf704176a",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100098,
+  "usage": {
+    "completion_tokens": 107,
+    "prompt_tokens": 4580,
+    "prompt_tokens_details": null,
+    "total_tokens": 4687
+  }
+}

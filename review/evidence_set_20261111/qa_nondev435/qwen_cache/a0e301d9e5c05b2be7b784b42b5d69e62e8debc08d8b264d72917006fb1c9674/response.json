@@ -1,0 +1,17 @@
+{
+  "body_sha256": "a0e301d9e5c05b2be7b784b42b5d69e62e8debc08d8b264d72917006fb1c9674",
+  "finish_reason": "stop",
+  "latency_s": 9.480863749999116,
+  "prediction": "According to the conversations recorded, Adam Smith expressed approval for Li Hua adding decorations to the basement, such as sound-insulating pads, provided two conditions are met. Firstly, the modifications must be reversible to ensure that any changes can be undone without causing damage to the existing structure. Secondly, the additions must not cause any harm to the property or interfere with its functionality. Adam Smith emphasized that he was okay with Li Hua making these adjustments, as long as they adhered to these two guidelines.",
+  "prediction_sha256": "447674522e017b21c5677de0bcc8ce1dc46db1e9c5eaeffb3d3878d11ef6cea0",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 78,
+  "usage": {
+    "completion_tokens": 101,
+    "prompt_tokens": 4275,
+    "prompt_tokens_details": null,
+    "total_tokens": 4376
+  }
+}

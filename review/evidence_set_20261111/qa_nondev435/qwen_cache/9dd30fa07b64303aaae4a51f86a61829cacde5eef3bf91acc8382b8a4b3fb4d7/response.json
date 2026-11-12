@@ -1,0 +1,17 @@
+{
+  "body_sha256": "9dd30fa07b64303aaae4a51f86a61829cacde5eef3bf91acc8382b8a4b3fb4d7",
+  "finish_reason": "stop",
+  "latency_s": 8.488904208999884,
+  "prediction": "According to the data, Quillan mentioned that Cersei's desperation for control often shadows her vulnerability. This indicates that while Cersei may sometimes display a softer side, her relentless pursuit of power tends to overshadow or mask her inherent vulnerability.",
+  "prediction_sha256": "242cb247774e6f4214da692a6589eaad3235118d9091ba2f229a690abc928d5c",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 310,
+  "usage": {
+    "completion_tokens": 49,
+    "prompt_tokens": 4789,
+    "prompt_tokens_details": null,
+    "total_tokens": 4838
+  }
+}

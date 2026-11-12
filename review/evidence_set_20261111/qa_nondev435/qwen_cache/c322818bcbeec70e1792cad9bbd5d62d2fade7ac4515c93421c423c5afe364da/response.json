@@ -1,0 +1,17 @@
+{
+  "body_sha256": "c322818bcbeec70e1792cad9bbd5d62d2fade7ac4515c93421c423c5afe364da",
+  "finish_reason": "stop",
+  "latency_s": 7.106565875001252,
+  "prediction": "At the bakery's anniversary event, Li Hua mentioned she had tried a new pastry that Hailey Johnson had introduced, and she enjoyed it. However, there is no explicit mention of a new flavor of bread that Li Hua particularly liked at the event. The conversation primarily focused on the new pastry and the potential for future offerings.",
+  "prediction_sha256": "545508e5aaff2901e221a0df270b4507ac3ab14970c64d49e25e08a3d9d16e9a",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 424,
+  "usage": {
+    "completion_tokens": 68,
+    "prompt_tokens": 4498,
+    "prompt_tokens_details": null,
+    "total_tokens": 4566
+  }
+}

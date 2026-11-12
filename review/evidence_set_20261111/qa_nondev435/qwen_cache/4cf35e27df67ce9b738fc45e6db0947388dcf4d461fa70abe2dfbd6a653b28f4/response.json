@@ -1,0 +1,17 @@
+{
+  "body_sha256": "4cf35e27df67ce9b738fc45e6db0947388dcf4d461fa70abe2dfbd6a653b28f4",
+  "finish_reason": "stop",
+  "latency_s": 9.365050500000507,
+  "prediction": "During the discussion regarding the gathering once the flowers are settled, MalfurionStormrage expressed enthusiasm about the idea. He suggested including activities that could make the gathering more engaging and fun. Specifically, he proposed having games for children, perhaps flower planting workshops for everyone, and mentioned the possibility of hosting a potluck, which could be a great opportunity for everyone to share their favorite dishes. Additionally, he suggested adding live music or entertainment to enhance the atmosphere, which could involve bringing along friends with musical talents.",
+  "prediction_sha256": "756373f6f94663cb0826127ff6723326ef75620dff03532f9029610f90a3a4df",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100341,
+  "usage": {
+    "completion_tokens": 103,
+    "prompt_tokens": 3749,
+    "prompt_tokens_details": null,
+    "total_tokens": 3852
+  }
+}

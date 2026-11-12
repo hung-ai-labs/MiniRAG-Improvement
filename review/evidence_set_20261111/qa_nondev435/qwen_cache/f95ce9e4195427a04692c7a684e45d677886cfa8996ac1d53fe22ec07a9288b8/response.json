@@ -1,0 +1,17 @@
+{
+  "body_sha256": "f95ce9e4195427a04692c7a684e45d677886cfa8996ac1d53fe22ec07a9288b8",
+  "finish_reason": "stop",
+  "latency_s": 5.75984512499781,
+  "prediction": "The installation of the air-conditioner for the basement is scheduled for 6 PM today, as mentioned in the interaction between Adam Smith and Li Hua dated 20260812_11:00. Li Hua confirms her presence at 6 PM to facilitate the installation.",
+  "prediction_sha256": "68b8a7a7d362a60558921fe233b3126e6cfc32eb5bcefe0344a6274b33bf4780",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100165,
+  "usage": {
+    "completion_tokens": 63,
+    "prompt_tokens": 3463,
+    "prompt_tokens_details": null,
+    "total_tokens": 3526
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "22f21ae098651ab42f1ded8bc0cf48a4e406feabd4c4b587744920b3be2340cc",
+  "finish_reason": "stop",
+  "latency_s": 13.65977520800152,
+  "prediction": "In the conversation recorded in Source 17, Li Hua inquires about the frequency of Hailey's bread deliveries. Specifically, Li Hua asks, \"As for deliveries, I can do it a couple of times a week, depending on what you need. I can also arrange a regular schedule for you if that works better! What do you think?\" Hailey responds positively, saying, \"Sounds delicious! I’m definitely interested in the sourdough. 😊 Let’s do a trial run and see how often I might need it.\" This indicates that Li Hua suggests a regular delivery schedule for the sourdough bread, possibly once a week, based on her needs. Li Hua also mentions that she could arrange a more frequent delivery if needed, indicating a flexible approach to the delivery schedule.",
+  "prediction_sha256": "b92b32b7b3d0e750957c28687074877b59ca007256225ae9f1a97bda394f7349",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200098,
+  "usage": {
+    "completion_tokens": 165,
+    "prompt_tokens": 4186,
+    "prompt_tokens_details": null,
+    "total_tokens": 4351
+  }
+}

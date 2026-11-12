@@ -1,0 +1,17 @@
+{
+  "body_sha256": "e03ccc826492a1e8776371535876e6f07dd551bc66ab832c00f8a51b6c666b22",
+  "finish_reason": "stop",
+  "latency_s": 8.922782665998966,
+  "prediction": "Dyllan describes \"Ghost of Tsushima\" as an epic game for its samurai culture. He mentions that the combat is smooth, and the visuals are stunning, noting that you can switch between different combat styles, which encourages experimentation during battles. He also highlights the intensity of duels and the storytelling that leads up to memorable moments. This game stands out for its immersive and detailed portrayal of samurai culture and its engaging gameplay mechanics.",
+  "prediction_sha256": "27805d4eff0ffff2f55c61c7fc7d201e012f4966ac21164ed043a98f0e591992",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 324,
+  "usage": {
+    "completion_tokens": 89,
+    "prompt_tokens": 3854,
+    "prompt_tokens_details": null,
+    "total_tokens": 3943
+  }
+}

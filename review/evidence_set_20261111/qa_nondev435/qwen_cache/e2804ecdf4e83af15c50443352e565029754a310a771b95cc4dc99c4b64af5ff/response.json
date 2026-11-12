@@ -1,0 +1,17 @@
+{
+  "body_sha256": "e2804ecdf4e83af15c50443352e565029754a310a771b95cc4dc99c4b64af5ff",
+  "finish_reason": "stop",
+  "latency_s": 9.168268834000628,
+  "prediction": "In one of the discussions, Turalyon suggested organizing a picnic with games and a potluck. Specifically, he proposed that everyone bring a dish to share, which would transform the event into a potluck. Additionally, he mentioned the possibility of including games to make the picnic more engaging and fun. Therefore, based on the suggestions made, the food event Turalyon was proposing was a picnic with a potluck component.",
+  "prediction_sha256": "0556857e1d80581dce0a0a0cc20f3be8054dd66216beb0daed625560bca6d6ec",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100392,
+  "usage": {
+    "completion_tokens": 86,
+    "prompt_tokens": 3848,
+    "prompt_tokens_details": null,
+    "total_tokens": 3934
+  }
+}

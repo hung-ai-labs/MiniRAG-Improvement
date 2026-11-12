@@ -1,0 +1,17 @@
+{
+  "body_sha256": "362848a4e242711aa95af81e6828f7e8e2a0a678e3153e55786d066fe35ffa99",
+  "finish_reason": "stop",
+  "latency_s": 15.977460207999684,
+  "prediction": "Based on the conversations detailed in the provided data, Hailey Johnson has introduced a new flavor of cheese that has not been explicitly named. However, in one interaction, Hailey mentions a new pastry that she experimented with and received positive feedback from LiHua. Specifically, the conversation states:\n\n```plaintext\nHaileyJohnson: Hey Li Hua! 🌟 Just wanted to check in and see what you thought about the new pastries - the sprinkled cake donuts and red velvet New York cheesecake. Your feedback really helps! 🍩🍰\nLiHua: Hey Hailey! I tried the sprinkled cake donuts and they were amazing! So soft and sweet. The red velvet cheesecake was rich and delicious too. Great job as always! Can’t wait for more! 😊\n```\n\nFrom this exchange, we can infer that Hailey Johnson has likely introduced a new red velvet flavored cheesecake. There is no specific mention of a new weekly flavor cheese in the provided data.",
+  "prediction_sha256": "b0bbe17e2d63e0988598cdde1b8e066cbb26bb4d65f6b08627318d3423b24e8b",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 131,
+  "usage": {
+    "completion_tokens": 205,
+    "prompt_tokens": 3989,
+    "prompt_tokens_details": null,
+    "total_tokens": 4194
+  }
+}

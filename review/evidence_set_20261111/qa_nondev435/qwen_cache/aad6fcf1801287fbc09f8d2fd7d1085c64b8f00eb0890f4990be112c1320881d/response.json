@@ -1,0 +1,17 @@
+{
+  "body_sha256": "aad6fcf1801287fbc09f8d2fd7d1085c64b8f00eb0890f4990be112c1320881d",
+  "finish_reason": "stop",
+  "latency_s": 5.1895763329994224,
+  "prediction": "Bronwyn mentions an emotional scene from \"Red Dead Redemption 2\" where Arthur and the crew are camping under the stars. This quiet moment allowed Bronwyn to feel more invested in the characters' relationships, appreciating the balance of seriousness and humor that made the storytelling so engaging.",
+  "prediction_sha256": "6de5b7f8cb66152e17463c9f53c14adbd73df830d177e53bfc75f9bb485d3211",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200326,
+  "usage": {
+    "completion_tokens": 57,
+    "prompt_tokens": 4223,
+    "prompt_tokens_details": null,
+    "total_tokens": 4280
+  }
+}

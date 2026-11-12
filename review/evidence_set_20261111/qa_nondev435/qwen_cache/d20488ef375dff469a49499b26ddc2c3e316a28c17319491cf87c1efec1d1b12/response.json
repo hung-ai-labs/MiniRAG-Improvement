@@ -1,0 +1,17 @@
+{
+  "body_sha256": "d20488ef375dff469a49499b26ddc2c3e316a28c17319491cf87c1efec1d1b12",
+  "finish_reason": "stop",
+  "latency_s": 10.191424500000721,
+  "prediction": "Based on the provided data, Li Hua requests a delivery from Hailey Johnson specifically for fresh bread. The first instance of a delivery request is recorded on March 14, 2026, at 17:00, where Li Hua inquires about the doorstep delivery service for \"fresh milk and bread.\" This indicates that Li Hua prefers receiving fresh bread through Hailey Johnson's doorstep delivery service, which is offered on a regular basis, particularly for Mondays and Fridays at 8 am. Thereafter, Li Hua continues to receive regular deliveries of fresh bread as indicated in subsequent entries.",
+  "prediction_sha256": "d1d4d492bf52c3d244dba0a2ecdc2068d3b4bf26119e8f94bc07276a1b75b32a",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 93,
+  "usage": {
+    "completion_tokens": 126,
+    "prompt_tokens": 4369,
+    "prompt_tokens_details": null,
+    "total_tokens": 4495
+  }
+}

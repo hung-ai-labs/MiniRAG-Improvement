@@ -1,0 +1,17 @@
+{
+  "body_sha256": "0f50756f5fead27c4754f531e8a50192a1c22abc3eff391a7c78f444f5bf74e9",
+  "finish_reason": "stop",
+  "latency_s": 6.994947750001302,
+  "prediction": " In \"Red Dead Redemption 2,\" Bronwyn recalls an emotional moment during a camping scene under the stars with Arthur and the rest of the crew. She highlights how this personal interaction and the sense of camaraderie significantly impacted her, making her feel more connected to the characters. The quiet, intimate setting allowed for meaningful dialogue and interactions that brought the characters' relationships closer to the player, enhancing the emotional depth of the story. This scene was particularly moving for Bronwyn, as it encapsulated the sense of friendship and unity among the crew members, which was a stark contrast to the game's often tumultuous and conflict-ridden narrative.",
+  "prediction_sha256": "d36ddbfe3807c6f560cc43e834196bc1b54d32c2fc049cd2b99b81596dd8f292",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 326,
+  "usage": {
+    "completion_tokens": 150,
+    "prompt_tokens": 4951,
+    "prompt_tokens_details": null,
+    "total_tokens": 5101
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "a61326734739ff6066708732bf9285fbaa3bf1dcf07f46edc1a555bc0735aed2",
+  "finish_reason": "stop",
+  "latency_s": 10.480937791999168,
+  "prediction": "There is no mention of Adam Smith wanting the window measured in the provided data. The interactions between Adam Smith and Li Hua do not involve any request to measure a window. The interactions primarily revolve around household repairs, such as fixing a broken water tap, a squeaky door hinge, picking up a key, installing curtains, and adding sound-insulating pads to the basement. Adam Smith's role appears to be coordinating these tasks and ensuring that Li Hua's requests are fulfilled as quickly as possible.",
+  "prediction_sha256": "1aacde52e555e65cf8bdf5bd1597cb261b8189328a2c8471748f741fe28d46f8",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 272,
+  "usage": {
+    "completion_tokens": 102,
+    "prompt_tokens": 4392,
+    "prompt_tokens_details": null,
+    "total_tokens": 4494
+  }
+}

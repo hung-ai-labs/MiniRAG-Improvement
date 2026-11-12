@@ -1,0 +1,17 @@
+{
+  "body_sha256": "299da565ec5c111c6fc942babc24f2843714c191169e1c84cabc57aa71da781b",
+  "finish_reason": "stop",
+  "latency_s": 8.912142290999327,
+  "prediction": "JakeWatson emphasizes several characteristics of Real Madrid in his comments. One notable characteristic he highlights is their \"never-say-die\" attitude, specifically referring to their ability to recover from being down in a game and turn things around. He provides an example from a Champions League match against Manchester City in 2022 where they came back to score two goals in quick succession, showcasing their resilience and determination under pressure.",
+  "prediction_sha256": "5501d241261b6ff40e946b9977010c8e843429cefd4d35e65ae8e3ba2f581e78",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100356,
+  "usage": {
+    "completion_tokens": 86,
+    "prompt_tokens": 3902,
+    "prompt_tokens_details": null,
+    "total_tokens": 3988
+  }
+}

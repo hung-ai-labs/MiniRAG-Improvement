@@ -1,0 +1,17 @@
+{
+  "body_sha256": "1a8d16a8470ee9530877dc4a59842566978a8eb7b2952d6c1ee3b79b37a11c17",
+  "finish_reason": "stop",
+  "latency_s": 9.155252958000347,
+  "prediction": "No, there is no more than a single day difference between LiHua confirming receipt of the curtains on \"20261012_10:00\" and Adam asking if the pattern is all good on \"20261012_10:00\". The timeline shows that Adam inquired about the curtain's quality the same day LiHua reported receiving it.",
+  "prediction_sha256": "82acd3b97a427d76532ab0144fc518746b40184341ee1671cacf130d40a7a4e7",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100043,
+  "usage": {
+    "completion_tokens": 86,
+    "prompt_tokens": 4450,
+    "prompt_tokens_details": null,
+    "total_tokens": 4536
+  }
+}

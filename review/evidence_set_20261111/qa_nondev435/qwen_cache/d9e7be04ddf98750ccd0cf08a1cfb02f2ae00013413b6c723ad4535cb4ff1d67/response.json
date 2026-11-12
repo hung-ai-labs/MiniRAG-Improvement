@@ -1,0 +1,17 @@
+{
+  "body_sha256": "d9e7be04ddf98750ccd0cf08a1cfb02f2ae00013413b6c723ad4535cb4ff1d67",
+  "finish_reason": "stop",
+  "latency_s": 11.42845133299852,
+  "prediction": "Li Hua is meeting with Yuriko Yamamoto to discuss updates to the homepage design, specifically regarding the new feature for automatically scheduling available time on the studio's homepage. This discussion took place on March 11th at 10:15 AM. Yuriko Yamamoto requested assistance in testing this new feature, which Li Hua readily offered to help with. Both parties were enthusiastic about the prospect of improving the functionality of the homepage for their mutual benefit.",
+  "prediction_sha256": "3a23364e5350d4fdcfeee1ea14fb8e9c462c78880da4355ac731d3839940a8a6",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 88,
+  "usage": {
+    "completion_tokens": 97,
+    "prompt_tokens": 4495,
+    "prompt_tokens_details": null,
+    "total_tokens": 4592
+  }
+}

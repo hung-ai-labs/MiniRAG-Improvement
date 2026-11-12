@@ -1,0 +1,17 @@
+{
+  "body_sha256": "789b43ced35c2e65f902403afcb1dddf06d8d1f34c5bacb308437f069bb29da2",
+  "finish_reason": "stop",
+  "latency_s": 7.507937250000396,
+  "prediction": "In one of the messages, Li Hua mentions a meeting scheduled for March 6th at 2:00 PM to discuss homepage updates. Specifically, this interaction took place in a conversation between Li Hua and Yuriko Yamamoto on March 3rd, 2026, at 9:30 AM. This indicates that Li Hua is meeting with Yuriko Yamamoto to address her concerns regarding the homepage updates and discuss potential improvements.",
+  "prediction_sha256": "6ca535b03d272c24d2619a138af5864d9022cbb55ccc52243be4d3c62e9bc69a",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100088,
+  "usage": {
+    "completion_tokens": 97,
+    "prompt_tokens": 4122,
+    "prompt_tokens_details": null,
+    "total_tokens": 4219
+  }
+}

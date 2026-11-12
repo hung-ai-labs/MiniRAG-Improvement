@@ -1,0 +1,17 @@
+{
+  "body_sha256": "c7ca65b83c09452559dcaf66b524593f7513fef2badded05b4f031e33463372d",
+  "finish_reason": "stop",
+  "latency_s": 7.239335209000274,
+  "prediction": "LiHua mentions that she saw a poster announcing a local music festival and believes it can be an excellent opportunity for the Jolly Band to perform in front of a crowd. She expresses enthusiasm about the local music festival, which suggests that this event is the one LiHua sees as a potential platform for the band to showcase their music.",
+  "prediction_sha256": "a49a900e6f1499dc79fe93486818c673a396251c4175ae61b4ec3e00e32e4ee9",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100138,
+  "usage": {
+    "completion_tokens": 69,
+    "prompt_tokens": 4595,
+    "prompt_tokens_details": null,
+    "total_tokens": 4664
+  }
+}

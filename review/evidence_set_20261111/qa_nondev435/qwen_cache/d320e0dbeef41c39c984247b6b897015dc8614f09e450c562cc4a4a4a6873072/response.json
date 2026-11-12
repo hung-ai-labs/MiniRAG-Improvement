@@ -1,0 +1,17 @@
+{
+  "body_sha256": "d320e0dbeef41c39c984247b6b897015dc8614f09e450c562cc4a4a4a6873072",
+  "finish_reason": "stop",
+  "latency_s": 10.35900508299892,
+  "prediction": "In the conversation, Wolfgang and Li Hua mention an Italian restaurant called \"Venedia Grancaffe.\" This is the establishment where they are planning to have dinner to celebrate Wolfgang's promotion. Specifically, Wolfgang mentions, \"How about Venedia Grancaffe. They have the best pasta!\" Li Hua agrees enthusiastically, stating, \"Sounds perfect! I’ve been craving their pasta.\" This indicates that Venedia Grancaffe is the Italian restaurant where Wolfgang and Li Hua will gather to mark Wolfgang's promotion.",
+  "prediction_sha256": "4a2dc9936b5462e2c6418daaa5aca89408bcb199a3d763f621727a8e9d25ffc9",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 116,
+  "usage": {
+    "completion_tokens": 101,
+    "prompt_tokens": 4526,
+    "prompt_tokens_details": null,
+    "total_tokens": 4627
+  }
+}

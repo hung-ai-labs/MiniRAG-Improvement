@@ -1,0 +1,17 @@
+{
+  "body_sha256": "bd5b441b4185e25571b8c3348d748e6e8d3cd8d83b3d4f9802bc2176969977af",
+  "finish_reason": "stop",
+  "latency_s": 11.993075833997864,
+  "prediction": "Based on the information provided, Wolfgang is aware that he is traveling to Hong Kong for a business trip. This is evident from a conversation recorded on December 19th, 2026, where Wolfgang informs Li Hua that he will be heading to Hong Kong for a couple of days next week and asks if he needs anything while he is there. Furthermore, on December 21st, 2026, Wolfgang mentions to Li Hua that he will not be able to attend practice due to his upcoming trip to Hong Kong, indicating that he has already informed his fellow musicians about his travel plans. Hence, it can be inferred that Wolfgang has shared this information with Li Hua, Yuriko Yamamoto, and Chae Song-hwa.",
+  "prediction_sha256": "5e5b91a7d1053eb1af9eb2b9355a1ba5b8610fdc07fdc8915dff67296e651a25",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 33,
+  "usage": {
+    "completion_tokens": 157,
+    "prompt_tokens": 4816,
+    "prompt_tokens_details": null,
+    "total_tokens": 4973
+  }
+}

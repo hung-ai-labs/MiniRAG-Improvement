@@ -1,0 +1,17 @@
+{
+  "body_sha256": "ff6cb6e6446150a4ddf4e0e001aa09b00f3f92e4a91bc9708750cc5faab0272a",
+  "finish_reason": "stop",
+  "latency_s": 8.775631167001848,
+  "prediction": " According to the provided conversation transcripts, it is LiHua who volunteers to pick up the snacks and drinks on their way before the movie night. In the interaction leading up to the movie plans, WolfgangSchulz expresses his excitement to join LiHua for the movie, and LiHua confirms her intention to bring some snacks for the occasion:\n\n```markdown\nLiHua: Sounds great! I can bring some chips! What drinks do you want? 🥤\nWolfgangSchulz: Awesome! I'll grab some soda and juice will be perfect. Can't wait for the movie night! 🚀🎥\nLiHua: Cool! I'll pick them up on my way. See you soon! 🎉\n```\n\nThis clearly indicates that LiHua is responsible for the snacks and beverages that will be consumed during the movie night.",
+  "prediction_sha256": "9e5da7906382ddd833558c151d68a31806eb1b38f029940b1703cb0bf9d3afed",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 307,
+  "usage": {
+    "completion_tokens": 213,
+    "prompt_tokens": 4816,
+    "prompt_tokens_details": null,
+    "total_tokens": 5029
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "0d5d296781a17b17a1ba97d58e6ea966eb7e7c77109e8f8b19778a597a8bf83c",
+  "finish_reason": "stop",
+  "latency_s": 10.872415999998339,
+  "prediction": "In the conversations recorded, Malfurion Stormrage emphasizes the importance of active communication among the community members who are volunteering to form a community emergency response team. Specifically, he suggests that it would be beneficial to cover topics such as basic first aid, emergency response protocols, and communication strategies in training sessions. These topics would not only enhance the preparedness of the team but also help in coordinating their efforts more efficiently during actual emergencies. Additionally, Malfurion proposes roles such as team leader, medic, communication officer, and someone responsible for managing logistics, which would help clarify the responsibilities of each member during a response situation.",
+  "prediction_sha256": "9a91bcf7af6bb5c4d8b8c35bdbc08a3f9914495c0dad6caf3329974303021c39",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 335,
+  "usage": {
+    "completion_tokens": 126,
+    "prompt_tokens": 3481,
+    "prompt_tokens_details": null,
+    "total_tokens": 3607
+  }
+}

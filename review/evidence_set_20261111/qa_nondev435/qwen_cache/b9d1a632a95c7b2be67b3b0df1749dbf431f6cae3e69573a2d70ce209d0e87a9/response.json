@@ -1,0 +1,17 @@
+{
+  "body_sha256": "b9d1a632a95c7b2be67b3b0df1749dbf431f6cae3e69573a2d70ce209d0e87a9",
+  "finish_reason": "stop",
+  "latency_s": 6.800923624999996,
+  "prediction": "According to the conversation, Adam Smith, who is described as someone who offers his skills in data analysis and planning as a potential volunteer for the community emergency response team, agrees to allow occasional gatherings of friends. Specifically, Adam mentions that \"having friends over occasionally is fine, just try to keep the gatherings reasonable.\" This implies that while he is open to having friends over, he advises against making frequent or overly large gatherings.",
+  "prediction_sha256": "294b9846876abd568de4905ead4daf35c2940d365d29b8d3710f7fc82209722b",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 58,
+  "usage": {
+    "completion_tokens": 85,
+    "prompt_tokens": 3245,
+    "prompt_tokens_details": null,
+    "total_tokens": 3330
+  }
+}

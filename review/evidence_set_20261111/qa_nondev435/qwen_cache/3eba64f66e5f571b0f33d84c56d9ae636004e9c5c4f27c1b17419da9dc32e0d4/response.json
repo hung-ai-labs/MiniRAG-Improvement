@@ -1,0 +1,17 @@
+{
+  "body_sha256": "3eba64f66e5f571b0f33d84c56d9ae636004e9c5c4f27c1b17419da9dc32e0d4",
+  "finish_reason": "stop",
+  "latency_s": 6.212263416000496,
+  "prediction": "In one of the conversations, LiHua shares a memorable moment from the game \"Black Myth: Wukong.\" Specifically, she mentions, \"I really liked the battle scene where I had to outsmart a giant enemy! The strategy involved was so satisfying, and the graphics made it even more epic.\" This indicates that LiHua enjoyed a particularly challenging and visually impressive boss battle in the game.",
+  "prediction_sha256": "fcd6d5267c5b3bed479dcf7cad76254e32941aae066687e1e5bfa3dde41e66cb",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100378,
+  "usage": {
+    "completion_tokens": 82,
+    "prompt_tokens": 4406,
+    "prompt_tokens_details": null,
+    "total_tokens": 4488
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "66dbf102d2ad81f64481d6437ff7df509b33f7bb946d89a1a84baa4cdfc42e3b",
+  "finish_reason": "stop",
+  "latency_s": 106.64161333300217,
+  "prediction": " Li Hua expressed a particular fondness for the pasta dish they enjoyed at the restaurant they visited together on May 14, 2026. He described the pasta as \"rich and flavorful,\" indicating that it was his standout dish from the experience. Wolfgang also shared his positive feedback on the restaurant, mentioning his enjoyment of the steak and dessert, but the conversation specifically highlights Li Hua's enthusiasm for the pasta, which suggests that it was his favorite part of the meal. Li Hua's excitement about the richness and flavor of the pasta stands out as his favorite aspect of the dining experience at that particular restaurant.",
+  "prediction_sha256": "c4986abef58f18c49d7d09aff5877efcf6fd9bb32b8111978efdac47fdcf0617",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 20,
+  "usage": {
+    "completion_tokens": 149,
+    "prompt_tokens": 5345,
+    "prompt_tokens_details": null,
+    "total_tokens": 5494
+  }
+}

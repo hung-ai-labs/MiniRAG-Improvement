@@ -1,0 +1,17 @@
+{
+  "body_sha256": "45283ee72e25941bf2b2519ef4fb061c205f3baa2bdce01b2e417845a3ea9657",
+  "finish_reason": "stop",
+  "latency_s": 5.706195209000725,
+  "prediction": "According to the conversation, there are two scheduled power outages in the neighborhood. The first one is set for 2pm to 3pm today, while the second one is planned for the afternoon of the following day. Both events are expected to cause disruptions and require planning accordingly.",
+  "prediction_sha256": "f2911d61a3c2d1c011fbe77a16efd6e9c647781343c5f273e2df49da5d8d81b6",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100090,
+  "usage": {
+    "completion_tokens": 58,
+    "prompt_tokens": 4559,
+    "prompt_tokens_details": null,
+    "total_tokens": 4617
+  }
+}

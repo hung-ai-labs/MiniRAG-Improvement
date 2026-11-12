@@ -1,0 +1,17 @@
+{
+  "body_sha256": "01356844da36f724581a86c8d3b8201947bd7c6cc87a8eef2069947dbb85c04b",
+  "finish_reason": "stop",
+  "latency_s": 8.109030500003428,
+  "prediction": "WolfgangSchulz inquires about health products because he has been feeling very tired due to excessive overtime. He seeks advice from his bandmates LiHua and ChaeSong-hwa, hoping to find ways to boost his energy levels. Specifically, he mentions that he has been using magnesium supplements and wonders if anyone else has tried these. His concern aligns with broader discussions around maintaining energy and health among the band members, which often intertwines with their personal experiences and health concerns.",
+  "prediction_sha256": "aa66dec4d233263338d8a2628778ae236429788e518b1e0c7153a21a98c794bb",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 128,
+  "usage": {
+    "completion_tokens": 100,
+    "prompt_tokens": 3656,
+    "prompt_tokens_details": null,
+    "total_tokens": 3756
+  }
+}

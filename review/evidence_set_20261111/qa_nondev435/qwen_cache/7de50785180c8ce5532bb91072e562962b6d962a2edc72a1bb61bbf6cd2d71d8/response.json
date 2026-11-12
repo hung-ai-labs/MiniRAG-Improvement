@@ -1,0 +1,17 @@
+{
+  "body_sha256": "7de50785180c8ce5532bb91072e562962b6d962a2edc72a1bb61bbf6cd2d71d8",
+  "finish_reason": "stop",
+  "latency_s": 7.128311749998829,
+  "prediction": "In the discussion, Bronwyn mentions that she finds the scene where Arthur tells John to take care of his family particularly impactful. This scene highlights Arthur's growth from a rough outlaw to someone who genuinely cares about his loved ones, and it is described as a powerful moment that underscores character development in the game.",
+  "prediction_sha256": "609dc9a01d3802eaf6cca19ce9aaf492c91c0a6fcbc4e218a7ccbe5f33a0b01e",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 326,
+  "usage": {
+    "completion_tokens": 62,
+    "prompt_tokens": 3853,
+    "prompt_tokens_details": null,
+    "total_tokens": 3915
+  }
+}

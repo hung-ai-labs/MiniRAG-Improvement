@@ -1,0 +1,17 @@
+{
+  "body_sha256": "b93a5c0fd79fb394c7e4b0cbf4c5b904005c8b0d1483903ab40dcb6d14825c2b",
+  "finish_reason": "stop",
+  "latency_s": 10.268296124999324,
+  "prediction": "On March 7th, Wolfgang and Li Hua plan to attend a concert together. According to the conversation in the source content, Wolfgang mentions, \"Just a quick reminder about the concert tonight. Want to meet up for dinner around 5 at that new place on Main St.? Let me know! 🎶\" Li Hua responds positively, agreeing to meet up for dinner around 5 PM, indicating that they intend to attend a concert after their dinner plans. Therefore, the name of the concert that Wolfgang and Li Hua will attend on March 7th is the one mentioned by Wolfgang.",
+  "prediction_sha256": "4598173a43f87d6c9ac99636a59e0a7501554a33c69fd3267e66368cf9e6d0f1",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100415,
+  "usage": {
+    "completion_tokens": 123,
+    "prompt_tokens": 4426,
+    "prompt_tokens_details": null,
+    "total_tokens": 4549
+  }
+}

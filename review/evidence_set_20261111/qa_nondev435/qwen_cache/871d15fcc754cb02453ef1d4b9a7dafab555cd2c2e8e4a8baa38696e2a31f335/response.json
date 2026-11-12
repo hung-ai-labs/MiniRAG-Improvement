@@ -1,0 +1,17 @@
+{
+  "body_sha256": "871d15fcc754cb02453ef1d4b9a7dafab555cd2c2e8e4a8baa38696e2a31f335",
+  "finish_reason": "stop",
+  "latency_s": 8.267370667002979,
+  "prediction": "In the conversation provided, Adam Smith is the one who invites Li Hua to join the community bake sale. This event is described as taking place this Sunday at 3 PM to support a local charity. Adam initiates the conversation by suggesting that Li Hua join the bake sale, emphasizing that it would be a great opportunity for both of them to support the cause and potentially meet some neighbors.",
+  "prediction_sha256": "12e233fbef5bdf085516d1fa52ca953192802b970652e0df178d7605aa44109b",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200092,
+  "usage": {
+    "completion_tokens": 80,
+    "prompt_tokens": 3849,
+    "prompt_tokens_details": null,
+    "total_tokens": 3929
+  }
+}

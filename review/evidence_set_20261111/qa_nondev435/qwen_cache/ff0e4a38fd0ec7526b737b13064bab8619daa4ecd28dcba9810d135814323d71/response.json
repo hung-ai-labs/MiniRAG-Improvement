@@ -1,0 +1,17 @@
+{
+  "body_sha256": "ff0e4a38fd0ec7526b737b13064bab8619daa4ecd28dcba9810d135814323d71",
+  "finish_reason": "stop",
+  "latency_s": 7.22850441600167,
+  "prediction": "Turalyon suggested organizing a weekend picnic as a community gathering. He proposed a variety of activities and mentioned the possibility of a potluck where everyone could bring dishes to share. Additionally, he suggested having games and perhaps some music to enhance the atmosphere and enjoyment of the event.",
+  "prediction_sha256": "6ba05ec5ade3f7d7f6f09839cd0a6966a6a6dd14e8c4a57d4ed4e50b676e4bfe",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100392,
+  "usage": {
+    "completion_tokens": 56,
+    "prompt_tokens": 4299,
+    "prompt_tokens_details": null,
+    "total_tokens": 4355
+  }
+}

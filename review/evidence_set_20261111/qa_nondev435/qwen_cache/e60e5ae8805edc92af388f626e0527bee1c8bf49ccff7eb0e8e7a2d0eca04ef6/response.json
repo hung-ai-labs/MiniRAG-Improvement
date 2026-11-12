@@ -1,0 +1,17 @@
+{
+  "body_sha256": "e60e5ae8805edc92af388f626e0527bee1c8bf49ccff7eb0e8e7a2d0eca04ef6",
+  "finish_reason": "stop",
+  "latency_s": 11.410296708003443,
+  "prediction": "Based on the conversations recorded, Wolfgang Schulz expressed a preference for Sichuan cuisine, which is his favorite regional style of food. However, the specific dessert that Li Hua ordered after their meal of Sichuan hot pot was not mentioned in the provided data. The interactions discussed revolve mainly around their preferences for different cuisines and dishes, but the dessert choice after the hot pot dinner was not detailed. Therefore, no specific dessert can be identified for this scenario.",
+  "prediction_sha256": "84cfd6306679a13aed8bc42e82779214f357dac1d9038680268870992d9c02cb",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100408,
+  "usage": {
+    "completion_tokens": 96,
+    "prompt_tokens": 4574,
+    "prompt_tokens_details": null,
+    "total_tokens": 4670
+  }
+}

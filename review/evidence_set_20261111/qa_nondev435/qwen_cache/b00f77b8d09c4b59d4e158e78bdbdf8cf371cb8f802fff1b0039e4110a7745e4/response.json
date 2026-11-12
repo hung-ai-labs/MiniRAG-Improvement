@@ -1,0 +1,17 @@
+{
+  "body_sha256": "b00f77b8d09c4b59d4e158e78bdbdf8cf371cb8f802fff1b0039e4110a7745e4",
+  "finish_reason": "stop",
+  "latency_s": 10.157169250000152,
+  "prediction": "Based on the conversation, Li Hua expresses enthusiasm about the curtains she received from Adam Smith. Specifically, she mentions liking the patterns of the curtains. However, no further details are provided about her specific preferences regarding the material, color, design, or functionality of the curtains.",
+  "prediction_sha256": "8746d51aa1fe75120868b4e190fe4ed0a2ca6d39a03caf17a50ef477a9dab9ff",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200334,
+  "usage": {
+    "completion_tokens": 56,
+    "prompt_tokens": 4425,
+    "prompt_tokens_details": null,
+    "total_tokens": 4481
+  }
+}

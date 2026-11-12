@@ -1,0 +1,17 @@
+{
+  "body_sha256": "46387b053bb75ce8cdfe1e711ac178ca00a473a600e2673c882cbfe4fc839123",
+  "finish_reason": "stop",
+  "latency_s": 7.237897875002091,
+  "prediction": "The discussion regarding the garage sale appears in the conversation between AdamSmith and LiHua, which took place on 20260312 at 12:30. The event is described as a recurring event where people sell unwanted items to raise money or support a local charity. LiHua expressed enthusiasm to participate in the event and help out.",
+  "prediction_sha256": "846a84769320992b96a606100ea7e85e7ee642a2d74c0c5a89888abb4b635d33",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 168,
+  "usage": {
+    "completion_tokens": 76,
+    "prompt_tokens": 4971,
+    "prompt_tokens_details": null,
+    "total_tokens": 5047
+  }
+}

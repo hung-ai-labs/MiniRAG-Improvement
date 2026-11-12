@@ -1,0 +1,17 @@
+{
+  "body_sha256": "d134ab07a0aadfa33fe6ad5f0c8c1a99d8322e24859e580696d140970488f2a8",
+  "finish_reason": "stop",
+  "latency_s": 10.153027583000949,
+  "prediction": " - **Conversation 1:** WolfgangSchulz suggests getting pizza for dinner in the first conversation. He says, \"Hey man! Wanna grab some pizza for dinner after work? 🍕\"\n\n- **Conversation 2:** WolfgangSchulz again proposes going to a new pizza place downtown, indicating his interest in having pizza for dinner, \"I'm a fan of that new pizza place downtown. Heard they have some amazing toppings! What do you think?\"\n\n- **Conversation 5:** WolfgangSchulz and LiHua agree on going to their favorite Italian place for dinner. He suggests the timing, \"How about we go around 7? That way we can catch up and chill a bit before we dive into the food!\"\n\nIn summary, WolfgangSchulz is the one who initiates the idea of getting pizza for dinner in these exchanges. Both he and LiHua show enthusiasm for the plan, eventually agreeing on a time and place to enjoy their meal together.",
+  "prediction_sha256": "6c2fb1ee90b75bc244a1f96a52abd2252c517ad8582ae4fa034b40bb59398f0e",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 100365,
+  "usage": {
+    "completion_tokens": 240,
+    "prompt_tokens": 4812,
+    "prompt_tokens_details": null,
+    "total_tokens": 5052
+  }
+}

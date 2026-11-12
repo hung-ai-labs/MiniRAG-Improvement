@@ -1,0 +1,17 @@
+{
+  "body_sha256": "65b6e115d8a070f570934613e364ddb9fc1533f921b8decd12ae3c3868cc1491",
+  "finish_reason": "stop",
+  "latency_s": 10.70985254200059,
+  "prediction": "Based on the conversations recorded, Jennifer Moore offered several pieces of advice and exercises for Li Hua to perform at home. Initially, Jennifer encouraged Li Hua to consider a home workout or some stretches to maintain his fitness level even during breaks. Later, she specifically suggested incorporating a mix of cardio and strength exercises into his routine. Additionally, she recommended that Li Hua try a variety of exercises including HIIT, weight training, and dynamic stretches, which can help maintain and enhance his fitness levels. Jennifer emphasized the importance of consistency and proper form in all these exercises.",
+  "prediction_sha256": "e6f79af0b3865b14a35f7ed002e7c1836ad7c89ca2f4caefad58629e6caa5c5b",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100077,
+  "usage": {
+    "completion_tokens": 114,
+    "prompt_tokens": 3815,
+    "prompt_tokens_details": null,
+    "total_tokens": 3929
+  }
+}

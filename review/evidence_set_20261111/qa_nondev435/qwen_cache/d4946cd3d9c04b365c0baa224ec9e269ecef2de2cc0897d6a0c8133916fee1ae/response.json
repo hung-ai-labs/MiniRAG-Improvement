@@ -1,0 +1,17 @@
+{
+  "body_sha256": "d4946cd3d9c04b365c0baa224ec9e269ecef2de2cc0897d6a0c8133916fee1ae",
+  "finish_reason": "stop",
+  "latency_s": 6.727184875002422,
+  "prediction": "In their conversation regarding the karaoke night, WolfgangSchulz suggests that the group finalize the date and give it a good vibe. The group agrees to aim for a Friday evening for the karaoke night. WolfgangSchulz also mentions that they should pick their songs before Friday so they are prepared for the event. The date and preparation for the karaoke night have been set, ensuring a smooth and enjoyable experience for everyone involved.",
+  "prediction_sha256": "581e570a9cf9bb518a73c0c6fa5b5a95676b6cc3ec11faa02908c5fe74110751",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100372,
+  "usage": {
+    "completion_tokens": 88,
+    "prompt_tokens": 4519,
+    "prompt_tokens_details": null,
+    "total_tokens": 4607
+  }
+}

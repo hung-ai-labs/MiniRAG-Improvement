@@ -1,0 +1,17 @@
+{
+  "body_sha256": "13bc26bbbdc1b503bdb99c779f4c4e84af23cb3f14d95a7a4e811cc1dfdd1244",
+  "finish_reason": "stop",
+  "latency_s": 5.1701250829974015,
+  "prediction": " Gavriel has recently become hooked on the game \"Persona 5 Royal.\" This game stands out to him due to its blend of role-playing game (RPG) elements and social simulation. He appreciates the depth the game offers in battles, where players must consider elemental weaknesses, and enjoys the strategic layer added by character relationships. The art style of the game is also highlighted as gorgeous, adding to the overall enjoyment.",
+  "prediction_sha256": "4da04b653167a3e1e05b5316f77d660c4e346bd7d42d8a3f5ced378c0dcc66f6",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 197,
+  "usage": {
+    "completion_tokens": 101,
+    "prompt_tokens": 4769,
+    "prompt_tokens_details": null,
+    "total_tokens": 4870
+  }
+}

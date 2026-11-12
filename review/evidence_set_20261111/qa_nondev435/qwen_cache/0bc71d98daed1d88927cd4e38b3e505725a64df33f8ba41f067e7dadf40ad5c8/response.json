@@ -1,0 +1,17 @@
+{
+  "body_sha256": "0bc71d98daed1d88927cd4e38b3e505725a64df33f8ba41f067e7dadf40ad5c8",
+  "finish_reason": "stop",
+  "latency_s": 8.702880042001198,
+  "prediction": "Based on the conversations provided, Wolfgang Schulz prefers a classic cheeseburger setup, typically including lettuce, tomato, and pickles. He expresses a preference for keeping it simple and straightforward, focusing on the classic flavor profile without adding excessive toppings. However, his preferences seem to be somewhat flexible, as he enjoys a little spice occasionally, though he generally prefers a milder option. There isn't a specific list of toppings he consistently favors, but his usual setup leans towards the classic ingredients.",
+  "prediction_sha256": "5cf27722d8faa1a86e9fdc6ca898546d7d7f2a0a77667efc39503ef441281caa",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200187,
+  "usage": {
+    "completion_tokens": 98,
+    "prompt_tokens": 4722,
+    "prompt_tokens_details": null,
+    "total_tokens": 4820
+  }
+}

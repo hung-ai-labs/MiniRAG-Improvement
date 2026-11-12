@@ -1,0 +1,17 @@
+{
+  "body_sha256": "7c8f59eaa7cd54641a2014c2d97cec245ffeb0a098e728c2dc344302e47b1bb5",
+  "finish_reason": "stop",
+  "latency_s": 17.970459167001536,
+  "prediction": "In the conversations provided, multiple instances of soccer practice are discussed. Specifically, Jake Watson and Li Hua plan to meet for soccer practice on multiple occasions. For example:\n\n- In the conversation recorded at `20261109_09:00`, Li Hua suggests a Saturday afternoon practice, specifically stating \"Let me know what time works for you!\" Jake Watson responds positively, saying \"Saturday afternoon works great for me! We can meet up at the usual spot.\"\n\n- Additionally, in the conversation recorded at `20261105_15:00`, Jake Watson mentions, \"We could practice some drills and go over the rules while playing. It'll be fun! Let me know when you're free and we can hit the field.\"\n\nThus, they plan to meet for soccer practice on Saturdays at various times, with Jake Watson suggesting \"Saturday afternoon\" as a suitable time for practice. There isn't a single specific time mentioned, but Saturday afternoons seem to be the preferred time for these sessions.",
+  "prediction_sha256": "43078e595cb3680484921c0107838996ea2b13624bb79de837cc43432f5048f3",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 362,
+  "usage": {
+    "completion_tokens": 216,
+    "prompt_tokens": 5140,
+    "prompt_tokens_details": null,
+    "total_tokens": 5356
+  }
+}

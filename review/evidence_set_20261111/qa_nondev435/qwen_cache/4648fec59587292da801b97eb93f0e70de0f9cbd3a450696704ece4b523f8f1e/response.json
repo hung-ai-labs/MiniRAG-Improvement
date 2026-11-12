@@ -1,0 +1,17 @@
+{
+  "body_sha256": "4648fec59587292da801b97eb93f0e70de0f9cbd3a450696704ece4b523f8f1e",
+  "finish_reason": "stop",
+  "latency_s": 10.523456291000912,
+  "prediction": "Based on the conversation recorded under the timestamp 20260702_15:00, WolfgangSchulz mentions his intention to try the restaurant's pad thai and possibly some spring rolls. Therefore, the dishes Wolfgang wants to try at the Thai restaurant on 20260702 are pad thai and spring rolls.",
+  "prediction_sha256": "066b7f353810ee72f257dc7105c22143bf5d99b8cca3c98154439d4a3b2ad48f",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100147,
+  "usage": {
+    "completion_tokens": 74,
+    "prompt_tokens": 5620,
+    "prompt_tokens_details": null,
+    "total_tokens": 5694
+  }
+}

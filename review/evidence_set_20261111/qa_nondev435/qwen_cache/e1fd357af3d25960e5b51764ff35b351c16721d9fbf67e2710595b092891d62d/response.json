@@ -1,0 +1,17 @@
+{
+  "body_sha256": "e1fd357af3d25960e5b51764ff35b351c16721d9fbf67e2710595b092891d62d",
+  "finish_reason": "stop",
+  "latency_s": 13.770450500000152,
+  "prediction": "Based on the information provided, Wolfgang is aware that he is traveling to Hong Kong. This is indicated through two entries in the sources table. In the first entry dated 20261219_19:00, WolfgangSchulz mentions he is \"off to Hong Kong for a couple of days next week.\" Additionally, in a later entry dated 20261221_12:00, WolfgangSchulz informs everyone that he has a business trip to Hong Kong and updates the group on his plans. Therefore, Wolfgang is the only individual mentioned to know about his upcoming trip to Hong Kong.",
+  "prediction_sha256": "8f54c0d61c17a86f2cd0b8e3802afb1c95d07b8b2cd6cafdf2038edc9c9be192",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 33,
+  "usage": {
+    "completion_tokens": 134,
+    "prompt_tokens": 4836,
+    "prompt_tokens_details": null,
+    "total_tokens": 4970
+  }
+}

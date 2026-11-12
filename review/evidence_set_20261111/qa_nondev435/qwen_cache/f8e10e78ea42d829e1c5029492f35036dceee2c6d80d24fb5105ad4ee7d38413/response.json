@@ -1,0 +1,17 @@
+{
+  "body_sha256": "f8e10e78ea42d829e1c5029492f35036dceee2c6d80d24fb5105ad4ee7d38413",
+  "finish_reason": "stop",
+  "latency_s": 7.05214154100031,
+  "prediction": "Based on the conversation, ChaeSong-hwa organized a karaoke activity for a Saturday at 7 PM, which is described in the entry with the timestamp \"20260421_16:00\". This indicates that the karaoke event was planned for April 21st. No other karaoke activities organized by ChaeSong-hwa are mentioned in the provided entries.",
+  "prediction_sha256": "3d88ea3e2a41518c170cca81c7ba098476dfc83f6385b505ae9711c1438dbe1a",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200112,
+  "usage": {
+    "completion_tokens": 84,
+    "prompt_tokens": 3775,
+    "prompt_tokens_details": null,
+    "total_tokens": 3859
+  }
+}

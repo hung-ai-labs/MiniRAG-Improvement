@@ -1,0 +1,17 @@
+{
+  "body_sha256": "4549672458fd410a11a90e9454d196d6dea5f65d0502de5602206c4b0eba8897",
+  "finish_reason": "stop",
+  "latency_s": 15.58972879099747,
+  "prediction": "Based on the conversations between Jennifer Moore and Li Hua, Jennifer Moore suggested a balanced meal plan that includes lean proteins, whole grains, lots of vegetables, and healthy fats. Specifically, she recommended focusing on whole foods and providing examples of meals such as scrambled eggs with spinach and tomatoes on whole-grain toast for breakfast, grilled chicken salad with mixed greens, cucumbers, and a vinaigrette for lunch, Greek yogurt with a handful of nuts and some berries as a snack, and baked salmon with quinoa and steamed broccoli for dinner. Li Hua indicated he was following this advice and had been \"pretty good\" with sticking to his meal prep and maintaining a healthy diet without junk food cravings. Thus, the diet that Li Hua followed according to Jennifer Moore's recommendations included a variety of nutrient-dense foods such as lean proteins, whole grains, leafy greens, and vegetables, supplemented with healthy fats and hydration.",
+  "prediction_sha256": "5c56ccc8035ca9f31d6699c9c13a7ca65804af64b7a7598b14c915ecc64497ba",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100409,
+  "usage": {
+    "completion_tokens": 189,
+    "prompt_tokens": 3657,
+    "prompt_tokens_details": null,
+    "total_tokens": 3846
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "91c3175b30f10e886f0c6c64741dfc9a37587cd9a20908e254e8eb830dd6296f",
+  "finish_reason": "stop",
+  "latency_s": 8.983824458999152,
+  "prediction": "The introduction of the bread delivery service was highlighted in a previous conversation where HaileyJohnson announced the launch of a new line of gluten-free bread options and hired a new clerk named Alice to assist with doorstep delivery services for both milk and bread. Specifically, HaileyJohnson shared, \"I've hired a new clerk, Alice, to help with our doorstep delivery service for milk and bread. She's super friendly and will be taking care of your orders every Monday and Friday at 8am.\" This indicates that Alice was recommended for the delivery role due to her friendliness and suitability for the delivery tasks.",
+  "prediction_sha256": "5a5c9033f654bdf805d3cbfd4901e53531fa10191a6934b3e6e25326ae85db73",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200035,
+  "usage": {
+    "completion_tokens": 121,
+    "prompt_tokens": 4225,
+    "prompt_tokens_details": null,
+    "total_tokens": 4346
+  }
+}

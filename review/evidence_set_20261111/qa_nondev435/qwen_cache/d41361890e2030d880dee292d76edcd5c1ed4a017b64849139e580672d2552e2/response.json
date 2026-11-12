@@ -1,0 +1,17 @@
+{
+  "body_sha256": "d41361890e2030d880dee292d76edcd5c1ed4a017b64849139e580672d2552e2",
+  "finish_reason": "stop",
+  "latency_s": 13.978648457999952,
+  "prediction": "In soccer, wearing the right footwear is crucial for several reasons. Firstly, it helps prevent injuries, such as slips or sprains, which can occur due to poor traction or inadequate support. Proper footwear ensures that players have a secure grip on the ground, allowing them to move freely and efficiently during games and practices. Additionally, the correct type of shoe can enhance comfort, which is vital for maintaining performance levels throughout long matches or intense training sessions. Therefore, choosing the right footwear is not just about style; it significantly impacts the safety and effectiveness of a player's performance in the sport.",
+  "prediction_sha256": "5556560de5a545548f32040869ee17ce9f53d56d9ac413ec9adb56f8a30cf7cc",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100207,
+  "usage": {
+    "completion_tokens": 118,
+    "prompt_tokens": 5089,
+    "prompt_tokens_details": null,
+    "total_tokens": 5207
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "693f82767e82080706fc68052cc2e0623e9b96cbcfaccb0c060a20c78174af19",
+  "finish_reason": "stop",
+  "latency_s": 10.906786207997357,
+  "prediction": "According to the records, ChaeSong-hwa reminded LiHua about the community medical knowledge lecture, which is scheduled for the evening of April 11th at 7 PM. This is indicated in the first source entry, which states \"Time: 20260411_16:00\". The description of the event is also noted, stating it is a lecture on basic health tips and common medical myths aimed at the community.",
+  "prediction_sha256": "6415f700e0aed88194d09892ee1e6769ce1e7335e5b3252f2f1c68caff5fd48c",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 106,
+  "usage": {
+    "completion_tokens": 96,
+    "prompt_tokens": 4494,
+    "prompt_tokens_details": null,
+    "total_tokens": 4590
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "7a72ec7efce555029760a2b7474601fcae9e4163422e4cd9a0a79834cfacb900",
+  "finish_reason": "stop",
+  "latency_s": 11.36186325000017,
+  "prediction": "In the conversation, Li Hua expresses interest in receiving bread more frequently. Initially, she asks Hailey if it would be possible to receive bread twice a week, specifically mentioning Mondays at 8 am and Fridays at 8 am. However, this suggestion is not directly confirmed by Hailey. Instead, Hailey mentions setting up a regular schedule for Li Hua, indicating that Li Hua can provide further details on her preferred delivery frequency. This shows that while Li Hua prefers a more frequent delivery schedule, the exact timing and frequency remain to be determined by Li Hua herself.",
+  "prediction_sha256": "17ade97e6b92337237268273f01bed520484bf13cd7c48b46252d301e0d12232",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100098,
+  "usage": {
+    "completion_tokens": 119,
+    "prompt_tokens": 4580,
+    "prompt_tokens_details": null,
+    "total_tokens": 4699
+  }
+}

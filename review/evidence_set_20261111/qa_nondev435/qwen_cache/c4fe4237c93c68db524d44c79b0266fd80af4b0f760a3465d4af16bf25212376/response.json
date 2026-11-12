@@ -1,0 +1,17 @@
+{
+  "body_sha256": "c4fe4237c93c68db524d44c79b0266fd80af4b0f760a3465d4af16bf25212376",
+  "finish_reason": "stop",
+  "latency_s": 10.145441959000891,
+  "prediction": "No, there is no mention of Jennifer challenging Li Hua to do 60 pull-ups in a training session. The only push-up-related challenge mentioned in the provided data is where Jennifer challenged Li Hua to complete 100 push-ups in a session, scheduled for Tuesday at 10:00 AM. No other push-up challenges or higher numbers of pull-ups were mentioned.",
+  "prediction_sha256": "b93f0572cb4ab2208fd8e891f0832aa62a8067806cca064d2fbe83d4a7c024b2",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200028,
+  "usage": {
+    "completion_tokens": 81,
+    "prompt_tokens": 4658,
+    "prompt_tokens_details": null,
+    "total_tokens": 4739
+  }
+}

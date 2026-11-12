@@ -1,0 +1,17 @@
+{
+  "body_sha256": "9e4e20dcf687ffa3acbb6fd443760b7096360cbd4c296aeb837c5c6649fec1cd",
+  "finish_reason": "stop",
+  "latency_s": 3.2598181249995832,
+  "prediction": "There is no mention of a team swimming competition scheduled for December in the provided conversations. The interactions discussed in the text revolve around general fitness advice, updates on new classes, personal achievements, and motivational comments. Specifically, Jennifer encouraged Li Hua to push herself with her workouts, offered support regarding her progress, and reminded her to focus on maintaining good form during challenging sessions. No details were given about a future swimming competition.",
+  "prediction_sha256": "61cdd63777ca92e464c15e99f46694cbe595435d9aabd24df68e9554dd8849ce",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 442,
+  "usage": {
+    "completion_tokens": 86,
+    "prompt_tokens": 4219,
+    "prompt_tokens_details": null,
+    "total_tokens": 4305
+  }
+}

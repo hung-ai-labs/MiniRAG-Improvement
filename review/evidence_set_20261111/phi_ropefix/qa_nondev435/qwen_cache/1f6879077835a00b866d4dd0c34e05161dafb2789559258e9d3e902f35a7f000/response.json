@@ -1,0 +1,17 @@
+{
+  "body_sha256": "1f6879077835a00b866d4dd0c34e05161dafb2789559258e9d3e902f35a7f000",
+  "finish_reason": "stop",
+  "latency_s": 5.586682708999433,
+  "prediction": " The provided data tables and sources do not contain any information regarding a person named Jake recommending specific exercises for strength training. The discussion focuses on Jennifer Moore and her recommendations for Li Hua, as well as general strength training exercises. Since there is no mention or data about Jake's recommendations in the given tables or sources, I am unable to provide details on the type of exercises he suggests for strength training. If such information exists, it was not included in the provided data.",
+  "prediction_sha256": "005b5e6f494e19b3d24de20b58f103edd213753dd4ab5d1ff2ca13ee56b32488",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 209,
+  "usage": {
+    "completion_tokens": 109,
+    "prompt_tokens": 5243,
+    "prompt_tokens_details": null,
+    "total_tokens": 5352
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "ecf7a89cb849295ce1a0c0a59329c47cbe301954c92335453a93e03a4fc80c32",
+  "finish_reason": "stop",
+  "latency_s": 4.922042582998984,
+  "prediction": " Jasper recommends the 2005 final between Liverpool and AC Milan as a classic must-watch UCL match. He highlights the match as a classic due to the incredible comeback Liverpool made, overcoming a 3-0 deficit at halftime to win in penalties. The drama and intensity of that match are what Jasper finds most captivating, showcasing the unpredictable nature of soccer that makes it so enjoyable.",
+  "prediction_sha256": "5efc63ef41a28bf82913de724398dda270648bf6320947623007c0b84156ec46",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 200182,
+  "usage": {
+    "completion_tokens": 102,
+    "prompt_tokens": 4250,
+    "prompt_tokens_details": null,
+    "total_tokens": 4352
+  }
+}

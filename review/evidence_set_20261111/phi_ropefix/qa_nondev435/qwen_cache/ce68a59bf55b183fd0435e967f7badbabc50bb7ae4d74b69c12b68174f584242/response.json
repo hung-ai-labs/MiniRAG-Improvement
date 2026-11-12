@@ -1,0 +1,17 @@
+{
+  "body_sha256": "ce68a59bf55b183fd0435e967f7badbabc50bb7ae4d74b69c12b68174f584242",
+  "finish_reason": "stop",
+  "latency_s": 3.255134792001627,
+  "prediction": " The provided data tables and information sources do not contain any details regarding the Wi-Fi password for Li Hua's house. Therefore, I am unable to provide the Wi-Fi password as the necessary information is not available in the given data.",
+  "prediction_sha256": "a3ea42e0aac87dba0cf15f2b776d5eb4954144a1bbcb2bacdd91f74014ec7b94",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 57,
+  "usage": {
+    "completion_tokens": 51,
+    "prompt_tokens": 4937,
+    "prompt_tokens_details": null,
+    "total_tokens": 4988
+  }
+}

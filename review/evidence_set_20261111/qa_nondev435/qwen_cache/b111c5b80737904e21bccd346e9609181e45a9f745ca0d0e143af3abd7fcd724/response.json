@@ -1,0 +1,17 @@
+{
+  "body_sha256": "b111c5b80737904e21bccd346e9609181e45a9f745ca0d0e143af3abd7fcd724",
+  "finish_reason": "stop",
+  "latency_s": 9.40328820799914,
+  "prediction": "Yuriko Yamamoto considers adding a user feedback section to her studio's homepage. She believes this could be a valuable tool to improve her services and gather insights from her clients. Additionally, she envisions incorporating a blog section on the homepage to share insights about speech therapy, success stories, and possibly music therapy. These additions aim to engage her audience, showcase her expertise, and provide a platform for community outreach.",
+  "prediction_sha256": "445458bd1993053a6cb79c3239d3b7946e9bdaea6fee5c5973304603ae3e79f4",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100089,
+  "usage": {
+    "completion_tokens": 84,
+    "prompt_tokens": 4720,
+    "prompt_tokens_details": null,
+    "total_tokens": 4804
+  }
+}

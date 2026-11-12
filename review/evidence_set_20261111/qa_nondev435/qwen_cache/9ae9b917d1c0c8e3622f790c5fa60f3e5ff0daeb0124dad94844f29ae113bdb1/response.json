@@ -1,0 +1,17 @@
+{
+  "body_sha256": "9ae9b917d1c0c8e3622f790c5fa60f3e5ff0daeb0124dad94844f29ae113bdb1",
+  "finish_reason": "stop",
+  "latency_s": 8.887826250000217,
+  "prediction": "According to the information provided, Wolfgang mentions Spider-Man as his favorite superhero. This can be inferred from the conversation where Wolfgang and LiHua discuss their favorite heroes and Wolfgang specifically states, \"Spider-Man is awesome! I have a soft spot for Iron Man though. The tech and personality are just cool.\" While Wolfgang does express a preference for Iron Man, his favorite superhero is Spider-Man.",
+  "prediction_sha256": "41b529679d4de2d4adb4897674c2e2d81fbe1f9d521337700d4fe5a12b29fca1",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100156,
+  "usage": {
+    "completion_tokens": 79,
+    "prompt_tokens": 4792,
+    "prompt_tokens_details": null,
+    "total_tokens": 4871
+  }
+}

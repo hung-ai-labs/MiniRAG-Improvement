@@ -1,0 +1,17 @@
+{
+  "body_sha256": "c39a2c19e04b143a9cc79ecd8e2974c3a3a014ae10392078bf18703137f05ade",
+  "finish_reason": "stop",
+  "latency_s": 10.679538249998586,
+  "prediction": "WolfgangSchulz inquires about health products from the band members because he has been feeling very tired lately due to the overtime he has been working. He seeks advice on potential health products that might help boost his energy levels. Specifically, he asks LiHua and ChaeSong-hwa for their opinions on what supplements or foods might be beneficial for him, suggesting vitamins, energy drinks, magnesium supplements, and emphasizing the importance of hydration and adequate sleep. This inquiry reflects WolfgangSchulz's concern for his health and his desire to maintain his productivity amidst his demanding schedule.",
+  "prediction_sha256": "d649e89773fc77950eaceb36464dde3af5e0a09cc01762ed9204ecf2212efcab",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100128,
+  "usage": {
+    "completion_tokens": 118,
+    "prompt_tokens": 4451,
+    "prompt_tokens_details": null,
+    "total_tokens": 4569
+  }
+}

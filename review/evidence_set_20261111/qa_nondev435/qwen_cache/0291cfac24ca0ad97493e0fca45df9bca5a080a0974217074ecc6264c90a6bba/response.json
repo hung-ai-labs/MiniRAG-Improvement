@@ -1,0 +1,17 @@
+{
+  "body_sha256": "0291cfac24ca0ad97493e0fca45df9bca5a080a0974217074ecc6264c90a6bba",
+  "finish_reason": "stop",
+  "latency_s": 9.893460416999005,
+  "prediction": "In the provided context, Adam Smith organizes and invites Li Hua to participate in the community bake sale. This invitation is detailed in the first source, where Adam Smith initiates a conversation with Li Hua regarding the upcoming bake sale event. He suggests that Li Hua should join to support a local charity and mentions it would be a good opportunity to meet some neighbors. Li Hua agrees enthusiastically, indicating her interest in attending and helping out. Therefore, based on the information available, Adam Smith is the one who invites Li Hua to join the community bake sale.",
+  "prediction_sha256": "5e03a9c03a744486b3c5a292a3378e6b5439364b1755b683db62533233435784",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100092,
+  "usage": {
+    "completion_tokens": 116,
+    "prompt_tokens": 3849,
+    "prompt_tokens_details": null,
+    "total_tokens": 3965
+  }
+}

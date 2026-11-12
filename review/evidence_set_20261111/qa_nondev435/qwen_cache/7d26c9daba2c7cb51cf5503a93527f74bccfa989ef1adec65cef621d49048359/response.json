@@ -1,0 +1,17 @@
+{
+  "body_sha256": "7d26c9daba2c7cb51cf5503a93527f74bccfa989ef1adec65cef621d49048359",
+  "finish_reason": "stop",
+  "latency_s": 10.815625250001176,
+  "prediction": "Jake Watson recommends several exercises for strength training. In one conversation, he suggests squats, lunges, and planks to build core and leg strength. Additionally, he recommends including balance exercises like single-leg stands to further enhance stability and endurance on the field. These exercises are simple yet effective, suitable for beginners. Specifically, he advises starting with a few reps and gradually increasing as one gets stronger. The aim is to incorporate these exercises into a routine alongside other activities such as bodyweight exercises, which can serve as a good introduction to strength training.",
+  "prediction_sha256": "9199c59c4d98d6b3b2253eda85b1332dc591b6f521e563ed8d2ce8d6f439d383",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 209,
+  "usage": {
+    "completion_tokens": 111,
+    "prompt_tokens": 4359,
+    "prompt_tokens_details": null,
+    "total_tokens": 4470
+  }
+}

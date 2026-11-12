@@ -1,0 +1,17 @@
+{
+  "body_sha256": "0732504caa40da8a6f507ab1c0e4a49280ba59f9ca792c3f8f5ef368e4d3468d",
+  "finish_reason": "stop",
+  "latency_s": 3.900985167001636,
+  "prediction": "According to the data, Jasper mentions the development of Phil Foden under Pep Guardiola's player development. Specifically, Jasper provides commentary on how Guardiola has impacted players like Phil Foden and Rodri during his time at Manchester City.",
+  "prediction_sha256": "1f7faf691d9cd81b1642503d615980c42b30b2c1a5b26fdfd0f375e401350ae7",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200300,
+  "usage": {
+    "completion_tokens": 48,
+    "prompt_tokens": 3792,
+    "prompt_tokens_details": null,
+    "total_tokens": 3840
+  }
+}

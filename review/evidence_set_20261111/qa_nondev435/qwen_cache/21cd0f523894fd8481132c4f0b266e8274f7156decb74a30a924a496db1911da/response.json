@@ -1,0 +1,17 @@
+{
+  "body_sha256": "21cd0f523894fd8481132c4f0b266e8274f7156decb74a30a924a496db1911da",
+  "finish_reason": "stop",
+  "latency_s": 7.2042922920009005,
+  "prediction": "Li Hua discussed changing the training plan with Jennifer Moore on February 4th, 2026. Specifically, Li Hua mentioned that he thought a training plan adjustment would help him balance his work and fitness regimen better. This change in the training plan took place after their initial discussion about Li Hua's fitness goals and the creation of a training plan.",
+  "prediction_sha256": "5124d6dd4e04f5a780224d6a1522eb9bd2f0ba7585f42f3b39e7ce7726dfc4d3",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 72,
+  "usage": {
+    "completion_tokens": 75,
+    "prompt_tokens": 3312,
+    "prompt_tokens_details": null,
+    "total_tokens": 3387
+  }
+}

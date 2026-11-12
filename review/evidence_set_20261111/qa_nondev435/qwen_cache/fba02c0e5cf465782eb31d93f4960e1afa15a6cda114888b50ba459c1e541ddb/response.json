@@ -1,0 +1,17 @@
+{
+  "body_sha256": "fba02c0e5cf465782eb31d93f4960e1afa15a6cda114888b50ba459c1e541ddb",
+  "finish_reason": "stop",
+  "latency_s": 7.656122125001275,
+  "prediction": "In the conversation recorded on 20260106_09:00, AdamSmith reminds LiHua about the house rules, stating, \"Please keep noise to a minimum during late hours.\" This indicates that Adam reminded LiHua about playing the guitar late at night to maintain a quiet environment and adhere to the house rules.",
+  "prediction_sha256": "b955edbb3ddf1083e1791603e25f2991122064e9891d3897fb784d7c06aad388",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 81,
+  "usage": {
+    "completion_tokens": 73,
+    "prompt_tokens": 4435,
+    "prompt_tokens_details": null,
+    "total_tokens": 4508
+  }
+}

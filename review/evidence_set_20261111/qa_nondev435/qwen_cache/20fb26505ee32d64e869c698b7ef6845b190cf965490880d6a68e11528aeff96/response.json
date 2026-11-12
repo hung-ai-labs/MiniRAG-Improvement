@@ -1,0 +1,17 @@
+{
+  "body_sha256": "20fb26505ee32d64e869c698b7ef6845b190cf965490880d6a68e11528aeff96",
+  "finish_reason": "stop",
+  "latency_s": 6.907350125002267,
+  "prediction": "In preparation for the karaoke night that the group has decided to hold this Friday evening, WolfgangSchulz suggests that the members finalize their song selections before the actual event. He emphasizes the importance of being prepared and ready to perform their chosen songs, ensuring that the night goes smoothly and is enjoyable for everyone involved.",
+  "prediction_sha256": "96dd9e20713670f4a1e6e0e08d97ef55645628fa87b6b04405c496a7b2f06fb9",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200372,
+  "usage": {
+    "completion_tokens": 64,
+    "prompt_tokens": 4519,
+    "prompt_tokens_details": null,
+    "total_tokens": 4583
+  }
+}

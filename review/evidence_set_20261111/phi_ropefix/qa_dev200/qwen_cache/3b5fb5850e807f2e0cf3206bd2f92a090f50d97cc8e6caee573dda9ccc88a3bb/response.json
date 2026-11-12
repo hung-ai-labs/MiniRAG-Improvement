@@ -1,0 +1,17 @@
+{
+  "body_sha256": "3b5fb5850e807f2e0cf3206bd2f92a090f50d97cc8e6caee573dda9ccc88a3bb",
+  "finish_reason": "stop",
+  "latency_s": 8.32706270899871,
+  "prediction": " WolfgangSchulz mentioned trying goulash while in Prague. Goulash is described as a hearty and tasty dish, which aligns with WolfgangSchulz's comments about his food experiences in the city. He recalls it as a dish he remembered enjoying during his visit to Prague. Additionally, he mentions pastries with powdered sugar, further indicating his appreciation for the local cuisine and specific dishes he favored while there. No other details about the cooking methods or the origin of the goulash were provided, but the dish's heartiness suggests it is likely a traditional Czech stew that is commonly associated with Czech regional cooking.\n\nIn summary, WolfgangSchulz enjoyed goulash, a traditional Czech dish, during his stay in Prague, complemented by pastries with powdered sugar.",
+  "prediction_sha256": "2f915f6bd498ed62e674b820af822ddaf8efc5dcdf8c780cb6baf4f901df75df",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 60,
+  "usage": {
+    "completion_tokens": 186,
+    "prompt_tokens": 5123,
+    "prompt_tokens_details": null,
+    "total_tokens": 5309
+  }
+}

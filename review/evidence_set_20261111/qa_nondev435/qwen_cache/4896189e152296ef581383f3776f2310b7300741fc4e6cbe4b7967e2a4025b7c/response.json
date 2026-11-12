@@ -1,0 +1,17 @@
+{
+  "body_sha256": "4896189e152296ef581383f3776f2310b7300741fc4e6cbe4b7967e2a4025b7c",
+  "finish_reason": "stop",
+  "latency_s": 6.446722624998074,
+  "prediction": "In one of the conversations listed, LiHua asks Jake Watson to play as the goalkeeper for their upcoming soccer training session. This interaction occurs in a conversation dated \"20261003_12:00\".",
+  "prediction_sha256": "54f633f2d815102142cfca9d4766c02f7985507ee0af76d865f841a8721f1c75",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 292,
+  "usage": {
+    "completion_tokens": 49,
+    "prompt_tokens": 4412,
+    "prompt_tokens_details": null,
+    "total_tokens": 4461
+  }
+}

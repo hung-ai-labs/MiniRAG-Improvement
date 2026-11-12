@@ -1,0 +1,17 @@
+{
+  "body_sha256": "caf4d33f942b660f801030e77371d0601eebfa01b2fc687774ce3628ad0f049e",
+  "finish_reason": "stop",
+  "latency_s": 7.432273833001091,
+  "prediction": "Gavriel mentions \"The Witcher 3\" for its characters and plot twists. Specifically, Gavriel highlights the complex character development and the richness of quests and side stories in the game. He also points out the rewarding nature of player choices and the evolving campfire interactions, which add depth to the narrative. Additionally, Gavriel notes the Gwent mini-game, which provides an extra layer of fun and engagement within the larger story.",
+  "prediction_sha256": "de7ae265206ff43d9987d6d5ce66ced72a4689390bd3ef9f01488f6d436c0153",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100321,
+  "usage": {
+    "completion_tokens": 91,
+    "prompt_tokens": 4184,
+    "prompt_tokens_details": null,
+    "total_tokens": 4275
+  }
+}

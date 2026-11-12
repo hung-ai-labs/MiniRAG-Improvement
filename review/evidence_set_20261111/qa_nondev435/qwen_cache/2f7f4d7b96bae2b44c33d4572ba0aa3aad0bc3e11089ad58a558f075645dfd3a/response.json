@@ -1,0 +1,17 @@
+{
+  "body_sha256": "2f7f4d7b96bae2b44c33d4572ba0aa3aad0bc3e11089ad58a558f075645dfd3a",
+  "finish_reason": "stop",
+  "latency_s": 7.951152041998284,
+  "prediction": "According to the conversation, Adam Smith, who coordinates the household arrangements, responds positively to Li Hua's inquiry about having friends over occasionally. He acknowledges that it is permissible and suggests that gatherings should remain \"reasonable.\" Specifically, he states, \"Having friends over occasionally is fine, just try to keep the gatherings reasonable.\"",
+  "prediction_sha256": "7c53223aea532d66268ba0fea2097903e4723c9710a463042e20c19af8395b68",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200058,
+  "usage": {
+    "completion_tokens": 65,
+    "prompt_tokens": 4299,
+    "prompt_tokens_details": null,
+    "total_tokens": 4364
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "dab3d985c63e427b19f1f72953e9d27c56fe5c9d0ab53e4d795e1289e982e460",
+  "finish_reason": "stop",
+  "latency_s": 9.576055457997427,
+  "prediction": "In the conversation regarding the neighborhood potluck dinner, Li Hua agrees to bring homemade pasta salad. Specifically, Adam Smith asks Li Hua if she needs any kitchen supplies or anything from his side, to which Li Hua responds, \"I think I have everything I need. Just need to pick up some fresh ingredients tomorrow.\" This indicates that Li Hua has decided to contribute a homemade pasta salad to the event.",
+  "prediction_sha256": "2b530754046860342a78e61522b71b85089139ecbf4a4a7c315e6671444436b8",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200087,
+  "usage": {
+    "completion_tokens": 85,
+    "prompt_tokens": 4555,
+    "prompt_tokens_details": null,
+    "total_tokens": 4640
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "da1b2393ffb63d1570da813ec2398180f0ede802fb534ad0be5d8311cc927ee0",
+  "finish_reason": "stop",
+  "latency_s": 6.245306666998658,
+  "prediction": "According to the data, Dacey proposes to practice dribbling skills on a Saturday at 3 PM. This suggestion is made in a context where Li Hua is asking for recommendations on which UCL (UEFA Champions League) match is a classic to watch, and Dacey brings up the idea of practicing dribbling skills on that same day.",
+  "prediction_sha256": "3e53cc5b9bf709adadc7573d45686eb86b951cd77eeb2d73a7ab15ccc00d56ee",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100361,
+  "usage": {
+    "completion_tokens": 71,
+    "prompt_tokens": 4952,
+    "prompt_tokens_details": null,
+    "total_tokens": 5023
+  }
+}

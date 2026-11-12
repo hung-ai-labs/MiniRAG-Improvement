@@ -1,0 +1,17 @@
+{
+  "body_sha256": "56330bc5cfaaf5a7fdd1d049df3e93f922eb71725843cbb5040aa04f5b6e3a88",
+  "finish_reason": "stop",
+  "latency_s": 9.020018291997985,
+  "prediction": "On June 30, 2026, at 15:30, Jennifer gave a tip related to hydration during workout sessions. Specifically, she advised, \"Staying hydrated during workout is very important! Let's keep track of our water intake today and motivate each other. How much are you aiming to drink?\" This highlights the importance of hydration in maintaining energy levels and stamina during workouts.",
+  "prediction_sha256": "72e648cfb3226de7e5e85d3c10b1994054ec405a06e054397ceced7fb040f2d7",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200145,
+  "usage": {
+    "completion_tokens": 84,
+    "prompt_tokens": 5554,
+    "prompt_tokens_details": null,
+    "total_tokens": 5638
+  }
+}

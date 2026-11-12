@@ -1,0 +1,17 @@
+{
+  "body_sha256": "c1aac82889b18b5dc150f718a8017fdb4c201b038a6427f8bb6cb693919a94c3",
+  "finish_reason": "stop",
+  "latency_s": 8.878211333998479,
+  "prediction": "On June 9, 2026, Li Hua and Wolfgang had dinner at a restaurant that was described as \"awesome\" by Li Hua. In their conversation, Li Hua mentions, \"That restaurant we hit up tonight was awesome! The food was delicious and the vibe was just perfect.\" This indicates that the restaurant they discussed was a place they found particularly enjoyable during their dinner outing on that date. Unfortunately, the name of the restaurant is not explicitly mentioned in the provided dialogue.",
+  "prediction_sha256": "fa230e62a947f54a580d9fa7e067fa4cbfe619ea5ee5cfef99350653081adaed",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100431,
+  "usage": {
+    "completion_tokens": 102,
+    "prompt_tokens": 4760,
+    "prompt_tokens_details": null,
+    "total_tokens": 4862
+  }
+}

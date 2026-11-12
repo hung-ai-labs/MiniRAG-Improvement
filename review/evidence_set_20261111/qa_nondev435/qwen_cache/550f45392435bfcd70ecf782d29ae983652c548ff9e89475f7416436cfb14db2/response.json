@@ -1,0 +1,17 @@
+{
+  "body_sha256": "550f45392435bfcd70ecf782d29ae983652c548ff9e89475f7416436cfb14db2",
+  "finish_reason": "stop",
+  "latency_s": 3.956442833001347,
+  "prediction": "Based on the conversation, Wolfgang recommended a \"little burger joint downtown\" to LiHua for fast food. However, Wolfgang did not specify a gym he recommended for LiHua. There is no mention of a gym in the provided conversations.",
+  "prediction_sha256": "7e92e99e8ff739160f47bf8547596d8cfdbb25cd2d546f6b4852a7fd1a7ceb2c",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200063,
+  "usage": {
+    "completion_tokens": 50,
+    "prompt_tokens": 4492,
+    "prompt_tokens_details": null,
+    "total_tokens": 4542
+  }
+}

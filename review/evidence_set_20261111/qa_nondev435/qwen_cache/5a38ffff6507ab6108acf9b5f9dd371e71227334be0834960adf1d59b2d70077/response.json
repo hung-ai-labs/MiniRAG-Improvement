@@ -1,0 +1,17 @@
+{
+  "body_sha256": "5a38ffff6507ab6108acf9b5f9dd371e71227334be0834960adf1d59b2d70077",
+  "finish_reason": "stop",
+  "latency_s": 9.379805207998288,
+  "prediction": "In one of the interactions, Li Hua mentions a meeting scheduled for March 6th at 2:00 PM to discuss homepage updates. This meeting is set up with Yuriko Yamamoto, who expresses her willingness to meet and discusses potential updates to the studio's homepage. Li Hua anticipates hearing Yuriko's ideas and looking forward to getting started on the project.",
+  "prediction_sha256": "de123fb3adb901170ad3c77c1788f09bd280a3590d66a93f2d69a0ea88ae04fd",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 88,
+  "usage": {
+    "completion_tokens": 80,
+    "prompt_tokens": 4122,
+    "prompt_tokens_details": null,
+    "total_tokens": 4202
+  }
+}

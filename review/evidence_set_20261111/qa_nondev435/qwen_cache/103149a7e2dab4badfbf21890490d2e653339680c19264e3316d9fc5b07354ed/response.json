@@ -1,0 +1,17 @@
+{
+  "body_sha256": "103149a7e2dab4badfbf21890490d2e653339680c19264e3316d9fc5b07354ed",
+  "finish_reason": "stop",
+  "latency_s": 7.250676915999065,
+  "prediction": "There is no mention of Li Hua bringing a cake to the meeting or any celebration related to the redesign of Yuriko's studio's homepage. The provided data focuses on various aspects such as planning meetings, discussing homepage improvements, and testing new features, but it does not specify any cake being brought to these events. Therefore, based on the information given, we cannot determine what type of cake Li Hua plans to bring.",
+  "prediction_sha256": "a47b3754cf9dfc6e079dfd8feacee4e3e8df04eeb2f1a5d8226e669dcd393b3c",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100416,
+  "usage": {
+    "completion_tokens": 87,
+    "prompt_tokens": 4328,
+    "prompt_tokens_details": null,
+    "total_tokens": 4415
+  }
+}

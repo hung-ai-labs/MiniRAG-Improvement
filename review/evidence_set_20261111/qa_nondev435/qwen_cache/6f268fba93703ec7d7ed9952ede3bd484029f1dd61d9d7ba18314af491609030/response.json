@@ -1,0 +1,17 @@
+{
+  "body_sha256": "6f268fba93703ec7d7ed9952ede3bd484029f1dd61d9d7ba18314af491609030",
+  "finish_reason": "stop",
+  "latency_s": 8.556395667001198,
+  "prediction": "Dacey proposes to practice dribbling skills on Saturday at 3 PM. She mentions this in the context of sharpening up before an upcoming match, indicating that this practice session is part of a broader preparation strategy for the upcoming event. Additionally, she suggests setting up cones for target practice during the passing drills, suggesting a fun and interactive approach to skill improvement.",
+  "prediction_sha256": "db592a5eefad9f6c0bf2d5b25a6fc48e4e761f6641c94aa010f6059f6d3def22",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100361,
+  "usage": {
+    "completion_tokens": 73,
+    "prompt_tokens": 5016,
+    "prompt_tokens_details": null,
+    "total_tokens": 5089
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "9517527cbd9ba10a07cea56f5f0960a1585f898350fbcb1710e743642047590c",
+  "finish_reason": "stop",
+  "latency_s": 8.513432459003525,
+  "prediction": "In the discussions regarding the garden renovation, Turalyon suggested organizing a picnic, which included a potluck where everyone could bring dishes to share. Additionally, he mentioned the possibility of including games and possibly music to enhance the atmosphere. While the main suggestion was a picnic, the potluck aspect was a significant part of the planned food-related event.",
+  "prediction_sha256": "fbbc824833ea37a1dd2586062a8effbfaf5a31294bb3f8167427c43c36b29478",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100392,
+  "usage": {
+    "completion_tokens": 70,
+    "prompt_tokens": 4302,
+    "prompt_tokens_details": null,
+    "total_tokens": 4372
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "e8cb376efee8f42cfab1dd1f53525f26bf6007061f5927200bd0156df110f923",
+  "finish_reason": "stop",
+  "latency_s": 8.101005667002028,
+  "prediction": "In the conversation provided, it is mentioned that LiHua will pick up the snacks and drinks on her way to WolfgangSchulz's place for the movie night. Specifically, WolfgangSchulz reminds LiHua to \"don't forget the snacks!\" and LiHua confirms, \"I'll pick them up on my way.\" Therefore, it is LiHua who will be responsible for picking up the snacks and drinks.",
+  "prediction_sha256": "742fab0ec32bf779e021dd10476e501df4b6a38abda6d83b770436f9273b493f",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100307,
+  "usage": {
+    "completion_tokens": 88,
+    "prompt_tokens": 5031,
+    "prompt_tokens_details": null,
+    "total_tokens": 5119
+  }
+}

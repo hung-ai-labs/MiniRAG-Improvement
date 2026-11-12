@@ -1,0 +1,17 @@
+{
+  "body_sha256": "e9f86d4ae90fc4a819adaa897b67b1d3398d532a6adcb4005bb7ef9da3ff9437",
+  "finish_reason": "stop",
+  "latency_s": 7.819009000002552,
+  "prediction": "According to the conversation recorded on 20261017_17:00, LiHua and Wolfgang discussed their favorite pizzas and planned to meet for a pizza night at a new downtown pizza place. Wolfgang expressed enthusiasm about trying the new pizza place and suggested they should check it out together. LiHua confirmed his interest in having a refreshing lemonade with their pizza, which he found complemented the flavors well. Both individuals were excited about the idea of spending time together enjoying a meal and perhaps discovering new flavors.",
+  "prediction_sha256": "02546ec3683a9d4a1947c6e3fc1a0c0f6d37b5052b019de051d45ba9d06fa82c",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 367,
+  "usage": {
+    "completion_tokens": 110,
+    "prompt_tokens": 5456,
+    "prompt_tokens_details": null,
+    "total_tokens": 5566
+  }
+}

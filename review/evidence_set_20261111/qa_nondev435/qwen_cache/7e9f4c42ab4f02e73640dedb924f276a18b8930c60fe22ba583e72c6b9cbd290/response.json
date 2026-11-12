@@ -1,0 +1,17 @@
+{
+  "body_sha256": "7e9f4c42ab4f02e73640dedb924f276a18b8930c60fe22ba583e72c6b9cbd290",
+  "finish_reason": "stop",
+  "latency_s": 7.785778583998763,
+  "prediction": "Based on the conversation, Li Hua did not specifically mention his preference for whether he prefers to consume a protein shake before or after his workout sessions. The discussion primarily revolved around the importance of protein consumption post-workout to aid in muscle recovery. Therefore, no specific preference for pre-workout protein shakes can be determined from the given information.",
+  "prediction_sha256": "28b25e3776c70ce101d3af8ed85ec0d33d10f908a7d5faa710993be73f398b58",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200412,
+  "usage": {
+    "completion_tokens": 70,
+    "prompt_tokens": 3676,
+    "prompt_tokens_details": null,
+    "total_tokens": 3746
+  }
+}

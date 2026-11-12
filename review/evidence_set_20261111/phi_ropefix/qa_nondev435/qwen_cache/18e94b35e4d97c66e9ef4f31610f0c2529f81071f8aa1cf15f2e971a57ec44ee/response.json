@@ -1,0 +1,17 @@
+{
+  "body_sha256": "18e94b35e4d97c66e9ef4f31610f0c2529f81071f8aa1cf15f2e971a57ec44ee",
+  "finish_reason": "stop",
+  "latency_s": 4.168378583002777,
+  "prediction": " Adam Smith invites Li Hua to participate in the community bake sale. This is evident from the first exchange in the data table, where Adam mentions the bake sale event and expresses his hope for Li Hua's participation in his message. Li Hua enthusiastically agrees to join and help out, with an added interest in connecting with the community and enjoying some baked goods.",
+  "prediction_sha256": "70934f5e2dc7824418604ea9ae82f3dfc58b6fc61f22d88543076e084dd6952f",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 100092,
+  "usage": {
+    "completion_tokens": 85,
+    "prompt_tokens": 5315,
+    "prompt_tokens_details": null,
+    "total_tokens": 5400
+  }
+}

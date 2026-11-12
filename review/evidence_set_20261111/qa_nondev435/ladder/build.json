@@ -1,0 +1,39 @@
+{
+  "api_calls": 0,
+  "arms": [
+    "C0",
+    "BASELINE",
+    "F",
+    "CE0F",
+    "CE0F_SET"
+  ],
+  "beta_tau_from_dev": [
+    2.0,
+    0.0
+  ],
+  "contexts_sha256": "afaa67a8dc98e14f70588a8208f76d65c166204210b0bba581b11e2d80cbfcd1",
+  "full_evidence": {
+    "BASELINE": 196,
+    "C0": 167,
+    "CE0F": 238,
+    "CE0F_SET": 241,
+    "F": 229
+  },
+  "identical_to_baseline": {
+    "BASELINE": 435,
+    "C0": 394,
+    "CE0F": 1,
+    "CE0F_SET": 0,
+    "F": 2
+  },
+  "labelled": 385,
+  "models_sha256": {
+    "CE0+F": "96893f946c3f1bea8288f3ac2b092f278a70a4d938d030924fdc03f89da79dc9",
+    "F": "81e216e263dbe094c31972d24091edb09c5f1f8de1293959df77241bfe639339"
+  },
+  "pipeline_sha256": "925b69672d721a4525258219d836c6d8e3357d269fd0a99b6b73b2a07e45e9fd",
+  "pool": "native@45",
+  "questions": 435,
+  "scores": "all-fold models fit on dev200 only",
+  "split": "nondev"
+}

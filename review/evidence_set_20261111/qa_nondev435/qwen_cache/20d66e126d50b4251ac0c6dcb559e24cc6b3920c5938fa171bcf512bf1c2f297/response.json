@@ -1,0 +1,17 @@
+{
+  "body_sha256": "20d66e126d50b4251ac0c6dcb559e24cc6b3920c5938fa171bcf512bf1c2f297",
+  "finish_reason": "stop",
+  "latency_s": 9.161708624997118,
+  "prediction": "On June 9, 2026, Li Hua and Wolfgang Schulz discussed having dinner together. From the conversation, it's clear that Wolfgang suggested a Thai restaurant that is budget-friendly and described as \"super good.\" Therefore, the restaurant where Li Hua and Wolfgang had dinner on that night is a Thai restaurant known for its affordability and quality.",
+  "prediction_sha256": "68eeee9e9bf8ce7d2c5c98565f18f2cf722c0846d76f60c5900b1445efbb7da5",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100431,
+  "usage": {
+    "completion_tokens": 74,
+    "prompt_tokens": 4483,
+    "prompt_tokens_details": null,
+    "total_tokens": 4557
+  }
+}

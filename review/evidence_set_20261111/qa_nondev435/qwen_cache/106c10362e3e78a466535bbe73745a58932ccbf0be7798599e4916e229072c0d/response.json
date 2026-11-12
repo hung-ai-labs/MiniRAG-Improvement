@@ -1,0 +1,17 @@
+{
+  "body_sha256": "106c10362e3e78a466535bbe73745a58932ccbf0be7798599e4916e229072c0d",
+  "finish_reason": "stop",
+  "latency_s": 12.662360291997174,
+  "prediction": "WolfgangSchulz inquires about health products from his band members LiHua due to recent feelings of fatigue resulting from long hours of work. He seeks advice on potential health products that could help boost his energy levels. Specifically, he asks LiHua for recommendations on vitamins, energy drinks, and supplements like magnesium, as well as suggestions on how to improve his diet and ensure he gets enough sleep. LiHua suggests various options including natural supplements, hydration, and balanced meals rich in fruits and nuts.",
+  "prediction_sha256": "c6be6255b37ff876138fdf5b87e7cbb41700f71404c0450e87170bdc2a063998",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 128,
+  "usage": {
+    "completion_tokens": 105,
+    "prompt_tokens": 4451,
+    "prompt_tokens_details": null,
+    "total_tokens": 4556
+  }
+}

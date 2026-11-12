@@ -1,0 +1,17 @@
+{
+  "body_sha256": "843741d872fb1318aa5b0a7b2c581b2969ed7fa0111ee68eddfa57c7ef3b442f",
+  "finish_reason": "stop",
+  "latency_s": 8.318258624996815,
+  "prediction": "Based on the conversation, Li Hua expressed a desire for a bread delivery to be made to the address \"123 Sunny Street.\" This address was mentioned in the interaction where Li Hua and Hailey Johnson discussed setting up a delivery for Tuesday, as part of a trial run for the new gluten-free bread option.",
+  "prediction_sha256": "e47b5aab5d39989b21ba17c4b0cf6bf14702d2dacbf1107184bd096228c3aca1",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 94,
+  "usage": {
+    "completion_tokens": 66,
+    "prompt_tokens": 4231,
+    "prompt_tokens_details": null,
+    "total_tokens": 4297
+  }
+}

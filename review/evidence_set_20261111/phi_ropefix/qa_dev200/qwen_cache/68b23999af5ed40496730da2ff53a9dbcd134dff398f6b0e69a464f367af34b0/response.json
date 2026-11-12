@@ -1,0 +1,17 @@
+{
+  "body_sha256": "68b23999af5ed40496730da2ff53a9dbcd134dff398f6b0e69a464f367af34b0",
+  "finish_reason": "stop",
+  "latency_s": 2.971825832999457,
+  "prediction": " Giselle reminds everyone to stretch before practice to help prevent injuries and ensure they are warmed up for the drills. This is considered an essential part of their routine to maintain agility and safety during physical activities.",
+  "prediction_sha256": "9e5ed3cdbf8e8cfcefb680bd030917e574ee734cc9ad0e2a54850e1c55c0f31b",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 174,
+  "usage": {
+    "completion_tokens": 47,
+    "prompt_tokens": 5193,
+    "prompt_tokens_details": null,
+    "total_tokens": 5240
+  }
+}

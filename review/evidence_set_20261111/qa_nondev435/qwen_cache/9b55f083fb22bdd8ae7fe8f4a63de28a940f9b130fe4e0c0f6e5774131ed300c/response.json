@@ -1,0 +1,17 @@
+{
+  "body_sha256": "9b55f083fb22bdd8ae7fe8f4a63de28a940f9b130fe4e0c0f6e5774131ed300c",
+  "finish_reason": "stop",
+  "latency_s": 10.438771459001146,
+  "prediction": "In one of the conversations recorded, Li Hua suggests lavender and coneflowers for the flower beds. Specifically, Li Hua states, \"How about some lavender or coneflowers? They’re both beautiful and great for pollinators. Plus, they don’t require too much maintenance!\" Li Hua recommends these flowers due to their aesthetic appeal, the fact that they attract pollinators, and their low maintenance requirements.",
+  "prediction_sha256": "8277ce5ce46ef3551a19a63a67248bfc553007db021fcfb7cff2432bcfebac88",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 110,
+  "usage": {
+    "completion_tokens": 89,
+    "prompt_tokens": 4282,
+    "prompt_tokens_details": null,
+    "total_tokens": 4371
+  }
+}

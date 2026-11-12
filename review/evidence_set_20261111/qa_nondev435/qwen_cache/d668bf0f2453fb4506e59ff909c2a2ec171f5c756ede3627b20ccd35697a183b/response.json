@@ -1,0 +1,17 @@
+{
+  "body_sha256": "d668bf0f2453fb4506e59ff909c2a2ec171f5c756ede3627b20ccd35697a183b",
+  "finish_reason": "stop",
+  "latency_s": 5.619316833002813,
+  "prediction": "According to the conversation, AdamSmith indicated that he is available most evenings for the curtain installation. Specifically, he suggested setting a time this week to install the curtains together, and LiHua proposed a Wednesday at 5 PM. AdamSmith confirmed that this time works for him and expressed anticipation for the installation.",
+  "prediction_sha256": "8ab24dedbb22710c04e413625d033cacf24c5d7858eca8eaa21eb32a1d004dda",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 248,
+  "usage": {
+    "completion_tokens": 63,
+    "prompt_tokens": 4211,
+    "prompt_tokens_details": null,
+    "total_tokens": 4274
+  }
+}

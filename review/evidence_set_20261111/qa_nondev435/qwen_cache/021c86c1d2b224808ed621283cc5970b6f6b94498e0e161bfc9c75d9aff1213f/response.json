@@ -1,0 +1,17 @@
+{
+  "body_sha256": "021c86c1d2b224808ed621283cc5970b6f6b94498e0e161bfc9c75d9aff1213f",
+  "finish_reason": "stop",
+  "latency_s": 9.692178667002736,
+  "prediction": "The discussion regarding the garage sale does not seem to be present within the given data tables. The provided data primarily covers various events and activities such as community bake sales, gift exchanges, property management, and more. While a community bake sale is mentioned in the dialogue between Adam Smith and Li Hua, it does not indicate a specific date or time for the garage sale. Therefore, based on the information available, there isn't a precise date or time frame for the garage sale being discussed.",
+  "prediction_sha256": "22377565ad81160285d2523203d770b273477989afdfcf28928b0cee64f0d98b",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 168,
+  "usage": {
+    "completion_tokens": 99,
+    "prompt_tokens": 4374,
+    "prompt_tokens_details": null,
+    "total_tokens": 4473
+  }
+}

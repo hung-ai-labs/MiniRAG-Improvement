@@ -1,0 +1,17 @@
+{
+  "body_sha256": "d0445b5664dd40deaf5db66abd5cda639bfe2d0af57e999d8ccab4ef90d9859c",
+  "finish_reason": "stop",
+  "latency_s": 3.7229964590005693,
+  "prediction": "In the conversation, LiHua mentions a memorable scene from the TV series \"Chernobyl.\" Specifically, he notes that the scene where they are trying to contain the radiation and the sacrifices made by the workers is particularly impactful. This scene showcases the human spirit in difficult times and leaves a lasting impression on viewers.",
+  "prediction_sha256": "4991d74aadf062d84b14a87edac4d2a69909f1098ef74c20343a53774630858f",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 384,
+  "usage": {
+    "completion_tokens": 65,
+    "prompt_tokens": 3202,
+    "prompt_tokens_details": null,
+    "total_tokens": 3267
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "a7c72a0d3873f1ee57a5a5647cb86cb746bf4457bd82f71b2a81d14a4db047ca",
+  "finish_reason": "stop",
+  "latency_s": 9.944870166997134,
+  "prediction": "According to the conversation recorded on March 8th, 2026 at 13:00 (2pm), there will be a power outage lasting from 2pm to 3pm. This outage is scheduled for the afternoon of that day. There is no information provided regarding a similar power outage in the neighborhood for a different date.",
+  "prediction_sha256": "0a0f06f71c519e93ac57b947d8550d38f00fc1b0e46d049656eaa3c5ba5b69e0",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100090,
+  "usage": {
+    "completion_tokens": 73,
+    "prompt_tokens": 4966,
+    "prompt_tokens_details": null,
+    "total_tokens": 5039
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "22e9345b983b8172a8d7e51f8394b612c21e54bd08bfa8bcc63cbc3801fdacbd",
+  "finish_reason": "stop",
+  "latency_s": 12.899227333000454,
+  "prediction": "YurikoYamamoto and Li Hua are collaborating on enhancing the design and functionality of YurikoYamamoto's speech therapy studio's homepage. Their efforts include brainstorming ideas for a blog section, designing a user feedback section, and testing new features such as automatically scheduling available times for clients. Additionally, they are discussing potential layouts and features for the homepage, including a community outreach section and a \"leave a message\" feature. Throughout their discussions, they aim to improve the user experience and enhance the visibility and credibility of YurikoYamamoto's practice.",
+  "prediction_sha256": "bf5e82920b1d3ce923627ef937a0e8ebd7e8fb28269a2a2022ac9a62e6c823b7",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200084,
+  "usage": {
+    "completion_tokens": 117,
+    "prompt_tokens": 3647,
+    "prompt_tokens_details": null,
+    "total_tokens": 3764
+  }
+}

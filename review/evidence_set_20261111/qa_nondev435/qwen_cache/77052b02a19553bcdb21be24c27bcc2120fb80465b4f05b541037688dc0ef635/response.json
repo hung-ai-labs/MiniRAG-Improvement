@@ -1,0 +1,17 @@
+{
+  "body_sha256": "77052b02a19553bcdb21be24c27bcc2120fb80465b4f05b541037688dc0ef635",
+  "finish_reason": "stop",
+  "latency_s": 4.344509417001973,
+  "prediction": "The web design seminar is scheduled to take place on Thursday at 3 PM. This information was conveyed by WolfgangSchulz in a conversation with LiHua, who expressed interest in attending the event.",
+  "prediction_sha256": "81ba5536c1896ee69cd40107979c306b7f53261630cb072f0a7812c96b77e699",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 120,
+  "usage": {
+    "completion_tokens": 42,
+    "prompt_tokens": 4443,
+    "prompt_tokens_details": null,
+    "total_tokens": 4485
+  }
+}

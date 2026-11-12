@@ -1,0 +1,17 @@
+{
+  "body_sha256": "ede6d9f2ab3fad64ba9b7f1f480069b87d8a621324863ad680322b37ffcfaf87",
+  "finish_reason": "stop",
+  "latency_s": 7.413872790999449,
+  "prediction": "According to Jennifer Moore, protein is crucial for maintaining physical health and fitness. She emphasizes its importance for keeping the body in shape, highlighting its role in muscle recovery and building lean mass. Additionally, she suggests various types of protein supplements, including whey protein, which she recommends for muscle recovery and building lean mass. She also mentions that pea and rice proteins are other plant-based options that can be beneficial for individuals avoiding dairy.",
+  "prediction_sha256": "fc8d63f0e866458c187a7755e4400c125db72a8c78013e053b572812c1049bad",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 235,
+  "usage": {
+    "completion_tokens": 86,
+    "prompt_tokens": 4512,
+    "prompt_tokens_details": null,
+    "total_tokens": 4598
+  }
+}

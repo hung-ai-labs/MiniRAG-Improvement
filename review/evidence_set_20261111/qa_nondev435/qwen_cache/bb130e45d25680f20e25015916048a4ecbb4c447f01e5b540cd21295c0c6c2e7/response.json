@@ -1,0 +1,17 @@
+{
+  "body_sha256": "bb130e45d25680f20e25015916048a4ecbb4c447f01e5b540cd21295c0c6c2e7",
+  "finish_reason": "stop",
+  "latency_s": 9.255025625003327,
+  "prediction": "On June 30, 2026, Jennifer reminds the gym members to stay hydrated during their workout sessions. She suggests keeping track of their water intake and motivating each other. Jennifer also recommends using a water bottle with measurements to stay aware of how much water they have consumed throughout the day. Additionally, she encourages setting reminders on their phones to ensure they stay hydrated consistently.",
+  "prediction_sha256": "0b8b5d9b5e7a34492b6f5a0fbe825535e12d937a905c71118c297976686ed4d0",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200145,
+  "usage": {
+    "completion_tokens": 78,
+    "prompt_tokens": 5093,
+    "prompt_tokens_details": null,
+    "total_tokens": 5171
+  }
+}

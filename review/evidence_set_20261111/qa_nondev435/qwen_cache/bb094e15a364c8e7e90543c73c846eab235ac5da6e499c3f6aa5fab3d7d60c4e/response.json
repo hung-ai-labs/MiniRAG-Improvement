@@ -1,0 +1,17 @@
+{
+  "body_sha256": "bb094e15a364c8e7e90543c73c846eab235ac5da6e499c3f6aa5fab3d7d60c4e",
+  "finish_reason": "stop",
+  "latency_s": 7.889705416000652,
+  "prediction": "JakeWatson recommends squats and lunges as exercises to improve leg strength, which he believes can enhance power on the field. Additionally, he suggests performing hamstring and quad stretches to keep the muscles flexible after workouts. These exercises are fundamental for soccer players and align with his previous advice given to LiHua regarding injury prevention and overall performance.",
+  "prediction_sha256": "657a1660bc43f8f968724e814cf37ad8017322ead4ee6f352d3a57217a37ba0a",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200268,
+  "usage": {
+    "completion_tokens": 69,
+    "prompt_tokens": 4315,
+    "prompt_tokens_details": null,
+    "total_tokens": 4384
+  }
+}

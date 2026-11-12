@@ -1,0 +1,17 @@
+{
+  "body_sha256": "4a66040d4ef573b19d8bf7c63a095b394b63df2f3c8921eeb2c272c7a7a3fd8a",
+  "finish_reason": "stop",
+  "latency_s": 9.79902249999941,
+  "prediction": "The Freelancer Group Meeting is scheduled for a Wednesday at 3 pm, according to the conversation between LiHua and Yuriko. Specifically, LiHua initiates the discussion by inquiring about Yuriko's attendance at the meeting, stating, \"Are you planning to attend the Freelancer Group Meeting this Wednesday at 3 pm?\" This indicates that the meeting takes place on a Wednesday at 3 pm.",
+  "prediction_sha256": "b728faa07c410e088a3fb6854668dd7891fb5e4e82dae0860d3576029be2a1fe",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100133,
+  "usage": {
+    "completion_tokens": 86,
+    "prompt_tokens": 3701,
+    "prompt_tokens_details": null,
+    "total_tokens": 3787
+  }
+}

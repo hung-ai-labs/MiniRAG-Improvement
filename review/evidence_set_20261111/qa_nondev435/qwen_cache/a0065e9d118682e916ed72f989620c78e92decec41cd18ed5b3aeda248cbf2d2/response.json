@@ -1,0 +1,17 @@
+{
+  "body_sha256": "a0065e9d118682e916ed72f989620c78e92decec41cd18ed5b3aeda248cbf2d2",
+  "finish_reason": "stop",
+  "latency_s": 8.129400792000524,
+  "prediction": "On March 7th, WolfgangSchulz and LiHua plan to attend a concert together. According to the conversations recorded, WolfgangSchulz reminded LiHua about the concert scheduled for that evening at 6 PM, and they discussed potential plans for the day, including a pre-concert meal. No further details are provided regarding the name of the concert itself.",
+  "prediction_sha256": "4a4a2ae0e3773befb163da2692477d98c7547a3a2f099d94e080fa6436d65ceb",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 415,
+  "usage": {
+    "completion_tokens": 77,
+    "prompt_tokens": 4734,
+    "prompt_tokens_details": null,
+    "total_tokens": 4811
+  }
+}

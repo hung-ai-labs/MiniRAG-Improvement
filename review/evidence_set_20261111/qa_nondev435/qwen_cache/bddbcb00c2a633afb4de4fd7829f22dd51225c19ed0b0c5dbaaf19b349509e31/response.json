@@ -1,0 +1,17 @@
+{
+  "body_sha256": "bddbcb00c2a633afb4de4fd7829f22dd51225c19ed0b0c5dbaaf19b349509e31",
+  "finish_reason": "stop",
+  "latency_s": 3.770122875001107,
+  "prediction": "Based on the conversation, Li Hua was asked about his preference regarding the timing of protein supplementation. He mentioned that he focuses on taking a protein shake post-workout, specifically within 30-60 minutes after his sessions. There is no mention of him preferring a protein shake before his workout sessions. Therefore, we cannot determine a specific type of protein shake Li Hua prefers to consume pre-workout from the provided information.",
+  "prediction_sha256": "d907538d21a3aff225f57ec36ae4d3a90c36ea55d73f6a6b382a6dbb8334a758",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200412,
+  "usage": {
+    "completion_tokens": 88,
+    "prompt_tokens": 4427,
+    "prompt_tokens_details": null,
+    "total_tokens": 4515
+  }
+}

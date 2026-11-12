@@ -1,0 +1,17 @@
+{
+  "body_sha256": "2e1c0c363c197ed794ba592c955f621fe4e497b1e3f4e2f09d4c16b60c6327d8",
+  "finish_reason": "stop",
+  "latency_s": 12.206653583001753,
+  "prediction": " Li Hua has planned to celebrate Chinese Lunar New Year at her place on January 18th. This information is gathered from a conversation snippet dated January 13th, where Li Hua extends an invitation to Wolfgang Schultz to join in the festivities and enjoy some good food together. Wolfgang responds positively, showing interest and availability to attend the celebration.\n\n```markdown\n## Chinese Lunar New Year Celebration Date\n\n- **Planned Celebration Date:** January 18th\n- **Invitation Sender:** Li Hua\n- **Invitation Receiver:** Wolfgang Schultz\n- **Details:** Li Hua is looking forward to creating a festive atmosphere with traditional dishes, decorations, and green tea as part of the celebration. She specifically mentions making dumplings, which are considered a must for the New Year, and offers to prepare green tea and traditional Chinese drinks. Wolfgang Schultz expresses his enthusiasm, particularly for dumplings, and suggests adding fruity drinks for variety.\n\nThe discussion between Li Hua and Wolfgang Schultz highlights the mutual excitement about the celebration, sharing culturally significant foods, and maintaining a semblance of tradition while incorporating their own preferences and dietary choices.\n```",
+  "prediction_sha256": "f1f1ef5e3aba69531ae689008d16420afcf0c5a965cf3f5d77ef53070e4783b4",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 100064,
+  "usage": {
+    "completion_tokens": 296,
+    "prompt_tokens": 5148,
+    "prompt_tokens_details": null,
+    "total_tokens": 5444
+  }
+}

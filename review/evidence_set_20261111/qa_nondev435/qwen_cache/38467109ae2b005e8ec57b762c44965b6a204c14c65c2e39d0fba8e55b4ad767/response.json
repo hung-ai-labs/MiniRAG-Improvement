@@ -1,0 +1,17 @@
+{
+  "body_sha256": "38467109ae2b005e8ec57b762c44965b6a204c14c65c2e39d0fba8e55b4ad767",
+  "finish_reason": "stop",
+  "latency_s": 6.810367542002496,
+  "prediction": "According to the conversations shared, WolfgangSchulz particularly enjoyed a risotto he had during his travels in Venice. He described it as \"creamy and had seafood in it, just perfection!\" This risotto stands out as a highlight among his culinary experiences, highlighting the rich and flavorful dish he had while visiting Venice.",
+  "prediction_sha256": "7f79b8665230c0f94a32f5f8083b3724a27e78b73cffb69aafc97cb7484a97aa",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200400,
+  "usage": {
+    "completion_tokens": 65,
+    "prompt_tokens": 3328,
+    "prompt_tokens_details": null,
+    "total_tokens": 3393
+  }
+}

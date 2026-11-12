@@ -1,0 +1,17 @@
+{
+  "body_sha256": "a9533e4f53a6ee9f61d1939678c5e59b89402f7375ce4b2e59243fed1cd24a4f",
+  "finish_reason": "stop",
+  "latency_s": 4.596767207993253,
+  "prediction": " Quillan remarks that Cersei's \"desperation for control often shadows her vulnerability.\" This suggests that despite any underlying fragility she may possess, Cersei's strong desire to be in control and her often ruthless tactics in maintaining it overshadow any signs of vulnerability that might be present in her character. This dynamic contributes to her complexity and the tragic elements of her narrative, as it leads to a life where she feels lonely and paranoid despite her power and achievements.",
+  "prediction_sha256": "c8cdf590e382f18866b477709d3eac8c627e9d84ee87c21bab25811b0383a048",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 200310,
+  "usage": {
+    "completion_tokens": 113,
+    "prompt_tokens": 4445,
+    "prompt_tokens_details": null,
+    "total_tokens": 4558
+  }
+}

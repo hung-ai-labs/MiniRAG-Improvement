@@ -1,0 +1,17 @@
+{
+  "body_sha256": "12914ac3132a8cbfd0dd43d8e8f10760d0ac7f538802b4add0118fa9b9e4457d",
+  "finish_reason": "stop",
+  "latency_s": 10.018017415997747,
+  "prediction": "Thrall is planning a community garden cleanup event scheduled for this Saturday. The invitation was sent out to participants to bring any necessary gardening tools to assist with the cleanup. This initiative aligns with the broader community-focused goals of improving and maintaining the garden spaces for everyone's enjoyment.",
+  "prediction_sha256": "1361c4e3d660b3e485c7393b16c6c71e6fa3a73e99f3502c679828ffde65e5e2",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 114,
+  "usage": {
+    "completion_tokens": 56,
+    "prompt_tokens": 4242,
+    "prompt_tokens_details": null,
+    "total_tokens": 4298
+  }
+}

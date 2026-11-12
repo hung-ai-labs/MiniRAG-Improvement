@@ -1,0 +1,17 @@
+{
+  "body_sha256": "9498f3b76e334457918c8300467212d8c884b9cb3ba8152b9e5cad9e74fb511f",
+  "finish_reason": "stop",
+  "latency_s": 11.83620666600109,
+  "prediction": "Aurora expresses that the atmosphere at the Bernabéu during tough games is electric and highlights the strong connection between the players and their passionate fans. She emphasizes how the team's fans play a significant role in lifting the team during challenging moments. Aurora believes that the winning culture is deeply ingrained within the club, which influences the players to remain resilient and determined, even when the odds seem against them. This strong support system creates an extraordinary environment that can push the players to perform at their very best.",
+  "prediction_sha256": "f1f262dffc74fb0262e153cd13c5b404c06a10f70fcac03e3a352fc05d76ec38",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 358,
+  "usage": {
+    "completion_tokens": 103,
+    "prompt_tokens": 4906,
+    "prompt_tokens_details": null,
+    "total_tokens": 5009
+  }
+}

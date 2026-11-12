@@ -1,0 +1,17 @@
+{
+  "body_sha256": "f51db426cd33394d8d8eb5c7410ba4f3e3ae413dce7fc5333342f62419d85a03",
+  "finish_reason": "stop",
+  "latency_s": 12.182539082998119,
+  "prediction": "The query regarding Emily's reading of The Lord of the Rings novels comes from LiHua. In a conversation recorded on Time: 20260922_17:00, LiHua asks Emily if she has read the novels, expressing curiosity about how the books tie into the upcoming series \"The Rings of Power\". LiHua mentions that he has seen the movies of \"The Lord of the Rings\" novels and is interested in Emily's thoughts on the series so far.",
+  "prediction_sha256": "e7189f8cb2413c3027f9a7dcfb7eaf67616bcb622a73c28231753ec1902ae654",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100260,
+  "usage": {
+    "completion_tokens": 104,
+    "prompt_tokens": 4337,
+    "prompt_tokens_details": null,
+    "total_tokens": 4441
+  }
+}

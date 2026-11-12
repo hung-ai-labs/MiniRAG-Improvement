@@ -1,0 +1,17 @@
+{
+  "body_sha256": "bca3ee90755a5728e38ada821480c91c86d8a66bf3654f15f80e08014e154330",
+  "finish_reason": "stop",
+  "latency_s": 6.999456958001247,
+  "prediction": " The provided data tables and conversation snippets do not include explicit addresses or specific delivery locations for Li Hua's bread orders. Li Hua's interactions with Hailey Johnson and Alice from Hailey's bakery are focused on feedback, delivery reminders, and discussions about new bread options. The addresses are not mentioned in the given information, and therefore, it is not possible to determine the delivery address based on the current data.\n\n```markdown\nBased on the information available, the address for Li Hua's bread delivery has not been disclosed in the conversation transcripts or tables. There is no mention of specific location details in the exchanges, and thus, it cannot be inferred from the given data.\n```",
+  "prediction_sha256": "fc4c7731d17a3040d8158b4a541e415eb4063fa29154b9cb2a918c1cb8c21501",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 94,
+  "usage": {
+    "completion_tokens": 158,
+    "prompt_tokens": 5278,
+    "prompt_tokens_details": null,
+    "total_tokens": 5436
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "f0ae21d3ef954ee739d3b035dd6040088eac6d5acd4e81c952d5e073c579ba1f",
+  "finish_reason": "stop",
+  "latency_s": 9.263626542000566,
+  "prediction": "There is no specific mention of the basement being affected by a storm in the provided conversations. However, Adam Smith did remind Li Hua to keep an eye on the basement pipes after hearing from some neighbors about potential issues with the pipes. This suggests that the basement has been monitored for leaks or other water-related concerns following a storm event. Otherwise, there is no explicit information about the condition of the basement post-storm.",
+  "prediction_sha256": "28972b7665b8ae228c9cb66b3f486ba78e1a680adb28644fa6fcd0c9cd094bd7",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200193,
+  "usage": {
+    "completion_tokens": 85,
+    "prompt_tokens": 4283,
+    "prompt_tokens_details": null,
+    "total_tokens": 4368
+  }
+}

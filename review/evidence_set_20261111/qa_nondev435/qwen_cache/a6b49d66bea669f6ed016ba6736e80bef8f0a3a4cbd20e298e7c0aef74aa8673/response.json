@@ -1,0 +1,17 @@
+{
+  "body_sha256": "a6b49d66bea669f6ed016ba6736e80bef8f0a3a4cbd20e298e7c0aef74aa8673",
+  "finish_reason": "stop",
+  "latency_s": 16.715531416997692,
+  "prediction": "Li Hua checks in with Adam about the details for the move-in at a time that is convenient for her. According to the conversations recorded, Li Hua initially asks Adam about a good time for her to visit the new place, expressing her eagerness to see the location. Specifically, she says, \"Hey Adam! Hope you’re doing well. I wanted to check in about the details for the move-in. When’s a good time for me to come by? Thanks!\" This initial inquiry happens on a date not explicitly stated in the data, but it occurs before Adam provides a specific time. Later, on a different date, Adam reminds Li Hua about picking up the key for the basement at 9 AM, which suggests that the move-in process has progressed to the point where Li Hua needs to arrange a visit. Thus, the earliest mentioned time for Li Hua to check in about the move-in is when she first expresses interest in coming by, though it is not given in a precise time frame.",
+  "prediction_sha256": "4754ca701b45d670889a83f2b757a1255f0357e44fcc83a8b818c3030793d488",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200055,
+  "usage": {
+    "completion_tokens": 207,
+    "prompt_tokens": 4140,
+    "prompt_tokens_details": null,
+    "total_tokens": 4347
+  }
+}

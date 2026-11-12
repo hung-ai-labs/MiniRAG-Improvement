@@ -1,0 +1,17 @@
+{
+  "body_sha256": "f98c230b038de7c09ffeda55c51d58a082c3b7350155a196cc6ccc6fe014cd4d",
+  "finish_reason": "stop",
+  "latency_s": 10.672562499999913,
+  "prediction": "Li Hua reached out to Jennifer Moore to inquire about additional exercises she could perform at home to enhance her training regimen and maximize her progress. This request suggests that Li Hua was looking to maintain and possibly improve her fitness level outside of her regular gym sessions. Jennifer Moore responded by providing several exercises that Li Hua could incorporate into her routine, including bodyweight squats, plank holds, push-ups, lunges, and glute bridges. She advised Li Hua to aim for three sets of ten to fifteen repetitions for each exercise and to monitor her body's responses to determine whether to include these new exercises on training days or off days.",
+  "prediction_sha256": "3cdd1d700dca7179282e93b62e600e9691cd318b9e84aa3fb9c61952282fe549",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 76,
+  "usage": {
+    "completion_tokens": 130,
+    "prompt_tokens": 4329,
+    "prompt_tokens_details": null,
+    "total_tokens": 4459
+  }
+}

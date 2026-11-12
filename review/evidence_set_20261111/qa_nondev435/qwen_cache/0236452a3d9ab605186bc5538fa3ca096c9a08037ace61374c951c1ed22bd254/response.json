@@ -1,0 +1,17 @@
+{
+  "body_sha256": "0236452a3d9ab605186bc5538fa3ca096c9a08037ace61374c951c1ed22bd254",
+  "finish_reason": "stop",
+  "latency_s": 7.885208499996224,
+  "prediction": "In the conversation, Dyllan mentioned that he found the game \"Firewatch\" particularly impactful due to its intimate feel and the quality of its dialogue. This game presents a narrative with an intimate perspective, focusing on the relationship between the protagonist and the landscape they inhabit. The dialogue between the main characters in \"Firewatch\" draws the player in deeply, creating a sense of connection and engagement that enhances the storytelling. This game exemplifies how games can tell a compelling story through dialogue and interaction, making the narrative experience richer and more emotionally resonant.",
+  "prediction_sha256": "ad69b6706a6ea378f1f67bbc3f60e9204f12e29d9f9dad1c19ee0b8a1cfad490",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100332,
+  "usage": {
+    "completion_tokens": 111,
+    "prompt_tokens": 4071,
+    "prompt_tokens_details": null,
+    "total_tokens": 4182
+  }
+}

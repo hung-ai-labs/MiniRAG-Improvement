@@ -1,0 +1,17 @@
+{
+  "body_sha256": "27eba94c69f7f93b9a0bb832bcec5fecd14cfb96e80a718e9bd45f49eeb59633",
+  "finish_reason": "stop",
+  "latency_s": 10.218898291997903,
+  "prediction": "In one of the interactions documented, Li Hua mentioned that she had a broken water tap in her apartment, which prompted Adam Smith to arrange for someone to check it out. However, there is no specific mention of a suggested schedule for the repairs in the provided conversations. Therefore, we cannot determine an exact time frame for when the repairs will be carried out based solely on the information available.",
+  "prediction_sha256": "5f55a9a3c326e768158be1c7b0a0a29e380f2d748c1533dff5d6d5bd53be6b54",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200117,
+  "usage": {
+    "completion_tokens": 79,
+    "prompt_tokens": 4457,
+    "prompt_tokens_details": null,
+    "total_tokens": 4536
+  }
+}

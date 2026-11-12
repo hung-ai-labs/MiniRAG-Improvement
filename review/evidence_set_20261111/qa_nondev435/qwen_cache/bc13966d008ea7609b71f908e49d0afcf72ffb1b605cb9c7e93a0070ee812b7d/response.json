@@ -1,0 +1,17 @@
+{
+  "body_sha256": "bc13966d008ea7609b71f908e49d0afcf72ffb1b605cb9c7e93a0070ee812b7d",
+  "finish_reason": "stop",
+  "latency_s": 8.392679166001471,
+  "prediction": "According to the text, Jasper specifically mentions the development of Phil Foden under Pep Guardiola's management at Manchester City. Additionally, Jasper also talks about the growth of another player named Rodri, although his exact mention of Rodri's development is not specified in the provided text. Therefore, the player whose development under Guardiola is explicitly mentioned by Jasper is Phil Foden.",
+  "prediction_sha256": "c0204cff1189db993b2349f2c25822d469f3de997ed977f2cac8c589c2307135",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100300,
+  "usage": {
+    "completion_tokens": 76,
+    "prompt_tokens": 4835,
+    "prompt_tokens_details": null,
+    "total_tokens": 4911
+  }
+}

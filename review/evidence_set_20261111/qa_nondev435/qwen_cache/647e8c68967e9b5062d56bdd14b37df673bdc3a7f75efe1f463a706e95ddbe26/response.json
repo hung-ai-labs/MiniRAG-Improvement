@@ -1,0 +1,17 @@
+{
+  "body_sha256": "647e8c68967e9b5062d56bdd14b37df673bdc3a7f75efe1f463a706e95ddbe26",
+  "finish_reason": "stop",
+  "latency_s": 7.955693584000983,
+  "prediction": "ThaneChambers recommends \"XCOM 2\" for its excellent choice-based gameplay and strategic elements. He explains that the game requires thoughtful planning and decision-making, which adds a significant layer of depth to the gameplay experience. Additionally, the game offers customization options for the player's squad, making every decision feel meaningful and impactful. ThaneChambers notes that the tactical aspects of the game are particularly rewarding due to the variety of outcomes possible based on the player's choices.",
+  "prediction_sha256": "c3e7b0eb1234f3a1fe731e6fd21f720e8c16b4d800833c97879f189aafd29dcd",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 322,
+  "usage": {
+    "completion_tokens": 98,
+    "prompt_tokens": 3959,
+    "prompt_tokens_details": null,
+    "total_tokens": 4057
+  }
+}

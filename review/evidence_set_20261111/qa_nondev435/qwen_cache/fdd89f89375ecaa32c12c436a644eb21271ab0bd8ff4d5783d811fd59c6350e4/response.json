@@ -1,0 +1,17 @@
+{
+  "body_sha256": "fdd89f89375ecaa32c12c436a644eb21271ab0bd8ff4d5783d811fd59c6350e4",
+  "finish_reason": "stop",
+  "latency_s": 15.23142108400134,
+  "prediction": "Li Hua asked Jennifer Moore for tips on dealing with muscle soreness multiple times during the provided conversations. Specifically, she reached out to Jennifer on two occasions:\n\n1. On December 11, 2026, at 11:00 AM, Li Hua expressed that she was experiencing soreness in her arm muscles after a recent workout.\n2. On August 17, 2026, at 12:15 PM, Li Hua shared that her arm muscles were still feeling sore from a previous workout.\n\nIn each instance, Jennifer provided helpful advice on various recovery techniques, including hydration, light activities, stretching, foam rolling, and rest. These responses clearly indicate that Li Hua sought out Jennifer's guidance on managing muscle soreness on multiple occasions.",
+  "prediction_sha256": "f33eed2660e076e3eef55b0871d7dcb8d67e0bdcc01454411a996b71fb007a44",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200074,
+  "usage": {
+    "completion_tokens": 164,
+    "prompt_tokens": 4148,
+    "prompt_tokens_details": null,
+    "total_tokens": 4312
+  }
+}

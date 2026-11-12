@@ -1,0 +1,17 @@
+{
+  "body_sha256": "d7934761db18c0b445fa397fd06f920aca5034bfccb626e451928ec96b2ff6c1",
+  "finish_reason": "stop",
+  "latency_s": 4.657115207999595,
+  "prediction": " Li Hua agrees to bring his guitar to the bonfire singing party hosted by Chae Song-hwa. This is mentioned in the conversation that took place on March 20, 2026, at 18:00. Li Hua's intention is to contribute his musical instrument to the gathering, enhancing the overall musical atmosphere and enabling him to participate actively in the singing activities planned for the event.",
+  "prediction_sha256": "6d596a2076d90567ac038fc1e5ccedb219aa3888c8ccf85c2091b394ce132920",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 100099,
+  "usage": {
+    "completion_tokens": 96,
+    "prompt_tokens": 5516,
+    "prompt_tokens_details": null,
+    "total_tokens": 5612
+  }
+}

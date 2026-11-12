@@ -1,0 +1,17 @@
+{
+  "body_sha256": "82a032a652c880257e18deaac034715b8d288f7d777ae903f6b88c60da458d8b",
+  "finish_reason": "stop",
+  "latency_s": 11.71612145799736,
+  "prediction": "In response to LiHua's request for tips to improve his endurance, Jennifer provides several actionable suggestions. First, she recommends incorporating longer cardio sessions and interval training into his routine. This approach allows for varied activity types, such as cycling, running, or swimming, which can prevent monotony and enhance overall fitness. Additionally, Jennifer advises focusing on proper hydration and nutrition, as these factors significantly impact endurance performance. She suggests LiHua consider a balanced diet rich in carbohydrates, proteins, and healthy fats, as well as staying hydrated throughout the day. These nutritional recommendations are crucial for replenishing glycogen stores and maintaining energy levels during workouts.",
+  "prediction_sha256": "20efb74a957e84c39ca38c2f07719976939cad69b936aaac425afd2dd6770d7c",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100134,
+  "usage": {
+    "completion_tokens": 129,
+    "prompt_tokens": 4102,
+    "prompt_tokens_details": null,
+    "total_tokens": 4231
+  }
+}

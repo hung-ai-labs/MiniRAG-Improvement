@@ -1,0 +1,17 @@
+{
+  "body_sha256": "228f727e3aa2a8513747ed9005b112dbe09b0589724964c4d07f1c0b07993c6c",
+  "finish_reason": "stop",
+  "latency_s": 6.662359500001912,
+  "prediction": "According to the records, there are two instances of power outages mentioned. One is scheduled for 2 pm to 3 pm today, and the other is planned for the afternoon of the next day. Both events are associated with the neighborhood setting where LiHua and ChaeSong-hwa discuss dog walking etiquette.",
+  "prediction_sha256": "77e4d2cb80bb352d1858bb3134ac0f0abebb86aa750fe8a812e758ca7c690365",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200090,
+  "usage": {
+    "completion_tokens": 65,
+    "prompt_tokens": 5134,
+    "prompt_tokens_details": null,
+    "total_tokens": 5199
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "d0c828c7b2c887c5aadb2e0349c23db59c072001124bca1a0526f68fa2d2ec33",
+  "finish_reason": "stop",
+  "latency_s": 8.51682074999917,
+  "prediction": "On June 9, 2026, Wolfgang invited Li Hua for dinner and suggested meeting at a \"super good and budget-friendly\" Thai restaurant. However, the exact name of this restaurant is not specified in the provided conversation logs. Based on the context, it appears to be a Thai restaurant, but its specific name is not mentioned.",
+  "prediction_sha256": "63a14a3057522521076e983b8aa223f4ed3ee979077181adb7cc454614b7592e",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 431,
+  "usage": {
+    "completion_tokens": 72,
+    "prompt_tokens": 4483,
+    "prompt_tokens_details": null,
+    "total_tokens": 4555
+  }
+}

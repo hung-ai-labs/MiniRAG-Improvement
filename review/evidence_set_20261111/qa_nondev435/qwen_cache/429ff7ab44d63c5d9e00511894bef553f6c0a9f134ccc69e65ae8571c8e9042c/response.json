@@ -1,0 +1,17 @@
+{
+  "body_sha256": "429ff7ab44d63c5d9e00511894bef553f6c0a9f134ccc69e65ae8571c8e9042c",
+  "finish_reason": "stop",
+  "latency_s": 7.4887990419993,
+  "prediction": "Based on the conversation recorded in the message, the community members decided to hold the picnic on the following Saturday. Specifically, Turalyon mentions, \"Let's say next Saturday for the picnic?\" This decision was made after a series of discussions about the potential activities and preparations for the picnic.",
+  "prediction_sha256": "833bc304609dc777c6a0bfe45c06f3c6725d7e5a7f856d807a4d482090ea33ee",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 395,
+  "usage": {
+    "completion_tokens": 59,
+    "prompt_tokens": 4957,
+    "prompt_tokens_details": null,
+    "total_tokens": 5016
+  }
+}

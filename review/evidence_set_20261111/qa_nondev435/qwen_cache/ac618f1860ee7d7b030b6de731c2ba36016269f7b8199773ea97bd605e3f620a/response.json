@@ -1,0 +1,17 @@
+{
+  "body_sha256": "ac618f1860ee7d7b030b6de731c2ba36016269f7b8199773ea97bd605e3f620a",
+  "finish_reason": "stop",
+  "latency_s": 10.388256458001706,
+  "prediction": "LiHua mentions an opportunity for the Jolly Band to perform in front of a crowd during a local music festival. This opportunity arises from a poster he sees indicating that his town is organizing a local music festival, which could serve as a platform for the band to showcase their music. The Jolly Band is planning to take advantage of this event, suggesting that it will likely occur on a Sunday as they prefer to practice on those days.",
+  "prediction_sha256": "c83ac5e433fa3aa7ada66b2dd2dc095ba6145a19ec32b93fea43bf9ce4bb751a",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 138,
+  "usage": {
+    "completion_tokens": 89,
+    "prompt_tokens": 4489,
+    "prompt_tokens_details": null,
+    "total_tokens": 4578
+  }
+}

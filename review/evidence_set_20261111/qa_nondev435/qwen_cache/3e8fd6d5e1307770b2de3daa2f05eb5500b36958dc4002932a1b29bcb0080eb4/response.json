@@ -1,0 +1,17 @@
+{
+  "body_sha256": "3e8fd6d5e1307770b2de3daa2f05eb5500b36958dc4002932a1b29bcb0080eb4",
+  "finish_reason": "stop",
+  "latency_s": 9.513933374997578,
+  "prediction": "The idea of picking up drinks on the way to the hot pot dinner seems to have originated from LiHua. In the conversation, LiHua suggests, \"Yeah, me too! Should we pick up some drinks on the way?\" WolfgangSchulz responds positively, agreeing to the idea, and they both mention, \"Yeah, let's grab some drinks.\" Therefore, LiHua is the one who first proposes this idea.",
+  "prediction_sha256": "f3b872c8eedf7ad2623d6d1ba6b31c2c3cd7734b6e26cab94103d11c3bb8d041",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100281,
+  "usage": {
+    "completion_tokens": 89,
+    "prompt_tokens": 5164,
+    "prompt_tokens_details": null,
+    "total_tokens": 5253
+  }
+}

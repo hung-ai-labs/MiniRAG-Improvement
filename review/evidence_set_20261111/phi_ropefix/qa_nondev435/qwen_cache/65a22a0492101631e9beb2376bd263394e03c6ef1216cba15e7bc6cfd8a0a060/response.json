@@ -1,0 +1,17 @@
+{
+  "body_sha256": "65a22a0492101631e9beb2376bd263394e03c6ef1216cba15e7bc6cfd8a0a060",
+  "finish_reason": "stop",
+  "latency_s": 12.0673772500013,
+  "prediction": " Based on the information provided in the data tables, Hailey Johnson starts her baking process early in the morning. She mentions this detail during her conversation with Li Hua, stating that she begins baking around 4 AM. This early start ensures that all the bakery items, especially the fresh bread and pastries, are ready and delivered by opening time. This information is shared to give Li Hua insight into the commitment and dedication Hailey puts into her craft, offering an appreciation for the freshness and quality of her baked goods.\n\n```markdown\n## Bakery Baking Hours\n\nHailey Johnson, owner of Hailey's bakery, is known to initiate her baking at an early hour. Specifically, she starts her baking process:\n\n- **Time:** 4 AM\n- **Reason:** This allows the bakery to serve freshly baked goods throughout the day.\n- **Share from conversation:** \"I start baking super early, usually around 4 AM! That way everything is fresh and ready for the day.\"\n\nThis early start is a testament to Hailey's dedication to providing her customers with the highest quality products each morning. Their routine ensures consistency and customer satisfaction from the first loaf of bread served.\n```\n\nNo other conflicting information or timings are provided about the bakery's baking schedule from the given data tables.",
+  "prediction_sha256": "16f25c7b6c8dc646e0b50326fcfb3001d24e07e9f084b2287949c7ae799a897b",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 100096,
+  "usage": {
+    "completion_tokens": 311,
+    "prompt_tokens": 4784,
+    "prompt_tokens_details": null,
+    "total_tokens": 5095
+  }
+}

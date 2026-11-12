@@ -1,0 +1,17 @@
+{
+  "body_sha256": "f66d1ba7e5d0031c1b6fbfa93b2a58eb175abc23a41d1ef504729e14620c1af1",
+  "finish_reason": "stop",
+  "latency_s": 11.821608916005061,
+  "prediction": "The discussion about the garage sale is ongoing and mentioned in several messages. Specifically, AdamSmith reminds LiHua about the upcoming community bake sale scheduled for March 28th at 3 PM, emphasizing its importance in supporting a local charity. Another message indicates that there's a community bake sale happening this Sunday at 3 PM to support a local charity, suggesting that the garage sale is likely to occur at the same time, though not explicitly mentioned.",
+  "prediction_sha256": "a1b57fd4337d8ec022fd50652b1e799c57998b1531c612d8fefd457b860cd7ef",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200168,
+  "usage": {
+    "completion_tokens": 92,
+    "prompt_tokens": 5331,
+    "prompt_tokens_details": null,
+    "total_tokens": 5423
+  }
+}

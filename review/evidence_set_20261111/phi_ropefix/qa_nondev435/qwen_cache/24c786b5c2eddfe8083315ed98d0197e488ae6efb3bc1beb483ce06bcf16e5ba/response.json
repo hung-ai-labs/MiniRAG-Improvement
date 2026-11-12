@@ -1,0 +1,17 @@
+{
+  "body_sha256": "24c786b5c2eddfe8083315ed98d0197e488ae6efb3bc1beb483ce06bcf16e5ba",
+  "finish_reason": "stop",
+  "latency_s": 9.209470834000967,
+  "prediction": " According to the conversation transcript provided, Li Hua ordered a \"Hawthorn and dried tangerine peel Basque burnt cheesecake\" which she found delicious after having Sichuan hot pot with Wolfgang Schulz. She mentioned that she would bring one for Wolfgang to try during their next dinner meeting.\n\n```markdown\n- **Dessert Ordered by Li Hua**: Hawthorn and dried tangerine peel Basque burnt cheesecake\n```\n\nLi Hua's enthusiasm about this dessert indicates that it was a delightful choice for her, and she expresses her eagerness to introduce Wolfgang to the same treat.\n\n\n```markdown\n- **Context**: The pair discussed attending a hot pot dinner where Li Hua suggested they meet for a dessert, leading to her order of the Basque burnt cheesecake on a subsequent date.\n```",
+  "prediction_sha256": "ea29a5ac666e66a09dd0ce8d0253e0a9d599e3e9abd3ba1635317f07bd829fab",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 200408,
+  "usage": {
+    "completion_tokens": 206,
+    "prompt_tokens": 5868,
+    "prompt_tokens_details": null,
+    "total_tokens": 6074
+  }
+}

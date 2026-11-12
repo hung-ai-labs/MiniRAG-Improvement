@@ -1,0 +1,17 @@
+{
+  "body_sha256": "a44002a651387865809e4e3be3f2820b274262c7c61f961a52da77ad053e93f8",
+  "finish_reason": "stop",
+  "latency_s": 3.6294842089992017,
+  "prediction": "Fionnuala emphasizes the convenience of adjusting audio settings on the fly via the Control Center, particularly noting that it makes switching between games and applications much smoother. She highlights how this feature enhances the gaming experience by providing flexibility in managing audio preferences without needing to pause the game.",
+  "prediction_sha256": "78774d9255dd7f161d3b11ac49e2073d935848f3f27c8d25357581d7e6eb40a2",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200251,
+  "usage": {
+    "completion_tokens": 56,
+    "prompt_tokens": 3478,
+    "prompt_tokens_details": null,
+    "total_tokens": 3534
+  }
+}

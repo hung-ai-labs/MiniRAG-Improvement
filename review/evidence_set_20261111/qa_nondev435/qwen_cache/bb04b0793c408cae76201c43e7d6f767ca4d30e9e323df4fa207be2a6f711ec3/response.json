@@ -1,0 +1,17 @@
+{
+  "body_sha256": "bb04b0793c408cae76201c43e7d6f767ca4d30e9e323df4fa207be2a6f711ec3",
+  "finish_reason": "stop",
+  "latency_s": 8.869555000004766,
+  "prediction": "JakeWatson mentions several characteristics of Real Madrid in his comments. One notable characteristic he highlights is their \"never-say-die attitude.\" Specifically, he states, \"It's like they thrive under pressure. I remember watching a game where they were down by two goals, and somehow, they found their way back! It's that never-say-die attitude.\" This speaks to Real Madrid's resilience and ability to come back from difficult situations, which is often attributed to their strong team spirit and determination.",
+  "prediction_sha256": "0096ca674f3cb5cde7b5fbb5f7ea4a54ad4212b87e8d4f3edcac51dd52f25db7",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100356,
+  "usage": {
+    "completion_tokens": 103,
+    "prompt_tokens": 4305,
+    "prompt_tokens_details": null,
+    "total_tokens": 4408
+  }
+}

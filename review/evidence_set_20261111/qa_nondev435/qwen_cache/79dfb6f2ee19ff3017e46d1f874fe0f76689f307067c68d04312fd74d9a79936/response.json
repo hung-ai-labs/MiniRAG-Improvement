@@ -1,0 +1,17 @@
+{
+  "body_sha256": "79dfb6f2ee19ff3017e46d1f874fe0f76689f307067c68d04312fd74d9a79936",
+  "finish_reason": "stop",
+  "latency_s": 6.051480750000337,
+  "prediction": "In one of the conversations, ThaneChambers recommends \"The Last of Us\" as a game with choice-based storytelling. He highlights that the game's narrative is gripping and emotional, with well-developed characters and intense gameplay. Additionally, ThaneChambers notes that the story stands out from many other games due to its strong narrative, which aligns well with players who appreciate games with rich and compelling storylines.",
+  "prediction_sha256": "ecb09a0d501408bc2528d03a67e36582e9023499c6e3820589655ab645ceb43d",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 322,
+  "usage": {
+    "completion_tokens": 87,
+    "prompt_tokens": 4203,
+    "prompt_tokens_details": null,
+    "total_tokens": 4290
+  }
+}

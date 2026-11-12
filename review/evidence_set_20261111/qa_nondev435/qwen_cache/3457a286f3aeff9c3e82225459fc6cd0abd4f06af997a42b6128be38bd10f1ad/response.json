@@ -1,0 +1,17 @@
+{
+  "body_sha256": "3457a286f3aeff9c3e82225459fc6cd0abd4f06af997a42b6128be38bd10f1ad",
+  "finish_reason": "stop",
+  "latency_s": 8.840492707997328,
+  "prediction": "Based on the conversations provided, LiHua will be responsible for picking up the snacks and drinks on her way to the movie night. WolfgangSchulz expressed interest in bringing snacks for the movie, but it was LiHua who mentioned she would bring chips and would also be picking up the soda and juice.",
+  "prediction_sha256": "2c1fabaa71449cbca69816efa4bf4a07441a7c6eda46a24935991591525bd4eb",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 307,
+  "usage": {
+    "completion_tokens": 64,
+    "prompt_tokens": 5306,
+    "prompt_tokens_details": null,
+    "total_tokens": 5370
+  }
+}

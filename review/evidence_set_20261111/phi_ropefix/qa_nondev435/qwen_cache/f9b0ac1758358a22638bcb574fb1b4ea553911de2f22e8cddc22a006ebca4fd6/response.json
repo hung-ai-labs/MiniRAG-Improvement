@@ -1,0 +1,17 @@
+{
+  "body_sha256": "f9b0ac1758358a22638bcb574fb1b4ea553911de2f22e8cddc22a006ebca4fd6",
+  "finish_reason": "stop",
+  "latency_s": 19.15719199999876,
+  "prediction": " On July 2, 2026, Wolfgang expresses his enthusiasm for trying out Thai cuisine at a newly discovered restaurant. Specifically, Wolfgang mentions that he is considering ordering pad thai and spring rolls from the restaurant. Pad thai, a popular Thai dish made with rice noodles, tamarind, peanuts, and various proteins, is a staple in Thai street food and known for its unique and savory flavor profile. Spring rolls, on the other hand, are typically filled with a mixture of vegetables, sometimes including shrimp or pork, and are often served with a sweet and tangy dipping sauce. Wolfgang's selection reflects a desire to appreciate the restaurant's traditional offerings and embark on a culinary experience that showcases the flavors of Thailand.\n\nBased on this information from the table:\n\n```\nTime: 20260702_15:00\nWolfgangSchulz: Hey! I just discovered this awesome Thai spot that's super good and budget-friendly. Wanna grab dinner there tonight? 🍜✨\nLiHua: Sounds great! I'm totally in for some delicious Thai food! What time do you want to meet? 😊\nWolfgangSchulz: How about 7? That way we can chill and enjoy a nice dinner before everything gets busy. 🍽️\nLiHua: Perfect! 7 it is! Looking forward to it! What do you think you're going to order?\nWolfgangSchulz: Thinking of trying their pad thai and maybe some spring rolls. What about you? 🍤\nLiHua: I'm leaning towards green curry, I've heard it's amazing! Can't wait to dig in! 😋\n```\n\nWolfgang wants to try pad thai and spring rolls at the Thai restaurant. LiHua, meanwhile, is interested in ordering green curry, which she believes is amazing, suggesting there might be a variety of other Thai dishes available to explore.",
+  "prediction_sha256": "9f22bcf47213a14d5ac65291dac2d15c8402819b7e9b2caf620e1ac84f133b8f",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 100147,
+  "usage": {
+    "completion_tokens": 491,
+    "prompt_tokens": 5375,
+    "prompt_tokens_details": null,
+    "total_tokens": 5866
+  }
+}

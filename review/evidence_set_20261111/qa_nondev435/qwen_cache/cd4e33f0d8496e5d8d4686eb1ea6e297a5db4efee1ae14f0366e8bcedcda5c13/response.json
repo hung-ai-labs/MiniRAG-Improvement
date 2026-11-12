@@ -1,0 +1,17 @@
+{
+  "body_sha256": "cd4e33f0d8496e5d8d4686eb1ea6e297a5db4efee1ae14f0366e8bcedcda5c13",
+  "finish_reason": "stop",
+  "latency_s": 7.075178582999797,
+  "prediction": "There is no information provided in the given conversation that indicates why Adam reminded Li Hua not to play guitar late at night. The interactions between Adam and Li Hua mainly cover reminders about picking up a key, discussing class changes, plans to watch a movie, and arranging jam sessions. There is no mention of late-night guitar practice or any related constraints.",
+  "prediction_sha256": "027860f9e7a65d76dd7b2a73d15fbd7ca3243175f22176f55668dc54ac13bcb4",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 81,
+  "usage": {
+    "completion_tokens": 72,
+    "prompt_tokens": 4269,
+    "prompt_tokens_details": null,
+    "total_tokens": 4341
+  }
+}

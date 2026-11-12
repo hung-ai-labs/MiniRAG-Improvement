@@ -1,0 +1,17 @@
+{
+  "body_sha256": "97c11beac3bba5c474b8d942a04f2afafa42e73564bb4949bfde6715865173ca",
+  "finish_reason": "stop",
+  "latency_s": 7.890208333999908,
+  "prediction": "According to the records, Li Hua and Wolfgang are planning to meet for breakfast on the morning of the 9th at 11:00 AM. They seem to have a regular routine of enjoying breakfast together, and this date appears to be another scheduled meeting point.",
+  "prediction_sha256": "4de858f9c7f79b98c5488cf0e6bb8611af608cd149b0d927da105261b9768a42",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 403,
+  "usage": {
+    "completion_tokens": 57,
+    "prompt_tokens": 4489,
+    "prompt_tokens_details": null,
+    "total_tokens": 4546
+  }
+}

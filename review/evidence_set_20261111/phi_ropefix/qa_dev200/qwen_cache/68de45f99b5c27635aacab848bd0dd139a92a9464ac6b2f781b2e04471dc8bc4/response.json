@@ -1,0 +1,17 @@
+{
+  "body_sha256": "68de45f99b5c27635aacab848bd0dd139a92a9464ac6b2f781b2e04471dc8bc4",
+  "finish_reason": "stop",
+  "latency_s": 8.027142458002345,
+  "prediction": " Li Hua finds the rosemary focaccia to be \"must-try\". This is a positive sentiment indicating that Li Hua is curious and open to trying this particular bread, especially since HaileyJohnson, the bread provider, recommends it as an adventurous option. Li Hua's interest is demonstrated by the affirmative response, \"Absolutely! If you like something a bit sweet, my honey oat bread is a hit! And if you're feeling adventurous, my rosemary focaccia is a must-try!\" Here, HaileyJohnson is encouraging Li Hua to step out of his comfort zone and try something that has a unique flavor profile due to the rosemary infusion. The exchange not only shows Li Hua's willingness to try new things but also reflects a budding customer-baker rapport where suggestions and personal tastes are exchanged to enhance the shopping experience.",
+  "prediction_sha256": "d216ce0a4fb9ae137190344a55fd7fb8146b1abb4a926bc2066196c743df3b85",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 44,
+  "usage": {
+    "completion_tokens": 205,
+    "prompt_tokens": 5180,
+    "prompt_tokens_details": null,
+    "total_tokens": 5385
+  }
+}

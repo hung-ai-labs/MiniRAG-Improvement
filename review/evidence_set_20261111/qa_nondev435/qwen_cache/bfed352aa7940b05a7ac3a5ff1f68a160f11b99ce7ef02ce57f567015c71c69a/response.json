@@ -1,0 +1,17 @@
+{
+  "body_sha256": "bfed352aa7940b05a7ac3a5ff1f68a160f11b99ce7ef02ce57f567015c71c69a",
+  "finish_reason": "stop",
+  "latency_s": 9.930072041999665,
+  "prediction": "On January 6th, at 15:00, Adam Smith reaches out to Li Hua to confirm the arrival of a plumber scheduled for the following day at 10:00 AM to fix a water tap issue in their apartment. Li Hua confirms that this timing works for her and asks Adam to keep her informed if she needs anything else or has additional questions. Adam assures Li Hua that he will provide her with any further details and offers to assist her with any other concerns she might have. This exchange highlights Adam's proactive approach to addressing maintenance issues within their living arrangement and Li Hua's responsiveness to these requests.",
+  "prediction_sha256": "156efa138ce4dda9583b26da20301583238b86bffa091121fb5d499b441806a0",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 60,
+  "usage": {
+    "completion_tokens": 132,
+    "prompt_tokens": 4005,
+    "prompt_tokens_details": null,
+    "total_tokens": 4137
+  }
+}

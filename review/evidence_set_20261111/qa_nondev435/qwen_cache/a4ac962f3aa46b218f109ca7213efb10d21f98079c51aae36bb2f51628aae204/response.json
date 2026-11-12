@@ -1,0 +1,17 @@
+{
+  "body_sha256": "a4ac962f3aa46b218f109ca7213efb10d21f98079c51aae36bb2f51628aae204",
+  "finish_reason": "stop",
+  "latency_s": 9.180285292000917,
+  "prediction": "Based on the conversations documented, Wolfgang Schulz has expressed preferences for classic burger toppings. He mentions enjoying a classic cheeseburger with lettuce, tomato, and pickles, suggesting he prefers simplicity. However, he is also open to adventurous options, stating he likes a little spice and offering to share a spicy jalapeño burger with Li Hua. This indicates that while he appreciates the traditional cheeseburger, he is willing to experiment with different flavor profiles.",
+  "prediction_sha256": "8c7655250cdab793cf2244299020233cf7eea4a6f053977799f3939a929c855d",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 187,
+  "usage": {
+    "completion_tokens": 92,
+    "prompt_tokens": 4556,
+    "prompt_tokens_details": null,
+    "total_tokens": 4648
+  }
+}

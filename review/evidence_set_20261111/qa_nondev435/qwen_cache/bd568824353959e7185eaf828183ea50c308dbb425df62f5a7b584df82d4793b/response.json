@@ -1,0 +1,17 @@
+{
+  "body_sha256": "bd568824353959e7185eaf828183ea50c308dbb425df62f5a7b584df82d4793b",
+  "finish_reason": "stop",
+  "latency_s": 8.922167415999866,
+  "prediction": "On April 25, 2026, Li Hua mentioned that he would introduce his friend to the group the following day. From the context provided, it is revealed that this friend is named Chae, who is described as a neurosurgeon. The conversation does not provide further details about Chae’s musical background or participation in the jam session. Therefore, based on the information available, Li Hua is bringing Chae, a neurosurgeon, to the band's jam session.",
+  "prediction_sha256": "b797c48ed1395d5d90b20c7b5ea1c8c9d59ba40549065d1b59218d8d4cfcbf43",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200113,
+  "usage": {
+    "completion_tokens": 105,
+    "prompt_tokens": 4747,
+    "prompt_tokens_details": null,
+    "total_tokens": 4852
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "ce742e8c42df7c3b00cfe89f61b3218107a5bae9a9aae62392597b77d2cb7ab2",
+  "finish_reason": "stop",
+  "latency_s": 12.008027250005398,
+  "prediction": "In the conversation between Li Hua and Adam Smith, Li Hua initially mentions noticing a broken streetlight near her. However, she does not specifically mention a broken light fixture. Instead, she asks Adam if he knows who to contact to get the streetlight fixed. Adam provides the number 314159, suggesting that the issue involves a streetlight rather than a light fixture inside the building. Therefore, based on the information provided in the dialogue, Adam does not directly comment on a broken light fixture.",
+  "prediction_sha256": "d40582fa98aecde9a3f17bca45526870dd89382e1f2cb816e9e21ac16ab2f167",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 67,
+  "usage": {
+    "completion_tokens": 106,
+    "prompt_tokens": 4346,
+    "prompt_tokens_details": null,
+    "total_tokens": 4452
+  }
+}

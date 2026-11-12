@@ -1,0 +1,17 @@
+{
+  "body_sha256": "603ec93f6abc382edfe86e10686cc4f4dcf0d0498d485e4188a6e1f09515acea",
+  "finish_reason": "stop",
+  "latency_s": 11.066503750000265,
+  "prediction": "On April 3rd, 2026, Alice from Hailey's bakery delivered the bread to Li Hua. This delivery was confirmed in message ID 6, where Alice informs Li Hua, \"I am Alice from Hailey's bakery. Your bread has been delivered, please come and pick it up ASAP. Have a good day : )\" Additionally, Li Hua responded positively, expressing excitement for the fresh bread. This indicates that Alice, who is described in the entities table as Alice facilitating bread delivery, is responsible for this delivery.",
+  "prediction_sha256": "26fdd38c169b62f3552f0cf26f3dcd48851599bcf72fe8fff74cd84ad33c240e",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100105,
+  "usage": {
+    "completion_tokens": 113,
+    "prompt_tokens": 3616,
+    "prompt_tokens_details": null,
+    "total_tokens": 3729
+  }
+}

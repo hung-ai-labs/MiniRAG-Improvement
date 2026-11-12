@@ -1,0 +1,17 @@
+{
+  "body_sha256": "46476e52fe134f34e1df5c3d6f60aa735ac5376f95ab01c8d855ceb1972cca7b",
+  "finish_reason": "stop",
+  "latency_s": 14.107766583001649,
+  "prediction": "Li Hua received an invitation to a work meeting with Yuriko Yamamoto scheduled for Thursday afternoon. According to the information provided in Source 9, Yuriko Yamamoto reached out to Li Hua regarding improving the homepage of her speech therapy studio. Specifically, Yuriko asked Li Hua to assist in creating a more welcoming and engaging homepage for her studio, potentially including sections for resources and success stories. Li Hua agreed to help and suggested setting up a meeting at a mutually convenient time, ultimately agreeing to a Thursday afternoon session. Therefore, the reason for Li Hua's unexpected work meeting on Thursday is to discuss and collaborate on improving the homepage design for Yuriko Yamamoto's speech therapy studio.",
+  "prediction_sha256": "4e449e2b3ad5c4d9530d21fcd792fa230528379d6660d1e0e97d21af5273cb18",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100419,
+  "usage": {
+    "completion_tokens": 146,
+    "prompt_tokens": 4289,
+    "prompt_tokens_details": null,
+    "total_tokens": 4435
+  }
+}

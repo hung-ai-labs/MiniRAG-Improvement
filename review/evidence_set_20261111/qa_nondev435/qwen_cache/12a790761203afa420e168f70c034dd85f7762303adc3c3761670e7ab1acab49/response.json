@@ -1,0 +1,17 @@
+{
+  "body_sha256": "12a790761203afa420e168f70c034dd85f7762303adc3c3761670e7ab1acab49",
+  "finish_reason": "stop",
+  "latency_s": 5.01187037499767,
+  "prediction": "LiHua mentions \"The Stanley Parable\" as a game that plays with various storytelling tropes and leaves her thinking. She describes it as \"hilarious and profound at the same time, playing with various storytelling tropes. It's wild how it twists expectations and keeps you guessing!\"",
+  "prediction_sha256": "0ed3ede7890d41ba2473cddbcda32fe16476665d76c7e253111d655290c1b5c8",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100333,
+  "usage": {
+    "completion_tokens": 60,
+    "prompt_tokens": 4075,
+    "prompt_tokens_details": null,
+    "total_tokens": 4135
+  }
+}

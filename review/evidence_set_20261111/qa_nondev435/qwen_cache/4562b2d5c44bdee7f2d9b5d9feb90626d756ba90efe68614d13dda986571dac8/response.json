@@ -1,0 +1,17 @@
+{
+  "body_sha256": "4562b2d5c44bdee7f2d9b5d9feb90626d756ba90efe68614d13dda986571dac8",
+  "finish_reason": "stop",
+  "latency_s": 7.705774166999618,
+  "prediction": "In the soccer practice scheduled for Saturday afternoon, Giselle offered to assist with setting up the drills. She mentioned she would be \"excited to mix it up and improve together.\" Given that the practice includes shooting drills and also mentions dribbling practice, it seems likely that cones would be needed to mark out areas for the players to practice their shooting skills. Giselle’s willingness to help with setup indicates her active participation in the practice session.",
+  "prediction_sha256": "3baac166cfdd146d77ffa034c7e2cc08532ceaf6839d5aa86b261e468f82f948",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100363,
+  "usage": {
+    "completion_tokens": 91,
+    "prompt_tokens": 4872,
+    "prompt_tokens_details": null,
+    "total_tokens": 4963
+  }
+}

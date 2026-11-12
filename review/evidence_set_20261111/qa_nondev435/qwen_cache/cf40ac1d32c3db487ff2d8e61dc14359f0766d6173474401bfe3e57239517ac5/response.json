@@ -1,0 +1,17 @@
+{
+  "body_sha256": "cf40ac1d32c3db487ff2d8e61dc14359f0766d6173474401bfe3e57239517ac5",
+  "finish_reason": "stop",
+  "latency_s": 7.689936624999973,
+  "prediction": "In the conversation regarding the team swimming competition scheduled for December, Jennifer expressed her excitement about the event and encouraged Li Hua to prepare adequately for the challenge. Jennifer suggested incorporating longer cardio sessions and interval training into Li Hua's routine to boost his endurance, emphasizing the importance of proper hydration and nutrition as well. She also mentioned that they would be focusing on kicking off the week with a 100 pushup session during their session on Tuesday at 10:00 AM. Jennifer assured Li Hua that she would provide further guidance on warming up and maintaining form to ensure he performs at his best during the competition.",
+  "prediction_sha256": "97c20ede34b75eec7b3097af413fab1ee69e1b2122175ef0641b28738990aca9",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100442,
+  "usage": {
+    "completion_tokens": 127,
+    "prompt_tokens": 4318,
+    "prompt_tokens_details": null,
+    "total_tokens": 4445
+  }
+}

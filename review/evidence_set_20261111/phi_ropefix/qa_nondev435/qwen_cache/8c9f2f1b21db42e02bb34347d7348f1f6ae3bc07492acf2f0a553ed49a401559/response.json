@@ -1,0 +1,17 @@
+{
+  "body_sha256": "8c9f2f1b21db42e02bb34347d7348f1f6ae3bc07492acf2f0a553ed49a401559",
+  "finish_reason": "stop",
+  "latency_s": 6.608851541001059,
+  "prediction": " JakeWatson fondly recalls Messi's solo goal against Getafe in 2007 as one of the most memorable moments. He describes it as \"pure genius,\" highlighting Messi's incredible skill in dribbling past several defenders, akin to navigating through a series of cone drills. This moment stands out to Jake as a testament to Messi's unparalleled talent and the sheer brilliance of his playmaking abilities on the field.",
+  "prediction_sha256": "641fbf0504a40fa8af6721c156d0f5026ef19c742b370eae87c56e7c521dac96",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 230,
+  "usage": {
+    "completion_tokens": 113,
+    "prompt_tokens": 4235,
+    "prompt_tokens_details": null,
+    "total_tokens": 4348
+  }
+}

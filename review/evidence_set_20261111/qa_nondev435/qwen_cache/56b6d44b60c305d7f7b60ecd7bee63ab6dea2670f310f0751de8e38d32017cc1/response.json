@@ -1,0 +1,17 @@
+{
+  "body_sha256": "56b6d44b60c305d7f7b60ecd7bee63ab6dea2670f310f0751de8e38d32017cc1",
+  "finish_reason": "stop",
+  "latency_s": 8.938810999999987,
+  "prediction": "There is no mention of a new flavor cheese introduced by Hailey Johnson in the provided data. The conversations revolve around various topics such as favorite fast food items, baking experiences, recipe feedback, and support for health initiatives. Specifically, Hailey Johnson mentions new pastry varieties like the sprinkled cake donuts and red velvet New York cheesecake, but there is no indication of a new flavor cheese being launched.",
+  "prediction_sha256": "e1cf85ba2a15dbb84fec065f39ba637af5ecad57fac02b5df243a632d80b182b",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200131,
+  "usage": {
+    "completion_tokens": 83,
+    "prompt_tokens": 3989,
+    "prompt_tokens_details": null,
+    "total_tokens": 4072
+  }
+}

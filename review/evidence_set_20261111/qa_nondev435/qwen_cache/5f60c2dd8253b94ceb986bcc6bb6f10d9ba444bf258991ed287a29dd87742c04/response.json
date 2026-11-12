@@ -1,0 +1,17 @@
+{
+  "body_sha256": "5f60c2dd8253b94ceb986bcc6bb6f10d9ba444bf258991ed287a29dd87742c04",
+  "finish_reason": "stop",
+  "latency_s": 13.307317707996845,
+  "prediction": "In several conversations, it is mentioned that they plan to meet for soccer practice. Specifically, in one conversation dated 20261105_15:00, LiHua suggests a Saturday afternoon for soccer practice and mentions, \"It'll be a great way to enhance our skills and enjoy some time outside.\" Jasper confirms he is available for practice on Saturday afternoon and asks for a meeting time, proposing 3 PM as a suitable option. LiHua agrees, saying, \"3 PM sounds perfect to me! I think practicing together will help us improve our teamwork too. Looking forward to seeing everyone!\" Thus, the specific time they plan to meet for soccer practice is 3 PM on Saturday.",
+  "prediction_sha256": "bb6258486e65c6292df8ea459bca8a8b4aedbaf04a352ffc5dd30777ffb23e97",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200362,
+  "usage": {
+    "completion_tokens": 147,
+    "prompt_tokens": 5176,
+    "prompt_tokens_details": null,
+    "total_tokens": 5323
+  }
+}

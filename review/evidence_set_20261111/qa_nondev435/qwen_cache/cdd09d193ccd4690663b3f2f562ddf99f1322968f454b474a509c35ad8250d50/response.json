@@ -1,0 +1,17 @@
+{
+  "body_sha256": "cdd09d193ccd4690663b3f2f562ddf99f1322968f454b474a509c35ad8250d50",
+  "finish_reason": "stop",
+  "latency_s": 11.7339451250009,
+  "prediction": "In the discussion provided, multiple meetings for soccer practice are mentioned. Initially, Jasper suggests meeting up on Saturday afternoon at 3 PM to work on passing drills and possibly shooting drills as well. Farrah agrees and proposes that they meet at the local park around 3 PM on Saturday. Additionally, Evangeline expresses enthusiasm about meeting up on Saturday for some fun and productive practice sessions. \n\nTherefore, it seems that the agreed-upon time for soccer practice is 3 PM on Saturdays, with the option to meet at a local park.",
+  "prediction_sha256": "b86aa91c67caf5337894895c116c4441516dad94e787b7cdc8c3db525cd61745",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 362,
+  "usage": {
+    "completion_tokens": 109,
+    "prompt_tokens": 5176,
+    "prompt_tokens_details": null,
+    "total_tokens": 5285
+  }
+}

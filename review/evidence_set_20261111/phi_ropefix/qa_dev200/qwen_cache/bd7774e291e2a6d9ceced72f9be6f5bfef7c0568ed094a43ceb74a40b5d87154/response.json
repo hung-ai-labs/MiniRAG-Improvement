@@ -1,0 +1,17 @@
+{
+  "body_sha256": "bd7774e291e2a6d9ceced72f9be6f5bfef7c0568ed094a43ceb74a40b5d87154",
+  "finish_reason": "stop",
+  "latency_s": 14.151107042001968,
+  "prediction": " According to the conversation between Hailey and LiHua on June 22, 2026, the special event at Hailey's bakery was scheduled to start at 10 AM on that Saturday. This event was not only a bread tasting session but also featured a workshop, indicating that it was a collaborative and interactive experience for the attendees. Both Hailey and LiHua shared excitement about the event, with LiHua confirming her attendance and expressing anticipation for both the samples and the workshop.\n\nHere is a summary of the relevant portion of their exchange, formatted in markdown:\n\n```markdown\n### Special Event at Hailey's Bakery on June 22, 2026\n\n- **Event Start Time**: 10 AM\n- **Event Description**: A bread tasting session complemented by a workshop.\n- **Participants' Reactions**:\n  - **Hailey** expressed her excitement about the event and the upcoming workshop.\n  - **LiHua** confirmed attendance, expressing eagerness to try the new healthy bread options and participate in the workshop.\n- **Planned Activities**:\n  - Tasting new healthy bread options\n  - Attending a workshop, likely involving baking or related activities.\n```\n\nThis summary captures the key details of the special event based on the context provided in the discussion between Hailey and LiHua.",
+  "prediction_sha256": "400aa2931d84d550c8508ee303773c7a1fdc8a682d5a8acadfc47be3f15d2962",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 191,
+  "usage": {
+    "completion_tokens": 332,
+    "prompt_tokens": 5987,
+    "prompt_tokens_details": null,
+    "total_tokens": 6319
+  }
+}

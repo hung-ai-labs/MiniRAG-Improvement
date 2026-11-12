@@ -1,0 +1,17 @@
+{
+  "body_sha256": "75d00a42a5b79cdf50105ef841fc15583b8ceee4032fe9893de2af454ec7f0c1",
+  "finish_reason": "stop",
+  "latency_s": 8.855464374999428,
+  "prediction": "No, the time interval between LiHua confirming receipt of the curtain on March 9th and Adam inquiring about the curtain's quality on March 12th is less than three days. Specifically, there is a span of three days between these two events. \n\nOn March 9th, LiHua informs Adam that he has received the curtains. Then, on March 12th, Adam asks LiHua if the curtains are okay. Given this sequence of events, the gap between LiHua receiving the curtains and Adam asking about them is exactly three days, not more than three days.",
+  "prediction_sha256": "c0a3658099ca04e1cd92082bcad28f68a420fe8d3008fd87a623ccd034319f24",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 43,
+  "usage": {
+    "completion_tokens": 125,
+    "prompt_tokens": 4331,
+    "prompt_tokens_details": null,
+    "total_tokens": 4456
+  }
+}

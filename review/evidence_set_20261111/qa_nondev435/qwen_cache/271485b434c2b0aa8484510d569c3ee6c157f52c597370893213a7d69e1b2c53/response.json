@@ -1,0 +1,17 @@
+{
+  "body_sha256": "271485b434c2b0aa8484510d569c3ee6c157f52c597370893213a7d69e1b2c53",
+  "finish_reason": "stop",
+  "latency_s": 12.42500158400071,
+  "prediction": "In the conversation recorded on Time: 20260111_17:00, Li Hua mentioned noticing a broken streetlight near their location. In response, Adam Smith, presumably the landlord, advised Li Hua to contact the maintenance worker at 314159 for assistance with fixing the broken streetlight. This indicates that the light fixture issue referred to by Li Hua was a streetlight, not an indoor light fixture. Adam Smith offered to assist by contacting the maintenance team, which Li Hua appreciated and decided to follow through with.",
+  "prediction_sha256": "f95168d6b30a1810c07c95c959a3842a62eaaf275d4c400160f187e4592f0f9e",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100067,
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 3811,
+    "prompt_tokens_details": null,
+    "total_tokens": 3931
+  }
+}

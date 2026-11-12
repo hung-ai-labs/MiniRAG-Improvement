@@ -1,0 +1,17 @@
+{
+  "body_sha256": "e2423d803dca81f26d1ce2db5267c65c8e351f25ba91eae3bff8f9fd0f3b9d71",
+  "finish_reason": "stop",
+  "latency_s": 7.896067875000881,
+  "prediction": "Based on the conversations provided, Li Hua and Yuriko both express an interest in playing classic rock music together. Yuriko mentions she enjoys a mix of genres, but particularly classic rock and acoustic songs. Li Hua confirms his love for classic rock and suggests they could create a medley during their jam sessions. Therefore, it can be inferred that the favorite type of music for Li Hua and Yuriko to play together is classic rock.",
+  "prediction_sha256": "da6f183c5fa1d22c5ccfc9af181392f2151058fc5d9bf393b3dc467e809a1c45",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 421,
+  "usage": {
+    "completion_tokens": 93,
+    "prompt_tokens": 4242,
+    "prompt_tokens_details": null,
+    "total_tokens": 4335
+  }
+}

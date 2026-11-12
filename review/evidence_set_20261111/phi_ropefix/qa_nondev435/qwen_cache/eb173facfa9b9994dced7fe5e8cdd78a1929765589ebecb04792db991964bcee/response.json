@@ -1,0 +1,17 @@
+{
+  "body_sha256": "eb173facfa9b9994dced7fe5e8cdd78a1929765589ebecb04792db991964bcee",
+  "finish_reason": "stop",
+  "latency_s": 3.5474702080027782,
+  "prediction": " Gavriel mentions the video game \"Final Fantasy VII Remake\" for its exceptional character development and plot twists. He appreciates how the remake teams up classic themes with new orchestration to immerse players in the world, and how the music intensifies during battles and key story moments. This enhances the overall experience and highlights character emotions throughout the game.",
+  "prediction_sha256": "bef4915286a0fd8499582a667eafc177961d437042ad972ae6b1d95f8f8875f0",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 200321,
+  "usage": {
+    "completion_tokens": 82,
+    "prompt_tokens": 4258,
+    "prompt_tokens_details": null,
+    "total_tokens": 4340
+  }
+}

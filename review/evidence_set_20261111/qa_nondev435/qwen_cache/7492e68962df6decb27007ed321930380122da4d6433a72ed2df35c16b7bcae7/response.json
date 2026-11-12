@@ -1,0 +1,17 @@
+{
+  "body_sha256": "7492e68962df6decb27007ed321930380122da4d6433a72ed2df35c16b7bcae7",
+  "finish_reason": "stop",
+  "latency_s": 10.348070083000493,
+  "prediction": "Wolfgang invites Li Hua to a concert on March 7th at 6 PM. This information is derived from the conversation where Wolfgang mentions, \"That sounds amazing! I'm totally in! Can't wait! 🎶\" and Li Hua responds, \"That sounds amazing! I'm totally in! Can't wait! 🎶\" indicating their agreement to attend the concert. The exact time and date of the concert are specified as March 7th at 6 PM.",
+  "prediction_sha256": "f48b1942696cc4ab8f195c58ae79ffd2036db239b43cdc971d67865ff13f5758",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100086,
+  "usage": {
+    "completion_tokens": 102,
+    "prompt_tokens": 4399,
+    "prompt_tokens_details": null,
+    "total_tokens": 4501
+  }
+}

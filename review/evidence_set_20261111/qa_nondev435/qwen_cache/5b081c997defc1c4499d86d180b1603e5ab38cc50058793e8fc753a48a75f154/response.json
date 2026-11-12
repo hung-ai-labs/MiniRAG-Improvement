@@ -1,0 +1,17 @@
+{
+  "body_sha256": "5b081c997defc1c4499d86d180b1603e5ab38cc50058793e8fc753a48a75f154",
+  "finish_reason": "stop",
+  "latency_s": 12.162604375000228,
+  "prediction": "In the given data, Wolfgang Schulz proposes a couple of new hobbies to Li Hua. Specifically, Wolfgang mentions playing drums, which he expresses enthusiasm about resuming, indicating this as a new hobby he wishes to engage in. Additionally, Wolfgang suggests participating in jam sessions, proposing a musical activity that Li Hua is already involved in. These new proposed hobbies relate to Wolfgang's musical inclinations, showcasing his interest in both playing drums and engaging in musical collaborations.",
+  "prediction_sha256": "c1ca5ff4ee2f82ab52f5184bf7b323dd8e199e35cceb3675fb0f02fe6160019f",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 159,
+  "usage": {
+    "completion_tokens": 94,
+    "prompt_tokens": 4675,
+    "prompt_tokens_details": null,
+    "total_tokens": 4769
+  }
+}

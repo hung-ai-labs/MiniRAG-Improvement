@@ -1,0 +1,17 @@
+{
+  "body_sha256": "89ef0192fc553e831b06701321d55cf992623b7a482ce15d3d61db67a2aa95ef",
+  "finish_reason": "stop",
+  "latency_s": 7.7210597500015865,
+  "prediction": "In the interaction recorded in Source 4, Adam Smith mentions a house rule regarding the power outage. Specifically, he alerts Li Hua about a planned power outage scheduled from 2 PM to 3 PM the following day for maintenance purposes. He informs Li Hua to ensure that all electronic devices are charged and that she is prepared for the outage. This indicates that Adam Smith mentions a house rule concerning preparation for scheduled maintenance activities within the household.",
+  "prediction_sha256": "52ff774997a20903554f038d613283fd2426b6d875cf2f4a3ff8891e519f98e2",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 59,
+  "usage": {
+    "completion_tokens": 90,
+    "prompt_tokens": 4478,
+    "prompt_tokens_details": null,
+    "total_tokens": 4568
+  }
+}

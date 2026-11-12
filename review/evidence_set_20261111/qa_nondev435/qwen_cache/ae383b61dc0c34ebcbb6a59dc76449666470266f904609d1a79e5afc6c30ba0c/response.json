@@ -1,0 +1,17 @@
+{
+  "body_sha256": "ae383b61dc0c34ebcbb6a59dc76449666470266f904609d1a79e5afc6c30ba0c",
+  "finish_reason": "stop",
+  "latency_s": 26.80681999999797,
+  "prediction": "Helios speaks highly of several games, praising their ability to create deep and emotionally resonant narratives. Among these, he calls \"The Last of Us\" a \"masterpiece\" for its outstanding character growth and moral dilemmas. The game effectively portrays the complex human connections and challenging choices that make players feel deeply invested in the characters' journeys. This connection to the characters, along with the emotional rollercoaster of love, loss, and sacrifice, exemplifies how \"The Last of Us\" excels in crafting compelling and relatable narratives within its narrative-driven gameplay.",
+  "prediction_sha256": "7699037a74535904f92956675e92a8657bc382331e07eefb1316356cbb5c427b",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100325,
+  "usage": {
+    "completion_tokens": 115,
+    "prompt_tokens": 4710,
+    "prompt_tokens_details": null,
+    "total_tokens": 4825
+  }
+}

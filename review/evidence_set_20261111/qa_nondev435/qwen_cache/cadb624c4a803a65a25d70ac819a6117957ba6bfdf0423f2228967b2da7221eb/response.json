@@ -1,0 +1,17 @@
+{
+  "body_sha256": "cadb624c4a803a65a25d70ac819a6117957ba6bfdf0423f2228967b2da7221eb",
+  "finish_reason": "stop",
+  "latency_s": 12.422214541002177,
+  "prediction": "Based on the conversations detailed in the data, Li Hua and Wolfgang Schulz have a lunch meeting scheduled at the cozy café downtown. The specific time for this lunch meeting is mentioned in two different entries:\n\n1. In entry 4 from 20260106_20:00, Wolfgang Schulz initiates the conversation by suggesting a lunch meeting at the cozy café downtown at 12:00.\n\n2. In entry 15 from 20261017_17:00, Li Hua asks Wolfgang Schulz what he feels like eating for lunch, and Wolfgang suggests they meet at the cozy café downtown, indicating that this is likely their planned lunch time.\n\nTherefore, Li Hua and Wolfgang Schulz are scheduled to meet for lunch at the cozy café downtown at 12:00.",
+  "prediction_sha256": "1e5112a374e585b0e9d3324c4fa8d5e9a08c1c5537263bb5fc2768411fc40800",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 56,
+  "usage": {
+    "completion_tokens": 178,
+    "prompt_tokens": 4027,
+    "prompt_tokens_details": null,
+    "total_tokens": 4205
+  }
+}

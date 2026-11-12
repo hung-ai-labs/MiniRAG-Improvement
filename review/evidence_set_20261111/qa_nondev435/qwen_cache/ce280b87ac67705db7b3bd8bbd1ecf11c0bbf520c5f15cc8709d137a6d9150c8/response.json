@@ -1,0 +1,17 @@
+{
+  "body_sha256": "ce280b87ac67705db7b3bd8bbd1ecf11c0bbf520c5f15cc8709d137a6d9150c8",
+  "finish_reason": "stop",
+  "latency_s": 11.311909459000162,
+  "prediction": "In the source data entry dated 20260730_17:30, JenniferMoore suggests that LiHua share his favorite fitness tips with the group. This is indicated in the following exchange:\n\nJenniferMoore: Great job today, Li Hua! 💪 Your hard work is really paying off! How about sharing some of your favorite fitness tips with the group? I'm sure everyone would love to hear them! 😊\n\nTherefore, Jennifer is recommending LiHua to share fitness tips in the gym group chat on 20260730.",
+  "prediction_sha256": "7e33b79fd02ae1007cd970e0cdf792310a0ddab88235f80099ecb8a1a1adffd3",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100161,
+  "usage": {
+    "completion_tokens": 124,
+    "prompt_tokens": 5561,
+    "prompt_tokens_details": null,
+    "total_tokens": 5685
+  }
+}

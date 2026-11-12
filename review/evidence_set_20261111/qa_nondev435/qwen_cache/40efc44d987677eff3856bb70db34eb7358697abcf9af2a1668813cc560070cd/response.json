@@ -1,0 +1,17 @@
+{
+  "body_sha256": "40efc44d987677eff3856bb70db34eb7358697abcf9af2a1668813cc560070cd",
+  "finish_reason": "stop",
+  "latency_s": 5.814203082998574,
+  "prediction": "According to the conversation between LiHua and AdamSmith, AdamSmith permits occasional gatherings of friends within certain guidelines. Specifically, AdamSmith states, \"Having friends over occasionally is fine, just try to keep the gatherings reasonable.\" He also emphasizes the importance of maintaining quiet during late hours and taking good care of the property.",
+  "prediction_sha256": "b0f9d8841f87a68d91d5ac1f1aecfaa34813fe182dcc5d172b28e22d265ef941",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100058,
+  "usage": {
+    "completion_tokens": 65,
+    "prompt_tokens": 4541,
+    "prompt_tokens_details": null,
+    "total_tokens": 4606
+  }
+}

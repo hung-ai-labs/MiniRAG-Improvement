@@ -1,0 +1,17 @@
+{
+  "body_sha256": "cb9802d3e8a485547acb68da1fd1603cb809aa37541f7cb86cf6ad88192e8992",
+  "finish_reason": "stop",
+  "latency_s": 7.27239924999958,
+  "prediction": "Based on the information provided, Wolfgang is mentioned as expressing a preference for Iron Man. Specifically, Wolfgang mentions that he has a \"soft spot for Iron Man\" due to the character's \"tech and personality being just cool.\" This indicates that Iron Man is Wolfgang's favorite superhero among those discussed.",
+  "prediction_sha256": "ae467c623e952dad698a1a0e65ef10abf16d22733138fc309efb85017452e2a4",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 156,
+  "usage": {
+    "completion_tokens": 60,
+    "prompt_tokens": 4496,
+    "prompt_tokens_details": null,
+    "total_tokens": 4556
+  }
+}

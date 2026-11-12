@@ -1,0 +1,17 @@
+{
+  "body_sha256": "2bc1542a1347097543f08d32deae29d1b4971a4043c1605826b1a3bb14dbfef1",
+  "finish_reason": "stop",
+  "latency_s": 16.38297262499691,
+  "prediction": "According to the conversation, Hailey Johnson provides Li Hua with bread regularly through Alice, who is the delivery person from Hailey's Bakery. In one of the conversations, Hailey mentions a specific recommendation for a topping when Li Hua inquires about the rosemary focaccia:\n\n> HaileyJohnson: You're welcome! I'm so glad to hear that! 🌟\n\n> For the rosemary focaccia, you can't go wrong with a drizzle of olive oil and a sprinkle of sea salt. You could also top it with some cherry tomatoes or olives for an extra burst of flavor! Let me know if you want to give it a try! 😋\n\nThus, the toppings recommended for Li Hua's next delivery from Hailey's Bakery are olive oil, sea salt, cherry tomatoes, and/or olives.\n\nAdditionally, the name of the bakery from which Li Hua receives her bread is Hailey's Bakery.",
+  "prediction_sha256": "7f241304b95ca15e7caae6105500765683631778e419a8493cd5608486feca04",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100420,
+  "usage": {
+    "completion_tokens": 195,
+    "prompt_tokens": 5061,
+    "prompt_tokens_details": null,
+    "total_tokens": 5256
+  }
+}

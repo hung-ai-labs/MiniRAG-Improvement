@@ -1,0 +1,17 @@
+{
+  "body_sha256": "2566b7669c136c2e567bdd05757cb009e725b3a5d108db231d58537b42b01031",
+  "finish_reason": "stop",
+  "latency_s": 16.91539437499887,
+  "prediction": "Strength training plays a significant role in reducing the risk of injuries among soccer players. According to the conversation between Jake Watson and Li Hua, strength training helps build the muscles around joints, thereby improving stability and endurance on the field. This additional muscular support reduces the likelihood of injuries such as sprains or strains. Additionally, strength training boosts overall physical stability, which is crucial in high-impact sports like soccer. Jake suggests starting with simple bodyweight exercises, such as squats, lunges, and planks, which are effective for building core and leg strength. These exercises not only contribute to muscle development but also enhance an athlete's ability to perform movements safely and efficiently. By incorporating strength training into their routine, soccer players like Li Hua can prepare their bodies for the demands of the sport and potentially avoid common injuries.",
+  "prediction_sha256": "9ada2546474b6e0d10bf2bb4ec91e2b64ab0f5f599ee0ea7262a106afee45a8b",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100208,
+  "usage": {
+    "completion_tokens": 166,
+    "prompt_tokens": 5178,
+    "prompt_tokens_details": null,
+    "total_tokens": 5344
+  }
+}

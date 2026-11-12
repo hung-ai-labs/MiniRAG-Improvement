@@ -1,0 +1,17 @@
+{
+  "body_sha256": "0fa40d2640508fcc6b1929830d190115da9a51ce9cf563116d30a8b2c4fd5605",
+  "finish_reason": "stop",
+  "latency_s": 4.6842287500003295,
+  "prediction": " Hailey Johnson invites LiHua to taste a new bread recipe. This invitation is found in the conversation entry numbered 2 in the provided data tables, dated October 16, 2026, at 16:00. Hailey Johnson extends the offer to LiHua with excitement about her baking, and LiHua confirms her availability to come and taste the bread that Hailey has prepared.",
+  "prediction_sha256": "9743a86d5165dbe8ba2e2621beadae1e1b542d81f7efc14f321ae9268533271b",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 178,
+  "usage": {
+    "completion_tokens": 94,
+    "prompt_tokens": 5383,
+    "prompt_tokens_details": null,
+    "total_tokens": 5477
+  }
+}

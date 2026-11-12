@@ -1,0 +1,17 @@
+{
+  "body_sha256": "97b93d8a669f6dd0d7161e815dc1a64131ff0dd080d4f591ace66366cfb3d203",
+  "finish_reason": "stop",
+  "latency_s": 8.367037666001124,
+  "prediction": "In the community garden discussions, there was a proposal for soft white lights to create a warm and inviting atmosphere. Specifically, ArthasMenethil mentioned that soft white lights would provide a \"cozy and inviting glow,\" and they were considered as a way to enhance the comfort and appeal of the seating area. Therefore, soft white lights are the preferred type of lighting for the seating area in the community garden.",
+  "prediction_sha256": "74e6f0e8424d2c474abfa77e710755473650d93757c5d82b96bd82c6fdea8140",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 122,
+  "usage": {
+    "completion_tokens": 84,
+    "prompt_tokens": 4845,
+    "prompt_tokens_details": null,
+    "total_tokens": 4929
+  }
+}

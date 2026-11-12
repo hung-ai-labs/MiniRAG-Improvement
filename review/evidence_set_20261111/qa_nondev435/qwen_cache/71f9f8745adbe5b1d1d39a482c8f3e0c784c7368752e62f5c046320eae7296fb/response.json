@@ -1,0 +1,17 @@
+{
+  "body_sha256": "71f9f8745adbe5b1d1d39a482c8f3e0c784c7368752e62f5c046320eae7296fb",
+  "finish_reason": "stop",
+  "latency_s": 3.097803874999954,
+  "prediction": "LiHua is the one who asks Emily if she has read The Lord of the Rings novels. LiHua expresses curiosity about the connection between the novels and the upcoming series \"The Rings of Power\" and invites Emily to share her thoughts on the latter.",
+  "prediction_sha256": "4a173f3be4ef35a57dcba0032d095cfcddf31a6195bda53e31d5f136e3abebb5",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100260,
+  "usage": {
+    "completion_tokens": 53,
+    "prompt_tokens": 4353,
+    "prompt_tokens_details": null,
+    "total_tokens": 4406
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "903b0defdbbdfbf3fd85ea876671e3b7bde1f3b132c604869517f8f28d7a8984",
+  "finish_reason": "stop",
+  "latency_s": 12.992015208998055,
+  "prediction": "In the community garden discussions, several types of lighting were mentioned, including string lights or lanterns for a warm and inviting atmosphere. Additionally, solar-powered lanterns were suggested due to their eco-friendliness and ease of maintenance. The preference leans towards soft white lights, as they are described as giving a \"cozy and inviting glow\" and are suitable for creating a warm ambiance during the evenings. Thus, soft white lights appear to be the preferred type of lighting for the seating area in the community garden.",
+  "prediction_sha256": "a570ea79af7819998aaa41a91a76efe365a61e4b20d0c3aa70d53bc476cb59e7",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200122,
+  "usage": {
+    "completion_tokens": 103,
+    "prompt_tokens": 5022,
+    "prompt_tokens_details": null,
+    "total_tokens": 5125
+  }
+}

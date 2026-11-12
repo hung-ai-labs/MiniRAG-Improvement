@@ -1,0 +1,17 @@
+{
+  "body_sha256": "4afddbbfa7c41380d9032debd1d7792612ca7301826162328c3cad5be9581d74",
+  "finish_reason": "stop",
+  "latency_s": 12.564241749998473,
+  "prediction": "In WolfgangSchulz's message dated 20261128_18:00, he inquires about health products and nutritional advice due to feeling unusually fatigued from his recent overtime commitments. He specifically asks for tips on boosting his energy levels, mentioning magnesium supplements and the importance of hydration and a balanced diet. The group discusses various health products and dietary habits, including magnesium supplements, fruits, nuts, and different types of drinks, aiming to maintain their energy levels and overall health despite their busy schedules.",
+  "prediction_sha256": "cae2c975d574b006357b053b52952a6f751e62e588401a632f35d5df5fd92a31",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200128,
+  "usage": {
+    "completion_tokens": 109,
+    "prompt_tokens": 4214,
+    "prompt_tokens_details": null,
+    "total_tokens": 4323
+  }
+}

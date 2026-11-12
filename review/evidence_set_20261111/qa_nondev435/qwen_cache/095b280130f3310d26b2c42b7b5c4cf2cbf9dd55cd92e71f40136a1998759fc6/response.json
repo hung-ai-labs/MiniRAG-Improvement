@@ -1,0 +1,17 @@
+{
+  "body_sha256": "095b280130f3310d26b2c42b7b5c4cf2cbf9dd55cd92e71f40136a1998759fc6",
+  "finish_reason": "stop",
+  "latency_s": 10.721806334000576,
+  "prediction": "In one of the conversations, Jennifer Moore shared her insights on managing muscle soreness. She emphasized the importance of hydration, suggesting that staying well-hydrated can significantly reduce soreness and maintain energy levels. Additionally, Jennifer recommended post-workout protein supplementation, specifically mentioning whey and plant-based proteins like pea or rice protein, as these can aid in muscle recovery and building lean mass. For optimal results, she advised taking the protein supplement within 30 to 60 minutes after a workout, highlighting the importance of both timing and hydration.",
+  "prediction_sha256": "c323b45a912f6c9cc2fbffa7e852caf6881dff6874ecb156e9f01e86c6bbb2ed",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200075,
+  "usage": {
+    "completion_tokens": 111,
+    "prompt_tokens": 4142,
+    "prompt_tokens_details": null,
+    "total_tokens": 4253
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "dc53444faf8c44938cc5ebd8a66d9ee1bb11bb8dd469cdbc93f0ee8633084082",
+  "finish_reason": "stop",
+  "latency_s": 7.193216250001569,
+  "prediction": "Saffron emphasizes the significant event in Cersei's life that serves as a pivotal moment, which is the loss of her children. This loss is described by Saffron as a factor that \"really pushed her over the edge,\" indicating its profound impact on Cersei's character development and her subsequent actions. This tragedy forces Cersei to embrace cruelty to secure her position and power, showcasing her transformation from a vulnerable figure into a ruthless queen.",
+  "prediction_sha256": "7392fbc352955f064d2db59a887f971ff8e94ffbacf9bea6ff7d11ea156c7bee",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100308,
+  "usage": {
+    "completion_tokens": 90,
+    "prompt_tokens": 4404,
+    "prompt_tokens_details": null,
+    "total_tokens": 4494
+  }
+}

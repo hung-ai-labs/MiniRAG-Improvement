@@ -1,0 +1,17 @@
+{
+  "body_sha256": "368a7f07a31a0a3ba89dfe5c93311bf4a5e3615b27aaacb776f5642bf1c5b39e",
+  "finish_reason": "stop",
+  "latency_s": 8.17737175000002,
+  "prediction": "In the conversation, Caspian mentions that he is planning to work on his dribbling skills during the practice. However, it was Aurora who suggested meeting at the local park around 3 PM on Saturday to practice shooting and bring some cones and other equipment. Caspian agreed to join and bring a ball as well.",
+  "prediction_sha256": "ae811cb871517af7d9c044d011be2d5e81fd566d5f7dda47e5cbcee22921e278",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100363,
+  "usage": {
+    "completion_tokens": 66,
+    "prompt_tokens": 5053,
+    "prompt_tokens_details": null,
+    "total_tokens": 5119
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "32a4969e36ea5fe92a312613dcb91f053de3959f478107d6862b54c14705a52f",
+  "finish_reason": "stop",
+  "latency_s": 16.644332375002705,
+  "prediction": "According to the conversation between LiHua and Yuriko, the Freelancer Group Meeting is scheduled for March 6th at 3:00 PM. This can be inferred from the following excerpt:\n\n> LiHua: Hey Yuriko! Are you planning to attend the Freelancer Group Meeting this Wednesday at 3 pm?  \n> YurikoYamamoto: Yeah, I’ll be there! Looking forward to it. Should be fun! 😊  \n> LiHua: Awesome! I can’t wait! It’s always great to catch up with everyone. Do you have any topics in mind to discuss?  \n\nThis indicates that the meeting is planned for the following Wednesday (March 6th) at 3:00 PM.",
+  "prediction_sha256": "4e060f26622b4ec77d1774e01cb20f44aaedc76964242b86947df61d965e9592",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200133,
+  "usage": {
+    "completion_tokens": 156,
+    "prompt_tokens": 3883,
+    "prompt_tokens_details": null,
+    "total_tokens": 4039
+  }
+}

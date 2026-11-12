@@ -1,0 +1,17 @@
+{
+  "body_sha256": "323e5efb4fa5331a0f06ca176fe41c00ba54341e77fdc1fbd074d7b7c648a1bd",
+  "finish_reason": "stop",
+  "latency_s": 11.710818750001636,
+  "prediction": " According to the data provided in the tables, Li Hua and WolfgangSchulz plan to watch \"Overwatch 3\" together. They discuss the movie on the date **20260121_13:00**, as shown in the conversation excerpt from Source **0**. The agreed time to watch the movie is **7 PM**. They also mention having food before the show, with a choice of a new burger place near the cinema, which both have previously expressed interest in trying out.\n\nHere is the summarized information in markdown format:\n\n```markdown\n### Movie Viewing Schedule for \"Overwatch 3\"\n\n- **Date:** January 21, 2026 (20260121)\n- **Time:** 7:00 PM\n- **Location:** New burger place near the cinema\n- **Purpose:** To enjoy the movie and grab some food beforehand.\n\nBoth Li Hua and WolfgangSchulz express excitement about the event, planning to meet at the agreed time with dinner plans prior.\n```\n\nThis response is based solely on the provided data, and no further general knowledge assumptions have been made beyond the given facts.",
+  "prediction_sha256": "39bee5f80de39f9b7f445056c4ec1f842d02bcf1556ddf37d2df393b0779d1e3",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 136,
+  "usage": {
+    "completion_tokens": 275,
+    "prompt_tokens": 4384,
+    "prompt_tokens_details": null,
+    "total_tokens": 4659
+  }
+}

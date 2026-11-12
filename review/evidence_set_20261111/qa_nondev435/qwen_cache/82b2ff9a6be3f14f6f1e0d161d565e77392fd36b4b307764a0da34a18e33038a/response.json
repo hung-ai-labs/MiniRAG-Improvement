@@ -1,0 +1,17 @@
+{
+  "body_sha256": "82b2ff9a6be3f14f6f1e0d161d565e77392fd36b4b307764a0da34a18e33038a",
+  "finish_reason": "stop",
+  "latency_s": 9.208726165998087,
+  "prediction": "On January 6th, Li Hua informed Adam Smith about a broken water tap in their apartment. Specifically, Li Hua reported to Adam that the water tap was broken and requested assistance with the repair. Adam Smith responded positively, confirming that he would arrange for someone to look into the issue as soon as possible. Li Hua appreciated the prompt response and promised to be ready for the repair crew. In turn, Adam Smith offered to keep Li Hua updated on the repair schedule and to provide any additional support needed. This interaction highlights the collaborative nature of their relationship and their commitment to addressing household issues promptly.",
+  "prediction_sha256": "a388f393c6361f6d091059eb4719ecee849a5332a4b418ebd75de3dd2e85e96a",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200060,
+  "usage": {
+    "completion_tokens": 124,
+    "prompt_tokens": 4344,
+    "prompt_tokens_details": null,
+    "total_tokens": 4468
+  }
+}

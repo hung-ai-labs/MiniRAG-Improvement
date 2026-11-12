@@ -1,0 +1,17 @@
+{
+  "body_sha256": "3b4a5bf0b7711a134764ec93c899e13f0e0e5932763f9d5ed7dab223fd00c572",
+  "finish_reason": "stop",
+  "latency_s": 10.941405459001544,
+  "prediction": "In one of the conversations, Li Hua specifically asks about a door hinge issue she is experiencing. In a message dated 20260107_15:00, Li Hua mentions, \"Hey Adam! Hope you’re doing well. I wanted to ask if it’s possible to get a small repair done on the door hinge? It’s been squeaking quite a bit. Thanks!\" This indicates that Li Hua is seeking a repair for the squeaky door hinge component mentioned in the context of the \"\"\"DOOR HINGE REPAIR\"\"\" entity, which has a score of 0.81971157.",
+  "prediction_sha256": "b703157740e7061d57c1f9b7f85bb3e21225500dd8b2f3dda21b94af9ce2f96a",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100062,
+  "usage": {
+    "completion_tokens": 137,
+    "prompt_tokens": 4387,
+    "prompt_tokens_details": null,
+    "total_tokens": 4524
+  }
+}

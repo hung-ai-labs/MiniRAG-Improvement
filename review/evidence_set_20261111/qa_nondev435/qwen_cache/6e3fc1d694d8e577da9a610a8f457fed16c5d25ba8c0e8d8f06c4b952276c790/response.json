@@ -1,0 +1,17 @@
+{
+  "body_sha256": "6e3fc1d694d8e577da9a610a8f457fed16c5d25ba8c0e8d8f06c4b952276c790",
+  "finish_reason": "stop",
+  "latency_s": 11.858158625000215,
+  "prediction": "The interaction between LiHua and Adam regarding the curtain installation took place on two separate occasions. On the first instance (record 1), LiHua mentioned receiving the curtains and asked Adam to help with the installation. The subsequent record (record 3) shows Adam reminding LiHua about the pending curtain installation, which occurred three days later, specifically on February 27th. Therefore, the time interval between LiHua asking Adam to help him install the curtains and Adam asking LiHua to measure the size of the window was indeed more than 3 days.",
+  "prediction_sha256": "7128bd8500d9f2fe6f9411993e3e0440c450f0a0186d9baa3e524b3c139319db",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 41,
+  "usage": {
+    "completion_tokens": 117,
+    "prompt_tokens": 4390,
+    "prompt_tokens_details": null,
+    "total_tokens": 4507
+  }
+}

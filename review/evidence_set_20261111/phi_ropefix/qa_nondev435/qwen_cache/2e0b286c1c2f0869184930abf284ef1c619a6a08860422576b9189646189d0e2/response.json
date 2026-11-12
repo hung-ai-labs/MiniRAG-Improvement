@@ -1,0 +1,17 @@
+{
+  "body_sha256": "2e0b286c1c2f0869184930abf284ef1c619a6a08860422576b9189646189d0e2",
+  "finish_reason": "stop",
+  "latency_s": 12.373594791999494,
+  "prediction": " Adam expresses enthusiasm about having friends over for a neighborhood potluck dinner. He suggests that it would be a great opportunity for Li Hua to meet some of her neighbors. Adam ensures Li Hua that bringing a dish to share, like the homemade pasta salad she plans to make, would be an enjoyable and social experience, contributing to the gathering. Li Hua appreciates the invitation and confirms her intention to bring a dish, showing her eagerness to participate in the event and connect with the community. Adam also offers help if needed, indicating a willingness to support Li Hua's involvement in the gathering.\n\nHere's the information in a structured markdown format:\n\n```markdown\n## Neighborhood Potluck Dinner\n\n- **Adam's Perspective:** Adam is a proponent of neighborhood social interactions, suggesting that guests bring a dish to share for a more communal feel.\n- **Li Hua's Response:** Li Hua is excited to contribute, planning to make homemade pasta salad, and shows appreciation for the invitation.\n- **Adam's Aid Offer:** Adam offers assistance if required to facilitate the potluck experience for Li Hua.\n\nAdam and Li Hua both appear to be positive about the upcoming event and its potential to enhance social connections within the neighborhood.\n```",
+  "prediction_sha256": "031999d0dfc85a53b1162116a2aafe870ffd0e3fdb99b4e52db017a84f6a7749",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 200058,
+  "usage": {
+    "completion_tokens": 317,
+    "prompt_tokens": 5175,
+    "prompt_tokens_details": null,
+    "total_tokens": 5492
+  }
+}

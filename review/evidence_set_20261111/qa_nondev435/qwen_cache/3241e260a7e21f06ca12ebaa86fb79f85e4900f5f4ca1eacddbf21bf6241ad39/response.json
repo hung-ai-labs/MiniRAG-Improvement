@@ -1,0 +1,17 @@
+{
+  "body_sha256": "3241e260a7e21f06ca12ebaa86fb79f85e4900f5f4ca1eacddbf21bf6241ad39",
+  "finish_reason": "stop",
+  "latency_s": 8.834770667002886,
+  "prediction": "Based on the information provided, Wolfgang has not been to Hong Kong previously. In the conversation, it is mentioned that Wolfgang is embarking on a business trip to Hong Kong, indicating this will be his first visit to the city. There is no indication of previous visits in the given data.",
+  "prediction_sha256": "103806ea088e580948778701e5d027a1fa3f81b2db1261f9f384aa28a14749cb",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100032,
+  "usage": {
+    "completion_tokens": 59,
+    "prompt_tokens": 4816,
+    "prompt_tokens_details": null,
+    "total_tokens": 4875
+  }
+}

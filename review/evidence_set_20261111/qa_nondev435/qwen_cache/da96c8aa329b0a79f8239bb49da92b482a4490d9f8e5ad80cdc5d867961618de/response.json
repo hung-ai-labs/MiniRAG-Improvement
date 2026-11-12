@@ -1,0 +1,17 @@
+{
+  "body_sha256": "da96c8aa329b0a79f8239bb49da92b482a4490d9f8e5ad80cdc5d867961618de",
+  "finish_reason": "stop",
+  "latency_s": 63.43467891700129,
+  "prediction": "In the conversations recorded, Jake Watson first provided Li Hua with a basic understanding of the offside rule before delving into more detailed techniques. Specifically, Jake explained that a player is offside if they are \"closer to the opponent's goal line than both the ball and the second-to-last opponent when the ball is passed to them.\" This explanation aligns with common knowledge about the offside rule in soccer. Following this, Jake proceeded to share practical techniques on how to avoid being offside. This indicates that Jake did indeed share common knowledge about the offside rule before moving on to provide Li Hua with specific strategies and drills to improve her understanding and application of the rule.",
+  "prediction_sha256": "0b159da375842a046ab45c1ca7536c6a4f26270f4156a53104ef42df8ae91e69",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 29,
+  "usage": {
+    "completion_tokens": 139,
+    "prompt_tokens": 3447,
+    "prompt_tokens_details": null,
+    "total_tokens": 3586
+  }
+}

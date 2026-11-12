@@ -1,0 +1,17 @@
+{
+  "body_sha256": "5175ca98d0b5a0d67c0235c7987987703d7a745dec7c9473bf0818fab5ea94ad",
+  "finish_reason": "stop",
+  "latency_s": 7.884958000002371,
+  "prediction": "Gavriel mentions \"The Witcher 3\" as a game that excels in its character development and plot twists. He highlights how the character of Geralt feels very real and how the quests and side stories are rich and engaging. Additionally, he points out the Gwent mini-game, which adds an extra layer of fun to the experience. Gavriel also appreciates the depth of the character development and the evolving nature of the story as the player progresses through the game.",
+  "prediction_sha256": "96ebe537ec3261b87d61ac2b6801899c9dcf7080b28d63752db3ffcf66eb4d5a",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 321,
+  "usage": {
+    "completion_tokens": 98,
+    "prompt_tokens": 3413,
+    "prompt_tokens_details": null,
+    "total_tokens": 3511
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "90a074ccd617847440cb96d7394b465f872b4b8aea32411ea84cf28ec5c42657",
+  "finish_reason": "stop",
+  "latency_s": 10.287511624999752,
+  "prediction": "According to the conversation, WolfgangSchulz mentioned he is interested in trying the pad thai and some spring rolls at the Thai restaurant they plan to visit on 20260702. LiHua expressed her preference for green curry, which she believes is \"amazing.\" Thus, at the Thai restaurant WolfgangSchulz intends to try pad thai and spring rolls, while LiHua prefers green curry.",
+  "prediction_sha256": "27580ddfa2c550197b89cd7c5d3a5dd42dfee329de53169070e3056ad4215384",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 147,
+  "usage": {
+    "completion_tokens": 87,
+    "prompt_tokens": 5582,
+    "prompt_tokens_details": null,
+    "total_tokens": 5669
+  }
+}

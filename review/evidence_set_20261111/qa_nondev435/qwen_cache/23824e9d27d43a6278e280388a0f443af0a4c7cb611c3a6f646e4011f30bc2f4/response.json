@@ -1,0 +1,17 @@
+{
+  "body_sha256": "23824e9d27d43a6278e280388a0f443af0a4c7cb611c3a6f646e4011f30bc2f4",
+  "finish_reason": "stop",
+  "latency_s": 13.06291529200098,
+  "prediction": "Based on the conversations recorded, WolfgangSchulz expressed interest in trying the pad thai and spring rolls at the Thai restaurant on 20260702. Specifically, he said, \"Thinking of trying their pad thai and maybe some spring rolls.\" LiHua also seemed enthusiastic about the menu, replying, \"I'm leaning towards green curry, I've heard it's amazing! Can't wait to dig in!\" However, it's worth noting that WolfgangSchulz's specific selections were pad thai and spring rolls, which are distinct dishes from the green curry that LiHua suggested.",
+  "prediction_sha256": "ebd9dd444f3dcbc79e45fc3a6f608aa361428de41269f1e9d2262eab8ea0e298",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100147,
+  "usage": {
+    "completion_tokens": 124,
+    "prompt_tokens": 5611,
+    "prompt_tokens_details": null,
+    "total_tokens": 5735
+  }
+}

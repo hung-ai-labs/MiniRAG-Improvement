@@ -1,0 +1,17 @@
+{
+  "body_sha256": "4346abcec038880e74ad77b4ab4cb82f86637ee02c89a359fc2581d730947994",
+  "finish_reason": "stop",
+  "latency_s": 9.55985674999829,
+  "prediction": "In the conversation, Adam reminds Li Hua to be mindful of playing the guitar late at night, specifically mentioning that they need to be careful not to disturb the apartment's occupants. This concern arises from a previous incident where Li Hua used the basement for her guitar practice, and it caused some inconvenience. To avoid similar issues, Adam suggests that Li Hua should ensure the practice is quiet and not disruptive to others, especially since they have agreed to maintain a certain level of silence during late hours.",
+  "prediction_sha256": "8693c03221f8714b8b33b282ceea327d0a112585bd71021b22b519cd6387dc1e",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100081,
+  "usage": {
+    "completion_tokens": 101,
+    "prompt_tokens": 3984,
+    "prompt_tokens_details": null,
+    "total_tokens": 4085
+  }
+}

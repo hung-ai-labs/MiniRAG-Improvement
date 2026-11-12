@@ -1,0 +1,17 @@
+{
+  "body_sha256": "70f99265dd81f63274ff64ee7f1f8bc3630132238683b363ea798f9416748891",
+  "finish_reason": "stop",
+  "latency_s": 10.91856891700445,
+  "prediction": "In one of the conversations, JakeWatson emphasizes the importance of stretching after workouts to keep muscles flexible. He recommends several stretches that he finds particularly effective, including the hamstring stretch and the quad stretch. These stretches can be held for approximately 30 seconds to ensure thorough relaxation and flexibility of the targeted muscle groups. Additionally, Jake suggests that LiHua can include single-leg stands in her routine to further improve her balance and stability. These stretching exercises can contribute significantly to LiHua's overall fitness and reduce the risk of injuries during soccer games.",
+  "prediction_sha256": "8791d8a937111939cca2b013729f7830f1ee75b57f359ad4236aef5a16cae455",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100269,
+  "usage": {
+    "completion_tokens": 111,
+    "prompt_tokens": 3876,
+    "prompt_tokens_details": null,
+    "total_tokens": 3987
+  }
+}

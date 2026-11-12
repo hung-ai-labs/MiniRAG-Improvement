@@ -1,0 +1,17 @@
+{
+  "body_sha256": "c344b68041b9574f340321d5a033308d425b63240887b5977511caeb2a0df3a2",
+  "finish_reason": "stop",
+  "latency_s": 5.4813849160018435,
+  "prediction": "According to the conversations listed, WolfgangSchulz suggests hitting Starbucks after work on 20260918. The conversation indicates he proposes this idea and asks LiHua if she is interested in trying the new Frappuccino after work.",
+  "prediction_sha256": "70ec0d2fbef8127dd2e501e88119b0a82b2e0e26139855b485aaf2ecacc5de54",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200234,
+  "usage": {
+    "completion_tokens": 54,
+    "prompt_tokens": 5535,
+    "prompt_tokens_details": null,
+    "total_tokens": 5589
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "1c8da46ef0094264a74a40d995fbb8ac5b282fa25ed7f730d506d359f7d0fce2",
+  "finish_reason": "stop",
+  "latency_s": 9.15189170800295,
+  "prediction": " Li Hua plans to meet Jake Watson for soccer practice on the weekend, specifically on Saturday. They tentatively set a time for their practice session at 10 AM, as per the following exchange:\n\nLi Hua: How about this weekend? We can practice together sometime!\nJake Watson: Sounds great! Saturday at 10 AM it is. Looking forward to it! We’ll have a blast!\nLi Hua: This weekend works for me! How about Saturday at 10 AM?\nJake Watson: Perfect! Saturday at 10 AM it is. Looking forward to it!\n\nIn summary, Li Hua has arranged to meet Jake Watson for soccer practice at the park on Saturday at 10 AM, with both participants expressing enthusiasm for the upcoming session.\n\n---\n\n**Markdown Formatted Answer from Context:**\n\nLi Hua and Jake Watson have agreed to meet for soccer practice **on Saturday at 10 AM**. The conversation indicates mutual excitement and a positive outlook regarding the practice.",
+  "prediction_sha256": "49c06e761a282f9ad5b3649fa4155db7c37b30c9c21cb3ad672ccb01c40c1fd2",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 200181,
+  "usage": {
+    "completion_tokens": 239,
+    "prompt_tokens": 5149,
+    "prompt_tokens_details": null,
+    "total_tokens": 5388
+  }
+}

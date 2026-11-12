@@ -1,0 +1,17 @@
+{
+  "body_sha256": "f38dc7570abb2692ee1c91c42be39127dfc25857f4825c2494b5eb9c158bff18",
+  "finish_reason": "stop",
+  "latency_s": 9.871638374999748,
+  "prediction": "In the conversation, WolfgangSchulz invites LiHua over to watch a classic movie, Star Wars: A New Hope. LiHua suggests bringing chips, and WolfgangSchulz agrees, saying he wants some soda and juice for the movie. Therefore, the snack that LiHua agrees to bring for the movie is chips.",
+  "prediction_sha256": "77661d386fda337fbb772c5420be352921aff28a2ceea6f86cee7a3cf0a1dc0c",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 306,
+  "usage": {
+    "completion_tokens": 69,
+    "prompt_tokens": 4524,
+    "prompt_tokens_details": null,
+    "total_tokens": 4593
+  }
+}

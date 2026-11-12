@@ -1,0 +1,17 @@
+{
+  "body_sha256": "6822e978b39d90a1291f4d8837ec4e06f4bd9fc35cda0817c62b2389fa123c0d",
+  "finish_reason": "stop",
+  "latency_s": 9.896298915999068,
+  "prediction": "Thrall is planning to organize community meetings to brainstorm and finalize the plans for the community garden renovation. These meetings are aimed at gathering input from all participants to ensure that the garden aligns with the community's vision and needs. Specifically, Thrall mentioned setting up times for community meetings to bounce around ideas, emphasizing the importance of involving everyone in the planning process.",
+  "prediction_sha256": "82c4e63d11a75b5bd04fd1c414657b985b0c4503b2deedc30fc25e547f86b2ee",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 114,
+  "usage": {
+    "completion_tokens": 73,
+    "prompt_tokens": 4142,
+    "prompt_tokens_details": null,
+    "total_tokens": 4215
+  }
+}

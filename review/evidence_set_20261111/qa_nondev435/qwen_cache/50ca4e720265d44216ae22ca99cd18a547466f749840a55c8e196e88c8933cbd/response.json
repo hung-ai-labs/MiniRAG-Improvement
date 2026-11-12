@@ -1,0 +1,17 @@
+{
+  "body_sha256": "50ca4e720265d44216ae22ca99cd18a547466f749840a55c8e196e88c8933cbd",
+  "finish_reason": "stop",
+  "latency_s": 10.269677792002767,
+  "prediction": "In the conversation regarding the upcoming soccer practice on Saturday afternoon, Farrah expressed her eagerness to join the group. She suggested meeting at the local park around 3 PM on Saturday to work on passing drills for the first hour and then mix in shooting practice after that. Farrah specifically mentioned that they would bring some cones and have fun while working on their shooting skills. Therefore, Farrah offered to bring the cones for the practice session.",
+  "prediction_sha256": "4274417e9b7d96b5c480cb94f85446263a3c794fcfd87cb65831edfdb2f25cef",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100363,
+  "usage": {
+    "completion_tokens": 89,
+    "prompt_tokens": 4488,
+    "prompt_tokens_details": null,
+    "total_tokens": 4577
+  }
+}

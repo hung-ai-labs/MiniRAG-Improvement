@@ -1,0 +1,2169 @@
+import asyncio
+import hashlib
+import json
+import os
+import re
+import time
+from typing import Union
+from collections import Counter, defaultdict
+import warnings
+import json_repair
+
+from .bm25 import BM25Index
+
+from .utils import (
+    list_of_list_to_csv,
+    truncate_list_by_token_size,
+    split_string_by_multi_markers,
+    logger,
+    locate_json_string_body_from_string,
+    process_combine_contexts,
+    clean_str,
+    edge_vote_path,
+    encode_string_by_tiktoken,
+    decode_tokens_by_tiktoken,
+    is_float_regex,
+    pack_user_ass_to_openai_messages,
+    compute_mdhash_id,
+    calculate_similarity,
+    cal_path_score_list,
+)
+from .base import (
+    BaseGraphStorage,
+    BaseKVStorage,
+    BaseVectorStorage,
+    TextChunkSchema,
+    QueryParam,
+)
+from .prompt import GRAPH_FIELD_SEP, PROMPTS
+
+
+def chunking_by_token_size(
+    content: str, overlap_token_size=128, max_token_size=1024, tiktoken_model="gpt-4o"
+):
+    tokens = encode_string_by_tiktoken(content, model_name=tiktoken_model)
+    results = []
+    for index, start in enumerate(
+        range(0, len(tokens), max_token_size - overlap_token_size)
+    ):
+        chunk_content = decode_tokens_by_tiktoken(
+            tokens[start : start + max_token_size], model_name=tiktoken_model
+        )
+        results.append(
+            {
+                "tokens": min(max_token_size, len(tokens) - start),
+                "content": chunk_content.strip(),
+                "chunk_order_index": index,
+            }
+        )
+    return results
+
+
+async def _handle_entity_relation_summary(
+    entity_or_relation_name: str,
+    description: str,
+    global_config: dict,
+) -> str:
+    tiktoken_model_name = global_config["tiktoken_model_name"]
+    summary_max_tokens = global_config["entity_summary_to_max_tokens"]
+
+    tokens = encode_string_by_tiktoken(description, model_name=tiktoken_model_name)
+    if len(tokens) < summary_max_tokens:  # No need for summary
+        return description
+
+
+async def _handle_single_entity_extraction(
+    record_attributes: list[str],
+    chunk_key: str,
+):
+    if len(record_attributes) < 4 or record_attributes[0] != '"entity"':
+        return None
+    # add this record as a node in the G
+    entity_name = clean_str(record_attributes[1].upper())
+    if not entity_name.strip():
+        return None
+    entity_type = clean_str(record_attributes[2].upper())
+    entity_description = clean_str(record_attributes[3])
+    entity_source_id = chunk_key
+    return dict(
+        entity_name=entity_name,
+        entity_type=entity_type,
+        description=entity_description,
+        source_id=entity_source_id,
+    )
+
+
+async def _handle_single_relationship_extraction(
+    record_attributes: list[str],
+    chunk_key: str,
+):
+    if len(record_attributes) < 5 or record_attributes[0] != '"relationship"':
+        return None
+    # add this record as edge
+    source = clean_str(record_attributes[1].upper())
+    target = clean_str(record_attributes[2].upper())
+    edge_description = clean_str(record_attributes[3])
+
+    edge_keywords = clean_str(record_attributes[4])
+    edge_source_id = chunk_key
+    weight = (
+        float(record_attributes[-1]) if is_float_regex(record_attributes[-1]) else 1.0
+    )
+    return dict(
+        src_id=source,
+        tgt_id=target,
+        weight=weight,
+        description=edge_description,
+        keywords=edge_keywords,
+        source_id=edge_source_id,
+    )
+
+
+async def _merge_nodes_then_upsert(
+    entity_name: str,
+    nodes_data: list[dict],
+    knowledge_graph_inst: BaseGraphStorage,
+    global_config: dict,
+):
+    already_entitiy_types = []
+    already_source_ids = []
+    already_description = []
+
+    already_node = await knowledge_graph_inst.get_node(entity_name)
+    if already_node is not None:
+        already_entitiy_types.append(already_node["entity_type"])
+        already_source_ids.extend(
+            split_string_by_multi_markers(already_node["source_id"], [GRAPH_FIELD_SEP])
+        )
+        already_description.append(already_node["description"])
+
+    entity_type = sorted(
+        Counter(
+            [dp["entity_type"] for dp in nodes_data] + already_entitiy_types
+        ).items(),
+        key=lambda x: x[1],
+        reverse=True,
+    )[0][0]
+
+    description = GRAPH_FIELD_SEP.join(
+        sorted(set([dp["description"] for dp in nodes_data] + already_description))
+    )
+    source_id = GRAPH_FIELD_SEP.join(
+        set([dp["source_id"] for dp in nodes_data] + already_source_ids)
+    )
+
+    # description = await _handle_entity_relation_summary(
+    #     entity_name, description, global_config
+    # )
+    node_data = dict(
+        entity_type=entity_type,
+        description=description,
+        source_id=source_id,
+    )
+    await knowledge_graph_inst.upsert_node(
+        entity_name,
+        node_data=node_data,
+    )
+    node_data["entity_name"] = entity_name
+    return node_data
+
+
+async def _merge_edges_then_upsert(
+    src_id: str,
+    tgt_id: str,
+    edges_data: list[dict],
+    knowledge_graph_inst: BaseGraphStorage,
+    global_config: dict,
+):
+    already_weights = []
+    already_source_ids = []
+    already_description = []
+    already_keywords = []
+
+    if await knowledge_graph_inst.has_edge(src_id, tgt_id):
+        already_edge = await knowledge_graph_inst.get_edge(src_id, tgt_id)
+        already_weights.append(already_edge["weight"])
+        already_source_ids.extend(
+            split_string_by_multi_markers(already_edge["source_id"], [GRAPH_FIELD_SEP])
+        )
+        already_description.append(already_edge["description"])
+        already_keywords.extend(
+            split_string_by_multi_markers(already_edge["keywords"], [GRAPH_FIELD_SEP])
+        )
+
+    weight = sum([dp["weight"] for dp in edges_data] + already_weights)
+    description = GRAPH_FIELD_SEP.join(
+        sorted(set([dp["description"] for dp in edges_data] + already_description))
+    )
+    keywords = GRAPH_FIELD_SEP.join(
+        sorted(set([dp["keywords"] for dp in edges_data] + already_keywords))
+    )
+    source_id = GRAPH_FIELD_SEP.join(
+        set([dp["source_id"] for dp in edges_data] + already_source_ids)
+    )
+    for need_insert_id in [src_id, tgt_id]:
+        if not (await knowledge_graph_inst.has_node(need_insert_id)):
+            await knowledge_graph_inst.upsert_node(
+                need_insert_id,
+                node_data={
+                    "source_id": source_id,
+                    "description": description,
+                    "entity_type": '"UNKNOWN"',
+                },
+            )
+    # description = await _handle_entity_relation_summary(
+    #     (src_id, tgt_id), description, global_config
+    # )
+    await knowledge_graph_inst.upsert_edge(
+        src_id,
+        tgt_id,
+        edge_data=dict(
+            weight=weight,
+            description=description,
+            keywords=keywords,
+            source_id=source_id,
+        ),
+    )
+
+    edge_data = dict(
+        src_id=src_id,
+        tgt_id=tgt_id,
+        description=description,
+        keywords=keywords,
+    )
+
+    return edge_data
+
+
+async def extract_entities(
+    chunks: dict[str, TextChunkSchema],
+    knowledge_graph_inst: BaseGraphStorage,
+    entity_vdb: BaseVectorStorage,
+    entity_name_vdb: BaseVectorStorage,
+    relationships_vdb: BaseVectorStorage,
+    global_config: dict,
+) -> Union[BaseGraphStorage, None]:
+    use_llm_func: callable = global_config["llm_model_func"]
+    entity_extract_max_gleaning = global_config["entity_extract_max_gleaning"]
+
+    ordered_chunks = list(chunks.items())
+    # if global_config['RAGmode'] == 'minirag':
+    #     # entity_extract_prompt = PROMPTS["entity_extraction_noDes"]
+    #     entity_extract_prompt = PROMPTS["entity_extraction"]
+    # else:
+    entity_extract_prompt = PROMPTS["entity_extraction"]
+
+    context_base = dict(
+        tuple_delimiter=PROMPTS["DEFAULT_TUPLE_DELIMITER"],
+        record_delimiter=PROMPTS["DEFAULT_RECORD_DELIMITER"],
+        completion_delimiter=PROMPTS["DEFAULT_COMPLETION_DELIMITER"],
+        entity_types=",".join(PROMPTS["DEFAULT_ENTITY_TYPES"]),
+    )
+    continue_prompt = PROMPTS["entiti_continue_extraction"]
+
+    if_loop_prompt = PROMPTS["entiti_if_loop_extraction"]
+
+    already_processed = 0
+    already_entities = 0
+    already_relations = 0
+
+    async def _process_single_content(chunk_key_dp: tuple[str, TextChunkSchema]):
+        nonlocal already_processed, already_entities, already_relations
+        chunk_key = chunk_key_dp[0]
+        chunk_dp = chunk_key_dp[1]
+        content = chunk_dp["content"]
+        hint_prompt = entity_extract_prompt.format(**context_base, input_text=content)
+        final_result = await use_llm_func(hint_prompt)
+
+        history = pack_user_ass_to_openai_messages(hint_prompt, final_result)
+        for now_glean_index in range(entity_extract_max_gleaning):
+            glean_result = await use_llm_func(continue_prompt, history_messages=history)
+
+            history += pack_user_ass_to_openai_messages(continue_prompt, glean_result)
+            final_result += glean_result
+            if now_glean_index == entity_extract_max_gleaning - 1:
+                break
+
+            if_loop_result: str = await use_llm_func(
+                if_loop_prompt, history_messages=history
+            )
+            if_loop_result = if_loop_result.strip().strip('"').strip("'").lower()
+            if if_loop_result != "yes":
+                break
+
+        # New indexing only. Existing extracted_chunks checkpoints still govern
+        # resume; never replay these tuples into an already merged index.
+        _index_arm = os.environ.get("MINIRAG_GRAPH_ARM", "").strip()
+        if os.environ.get("MINIRAG_PARSER_RECOVERY", "0") == "1" or _index_arm in ("B", "P", "TS", "TE", "D", "TD", "TDV"):
+            from minirag.parser_recovery import recover as _recover_tuple_format
+            final_result, _format_repairs = _recover_tuple_format(final_result)
+            if _format_repairs:
+                logger.info("Recovered %d extraction tuple delimiter(s), source=%s; semantics UNKNOWN", len(_format_repairs), chunk_key)
+        records = split_string_by_multi_markers(
+            final_result,
+            [context_base["record_delimiter"], context_base["completion_delimiter"]],
+        )
+
+        maybe_nodes = defaultdict(list)
+        maybe_edges = defaultdict(list)
+        source_relations = []
+        for record in records:
+            record = re.search(r"\((.*)\)", record)
+            if record is None:
+                continue
+            record = record.group(1)
+            record_attributes = split_string_by_multi_markers(
+                record, [context_base["tuple_delimiter"]]
+            )
+            if_entities = await _handle_single_entity_extraction(
+                record_attributes, chunk_key
+            )
+            if if_entities is not None:
+                maybe_nodes[if_entities["entity_name"]].append(if_entities)
+                continue
+
+            if_relation = await _handle_single_relationship_extraction(
+                record_attributes, chunk_key
+            )
+            if if_relation is not None:
+                source_relations.append(if_relation)
+                maybe_edges[(if_relation["src_id"], if_relation["tgt_id"])].append(
+                    if_relation
+                )
+        # Opt-in source snapshots before global tuple(sorted(k)) and edge merge.
+        # Capturing records never changes the original graph inputs or weights.
+        _records_dir = os.environ.get("MINIRAG_RELATION_RECORDS_DIR", "").strip()
+        if _records_dir:
+            from .relation_records import capture_relations
+            capture_relations(_records_dir, chunk_key, chunk_dp, source_relations)
+        already_processed += 1
+        already_entities += len(maybe_nodes)
+        already_relations += len(maybe_edges)
+        now_ticks = PROMPTS["process_tickers"][
+            already_processed % len(PROMPTS["process_tickers"])
+        ]
+        print(
+            f"{now_ticks} Processed {already_processed} chunks, {already_entities} entities(duplicated), {already_relations} relations(duplicated)\r",
+            end="",
+            flush=True,
+        )
+        return dict(maybe_nodes), dict(maybe_edges)
+
+    # use_llm_func is wrapped in ascynio.Semaphore, limiting max_async callings
+    results = await asyncio.gather(
+        *[_process_single_content(c) for c in ordered_chunks]
+    )
+    print()  # clear the progress bar
+    maybe_nodes = defaultdict(list)
+    maybe_edges = defaultdict(list)
+    for m_nodes, m_edges in results:
+        for k, v in m_nodes.items():
+            maybe_nodes[k].extend(v)
+        for k, v in m_edges.items():
+            maybe_edges[tuple(sorted(k))].extend(v)
+    all_entities_data = await asyncio.gather(
+        *[
+            _merge_nodes_then_upsert(k, v, knowledge_graph_inst, global_config)
+            for k, v in maybe_nodes.items()
+        ]
+    )
+    all_relationships_data = await asyncio.gather(
+        *[
+            _merge_edges_then_upsert(k[0], k[1], v, knowledge_graph_inst, global_config)
+            for k, v in maybe_edges.items()
+        ]
+    )
+    if not len(all_entities_data):
+        logger.warning("Didn't extract any entities, maybe your LLM is not working")
+        return None
+    if not len(all_relationships_data):
+        logger.warning(
+            "Didn't extract any relationships, maybe your LLM is not working"
+        )
+        return None
+
+    if entity_vdb is not None:
+        data_for_vdb = {
+            compute_mdhash_id(dp["entity_name"], prefix="ent-"): {
+                "content": dp["entity_name"] + dp["description"],
+                "entity_name": dp["entity_name"],
+            }
+            for dp in all_entities_data
+        }
+        await entity_vdb.upsert(data_for_vdb)
+    if entity_vdb is not None:
+        data_for_vdb = {
+            compute_mdhash_id(dp["entity_name"], prefix="ent-"): {
+                "content": dp["entity_name"] + " " + dp["description"],
+                "entity_name": dp["entity_name"],
+            }
+            for dp in all_entities_data
+        }
+        await entity_vdb.upsert(data_for_vdb)
+
+    if entity_name_vdb is not None:
+        data_for_vdb = {
+            compute_mdhash_id(dp["entity_name"], prefix="Ename-"): {
+                "content": dp["entity_name"],
+                "entity_name": dp["entity_name"],
+            }
+            for dp in all_entities_data
+        }
+        await entity_name_vdb.upsert(data_for_vdb)
+
+    if relationships_vdb is not None:
+        data_for_vdb = {
+            compute_mdhash_id(dp["src_id"] + dp["tgt_id"], prefix="rel-"): {
+                "src_id": dp["src_id"],
+                "tgt_id": dp["tgt_id"],
+                "content": dp["keywords"]
+                + " " + dp["src_id"]
+                + " " + dp["tgt_id"]
+                + " " + dp["description"],
+            }
+            for dp in all_relationships_data
+        }
+
+        await relationships_vdb.upsert(data_for_vdb)
+
+    return knowledge_graph_inst
+
+
+async def local_query(
+    query,
+    knowledge_graph_inst: BaseGraphStorage,
+    entities_vdb: BaseVectorStorage,
+    relationships_vdb: BaseVectorStorage,
+    text_chunks_db: BaseKVStorage[TextChunkSchema],
+    query_param: QueryParam,
+    global_config: dict,
+) -> str:
+    context = None
+    use_model_func = global_config["llm_model_func"]
+
+    kw_prompt_temp = PROMPTS["keywords_extraction"]
+    kw_prompt = kw_prompt_temp.format(query=query)
+    result = await use_model_func(kw_prompt)
+    json_text = locate_json_string_body_from_string(result)
+
+    try:
+        keywords_data = json.loads(json_text)
+        keywords = keywords_data.get("low_level_keywords", [])
+        keywords = ", ".join(keywords)
+    except json.JSONDecodeError:
+        try:
+            result = (
+                result.replace(kw_prompt[:-1], "")
+                .replace("user", "")
+                .replace("model", "")
+                .strip()
+            )
+            result = "{" + result.split("{")[1].split("}")[0] + "}"
+
+            keywords_data = json.loads(result)
+            keywords = keywords_data.get("low_level_keywords", [])
+            keywords = ", ".join(keywords)
+        # Handle parsing error
+        except json.JSONDecodeError as e:
+            print(f"JSON parsing error: {e}")
+            return PROMPTS["fail_response"]
+    if keywords:
+        context = await _build_local_query_context(
+            keywords,
+            knowledge_graph_inst,
+            entities_vdb,
+            text_chunks_db,
+            query_param,
+        )
+    if query_param.only_need_context:
+        return context
+    if context is None:
+        return PROMPTS["fail_response"]
+    sys_prompt_temp = PROMPTS["rag_response"]
+    sys_prompt = sys_prompt_temp.format(
+        context_data=context, response_type=query_param.response_type
+    )
+    response = await use_model_func(
+        query,
+        system_prompt=sys_prompt,
+    )
+    if len(response) > len(sys_prompt):
+        response = (
+            response.replace(sys_prompt, "")
+            .replace("user", "")
+            .replace("model", "")
+            .replace(query, "")
+            .replace("<system>", "")
+            .replace("</system>", "")
+            .strip()
+        )
+
+    return response
+
+
+async def _build_local_query_context(
+    query,
+    knowledge_graph_inst: BaseGraphStorage,
+    entities_vdb: BaseVectorStorage,
+    text_chunks_db: BaseKVStorage[TextChunkSchema],
+    query_param: QueryParam,
+):
+    results = await entities_vdb.query(query, top_k=query_param.top_k)
+
+    if not len(results):
+        return None
+    node_datas = await asyncio.gather(
+        *[knowledge_graph_inst.get_node(r["entity_name"]) for r in results]
+    )
+    if not all([n is not None for n in node_datas]):
+        logger.warning("Some nodes are missing, maybe the storage is damaged")
+    node_degrees = await asyncio.gather(
+        *[knowledge_graph_inst.node_degree(r["entity_name"]) for r in results]
+    )
+    node_datas = [
+        {**n, "entity_name": k["entity_name"], "rank": d}
+        for k, n, d in zip(results, node_datas, node_degrees)
+        if n is not None
+    ]  # what is this text_chunks_db doing.  dont remember it in airvx.  check the diagram.
+    use_text_units = await _find_most_related_text_unit_from_entities(
+        node_datas, query_param, text_chunks_db, knowledge_graph_inst
+    )
+    use_relations = await _find_most_related_edges_from_entities(
+        node_datas, query_param, knowledge_graph_inst
+    )
+    logger.info(
+        f"Local query uses {len(node_datas)} entites, {len(use_relations)} relations, {len(use_text_units)} text units"
+    )
+    entites_section_list = [["id", "entity", "type", "description", "rank"]]
+    for i, n in enumerate(node_datas):
+        entites_section_list.append(
+            [
+                i,
+                n["entity_name"],
+                n.get("entity_type", "UNKNOWN"),
+                n.get("description", "UNKNOWN"),
+                n["rank"],
+            ]
+        )
+    entities_context = list_of_list_to_csv(entites_section_list)
+
+    relations_section_list = [
+        ["id", "source", "target", "description", "keywords", "weight", "rank"]
+    ]
+    for i, e in enumerate(use_relations):
+        relations_section_list.append(
+            [
+                i,
+                e["src_tgt"][0],
+                e["src_tgt"][1],
+                e["description"],
+                e["keywords"],
+                e["weight"],
+                e["rank"],
+            ]
+        )
+    relations_context = list_of_list_to_csv(relations_section_list)
+
+    text_units_section_list = [["id", "content"]]
+    for i, t in enumerate(use_text_units):
+        text_units_section_list.append([i, t["content"]])
+    text_units_context = list_of_list_to_csv(text_units_section_list)
+    return f"""
+-----Entities-----
+```csv
+{entities_context}
+```
+-----Relationships-----
+```csv
+{relations_context}
+```
+-----Sources-----
+```csv
+{text_units_context}
+```
+"""
+
+
+async def _find_most_related_text_unit_from_entities(
+    node_datas: list[dict],
+    query_param: QueryParam,
+    text_chunks_db: BaseKVStorage[TextChunkSchema],
+    knowledge_graph_inst: BaseGraphStorage,
+):
+    text_units = [
+        split_string_by_multi_markers(dp["source_id"], [GRAPH_FIELD_SEP])
+        for dp in node_datas
+    ]
+    edges = await asyncio.gather(
+        *[knowledge_graph_inst.get_node_edges(dp["entity_name"]) for dp in node_datas]
+    )
+    all_one_hop_nodes = set()
+    for this_edges in edges:
+        if not this_edges:
+            continue
+        all_one_hop_nodes.update([e[1] for e in this_edges])
+
+    all_one_hop_nodes = list(all_one_hop_nodes)
+    all_one_hop_nodes_data = await asyncio.gather(
+        *[knowledge_graph_inst.get_node(e) for e in all_one_hop_nodes]
+    )
+
+    # Add null check for node data
+    all_one_hop_text_units_lookup = {
+        k: set(split_string_by_multi_markers(v["source_id"], [GRAPH_FIELD_SEP]))
+        for k, v in zip(all_one_hop_nodes, all_one_hop_nodes_data)
+        if v is not None and "source_id" in v  # Add source_id check
+    }
+
+    all_text_units_lookup = {}
+    for index, (this_text_units, this_edges) in enumerate(zip(text_units, edges)):
+        for c_id in this_text_units:
+            if c_id in all_text_units_lookup:
+                continue
+            relation_counts = 0
+            if this_edges:  # Add check for None edges
+                for e in this_edges:
+                    if (
+                        e[1] in all_one_hop_text_units_lookup
+                        and c_id in all_one_hop_text_units_lookup[e[1]]
+                    ):
+                        relation_counts += 1
+
+            chunk_data = await text_chunks_db.get_by_id(c_id)
+            if chunk_data is not None and "content" in chunk_data:  # Add content check
+                all_text_units_lookup[c_id] = {
+                    "data": chunk_data,
+                    "order": index,
+                    "relation_counts": relation_counts,
+                }
+
+    # Filter out None values and ensure data has content
+    all_text_units = [
+        {"id": k, **v}
+        for k, v in all_text_units_lookup.items()
+        if v is not None and v.get("data") is not None and "content" in v["data"]
+    ]
+
+    if not all_text_units:
+        logger.warning("No valid text units found")
+        return []
+
+    all_text_units = sorted(
+        all_text_units, key=lambda x: (x["order"], -x["relation_counts"])
+    )
+
+    all_text_units = truncate_list_by_token_size(
+        all_text_units,
+        key=lambda x: x["data"]["content"],
+        max_token_size=query_param.max_token_for_text_unit,
+    )
+
+    all_text_units = [t["data"] for t in all_text_units]
+    return all_text_units
+
+
+async def _find_most_related_edges_from_entities(
+    node_datas: list[dict],
+    query_param: QueryParam,
+    knowledge_graph_inst: BaseGraphStorage,
+):
+    all_related_edges = await asyncio.gather(
+        *[knowledge_graph_inst.get_node_edges(dp["entity_name"]) for dp in node_datas]
+    )
+    all_edges = set()
+    for this_edges in all_related_edges:
+        all_edges.update([tuple(sorted(e)) for e in this_edges])
+    all_edges = list(all_edges)
+    all_edges_pack = await asyncio.gather(
+        *[knowledge_graph_inst.get_edge(e[0], e[1]) for e in all_edges]
+    )
+    all_edges_degree = await asyncio.gather(
+        *[knowledge_graph_inst.edge_degree(e[0], e[1]) for e in all_edges]
+    )
+    all_edges_data = [
+        {"src_tgt": k, "rank": d, **v}
+        for k, v, d in zip(all_edges, all_edges_pack, all_edges_degree)
+        if v is not None
+    ]
+    all_edges_data = sorted(
+        all_edges_data, key=lambda x: (x["rank"], x["weight"]), reverse=True
+    )
+    all_edges_data = truncate_list_by_token_size(
+        all_edges_data,
+        key=lambda x: x["description"],
+        max_token_size=query_param.max_token_for_global_context,
+    )
+    return all_edges_data
+
+
+async def global_query(
+    query,
+    knowledge_graph_inst: BaseGraphStorage,
+    entities_vdb: BaseVectorStorage,
+    relationships_vdb: BaseVectorStorage,
+    text_chunks_db: BaseKVStorage[TextChunkSchema],
+    query_param: QueryParam,
+    global_config: dict,
+) -> str:
+    context = None
+    use_model_func = global_config["llm_model_func"]
+
+    kw_prompt_temp = PROMPTS["keywords_extraction"]
+    kw_prompt = kw_prompt_temp.format(query=query)
+    result = await use_model_func(kw_prompt)
+    json_text = locate_json_string_body_from_string(result)
+
+    try:
+        keywords_data = json.loads(json_text)
+        keywords = keywords_data.get("high_level_keywords", [])
+        keywords = ", ".join(keywords)
+    except json.JSONDecodeError:
+        try:
+            result = (
+                result.replace(kw_prompt[:-1], "")
+                .replace("user", "")
+                .replace("model", "")
+                .strip()
+            )
+            result = "{" + result.split("{")[1].split("}")[0] + "}"
+
+            keywords_data = json.loads(result)
+            keywords = keywords_data.get("high_level_keywords", [])
+            keywords = ", ".join(keywords)
+
+        except json.JSONDecodeError as e:
+            # Handle parsing error
+            print(f"JSON parsing error: {e}")
+            return PROMPTS["fail_response"]
+    if keywords:
+        context = await _build_global_query_context(
+            keywords,
+            knowledge_graph_inst,
+            entities_vdb,
+            relationships_vdb,
+            text_chunks_db,
+            query_param,
+        )
+
+    if query_param.only_need_context:
+        return context
+    if context is None:
+        return PROMPTS["fail_response"]
+
+    sys_prompt_temp = PROMPTS["rag_response"]
+    sys_prompt = sys_prompt_temp.format(
+        context_data=context, response_type=query_param.response_type
+    )
+    response = await use_model_func(
+        query,
+        system_prompt=sys_prompt,
+    )
+    if len(response) > len(sys_prompt):
+        response = (
+            response.replace(sys_prompt, "")
+            .replace("user", "")
+            .replace("model", "")
+            .replace(query, "")
+            .replace("<system>", "")
+            .replace("</system>", "")
+            .strip()
+        )
+
+    return response
+
+
+async def _build_global_query_context(
+    keywords,
+    knowledge_graph_inst: BaseGraphStorage,
+    entities_vdb: BaseVectorStorage,
+    relationships_vdb: BaseVectorStorage,
+    text_chunks_db: BaseKVStorage[TextChunkSchema],
+    query_param: QueryParam,
+):
+    results = await relationships_vdb.query(keywords, top_k=query_param.top_k)
+
+    if not len(results):
+        return None
+
+    edge_datas = await asyncio.gather(
+        *[knowledge_graph_inst.get_edge(r["src_id"], r["tgt_id"]) for r in results]
+    )
+
+    if not all([n is not None for n in edge_datas]):
+        logger.warning("Some edges are missing, maybe the storage is damaged")
+    edge_degree = await asyncio.gather(
+        *[knowledge_graph_inst.edge_degree(r["src_id"], r["tgt_id"]) for r in results]
+    )
+    edge_datas = [
+        {"src_id": k["src_id"], "tgt_id": k["tgt_id"], "rank": d, **v}
+        for k, v, d in zip(results, edge_datas, edge_degree)
+        if v is not None
+    ]
+    edge_datas = sorted(
+        edge_datas, key=lambda x: (x["rank"], x["weight"]), reverse=True
+    )
+    edge_datas = truncate_list_by_token_size(
+        edge_datas,
+        key=lambda x: x["description"],
+        max_token_size=query_param.max_token_for_global_context,
+    )
+
+    use_entities = await _find_most_related_entities_from_relationships(
+        edge_datas, query_param, knowledge_graph_inst
+    )
+    use_text_units = await _find_related_text_unit_from_relationships(
+        edge_datas, query_param, text_chunks_db, knowledge_graph_inst
+    )
+    logger.info(
+        f"Global query uses {len(use_entities)} entites, {len(edge_datas)} relations, {len(use_text_units)} text units"
+    )
+    relations_section_list = [
+        ["id", "source", "target", "description", "keywords", "weight", "rank"]
+    ]
+    for i, e in enumerate(edge_datas):
+        relations_section_list.append(
+            [
+                i,
+                e["src_id"],
+                e["tgt_id"],
+                e["description"],
+                e["keywords"],
+                e["weight"],
+                e["rank"],
+            ]
+        )
+    relations_context = list_of_list_to_csv(relations_section_list)
+
+    entites_section_list = [["id", "entity", "type", "description", "rank"]]
+    for i, n in enumerate(use_entities):
+        entites_section_list.append(
+            [
+                i,
+                n["entity_name"],
+                n.get("entity_type", "UNKNOWN"),
+                n.get("description", "UNKNOWN"),
+                n["rank"],
+            ]
+        )
+    entities_context = list_of_list_to_csv(entites_section_list)
+
+    text_units_section_list = [["id", "content"]]
+    for i, t in enumerate(use_text_units):
+        text_units_section_list.append([i, t["content"]])
+    text_units_context = list_of_list_to_csv(text_units_section_list)
+
+    return f"""
+-----Entities-----
+```csv
+{entities_context}
+```
+-----Relationships-----
+```csv
+{relations_context}
+```
+-----Sources-----
+```csv
+{text_units_context}
+```
+"""
+
+
+async def _find_most_related_entities_from_relationships(
+    edge_datas: list[dict],
+    query_param: QueryParam,
+    knowledge_graph_inst: BaseGraphStorage,
+):
+    entity_names = set()
+    for e in edge_datas:
+        entity_names.add(e["src_id"])
+        entity_names.add(e["tgt_id"])
+
+    node_datas = await asyncio.gather(
+        *[knowledge_graph_inst.get_node(entity_name) for entity_name in entity_names]
+    )
+
+    node_degrees = await asyncio.gather(
+        *[knowledge_graph_inst.node_degree(entity_name) for entity_name in entity_names]
+    )
+    node_datas = [
+        {**n, "entity_name": k, "rank": d}
+        for k, n, d in zip(entity_names, node_datas, node_degrees)
+    ]
+
+    node_datas = truncate_list_by_token_size(
+        node_datas,
+        key=lambda x: x["description"],
+        max_token_size=query_param.max_token_for_local_context,
+    )
+
+    return node_datas
+
+
+async def _find_related_text_unit_from_relationships(
+    edge_datas: list[dict],
+    query_param: QueryParam,
+    text_chunks_db: BaseKVStorage[TextChunkSchema],
+    knowledge_graph_inst: BaseGraphStorage,
+):
+    text_units = [
+        split_string_by_multi_markers(dp["source_id"], [GRAPH_FIELD_SEP])
+        for dp in edge_datas
+    ]
+
+    all_text_units_lookup = {}
+
+    for index, unit_list in enumerate(text_units):
+        for c_id in unit_list:
+            if c_id not in all_text_units_lookup:
+                all_text_units_lookup[c_id] = {
+                    "data": await text_chunks_db.get_by_id(c_id),
+                    "order": index,
+                }
+
+    if any([v is None for v in all_text_units_lookup.values()]):
+        logger.warning("Text chunks are missing, maybe the storage is damaged")
+    all_text_units = [
+        {"id": k, **v} for k, v in all_text_units_lookup.items() if v is not None
+    ]
+    all_text_units = sorted(all_text_units, key=lambda x: x["order"])
+    all_text_units = truncate_list_by_token_size(
+        all_text_units,
+        key=lambda x: x["data"]["content"],
+        max_token_size=query_param.max_token_for_text_unit,
+    )
+    all_text_units: list[TextChunkSchema] = [t["data"] for t in all_text_units]
+
+    return all_text_units
+
+
+async def hybrid_query(
+    query,
+    knowledge_graph_inst: BaseGraphStorage,
+    entities_vdb: BaseVectorStorage,
+    relationships_vdb: BaseVectorStorage,
+    text_chunks_db: BaseKVStorage[TextChunkSchema],
+    query_param: QueryParam,
+    global_config: dict,
+) -> str:
+    low_level_context = None
+    high_level_context = None
+    use_model_func = global_config["llm_model_func"]
+
+    kw_prompt_temp = PROMPTS["keywords_extraction"]
+    kw_prompt = kw_prompt_temp.format(query=query)
+
+    result = await use_model_func(kw_prompt)
+    json_text = locate_json_string_body_from_string(result)
+    try:
+        keywords_data = json.loads(json_text)
+        hl_keywords = keywords_data.get("high_level_keywords", [])
+        ll_keywords = keywords_data.get("low_level_keywords", [])
+        hl_keywords = ", ".join(hl_keywords)
+        ll_keywords = ", ".join(ll_keywords)
+    except json.JSONDecodeError:
+        try:
+            result = (
+                result.replace(kw_prompt[:-1], "")
+                .replace("user", "")
+                .replace("model", "")
+                .strip()
+            )
+            result = "{" + result.split("{")[1].split("}")[0] + "}"
+            keywords_data = json.loads(result)
+            hl_keywords = keywords_data.get("high_level_keywords", [])
+            ll_keywords = keywords_data.get("low_level_keywords", [])
+            hl_keywords = ", ".join(hl_keywords)
+            ll_keywords = ", ".join(ll_keywords)
+        # Handle parsing error
+        except json.JSONDecodeError as e:
+            print(f"JSON parsing error: {e}")
+            return PROMPTS["fail_response"]
+    if ll_keywords:
+        low_level_context = await _build_local_query_context(
+            ll_keywords,
+            knowledge_graph_inst,
+            entities_vdb,
+            text_chunks_db,
+            query_param,
+        )
+
+    if hl_keywords:
+        high_level_context = await _build_global_query_context(
+            hl_keywords,
+            knowledge_graph_inst,
+            entities_vdb,
+            relationships_vdb,
+            text_chunks_db,
+            query_param,
+        )
+
+    context = combine_contexts(high_level_context, low_level_context)
+
+    if query_param.only_need_context:
+        return context
+    if context is None:
+        return PROMPTS["fail_response"]
+
+    sys_prompt_temp = PROMPTS["rag_response"]
+    sys_prompt = sys_prompt_temp.format(
+        context_data=context, response_type=query_param.response_type
+    )
+    response = await use_model_func(
+        query,
+        system_prompt=sys_prompt,
+    )
+    if len(response) > len(sys_prompt):
+        response = (
+            response.replace(sys_prompt, "")
+            .replace("user", "")
+            .replace("model", "")
+            .replace(query, "")
+            .replace("<system>", "")
+            .replace("</system>", "")
+            .strip()
+        )
+    return response
+
+
+def combine_contexts(high_level_context, low_level_context):
+    # Function to extract entities, relationships, and sources from context strings
+
+    def extract_sections(context):
+        entities_match = re.search(
+            r"-----Entities-----\s*```csv\s*(.*?)\s*```", context, re.DOTALL
+        )
+        relationships_match = re.search(
+            r"-----Relationships-----\s*```csv\s*(.*?)\s*```", context, re.DOTALL
+        )
+        sources_match = re.search(
+            r"-----Sources-----\s*```csv\s*(.*?)\s*```", context, re.DOTALL
+        )
+
+        entities = entities_match.group(1) if entities_match else ""
+        relationships = relationships_match.group(1) if relationships_match else ""
+        sources = sources_match.group(1) if sources_match else ""
+
+        return entities, relationships, sources
+
+    # Extract sections from both contexts
+
+    if high_level_context is None:
+        warnings.warn(
+            "High Level context is None. Return empty High entity/relationship/source"
+        )
+        hl_entities, hl_relationships, hl_sources = "", "", ""
+    else:
+        hl_entities, hl_relationships, hl_sources = extract_sections(high_level_context)
+
+    if low_level_context is None:
+        warnings.warn(
+            "Low Level context is None. Return empty Low entity/relationship/source"
+        )
+        ll_entities, ll_relationships, ll_sources = "", "", ""
+    else:
+        ll_entities, ll_relationships, ll_sources = extract_sections(low_level_context)
+
+    # Combine and deduplicate the entities
+
+    combined_entities = process_combine_contexts(hl_entities, ll_entities)
+    combined_entities = chunking_by_token_size(combined_entities, max_token_size=2000)
+    # Combine and deduplicate the relationships
+    combined_relationships = process_combine_contexts(
+        hl_relationships, ll_relationships
+    )
+    combined_relationships = chunking_by_token_size(
+        combined_relationships, max_token_size=2000
+    )
+    # Combine and deduplicate the sources
+    combined_sources = process_combine_contexts(hl_sources, ll_sources)
+    combined_sources = chunking_by_token_size(combined_sources, max_token_size=2000)
+    # Format the combined context
+    return f"""
+-----Entities-----
+```csv
+{combined_entities}
+```
+-----Relationships-----
+```csv
+{combined_relationships}
+```
+-----Sources-----
+```csv
+{combined_sources}
+```
+"""
+
+
+async def naive_query(
+    query,
+    chunks_vdb: BaseVectorStorage,
+    text_chunks_db: BaseKVStorage[TextChunkSchema],
+    query_param: QueryParam,
+    global_config: dict,
+):
+    use_model_func = global_config["llm_model_func"]
+    results = await chunks_vdb.query(query, top_k=query_param.top_k)
+    if not len(results):
+        return PROMPTS["fail_response"]
+    chunks_ids = [r["id"] for r in results]
+
+    chunks = await text_chunks_db.get_by_ids(chunks_ids)
+
+    maybe_trun_chunks = truncate_list_by_token_size(
+        chunks,
+        key=lambda x: x["content"],
+        max_token_size=query_param.max_token_for_text_unit,
+    )
+    logger.info(f"Truncate {len(chunks)} to {len(maybe_trun_chunks)} chunks")
+    section = "--New Chunk--\n".join([c["content"] for c in maybe_trun_chunks])
+    if query_param.only_need_context:
+        return section
+    sys_prompt_temp = PROMPTS["naive_rag_response"]
+    sys_prompt = sys_prompt_temp.format(
+        content_data=section, response_type=query_param.response_type
+    )
+    response = await use_model_func(
+        query,
+        system_prompt=sys_prompt,
+    )
+
+    if len(response) > len(sys_prompt):
+        response = (
+            response[len(sys_prompt) :]
+            .replace(sys_prompt, "")
+            .replace("user", "")
+            .replace("model", "")
+            .replace(query, "")
+            .replace("<system>", "")
+            .replace("</system>", "")
+            .strip()
+        )
+
+    return response
+
+
+async def path2chunk(
+    scored_edged_reasoning_path, knowledge_graph_inst, pairs_append, query, max_chunks=5,
+    *, valid_chunks=None, diagnostics=None, chunk_vectors=None, answer_nodes=None, relation_vectors=None,
+):
+    # Opt-in repair: accumulate all paths AND carry their scores to kwd2chunk.
+    # Kept separate from PATH2CHUNK_FIX so historical experiments remain reproducible.
+    score_flow = os.environ.get("MINIRAG_PATH_SCORE_FLOW", "0") == "1"
+    normalization = os.environ.get("MINIRAG_PATH_SCORE_NORMALIZATION", "").strip()
+    if normalization not in ("", "path_mean"):
+        raise ValueError(f"Unknown path-score normalization: {normalization!r}")
+    if normalization and not score_flow:
+        raise ValueError("Path-score normalization requires PATH_SCORE_FLOW=1")
+    enhancement = os.environ.get("MINIRAG_P2_ENHANCE", "").strip()
+    projection = os.environ.get("MINIRAG_PATH_PROJECTION", "").strip()
+    selection = os.environ.get("MINIRAG_PATH_SELECTION", "").strip()
+    if selection and (selection != "c1_affinity" or projection not in ("affinity", "p0_relation_lift") or answer_nodes is None):
+        raise ValueError("Fixed C1 selection requires affinity projection and the original answer-type list")
+    if projection:
+        if projection not in ("affinity", "p0_relation_lift") or normalization or enhancement:
+            raise ValueError("Path affinity cannot be mixed with other path projections")
+        if os.environ.get("MINIRAG_PATH2CHUNK_FIX", "0") != "1":
+            raise ValueError("Path affinity requires PATH2CHUNK_FIX=1")
+        if projection == "p0_relation_lift":
+            from .p0_path_scoring import project_p0_paths
+            result = await project_p0_paths(scored_edged_reasoning_path,knowledge_graph_inst,
+                pairs_append,query,max_chunks,valid=valid_chunks,chunk_vectors=chunk_vectors,
+                relation_vectors=relation_vectors,diagnostics=diagnostics)
+        else:
+            from .path_affinity import project_with_affinity
+            result = await project_with_affinity(scored_edged_reasoning_path, knowledge_graph_inst,
+                pairs_append, query, max_chunks, valid=valid_chunks,
+                chunk_vectors=chunk_vectors, diagnostics=diagnostics,
+                reference_answers=answer_nodes if selection else None)
+        if not score_flow:
+            for entry in result.values():
+                entry.pop("PathChunkScores")
+        return result
+    if enhancement:
+        if not score_flow:
+            raise ValueError("P2 enhancement requires PATH_SCORE_FLOW=1")
+        from .p2_preserved import project_paths
+        return await project_paths(scored_edged_reasoning_path, knowledge_graph_inst,
+                                   pairs_append, query, max_chunks, enhancement,
+                                   valid=valid_chunks, trace=diagnostics)
+    already_node = {}
+    for k, v in scored_edged_reasoning_path.items():
+        original_path_count = len(v["Path"])
+        node_chunk_id = None
+
+        for pathtuple, scorelist in v["Path"].items():
+            if pathtuple in pairs_append:
+                use_edge = pairs_append[pathtuple]
+                edge_datas = []
+                edge_datas = await asyncio.gather(
+                    *[knowledge_graph_inst.get_edge(r[0], r[1]) for r in use_edge]
+                )
+                text_units = [
+                    split_string_by_multi_markers(dp["source_id"], [GRAPH_FIELD_SEP])
+                    for dp in edge_datas  # chunk ID
+                ][0]
+
+            else:
+                use_edge = []
+                text_units = []
+
+            node_datas = await asyncio.gather(
+                *[knowledge_graph_inst.get_node(pathtuple[0])]
+            )
+            for dp in node_datas:
+                text_units_node = split_string_by_multi_markers(
+                    dp["source_id"], [GRAPH_FIELD_SEP]
+                )
+                text_units = text_units + text_units_node
+
+            node_datas = await asyncio.gather(
+                *[knowledge_graph_inst.get_node(ents) for ents in pathtuple[1:]]
+            )
+            if query is not None:
+                for dp in node_datas:
+                    text_units_node = split_string_by_multi_markers(
+                        dp["source_id"], [GRAPH_FIELD_SEP]
+                    )
+                    descriptionlist_node = split_string_by_multi_markers(
+                        dp["description"], [GRAPH_FIELD_SEP]
+                    )
+                    if descriptionlist_node[0] not in already_node.keys():
+                        already_node[descriptionlist_node[0]] = None
+
+                        if len(text_units_node) == len(descriptionlist_node):
+                            if len(text_units_node) > 5:
+                                max_ids = int(max(5, len(text_units_node) / 2))
+                                should_consider_idx = calculate_similarity(
+                                    descriptionlist_node, query, k=max_ids
+                                )
+                                text_units_node = [
+                                    text_units_node[i] for i in should_consider_idx
+                                ]
+                                already_node[descriptionlist_node[0]] = text_units_node
+                    else:
+                        text_units_node = already_node[descriptionlist_node[0]]
+                    if text_units_node is not None:
+                        text_units = text_units + text_units_node
+
+            count_dict = Counter(text_units)
+            total_score = scorelist[0] + scorelist[1] + 1
+            for key, value in count_dict.items():
+                count_dict[key] = value * total_score
+            if node_chunk_id is None:
+                node_chunk_id = count_dict
+            else:
+                node_chunk_id = node_chunk_id + count_dict
+        v["Path"] = []
+        if node_chunk_id is None:
+            node_datas = await asyncio.gather(*[knowledge_graph_inst.get_node(k)])
+            for dp in node_datas:
+                text_units_node = split_string_by_multi_markers(
+                    dp["source_id"], [GRAPH_FIELD_SEP]
+                )
+                count_dict = Counter(text_units_node)
+
+            for id in count_dict.most_common(max_chunks):
+                v["Path"].append(id[0])
+            # v['Path'] = count_dict.most_common(max_chunks)#[]
+        else:
+            # path2chunk-fix: node_chunk_id cộng dồn điểm của MỌI đường đi (dòng trên),
+            # nhưng upstream lại chọn theo count_dict -- chỉ là điểm của đường CUỐI
+            # trong vòng lặp, thứ tự do đồ thị trả về. Bản đúng nằm sẵn trong comment
+            # bên dưới. MINIRAG_PATH2CHUNK_FIX=1 bật bản sửa; mặc định giữ upstream.
+            picked = (node_chunk_id
+                      if score_flow or os.environ.get("MINIRAG_PATH2CHUNK_FIX", "0") == "1"
+                      else count_dict)
+            for id in picked.most_common(max_chunks):
+                v["Path"].append(id[0])
+            # v['Path'] = node_chunk_id.most_common(max_chunks)
+        if score_flow:
+            # Preserve Path's list-of-IDs interface for existing callers/demo code.
+            # An isolated seed uses its source occurrence counts as fallback scores.
+            chunk_scores = node_chunk_id if node_chunk_id is not None else count_dict
+            divisor = max(1, original_path_count) if normalization == "path_mean" else 1
+            v["PathChunkScores"] = {cid: float(chunk_scores[cid]) / divisor for cid in v["Path"]}
+    return scored_edged_reasoning_path
+
+
+def scorednode2chunk(input_dict, values_dict):
+    for key, value_list in input_dict.items():
+        input_dict[key] = [
+            values_dict.get(val, None) for val in value_list if val in values_dict
+        ]
+        input_dict[key] = [val for val in input_dict[key] if val is not None]
+
+
+def _knee_keep(scores):
+    """Số chunk giữ lại: cắt tại chỗ điểm tụt mạnh nhất (tỷ lệ s[i]/s[i+1] lớn nhất).
+
+    Không có tham số tự do -- ranh giới do chính phân bố điểm của từng câu quyết định,
+    nên số chunk co giãn theo câu hỏi thay vì một con số cố định. Chốt 13/09/2026
+    trước khi đo trên 637 câu.
+    """
+    s = [x for x in scores if x > 0]
+    if len(s) < 2:
+        return len(s)
+    return max(range(len(s) - 1), key=lambda i: s[i] / s[i + 1]) + 1
+
+
+def _rrf_fuse(*rankings, k=60):
+    """Reciprocal rank fusion (Cormack et al., 2009). k=60 là hằng số mặc định của
+    bài gốc, không tinh chỉnh. Hoà điểm giữ thứ tự xuất hiện: bảng đầu tiên trước."""
+    sc = defaultdict(float)
+    for rk in rankings:
+        for i, cid in enumerate(rk):
+            sc[cid] += 1 / (k + i + 1)
+    return [c for c, _ in sorted(sc.items(), key=lambda x: -x[1])]
+
+
+_BM25_INDEX = {}
+
+
+def _bm25_index(text_chunks_db):
+    """Chỉ mục BM25 dựng một lần trong bộ nhớ từ kho chunk; không ghi gì vào index."""
+    data = getattr(text_chunks_db, "_data", None)
+    if data is None:
+        raise RuntimeError("BM25 cần kho chunk dạng JsonKVStorage (thuộc tính _data)")
+    key = getattr(text_chunks_db, "_file_name", id(text_chunks_db))
+    idx = _BM25_INDEX.get(key)
+    if idx is None or len(idx.ids) != len(data):
+        idx = _BM25_INDEX[key] = BM25Index({cid: v["content"] for cid, v in data.items()})
+    return idx
+
+
+_KW_CACHE = {}
+
+
+async def _keyword_llm(use_model_func, kw_prompt):
+    """MINIRAG_KW_CACHE=<jsonl>: CHỈ cho chế độ sàng lọc tất định (ROADMAP, tầng A-C). Đầu ra parser từ khoá
+    được cache theo sha256 của prompt để mọi biến thể dùng chung một lần rút; MINIRAG_KW_CACHE_ONLY=1 cấm gọi
+    LLM khi thiếu (tầng offline chạy CPU thuần). Không đặt biến thì hành vi như upstream."""
+    path = os.environ.get("MINIRAG_KW_CACHE", "").strip()
+    if not path:
+        return await use_model_func(kw_prompt)
+    cache = _KW_CACHE.get(path)
+    if cache is None:
+        cache = {}
+        if os.path.exists(path):
+            with open(path, encoding="utf-8") as fh:
+                for line in fh:
+                    if line.strip():
+                        r = json.loads(line)
+                        cache[r["prompt_sha256"]] = r["result"]
+        _KW_CACHE[path] = cache
+    key = hashlib.sha256(kw_prompt.encode("utf-8")).hexdigest()
+    if key not in cache:
+        if os.environ.get("MINIRAG_KW_CACHE_ONLY", "") == "1":
+            raise RuntimeError(f"thiếu đầu ra parser trong cache {path} (MINIRAG_KW_CACHE_ONLY=1)")
+        result = await use_model_func(kw_prompt)
+        cache[key] = result
+        os.makedirs(os.path.dirname(path) or ".", exist_ok=True)
+        with open(path, "a", encoding="utf-8") as fh:
+            fh.write(json.dumps({"prompt_sha256": key, "result": result}, ensure_ascii=False) + "\n")
+    return cache[key]
+
+
+def kwd2chunk(ent_from_query_dict, chunks_ids, chunk_nums, *, scores_out=None):
+    score_flow = os.environ.get("MINIRAG_PATH_SCORE_FLOW", "0") == "1"
+    calibration = os.environ.get("MINIRAG_PATH_SCORE_CALIBRATION", "").strip()
+    if calibration:
+        if calibration != "local_mean" or not score_flow:
+            raise ValueError("Local-mean calibration requires PATH_SCORE_FLOW=1")
+        from .path_calibration import local_mean_factors
+    final_chunk = Counter()
+    final_chunk_id = []
+    for key, list_of_dicts in ent_from_query_dict.items():
+        total_id_scores = Counter()
+        id_scores_list = []
+        id_scores = {}
+        for d in list_of_dicts:
+            first = list_of_dicts[0]
+            # The new side channel must not change upstream's equality-based boost.
+            is_first = ((d["Score"], d["Path"]) == (first["Score"], first["Path"])
+                        if score_flow else d == first)
+            if is_first:
+                score = d["Score"] * 2
+            else:
+                score = d["Score"]
+            path = d["Path"]
+            if calibration:
+                weights = local_mean_factors(path, d["PathChunkScores"]) if path else {}
+            else:
+                weights = d["PathChunkScores"] if score_flow and path else {}
+
+            for id in path:
+                if id == path[0] and id in chunks_ids:
+                    score = score * 10
+                # Keep upstream seed/keyword/vector boosts fixed; change only
+                # whether the path-derived chunk weight survives into ranking.
+                contribution = score * weights[id] if score_flow else score
+                if id in id_scores:
+                    id_scores[id] += contribution
+                else:
+                    id_scores[id] = contribution
+        id_scores_list.append(id_scores)
+
+        for scores in id_scores_list:
+            total_id_scores.update(scores)
+        final_chunk = final_chunk + total_id_scores  # .most_common(3)
+
+    if scores_out is not None:
+        scores_out.update(final_chunk)
+    ranked = final_chunk.most_common(chunk_nums)
+    # MINIRAG_CHUNK_CUT=knee: giữ tới vách điểm thay vì cả chunk_nums chunk. A1 (cắt
+    # theo token) vẫn áp phía sau như trần an toàn cho cửa sổ model.
+    if os.environ.get("MINIRAG_CHUNK_CUT", "") == "knee":
+        ranked = ranked[: _knee_keep([sc for _, sc in ranked])]
+    for i in ranked:
+        final_chunk_id.append(i[0])
+    return final_chunk_id
+
+
+async def _build_mini_query_context(
+    ent_from_query,
+    type_keywords,
+    originalquery,
+    knowledge_graph_inst: BaseGraphStorage,
+    entities_vdb: BaseVectorStorage,
+    entity_name_vdb: BaseVectorStorage,
+    relationships_vdb: BaseVectorStorage,
+    chunks_vdb: BaseVectorStorage,
+    text_chunks_db: BaseKVStorage[TextChunkSchema],
+    embedder,
+    query_param: QueryParam,
+):
+    _metadata_arm = os.environ.get("MINIRAG_GRAPH_ARM", "").strip()
+    _metadata_trace = None
+    if _metadata_arm:
+        from .relation_metadata import ARMS as _metadata_arms
+        if _metadata_arm not in _metadata_arms:
+            raise ValueError("Unknown MINIRAG_GRAPH_ARM")
+        if any(os.environ.get(k, "").strip() not in ("", "0") for k in
+               ("MINIRAG_GRAPH_FLOW", "MINIRAG_TEMPORAL", "MINIRAG_SOURCE_EVENT_TIME",
+                "MINIRAG_CHUNK_FUSION", "MINIRAG_LEEF", "MINIRAG_RERANK")):
+            raise ValueError("Graph metadata arms require one common un-fused baseline profile")
+    _graph_flow_mode = os.environ.get("MINIRAG_GRAPH_FLOW", "").strip()
+    if _graph_flow_mode == "0":
+        _graph_flow_mode = ""
+    _graph_flow_trace = None
+    _path_projection = os.environ.get("MINIRAG_PATH_PROJECTION", "").strip()
+    _path_selection = os.environ.get("MINIRAG_PATH_SELECTION", "").strip()
+    _path_calibration = os.environ.get("MINIRAG_PATH_SCORE_CALIBRATION", "").strip()
+    _consensus = os.environ.get("MINIRAG_PATH_CONSENSUS", "").strip()
+    if _consensus:
+        from .source_consensus import validate_mode
+        validate_mode(_consensus)
+        if (_path_projection != "p0_relation_lift" or _metadata_arm
+                or os.environ.get("MINIRAG_PATH_RESEARCH", "").strip()):
+            raise ValueError("Source consensus requires the unchanged C3 graph profile, without metadata/R1/R2 arms")
+    if (_path_selection and (_path_selection != "c1_affinity" or _path_projection not in ("affinity", "p0_relation_lift"))
+            or _path_calibration and (_path_calibration != "local_mean"
+                or _path_selection != "c1_affinity" or os.environ.get("MINIRAG_PATH_SCORE_FLOW", "0") != "1")):
+        raise ValueError("Path calibration requires score flow and fixed C1-affinity selection")
+    _path_projection_trace = None
+    if _path_projection:
+        conflicts = [n for n in ("MINIRAG_P2_ENHANCE", "MINIRAG_PATH_SCORE_NORMALIZATION",
+            "MINIRAG_PATH_PRUNE", "MINIRAG_CHUNK_CUT", "MINIRAG_LEEF", "MINIRAG_RERANK")
+            if os.environ.get(n, "").strip()]
+        if (_path_projection not in ("affinity", "p0_relation_lift") or _graph_flow_mode or conflicts
+                or os.environ.get("MINIRAG_PATH2CHUNK_FIX", "0") != "1"
+                or os.environ.get("MINIRAG_PATH_SCORE", "").strip() not in ("", "weighted")
+                or os.environ.get("MINIRAG_CHUNK_FUSION", "") in ("vector", "vector_bm25")):
+            raise ValueError("Path affinity requires intact P0/P2 graph flows, FIX=1 and no competing projection")
+        if _path_projection == "p0_relation_lift" and (
+                os.environ.get("MINIRAG_PATH_SCORE", "").strip() or _path_calibration
+                or _path_selection != "c1_affinity" or os.environ.get("MINIRAG_PATH_SCORE_FLOW", "0") != "1"):
+            raise ValueError("New path scoring requires P0, fixed C1 candidates and raw dimensionless score flow")
+        _path_projection_trace = {"stages": ["entity_search", "two_hop_paths", "answer_type",
+            "path_score", "semantic_edges", "edge_vote_path", "path2chunk", "node_edge_provenance",
+            "query_chunk_affinity", "scorednode2chunk", "dense_search", "kwd2chunk", "context"]}
+        if _path_selection:
+            _path_projection_trace["stages"].append("full_c3_score_selection" if _consensus else "fixed_c1_selection")
+        if _path_calibration:
+            _path_projection_trace["stages"].append("local_mean_calibration")
+        if _path_projection == "p0_relation_lift":
+            _path_projection_trace["stages"].extend(["p0_prior", "relation_path_score", "matched_source_background"])
+    _path_normalization = os.environ.get("MINIRAG_PATH_SCORE_NORMALIZATION", "").strip()
+    if _path_normalization:
+        if _path_normalization != "path_mean":
+            raise ValueError(f"Unknown path-score normalization: {_path_normalization!r}")
+        if (os.environ.get("MINIRAG_PATH_SCORE_FLOW", "0") != "1"
+                or os.environ.get("MINIRAG_PATH_SCORE", "") != "weighted"
+                or _graph_flow_mode or os.environ.get("MINIRAG_P2_ENHANCE", "").strip()
+                or any(os.environ.get(n, "").strip() for n in
+                       ("MINIRAG_PATH_PRUNE", "MINIRAG_CHUNK_CUT", "MINIRAG_LEEF", "MINIRAG_RERANK"))):
+            raise ValueError("Path-mean QA requires unchanged weighted P2 flows and no graph replacement")
+    _p2_enhance = os.environ.get("MINIRAG_P2_ENHANCE", "").strip()
+    _p2_trace = None
+    if _p2_enhance:
+        from .p2_preserved import MODES as P2_MODES
+        if _p2_enhance not in P2_MODES:
+            raise ValueError(f"Unknown MINIRAG_P2_ENHANCE: {_p2_enhance!r}")
+        if (_graph_flow_mode or os.environ.get("MINIRAG_PATH_SCORE", "") != "weighted"
+                or os.environ.get("MINIRAG_PATH_SCORE_FLOW", "0") != "1"):
+            raise ValueError("P2 enhancement requires weighted P2, score flow, and no graph replacement")
+        conflicts = [n for n in ("MINIRAG_PATH_PRUNE", "MINIRAG_CHUNK_CUT", "MINIRAG_LEEF", "MINIRAG_RERANK")
+                     if os.environ.get(n, "").strip()]
+        if conflicts:
+            raise ValueError("P2 enhancement preserves the complete pipeline; unset " + ", ".join(conflicts))
+        _p2_trace = {"stages": ["entity_search", "two_hop_paths", "answer_type", "weighted_p2",
+                                "semantic_edges", "edge_vote_path", "path2chunk", "scorednode2chunk",
+                                "dense_search", "kwd2chunk", "context"],
+                     "answer_type_candidates": 0}
+    _graph_candidate_mode = os.environ.get("MINIRAG_GRAPH_FLOW_CANDIDATES", "semantic").strip() or "semantic"
+    if _graph_flow_mode:
+        from .graph_flow import MODES, CANDIDATE_MODES, EVIDENCE_MODES
+        if _graph_flow_mode not in MODES:
+            raise ValueError(f"Unknown MINIRAG_GRAPH_FLOW: {_graph_flow_mode!r}")
+        if _graph_candidate_mode not in CANDIDATE_MODES:
+            raise ValueError(f"Unknown MINIRAG_GRAPH_FLOW_CANDIDATES: {_graph_candidate_mode!r}")
+        if _graph_flow_mode in EVIDENCE_MODES and _graph_candidate_mode != "topology":
+            raise ValueError("P3 evidence flow requires the fixed positive-cosine topology pool")
+        conflicts = [name for name in ("MINIRAG_PATH_SCORE", "MINIRAG_PATH_PRUNE",
+                     "MINIRAG_CHUNK_CUT", "MINIRAG_LEEF", "MINIRAG_RERANK")
+                     if os.environ.get(name, "").strip()]
+        if os.environ.get("MINIRAG_PATH_SCORE_FLOW", "0") == "1":
+            conflicts.append("MINIRAG_PATH_SCORE_FLOW")
+        if conflicts:
+            raise ValueError("P3 replaces legacy graph scoring; unset " + ", ".join(conflicts))
+        if os.environ.get("MINIRAG_CHUNK_FUSION", "") in ("vector", "vector_bm25"):
+            raise ValueError("P3 requires graph Sources; vector/vector_bm25 discard graph ranking")
+        if not ent_from_query:
+            return None
+    if (os.environ.get("MINIRAG_PATH_SCORE_FLOW", "0") == "1"
+            and os.environ.get("MINIRAG_CHUNK_FUSION", "") in ("vector", "vector_bm25")):
+        raise ValueError(
+            "MINIRAG_PATH_SCORE_FLOW=1 requires graph Sources: use empty "
+            "MINIRAG_CHUNK_FUSION, rrf, or rrf_bm25; vector/vector_bm25 discard graph ranking"
+        )
+    _event_time_mode = os.environ.get("MINIRAG_SOURCE_EVENT_TIME", "").strip()
+    _temporal_enabled = os.environ.get("MINIRAG_TEMPORAL", "0") == "1"
+    _temporal_rrf = os.environ.get("MINIRAG_TEMPORAL_RRF", "").strip()
+    _extractive_mode = os.environ.get('MINIRAG_EXTRACTIVE_CONTEXT','').strip()
+    _extractive_trace = None
+    if _extractive_mode:
+        from .extractive_context import MODES as _extractive_modes
+        if _extractive_mode not in _extractive_modes or (_temporal_rrf!='1' and os.environ.get('MINIRAG_EXTRACTIVE_POOL','')!='graph_time'):
+            raise ValueError('Extractive context requires an explicit supported source-time pool')
+    _extractive_pool = os.environ.get('MINIRAG_EXTRACTIVE_POOL','').strip()
+    if _extractive_pool not in ('','rrf','graph_time'):
+        raise ValueError('Unknown extractive candidate pool')
+    if _extractive_pool == 'graph_time':
+        from .temporal_rrf import validate_graph_time_profile
+        validate_graph_time_profile(os.environ, query_param.top_k,
+            int(os.environ.get('MINIRAG_MAX_TOKEN_TEXT_UNIT','').strip()
+                or query_param.max_token_for_text_unit))
+    if _temporal_rrf:
+        from .temporal_rrf import validate_profile
+        validate_profile(os.environ, query_param.top_k,
+            int(os.environ.get('MINIRAG_MAX_TOKEN_TEXT_UNIT','').strip() or query_param.max_token_for_text_unit))
+    _source_event_trace = None
+    _time_anchors, _time_by_date = (), None
+    _time_selected = {}
+    _c0_graph_ids = None
+    if _temporal_enabled or _event_time_mode:
+        if (not _temporal_enabled or _graph_flow_mode or _path_projection
+                or os.environ.get("MINIRAG_PATH2CHUNK_FIX", "0") != "0"
+                or os.environ.get("MINIRAG_PATH_SCORE_FLOW", "0") != "0"
+                or any(os.environ.get(n, "").strip() for n in (
+                    "MINIRAG_PATH_SCORE", "MINIRAG_PATH_PRUNE", "MINIRAG_CHUNK_CUT",
+                    "MINIRAG_RERANK", "MINIRAG_LEEF"))
+                or (os.environ.get('MINIRAG_CHUNK_FUSION','').strip() and not _temporal_rrf)):
+            raise ValueError("Temporal source events require unchanged C0 graph flows and no fusion/reranking")
+        from .temporal import active as temporal_active
+        _time_anchors, _time_by_date = temporal_active(originalquery, text_chunks_db)
+        if _event_time_mode:
+            from .source_event_time import MODES as event_time_modes
+            if (_event_time_mode not in event_time_modes
+                    or os.environ.get('MINIRAG_TEMPORAL_EXPAND', '1') != '1'
+                    or os.environ.get('MINIRAG_TEMPORAL_H', '0') != '0'):
+                raise ValueError("Unknown event mode or nonstandard Tai baseline")
+    _t0 = time.perf_counter()
+    imp_ents = []
+    nodes_from_query_list = []
+    ent_from_query_dict = {}
+    if _time_anchors and not ent_from_query:
+        results_node = []
+
+    for ent in ent_from_query:
+        ent_from_query_dict[ent] = []
+        results_node = await entity_name_vdb.query(ent, top_k=query_param.top_k)
+
+        nodes_from_query_list.append(results_node)
+        ent_from_query_dict[ent] = [e["entity_name"] for e in results_node]
+
+    candidate_reasoning_path = {}
+
+    for results_node_list in nodes_from_query_list:
+        candidate_reasoning_path_new = {
+            key["entity_name"]: {"Score": key["distance"], "Path": []}
+            for key in results_node_list
+        }
+
+        candidate_reasoning_path = {
+            **candidate_reasoning_path,
+            **candidate_reasoning_path_new,
+        }
+    if _graph_flow_mode:
+        # Preserve upstream seed eligibility/Entities without enumerating paths.
+        names = list(candidate_reasoning_path)
+        degrees = await asyncio.gather(*(knowledge_graph_inst.node_degree(name) for name in names))
+        has_paths = {name: degree > 0 for name, degree in zip(names, degrees)}
+    else:
+        for key in candidate_reasoning_path.keys():
+            candidate_reasoning_path[key][
+                "Path"
+            ] = await knowledge_graph_inst.get_neighbors_within_k_hops(key, 2)
+        has_paths = {name: bool(entry["Path"]) for name, entry in candidate_reasoning_path.items()}
+    imp_ents.extend(candidate_reasoning_path)
+
+    short_path_entries = {
+        name: entry
+        for name, entry in candidate_reasoning_path.items()
+        if not has_paths[name]
+    }
+    sorted_short_path_entries = sorted(
+        short_path_entries.items(), key=lambda x: x[1]["Score"], reverse=True
+    )
+    save_p = max(1, int(len(sorted_short_path_entries) * 0.2))
+    top_short_path_entries = sorted_short_path_entries[:save_p]
+    top_short_path_dict = {name: entry for name, entry in top_short_path_entries}
+    long_path_entries = {
+        name: entry
+        for name, entry in candidate_reasoning_path.items()
+        if has_paths[name]
+    }
+    candidate_reasoning_path = {**long_path_entries, **top_short_path_dict}
+    
+    # TV1 Hook: Cắt tỉa đường đi (P1)
+    _path_prune = os.environ.get("MINIRAG_PATH_PRUNE", "").strip()
+    if _path_prune:
+        from minirag.path_rerank import prune_reasoning_paths
+        candidate_reasoning_path = prune_reasoning_paths(candidate_reasoning_path, mode=_path_prune)
+        
+    _n_seeds = len(candidate_reasoning_path)
+    _n_paths = sum(len(e["Path"]) for e in candidate_reasoning_path.values())
+    node_datas_from_type = await knowledge_graph_inst.get_node_from_types(
+        type_keywords
+    )  # entity_type, description,...
+
+    maybe_answer_list = [n["entity_name"] for n in node_datas_from_type]
+    if _p2_trace is not None:
+        _p2_trace["answer_type_candidates"] = len(maybe_answer_list)
+        _p2_trace["answer_type_sha256"] = hashlib.sha256(json.dumps(maybe_answer_list).encode()).hexdigest()
+    imp_ents = imp_ents + maybe_answer_list
+    
+    # TV1 Hook: Chấm điểm đường đi có trọng số (P2)
+    _path_score = os.environ.get("MINIRAG_PATH_SCORE", "").strip()
+    if _graph_flow_mode:
+        scored_reasoning_path = None
+    elif _path_score:
+        from minirag.path_rerank import score_reasoning_paths_weighted
+        scored_reasoning_path = score_reasoning_paths_weighted(
+            candidate_reasoning_path, maybe_answer_list, mode=_path_score
+        )
+    else:
+        scored_reasoning_path = cal_path_score_list(
+            candidate_reasoning_path, maybe_answer_list
+        )
+
+    _candidate_trace = None
+    if _graph_flow_mode:
+        # Each distinct parsed query entity has one budget, even when it occurs
+        # more than once in the parser output. Original similarities are retained.
+        groups = {}
+        for entity, matches in zip(ent_from_query, nodes_from_query_list):
+            groups.setdefault(entity, [(m["entity_name"], m["distance"]) for m in matches])
+    if _graph_flow_mode and _graph_candidate_mode != "semantic":
+        from .graph_flow import seed_distribution, topology_candidates
+        active_seeds = seed_distribution(list(groups.values()), set(candidate_reasoning_path))
+        goodedge, _candidate_trace = await topology_candidates(
+            {name for name, mass in active_seeds.items() if mass > 0}, knowledge_graph_inst,
+            relationships_vdb, originalquery, mode=_graph_candidate_mode,
+        )
+    else:
+        results_edge = await relationships_vdb.query(
+            originalquery, top_k=len(ent_from_query) * query_param.top_k
+        )
+        goodedge = []
+        badedge = []
+        for item in results_edge:
+            if item["src_id"] in imp_ents or item["tgt_id"] in imp_ents:
+                goodedge.append(item)
+            else:
+                badedge.append(item)
+    if _graph_flow_mode:
+        from .graph_flow import score_graph_flow
+        _graph_flow_scores, _graph_flow_trace = await score_graph_flow(
+            list(groups.values()), set(candidate_reasoning_path), goodedge,
+            knowledge_graph_inst, valid_chunks=set(await text_chunks_db.all_keys()),
+            mode=_graph_flow_mode, chunk_vectors=chunks_vdb, query=originalquery,
+        )
+        if _candidate_trace is not None:
+            _graph_flow_trace["candidate_selection"] = _candidate_trace
+        scored_edged_reasoning_path = {
+            name: {"Score": entry["Score"], "Path": []}
+            for name, entry in candidate_reasoning_path.items()
+        }
+        _n_paths = _graph_flow_trace["paths_enumerated"]
+    else:
+        if _p2_enhance:
+            _p2_trace["original_semantic_edges_sha256"] = hashlib.sha256(json.dumps(
+                [(r["src_id"], r["tgt_id"], float(r["distance"])) for r in goodedge]).encode()).hexdigest()
+            _p2_trace["original_semantic_edges"] = len(goodedge)
+            _p2_trace["original_paths"] = _n_paths
+            _p2_trace["weighted_p2_sha256"] = hashlib.sha256(json.dumps(
+                [(name, [(path, [float(x) for x in score]) for path, score in entry["Path"].items()])
+                 for name, entry in scored_reasoning_path.items()]).encode()).hexdigest()
+            if _p2_enhance != "local":
+                from .p2_preserved import augment_edges
+                goodedge, edge_trace = await augment_edges(candidate_reasoning_path, goodedge,
+                    knowledge_graph_inst, relationships_vdb, originalquery)
+                _p2_trace["edge_augmentation"] = edge_trace
+            scored_edged_reasoning_path, pairs_append = edge_vote_path(scored_reasoning_path, goodedge, indexed=True)
+            _p2_trace["voted_paths"] = len(pairs_append)
+            _p2_trace["edge_votes"] = sum(len(pairs) for pairs in pairs_append.values())
+        else:
+            if _path_projection:
+                scored_edged_reasoning_path, pairs_append = edge_vote_path(scored_reasoning_path, goodedge, indexed=True)
+            else:
+                scored_edged_reasoning_path, pairs_append = edge_vote_path(
+                    scored_reasoning_path, goodedge
+                )
+    # Chỉ để trưng ra trong demo/chẩn đoán: path2chunk ở dưới GHI ĐÈ v["Path"] bằng danh sách
+    # chunk id, nên đường đi theo node chỉ còn tồn tại ở đây. Chụp lại trước khi mất.
+    _paths_snap = {}
+    if os.environ.get("MINIRAG_CONTEXT_LOG", "").strip():
+        for _n, _v in scored_edged_reasoning_path.items():
+            _paths_snap[_n] = [[str(x) for x in _pt] for _pt in list(_v["Path"])[:5]]
+
+    if not _graph_flow_mode:
+        _projection_kwargs = ({"valid_chunks": set(await text_chunks_db.all_keys()), "diagnostics": _p2_trace}
+                              if _p2_enhance else {})
+        if _path_projection:
+            _projection_kwargs = {"valid_chunks": set(await text_chunks_db.all_keys()),
+                "diagnostics": _path_projection_trace, "chunk_vectors": chunks_vdb}
+            if _path_selection:
+                _projection_kwargs["answer_nodes"] = maybe_answer_list
+            if _path_projection == "p0_relation_lift":
+                _projection_kwargs["relation_vectors"] = relationships_vdb
+        scored_edged_reasoning_path = await path2chunk(
+            scored_edged_reasoning_path, knowledge_graph_inst, pairs_append,
+            originalquery, max_chunks=3, **_projection_kwargs)
+
+    entites_section_list = []
+    node_datas = await asyncio.gather(
+        *[
+            knowledge_graph_inst.get_node(entity_name)
+            for entity_name in scored_edged_reasoning_path.keys()
+        ]
+    )
+    node_datas = [
+        {**n, "entity_name": k, "Score": scored_edged_reasoning_path[k]["Score"]}
+        for k, n in zip(scored_edged_reasoning_path.keys(), node_datas)
+    ]
+    for i, n in enumerate(node_datas):
+        entites_section_list.append(
+            [
+                n["entity_name"],
+                n["Score"],
+                n.get("description", "UNKNOWN"),
+            ]
+        )
+    entites_section_list = sorted(
+        entites_section_list, key=lambda x: x[1], reverse=True
+    )
+    entites_section_list = truncate_list_by_token_size(
+        entites_section_list,
+        key=lambda x: x[2],
+        max_token_size=query_param.max_token_for_node_context,
+    )
+
+    entites_section_list.insert(0, ["entity", "score", "description"])
+    entities_context = list_of_list_to_csv(entites_section_list)
+
+    _time_pairs = ([(keyword, name, scored_edged_reasoning_path[name]["Score"])
+                    for keyword, names in ent_from_query_dict.items() for name in names
+                    if name in scored_edged_reasoning_path] if _time_anchors else [])
+    _event_groups = {}
+    if _event_time_mode and _time_anchors:
+        for _keyword, _matches in zip(ent_from_query, nodes_from_query_list):
+            _event_groups.setdefault(_keyword, [(_m['entity_name'], float(_m['distance'])) for _m in _matches
+                                               if _m['entity_name'] in scored_edged_reasoning_path])
+    _metadata_pairs = ([(keyword, name, scored_edged_reasoning_path[name]["Score"])
+        for keyword, names in ent_from_query_dict.items() for name in names
+        if name in scored_edged_reasoning_path] if _metadata_arm else [])
+    scorednode2chunk(ent_from_query_dict, scored_edged_reasoning_path)
+
+    results = await chunks_vdb.query(originalquery, top_k=int(query_param.top_k / 2))
+    chunks_ids = [r["id"] for r in results]
+    if _graph_flow_mode:
+        from .graph_flow import rank_chunks
+        final_chunk_id = rank_chunks(_graph_flow_scores, int(query_param.top_k / 2))
+    else:
+        _time_scores = Counter() if (_time_anchors or _metadata_arm) else None
+        final_chunk_id = kwd2chunk(
+            ent_from_query_dict, chunks_ids, chunk_nums=int(query_param.top_k / 2),
+            **({'scores_out': _time_scores} if (_time_anchors or _metadata_arm) else {}),
+        )
+        if _time_anchors:
+            from .temporal import entity_h, rank_temporal
+            _c0_graph_ids = list(final_chunk_id)
+            _time_h = entity_h(knowledge_graph_inst._graph, _time_pairs)
+            final_chunk_id, _time_selected = rank_temporal(
+                _time_scores, _time_by_date, _time_anchors, _time_h, chunks_ids,
+                expand=os.environ.get('MINIRAG_TEMPORAL_EXPAND', '1') == '1',
+                h_one=os.environ.get('MINIRAG_TEMPORAL_H', '0') == '1',
+                limit=int(query_param.top_k / 2))
+            if _event_time_mode:
+                from .source_event_time import loaded_overlay, rank as rank_source_events
+                final_chunk_id, _source_event_trace = rank_source_events(
+                    _time_scores, _time_by_date, _time_anchors, _time_h, chunks_ids,
+                    loaded_overlay(text_chunks_db, knowledge_graph_inst._graph), _event_groups,
+                    knowledge_graph_inst._graph, originalquery, mode=_event_time_mode,
+                    limit=int(query_param.top_k / 2))
+    if _metadata_arm:
+        from .relation_metadata import load_for_graph, rank as _rank_metadata
+        _metadata_sidecar = (load_for_graph(knowledge_graph_inst)
+            if _metadata_arm not in ("G0", "B") else {})
+        final_chunk_id, _metadata_trace = _rank_metadata(
+            originalquery, _time_scores, chunks_ids, _metadata_pairs,
+            knowledge_graph_inst._graph, _metadata_sidecar,
+            _metadata_arm, limit=int(query_param.top_k / 2),
+            feature_flags=_metadata_sidecar.get('feature_flags'))
+    # MINIRAG_CHUNK_FUSION=rrf: kwd2chunk chỉ xếp hạng chunk NẰM TRÊN đường đi đồ thị;
+    # chunks_ids (vector thuần trên câu hỏi gốc) chỉ được cộng điểm thưởng x10 nếu
+    # trùng đầu một đường, nên chunk vector tìm được mà không nằm trên đường nào thì
+    # không bao giờ vào context. Chẩn đoán dev 200 (Evidence làm nhãn): top-30 vector
+    # chứa 87,0% chunk đáp án, xếp hạng đồ thị sau A1@4000 chỉ giữ 47,3%. Trộn hai bảng
+    # bằng RRF giữ 66,7% (40 câu lên / 7 xuống, p<0,0001) với cùng ngân sách token.
+    # A1 vẫn cắt phía sau như cũ.
+    #
+    # MINIRAG_CHUNK_FUSION=vector: ablation của V3 -- bỏ hẳn xếp hạng đồ thị cho Sources,
+    # dùng nguyên top-30 vector theo thứ tự cosine. Mô phỏng dev 200 cho vector thuần giữ
+    # 71,5% chunk đáp án, NHIỀU HƠN RRF (66,7%), nên phải đo xem lợi ích của V3 là do trộn
+    # hay chỉ do thêm vector. Còn lại giữ nguyên như V3: bảng Entities vẫn từ đồ thị,
+    # kwd2chunk vẫn chạy, và câu đồ thị không ra node/cạnh vẫn trả None ở dưới.
+    #
+    # MINIRAG_CHUNK_FUSION=rrf_bm25 (B1) / vector_bm25 (B2): thêm bảng xếp hạng BM25 trên NGUYÊN câu hỏi
+    # (minirag/bm25.py, đặc tả chốt trong ROADMAP trước khi có code). B1 = RRF(đồ thị, vector, BM25) khác V3
+    # đúng một bảng; B2 = RRF(vector, BM25) khác vector thuần đúng BM25 và khác B1 đúng đồ thị. Probe dev 200:
+    # chunk đáp án giữ sau A1 66,7% -> 75,8% (B1) / 86,0% (B2), cùng ngân sách token.
+    fusion = os.environ.get("MINIRAG_CHUNK_FUSION", "")
+    leef_mode = os.environ.get("MINIRAG_LEEF", "").strip()
+    leef_trace = None
+    if leef_mode:
+        from .leef import BUDGET, MODES, load_checkpoint, run_exchange
+
+        if (fusion != "vector_bm25" or query_param.top_k != 60
+                or os.environ.get("MINIRAG_RERANK", "").strip()
+                or os.environ.get("MINIRAG_TRUNCATE_SOURCES", "1") == "0"
+                or int(os.environ.get("MINIRAG_MAX_TOKEN_TEXT_UNIT", "").strip()
+                       or query_param.max_token_for_text_unit) != BUDGET):
+            raise ValueError("LEEF requires B2, top_k=60, A1@4000, and no other reranker")
+        if leef_mode not in MODES or not hasattr(chunks_vdb, "client_storage"):
+            raise ValueError("LEEF requires a supported mode and NanoVectorDB chunk storage")
+        leef_checkpoint = os.environ.get("MINIRAG_LEEF_CHECKPOINT", "").strip()
+        load_checkpoint(leef_checkpoint, leef_mode)
+    graph_chunk_ids = list(final_chunk_id)
+    bm25_ids, bm25_ms = None, None
+    if fusion in ("rrf_bm25", "vector_bm25"):
+        _tb = time.perf_counter()
+        bm25_ids = _bm25_index(text_chunks_db).rank(originalquery, int(query_param.top_k / 2))
+        bm25_ms = 1000 * (time.perf_counter() - _tb)
+    if fusion == "rrf":
+        final_chunk_id = _rrf_fuse(final_chunk_id, chunks_ids)
+    elif fusion == "vector":
+        final_chunk_id = list(chunks_ids)
+    elif fusion == "rrf_bm25":
+        final_chunk_id = _rrf_fuse(final_chunk_id, chunks_ids, bm25_ids)
+    elif fusion == "vector_bm25":
+        final_chunk_id = _rrf_fuse(chunks_ids, bm25_ids)
+    elif fusion:
+        raise ValueError(f"MINIRAG_CHUNK_FUSION không hợp lệ: {fusion!r}")
+
+    if not len(results_node) and not (_time_anchors and final_chunk_id):
+        return None
+
+    if ((not _graph_flow_mode or _graph_candidate_mode == "semantic") and not len(results_edge)
+            and not (_time_anchors and final_chunk_id)):
+        return None
+
+    use_text_units = await asyncio.gather(
+        *[text_chunks_db.get_by_id(id) for id in final_chunk_id]
+    )
+    text_units_section_list = []
+    kept_ids = []
+
+    for i, t in enumerate(use_text_units):
+        if t is not None:
+            text_units_section_list.append([i, t["content"]])
+            kept_ids.append(final_chunk_id[i])
+
+    if leef_mode:
+        leef_texts = {cid: row[1] for cid, row in zip(kept_ids, text_units_section_list)}
+        if len(leef_texts) != len(final_chunk_id):
+            raise ValueError("LEEF candidate text is missing from the index")
+
+    # CHẾ ĐỘ THÍ NGHIỆM — xếp lại bằng cross-encoder. TẮT MẶC ĐỊNH (MINIRAG_RERANK rỗng => không chạy gì).
+    # Bật: MINIRAG_RERANK=ce1. Chỉ đổi THỨ TỰ đúng tập ứng viên trên; A1 bên dưới, BM25, vector, RRF, ngân sách
+    # token và prompt đều không đổi. Đăng ký trước: reproduce/rerank/preregistration/CE1_cross_encoder_pretrained.md.
+    # Hỏng thì NÉM LỖI — một lượt thí nghiệm không được âm thầm quay về B2, vì như vậy là nhiễm bẩn số liệu.
+    _rr = os.environ.get("MINIRAG_RERANK", "").strip()
+    _rr_ms, _pre_rr = None, None
+    if _rr:
+        from .rerank import rerank as _rerank_chunks
+        _texts = {c: row[1] for c, row in zip(kept_ids, text_units_section_list)}
+        _pre_rr = list(kept_ids)
+        kept_ids, _rr_ms = _rerank_chunks(_rr, originalquery, kept_ids, _texts)
+        _post_rr = list(kept_ids)
+        text_units_section_list = [[i, _texts[c]] for i, c in enumerate(kept_ids)]
+
+    # A1: the Entities table above is capped at max_token_for_node_context (500,
+    # line 1364) but Sources never passed through truncate_list_by_token_size at
+    # all, so the half of the context that carries the raw text -- by far the
+    # larger half -- was unbounded. max_token_for_text_unit (base.py:29, default
+    # 4000) was declared for exactly this and went unused in mini mode.
+    #
+    # Measured consequence (measure_sources_cap.py, dev 200, 12/09): uncapped,
+    # the context is 22,839 tokens at the median and 33,412 at the maximum --
+    # past Qwen2.5-3B's 32,768 window for ~5-8% of questions -- and Sources is
+    # 99.9% of it. At 4,000 it is 3,743 median. (An earlier "3,908 median" came
+    # from Step_3_collect_context, which keeps only 8 chunks, so it was never the
+    # full context. The 16,413-token overflow at document 91/442 was at INDEX
+    # time, from uncapped generation, fixed by MINIRAG_MAX_TOKENS -- unrelated.)
+    #
+    # Chunks arrive ranked (kwd2chunk ends in most_common, line 1247), so cutting
+    # the tail drops the lowest-scoring chunks. MINIRAG_TRUNCATE_SOURCES=0
+    # restores upstream's behaviour for measurement; MINIRAG_MAX_TOKEN_TEXT_UNIT
+    # overrides the budget so the sweep needs no code edit.
+    _budget_trace = None
+    if (os.environ.get('MINIRAG_CHUNK_BUDGET_TRACE','')=='1'
+            and os.environ.get('MINIRAG_CONTEXT_LOG','').strip()):
+        from .temporal_rrf import budget_trace
+        _budget_trace = budget_trace(final_chunk_id,kept_ids,
+            {cid:row[1] for cid,row in zip(kept_ids,text_units_section_list)},
+            graph_chunk_ids,chunks_ids,
+            _c0_graph_ids if _c0_graph_ids is not None else graph_chunk_ids,
+            [c for ids in _time_selected.values() for c in ids],
+            int(os.environ.get('MINIRAG_MAX_TOKEN_TEXT_UNIT','').strip() or query_param.max_token_for_text_unit))
+    if _extractive_mode:
+        from .extractive_context import runtime_select as _select_extractive
+        _texts={cid:row[1] for cid,row in zip(kept_ids,text_units_section_list)}
+        _extractive_trace=_select_extractive(originalquery,list(kept_ids),_texts,text_chunks_db,_extractive_mode)
+        _labels={cid:i for i,cid in enumerate(final_chunk_id)}
+        kept_ids=list(_extractive_trace['chunk_ids'])
+        text_units_section_list=[[_labels[c],_extractive_trace['texts'][c]] for c in kept_ids]
+    if os.environ.get("MINIRAG_TRUNCATE_SOURCES", "1") != "0":
+        budget = os.environ.get("MINIRAG_MAX_TOKEN_TEXT_UNIT", "").strip()
+        text_units_section_list = truncate_list_by_token_size(
+            text_units_section_list,
+            key=lambda x: x[1],
+            max_token_size=int(budget) if budget
+            else query_param.max_token_for_text_unit,
+        )
+    if _extractive_trace is not None and len(text_units_section_list)!=len(kept_ids):
+        raise AssertionError('A1 clipped an extractive dependency bundle')
+
+    if leef_mode:
+        kept_ids, leef_trace = run_exchange(
+            originalquery, final_chunk_id, kept_ids[: len(text_units_section_list)],
+            bm25_ids, chunks_ids, leef_texts, chunks_vdb.client_storage,
+            leef_mode, leef_checkpoint,
+        )
+        # Preserve B2's row labels for survivors and reuse the outgoing label for a swap.
+        row_ids = {
+            cid: row[0] for cid, row in zip(leef_trace["baseline_ids"], text_units_section_list)
+        }
+        if leef_trace["action"] == "SWAP":
+            row_ids[leef_trace["incoming"]] = row_ids[leef_trace["outgoing"]]
+        elif leef_trace["action"] == "ADD":
+            incoming = leef_trace["incoming"]
+            row_ids[incoming] = final_chunk_id.index(incoming)
+        text_units_section_list = [
+            [row_ids[cid], leef_texts[cid]] for cid in kept_ids
+        ]
+
+    _ctx_log = os.environ.get("MINIRAG_CONTEXT_LOG", "").strip()
+    if _ctx_log:
+        kept_ids = kept_ids[: len(text_units_section_list)]
+        _rec = {
+            "query": originalquery,
+            "n_chunks": len(text_units_section_list),
+            "sources_tok": sum(len(encode_string_by_tiktoken(x[1]))
+                               for x in text_units_section_list),
+            "entities_tok": len(encode_string_by_tiktoken(entities_context)),
+        }
+        if _temporal_enabled:
+            _rec['source_time']={'anchors':list(_time_anchors),'selected_by_anchor':_time_selected,
+                'C0_graph_ids':_c0_graph_ids if _c0_graph_ids is not None else graph_chunk_ids,
+                'time_role':'source/document time; not event time','fusion_enabled':bool(_temporal_rrf)}
+        if _budget_trace is not None:
+            _budget_trace['actual_kept_ids']=list(kept_ids)
+            _budget_trace['actual_kept_tokens']=_rec['sources_tok']
+            _rec['chunk_budget']=_budget_trace
+        if _extractive_trace is not None:_rec['extractive_context']=_extractive_trace
+
+    text_units_section_list.insert(0, ["id", "content"])
+    text_units_context = list_of_list_to_csv(text_units_section_list)
+
+    context = f"""
+-----Entities-----
+```csv
+{entities_context}
+```
+-----Sources-----
+```csv
+{text_units_context}
+```
+"""
+    if _ctx_log:
+        # Trường bổ sung cho kiểm toàn vẹn và sàng lọc (ROADMAP): tính lại A1(RRF(...)) offline từ graph_ids /
+        if _source_event_trace is not None:
+            _rec['source_event_time'] = _source_event_trace
+        if _metadata_trace is not None:
+            _rec['graph_metadata'] = _metadata_trace
+        # vector_ids / bm25_ids, và so sha256 context để tái dùng câu trả lời khi đầu vào generator không đổi.
+        _rec.update({
+            "fusion": fusion,
+            "chunk_ids": kept_ids,
+            "ranked_ids": list(final_chunk_id),
+            "graph_ids": graph_chunk_ids,
+            "vector_ids": chunks_ids,
+            "context_sha256": hashlib.sha256(context.encode("utf-8")).hexdigest(),
+            "graph_seeds": _n_seeds,
+            "graph_paths": _n_paths,
+            "retrieval_ms": round(1000 * (time.perf_counter() - _t0), 2),
+            # Chỉ để trưng ra trong demo/chẩn đoán: thực thể câu hỏi, bảng Entities thật sự
+            # vào context, và vài đường đi của các thực thể điểm cao nhất. Không trường nào
+            # trong số này quay lại pipeline, nên context_sha256 ở trên không đổi.
+            "query_entities": [str(e) for e in ent_from_query],
+            "entities_used": [[str(r[0]), float(r[1])] for r in entites_section_list[1:]],
+            "paths": [
+                {"entity": str(name),
+                 "score": float(scored_edged_reasoning_path[name].get("Score", 0) or 0),
+                 "paths": _paths_snap.get(name, []),
+                 "chunks_from_path": [str(x) for x in
+                                      (scored_edged_reasoning_path[name].get("Path") or [])[:5]]}
+                for name, _s in sorted(
+                    ((n, scored_edged_reasoning_path[n].get("Score", 0) or 0)
+                     for n in scored_edged_reasoning_path),
+                    key=lambda kv: -kv[1])[:8]
+            ],
+        })
+        if bm25_ids is not None:
+            _rec["bm25_ids"] = bm25_ids
+            _rec["bm25_ms"] = round(bm25_ms, 3)
+        if _graph_flow_trace is not None:
+            _rec["graph_flow"] = _graph_flow_trace
+        if _p2_trace is not None:
+            _rec["p2_enhancement"] = _p2_trace
+        if _path_projection_trace is not None:
+            _rec["path_projection"] = _path_projection_trace
+        if _path_selection:
+            _rec["path_selection"] = _path_selection
+        if _path_calibration:
+            _rec["path_score_calibration"] = _path_calibration
+        if os.environ.get("MINIRAG_PATH_SCORE_FLOW", "0") == "1":
+            _rec["path_score_flow"] = True
+            _rec["path_score_mode"] = _path_score
+            if _path_normalization:
+                _rec["path_score_normalization"] = _path_normalization
+            _rec["path_chunk_scores"] = {
+                name: entry["PathChunkScores"]
+                for name, entry in scored_edged_reasoning_path.items()
+            }
+        if _rr:
+            # chỉ ghi khi chế độ thí nghiệm bật — bản ghi của B2 giữ nguyên đúng các trường cũ
+            _rec["rerank"] = _rr
+            _rec["rerank_ms"] = round(_rr_ms, 2)
+            _rec["pre_rerank_ids"] = _pre_rr
+            _rec["post_rerank_ids"] = _post_rr
+        if leef_trace is not None:
+            _rec["leef"] = leef_trace
+            _rec["context_tok"] = len(encode_string_by_tiktoken(context))
+        with open(_ctx_log, "a", encoding="utf-8") as _fh:
+            _fh.write(json.dumps(_rec, ensure_ascii=False) + "\n")
+    return context
+
+
+async def minirag_query(  # MiniRAG
+    query,
+    knowledge_graph_inst: BaseGraphStorage,
+    entities_vdb: BaseVectorStorage,
+    entity_name_vdb: BaseVectorStorage,
+    relationships_vdb: BaseVectorStorage,
+    chunks_vdb: BaseVectorStorage,
+    text_chunks_db: BaseKVStorage[TextChunkSchema],
+    embedder,
+    query_param: QueryParam,
+    global_config: dict,
+) -> str:
+    use_model_func = global_config["llm_model_func"]
+    kw_prompt_temp = PROMPTS["minirag_query2kwd"]
+    TYPE_POOL, TYPE_POOL_w_CASE = await knowledge_graph_inst.get_types()
+    if os.environ.get("MINIRAG_KW_CACHE", "").strip():
+        # get_types() trả list(set): thứ tự đổi theo PYTHONHASHSEED, nên prompt và khoá cache đổi ở mỗi tiến trình.
+        # Chế độ sàng lọc cần prompt cố định; không đặt biến thì giữ nguyên hành vi upstream.
+        TYPE_POOL = sorted(TYPE_POOL)
+    kw_prompt = kw_prompt_temp.format(query=query, TYPE_POOL=TYPE_POOL)
+    result = await _keyword_llm(use_model_func, kw_prompt)
+
+    try:
+        keywords_data = json_repair.loads(result)
+        if not isinstance(keywords_data, dict):
+            # json_repair turns some malformed replies (Phi-3.5) into a list; upstream then crashed with
+            # AttributeError. Send it down the existing malformed-JSON path instead (first {...}, else
+            # fail_response). Replies that parsed to a dict are unaffected.
+            raise json.JSONDecodeError("keyword reply is not a JSON object", result, 0)
+
+        type_keywords = keywords_data.get("answer_type_keywords", [])
+        entities_from_query = keywords_data.get("entities_from_query", [])[:5]
+
+    except json.JSONDecodeError:
+        try:
+            result = (
+                result.replace(kw_prompt[:-1], "")
+                .replace("user", "")
+                .replace("model", "")
+                .strip()
+            )
+            result = "{" + result.split("{")[1].split("}")[0] + "}"
+            keywords_data = json_repair.loads(result)
+            type_keywords = keywords_data.get("answer_type_keywords", [])
+            entities_from_query = keywords_data.get("entities_from_query", [])[:5]
+
+        # Handle parsing error
+        except Exception as e:
+            print(f"JSON parsing error: {e}")
+            return PROMPTS["fail_response"]
+
+    context = await _build_mini_query_context(
+        entities_from_query,
+        type_keywords,
+        query,
+        knowledge_graph_inst,
+        entities_vdb,
+        entity_name_vdb,
+        relationships_vdb,
+        chunks_vdb,
+        text_chunks_db,
+        embedder,
+        query_param,
+    )
+
+    if query_param.only_need_context:
+        return context
+    if context is None:
+        return PROMPTS["fail_response"]
+
+    sys_prompt_temp = PROMPTS["rag_response"]
+    sys_prompt = sys_prompt_temp.format(
+        context_data=context, response_type=query_param.response_type
+    )
+    response = await use_model_func(
+        query,
+        system_prompt=sys_prompt,
+    )
+
+    return response

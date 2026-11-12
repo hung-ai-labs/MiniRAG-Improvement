@@ -1,0 +1,17 @@
+{
+  "body_sha256": "1343c087ccfacc90b201b5253f9dda611778c18fdb9a0af9b9c1b758886e4f09",
+  "finish_reason": "stop",
+  "latency_s": 10.474813958004233,
+  "prediction": "In one of the messages, Li Hua suggests that she would like to receive bread twice a week, specifically on Mondays at 8 AM and Fridays at 8 AM. Hailey Johnson agrees to this request, setting up a regular schedule for Li Hua, which includes daily deliveries of fresh bread and milk. This indicates that Li Hua prefers a consistent delivery schedule, with two deliveries per week, one on Mondays and another on Fridays.",
+  "prediction_sha256": "dede73617ad447b5cee690c6fb13e8a172f461f7b06963881fbe8c3a94137ce8",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 98,
+  "usage": {
+    "completion_tokens": 90,
+    "prompt_tokens": 4580,
+    "prompt_tokens_details": null,
+    "total_tokens": 4670
+  }
+}

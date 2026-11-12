@@ -1,0 +1,17 @@
+{
+  "body_sha256": "a59db5abac58b7859c2d02e56494aa192caf0d0bc30e54ffa0d68768a6470698",
+  "finish_reason": "stop",
+  "latency_s": 10.630454582998937,
+  "prediction": "Tamara discusses Cersei's character in relation to the show's themes of love and ambition. Specifically, Tamara points out that Cersei's love for her children drove her to act in ruthless and sometimes destructive ways. She suggests that this protectiveness, while powerful, turned into an obsession that led to her downfall. Tamara argues that if Cersei had found a balance between her love for her family and her ambition, she might have achieved both power and meaningful connections. This indicates that her love, while a driving force, also led to her isolation and the destruction of her relationships.",
+  "prediction_sha256": "31563e3e1924b0b7e003c9b484a87c72f700e17bb93306bd7618b060c49815db",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 316,
+  "usage": {
+    "completion_tokens": 119,
+    "prompt_tokens": 4849,
+    "prompt_tokens_details": null,
+    "total_tokens": 4968
+  }
+}

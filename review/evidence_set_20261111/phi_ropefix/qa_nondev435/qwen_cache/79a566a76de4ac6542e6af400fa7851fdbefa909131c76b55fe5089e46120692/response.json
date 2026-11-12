@@ -1,0 +1,17 @@
+{
+  "body_sha256": "79a566a76de4ac6542e6af400fa7851fdbefa909131c76b55fe5089e46120692",
+  "finish_reason": "stop",
+  "latency_s": 9.16010654099955,
+  "prediction": " In the conversation between LiHua and Hailey, LiHua explicitly states that he has no dietary restrictions. This information is provided when Hailey inquires about any specific needs LiHua might have for the baking class:\n\n```\nHaileyJohnson: Thanks for asking! No dietary restrictions here, I'm all set. Looking forward to the class! 🍰\nLiHua: Thanks for asking! No dietary restrictions here, I'm all set. Looking forward to the class! 🥐\n```\n\nLiHua assures Hailey that he does not have any food allergies or preferences that would limit the type of foods or baked goods he could enjoy. This assurance is crucial for Hailey to plan her baking class, as it means she can offer a standard assortment of pastries without needing to worry about customizing for LiHua's diet.",
+  "prediction_sha256": "01b7d05a8a48f0205b7a7db76c91f7f6ee42c7afd9d16df2029efa99bb282513",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 200139,
+  "usage": {
+    "completion_tokens": 207,
+    "prompt_tokens": 4369,
+    "prompt_tokens_details": null,
+    "total_tokens": 4576
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "cf114395af406e940408e0020f345dc2753aead97bd42a532273b3ad7afeee77",
+  "finish_reason": "stop",
+  "latency_s": 11.274942749998445,
+  "prediction": "Hailey Johnson offers multiple services to Li Hua. She delivers fresh sourdough bread and milk to her doorstep upon request, and she provides personalized support and advice regarding her dietary needs and preferences. Specifically, she sends the bread twice a week at 8 AM on Mondays and Fridays. Additionally, she offers a special promotion on ice cream and pastries, allowing Li Hua to choose her favorite flavors. Through these services, Hailey Johnson demonstrates her commitment to maintaining excellent customer relationships and ensuring Li Hua's satisfaction with her products.",
+  "prediction_sha256": "873445cc2f0895d7294ee3dee5d8bb9b80747a87b11e1195a66e04a3cd625bdf",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 95,
+  "usage": {
+    "completion_tokens": 109,
+    "prompt_tokens": 4350,
+    "prompt_tokens_details": null,
+    "total_tokens": 4459
+  }
+}

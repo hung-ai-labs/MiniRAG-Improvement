@@ -1,0 +1,17 @@
+{
+  "body_sha256": "532bfdb8fed9ef9211eee86dd5d66de4b39d9d4894972e241a9ead5f2e3eeac4",
+  "finish_reason": "stop",
+  "latency_s": 19.028372666005453,
+  "prediction": "According to the conversations, Hailey Johnson provides bread deliveries to Li Hua regularly. During one of the discussions, Hailey Johnson mentions, \"I'll have the gluten-free bread ready for delivery starting next week! Alice can bring it to you with your usual order.\" This indicates that Alice, who works at Hailey's Bakery, is responsible for bringing the bread to Li Hua's door. \n\nRegarding the toppings for the bread, another conversation shows that Hailey Johnson suggested possible toppings for the rosemary focaccia. She recommended using olive oil and sea salt as base toppings, while cherry tomatoes or olives could be added for extra flavor. Therefore, for Li Hua's next delivery, the possible toppings Hailey Johnson recommended included olive oil, sea salt, cherry tomatoes, or olives.\n\nIn summary, the bakery providing Li Hua's bread deliveries is Hailey's Bakery, and the suggested toppings for the next bread delivery include olive oil, sea salt, cherry tomatoes, or olives.",
+  "prediction_sha256": "6e92165bcd5d925d9cbaab81a8defd248f8ac1bb656c66b99df993dc9f6fa952",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100420,
+  "usage": {
+    "completion_tokens": 204,
+    "prompt_tokens": 5061,
+    "prompt_tokens_details": null,
+    "total_tokens": 5265
+  }
+}

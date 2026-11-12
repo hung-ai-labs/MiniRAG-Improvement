@@ -1,0 +1,17 @@
+{
+  "body_sha256": "a8363d68bdb3723923e9c531af2056773e5dce3141561fe5d39dfc313e5e31e6",
+  "finish_reason": "stop",
+  "latency_s": 9.190194625000004,
+  "prediction": "According to the conversations recorded, Wolfgang Schulz and LiHua are planning to attend the photography exhibition on August 5, 2026, at 19:00 (which is 7:00 PM). This decision was made during a discussion where Wolfgang suggested checking out a local photography exhibition in town, and LiHua agreed enthusiastically, confirming their intention to attend it together.",
+  "prediction_sha256": "7691396bab651c2b58f4aae7b5864d960a03622ca034a6baac9a494a321751f6",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100164,
+  "usage": {
+    "completion_tokens": 83,
+    "prompt_tokens": 5260,
+    "prompt_tokens_details": null,
+    "total_tokens": 5343
+  }
+}

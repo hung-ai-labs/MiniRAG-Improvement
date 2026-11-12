@@ -1,0 +1,17 @@
+{
+  "body_sha256": "00b54853c58172ba9105ff7b7b7246db532645bfde0f993d0e7550797134e68e",
+  "finish_reason": "stop",
+  "latency_s": 7.49962675000279,
+  "prediction": " According to the conversation in the provided data tables, Li Hua agrees to bring a dish to the neighborhood potluck dinner. Specifically, Li Hua states:\n\n```\nLiHua: Hey Adam! That sounds awesome! I'd love to contribute. I can whip up some homemade pasta salad. Does that work for you?\n```\n\nFrom this interaction, it is clear that Li Hua has decided to prepare and bring homemade pasta salad to the potluck dinner. This dish choice reflects Li Hua's culinary willingness to share and contributes to the communal experience of the event.\n\n```\nIn summary, Li Hua agrees to bring homemade pasta salad for the neighborhood potluck dinner.\n```\n\n```",
+  "prediction_sha256": "01c05639299c2152ee0da53cf5060f9dda7bff6cad9b324bea1ffd3066435113",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 100087,
+  "usage": {
+    "completion_tokens": 176,
+    "prompt_tokens": 5239,
+    "prompt_tokens_details": null,
+    "total_tokens": 5415
+  }
+}

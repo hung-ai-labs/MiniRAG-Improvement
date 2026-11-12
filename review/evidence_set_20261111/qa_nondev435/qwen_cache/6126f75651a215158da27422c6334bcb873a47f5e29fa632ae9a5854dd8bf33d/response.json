@@ -1,0 +1,17 @@
+{
+  "body_sha256": "6126f75651a215158da27422c6334bcb873a47f5e29fa632ae9a5854dd8bf33d",
+  "finish_reason": "stop",
+  "latency_s": 9.224178042000858,
+  "prediction": "In one of the discussions, Turalyon suggested organizing a weekend picnic to bring the community together. This picnic was envisioned as a fun way to relax and get to know each other better, and he proposed including various elements such as games, a potluck, and potentially some music to enhance the experience. Another suggestion from Turalyon was to bring blankets or chairs for seating, given the possibility of the event being held outdoors. The picnic idea seems to be centered around communal enjoyment and social bonding through food and activities.",
+  "prediction_sha256": "c73405f1d856c2ee9076893be341cf14f76def0e4ee4286a7e7a6eaa517cb4be",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100392,
+  "usage": {
+    "completion_tokens": 105,
+    "prompt_tokens": 4150,
+    "prompt_tokens_details": null,
+    "total_tokens": 4255
+  }
+}

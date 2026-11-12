@@ -1,0 +1,17 @@
+{
+  "body_sha256": "9e3d05114081e103f0e70e2626126680e97b8509a13e06997db7e5739482f239",
+  "finish_reason": "stop",
+  "latency_s": 4.818440459006524,
+  "prediction": "On April 5th, 2026, Li Hua suggested playing \"Viva la Vida\" for the jam session. This song was chosen because Li Hua believed it would be fun to play and Wolfgang Schulz agreed enthusiastically, stating it was \"a great song.\"",
+  "prediction_sha256": "da1aed7c79db437d4b5f9e1083cfd6a53e55333be08f5ab72cde9e4aa933a736",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 103,
+  "usage": {
+    "completion_tokens": 60,
+    "prompt_tokens": 4468,
+    "prompt_tokens_details": null,
+    "total_tokens": 4528
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "1a2513ea2f89da14511f566bf8e608748d00c487743203318bb25552125ff533",
+  "finish_reason": "stop",
+  "latency_s": 15.053227791999234,
+  "prediction": "Based on the interactions detailed in the conversation, Li Hua suggests that Hailey should deliver bread to her a couple of times a week, depending on what Li Hua needs. Specifically, in one instance, Li Hua states, \"I can definitely make it! Just let me know what you need me to do. Can't wait!\" followed by Hailey's response, \"I’ve got some amazing artisanal sourdough and a chocolate chip brioche that are customer favorites! 🍞🍫 As for deliveries, I can do it a couple of times a week, depending on what you need.\" This indicates that Li Hua prefers a regular but flexible delivery schedule, which allows her to manage her needs without strict limitations.",
+  "prediction_sha256": "b55445542655302cf6e75d0adba695f9c092bde4c11f451b0d905d4244bf4603",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 98,
+  "usage": {
+    "completion_tokens": 150,
+    "prompt_tokens": 3940,
+    "prompt_tokens_details": null,
+    "total_tokens": 4090
+  }
+}

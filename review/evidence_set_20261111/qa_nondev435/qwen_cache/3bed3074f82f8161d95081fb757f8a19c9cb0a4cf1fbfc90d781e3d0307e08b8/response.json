@@ -1,0 +1,17 @@
+{
+  "body_sha256": "3bed3074f82f8161d95081fb757f8a19c9cb0a4cf1fbfc90d781e3d0307e08b8",
+  "finish_reason": "stop",
+  "latency_s": 8.89327829100148,
+  "prediction": "Based on the information provided, Wolfgang has not visited Hong Kong. The data indicates that Wolfgang is on a business trip to Hong Kong, and he mentions it in multiple messages, such as \"Just touched down in Hong Kong!\" and \"I have a business trip to Hong Kong.\" Additionally, Wolfgang discusses plans related to the trip, including checking out Victoria Peak and trying dim sum. However, there is no mention of Wolfgang having previously visited Hong Kong.",
+  "prediction_sha256": "75953d250bd0d299696d39c31544f04e787f28e6fb57ed2147b3ebfb25b958ae",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200032,
+  "usage": {
+    "completion_tokens": 91,
+    "prompt_tokens": 4710,
+    "prompt_tokens_details": null,
+    "total_tokens": 4801
+  }
+}

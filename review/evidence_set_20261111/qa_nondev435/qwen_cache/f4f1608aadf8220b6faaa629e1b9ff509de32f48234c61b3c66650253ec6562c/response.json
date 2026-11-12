@@ -1,0 +1,17 @@
+{
+  "body_sha256": "f4f1608aadf8220b6faaa629e1b9ff509de32f48234c61b3c66650253ec6562c",
+  "finish_reason": "stop",
+  "latency_s": 14.50811508300103,
+  "prediction": "On July 7, 2026, in their conversation, LiHua expresses concern about the condition of the basement following recent rainstorms. She specifically asks Adam Smith if there were any issues in the basement after those rainstorms and wants to ensure everything is okay. Adam assures her that everything seems fine but advises her to keep an eye on it and informs her that he will notify the maintenance worker if she notices any unusual problems. Their exchange indicates that LiHua and Adam are worried about potential damage caused by the rain and want to make sure the basement remains safe and intact.",
+  "prediction_sha256": "694626a6283e910c972aeb9d4509c1ae8682bbafbd0dbc38aa00e1f934218607",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200148,
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 4339,
+    "prompt_tokens_details": null,
+    "total_tokens": 4459
+  }
+}

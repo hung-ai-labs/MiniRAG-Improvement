@@ -1,0 +1,17 @@
+{
+  "body_sha256": "7c1367b4e8369e429819efd924a01ee95d70fbe7bec3b84b34a2f6909effa9ff",
+  "finish_reason": "stop",
+  "latency_s": 8.051678666000953,
+  "prediction": "According to the records, Adam Smith informed Li Hua about potential issues with the pipes in the basement on March 1st, 2026, at 13:00. Adam mentioned hearing from some neighbors that there might be some problems with the pipes in the basement and advised Li Hua to keep an eye on them.",
+  "prediction_sha256": "befade3bef402d0e39ac158571d4465849b912c2d9ddf18f22101e9f73991e6f",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100085,
+  "usage": {
+    "completion_tokens": 71,
+    "prompt_tokens": 3538,
+    "prompt_tokens_details": null,
+    "total_tokens": 3609
+  }
+}

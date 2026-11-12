@@ -1,0 +1,17 @@
+{
+  "body_sha256": "f0921b1a889fb60002bc0bd08ba182fb1287da0ce6e5f6f6e769a1f9586ceaeb",
+  "finish_reason": "stop",
+  "latency_s": 10.541646166999271,
+  "prediction": "In the conversation, Jake Watson emphasizes the importance of wearing the right footwear for soccer players. Specifically, he mentions that proper footwear can significantly reduce the risk of injuries during games, such as preventing slips or sprains. This aligns with the entity \"RIGHT FOOTWEAR,\" which scores highly due to its description indicating that \"wearing the right footwear can prevent slips or sprains during games.\" Therefore, the choice of suitable footwear is crucial for maintaining player safety and performance on the field.",
+  "prediction_sha256": "1359bf64430446bcd012ba93ae745faf282272bf2679e27e4348f667621523a9",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 207,
+  "usage": {
+    "completion_tokens": 99,
+    "prompt_tokens": 4093,
+    "prompt_tokens_details": null,
+    "total_tokens": 4192
+  }
+}

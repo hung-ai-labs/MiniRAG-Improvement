@@ -1,0 +1,17 @@
+{
+  "body_sha256": "ee29fab5038a484bfa646879868e4325051dd0a70e4e9aa9b8ffba81a9b6df49",
+  "finish_reason": "stop",
+  "latency_s": 5.560143208000227,
+  "prediction": "No, Li Hua did not ask Wolfgang Schulz for a recommendation on a gym or fitness center. Instead, Wolfgang was involved in discussions about music and jam sessions. Li Hua sought recommendations from Jennifer Moore regarding fitness nutrition books and resources, indicating that Wolfgang was not directly involved in this query.",
+  "prediction_sha256": "44ed94903df3da832272b60665494f6492ddf65a8e106a8e5add071caa9bc63f",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 46,
+  "usage": {
+    "completion_tokens": 61,
+    "prompt_tokens": 4500,
+    "prompt_tokens_details": null,
+    "total_tokens": 4561
+  }
+}

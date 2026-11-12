@@ -1,0 +1,17 @@
+{
+  "body_sha256": "42054466271a0d66268db7158ab2af04f5ece6ab23a261d640d74626ab319df6",
+  "finish_reason": "stop",
+  "latency_s": 5.393352874998527,
+  "prediction": "In one of the recorded conversations, Jennifer Moore mentioned she needed Li Hua to complete a quick survey regarding their training sessions. Jennifer expressed her desire for feedback from clients like Li Hua, stating that \"Your feedback really helps me improve!\" This suggests that the purpose of the survey is to gather insights and observations from Li Hua about the effectiveness and satisfaction with their training sessions.",
+  "prediction_sha256": "78c1f988c361c4deb8360151929a62d0e4a862ee5875417d01455f4ce1619744",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100141,
+  "usage": {
+    "completion_tokens": 77,
+    "prompt_tokens": 4229,
+    "prompt_tokens_details": null,
+    "total_tokens": 4306
+  }
+}

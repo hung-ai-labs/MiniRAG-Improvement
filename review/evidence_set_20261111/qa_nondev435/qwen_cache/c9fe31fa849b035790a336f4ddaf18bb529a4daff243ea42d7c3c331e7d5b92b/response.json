@@ -1,0 +1,17 @@
+{
+  "body_sha256": "c9fe31fa849b035790a336f4ddaf18bb529a4daff243ea42d7c3c331e7d5b92b",
+  "finish_reason": "stop",
+  "latency_s": 7.658310958999209,
+  "prediction": "In one of the conversations, Adam Smith mentioned needing to arrange someone to look at the broken water tap and update Li Hua on the repair schedule. This indicates that Li Hua suggested she would be ready for the plumber when he arrives at 10 AM tomorrow, but she didn't provide a specific repair schedule directly. Adam Smith took it upon himself to arrange the necessary repairs and keep Li Hua updated with the exact timing. Therefore, while Li Hua offered her availability, the actual scheduling and confirmation of the repair date were handled by Adam Smith.",
+  "prediction_sha256": "18fea9c591ac5604c9955da5ecc65e47101ebf86390b2aae3c1fd356f424285c",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200117,
+  "usage": {
+    "completion_tokens": 113,
+    "prompt_tokens": 4347,
+    "prompt_tokens_details": null,
+    "total_tokens": 4460
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "359b74703379569ba6bae62a433c20b64078659347dd3f5b8fbb2f4d8ac5c86e",
+  "finish_reason": "stop",
+  "latency_s": 7.518838415999198,
+  "prediction": "In the conversations provided, WolfgangSchulz suggests getting pizza for dinner. This suggestion is made during a conversation where WolfgangSchulz invites LiHua for dinner after work, proposing to go to a \"new pizza place downtown.\" LiHua expresses interest in trying this place, indicating that WolfgangSchulz is the one who initiated the idea of having pizza for dinner.",
+  "prediction_sha256": "f51c8d2d9697d5351abbb250700eaac86ba3269af5bd348d57ab3d1e2fe5a476",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100365,
+  "usage": {
+    "completion_tokens": 77,
+    "prompt_tokens": 5306,
+    "prompt_tokens_details": null,
+    "total_tokens": 5383
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "f34e62b3887b7422b4b0ea47730bf033012949bb213b646daced58ce934b78e1",
+  "finish_reason": "stop",
+  "latency_s": 13.401530750001257,
+  "prediction": "In soccer, wearing the right footwear is crucial for several reasons. Proper footwear can significantly enhance comfort and performance during gameplay. The type of shoe designed for soccer typically includes features like traction, cushioning, and support that help prevent injuries such as slips or sprains. These specialized shoes are engineered to provide optimal grip on artificial turf or grass, allowing players to maintain their footing and move efficiently across the field. Additionally, the supportive design of these shoes can aid in maintaining the correct stance and posture, contributing to better overall technique and agility. Therefore, ensuring that soccer players wear suitable footwear is vital for both safety and effectiveness in their gameplay.",
+  "prediction_sha256": "58111d5fe67556fca92f593ab7d9bb1e24f1cad1b32f21796a4869d13270ab00",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100207,
+  "usage": {
+    "completion_tokens": 128,
+    "prompt_tokens": 4856,
+    "prompt_tokens_details": null,
+    "total_tokens": 4984
+  }
+}

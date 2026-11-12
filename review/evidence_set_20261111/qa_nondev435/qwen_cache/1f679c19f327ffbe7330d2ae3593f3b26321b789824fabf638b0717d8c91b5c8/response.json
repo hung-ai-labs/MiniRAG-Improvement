@@ -1,0 +1,17 @@
+{
+  "body_sha256": "1f679c19f327ffbe7330d2ae3593f3b26321b789824fabf638b0717d8c91b5c8",
+  "finish_reason": "stop",
+  "latency_s": 9.973442166003224,
+  "prediction": "In the conversation recorded under ID 1, Li Hua mentions discussing homepage updates with Yuriko Yamamoto. Specifically, Li Hua notes, \"After our meeting this afternoon, I feel like your requests for the studio's homepage improvements are pretty straightforward. I can definitely wrap it up in about 2 weeks.\" This indicates that Li Hua and Yuriko Yamamoto are the ones who are planning to work on the homepage design updates.",
+  "prediction_sha256": "9730d58db897dba9fd012709b9de81f18b6ff438a2f2471b14750e1ae9d28297",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100088,
+  "usage": {
+    "completion_tokens": 91,
+    "prompt_tokens": 4278,
+    "prompt_tokens_details": null,
+    "total_tokens": 4369
+  }
+}

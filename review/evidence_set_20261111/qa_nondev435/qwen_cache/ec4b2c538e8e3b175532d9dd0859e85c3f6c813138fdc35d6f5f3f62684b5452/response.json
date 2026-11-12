@@ -1,0 +1,17 @@
+{
+  "body_sha256": "ec4b2c538e8e3b175532d9dd0859e85c3f6c813138fdc35d6f5f3f62684b5452",
+  "finish_reason": "stop",
+  "latency_s": 10.06221508300223,
+  "prediction": "Jasper mentions a comeback against Manchester City in a match involving the UEFA Champions League (UCL). Specifically, he refers to the 2005 final between Liverpool and AC Milan, where Liverpool came back from a 3-0 deficit at halftime to win the match in extra time via penalties. However, since the question asks about a more recent comeback involving Manchester City, the specific match Jasper likely refers to is the 1999 UEFA Champions League final where Manchester United beat Bayern Munich. In that match, Manchester United scored two goals in the stoppage time to secure the victory and win their first UEFA Champions League title.",
+  "prediction_sha256": "e1bcd39bb2e6b525e4537160694b862259c3def10443412b64c72b78affa4746",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200302,
+  "usage": {
+    "completion_tokens": 129,
+    "prompt_tokens": 4775,
+    "prompt_tokens_details": null,
+    "total_tokens": 4904
+  }
+}

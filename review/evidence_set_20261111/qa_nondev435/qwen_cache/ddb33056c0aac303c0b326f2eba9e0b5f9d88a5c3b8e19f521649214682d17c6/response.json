@@ -1,0 +1,17 @@
+{
+  "body_sha256": "ddb33056c0aac303c0b326f2eba9e0b5f9d88a5c3b8e19f521649214682d17c6",
+  "finish_reason": "stop",
+  "latency_s": 6.487260207999498,
+  "prediction": "In the discussion, ChaeSong-hwa shared a music theory tutorial with the group. He recommended it as a way to potentially elevate their musical skills and foster creativity among the group members. LiHua expressed enthusiasm about checking it out and using the new knowledge gained to improve their performance during their next jam session.",
+  "prediction_sha256": "99cb6a3da41061187fa0c5e42fc9d16d0d9d5007722495b97c831234fe57694e",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100183,
+  "usage": {
+    "completion_tokens": 64,
+    "prompt_tokens": 4635,
+    "prompt_tokens_details": null,
+    "total_tokens": 4699
+  }
+}

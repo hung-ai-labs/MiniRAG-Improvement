@@ -1,0 +1,17 @@
+{
+  "body_sha256": "f1a0050a6a5adfc62040e2e0a88cab557a4076e1d4e61efb38b81486a894df81",
+  "finish_reason": "stop",
+  "latency_s": 4.142674624999927,
+  "prediction": "Chae first suggested visiting the music festival in the morning during the conversation recorded on December 8, 2026, at 6:00 PM. Specifically, they expressed enthusiasm for the event and asked what time they should plan to check out the lineup, indicating this was their initial suggestion for the timing.",
+  "prediction_sha256": "38be4b6fa829da46bd319b12fd1524e165ae2f169a136205dad74d97ce4b77cc",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200445,
+  "usage": {
+    "completion_tokens": 66,
+    "prompt_tokens": 5285,
+    "prompt_tokens_details": null,
+    "total_tokens": 5351
+  }
+}

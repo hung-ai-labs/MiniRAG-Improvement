@@ -1,0 +1,17 @@
+{
+  "body_sha256": "7e0d2ce69856760265048ff51d7425c42605866c77e2a4fd933943fcfdadf043",
+  "finish_reason": "stop",
+  "latency_s": 11.556595041998662,
+  "prediction": "In one of the conversations, Li Hua mentioned that there was a broken water tap in the apartment and requested help from Adam Smith for the repair. However, the document does not specify a particular suggested schedule for the repairs. Li Hua merely expressed her readiness for the plumber's arrival at 10 AM the following day, as confirmed by Adam Smith who arranged for the repair service. Thus, the exact scheduling details were not provided in the given data.",
+  "prediction_sha256": "0082edb242df31d4cfdbd14c1405dd9066dc0be0cdd250774b6d50e91371d646",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100117,
+  "usage": {
+    "completion_tokens": 93,
+    "prompt_tokens": 4347,
+    "prompt_tokens_details": null,
+    "total_tokens": 4440
+  }
+}

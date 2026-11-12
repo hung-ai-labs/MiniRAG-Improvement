@@ -1,0 +1,17 @@
+{
+  "body_sha256": "edf4edf64dfc880af36a6e2e28542a9156c7e5f84688651e1de569284fab5e20",
+  "finish_reason": "stop",
+  "latency_s": 11.119236458001978,
+  "prediction": "The first recorded interaction involving Wolfgang and Li Hua's basement occurred in the entry dated \"20260219_08:00\". In this message, Wolfgang mentions he had just arrived at the city and is picking up keys for the basement at 9 AM. This suggests that Wolfgang was visiting Li Hua's basement for the first time during his move-in process. No prior interactions are documented in the provided entries.",
+  "prediction_sha256": "8181d849cc17bf1ec7e98ab8012cf129cd87b3a1638bf2286b63e0c65563cadf",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 79,
+  "usage": {
+    "completion_tokens": 91,
+    "prompt_tokens": 4501,
+    "prompt_tokens_details": null,
+    "total_tokens": 4592
+  }
+}

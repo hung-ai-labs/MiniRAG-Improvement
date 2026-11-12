@@ -1,0 +1,17 @@
+{
+  "body_sha256": "399d88ddcb205295ea1e977f788e2ed7739f2db575c33b64477a3fff48f3fde5",
+  "finish_reason": "stop",
+  "latency_s": 4.3773539579997305,
+  "prediction": "Thrall is planning to organize a community meeting to discuss and finalize the plans for the garden. According to the conversation, Thrall suggested setting up a couple of meetings to brainstorm and finalize their plans, aiming to gather everyone's thoughts and make sure everyone's on the same page. This initiative is part of a series of activities to enhance the garden, which includes buying flowers, planning its layout, considering seating areas, and deciding on the best times to plant various types of plants. These discussions and meetings will help ensure that the garden is a vibrant and beautiful space for the community.",
+  "prediction_sha256": "24b973b15021f6a8ca1ce60fa6aa977e63266b520b5693a98a54c9c374bedc00",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 114,
+  "usage": {
+    "completion_tokens": 117,
+    "prompt_tokens": 3863,
+    "prompt_tokens_details": null,
+    "total_tokens": 3980
+  }
+}

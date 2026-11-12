@@ -1,0 +1,17 @@
+{
+  "body_sha256": "56bb9f43a49e3dff3c7a3293f7c22e5ea03e8da85c02ebfb194fb9f2ddacab92",
+  "finish_reason": "stop",
+  "latency_s": 12.645931083003234,
+  "prediction": "In the discussion dated 20260715_19:00, ChaeSong-hwa mentions, \"Check out this amazing live performance of 'Bohemian Rhapsody' by Queen! 🎤 I think it would be so cool for us to give it a try! What do you guys think?\" Thus, Chae wants the band members to check out the live performance of the song \"Bohemian Rhapsody\" by Queen.",
+  "prediction_sha256": "e6f9367d0007d7cbc62e83bb77354ab88905b0cb3ee6db5c535b0a55ebe98390",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100152,
+  "usage": {
+    "completion_tokens": 99,
+    "prompt_tokens": 5554,
+    "prompt_tokens_details": null,
+    "total_tokens": 5653
+  }
+}

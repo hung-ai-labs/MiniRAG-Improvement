@@ -1,0 +1,17 @@
+{
+  "body_sha256": "310f8131b9375c9c3a0c790858ef0a71ce2567df0d4b872ba2f2f55bd8d61350",
+  "finish_reason": "stop",
+  "latency_s": 11.387208915999508,
+  "prediction": "Based on the conversations provided, LiHua is responsible for picking up the snacks and drinks for the movie night. Specifically, this is mentioned in the dialogue:\n\n```\nLiHua: For sure! I can bring some chips! What drinks do you want? 🥤\nWolfgangSchulz: Awesome! Just some soda and juice will be perfect. Can't wait for the movie night! 🚀🎥\nLiHua: Cool! I'll pick them up on my way. See you soon! 🎉\n```\n\nTherefore, it appears that LiHua will be responsible for bringing the snacks and drinks to the movie night.",
+  "prediction_sha256": "0a895aa43cb664fb9cd73536c1a6b220ba4c3864fc479d3735d7e37c2b65fcd4",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 307,
+  "usage": {
+    "completion_tokens": 136,
+    "prompt_tokens": 5252,
+    "prompt_tokens_details": null,
+    "total_tokens": 5388
+  }
+}

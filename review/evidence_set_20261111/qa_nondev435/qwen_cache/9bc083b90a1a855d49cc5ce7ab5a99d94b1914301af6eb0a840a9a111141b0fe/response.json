@@ -1,0 +1,17 @@
+{
+  "body_sha256": "9bc083b90a1a855d49cc5ce7ab5a99d94b1914301af6eb0a840a9a111141b0fe",
+  "finish_reason": "stop",
+  "latency_s": 12.478735042001063,
+  "prediction": "According to the conversation, there are two instances of a power outage mentioned:\n\n1. In the first conversation dated 20260307 at 14:45, it is stated that there will be a power outage tomorrow from 2pm to 3pm for maintenance purposes.\n   \n2. In the second conversation dated 20260308 at 13:00, it is mentioned that there will be a power outage today from 2pm to 3pm. \n\nTherefore, the power outage is scheduled for 2pm to 3pm on both days specified.",
+  "prediction_sha256": "730fe2325461edea03d5f0761909fd015f26207f5310401c535f11e21a53dbfd",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100090,
+  "usage": {
+    "completion_tokens": 129,
+    "prompt_tokens": 4992,
+    "prompt_tokens_details": null,
+    "total_tokens": 5121
+  }
+}

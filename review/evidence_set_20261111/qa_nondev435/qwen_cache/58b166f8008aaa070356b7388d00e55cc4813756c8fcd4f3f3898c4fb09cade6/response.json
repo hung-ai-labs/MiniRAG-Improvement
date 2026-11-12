@@ -1,0 +1,17 @@
+{
+  "body_sha256": "58b166f8008aaa070356b7388d00e55cc4813756c8fcd4f3f3898c4fb09cade6",
+  "finish_reason": "stop",
+  "latency_s": 12.738798459002282,
+  "prediction": "Strength training plays a significant role in preventing soccer injuries by building the muscles around joints, thereby enhancing stability and reducing the risk of sprains and other types of injuries. According to Jake Watson, a soccer coach, strength training is crucial for soccer players because it helps build the muscles around the joints, improving overall stability and endurance on the field. This additional muscle support around the joints can significantly mitigate the risk of injuries during gameplay. Additionally, strength training boosts overall body endurance and can provide an extra boost when running for the ball, which is common in fast-paced soccer matches. By incorporating strength training into a soccer player's routine, they can improve their physical condition and performance, ultimately reducing the likelihood of sustaining injuries.",
+  "prediction_sha256": "975063830229425a103fb3878006eb195ca7a50b22fbd021c8e84b5939ea27e3",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200208,
+  "usage": {
+    "completion_tokens": 143,
+    "prompt_tokens": 4860,
+    "prompt_tokens_details": null,
+    "total_tokens": 5003
+  }
+}

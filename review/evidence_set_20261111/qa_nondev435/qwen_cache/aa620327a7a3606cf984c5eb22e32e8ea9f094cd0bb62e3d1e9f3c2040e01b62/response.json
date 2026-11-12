@@ -1,0 +1,17 @@
+{
+  "body_sha256": "aa620327a7a3606cf984c5eb22e32e8ea9f094cd0bb62e3d1e9f3c2040e01b62",
+  "finish_reason": "stop",
+  "latency_s": 7.827863458005595,
+  "prediction": "In one of JakeWatson's recollections, he shares a cherished memory from the Champions League final against Manchester United in 2009. JakeWatson particularly remembers the moment when Lionel Messi scored a goal that he describes as \"pure magic.\" This goal is noted for its brilliance and unexpected nature, showcasing Messi's versatility and technical prowess. This match was indeed one for the history books, and the goal remains a highlight for many fans of Barcelona.",
+  "prediction_sha256": "fcb1cae75e3bac728041f10badbfe45194f41d6e6227475eb34d0b59e7eaef1d",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200228,
+  "usage": {
+    "completion_tokens": 93,
+    "prompt_tokens": 4306,
+    "prompt_tokens_details": null,
+    "total_tokens": 4399
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "bf88d0dc0354a5abcd8420905a612519e726f50532311af941ff212ed80cde6e",
+  "finish_reason": "stop",
+  "latency_s": 8.96682879200307,
+  "prediction": "In one of the conversations recorded, EmilyBurnett expresses her appreciation for the series' ability to delve into character development and backgrounds, stating, \"I really love how they are bringing Middle-earth to life. My favorite part so far has been the emphasis on character development and their backstories. It feels like we’re really getting to know them!\" This indicates that she finds the series particularly noteworthy for its character-focused storytelling and the way it allows viewers to connect with and understand the characters deeply.",
+  "prediction_sha256": "44ec113e782e061a02a2a61e53db45ab23344f97586655cabb51054a49f64b42",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 266,
+  "usage": {
+    "completion_tokens": 99,
+    "prompt_tokens": 4405,
+    "prompt_tokens_details": null,
+    "total_tokens": 4504
+  }
+}

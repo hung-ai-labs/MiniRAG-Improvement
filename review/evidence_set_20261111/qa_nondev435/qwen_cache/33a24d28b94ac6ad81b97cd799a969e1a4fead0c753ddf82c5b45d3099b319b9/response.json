@@ -1,0 +1,17 @@
+{
+  "body_sha256": "33a24d28b94ac6ad81b97cd799a969e1a4fead0c753ddf82c5b45d3099b319b9",
+  "finish_reason": "stop",
+  "latency_s": 13.15129750000051,
+  "prediction": "Based on the information provided, the new line of high-protein breads appears to be a specialized product designed for individuals with specific dietary needs or preferences, such as those with gluten allergies or looking for alternatives to regular bread. However, there isn't detailed nutritional data specifically comparing the new gluten-free bread to traditional white bread. Typically, high-protein breads often contain higher levels of protein due to the addition of ingredients like protein powder or other protein-rich additives. These additions can increase the calorie content and nutrient profile compared to white bread, which is primarily composed of refined flour and contains fewer nutrients. Without specific nutritional data for the new gluten-free bread, it's difficult to compare its nutritional value directly to traditional white bread. For a precise comparison, one would need to consult the nutritional labels or ingredient lists of the products themselves.",
+  "prediction_sha256": "3c5725ac816588c6d14ab576633476218e65c15455d6fe17b4fff533d28a8a66",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200432,
+  "usage": {
+    "completion_tokens": 167,
+    "prompt_tokens": 5304,
+    "prompt_tokens_details": null,
+    "total_tokens": 5471
+  }
+}

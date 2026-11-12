@@ -1,0 +1,17 @@
+{
+  "body_sha256": "baf280e019407c499c26e6232e01bdef1932ef9a451ec41c48122d35f45d882c",
+  "finish_reason": "stop",
+  "latency_s": 4.768887500002165,
+  "prediction": "Helios speaks highly of several games, but he specifically calls \"The Last of Us\" a \"masterpiece\" due to its ability to make players feel deeply connected to the characters. He notes that the character growth and moral dilemmas in the game are top-notch, with Joel and Ellie's relationship serving as a roller coaster of love, loss, and difficult choices. This makes the experience feel very real and emotionally resonant.",
+  "prediction_sha256": "e45334d1c7dfd00a6eb032dfd703cb2e3993b4804fce3d546cfce3bfedae430f",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 325,
+  "usage": {
+    "completion_tokens": 87,
+    "prompt_tokens": 4710,
+    "prompt_tokens_details": null,
+    "total_tokens": 4797
+  }
+}

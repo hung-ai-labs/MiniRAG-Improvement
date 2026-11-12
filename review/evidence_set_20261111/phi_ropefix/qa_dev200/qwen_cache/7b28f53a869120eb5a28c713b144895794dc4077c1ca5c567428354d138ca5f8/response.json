@@ -1,0 +1,17 @@
+{
+  "body_sha256": "7b28f53a869120eb5a28c713b144895794dc4077c1ca5c567428354d138ca5f8",
+  "finish_reason": "stop",
+  "latency_s": 4.177739666996786,
+  "prediction": " The provided data tables and the accompanying text do not contain specific information regarding the exact date and time of Cersei Lannister's first meeting with Jaime Lannister in the Game of Thrones series. This detail is not mentioned or alluded to in the sources given, hence an accurate answer cannot be provided based on the current data.",
+  "prediction_sha256": "f91a856d1840aa5a1ac859a5df676963bd7bd6d66e5f621e24b7912c28fe9e54",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 123,
+  "usage": {
+    "completion_tokens": 76,
+    "prompt_tokens": 5885,
+    "prompt_tokens_details": null,
+    "total_tokens": 5961
+  }
+}

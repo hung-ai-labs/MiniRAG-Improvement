@@ -1,0 +1,354 @@
+== capture (nondev)
+capture nondev/baseline: complete (435)
+python-dotenv could not parse statement starting at line 4
+python-dotenv could not parse statement starting at line 4
+python-dotenv could not parse statement starting at line 4
+python-dotenv could not parse statement starting at line 4
+python-dotenv could not parse statement starting at line 6
+python-dotenv could not parse statement starting at line 6
+python-dotenv could not parse statement starting at line 7
+python-dotenv could not parse statement starting at line 7
+python-dotenv could not parse statement starting at line 8
+python-dotenv could not parse statement starting at line 6
+python-dotenv could not parse statement starting at line 6
+python-dotenv could not parse statement starting at line 8
+python-dotenv could not parse statement starting at line 9
+python-dotenv could not parse statement starting at line 7
+python-dotenv could not parse statement starting at line 7
+python-dotenv could not parse statement starting at line 9
+python-dotenv could not parse statement starting at line 8
+python-dotenv could not parse statement starting at line 8
+python-dotenv could not parse statement starting at line 9
+python-dotenv could not parse statement starting at line 9
+INFO:nano-vectordb:Load (1425, 384) data
+INFO:nano-vectordb:Load (1425, 384) data
+INFO:nano-vectordb:Load (1425, 384) data
+INFO:nano-vectordb:Init {'embedding_dim': 384, 'metric': 'cosine', 'storage_file': '/var/folders/1w/ww5v892s6xn284xgnjq4zyym0000gn/T/evidence-set-pool-zqq8vw78/vdb_entities.json'} 1425 data
+INFO:nano-vectordb:Init {'embedding_dim': 384, 'metric': 'cosine', 'storage_file': '/var/folders/1w/ww5v892s6xn284xgnjq4zyym0000gn/T/evidence-set-pool-vuuo39w6/vdb_entities.json'} 1425 data
+INFO:nano-vectordb:Init {'embedding_dim': 384, 'metric': 'cosine', 'storage_file': '/var/folders/1w/ww5v892s6xn284xgnjq4zyym0000gn/T/evidence-set-pool-w3122trn/vdb_entities.json'} 1425 data
+INFO:nano-vectordb:Load (1425, 384) data
+INFO:nano-vectordb:Init {'embedding_dim': 384, 'metric': 'cosine', 'storage_file': '/var/folders/1w/ww5v892s6xn284xgnjq4zyym0000gn/T/evidence-set-pool-wyglohfx/vdb_entities.json'} 1425 data
+INFO:nano-vectordb:Load (1425, 384) data
+INFO:nano-vectordb:Load (1425, 384) data
+INFO:nano-vectordb:Init {'embedding_dim': 384, 'metric': 'cosine', 'storage_file': '/var/folders/1w/ww5v892s6xn284xgnjq4zyym0000gn/T/evidence-set-pool-zqq8vw78/vdb_entities_name.json'} 1425 data
+INFO:nano-vectordb:Init {'embedding_dim': 384, 'metric': 'cosine', 'storage_file': '/var/folders/1w/ww5v892s6xn284xgnjq4zyym0000gn/T/evidence-set-pool-vuuo39w6/vdb_entities_name.json'} 1425 data
+INFO:nano-vectordb:Load (1425, 384) data
+INFO:nano-vectordb:Load (1425, 384) data
+INFO:nano-vectordb:Init {'embedding_dim': 384, 'metric': 'cosine', 'storage_file': '/var/folders/1w/ww5v892s6xn284xgnjq4zyym0000gn/T/evidence-set-pool-w3122trn/vdb_entities_name.json'} 1425 data
+INFO:nano-vectordb:Init {'embedding_dim': 384, 'metric': 'cosine', 'storage_file': '/var/folders/1w/ww5v892s6xn284xgnjq4zyym0000gn/T/evidence-set-pool-wyglohfx/vdb_entities_name.json'} 1425 data
+INFO:nano-vectordb:Load (1509, 384) data
+INFO:nano-vectordb:Init {'embedding_dim': 384, 'metric': 'cosine', 'storage_file': '/var/folders/1w/ww5v892s6xn284xgnjq4zyym0000gn/T/evidence-set-pool-zqq8vw78/vdb_relationships.json'} 1509 data
+INFO:nano-vectordb:Load (1509, 384) data
+INFO:nano-vectordb:Init {'embedding_dim': 384, 'metric': 'cosine', 'storage_file': '/var/folders/1w/ww5v892s6xn284xgnjq4zyym0000gn/T/evidence-set-pool-vuuo39w6/vdb_relationships.json'} 1509 data
+INFO:nano-vectordb:Load (514, 384) data
+INFO:nano-vectordb:Init {'embedding_dim': 384, 'metric': 'cosine', 'storage_file': '/var/folders/1w/ww5v892s6xn284xgnjq4zyym0000gn/T/evidence-set-pool-zqq8vw78/vdb_chunks.json'} 514 data
+INFO:nano-vectordb:Load (1509, 384) data
+INFO:nano-vectordb:Load (514, 384) data
+INFO:nano-vectordb:Init {'embedding_dim': 384, 'metric': 'cosine', 'storage_file': '/var/folders/1w/ww5v892s6xn284xgnjq4zyym0000gn/T/evidence-set-pool-wyglohfx/vdb_relationships.json'} 1509 data
+INFO:nano-vectordb:Init {'embedding_dim': 384, 'metric': 'cosine', 'storage_file': '/var/folders/1w/ww5v892s6xn284xgnjq4zyym0000gn/T/evidence-set-pool-vuuo39w6/vdb_chunks.json'} 514 data
+INFO:nano-vectordb:Load (1509, 384) data
+INFO:nano-vectordb:Init {'embedding_dim': 384, 'metric': 'cosine', 'storage_file': '/var/folders/1w/ww5v892s6xn284xgnjq4zyym0000gn/T/evidence-set-pool-w3122trn/vdb_relationships.json'} 1509 data
+INFO:nano-vectordb:Load (514, 384) data
+INFO:nano-vectordb:Init {'embedding_dim': 384, 'metric': 'cosine', 'storage_file': '/var/folders/1w/ww5v892s6xn284xgnjq4zyym0000gn/T/evidence-set-pool-wyglohfx/vdb_chunks.json'} 514 data
+INFO:nano-vectordb:Load (514, 384) data
+INFO:nano-vectordb:Init {'embedding_dim': 384, 'metric': 'cosine', 'storage_file': '/var/folders/1w/ww5v892s6xn284xgnjq4zyym0000gn/T/evidence-set-pool-w3122trn/vdb_chunks.json'} 514 data
+{"split": "nondev", "shard": 1, "question_index": 390, "total": 435}
+{"split": "nondev", "shard": 3, "question_index": 400, "total": 435}
+{"split": "nondev", "shard": 1, "question_index": 410, "total": 435}
+{"split": "nondev", "shard": 3, "question_index": 420, "total": 435}
+{"split": "nondev", "shard": 1, "question_index": 430, "total": 435}
+== score (nondev)
+== build (nondev)
+python-dotenv could not parse statement starting at line 4
+python-dotenv could not parse statement starting at line 6
+python-dotenv could not parse statement starting at line 7
+python-dotenv could not parse statement starting at line 8
+python-dotenv could not parse statement starting at line 9
+{
+ "split": "nondev",
+ "questions": 435,
+ "arms": [
+  "C0",
+  "BASELINE",
+  "F",
+  "CE0F",
+  "CE0F_SET"
+ ],
+ "pool": "native@45",
+ "scores": "all-fold models fit on dev200 only",
+ "beta_tau_from_dev": [
+  2.0,
+  0.0
+ ],
+ "models_sha256": {
+  "F": "81e216e263dbe094c31972d24091edb09c5f1f8de1293959df77241bfe639339",
+  "CE0+F": "96893f946c3f1bea8288f3ac2b092f278a70a4d938d030924fdc03f89da79dc9"
+ },
+ "labelled": 385,
+ "full_evidence": {
+  "C0": 167,
+  "BASELINE": 196,
+  "F": 229,
+  "CE0F": 238,
+  "CE0F_SET": 241
+ },
+ "identical_to_baseline": {
+  "C0": 394,
+  "BASELINE": 435,
+  "F": 2,
+  "CE0F": 1,
+  "CE0F_SET": 0
+ },
+ "contexts_sha256": "afaa67a8dc98e14f70588a8208f76d65c166204210b0bba581b11e2d80cbfcd1",
+ "pipeline_sha256": "78a4a41f31b095830904d144dd52b68ce986d2aa6487b460fd2fbac65aa23fb4",
+ "api_calls": 0
+}
+== generate (nondev)
+round 1 BASELINE: 50/435
+round 1 BASELINE: 100/435
+round 1 BASELINE: 150/435
+round 1 BASELINE: 200/435
+round 1 BASELINE: 250/435
+round 1 BASELINE: 300/435
+round 1 BASELINE: 350/435
+round 1 BASELINE: 400/435
+round 1 BASELINE: 435/435
+round 1 C0: 50/435
+round 1 C0: 100/435
+round 1 C0: 150/435
+round 1 C0: 200/435
+round 1 C0: 250/435
+round 1 C0: 300/435
+round 1 C0: 350/435
+round 1 C0: 400/435
+round 1 C0: 435/435
+round 1 F: 50/435
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/Users/hunggoodboy/Documents/HTTM-TK/MiniRAG-HTTM/reproduce/evidence_set/pipeline.py", line 363, in <module>
+    generate(a.split, a.rounds, a.workers)
+    ~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hunggoodboy/Documents/HTTM-TK/MiniRAG-HTTM/reproduce/evidence_set/pipeline.py", line 246, in generate
+    f.result()
+    ~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/concurrent/futures/_base.py", line 449, in result
+    return self.__get_result()
+           ~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/concurrent/futures/_base.py", line 401, in __get_result
+    raise self._exception
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/concurrent/futures/thread.py", line 59, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/Users/hunggoodboy/Documents/HTTM-TK/MiniRAG-HTTM/reproduce/evidence_set/pipeline.py", line 235, in one
+    v = qwen.call(seeded, template, RESPONSE_TYPE)
+  File "/Users/hunggoodboy/Documents/HTTM-TK/MiniRAG-HTTM/reproduce/evidence_selector/lihua_qa.py", line 59, in call
+    raise StopAPI('Qwen request failed: '+type(exc).__name__) from None
+reproduce.graph_ablation.api.StopAPI: Qwen request failed: URLError
+== capture (nondev)
+capture nondev/baseline: complete (435)
+capture nondev/c0: complete (435)
+== score (nondev)
+== build (nondev)
+python-dotenv could not parse statement starting at line 4
+python-dotenv could not parse statement starting at line 6
+python-dotenv could not parse statement starting at line 7
+python-dotenv could not parse statement starting at line 8
+python-dotenv could not parse statement starting at line 9
+{
+ "split": "nondev",
+ "questions": 435,
+ "arms": [
+  "C0",
+  "BASELINE",
+  "F",
+  "CE0F",
+  "CE0F_SET"
+ ],
+ "pool": "native@45",
+ "scores": "all-fold models fit on dev200 only",
+ "beta_tau_from_dev": [
+  2.0,
+  0.0
+ ],
+ "models_sha256": {
+  "F": "81e216e263dbe094c31972d24091edb09c5f1f8de1293959df77241bfe639339",
+  "CE0+F": "96893f946c3f1bea8288f3ac2b092f278a70a4d938d030924fdc03f89da79dc9"
+ },
+ "labelled": 385,
+ "full_evidence": {
+  "C0": 167,
+  "BASELINE": 196,
+  "F": 229,
+  "CE0F": 238,
+  "CE0F_SET": 241
+ },
+ "identical_to_baseline": {
+  "C0": 394,
+  "BASELINE": 435,
+  "F": 2,
+  "CE0F": 1,
+  "CE0F_SET": 0
+ },
+ "contexts_sha256": "afaa67a8dc98e14f70588a8208f76d65c166204210b0bba581b11e2d80cbfcd1",
+ "pipeline_sha256": "925b69672d721a4525258219d836c6d8e3357d269fd0a99b6b73b2a07e45e9fd",
+ "api_calls": 0
+}
+== generate (nondev)
+round 1 F: 1/1
+round 1 CE0F: 50/435
+round 1 CE0F: 100/435
+round 1 CE0F: 150/435
+round 1 CE0F: 200/435
+round 1 CE0F: 250/435
+round 1 CE0F: 300/435
+round 1 CE0F: 350/435
+round 1 CE0F: 400/435
+round 1 CE0F: 435/435
+round 1 CE0F_SET: 50/435
+round 1 CE0F_SET: 100/435
+round 1 CE0F_SET: 150/435
+round 1 CE0F_SET: 200/435
+round 1 CE0F_SET: 250/435
+round 1 CE0F_SET: 300/435
+round 1 CE0F_SET: 350/435
+round 1 CE0F_SET: 400/435
+round 1 CE0F_SET: 435/435
+round 2 BASELINE: 50/435
+round 2 BASELINE: 100/435
+round 2 BASELINE: 150/435
+round 2 BASELINE: 200/435
+round 2 BASELINE: 250/435
+round 2 BASELINE: 300/435
+round 2 BASELINE: 350/435
+round 2 BASELINE: 400/435
+round 2 BASELINE: 435/435
+round 2 C0: 50/435
+round 2 C0: 100/435
+round 2 C0: 150/435
+round 2 C0: 200/435
+round 2 C0: 250/435
+round 2 C0: 300/435
+round 2 C0: 350/435
+round 2 C0: 400/435
+round 2 C0: 435/435
+round 2 F: 50/435
+round 2 F: 100/435
+round 2 F: 150/435
+round 2 F: 200/435
+round 2 F: 250/435
+round 2 F: 300/435
+round 2 F: 350/435
+round 2 F: 400/435
+round 2 F: 435/435
+round 2 CE0F: 50/435
+round 2 CE0F: 100/435
+round 2 CE0F: 150/435
+round 2 CE0F: 200/435
+round 2 CE0F: 250/435
+round 2 CE0F: 300/435
+round 2 CE0F: 350/435
+round 2 CE0F: 400/435
+round 2 CE0F: 435/435
+round 2 CE0F_SET: 50/435
+round 2 CE0F_SET: 100/435
+round 2 CE0F_SET: 150/435
+round 2 CE0F_SET: 200/435
+round 2 CE0F_SET: 250/435
+round 2 CE0F_SET: 300/435
+round 2 CE0F_SET: 350/435
+round 2 CE0F_SET: 400/435
+round 2 CE0F_SET: 435/435
+round 3 BASELINE: 50/435
+round 3 BASELINE: 100/435
+round 3 BASELINE: 150/435
+round 3 BASELINE: 200/435
+round 3 BASELINE: 250/435
+round 3 BASELINE: 300/435
+round 3 BASELINE: 350/435
+round 3 BASELINE: 400/435
+round 3 BASELINE: 435/435
+round 3 C0: 50/435
+round 3 C0: 100/435
+round 3 C0: 150/435
+round 3 C0: 200/435
+round 3 C0: 250/435
+round 3 C0: 300/435
+round 3 C0: 350/435
+round 3 C0: 400/435
+round 3 C0: 435/435
+round 3 F: 50/435
+round 3 F: 100/435
+round 3 F: 150/435
+round 3 F: 200/435
+round 3 F: 250/435
+round 3 F: 300/435
+round 3 F: 350/435
+round 3 F: 400/435
+round 3 F: 435/435
+round 3 CE0F: 50/435
+round 3 CE0F: 100/435
+round 3 CE0F: 150/435
+round 3 CE0F: 200/435
+round 3 CE0F: 250/435
+round 3 CE0F: 300/435
+round 3 CE0F: 350/435
+round 3 CE0F: 400/435
+round 3 CE0F: 435/435
+round 3 CE0F_SET: 50/435
+round 3 CE0F_SET: 100/435
+round 3 CE0F_SET: 150/435
+round 3 CE0F_SET: 200/435
+round 3 CE0F_SET: 250/435
+round 3 CE0F_SET: 300/435
+round 3 CE0F_SET: 350/435
+round 3 CE0F_SET: 400/435
+round 3 CE0F_SET: 435/435
+== judge (nondev)
+DeepSeek judge: 5300 unique answers x 3 passes, 10599 calls to make
+judged 500/10599  spent $0.397
+judged 1000/10599  spent $0.435
+judged 1500/10599  spent $0.472
+judged 2000/10599  spent $0.508
+judged 2500/10599  spent $0.544
+judged 3000/10599  spent $0.579
+judged 3500/10599  spent $0.614
+judged 4000/10599  spent $0.650
+judged 4500/10599  spent $0.684
+judged 5000/10599  spent $0.718
+judged 5500/10599  spent $0.751
+judged 6000/10599  spent $0.783
+judged 6500/10599  spent $0.816
+judged 7000/10599  spent $0.847
+judged 7500/10599  spent $0.879
+judged 8000/10599  spent $0.910
+judged 8500/10599  spent $0.942
+judged 9000/10599  spent $0.973
+judged 9500/10599  spent $1.004
+judged 10000/10599  spent $1.036
+judged 10500/10599  spent $1.067
+judged 10599/10599  spent $1.073
+== report (nondev)
+# Table 1 — Qwen2.5-3B-Instruct, nondev (435 questions)
+
+3 generation round(s) × 3 DeepSeek judge passes. ACC/ERR = mean over rounds × passes, ± = sd between generation rounds. McNemar on the per-round majority verdict, one entry per round (became / ceased, exact p).
+
+| # | Configuration | Full evidence | ACC | ERR | Neither | ACC vs baseline | ACC vs row above | ERR vs row above |
+|---|---|---:|---:|---:|---:|---|---|---|
+| 1 | C0 (MiniRAG original) | 167/385 | 47.20 ± 0.96 | 27.05 ± 0.33 | 25.75 | 3/27, p=8.4e-06; 1/26, p=4.2e-07; 0/26, p=3e-08 | — | — |
+| 2 | + source-time (baseline) | 196/385 | 52.92 ± 0.95 | 25.72 ± 0.35 | 21.35 | — | 27/3, p=8.4e-06; 26/1, p=4.2e-07; 26/0, p=3e-08 | 2/6, p=0.29; 2/9, p=0.065; 2/8, p=0.11 |
+| 3 | + learned scorer: graph/time/structure features | 229/385 | 56.02 ± 0.78 | 25.13 ± 1.13 | 18.85 | 52/40, p=0.25; 52/36, p=0.11; 57/42, p=0.16 | 52/40, p=0.25; 52/36, p=0.11; 57/42, p=0.16 | 41/47, p=0.59; 44/46, p=0.92; 49/51, p=0.92 |
+| 4 | + semantic signal (cross-encoder) | 238/385 | 59.05 ± 1.00 | 26.39 ± 0.92 | 14.56 | 58/36, p=0.03; 67/30, p=0.00022; 61/36, p=0.014 | 41/31, p=0.29; 43/22, p=0.013; 37/27, p=0.26 | 47/38, p=0.39; 38/40, p=0.91; 32/27, p=0.6 |
+| 5 | + budgeted set selection (full method) | 241/385 | 58.93 ± 0.20 | 26.16 ± 1.17 | 14.92 | 61/37, p=0.02; 66/34, p=0.0018; 65/35, p=0.0035 | 32/30, p=0.9; 27/32, p=0.6; 32/27, p=0.6 | 43/40, p=0.83; 35/34, p=1; 30/34, p=0.71 |
+
+## ACC by question type
+
+| Configuration | Single (347) | Multi (43) | Null (45) |
+|---|---:|---:|---:|
+| C0 (MiniRAG original) | 46.30 | 29.72 | 70.86 |
+| + source-time (baseline) | 53.70 | 29.72 | 69.14 |
+| + learned scorer: graph/time/structure features | 58.50 | 26.87 | 64.69 |
+| + semantic signal (cross-encoder) | 61.67 | 35.40 | 61.48 |
+| + budgeted set selection (full method) | 61.51 | 28.17 | 68.40 |
+
+Judge noise: sd between passes of baseline ACC = 0.32.
+Rows 3–5 score the first 45 candidates of the baseline ranking. Widening 30 → 45 without re-scoring leaves every context identical to the baseline. Scores: all-fold models fit on dev200 only.

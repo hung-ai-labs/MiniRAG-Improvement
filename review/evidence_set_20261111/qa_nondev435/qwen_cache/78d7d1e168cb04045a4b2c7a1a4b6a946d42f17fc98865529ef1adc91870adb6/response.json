@@ -1,0 +1,17 @@
+{
+  "body_sha256": "78d7d1e168cb04045a4b2c7a1a4b6a946d42f17fc98865529ef1adc91870adb6",
+  "finish_reason": "stop",
+  "latency_s": 9.167273208000552,
+  "prediction": "The provided data does not contain specific information regarding the costs of the air conditioner installation, including labor and materials. It only contains conversations between Adam Smith and Li Hua about discussing various aspects of the air conditioning unit, such as preferences, dimensions, and recommendations. There is no mention of a budget or cost associated with the installation. Therefore, based on the given information, it is not possible to determine the total cost of the air conditioner installation.",
+  "prediction_sha256": "6dcaef60ec2a167b6c1de5061eb8fe95366b4fbf592eedde215ca8210f344978",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 435,
+  "usage": {
+    "completion_tokens": 90,
+    "prompt_tokens": 4408,
+    "prompt_tokens_details": null,
+    "total_tokens": 4498
+  }
+}

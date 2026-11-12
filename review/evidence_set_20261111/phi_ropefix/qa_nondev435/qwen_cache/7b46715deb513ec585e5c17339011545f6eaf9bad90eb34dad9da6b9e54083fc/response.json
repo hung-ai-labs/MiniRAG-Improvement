@@ -1,0 +1,17 @@
+{
+  "body_sha256": "7b46715deb513ec585e5c17339011545f6eaf9bad90eb34dad9da6b9e54083fc",
+  "finish_reason": "stop",
+  "latency_s": 12.199007249997521,
+  "prediction": " The installation of the air-conditioner is planned for the next Wednesday. Adam Smith and Li Hua are coordinating this event, which involves both client engagement and logistical preparation. According to the chat logs, Li Hua confirmed her availability for the installation at 6 PM on that day. Adam Smith reminded her about the installation ahead of time and expressed his willingness to assist with any concerns or needs that might arise. The conversation between Adam and Li Hua reflects that they are working together to ensure a smooth process leading up to the installation.\n\n```\nAdamSmith: Hey Li Hua, just wanted to remind you that the contractor team is coming to install the AC in the basement at 6 PM today. Will you be there around that time?\nLiHua: Sure, I'll be there at 6 PM. Thanks for the heads up!\nAdamSmith: Great! Appreciate it. Let me know if you need anything else.\nLiHua: Will do! See you later!\"\n```\n\nFrom this conversation, we can confirm that the team from the contractor is expected to arrive and begin the installation process at 6 PM on Wednesday.",
+  "prediction_sha256": "2b7005ef0e8eef1b9af4ba9e9387be2445f046057643d81b7759a91dc098c4da",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 167,
+  "usage": {
+    "completion_tokens": 261,
+    "prompt_tokens": 5911,
+    "prompt_tokens_details": null,
+    "total_tokens": 6172
+  }
+}

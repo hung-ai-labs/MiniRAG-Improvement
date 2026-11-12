@@ -1,0 +1,17 @@
+{
+  "body_sha256": "40f7ec208e8d4153452a3d795fbfa7523d91cbc6f3247496327f48434ff07334",
+  "finish_reason": "stop",
+  "latency_s": 10.595629583000118,
+  "prediction": "In one of the conversations, Jasper mentions participating in a soccer practice session on Saturday afternoon, stating \"Saturday afternoon works great for me. I could also use some practice on my shooting. Where do you want to meet?\" Farrah also confirms this plan, saying \"3 PM at the local park sounds perfect! I’ll bring a ball and some cones too. This should be a great way to improve our shooting skills while having a blast!\" Therefore, they plan to meet at 3 PM on Saturday afternoon for the soccer practice session.",
+  "prediction_sha256": "e5c5b56783a3cd5f8bc07a351b513ee2e1adef10b22ce74be4575e6ef980dc72",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100362,
+  "usage": {
+    "completion_tokens": 108,
+    "prompt_tokens": 5176,
+    "prompt_tokens_details": null,
+    "total_tokens": 5284
+  }
+}

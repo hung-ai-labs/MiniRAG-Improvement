@@ -1,0 +1,17 @@
+{
+  "body_sha256": "1ece50f6b005c573545181bcb94a5f8c8164ee85a8398850d356ae6784974caa",
+  "finish_reason": "stop",
+  "latency_s": 7.965790541999013,
+  "prediction": "According to Quillan, the aspect of Cersei's character that often shadows her vulnerability is her desperation for control. This desperation often leads her to push away those who care about her, such as her children, and prioritize her ambition over meaningful connections. Quillan emphasizes that this pursuit of control can turn her into a lonely and isolated figure, despite her deep-seated desires for love and connection.",
+  "prediction_sha256": "bb7726551fa92ba7b5666f0de8b642e529406a3c68be38bdc8caeabb499c3c10",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 310,
+  "usage": {
+    "completion_tokens": 82,
+    "prompt_tokens": 4790,
+    "prompt_tokens_details": null,
+    "total_tokens": 4872
+  }
+}

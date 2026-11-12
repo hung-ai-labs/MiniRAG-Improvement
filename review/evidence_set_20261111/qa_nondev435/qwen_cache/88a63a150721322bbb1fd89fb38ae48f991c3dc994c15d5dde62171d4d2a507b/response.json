@@ -1,0 +1,17 @@
+{
+  "body_sha256": "88a63a150721322bbb1fd89fb38ae48f991c3dc994c15d5dde62171d4d2a507b",
+  "finish_reason": "stop",
+  "latency_s": 14.80727641699923,
+  "prediction": "In various instances, the users discuss plans for soccer practice meetings. For example, in one conversation, Jake Watson mentions a practice session for shooting at the park on Saturday at 3 PM, and Li Hua confirms his availability for the same time. In another instance, Jake Watson suggests gathering the group for a practice session on Saturday afternoon at the usual spot, and Li Hua agrees to meet at 4 PM. However, the most specific and clear meeting time for soccer practice mentioned is 3 PM on Saturday. Therefore, based on the provided conversations, the most probable time they plan to meet for soccer practice is 3 PM on Saturdays.",
+  "prediction_sha256": "d2c7f1676dfe0b781ce775f97f8531526b9ccff72313b424fb1891b799f09fb2",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100362,
+  "usage": {
+    "completion_tokens": 131,
+    "prompt_tokens": 5195,
+    "prompt_tokens_details": null,
+    "total_tokens": 5326
+  }
+}

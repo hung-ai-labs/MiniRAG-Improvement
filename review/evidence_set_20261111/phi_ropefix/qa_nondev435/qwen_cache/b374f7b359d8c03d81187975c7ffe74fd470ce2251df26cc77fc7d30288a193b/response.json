@@ -1,0 +1,17 @@
+{
+  "body_sha256": "b374f7b359d8c03d81187975c7ffe74fd470ce2251df26cc77fc7d30288a193b",
+  "finish_reason": "stop",
+  "latency_s": 9.788371208000171,
+  "prediction": " The installation of the air-conditioner is planned for the upcoming Wednesday, as mentioned in the conversation between Adam Smith and Li Hua. Adam Smith reminded Li Hua about the scheduled installation time, and Li Hua confirmed her availability for that time. The team is looking forward to the event, which involves logistical preparation and client engagement.\n\n```plaintext\nConversation Extract:\nAdamSmith: Hey Li Hua, just wanted to remind you that the contractor team is coming to install the AC in the basement at 6 PM today. Will you be there around that time?\nLiHua: Sure, I'll be there at 6 PM. Thanks for the heads up!\n```\n\nThe specific date and time within the context of the current year are not provided in the data tables or sources, but as per the latest knowledge cutoff, the installation date would be determined by adding the appropriate number of days to the given Wednesday mentioned in the conversation excerpt.",
+  "prediction_sha256": "3adc7190fe401f4d4a544d015a5a56a9b47bf3736677b97eba413b02c87d2280",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 167,
+  "usage": {
+    "completion_tokens": 221,
+    "prompt_tokens": 5327,
+    "prompt_tokens_details": null,
+    "total_tokens": 5548
+  }
+}

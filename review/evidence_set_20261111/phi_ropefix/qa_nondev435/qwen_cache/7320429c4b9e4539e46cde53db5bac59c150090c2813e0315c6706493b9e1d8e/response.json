@@ -1,0 +1,17 @@
+{
+  "body_sha256": "7320429c4b9e4539e46cde53db5bac59c150090c2813e0315c6706493b9e1d8e",
+  "finish_reason": "stop",
+  "latency_s": 7.67616195899609,
+  "prediction": " Li Hua checks in with Adam about moving in on **20260301_10:00**. During this conversation, Li Hua updates Adam on the fact that she has already transferred the rent through bank transfer and expresses her gratitude for the update. Adam thanks Li Hua for keeping him in the loop and inquires about how everything is going with her settling in. Li Hua confirms that her stay is going well and she is enjoying the neighborhood and exploring local places. In return, Adam shares that he's busy with work and family but offers to provide Li Hua with any local recommendations she might need. This exchange indicates a friendly check-in to ensure Li Hua's move-in process is going smoothly and to build rapport between them.",
+  "prediction_sha256": "049ed70dab2560a9ea7f8c1ae4ff214d554aba3d8072401c0d2af47d51d3803c",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 200055,
+  "usage": {
+    "completion_tokens": 170,
+    "prompt_tokens": 5200,
+    "prompt_tokens_details": null,
+    "total_tokens": 5370
+  }
+}

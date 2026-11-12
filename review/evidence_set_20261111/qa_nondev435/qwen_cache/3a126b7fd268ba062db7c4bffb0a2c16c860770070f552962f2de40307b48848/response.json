@@ -1,0 +1,17 @@
+{
+  "body_sha256": "3a126b7fd268ba062db7c4bffb0a2c16c860770070f552962f2de40307b48848",
+  "finish_reason": "stop",
+  "latency_s": 3.5493378749997646,
+  "prediction": "According to the data, Jasper mentions Phil Foden's growth under Pep Guardiola's player development. Specifically, Jasper provides commentary on how Phil Foden has progressed under Guardiola's influence during a Manchester City match.",
+  "prediction_sha256": "ff2cb41cc09665480b561b3a15ca5e670dc8424ed6d734eb41ebd931f536e7e2",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100300,
+  "usage": {
+    "completion_tokens": 44,
+    "prompt_tokens": 4351,
+    "prompt_tokens_details": null,
+    "total_tokens": 4395
+  }
+}

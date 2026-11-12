@@ -1,0 +1,17 @@
+{
+  "body_sha256": "91c5215705bfad32f654ff134c504529f60feee472befa105d462080e97c1210",
+  "finish_reason": "stop",
+  "latency_s": 12.563275083000917,
+  "prediction": "In one of their conversations, ThaneChambers expressed enthusiasm for the game \"Black Myth: Wukong.\" Specifically, he mentioned that he loves how it feels like a \"fresh take on the classic tale\" and appreciates the unique combat mechanics that make the game \"fun.\" He further noted that the storytelling is \"top-notch\" and that the visuals are \"stunning.\" Thus, based on ThaneChambers' comments, it appears he likes the game's unique gameplay and immersive storytelling.",
+  "prediction_sha256": "7818501a847996e305b85c32b8e64f7808956214ceda2c1691799cbb14d3baba",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100289,
+  "usage": {
+    "completion_tokens": 104,
+    "prompt_tokens": 4775,
+    "prompt_tokens_details": null,
+    "total_tokens": 4879
+  }
+}

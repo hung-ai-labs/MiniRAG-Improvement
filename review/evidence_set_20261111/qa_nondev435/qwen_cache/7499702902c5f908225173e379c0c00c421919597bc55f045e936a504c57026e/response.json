@@ -1,0 +1,17 @@
+{
+  "body_sha256": "7499702902c5f908225173e379c0c00c421919597bc55f045e936a504c57026e",
+  "finish_reason": "stop",
+  "latency_s": 9.71995945800154,
+  "prediction": "On April 5th, 2026, Li Hua suggested playing \"Viva la Vida\" for the jam session. Wolfgang Schulz agreed enthusiastically, stating it would be fun to play and looking forward to the session. Yuriko Yamamoto expressed her love for the song and mentioned that they might need to prepare a bit by listening to the track beforehand.",
+  "prediction_sha256": "82ef69e853a536f0af51367de116d5540e6c8056d9fe3d3967380ed36e49a33d",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200103,
+  "usage": {
+    "completion_tokens": 78,
+    "prompt_tokens": 4212,
+    "prompt_tokens_details": null,
+    "total_tokens": 4290
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "a9a8722af60507213810d89c9201e819cf06a0b0e1adf483e67486878bf6c1a4",
+  "finish_reason": "stop",
+  "latency_s": 9.88233558399952,
+  "prediction": "On the jam session scheduled for April 5th, 2026 at 10:00 AM, Li Hua suggests playing \"Viva la Vida\" by Coldplay. Wolfgang Schulz expresses enthusiasm for the song, mentioning that he thinks it would be fun to play and that the crowd usually enjoys it. Yuriko Yamamoto also agrees and expresses her excitement to play it. They discuss preparing for the jam by practicing the timing and listening to the track beforehand.",
+  "prediction_sha256": "ee222ebdbc23dda66643d0e2d4a478aed927d2dcdd6ae081f40d046ffa60747e",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100103,
+  "usage": {
+    "completion_tokens": 101,
+    "prompt_tokens": 3678,
+    "prompt_tokens_details": null,
+    "total_tokens": 3779
+  }
+}

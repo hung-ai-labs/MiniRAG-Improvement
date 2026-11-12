@@ -1,0 +1,17 @@
+{
+  "body_sha256": "67427eeba7e876de762c2ca47f686c83ebdb1a637b46ae1f8f91131a50de8478",
+  "finish_reason": "stop",
+  "latency_s": 10.762038375003613,
+  "prediction": "Li Hua and Wolfgang Schulz engage in a conversation about their preferred aspects of a classic American cheeseburger. This includes discussing the desired degree of doneness (medium rare versus well-done), the preference for toppings, and the type of condiments they enjoy. Specifically, Wolfgang Schulz mentions his preference for a classic cheeseburger with toppings like lettuce, tomato, and pickles, while Li Hua prefers a spicy jalapeño burger or one with BBQ sauce. Both individuals express their enjoyment of different levels of spice in their burgers, highlighting the versatility and personal preference involved in choosing a burger.",
+  "prediction_sha256": "1643c4eda3d5bd0d400c387a4b769eac1b7efff73f68b970de2224522acafe8b",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100185,
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 4478,
+    "prompt_tokens_details": null,
+    "total_tokens": 4598
+  }
+}

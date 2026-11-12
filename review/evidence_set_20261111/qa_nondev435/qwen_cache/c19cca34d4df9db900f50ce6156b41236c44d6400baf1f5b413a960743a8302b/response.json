@@ -1,0 +1,17 @@
+{
+  "body_sha256": "c19cca34d4df9db900f50ce6156b41236c44d6400baf1f5b413a960743a8302b",
+  "finish_reason": "stop",
+  "latency_s": 5.018222083002911,
+  "prediction": "According to the conversation, LiHua has already received the curtains and is pleased with the patterns. She expressed her appreciation for the patterns and is looking forward to setting a date to have them installed. Adam Smith assured LiHua that he would help with the installation once she is ready.",
+  "prediction_sha256": "0513033467256b41532b86a2215b581927d3fe23de8c00e2da72617898a062c6",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 375,
+  "usage": {
+    "completion_tokens": 59,
+    "prompt_tokens": 4341,
+    "prompt_tokens_details": null,
+    "total_tokens": 4400
+  }
+}

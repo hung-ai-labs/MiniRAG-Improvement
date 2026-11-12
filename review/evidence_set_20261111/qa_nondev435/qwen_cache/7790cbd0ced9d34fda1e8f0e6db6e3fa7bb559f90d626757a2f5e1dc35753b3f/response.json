@@ -1,0 +1,17 @@
+{
+  "body_sha256": "7790cbd0ced9d34fda1e8f0e6db6e3fa7bb559f90d626757a2f5e1dc35753b3f",
+  "finish_reason": "stop",
+  "latency_s": 12.8907056249991,
+  "prediction": "The timeline provided shows several events related to the installation and maintenance of the air-conditioner in the basement. According to the conversation, LiHua first expressed her interest in adding an air-conditioner to the basement on July 23rd (Record 3). Then, on August 10th, Adam Smith reminded LiHua to review the warranty and maintenance plans for the air-conditioner (Record 1). After receiving these reminders, Adam Smith scheduled a meeting to discuss further details on August 12th (Record 2) to finalize the installation and maintenance arrangements. \n\nTherefore, it takes approximately one month from the initial discussion about the air-conditioner to the actual installation and maintenance plans being set. Specifically, the timeline spans from July 23rd to August 12th.",
+  "prediction_sha256": "bd29548bcf1579efe9c47f4279404b69d28c1606f61daafd8007bbff46b6e502",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100038,
+  "usage": {
+    "completion_tokens": 164,
+    "prompt_tokens": 4540,
+    "prompt_tokens_details": null,
+    "total_tokens": 4704
+  }
+}

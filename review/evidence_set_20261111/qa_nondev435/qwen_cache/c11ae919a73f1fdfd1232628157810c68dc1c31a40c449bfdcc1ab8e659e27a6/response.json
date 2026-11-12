@@ -1,0 +1,17 @@
+{
+  "body_sha256": "c11ae919a73f1fdfd1232628157810c68dc1c31a40c449bfdcc1ab8e659e27a6",
+  "finish_reason": "stop",
+  "latency_s": 7.908551207998244,
+  "prediction": "The discussion about the garage sale is mentioned in the conversation between AdamSmith and LiHua. According to the conversation, the garage sale is scheduled for a Sunday at 3 PM, as they mention, \"There's a community bake sale this Sunday at 3 PM to support a local charity.\" This implies that the garage sale is likely happening around the same time as the community bake sale, which falls on a Sunday afternoon.",
+  "prediction_sha256": "0c519f59c887edaf688774aeec6a81c5fc87b8e1a81b785e17e30c35d1d182bc",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100168,
+  "usage": {
+    "completion_tokens": 87,
+    "prompt_tokens": 4971,
+    "prompt_tokens_details": null,
+    "total_tokens": 5058
+  }
+}

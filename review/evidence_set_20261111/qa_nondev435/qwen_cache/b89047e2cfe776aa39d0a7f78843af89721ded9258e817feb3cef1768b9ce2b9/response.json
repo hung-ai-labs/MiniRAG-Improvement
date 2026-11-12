@@ -1,0 +1,17 @@
+{
+  "body_sha256": "b89047e2cfe776aa39d0a7f78843af89721ded9258e817feb3cef1768b9ce2b9",
+  "finish_reason": "stop",
+  "latency_s": 12.55465658400135,
+  "prediction": "At the bakery's anniversary event, Li Hua expressed a particular fondness for the new bread products. During the event, Li Hua mentioned, \"I tried that new pastry you have! It was delicious. I'll definitely be coming back for more. Your baking never disappoints!\" Although the new bread products were not specifically named, Li Hua clearly indicated his enjoyment of the new offerings, particularly praising the quality of HaileyJohnson's baking. Given that he was enthusiastic about the new bread products, it's reasonable to infer that he likely tried other new bread varieties at the event as well, but the pastry stood out as particularly delightful.",
+  "prediction_sha256": "1751c17103ca2985f56cbc257482bc115149b19cd2c391db3c9f442140177c0f",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 424,
+  "usage": {
+    "completion_tokens": 131,
+    "prompt_tokens": 3761,
+    "prompt_tokens_details": null,
+    "total_tokens": 3892
+  }
+}

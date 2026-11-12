@@ -1,0 +1,17 @@
+{
+  "body_sha256": "e6cf4fe6db1a59fb2847bee0985c2d00606408c7a9d380f908155995860b421a",
+  "finish_reason": "stop",
+  "latency_s": 10.471781666001334,
+  "prediction": "Jake Watson, who has experience discussing classic matches between Barça and Bayern and shares insights on sports strategies, specifically recommends squats, lunges, and planks for strength training. These exercises are beneficial for building muscle strength around joints, improving overall stability, and enhancing endurance. Additionally, he suggests including balance exercises like single-leg stands to further improve flexibility and stability.",
+  "prediction_sha256": "14d985f4bec20715787571afa5bb8b761bd34732d18695a71396a341bebd6d7b",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100209,
+  "usage": {
+    "completion_tokens": 74,
+    "prompt_tokens": 3926,
+    "prompt_tokens_details": null,
+    "total_tokens": 4000
+  }
+}

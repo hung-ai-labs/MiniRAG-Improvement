@@ -1,0 +1,17 @@
+{
+  "body_sha256": "55a3abcad491b2da70161834d29f05d4563ee941e8ce73edfb7fc7e590f2851d",
+  "finish_reason": "stop",
+  "latency_s": 78.493983458,
+  "prediction": "During their dinner celebration, Wolfgang expressed interest in trying the restaurant's risotto, which he heard was really good. However, when asked about the dessert Wolfgang planned to order for Li Hua, no specific dessert is mentioned. Therefore, based on the available information, it is unclear what dessert Wolfgang planned to order for Li Hua during their dinner celebration.",
+  "prediction_sha256": "7853669f315f39fb995b35a8f327a39624a41ac7b7301ade1cc9a8d5dd164d3a",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200426,
+  "usage": {
+    "completion_tokens": 72,
+    "prompt_tokens": 4582,
+    "prompt_tokens_details": null,
+    "total_tokens": 4654
+  }
+}

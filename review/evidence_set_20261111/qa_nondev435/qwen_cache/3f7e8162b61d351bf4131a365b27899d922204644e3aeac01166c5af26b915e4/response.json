@@ -1,0 +1,17 @@
+{
+  "body_sha256": "3f7e8162b61d351bf4131a365b27899d922204644e3aeac01166c5af26b915e4",
+  "finish_reason": "stop",
+  "latency_s": 10.177452832998824,
+  "prediction": "No, the time interval between LiHua confirming receipt of the curtains (20261012_10:00) and Adam asking if the curtain is all good (20261012_10:00) is exactly 0 days, as the events occur on the same date. Therefore, the time interval does not exceed 3 days.",
+  "prediction_sha256": "8767157e55f2188a8014c05e7ef839ea03785ed7e387d9abebb77b546eeee715",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200043,
+  "usage": {
+    "completion_tokens": 83,
+    "prompt_tokens": 4388,
+    "prompt_tokens_details": null,
+    "total_tokens": 4471
+  }
+}

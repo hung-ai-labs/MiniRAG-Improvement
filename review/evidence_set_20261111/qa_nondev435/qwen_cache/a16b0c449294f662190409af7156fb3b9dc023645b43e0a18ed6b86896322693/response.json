@@ -1,0 +1,17 @@
+{
+  "body_sha256": "a16b0c449294f662190409af7156fb3b9dc023645b43e0a18ed6b86896322693",
+  "finish_reason": "stop",
+  "latency_s": 9.7326870830002,
+  "prediction": "In the conversation, ChaeSong-hwa shared a music theory tutorial that he found interesting, stating, \"Hey everyone! I found this super cool music theory tutorial that might help us take our skills to the next level. Check it out when you have some time! 🎶\". LiHua and WolfgangSchulz were enthusiastic about the tutorial, expressing their interest in learning more and applying what they learned in their next jam sessions.",
+  "prediction_sha256": "0b16efd902a42f245d798379509d7bca096994c2530e4e7c21da33f8de2b32b1",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200183,
+  "usage": {
+    "completion_tokens": 90,
+    "prompt_tokens": 5225,
+    "prompt_tokens_details": null,
+    "total_tokens": 5315
+  }
+}

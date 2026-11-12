@@ -1,0 +1,17 @@
+{
+  "body_sha256": "3a060c42b727f4bce46c4ad17e87fa903fa45ab5a8bf4832d016d084304e03f4",
+  "finish_reason": "stop",
+  "latency_s": 15.136347332998412,
+  "prediction": "Based on the records provided, Li Hua has requested multiple deliveries from Hailey Johnson. Specifically:\n\n1. On April 15, 2026, Li Hua received a delivery of bread from Hailey Johnson.\n2. On May 17, 2026, Li Hua received another delivery of bread from Hailey Johnson.\n3. On March 14, 2026, Li Hua requested a doorstep delivery service for fresh milk and bread, and agreed to a delivery schedule that includes Monday and Friday deliveries at 8 AM, starting with a delivery on Tuesday.\n\nThis indicates that Li Hua has consistently requested deliveries from Hailey Johnson for fresh bread, and now has a regular delivery service set up for her doorstep.",
+  "prediction_sha256": "42fdcc6c57f4b2ac2c1c3fd057887538998013e4d79aa480c0b99085ece8fba0",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100093,
+  "usage": {
+    "completion_tokens": 158,
+    "prompt_tokens": 4369,
+    "prompt_tokens_details": null,
+    "total_tokens": 4527
+  }
+}

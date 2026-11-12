@@ -1,0 +1,17 @@
+{
+  "body_sha256": "80fa7e264a5d0ddd4232f9eef96c06320e3de8a68bb98cb93340df5215ebd8e3",
+  "finish_reason": "stop",
+  "latency_s": 7.968596541002626,
+  "prediction": "No, Li Hua did not ask Wolfgang Schulz if he wanted to go to the gym together before Jennifer reminded Li Hua to participate in the gym's membership feedback activity. The conversation about Wolfgang Schulz and Li Hua's fitness plans took place independently of the membership feedback activity reminder. Instead, Jennifer reminded Li Hua about the membership feedback activity and encouraged him to participate, alongside offering a reminder to grab his water cup at the front desk. This reminder occurred on June 5th, 2026, at 11:00 AM.",
+  "prediction_sha256": "3671ac56b86bbfc3c1ec925009d46b2697222da662c743ccad8a9e92b2c3a3ee",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100047,
+  "usage": {
+    "completion_tokens": 116,
+    "prompt_tokens": 4259,
+    "prompt_tokens_details": null,
+    "total_tokens": 4375
+  }
+}

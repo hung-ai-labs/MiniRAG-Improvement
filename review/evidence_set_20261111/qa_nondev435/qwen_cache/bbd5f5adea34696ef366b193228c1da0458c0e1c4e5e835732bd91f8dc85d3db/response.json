@@ -1,0 +1,17 @@
+{
+  "body_sha256": "bbd5f5adea34696ef366b193228c1da0458c0e1c4e5e835732bd91f8dc85d3db",
+  "finish_reason": "stop",
+  "latency_s": 8.558605165999325,
+  "prediction": "Dyllan describes \"Black Myth: Wukong\" as an epic game that showcases the culture and storytelling around the samurai. He expresses particular appreciation for the way the game immerses players in the world, highlighting the blending of traditional Chinese instruments with modern orchestration to create an immersive experience. Additionally, he mentions the game's emphasis on player choices and the way the soundtrack reacts to these choices, amplifying the emotional impact of the storytelling.",
+  "prediction_sha256": "e2bd99e0760626ab474e8b68dac040f62f1e5f8134f4f122a3ccfd8cbb0a3b35",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 324,
+  "usage": {
+    "completion_tokens": 92,
+    "prompt_tokens": 4140,
+    "prompt_tokens_details": null,
+    "total_tokens": 4232
+  }
+}

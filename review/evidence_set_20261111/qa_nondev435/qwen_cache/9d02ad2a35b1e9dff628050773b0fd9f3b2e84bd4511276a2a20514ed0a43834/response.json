@@ -1,0 +1,17 @@
+{
+  "body_sha256": "9d02ad2a35b1e9dff628050773b0fd9f3b2e84bd4511276a2a20514ed0a43834",
+  "finish_reason": "stop",
+  "latency_s": 13.144323624997924,
+  "prediction": "In the conversations provided, LiHua frequently asks Jake about various aspects of soccer, including discussions about classic matches, standout players, and defensive strategies. Specifically, during one interaction, LiHua inquires about Jake's opinion on who the best defender in Barcelona's history is, asking Jake to consider figures like Carles Puyol and Gerard Piqué. LiHua also asks Jake to explain the rules of offsides, demonstrating her interest in understanding the nuances of the game. Additionally, LiHua watches classic matches between Barcelona and Real Madrid and expresses admiration for the dramatic plays and emotions in these matches, further indicating her deep engagement with the sport. Overall, Jake provides insightful responses to these queries, showcasing his knowledge and enthusiasm for the game.",
+  "prediction_sha256": "624cf5dbba17ca96d1bef402e7b5d75e31d5cfd46c53f16af383fa86920c9fcb",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100205,
+  "usage": {
+    "completion_tokens": 152,
+    "prompt_tokens": 4222,
+    "prompt_tokens_details": null,
+    "total_tokens": 4374
+  }
+}

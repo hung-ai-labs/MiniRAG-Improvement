@@ -1,0 +1,17 @@
+{
+  "body_sha256": "da6f79ee0d0dd68af3d2aab55e8547553a7cdd9a966a6dd5e15755e440e3b987",
+  "finish_reason": "stop",
+  "latency_s": 9.835535292000714,
+  "prediction": "Turalyon suggested a picnic as a food event. He proposed having a fun and relaxing gathering where people could enjoy good food, games, and potentially a potluck. He mentioned that everyone could bring dishes to share, which he thought would make the event even more special. Additionally, Turalyon suggested including games and activities to make the event more engaging. The event would be a great way for the community to come together, relax, and enjoy each other's company.",
+  "prediction_sha256": "e8c77daf1998682e493639e3acbab7583a678961747a722e1fa1fcaddd08edd0",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 392,
+  "usage": {
+    "completion_tokens": 96,
+    "prompt_tokens": 4266,
+    "prompt_tokens_details": null,
+    "total_tokens": 4362
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "dc98837aa3e706ba052c1cc26a73ace0852c7be524eb8397f62120280f1a50ba",
+  "finish_reason": "stop",
+  "latency_s": 9.888427375000902,
+  "prediction": "In the context provided, Adam Smith is the one who invites Li Hua to join the community bake sale. This invitation is part of a discussion where Adam mentions, \"There's a community bake sale this Sunday at 3 PM to support a local charity. It would be great if you could join. Let me know if you’re interested!\" Li Hua responds positively, indicating her willingness to participate. Therefore, based on the information given, Adam Smith is the one inviting Li Hua to attend the community bake sale.",
+  "prediction_sha256": "a7d7ada49242182c330a92b4d268f847bddb2155cc9dc71f553ae2eabc809d82",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 92,
+  "usage": {
+    "completion_tokens": 106,
+    "prompt_tokens": 3849,
+    "prompt_tokens_details": null,
+    "total_tokens": 3955
+  }
+}

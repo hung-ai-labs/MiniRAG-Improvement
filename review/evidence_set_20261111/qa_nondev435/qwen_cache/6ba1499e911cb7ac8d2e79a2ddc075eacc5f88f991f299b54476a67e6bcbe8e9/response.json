@@ -1,0 +1,17 @@
+{
+  "body_sha256": "6ba1499e911cb7ac8d2e79a2ddc075eacc5f88f991f299b54476a67e6bcbe8e9",
+  "finish_reason": "stop",
+  "latency_s": 10.54729645900079,
+  "prediction": "Based on the conversation, the community members decided to have the picnic on the following Saturday, which was mentioned as \"Next Saturday.\" Specifically, Adam Smith suggested, \"Let's say next Saturday for the picnic?\" and Thrall confirmed, \"Next Saturday is set then!\" Therefore, the community members agreed on October 13th, 2026, for the picnic.",
+  "prediction_sha256": "3df4bbdd6c6ec4b72e47e3229341c2a460b15e278521adcea07bd395f8b02b96",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200395,
+  "usage": {
+    "completion_tokens": 78,
+    "prompt_tokens": 5004,
+    "prompt_tokens_details": null,
+    "total_tokens": 5082
+  }
+}

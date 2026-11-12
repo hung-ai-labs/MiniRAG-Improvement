@@ -1,0 +1,17 @@
+{
+  "body_sha256": "0874d4a136451aa7a41287d617dc9385a71e481ecc58543c0884cc6a26489ee8",
+  "finish_reason": "stop",
+  "latency_s": 7.255022290999477,
+  "prediction": "For the upcoming soccer practice scheduled for Saturday afternoon, the participants have decided to meet at 3 PM. This time slot allows ample opportunity to focus on passing drills for the first hour, followed by additional shooting practice. The participants are excited to work on their skills and have a fun session together.",
+  "prediction_sha256": "1a34c57ee5d717e00f1ccbf74fb431ae01b08d1e1705c7f60cda722f447a46a0",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 362,
+  "usage": {
+    "completion_tokens": 60,
+    "prompt_tokens": 5195,
+    "prompt_tokens_details": null,
+    "total_tokens": 5255
+  }
+}

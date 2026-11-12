@@ -1,0 +1,17 @@
+{
+  "body_sha256": "fcd2e086e4b24abf80e3265556989fd0be9ce700fa2c96732fad80e0753f99ff",
+  "finish_reason": "stop",
+  "latency_s": 7.660494499999913,
+  "prediction": " Evangeline comments on Real Madrid's history in the Champions League by highlighting the club's enduring winning culture. She expresses that the club's mindset of expecting to come back and win even when prospects seem dire is deeply ingrained in everyone at the club. This suggests that Real Madrid has a storied tradition of success in the competition, which the players and fans alike share and contribute to. The belief that they can defy the odds and secure victories under pressure is a significant part of the team's identity and legacy within the Champions League. This history of overcoming challenges and emerging victorious in crucial moments is something that has become a part of the club's DNA, inspiring current and future players to strive for similar triumphs.",
+  "prediction_sha256": "b7ca2d02b6e2fb1c08147850aec4b0b3dcb34bad730207b4b4e08bfd36c6a083",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 359,
+  "usage": {
+    "completion_tokens": 165,
+    "prompt_tokens": 4939,
+    "prompt_tokens_details": null,
+    "total_tokens": 5104
+  }
+}

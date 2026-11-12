@@ -1,0 +1,17 @@
+{
+  "body_sha256": "34c583e67fbf8a8c2f4d46f31342e96d53aec13e69728aab03cc0763209b8709",
+  "finish_reason": "stop",
+  "latency_s": 5.509280250000302,
+  "prediction": " LiHua is the individual who is contemplating the purchase of Sekiro: Shadows Die Twice and seeks ThaneChambers' opinion on the matter. During their conversation, LiHua inquires about the game's worth and whether ThaneChambers would recommend it, given ThaneChambers' expertise and positive portrayal of the game. ThaneChambers responds by praising Sekiro's unique combat system, strategic gameplay, and immersive world design, ultimately affirming that it is indeed a challenging yet rewarding experience deserving of LiHua's time and attention.",
+  "prediction_sha256": "c2c252d12dabf2e698342c112eb465a0a45b1be9bb48bf98a144a9dbe7ffa191",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 200285,
+  "usage": {
+    "completion_tokens": 140,
+    "prompt_tokens": 4472,
+    "prompt_tokens_details": null,
+    "total_tokens": 4612
+  }
+}

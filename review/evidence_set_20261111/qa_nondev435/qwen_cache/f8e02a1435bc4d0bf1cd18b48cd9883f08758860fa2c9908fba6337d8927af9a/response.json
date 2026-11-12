@@ -1,0 +1,17 @@
+{
+  "body_sha256": "f8e02a1435bc4d0bf1cd18b48cd9883f08758860fa2c9908fba6337d8927af9a",
+  "finish_reason": "stop",
+  "latency_s": 7.867608915999881,
+  "prediction": "In the conversations shared, WolfgangSchulz is the one who suggests checking out a concert on March 7th at 6 PM. He mentions, \"Hey! Got an extra ticket for a concert on March 7th at 6 PM. Wanna join me? Would be awesome to catch up and enjoy some live music!\" Therefore, it is WolfgangSchulz who offers to check with others about a live music performance.",
+  "prediction_sha256": "ab04b593ec3a8f8d6216ae0d793efc7c89d230ed7a6b132e9f0456dd20142ff0",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100342,
+  "usage": {
+    "completion_tokens": 88,
+    "prompt_tokens": 4583,
+    "prompt_tokens_details": null,
+    "total_tokens": 4671
+  }
+}

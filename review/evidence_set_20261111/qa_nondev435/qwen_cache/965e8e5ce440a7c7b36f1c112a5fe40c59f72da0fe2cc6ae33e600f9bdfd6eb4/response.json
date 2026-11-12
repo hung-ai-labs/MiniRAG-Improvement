@@ -1,0 +1,17 @@
+{
+  "body_sha256": "965e8e5ce440a7c7b36f1c112a5fe40c59f72da0fe2cc6ae33e600f9bdfd6eb4",
+  "finish_reason": "stop",
+  "latency_s": 23.5210173749947,
+  "prediction": "LiHua mentions \"Detroit: Become Human\" as a game that explores themes of choice, consciousness, and humanity in a particularly thought-provoking manner. This game allows players to experience different perspectives and provides multiple endings that keep players guessing about the impact of their decisions, highlighting the complexities of these themes.",
+  "prediction_sha256": "1f53a9dd6f8d078bfab30cdb806b60ecaef8f0629fb7c8049243f733aa57a469",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100330,
+  "usage": {
+    "completion_tokens": 63,
+    "prompt_tokens": 4274,
+    "prompt_tokens_details": null,
+    "total_tokens": 4337
+  }
+}

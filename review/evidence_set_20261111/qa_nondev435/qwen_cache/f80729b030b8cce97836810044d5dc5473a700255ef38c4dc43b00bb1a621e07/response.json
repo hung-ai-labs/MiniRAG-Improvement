@@ -1,0 +1,17 @@
+{
+  "body_sha256": "f80729b030b8cce97836810044d5dc5473a700255ef38c4dc43b00bb1a621e07",
+  "finish_reason": "stop",
+  "latency_s": 6.66102795900224,
+  "prediction": "From the conversations recorded, Li Hua is looking forward to trying the fruity ice cream and pastry flavors that are part of the summer promotion. Specifically, she mentions that she enjoys anything fruity, particularly mango and coconut, and expresses her excitement to try these options. Additionally, she anticipates trying the chocolate treats as well, indicating a varied interest in the promotion's offerings.",
+  "prediction_sha256": "463d5b6f6bb10537e83e12947ff8df2a2af4c711e906f81f9133bf84385d362a",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100121,
+  "usage": {
+    "completion_tokens": 75,
+    "prompt_tokens": 3845,
+    "prompt_tokens_details": null,
+    "total_tokens": 3920
+  }
+}

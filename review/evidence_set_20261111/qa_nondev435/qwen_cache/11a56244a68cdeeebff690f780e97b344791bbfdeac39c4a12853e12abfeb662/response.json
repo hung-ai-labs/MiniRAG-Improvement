@@ -1,0 +1,17 @@
+{
+  "body_sha256": "11a56244a68cdeeebff690f780e97b344791bbfdeac39c4a12853e12abfeb662",
+  "finish_reason": "stop",
+  "latency_s": 12.50881387499976,
+  "prediction": "For soccer practice, multiple meetings and times are mentioned across different conversations. Jake Watson suggests a practice session focusing on shooting with Li Hua on a Saturday afternoon at 3 PM in the first conversation. In another conversation, Jake Watson proposes hitting the field together for a practice session this weekend, which Li Hua and Jasper both agree to, specifying Saturday afternoon at 4 PM as the ideal time. Additionally, in the third conversation, Jake Watson mentions a practice session scheduled for Saturday at 4 PM, which Li Hua confirms his availability for. These times suggest that the group generally prefers Saturday afternoons for soccer practice sessions.",
+  "prediction_sha256": "d3bc6ba325416858a5a398c6f67d75f2f4b64921f285e3e79966dac68a52e2c6",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200362,
+  "usage": {
+    "completion_tokens": 128,
+    "prompt_tokens": 4205,
+    "prompt_tokens_details": null,
+    "total_tokens": 4333
+  }
+}

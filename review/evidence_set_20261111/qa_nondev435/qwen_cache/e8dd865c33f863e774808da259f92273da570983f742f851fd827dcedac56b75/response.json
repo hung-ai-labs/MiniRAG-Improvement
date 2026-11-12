@@ -1,0 +1,17 @@
+{
+  "body_sha256": "e8dd865c33f863e774808da259f92273da570983f742f851fd827dcedac56b75",
+  "finish_reason": "stop",
+  "latency_s": 4.240057958999387,
+  "prediction": "Chae first suggested visiting the music festival in the morning during a conversation. According to the provided data, this suggestion was made on September 4, 2026, at 10:00 AM. During this conversation, Li Hua and Chae were discussing plans to attend a music festival together, and Chae proposed visiting the festival at this specific time.",
+  "prediction_sha256": "6436ea7820bca60617281987f724279975c447f50641c6afb54f7b3f44ae8177",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100445,
+  "usage": {
+    "completion_tokens": 78,
+    "prompt_tokens": 4825,
+    "prompt_tokens_details": null,
+    "total_tokens": 4903
+  }
+}

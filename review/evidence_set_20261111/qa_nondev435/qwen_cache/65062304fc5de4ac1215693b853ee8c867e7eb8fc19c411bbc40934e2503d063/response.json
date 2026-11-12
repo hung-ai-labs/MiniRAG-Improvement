@@ -1,0 +1,17 @@
+{
+  "body_sha256": "65062304fc5de4ac1215693b853ee8c867e7eb8fc19c411bbc40934e2503d063",
+  "finish_reason": "stop",
+  "latency_s": 4.7476225000027625,
+  "prediction": "In the conversation, Fionnuala highlights the convenience of the Control Center's audio settings adjustment feature. Specifically, she mentions that one can \"adjust audio settings on the fly without having to pause the game.\" This feature makes it very convenient when players are immersed in the action, allowing them to fine-tune their audio preferences seamlessly without interrupting their gameplay experience.",
+  "prediction_sha256": "0429514e13886ae0216cbea49d400940d2d0d56eba12f5a45bd84b9d7f6c96ae",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100251,
+  "usage": {
+    "completion_tokens": 74,
+    "prompt_tokens": 4059,
+    "prompt_tokens_details": null,
+    "total_tokens": 4133
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "5baeae1b41f6a4caba8dbffc0fa7ef30cfb53da30caa7371b6e3feb1b19ec35b",
+  "finish_reason": "stop",
+  "latency_s": 9.053418082999997,
+  "prediction": "For Chinese Lunar New Year, Li Hua plans to enjoy some delicious food and travel to experience local festivities. She also mentions her intention to visit a local festival to soak up the atmosphere and take some photos. Li Hua expresses her appreciation for the opportunity to enjoy various traditional foods, which she believes help bring everyone together during the celebration.",
+  "prediction_sha256": "ee74afb8d22a0929cee778b6799f8da3d10f258e99e470913f18c6e4268a8f73",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100065,
+  "usage": {
+    "completion_tokens": 69,
+    "prompt_tokens": 4461,
+    "prompt_tokens_details": null,
+    "total_tokens": 4530
+  }
+}
