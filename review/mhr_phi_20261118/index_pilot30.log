@@ -1,290 +1,0 @@
-USING 1 API KEY(S)
-USING LLM: minirag-slm
-USING EMBEDDING: local
-USING WORKING DIR: E:\Project\MiniRAG research\MiniRAG-Improvement\review\mhr_phi_20261118\index_source\indexes\multihop_rag-phi-pilot30
-Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
-Loading weights:   0%|          | 0/103 [00:00<?, ?it/s]Loading weights: 100%|██████████| 103/103 [00:00<00:00, 1991.82it/s]
-INFO:nano-vectordb:Init {'embedding_dim': 384, 'metric': 'cosine', 'storage_file': 'E:\\Project\\MiniRAG research\\MiniRAG-Improvement\\review\\mhr_phi_20261118\\index_source\\indexes\\multihop_rag-phi-pilot30\\vdb_entities.json'} 0 data
-INFO:nano-vectordb:Init {'embedding_dim': 384, 'metric': 'cosine', 'storage_file': 'E:\\Project\\MiniRAG research\\MiniRAG-Improvement\\review\\mhr_phi_20261118\\index_source\\indexes\\multihop_rag-phi-pilot30\\vdb_entities_name.json'} 0 data
-INFO:nano-vectordb:Init {'embedding_dim': 384, 'metric': 'cosine', 'storage_file': 'E:\\Project\\MiniRAG research\\MiniRAG-Improvement\\review\\mhr_phi_20261118\\index_source\\indexes\\multihop_rag-phi-pilot30\\vdb_relationships.json'} 0 data
-INFO:nano-vectordb:Init {'embedding_dim': 384, 'metric': 'cosine', 'storage_file': 'E:\\Project\\MiniRAG research\\MiniRAG-Improvement\\review\\mhr_phi_20261118\\index_source\\indexes\\multihop_rag-phi-pilot30\\vdb_chunks.json'} 0 data
-INFO:minirag:Loaded document status storage with 0 records
-INFO:minirag:Stored 8 new unique documents
-INFO:minirag:Number of batches to process: 4
-INFO:minirag:Inserting 2 vectors to chunks
-Generating embeddings:   0%|          | 0/1 [00:00<?, ?batch/s]Generating embeddings: 100%|██████████| 1/1 [00:02<00:00,  2.57s/batch]Generating embeddings: 100%|██████████| 1/1 [00:02<00:00,  2.57s/batch]
-INFO:minirag:Inserting 4 vectors to chunks
-Generating embeddings:   0%|          | 0/1 [00:00<?, ?batch/s]Generating embeddings: 100%|██████████| 1/1 [00:02<00:00,  2.06s/batch]Generating embeddings: 100%|██████████| 1/1 [00:02<00:00,  2.06s/batch]
-INFO:minirag:Inserting 3 vectors to chunks
-Generating embeddings:   0%|          | 0/1 [00:00<?, ?batch/s]Generating embeddings: 100%|██████████| 1/1 [00:01<00:00,  1.75s/batch]Generating embeddings: 100%|██████████| 1/1 [00:01<00:00,  1.75s/batch]
-INFO:minirag:Inserting 2 vectors to chunks
-Generating embeddings:   0%|          | 0/1 [00:00<?, ?batch/s]Generating embeddings: 100%|██████████| 1/1 [00:01<00:00,  1.66s/batch]Generating embeddings: 100%|██████████| 1/1 [00:01<00:00,  1.67s/batch]
-INFO:minirag:Inserting 2 vectors to chunks
-Generating embeddings:   0%|          | 0/1 [00:00<?, ?batch/s]Generating embeddings: 100%|██████████| 1/1 [00:01<00:00,  1.25s/batch]Generating embeddings: 100%|██████████| 1/1 [00:01<00:00,  1.25s/batch]
-INFO:minirag:Inserting 2 vectors to chunks
-Generating embeddings:   0%|          | 0/1 [00:00<?, ?batch/s]Generating embeddings: 100%|██████████| 1/1 [00:01<00:00,  1.25s/batch]Generating embeddings: 100%|██████████| 1/1 [00:01<00:00,  1.26s/batch]
-INFO:minirag:Inserting 2 vectors to chunks
-Generating embeddings:   0%|          | 0/1 [00:00<?, ?batch/s]Generating embeddings: 100%|██████████| 1/1 [00:01<00:00,  1.37s/batch]Generating embeddings: 100%|██████████| 1/1 [00:01<00:00,  1.37s/batch]
-INFO:minirag:Inserting 2 vectors to chunks
-Generating embeddings:   0%|          | 0/1 [00:00<?, ?batch/s]Generating embeddings: 100%|██████████| 1/1 [00:01<00:00,  1.54s/batch]Generating embeddings: 100%|██████████| 1/1 [00:01<00:00,  1.54s/batch]
-INFO:minirag:Document processing pipeline completed
-INFO:minirag:Performing entity extraction on newly processed chunks
-INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-⠙ Processed 1 chunks, 8 entities(duplicated), 5 relations(duplicated)INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-⠹ Processed 2 chunks, 19 entities(duplicated), 16 relations(duplicated)INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-⠸ Processed 3 chunks, 32 entities(duplicated), 26 relations(duplicated)INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-⠼ Processed 4 chunks, 38 entities(duplicated), 29 relations(duplicated)INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-⠴ Processed 5 chunks, 61 entities(duplicated), 42 relations(duplicated)INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-⠦ Processed 6 chunks, 73 entities(duplicated), 48 relations(duplicated)INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-⠧ Processed 7 chunks, 79 entities(duplicated), 54 relations(duplicated)INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-⠇ Processed 8 chunks, 95 entities(duplicated), 69 relations(duplicated)INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-⠏ Processed 9 chunks, 111 entities(duplicated), 89 relations(duplicated)INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-⠋ Processed 10 chunks, 117 entities(duplicated), 95 relations(duplicated)INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-⠙ Processed 11 chunks, 145 entities(duplicated), 112 relations(duplicated)INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-⠹ Processed 12 chunks, 151 entities(duplicated), 118 relations(duplicated)INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-⠸ Processed 13 chunks, 153 entities(duplicated), 118 relations(duplicated)INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-⠼ Processed 14 chunks, 161 entities(duplicated), 125 relations(duplicated)INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-⠴ Processed 15 chunks, 190 entities(duplicated), 139 relations(duplicated)INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-⠦ Processed 16 chunks, 218 entities(duplicated), 147 relations(duplicated)INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-⠧ Processed 17 chunks, 248 entities(duplicated), 147 relations(duplicated)INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-⠇ Processed 18 chunks, 272 entities(duplicated), 154 relations(duplicated)INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-⠏ Processed 19 chunks, 292 entities(duplicated), 177 relations(duplicated)
-INFO:minirag:Inserting 266 vectors to entities
-Generating embeddings:   0%|          | 0/9 [00:00<?, ?batch/s]Generating embeddings:  11%|█         | 1/9 [00:01<00:14,  1.79s/batch]Generating embeddings:  22%|██▏       | 2/9 [00:04<00:14,  2.12s/batch]Generating embeddings:  33%|███▎      | 3/9 [00:06<00:14,  2.42s/batch]Generating embeddings:  44%|████▍     | 4/9 [00:08<00:10,  2.13s/batch]Generating embeddings:  56%|█████▌    | 5/9 [00:10<00:07,  1.95s/batch]Generating embeddings:  67%|██████▋   | 6/9 [00:11<00:05,  1.81s/batch]Generating embeddings:  78%|███████▊  | 7/9 [00:12<00:03,  1.56s/batch]Generating embeddings:  89%|████████▉ | 8/9 [00:14<00:01,  1.57s/batch]Generating embeddings: 100%|██████████| 9/9 [00:15<00:00,  1.29s/batch]Generating embeddings: 100%|██████████| 9/9 [00:15<00:00,  1.68s/batch]
-INFO:minirag:Inserting 266 vectors to entities
-Generating embeddings:   0%|          | 0/9 [00:00<?, ?batch/s]Generating embeddings:  11%|█         | 1/9 [00:01<00:13,  1.69s/batch]Generating embeddings:  22%|██▏       | 2/9 [00:03<00:13,  1.91s/batch]Generating embeddings:  33%|███▎      | 3/9 [00:06<00:13,  2.32s/batch]Generating embeddings:  44%|████▍     | 4/9 [00:08<00:10,  2.08s/batch]Generating embeddings:  56%|█████▌    | 5/9 [00:09<00:07,  1.93s/batch]Generating embeddings:  67%|██████▋   | 6/9 [00:11<00:05,  1.80s/batch]Generating embeddings:  78%|███████▊  | 7/9 [00:12<00:03,  1.56s/batch]Generating embeddings:  89%|████████▉ | 8/9 [00:14<00:01,  1.57s/batch]Generating embeddings: 100%|██████████| 9/9 [00:14<00:00,  1.31s/batch]Generating embeddings: 100%|██████████| 9/9 [00:14<00:00,  1.65s/batch]
-INFO:minirag:Inserting 266 vectors to entities_name
-Generating embeddings:   0%|          | 0/9 [00:00<?, ?batch/s]Generating embeddings:  11%|█         | 1/9 [00:00<00:04,  1.61batch/s]Generating embeddings:  22%|██▏       | 2/9 [00:01<00:04,  1.60batch/s]Generating embeddings:  33%|███▎      | 3/9 [00:01<00:03,  1.54batch/s]Generating embeddings:  44%|████▍     | 4/9 [00:02<00:03,  1.57batch/s]Generating embeddings:  56%|█████▌    | 5/9 [00:03<00:02,  1.63batch/s]Generating embeddings:  67%|██████▋   | 6/9 [00:03<00:01,  1.62batch/s]Generating embeddings:  78%|███████▊  | 7/9 [00:04<00:01,  1.60batch/s]Generating embeddings:  89%|████████▉ | 8/9 [00:05<00:00,  1.56batch/s]Generating embeddings: 100%|██████████| 9/9 [00:05<00:00,  1.66batch/s]Generating embeddings: 100%|██████████| 9/9 [00:05<00:00,  1.61batch/s]
-INFO:minirag:Inserting 173 vectors to relationships
-Generating embeddings:   0%|          | 0/6 [00:00<?, ?batch/s]Generating embeddings:  17%|█▋        | 1/6 [00:01<00:07,  1.40s/batch]Generating embeddings:  33%|███▎      | 2/6 [00:02<00:05,  1.33s/batch]Generating embeddings:  50%|█████     | 3/6 [00:04<00:04,  1.42s/batch]Generating embeddings:  67%|██████▋   | 4/6 [00:06<00:03,  1.94s/batch]Generating embeddings:  83%|████████▎ | 5/6 [00:09<00:01,  1.99s/batch]Generating embeddings: 100%|██████████| 6/6 [00:10<00:00,  1.66s/batch]Generating embeddings: 100%|██████████| 6/6 [00:10<00:00,  1.68s/batch]
-INFO:minirag:Writing graph with 297 nodes, 173 edges
-8/30 docs
-INFO:minirag:Stored 8 new unique documents
-INFO:minirag:Number of batches to process: 4
-INFO:minirag:Inserting 4 vectors to chunks
-Generating embeddings:   0%|          | 0/1 [00:00<?, ?batch/s]Generating embeddings: 100%|██████████| 1/1 [00:01<00:00,  1.98s/batch]Generating embeddings: 100%|██████████| 1/1 [00:01<00:00,  1.98s/batch]
-INFO:minirag:Inserting 2 vectors to chunks
-Generating embeddings:   0%|          | 0/1 [00:00<?, ?batch/s]Generating embeddings: 100%|██████████| 1/1 [00:01<00:00,  1.64s/batch]Generating embeddings: 100%|██████████| 1/1 [00:01<00:00,  1.64s/batch]
-INFO:minirag:Inserting 3 vectors to chunks
-Generating embeddings:   0%|          | 0/1 [00:00<?, ?batch/s]Generating embeddings: 100%|██████████| 1/1 [00:01<00:00,  1.40s/batch]Generating embeddings: 100%|██████████| 1/1 [00:01<00:00,  1.40s/batch]
-INFO:minirag:Inserting 2 vectors to chunks
-Generating embeddings:   0%|          | 0/1 [00:00<?, ?batch/s]Generating embeddings: 100%|██████████| 1/1 [00:01<00:00,  1.07s/batch]Generating embeddings: 100%|██████████| 1/1 [00:01<00:00,  1.07s/batch]
-INFO:minirag:Inserting 2 vectors to chunks
-Generating embeddings:   0%|          | 0/1 [00:00<?, ?batch/s]Generating embeddings: 100%|██████████| 1/1 [00:01<00:00,  1.05s/batch]Generating embeddings: 100%|██████████| 1/1 [00:01<00:00,  1.05s/batch]
-INFO:minirag:Inserting 2 vectors to chunks
-Generating embeddings:   0%|          | 0/1 [00:00<?, ?batch/s]Generating embeddings: 100%|██████████| 1/1 [00:01<00:00,  1.33s/batch]Generating embeddings: 100%|██████████| 1/1 [00:01<00:00,  1.33s/batch]
-INFO:minirag:Inserting 2 vectors to chunks
-Generating embeddings:   0%|          | 0/1 [00:00<?, ?batch/s]Generating embeddings: 100%|██████████| 1/1 [00:01<00:00,  1.26s/batch]Generating embeddings: 100%|██████████| 1/1 [00:01<00:00,  1.26s/batch]
-INFO:minirag:Inserting 2 vectors to chunks
-Generating embeddings:   0%|          | 0/1 [00:00<?, ?batch/s]Generating embeddings: 100%|██████████| 1/1 [00:01<00:00,  1.04s/batch]Generating embeddings: 100%|██████████| 1/1 [00:01<00:00,  1.04s/batch]
-INFO:minirag:Document processing pipeline completed
-INFO:minirag:Skipping 19 chunks already extracted
-INFO:minirag:Performing entity extraction on newly processed chunks
-INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-⠙ Processed 1 chunks, 4 entities(duplicated), 3 relations(duplicated)INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-⠹ Processed 2 chunks, 15 entities(duplicated), 11 relations(duplicated)INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-⠸ Processed 3 chunks, 31 entities(duplicated), 24 relations(duplicated)INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-⠼ Processed 4 chunks, 47 entities(duplicated), 39 relations(duplicated)INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-⠴ Processed 5 chunks, 61 entities(duplicated), 50 relations(duplicated)INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-⠦ Processed 6 chunks, 93 entities(duplicated), 56 relations(duplicated)INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-⠧ Processed 7 chunks, 128 entities(duplicated), 56 relations(duplicated)INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-⠇ Processed 8 chunks, 128 entities(duplicated), 57 relations(duplicated)INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-⠏ Processed 9 chunks, 135 entities(duplicated), 58 relations(duplicated)INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-⠋ Processed 10 chunks, 145 entities(duplicated), 67 relations(duplicated)INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-⠙ Processed 11 chunks, 158 entities(duplicated), 75 relations(duplicated)INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-⠹ Processed 12 chunks, 175 entities(duplicated), 85 relations(duplicated)INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-⠸ Processed 13 chunks, 190 entities(duplicated), 90 relations(duplicated)INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-⠼ Processed 14 chunks, 207 entities(duplicated), 103 relations(duplicated)INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-⠴ Processed 15 chunks, 262 entities(duplicated), 131 relations(duplicated)INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-⠦ Processed 16 chunks, 279 entities(duplicated), 134 relations(duplicated)INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-⠧ Processed 17 chunks, 346 entities(duplicated), 149 relations(duplicated)INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-⠇ Processed 18 chunks, 358 entities(duplicated), 159 relations(duplicated)INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-⠏ Processed 19 chunks, 377 entities(duplicated), 169 relations(duplicated)
-INFO:minirag:Inserting 344 vectors to entities
-Generating embeddings:   0%|          | 0/11 [00:00<?, ?batch/s]Generating embeddings:   9%|▉         | 1/11 [00:02<00:26,  2.62s/batch]Generating embeddings:  18%|█▊        | 2/11 [00:03<00:16,  1.88s/batch]Generating embeddings:  27%|██▋       | 3/11 [00:06<00:15,  1.99s/batch]Generating embeddings:  36%|███▋      | 4/11 [00:08<00:13,  1.98s/batch]Generating embeddings:  45%|████▌     | 5/11 [00:09<00:11,  1.94s/batch]Generating embeddings:  55%|█████▍    | 6/11 [00:11<00:08,  1.76s/batch]Generating embeddings:  64%|██████▎   | 7/11 [00:13<00:06,  1.74s/batch]Generating embeddings:  73%|███████▎  | 8/11 [00:14<00:05,  1.77s/batch]Generating embeddings:  82%|████████▏ | 9/11 [00:16<00:03,  1.73s/batch]Generating embeddings:  91%|█████████ | 10/11 [00:18<00:01,  1.67s/batch]Generating embeddings: 100%|██████████| 11/11 [00:19<00:00,  1.57s/batch]Generating embeddings: 100%|██████████| 11/11 [00:19<00:00,  1.77s/batch]
-INFO:minirag:Inserting 344 vectors to entities
-Generating embeddings:   0%|          | 0/11 [00:00<?, ?batch/s]Generating embeddings:   9%|▉         | 1/11 [00:02<00:23,  2.39s/batch]Generating embeddings:  18%|█▊        | 2/11 [00:03<00:15,  1.76s/batch]Generating embeddings:  27%|██▋       | 3/11 [00:05<00:15,  2.00s/batch]Generating embeddings:  36%|███▋      | 4/11 [00:08<00:14,  2.04s/batch]Generating embeddings:  45%|████▌     | 5/11 [00:10<00:12,  2.09s/batch]Generating embeddings:  55%|█████▍    | 6/11 [00:11<00:09,  1.90s/batch]Generating embeddings:  64%|██████▎   | 7/11 [00:13<00:07,  1.83s/batch]Generating embeddings:  73%|███████▎  | 8/11 [00:15<00:05,  1.84s/batch]Generating embeddings:  82%|████████▏ | 9/11 [00:17<00:03,  1.78s/batch]Generating embeddings:  91%|█████████ | 10/11 [00:18<00:01,  1.71s/batch]Generating embeddings: 100%|██████████| 11/11 [00:20<00:00,  1.63s/batch]Generating embeddings: 100%|██████████| 11/11 [00:20<00:00,  1.82s/batch]
-INFO:minirag:Inserting 344 vectors to entities_name
-Generating embeddings:   0%|          | 0/11 [00:00<?, ?batch/s]Generating embeddings:   9%|▉         | 1/11 [00:00<00:06,  1.59batch/s]Generating embeddings:  18%|█▊        | 2/11 [00:01<00:05,  1.56batch/s]Generating embeddings:  27%|██▋       | 3/11 [00:01<00:05,  1.52batch/s]Generating embeddings:  36%|███▋      | 4/11 [00:02<00:04,  1.53batch/s]Generating embeddings:  45%|████▌     | 5/11 [00:03<00:03,  1.59batch/s]Generating embeddings:  55%|█████▍    | 6/11 [00:03<00:03,  1.58batch/s]Generating embeddings:  64%|██████▎   | 7/11 [00:04<00:02,  1.58batch/s]Generating embeddings:  73%|███████▎  | 8/11 [00:05<00:01,  1.54batch/s]Generating embeddings:  82%|████████▏ | 9/11 [00:05<00:01,  1.54batch/s]Generating embeddings:  91%|█████████ | 10/11 [00:06<00:00,  1.59batch/s]Generating embeddings: 100%|██████████| 11/11 [00:06<00:00,  1.65batch/s]Generating embeddings: 100%|██████████| 11/11 [00:06<00:00,  1.58batch/s]
-INFO:minirag:Inserting 163 vectors to relationships
-Generating embeddings:   0%|          | 0/6 [00:00<?, ?batch/s]Generating embeddings:  17%|█▋        | 1/6 [00:01<00:07,  1.47s/batch]Generating embeddings:  33%|███▎      | 2/6 [00:03<00:06,  1.63s/batch]Generating embeddings:  50%|█████     | 3/6 [00:04<00:05,  1.69s/batch]Generating embeddings:  67%|██████▋   | 4/6 [00:06<00:03,  1.71s/batch]Generating embeddings:  83%|████████▎ | 5/6 [00:09<00:02,  2.01s/batch]Generating embeddings: 100%|██████████| 6/6 [00:09<00:00,  1.51s/batch]Generating embeddings: 100%|██████████| 6/6 [00:09<00:00,  1.64s/batch]
-INFO:minirag:Writing graph with 648 nodes, 335 edges
-16/30 docs
-INFO:minirag:Stored 8 new unique documents
-INFO:minirag:Number of batches to process: 4
-INFO:minirag:Inserting 2 vectors to chunks
-Generating embeddings:   0%|          | 0/1 [00:00<?, ?batch/s]Generating embeddings: 100%|██████████| 1/1 [00:01<00:00,  1.00s/batch]Generating embeddings: 100%|██████████| 1/1 [00:01<00:00,  1.00s/batch]
-INFO:minirag:Inserting 2 vectors to chunks
-Generating embeddings:   0%|          | 0/1 [00:00<?, ?batch/s]Generating embeddings: 100%|██████████| 1/1 [00:01<00:00,  1.02s/batch]Generating embeddings: 100%|██████████| 1/1 [00:01<00:00,  1.02s/batch]
-INFO:minirag:Inserting 2 vectors to chunks
-Generating embeddings:   0%|          | 0/1 [00:00<?, ?batch/s]Generating embeddings: 100%|██████████| 1/1 [00:01<00:00,  1.30s/batch]Generating embeddings: 100%|██████████| 1/1 [00:01<00:00,  1.30s/batch]
-INFO:minirag:Inserting 2 vectors to chunks
-Generating embeddings:   0%|          | 0/1 [00:00<?, ?batch/s]Generating embeddings: 100%|██████████| 1/1 [00:01<00:00,  1.35s/batch]Generating embeddings: 100%|██████████| 1/1 [00:01<00:00,  1.35s/batch]
-INFO:minirag:Inserting 2 vectors to chunks
-Generating embeddings:   0%|          | 0/1 [00:00<?, ?batch/s]Generating embeddings: 100%|██████████| 1/1 [00:01<00:00,  1.04s/batch]Generating embeddings: 100%|██████████| 1/1 [00:01<00:00,  1.04s/batch]
-INFO:minirag:Inserting 2 vectors to chunks
-Generating embeddings:   0%|          | 0/1 [00:00<?, ?batch/s]Generating embeddings: 100%|██████████| 1/1 [00:01<00:00,  1.02s/batch]Generating embeddings: 100%|██████████| 1/1 [00:01<00:00,  1.02s/batch]
-INFO:minirag:Inserting 2 vectors to chunks
-Generating embeddings:   0%|          | 0/1 [00:00<?, ?batch/s]Generating embeddings: 100%|██████████| 1/1 [00:01<00:00,  1.04s/batch]Generating embeddings: 100%|██████████| 1/1 [00:01<00:00,  1.04s/batch]
-INFO:minirag:Inserting 2 vectors to chunks
-Generating embeddings:   0%|          | 0/1 [00:00<?, ?batch/s]Generating embeddings: 100%|██████████| 1/1 [00:01<00:00,  1.27s/batch]Generating embeddings: 100%|██████████| 1/1 [00:01<00:00,  1.27s/batch]
-INFO:minirag:Document processing pipeline completed
-INFO:minirag:Skipping 38 chunks already extracted
-INFO:minirag:Performing entity extraction on newly processed chunks
-INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-⠙ Processed 1 chunks, 4 entities(duplicated), 3 relations(duplicated)INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-⠹ Processed 2 chunks, 11 entities(duplicated), 8 relations(duplicated)INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-⠸ Processed 3 chunks, 20 entities(duplicated), 14 relations(duplicated)INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-⠼ Processed 4 chunks, 31 entities(duplicated), 17 relations(duplicated)INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-⠴ Processed 5 chunks, 42 entities(duplicated), 27 relations(duplicated)INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-⠦ Processed 6 chunks, 53 entities(duplicated), 36 relations(duplicated)INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-⠧ Processed 7 chunks, 70 entities(duplicated), 46 relations(duplicated)INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-⠇ Processed 8 chunks, 77 entities(duplicated), 50 relations(duplicated)INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-⠏ Processed 9 chunks, 96 entities(duplicated), 62 relations(duplicated)INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-⠋ Processed 10 chunks, 100 entities(duplicated), 64 relations(duplicated)INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-⠙ Processed 11 chunks, 112 entities(duplicated), 73 relations(duplicated)INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-⠹ Processed 12 chunks, 127 entities(duplicated), 85 relations(duplicated)INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-⠸ Processed 13 chunks, 143 entities(duplicated), 99 relations(duplicated)INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-⠼ Processed 14 chunks, 159 entities(duplicated), 110 relations(duplicated)INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-⠴ Processed 15 chunks, 168 entities(duplicated), 117 relations(duplicated)INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-⠦ Processed 16 chunks, 185 entities(duplicated), 127 relations(duplicated)
-INFO:minirag:Inserting 168 vectors to entities
-Generating embeddings:   0%|          | 0/6 [00:00<?, ?batch/s]Generating embeddings:  17%|█▋        | 1/6 [00:02<00:11,  2.25s/batch]Generating embeddings:  33%|███▎      | 2/6 [00:06<00:12,  3.19s/batch]Generating embeddings:  50%|█████     | 3/6 [00:09<00:09,  3.11s/batch]Generating embeddings:  67%|██████▋   | 4/6 [00:10<00:05,  2.55s/batch]Generating embeddings:  83%|████████▎ | 5/6 [00:12<00:02,  2.17s/batch]Generating embeddings: 100%|██████████| 6/6 [00:12<00:00,  1.63s/batch]Generating embeddings: 100%|██████████| 6/6 [00:12<00:00,  2.15s/batch]
-INFO:minirag:Inserting 168 vectors to entities
-Generating embeddings:   0%|          | 0/6 [00:00<?, ?batch/s]Generating embeddings:  17%|█▋        | 1/6 [00:01<00:09,  1.96s/batch]Generating embeddings:  33%|███▎      | 2/6 [00:05<00:12,  3.06s/batch]Generating embeddings:  50%|█████     | 3/6 [00:08<00:09,  3.03s/batch]Generating embeddings:  67%|██████▋   | 4/6 [00:10<00:05,  2.51s/batch]Generating embeddings:  83%|████████▎ | 5/6 [00:11<00:02,  2.13s/batch]Generating embeddings: 100%|██████████| 6/6 [00:12<00:00,  1.61s/batch]Generating embeddings: 100%|██████████| 6/6 [00:12<00:00,  2.09s/batch]
-INFO:minirag:Inserting 168 vectors to entities_name
-Generating embeddings:   0%|          | 0/6 [00:00<?, ?batch/s]Generating embeddings:  17%|█▋        | 1/6 [00:00<00:03,  1.55batch/s]Generating embeddings:  33%|███▎      | 2/6 [00:01<00:02,  1.59batch/s]Generating embeddings:  50%|█████     | 3/6 [00:02<00:02,  1.43batch/s]Generating embeddings:  67%|██████▋   | 4/6 [00:02<00:01,  1.45batch/s]Generating embeddings:  83%|████████▎ | 5/6 [00:03<00:00,  1.49batch/s]Generating embeddings: 100%|██████████| 6/6 [00:03<00:00,  1.80batch/s]Generating embeddings: 100%|██████████| 6/6 [00:03<00:00,  1.62batch/s]
-INFO:minirag:Inserting 123 vectors to relationships
-Generating embeddings:   0%|          | 0/4 [00:00<?, ?batch/s]Generating embeddings:  25%|██▌       | 1/4 [00:01<00:05,  1.70s/batch]Generating embeddings:  50%|█████     | 2/4 [00:03<00:03,  1.62s/batch]Generating embeddings:  75%|███████▌  | 3/4 [00:05<00:01,  1.69s/batch]Generating embeddings: 100%|██████████| 4/4 [00:06<00:00,  1.58s/batch]Generating embeddings: 100%|██████████| 4/4 [00:06<00:00,  1.61s/batch]
-INFO:minirag:Writing graph with 826 nodes, 458 edges
-24/30 docs
-INFO:minirag:Stored 6 new unique documents
-INFO:minirag:Number of batches to process: 3
-INFO:minirag:Inserting 2 vectors to chunks
-Generating embeddings:   0%|          | 0/1 [00:00<?, ?batch/s]Generating embeddings: 100%|██████████| 1/1 [00:01<00:00,  1.01s/batch]Generating embeddings: 100%|██████████| 1/1 [00:01<00:00,  1.01s/batch]
-INFO:minirag:Inserting 3 vectors to chunks
-Generating embeddings:   0%|          | 0/1 [00:00<?, ?batch/s]Generating embeddings: 100%|██████████| 1/1 [00:01<00:00,  1.58s/batch]Generating embeddings: 100%|██████████| 1/1 [00:01<00:00,  1.58s/batch]
-INFO:minirag:Inserting 2 vectors to chunks
-Generating embeddings:   0%|          | 0/1 [00:00<?, ?batch/s]Generating embeddings: 100%|██████████| 1/1 [00:01<00:00,  1.58s/batch]Generating embeddings: 100%|██████████| 1/1 [00:01<00:00,  1.58s/batch]
-INFO:minirag:Inserting 2 vectors to chunks
-Generating embeddings:   0%|          | 0/1 [00:00<?, ?batch/s]Generating embeddings: 100%|██████████| 1/1 [00:01<00:00,  1.05s/batch]Generating embeddings: 100%|██████████| 1/1 [00:01<00:00,  1.05s/batch]
-INFO:minirag:Inserting 4 vectors to chunks
-Generating embeddings:   0%|          | 0/1 [00:00<?, ?batch/s]Generating embeddings: 100%|██████████| 1/1 [00:01<00:00,  1.62s/batch]Generating embeddings: 100%|██████████| 1/1 [00:01<00:00,  1.62s/batch]
-INFO:minirag:Inserting 2 vectors to chunks
-Generating embeddings:   0%|          | 0/1 [00:00<?, ?batch/s]Generating embeddings: 100%|██████████| 1/1 [00:01<00:00,  1.03s/batch]Generating embeddings: 100%|██████████| 1/1 [00:01<00:00,  1.04s/batch]
-INFO:minirag:Document processing pipeline completed
-INFO:minirag:Skipping 54 chunks already extracted
-INFO:minirag:Performing entity extraction on newly processed chunks
-INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-⠙ Processed 1 chunks, 8 entities(duplicated), 7 relations(duplicated)INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-⠹ Processed 2 chunks, 19 entities(duplicated), 15 relations(duplicated)INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-⠸ Processed 3 chunks, 34 entities(duplicated), 19 relations(duplicated)INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-⠼ Processed 4 chunks, 49 entities(duplicated), 28 relations(duplicated)INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-⠴ Processed 5 chunks, 62 entities(duplicated), 39 relations(duplicated)INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-⠦ Processed 6 chunks, 73 entities(duplicated), 44 relations(duplicated)INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-⠧ Processed 7 chunks, 93 entities(duplicated), 60 relations(duplicated)INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-⠇ Processed 8 chunks, 96 entities(duplicated), 62 relations(duplicated)INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-⠏ Processed 9 chunks, 109 entities(duplicated), 74 relations(duplicated)INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-⠋ Processed 10 chunks, 123 entities(duplicated), 79 relations(duplicated)INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-⠙ Processed 11 chunks, 134 entities(duplicated), 87 relations(duplicated)INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-⠹ Processed 12 chunks, 158 entities(duplicated), 91 relations(duplicated)INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-⠸ Processed 13 chunks, 174 entities(duplicated), 105 relations(duplicated)INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-⠼ Processed 14 chunks, 191 entities(duplicated), 121 relations(duplicated)INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-INFO:httpx2:HTTP Request: POST https://nguyenhuuanhtai426--minirag-slm-phi-ropefix-serve.us-east.modal.run/v1/chat/completions "HTTP/1.1 200 OK"
-⠴ Processed 15 chunks, 205 entities(duplicated), 134 relations(duplicated)
-INFO:minirag:Inserting 185 vectors to entities
-Generating embeddings:   0%|          | 0/6 [00:00<?, ?batch/s]Generating embeddings:  17%|█▋        | 1/6 [00:01<00:07,  1.58s/batch]Generating embeddings:  33%|███▎      | 2/6 [00:03<00:08,  2.00s/batch]Generating embeddings:  50%|█████     | 3/6 [00:05<00:05,  1.87s/batch]Generating embeddings:  67%|██████▋   | 4/6 [00:07<00:03,  1.76s/batch]Generating embeddings:  83%|████████▎ | 5/6 [00:08<00:01,  1.77s/batch]Generating embeddings: 100%|██████████| 6/6 [00:10<00:00,  1.56s/batch]Generating embeddings: 100%|██████████| 6/6 [00:10<00:00,  1.69s/batch]
-INFO:minirag:Inserting 185 vectors to entities
-Generating embeddings:   0%|          | 0/6 [00:00<?, ?batch/s]Generating embeddings:  17%|█▋        | 1/6 [00:01<00:07,  1.49s/batch]Generating embeddings:  33%|███▎      | 2/6 [00:03<00:06,  1.56s/batch]Generating embeddings:  50%|█████     | 3/6 [00:04<00:04,  1.61s/batch]Generating embeddings:  67%|██████▋   | 4/6 [00:06<00:03,  1.60s/batch]Generating embeddings:  83%|████████▎ | 5/6 [00:08<00:01,  1.66s/batch]Generating embeddings: 100%|██████████| 6/6 [00:09<00:00,  1.49s/batch]Generating embeddings: 100%|██████████| 6/6 [00:09<00:00,  1.55s/batch]
-INFO:minirag:Inserting 185 vectors to entities_name
-Generating embeddings:   0%|          | 0/6 [00:00<?, ?batch/s]Generating embeddings:  17%|█▋        | 1/6 [00:00<00:03,  1.52batch/s]Generating embeddings:  33%|███▎      | 2/6 [00:01<00:02,  1.57batch/s]Generating embeddings:  50%|█████     | 3/6 [00:01<00:01,  1.52batch/s]Generating embeddings:  67%|██████▋   | 4/6 [00:02<00:01,  1.53batch/s]Generating embeddings:  83%|████████▎ | 5/6 [00:03<00:00,  1.56batch/s]Generating embeddings: 100%|██████████| 6/6 [00:03<00:00,  1.63batch/s]Generating embeddings: 100%|██████████| 6/6 [00:03<00:00,  1.58batch/s]
-INFO:minirag:Inserting 132 vectors to relationships
-Generating embeddings:   0%|          | 0/5 [00:00<?, ?batch/s]Generating embeddings:  20%|██        | 1/5 [00:01<00:06,  1.51s/batch]Generating embeddings:  40%|████      | 2/5 [00:04<00:06,  2.30s/batch]Generating embeddings:  60%|██████    | 3/5 [00:06<00:04,  2.08s/batch]Generating embeddings:  80%|████████  | 4/5 [00:07<00:01,  1.95s/batch]Generating embeddings: 100%|██████████| 5/5 [00:08<00:00,  1.46s/batch]Generating embeddings: 100%|██████████| 5/5 [00:08<00:00,  1.70s/batch]
-INFO:minirag:Writing graph with 1033 nodes, 590 edges
-30/30 docs
-{
-  "status": "completed",
-  "verification": {
-    "all_docs_processed": true,
-    "chunks_match_expected": true,
-    "chunks_point_to_their_doc": true,
-    "chunk_vectors_match_chunks": true,
-    "every_chunk_extracted": true,
-    "graph_sources_exist": true
-  },
-  "counts": {
-    "docs": 30,
-    "chunks": 69,
-    "nodes": 1033,
-    "edges": 590,
-    "chunks_without_graph_source": 0
-  }
-}

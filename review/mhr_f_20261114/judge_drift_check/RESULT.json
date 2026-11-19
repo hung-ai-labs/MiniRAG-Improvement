@@ -1,0 +1,10 @@
+{
+  "purpose": "C0/ST verdicts were judged 2026-11-12..14, F verdicts 2026-11-14..15. Check that the judge (gemini-3.5-flash-lite, same prompt, 3 passes) did not drift between those dates.",
+  "sample": "200 C0 seed-101 test answers, random.Random(13).sample over test.csv order, re-judged 2026-11-15 13:40-13:55",
+  "majority_agreement": "193/200 (96.5%)",
+  "accurate": {"old": 118, "new": 119},
+  "error": {"old": 53, "new": 52},
+  "neither": {"old": 28, "new": 29},
+  "flips_old_to_new": {"error->accurate": 2, "accurate->error": 1, "neither->error": 1, "accurate->neither": 1, "error->neither": 1, "no_majority->accurate": 1},
+  "conclusion": "No systematic drift: net ACC change +1/200 (+0.5 pp), flips in both directions; far below the seed-101 F vs ST difference (+5.15 pp)."
+}

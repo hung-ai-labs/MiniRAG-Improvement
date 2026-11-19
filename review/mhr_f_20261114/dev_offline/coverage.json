@@ -1,0 +1,42 @@
+{
+  "labelled": 353,
+  "tolerance_questions": 8,
+  "table": {
+    "native@30": {
+      "full_evidence": 112,
+      "size_median": 30.0,
+      "size_max": 30
+    },
+    "native@45": {
+      "full_evidence": 127,
+      "size_median": 45.0,
+      "size_max": 45
+    },
+    "native@60": {
+      "full_evidence": 130,
+      "size_median": 60.0,
+      "size_max": 60
+    },
+    "native@90": {
+      "full_evidence": 138,
+      "size_median": 90.0,
+      "size_max": 90
+    },
+    "native@120": {
+      "full_evidence": 147,
+      "size_median": 120.0,
+      "size_max": 120
+    },
+    "native@all": {
+      "full_evidence": 158,
+      "size_median": 210.5,
+      "size_max": 310
+    },
+    "all+dense30": {
+      "full_evidence": 268,
+      "size_median": 225.0,
+      "size_max": 324
+    }
+  },
+  "chosen_pool": "native@all"
+}

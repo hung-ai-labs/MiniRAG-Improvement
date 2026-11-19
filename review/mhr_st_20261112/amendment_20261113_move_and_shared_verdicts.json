@@ -1,0 +1,16 @@
+{
+  "date": "2026-11-13",
+  "authorization": "User asked to finish judging C0 + ST with gemini-3.5-flash-lite and move the results into MiniRAG-Improvement.",
+  "move": {
+    "from": "MiniRAG/runs/multihop_rag/st_20261112",
+    "to": "MiniRAG-Improvement/review/mhr_st_20261112",
+    "left_behind": "snapshots/ (dev worker index copies, 1.8 GB)",
+    "copied": [
+      "MiniRAG/indexes/multihop_rag-qwen-full609 -> MultiHop-RAG-qwen-full609 (sha256 verified)",
+      "dataset/MultiHop-RAG (processed, splits, raw)",
+      "x20-x20/work/phase3/test_run/qa/s*/C0_s*/{answers,context,requests}.jsonl -> archive_c0/"
+    ]
+  },
+  "judge_change": "ST answers identical to the C0 answer (same query, same seed) share C0 verdicts instead of being judged again; only differing ST answers are judged. Unchanged: judge model, prompt, label contract, passes, C0 judging.",
+  "state_before": "C0_s101 judge journal 6263 records (6259 ok slots); nothing else judged."
+}
