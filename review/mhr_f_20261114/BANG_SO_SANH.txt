@@ -1,0 +1,29 @@
+MultiHopRAG: C0 vs +ST vs +F
+Qwen2.5-3B | Judge: gemini-3.5-flash-lite
+2,156 questions; 3 generation seeds; 3 judge passes per answer.
+ACC/ERR/Neither use majority labels; +/- is SD between generation seeds.
+
+| Configuration | ACC mean +/- SD | ERR | Neither | No majority | Evidence recall (micro) | Full evidence |
+|---|---:|---:|---:|---:|---:|---:|
+| C0 | 57.90 +/- 0.26 | 29.70 | 12.29 | 0.11 | 0.168 | 3.3% |
+| C0 + ST | 58.91 +/- 0.64 | 29.50 | 11.49 | 0.11 | 0.221 | 6.0% |
+| C0 + ST + F | 63.81 +/- 1.03 | 28.11 | 7.93 | 0.15 | 0.319 | 9.6% |
+
+F vs ST:
+| Seed | Delta ACC (pp) | Wrong -> correct | Correct -> wrong | Exact McNemar p |
+|---|---:|---:|---:|---:|
+| 101 | +5.15 | 381 | 270 | 1.5529e-05 |
+| 202 | +6.22 | 372 | 238 | 6.44578e-08 |
+| 303 | +3.34 | 333 | 261 | 0.00354277 |
+
+F vs C0:
+| Seed | Delta ACC (pp) | Wrong -> correct | Correct -> wrong | Exact McNemar p |
+|---|---:|---:|---:|---:|
+| 101 | +6.45 | 407 | 268 | 9.83518e-08 |
+| 202 | +6.77 | 391 | 245 | 7.73008e-09 |
+| 303 | +4.50 | 351 | 254 | 9.20378e-05 |
+
+F over ST: positive and significant in all three seeds.
+
+Subgroups, verdict origins and judge variation: RESULTS.json.
+Frozen index checksums verified unchanged.

@@ -1,0 +1,59 @@
+rule-based contains-match ACC (all 2156):
+  C0: 41.88
+  ST: 41.74
+  F: 43.18
+  excluding null (1902): {'C0': 39.48, 'ST': 39.33, 'F': 40.8}
+  McNemar F vs ST: +204 / -173  p=0.12
+  McNemar F vs C0: +209 / -181  p=0.17
+  McNemar ST vs C0: +28 / -31  p=0.79
+  C0: judge-vs-rule agreement 1427/2156 = 66.2%
+  ST: judge-vs-rule agreement 1430/2156 = 66.3%
+  F: judge-vs-rule agreement 1394/2156 = 64.7%
+  C0: Fleiss kappa 3 passes = 0.912 (N=2156); unanimous 1998/2156
+  ST: Fleiss kappa 3 passes = 0.916 (N=2156); unanimous 2007/2156
+  F: Fleiss kappa 3 passes = 0.902 (N=2156); unanimous 1996/2156
+
+=== disagreement breakdown (F) by type: judge_acc&rule_miss / judge_not&rule_hit
+[(('comparison', 'J+R-'), 344), (('comparison', 'J-R+'), 13), (('inference', 'J+R-'), 11), (('inference', 'J-R+'), 54), (('null', 'J+R-'), 31), (('null', 'J-R+'), 55), (('temporal', 'J+R-'), 224), (('temporal', 'J-R+'), 30)]
+
+=== F gains by judge over ST (ST not accurate, F accurate): rule says
+381 rule F hit 185 rule ST hit 90
+--- comparison | GOLD: no | ST judge: error
+Q: Does the 'Fortune' article claim that Sam Bankman-Fried used Caroline Ellison as a front for properly managing customer funds at Alameda Research align with the 'TechCrunch' article's allegation that 
+ST: Based on the information provided, it appears that the 'TechCrunch' article claims Sam Bankman-Fried committed fraud for personal gain, which contrasts with the portrayals in the 'Fortune' article and 'The Verge' article. The 'Fortune' article discusses allegations regarding customer funds at Alamed
+F : Based on the information provided, neither the 'Fortune' nor the 'TechCrunch' articles explicitly align with the allegations presented in the 'The Verge' article regarding Sam Bankman-Fried's actions.   The 'The Verge' articles present contrasting portrayals of Sam Bankman-Fried. One article suggest
+--- comparison | GOLD: Yes | ST judge: error
+Q: Does the article from Fortune suggest that Sam Bankman-Fried had secret access to FTX customers' money through Alameda Research, while the report from Cnbc | World Business News Leader indicates that 
+ST: Both articles highlight significant concerns about the relationship between FTX and Alameda Research, suggesting that there were risks to FTX customers' funds that went unaddressed. According to the Fortune article, it seems that there was a concern about the risk to FTX customers' funds, but it doe
+F : According to the article from Fortune, there is evidence suggesting that Sam Bankman-Fried had secret access to FTX customers' money through Alameda Research. Specifically, the report mentions that Alameda Research had a $65 billion line of credit that was not visible to auditors and was primarily u
+--- inference | GOLD: Bettors | ST judge: error
+Q: Who, according to articles in Sporting News, stand to make a profit by predicting outcomes such as a team's lead at the end of a quarter or the total points scored, and can also capitalize on event hy
+ST: Based on the information provided in the articles, it appears that the type of bets being discussed involve predicting outcomes related to specific events during a game, such as a team's lead at the end of a quarter or the total points scored in a quarter. These types of bets are commonly referred t
+F : According to the article titled "Prop Betting - What is a Prop Bet?" published on Sporting News on November 6, 2023, betting on prop bets can indeed provide opportunities to make a profit by predicting outcomes such as a team's lead at the end of a quarter or the total points scored in a game. Addit
+--- temporal | GOLD: Yes | ST judge: neither
+Q: After the Polygon report on the Steam Deck hardware updates published at 18:00:00 on November 9, 2023, and the Engadget review of the Steam Deck OLED published at 18:00:38 on the same day, was there a
+ST: Based on the information provided, there is no explicit mention of whether Polygon and Engadget agreed on the immediate availability of the Steam Deck OLED units from Valve. Both sources reported that the Steam Deck OLED would be available on November 16th at 1 PM ET, with units ready to ship on the
+F : Based on the information provided, there is no explicit mention of whether Polygon and Engadget agreed on the immediate availability of the Steam Deck OLED units from Valve. Both sources reported that the Steam Deck OLED would be available on November 16th at 1 PM ET, with units ready to ship on the
+--- comparison | GOLD: Yes | ST judge: error
+Q: Do both TechCrunch articles suggest that social media companies, including Twitter (now called X), are facing changes in content moderation policies, with one discussing state laws restricting social 
+ST: Both articles highlight significant shifts in the landscape of social media content moderation, though they frame these developments from different angles. The article titled "Why Mozilla is betting on a decentralized social networking future" underscores the broader trend towards decentralization a
+F : Both articles highlight significant shifts in content moderation policies within the social media ecosystem, albeit from different angles. The first article, "What’s at stake in the Supreme Court’s landmark social media case," delves into the legal battles surrounding state laws in Florida and Texas
+--- temporal | GOLD: Yes | ST judge: error
+Q: Has the explanation of betting terms by the 'Sporting News' to bettors regarding what positive betting odds indicate and the definition of an "over" bet in totals betting remained consistent between t
+ST: The provided content includes two distinct articles published by 'Sporting News', one on 2023-10-02 and another on 2023-11-01, focusing on different aspects of sports betting. Specifically, the 2023-10-02 article delves into the details of over/under bets in the context of American football, while t
+F : Based on the information provided in the articles dated October 2, 2023, and November 1, 2023, there does not appear to be a significant difference in the definitions and explanations of betting terms and concepts related to totals betting. Specifically, regarding positive betting odds, the article 
+
+=== subsets
+yes/no 1131 entity 771 null 254
+  entity C0: rule 77.04  judge 69.00
+  entity ST: rule 76.65  judge 69.91
+  entity F: rule 82.62  judge 77.95
+  entity rule F vs ST +97/-51 p=0.00019
+  entity judge F vs ST +128/-66 p=1e-05
+  entity judge-vs-rule agreement F 677 / 771
+  yes/no C0: rule 13.88  judge 51.99
+  yes/no ST: rule 13.88  judge 53.85
+  yes/no F: rule 12.29  judge 58.09
+  yes/no rule F vs ST +60/-78 p=0.15
+  yes/no judge F vs ST +209/-161 p=0.014
+  yes/no judge-vs-rule agreement F 549 / 1131

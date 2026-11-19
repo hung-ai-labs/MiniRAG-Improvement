@@ -1,0 +1,20 @@
+{
+  "questions": 400,
+  "statuses": {
+    "ok": 400
+  },
+  "retrieval_log_records": 400,
+  "llm_calls": 0,
+  "worker_exit_codes": [
+    0,
+    0,
+    0
+  ],
+  "kw_cache_only": true,
+  "keyword_sha256": "adc0b2d92afcd5f07cd446677bce7d0d14589c69388904bf135848d2b59b8238",
+  "files_sha256": {
+    "contexts.jsonl": "70aaf7fc06103472e773966186004fefc28ed471dc936bd8c902c77abe20fed5",
+    "context.jsonl": "156c5536eb67fe21c23855d7cab1c94e012b040d437dbd3268206e3a21123f90"
+  },
+  "keyword_guard_count": 0
+}

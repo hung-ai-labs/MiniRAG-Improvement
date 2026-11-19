@@ -1,0 +1,80 @@
+Loading weights:   0%|          | 0/103 [00:00<?, ?it/s]Loading weights: 100%|██████████| 103/103 [00:00<00:00, 3857.19it/s]
+INFO:nano-vectordb:Init {'embedding_dim': 384, 'metric': 'cosine', 'storage_file': 'E:\\Project\\MiniRAG research\\MiniRAG-Improvement\\review\\mhr_phi_20261118\\c0\\archive\\qa\\s202\\C0_s202\\answer_work\\vdb_entities.json'} 0 data
+INFO:nano-vectordb:Init {'embedding_dim': 384, 'metric': 'cosine', 'storage_file': 'E:\\Project\\MiniRAG research\\MiniRAG-Improvement\\review\\mhr_phi_20261118\\c0\\archive\\qa\\s202\\C0_s202\\answer_work\\vdb_entities_name.json'} 0 data
+INFO:nano-vectordb:Init {'embedding_dim': 384, 'metric': 'cosine', 'storage_file': 'E:\\Project\\MiniRAG research\\MiniRAG-Improvement\\review\\mhr_phi_20261118\\c0\\archive\\qa\\s202\\C0_s202\\answer_work\\vdb_relationships.json'} 0 data
+INFO:nano-vectordb:Init {'embedding_dim': 384, 'metric': 'cosine', 'storage_file': 'E:\\Project\\MiniRAG research\\MiniRAG-Improvement\\review\\mhr_phi_20261118\\c0\\archive\\qa\\s202\\C0_s202\\answer_work\\vdb_chunks.json'} 0 data
+INFO:minirag:Loaded document status storage with 0 records
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "E:\Project\MiniRAG research\MiniRAG-Improvement\reproduce\mhr_phi\launch.py", line 121, in <module>
+    raise SystemExit(main())
+                     ~~~~^^
+  File "E:\Project\MiniRAG research\MiniRAG-Improvement\reproduce\mhr_phi\launch.py", line 116, in main
+    runpy.run_module(module, run_name='__main__', alter_sys=True)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen runpy>", line 226, in run_module
+  File "<frozen runpy>", line 98, in _run_module_code
+  File "<frozen runpy>", line 88, in _run_code
+  File "E:\Project\MiniRAG research\MiniRAG-Improvement\reproduce\mhr_phi\c0.py", line 424, in <module>
+    raise SystemExit(main())
+                     ~~~~^^
+  File "E:\Project\MiniRAG research\MiniRAG-Improvement\reproduce\mhr_phi\c0.py", line 419, in main
+    operations[args.step](cohort, phased)
+    ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "E:\Project\MiniRAG research\MiniRAG-Improvement\reproduce\mhr_phi\c0.py", line 293, in answers
+    phased.traced(cohort.dest, run)
+    ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+  File "E:\Project\MiniRAG research\MiniRAG-Improvement\reproduce\mhr_phi\runtime.py", line 171, in traced
+    return asyncio.run(action())
+           ~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\nguye\AppData\Local\Programs\Python\Python313\Lib\asyncio\runners.py", line 195, in run
+    return runner.run(main)
+           ~~~~~~~~~~^^^^^^
+  File "C:\Users\nguye\AppData\Local\Programs\Python\Python313\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\nguye\AppData\Local\Programs\Python\Python313\Lib\asyncio\base_events.py", line 725, in run_until_complete
+    return future.result()
+           ~~~~~~~~~~~~~^^
+  File "E:\Project\MiniRAG research\MiniRAG-Improvement\reproduce\mhr_phi\c0.py", line 290, in run
+    await phased.answer_phase(rag.llm_model_func, rows, retrieved, phased.MODE['C0'],
+                              cohort.dest / 'answers.jsonl', QueryParam().response_type)
+  File "E:\Project\MiniRAG research\MiniRAG-Improvement\review\mhr_st_20261112\source\reproduce\research\phased_qa.py", line 253, in answer_phase
+    done = read_jsonl(out_path)
+  File "E:\Project\MiniRAG research\MiniRAG-Improvement\review\mhr_st_20261112\source\reproduce\research\phased_qa.py", line 97, in read_jsonl
+    record = json.loads(line)
+  File "C:\Users\nguye\AppData\Local\Programs\Python\Python313\Lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^
+  File "C:\Users\nguye\AppData\Local\Programs\Python\Python313\Lib\json\decoder.py", line 345, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\nguye\AppData\Local\Programs\Python\Python313\Lib\json\decoder.py", line 361, in raw_decode
+    obj, end = self.scan_once(s, idx)
+               ~~~~~~~~~~~~~~^^^^^^^^
+json.decoder.JSONDecodeError: Unterminated string starting at: line 1 column 36 (char 35)
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "E:\Project\MiniRAG research\MiniRAG-Improvement\reproduce\mhr_phi\launch.py", line 121, in <module>
+    raise SystemExit(main())
+                     ~~~~^^
+  File "E:\Project\MiniRAG research\MiniRAG-Improvement\reproduce\mhr_phi\launch.py", line 116, in main
+    runpy.run_module(module, run_name='__main__', alter_sys=True)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen runpy>", line 226, in run_module
+  File "<frozen runpy>", line 98, in _run_module_code
+  File "<frozen runpy>", line 88, in _run_code
+  File "E:\Project\MiniRAG research\MiniRAG-Improvement\reproduce\mhr_phi\c0.py", line 424, in <module>
+    raise SystemExit(main())
+                     ~~~~^^
+  File "E:\Project\MiniRAG research\MiniRAG-Improvement\reproduce\mhr_phi\c0.py", line 404, in main
+    return execute(phased)
+  File "E:\Project\MiniRAG research\MiniRAG-Improvement\reproduce\mhr_phi\c0.py", line 328, in execute
+    subprocess.run(child_command(step, cohort), cwd=p.ROOT, check=True)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\nguye\AppData\Local\Programs\Python\Python313\Lib\subprocess.py", line 577, in run
+    raise CalledProcessError(retcode, process.args,
+                             output=stdout, stderr=stderr)
+subprocess.CalledProcessError: Command '['E:\\Project\\MiniRAG research\\MiniRAG\\.venv\\Scripts\\python.exe', '-B', '-u', '-m', 'reproduce.mhr_phi.launch', 'reproduce.mhr_phi.c0', 'answers', '--split', 'test', '--seed', '202']' returned non-zero exit status 1.

@@ -1,0 +1,62 @@
+{
+  "experiment": "MultiHop-RAG C0 + source-time only",
+  "date": "2026-11-12",
+  "authorization": "User requested running +ST and pinning gemini-3.5-flash-lite.",
+  "source_commit": "b640765fb6ac46a817d3d221e2d652240f9e0c6c",
+  "source_checks": {
+    "minirag/operate.py": true,
+    "minirag/minirag.py": true,
+    "minirag/base.py": true,
+    "minirag/prompt.py": true,
+    "minirag/kg/networkx_impl.py": true,
+    "minirag/kg/nano_vector_db_impl.py": true,
+    "minirag/bm25.py": true,
+    "minirag/llm/gemini.py": true,
+    "reproduce/research/phased_qa.py": true,
+    "reproduce/research/judge_run.py": true,
+    "reproduce/research/qa_run.py": true,
+    "reproduce/gemini_common.py": true,
+    "reproduce/Step_2_evaluate.py": true
+  },
+  "slide_temporal_commit": "1297b2e",
+  "slide_temporal_sha256": "539db0f50e86b3c8a754536ca739c4f29794b12fab7f0f03be71014a4581ac03",
+  "index": "E:\\Project\\MiniRAG\\indexes\\multihop_rag-qwen-full609",
+  "index_manifest_sha256": "39b2a8e52b8e90c1cd9b5c92a30f0fecac69adf14bef4bbe842ddfc79b71764d",
+  "index_checks": {
+    "extracted_chunks.json": true,
+    "graph_chunk_entity_relation.graphml": true,
+    "kv_store_doc_status.json": true,
+    "kv_store_full_docs.json": true,
+    "kv_store_llm_response_cache.json": true,
+    "kv_store_text_chunks.json": true,
+    "vdb_chunks.json": true,
+    "vdb_entities.json": true,
+    "vdb_entities_name.json": true,
+    "vdb_relationships.json": true
+  },
+  "model": "Qwen/Qwen2.5-3B-Instruct",
+  "seeds": [
+    101,
+    202,
+    303
+  ],
+  "judge_model": "gemini-3.5-flash-lite",
+  "judge_passes": 3,
+  "budget_tokens": 4000,
+  "top_k": 60,
+  "max_answer_tokens": 1024,
+  "st": {
+    "metadata": "published_at -> every chunk of its document",
+    "anchors": "unchanged slide day/month parser",
+    "per_anchor_limit": 3,
+    "expand": true,
+    "entity_h": true,
+    "fallback": "native C0 when no anchor"
+  },
+  "controls": "C0 index, keyword caches, embedding, graph scoring, Entities, prompt and A1 are frozen.",
+  "c0_answers": "reuse archived C0; rejudge in separate folders with the pinned judge",
+  "dev": 400,
+  "test": 2156,
+  "statistics": "paired exact McNemar per generation seed; report acc/err/neither/no_majority; separate generation/judge SD",
+  "test_status": "Existing internal test already evaluated by the earlier RRF experiment; no tuning on it."
+}

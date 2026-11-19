@@ -1,0 +1,20 @@
+{
+  "sample": "200 F seed-101 test answers, random.Random(13).sample(range(2156), 200)",
+  "majority_agreement": "195/200 (97.5%)",
+  "old_counts": {
+    "accurate": 141,
+    "neither": 23,
+    "error": 36
+  },
+  "new_counts": {
+    "accurate": 142,
+    "neither": 21,
+    "error": 37
+  },
+  "flips_old_to_new": {
+    "neither->accurate": 2,
+    "accurate->error": 2,
+    "error->accurate": 1
+  },
+  "net_accurate_change": 1
+}

@@ -1,0 +1,932 @@
+USING 0 API KEY(S)
+USING LLM: minirag-slm
+USING EMBEDDING: local
+USING WORKING DIR: E:\Project\MiniRAG research\MiniRAG-Improvement\review\mhr_phi_20261118\c0\dev\C0_s101\worker0\snapshot
+Loading weights:   0%|          | 0/103 [00:00<?, ?it/s]Loading weights: 100%|██████████| 103/103 [00:00<00:00, 6041.21it/s]
+INFO:nano-vectordb:Load (20017, 384) data
+INFO:nano-vectordb:Init {'embedding_dim': 384, 'metric': 'cosine', 'storage_file': 'E:\\Project\\MiniRAG research\\MiniRAG-Improvement\\review\\mhr_phi_20261118\\c0\\dev\\C0_s101\\worker0\\snapshot\\vdb_entities.json'} 20017 data
+INFO:nano-vectordb:Load (20017, 384) data
+INFO:nano-vectordb:Init {'embedding_dim': 384, 'metric': 'cosine', 'storage_file': 'E:\\Project\\MiniRAG research\\MiniRAG-Improvement\\review\\mhr_phi_20261118\\c0\\dev\\C0_s101\\worker0\\snapshot\\vdb_entities_name.json'} 20017 data
+INFO:nano-vectordb:Load (13727, 384) data
+INFO:nano-vectordb:Init {'embedding_dim': 384, 'metric': 'cosine', 'storage_file': 'E:\\Project\\MiniRAG research\\MiniRAG-Improvement\\review\\mhr_phi_20261118\\c0\\dev\\C0_s101\\worker0\\snapshot\\vdb_relationships.json'} 13727 data
+INFO:nano-vectordb:Load (1656, 384) data
+INFO:nano-vectordb:Init {'embedding_dim': 384, 'metric': 'cosine', 'storage_file': 'E:\\Project\\MiniRAG research\\MiniRAG-Improvement\\review\\mhr_phi_20261118\\c0\\dev\\C0_s101\\worker0\\snapshot\\vdb_chunks.json'} 1656 data
+INFO:minirag:Loaded document status storage with 609 records
+INFO:minirag:Query: online betting platform, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: new customers, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: first losses, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: NBA betting promotions, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Vermont, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Which online betting platform provides a welcome bonus of up to $1000 in bonus bets for new customers' first losses, runs NBA betting promotions, and is anticipated to extend the same sign-up offer to new users in Vermont, as reported by both CBSSports.com and Sporting News?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Which online betting platform provides a welcome bonus of up to $1000 in bonus bets for new customers' first losses, runs NBA betting promotions, and is anticipated to extend the same sign-up offer to new users in Vermont, as reported by both CBSSports.com and Sporting News?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: TechCrunch, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Criterion Collection, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: ChatGPT, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: GPT-4, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: APIs, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: What is the name of the organization discussed in TechCrunch articles that, despite its financial instability, is recognized for creating ChatGPT, which is both a priority and a platform for ongoing innovations, and is planning to enhance its capabilities with the release of GPT-4 and associated APIs?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: What is the name of the organization discussed in TechCrunch articles that, despite its financial instability, is recognized for creating ChatGPT, which is both a priority and a platform for ongoing innovations, and is planning to enhance its capabilities with the release of GPT-4 and associated APIs?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: The Age, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: The Verge, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Epic v. Google, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: TechCrunch, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: class action antitrust suit, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Has the portrayal of Google's market practices in reports by The Age before October 22, 2023, remained consistent with the depiction in The Verge's coverage of the Epic v. Google case, and with TechCrunch's report on the class action antitrust suit filed against Google?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Has the portrayal of Google's market practices in reports by The Age before October 22, 2023, remained consistent with the depiction in The Verge's coverage of the Epic v. Google case, and with TechCrunch's report on the class action antitrust suit filed against Google?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Zimbabwe, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: finance portfolio, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: agricultural developments, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Bloomberg, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Reuters, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Considering the economic analysis from Bloomberg and the agricultural developments reported by Reuters, which minister, responsible for the finance portfolio in Zimbabwe, also announced a partnership with an international firm to boost crop production in the country?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Considering the economic analysis from Bloomberg and the agricultural developments reported by Reuters, which minister, responsible for the finance portfolio in Zimbabwe, also announced a partnership with an international firm to boost crop production in the country?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: TechCrunch, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: The Age, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: default search engine, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: billions, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: anticompetitive practices, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Which company, according to articles from TechCrunch and The Age, has not only invested billions to remain the default search engine on various devices but is also accused of manipulating search results for ad revenue and harming news publishers' revenues through anticompetitive practices?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Which company, according to articles from TechCrunch and The Age, has not only invested billions to remain the default search engine on various devices but is also accused of manipulating search results for ad revenue and harming news publishers' revenues through anticompetitive practices?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: NFL player, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: CBS Sports, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: 800 receiving yards, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: last three games, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: personal goal, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Which NFL player, who has been reported by The New York Times to have amassed over 800 receiving yards in just six games, is discussed by CBSSports.com as needing to average almost 153 yards in his final three games to meet a personal goal, yet is also considered by Sporting News to be at a disadvantage due to the strong pass defenses of his team's upcoming opponents?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Which NFL player, who has been reported by The New York Times to have amassed over 800 receiving yards in just six games, is discussed by CBSSports.com as needing to average almost 153 yards in his final three games to meet a personal goal, yet is also considered by Sporting News to be at a disadvantage due to the strong pass defenses of his team's upcoming opponents?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Shubha Satheesh, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: university, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: quantum computing, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Considering the information from an article by The New York Times and another by The Guardian on Shubha Satheesh, which university did she attend for her undergraduate studies, which is also known for its significant research contributions in the field of quantum computing?, top_k: 180, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Considering the information from an article by The New York Times and another by The Guardian on Shubha Satheesh, which university did she attend for her undergraduate studies, which is also known for its significant research contributions in the field of quantum computing?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: global cryptocurrency exchange, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: FTX, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: joshua, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: parker, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: opetaia, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Which global cryptocurrency exchange, reported by both TechCrunch and CNBC as the largest of its kind within 180 days of its June 2017 launch, withdrew a multi-billion dollar equivalent in assets from FTX and is still operational despite its CEO agreeing to step down following legal challenges?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Which global cryptocurrency exchange, reported by both TechCrunch and CNBC as the largest of its kind within 180 days of its June 2017 launch, withdrew a multi-billion dollar equivalent in assets from FTX and is still operational despite its CEO agreeing to step down following legal challenges?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Tasmania JackJumpers, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Sydney Kings, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Texas Rangers, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: player losses, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: first contact event, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Did the article from The Roar | Sports Writers Blog attribute the Tasmania JackJumpers' game-high lead over the Sydney Kings to player losses, while the Sporting News article reported a lead for the Texas Rangers without mentioning player losses?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Did the article from The Roar | Sports Writers Blog attribute the Tasmania JackJumpers' game-high lead over the Sydney Kings to player losses, while the Sporting News article reported a lead for the Texas Rangers without mentioning player losses?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Bangalore, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Dunzo, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: funding round, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: expansion plans, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: new cities, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Considering the information from an article in The Economic Times about Dunzo's latest funding round and a piece from Business Standard detailing Dunzo's expansion plans into new cities, which city, starting with the letter 'B', is both a location where Dunzo has recently expanded its services and is also the city where one of its new investors is headquartered?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Considering the information from an article in The Economic Times about Dunzo's latest funding round and a piece from Business Standard detailing Dunzo's expansion plans into new cities, which city, starting with the letter 'B', is both a location where Dunzo has recently expanded its services and is also the city where one of its new investors is headquartered?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Shabnim Ismail, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: significant tournament, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: opponent highlighted, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: boxing, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: ESPN, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Considering the information from an ESPN article and a BBC Sports report on Shabnim Ismail, which team did she represent when she achieved a career milestone mentioned in ESPN and also faced an opponent highlighted in the BBC Sports article in a significant tournament?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Considering the information from an ESPN article and a BBC Sports report on Shabnim Ismail, which team did she represent when she achieved a career milestone mentioned in ESPN and also faced an opponent highlighted in the BBC Sports article in a significant tournament?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: law enforcement, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: harassment threat, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Otto Wallin, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Anthony Joshua, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Joseph Parker, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Does the article from The Verge suggest that law enforcement underestimated the harassment threat towards Janani Umamaheswar and Alex Sinha, while the article from CBSSports.com considers Otto Wallin a greater threat to Anthony Joshua than Joseph Parker is to Deontay Wilder?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Does the article from The Verge suggest that law enforcement underestimated the harassment threat towards Janani Umamaheswar and Alex Sinha, while the article from CBSSports.com considers Otto Wallin a greater threat to Anthony Joshua than Joseph Parker is to Deontay Wilder?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: AI tool, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Engadget, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: TechCrunch, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: 100 million users per day, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: March, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Which AI tool, reported by both Engadget and TechCrunch, achieved a milestone of 100 million users per day in March and is known for its diverse capabilities including completing and debugging code, composing music, and emulating a computer running Linux?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Which AI tool, reported by both Engadget and TechCrunch, achieved a milestone of 100 million users per day in March and is known for its diverse capabilities including completing and debugging code, composing music, and emulating a computer running Linux?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Brock Purdy's performance, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: CBSSports.com report, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: CBSSports.com analysis, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: October 4, 2023, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: October 18, 2023, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Was there no change in the assessment of Brock Purdy's performance after the CBSSports.com report published on October 4, 2023, and the subsequent CBSSports.com analysis of his play under pressure published on October 18, 2023?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Was there no change in the assessment of Brock Purdy's performance after the CBSSports.com report published on October 4, 2023, and the subsequent CBSSports.com analysis of his play under pressure published on October 18, 2023?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: allegations, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: not fully truthful, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: board, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Fortune, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: TechCrunch, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Who is the individual associated with generative AI technology, noted for both supporting a teen's startup and having a significant presence in the industry, who faced allegations of not being fully truthful with the board, as reported by Fortune and multiple articles from TechCrunch?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Who is the individual associated with generative AI technology, noted for both supporting a teen's startup and having a significant presence in the industry, who faced allegations of not being fully truthful with the board, as reported by Fortune and multiple articles from TechCrunch?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: TechCrunch, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: 16-inch M3 Max MacBook Pro, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Google, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: patent dispute with Masimo, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Tim Sweeney, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Which company, recently reviewed by TechCrunch for its 16-inch M3 Max MacBook Pro, is known for its stance on user privacy and its association with Google, is involved in an 18-month appeal process regarding a patent dispute with Masimo, and has been critiqued by Tim Sweeney for enforcing uniform terms on developers, OEMs, and carriers through its store and payment system, as reported by The Verge?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Which company, recently reviewed by TechCrunch for its 16-inch M3 Max MacBook Pro, is known for its stance on user privacy and its association with Google, is involved in an 18-month appeal process regarding a patent dispute with Masimo, and has been critiqued by Tim Sweeney for enforcing uniform terms on developers, OEMs, and carriers through its store and payment system, as reported by The Verge?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Meta's GDPR compliance concerns, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Meta's responsibility for teen social media monitoring, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Meta's moderation bias affecting Palestinian voices, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: GDPR, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: teen social media monitoring, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Does the TechCrunch article on Meta's GDPR compliance concerns suggest a different legal issue than the TechCrunch article on Meta's responsibility for teen social media monitoring, and does it also differ from the TechCrunch article on Meta's moderation bias affecting Palestinian voices?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Does the TechCrunch article on Meta's GDPR compliance concerns suggest a different legal issue than the TechCrunch article on Meta's responsibility for teen social media monitoring, and does it also differ from the TechCrunch article on Meta's moderation bias affecting Palestinian voices?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Washington DC, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: new public transportation initiative, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Considering the information from a Washington Post article detailing recent legislative changes and a CNN report on upcoming municipal projects in Washington DC, which district, identified by its single-letter abbreviation, is both impacted by the new tax legislation and is the planned location for a new public transportation initiative?, top_k: 120, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Considering the information from a Washington Post article detailing recent legislative changes and a CNN report on upcoming municipal projects in Washington DC, which district, identified by its single-letter abbreviation, is both impacted by the new tax legislation and is the planned location for a new public transportation initiative?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Michigan football team, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: loss to the Browns, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: important upcoming games, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: season, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: playoff hopes, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Does the Sporting News article suggest that a single defeat for Michigan's football team could have a similar impact on their season as the loss to the Browns had on the Chicago Bears' playoff hopes, with both teams facing important upcoming games?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Does the Sporting News article suggest that a single defeat for Michigan's football team could have a similar impact on their season as the loss to the Browns had on the Chicago Bears' playoff hopes, with both teams facing important upcoming games?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: significant figure in AI, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: generative AI technology, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: artificial intelligence, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Joshua, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Parker, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Who is the individual that has become a significant figure in the realm of artificial intelligence, particularly due to their association with generative AI technology and the envisioning of AI agents to assist with various tasks, and whose integrity was questioned by a prevailing theory as mentioned in articles from both Fortune and TechCrunch?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Who is the individual that has become a significant figure in the realm of artificial intelligence, particularly due to their association with generative AI technology and the envisioning of AI agents to assist with various tasks, and whose integrity was questioned by a prevailing theory as mentioned in articles from both Fortune and TechCrunch?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Dubai, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Archer Aviation, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: United Arab Emirates, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Fight, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Boxing, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Does the article from The Independent - Travel suggest that Dubai has exploration opportunities throughout the year, while the TechCrunch article indicates that Archer Aviation's expansion plans are specific to the United Arab Emirates?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Does the article from The Independent - Travel suggest that Dubai has exploration opportunities throughout the year, while the TechCrunch article indicates that Archer Aviation's expansion plans are specific to the United Arab Emirates?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: New Jersey Devils, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Denny Hamlin, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: championship contention, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: boxing, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: first contact, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Does the 'Sporting News' article suggest that the 'New Jersey Devils' have maintained a consistent performance outlook despite a player's injury, while the 'Essentially Sports' article indicates that 'Denny Hamlin' was eliminated from championship contention due to an injury?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Does the 'Sporting News' article suggest that the 'New Jersey Devils' have maintained a consistent performance outlook despite a player's injury, while the 'Essentially Sports' article indicates that 'Denny Hamlin' was eliminated from championship contention due to an injury?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: pop star, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Time Person of the Year, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Arrowhead Stadium, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: player invitation, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: friendship bracelet, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Which pop star, recognized by Time as Person of the Year, was seen supporting a football team at Arrowhead Stadium where she was personally invited by a player who also made her a friendship bracelet with his number on it, as reported by 'The Age', 'The Independent - Life and Style', and 'CBSSports.com'?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Which pop star, recognized by Time as Person of the Year, was seen supporting a football team at Arrowhead Stadium where she was personally invited by a player who also made her a friendship bracelet with his number on it, as reported by 'The Age', 'The Independent - Life and Style', and 'CBSSports.com'?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Google Nest Thermostat, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: smart home platforms, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Engadget, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: EP-133 K.O. II 64MB Sampler Composer, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Android phones, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Does the article from The Verge claim that the Google Nest Thermostat's compatibility with smart home platforms is due to a specific standard, whereas the Engadget article does not attribute the EP-133 K.O. II 64MB Sampler Composer's compatibility with Android phones to any particular standard?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Does the article from The Verge claim that the Google Nest Thermostat's compatibility with smart home platforms is due to a specific standard, whereas the Engadget article does not attribute the EP-133 K.O. II 64MB Sampler Composer's compatibility with Android phones to any particular standard?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: GDP growth forecast, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: military exercise, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: country's regional influence in Asia, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: economic impact, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: defense policies, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Considering the economic strategies discussed in a Bloomberg article and the defense policies outlined in a Reuters report, which country, aiming to strengthen its regional influence in Asia, has both increased its GDP growth forecast and announced a significant military exercise for the upcoming year?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Considering the economic strategies discussed in a Bloomberg article and the defense policies outlined in a Reuters report, which country, aiming to strengthen its regional influence in Asia, has both increased its GDP growth forecast and announced a significant military exercise for the upcoming year?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: individual's legal scrutiny, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: narratives contrasting court presentations, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: fans and public perception of boxers, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Eddie Hearn, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Joshua, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Who is the individual whose legal and financial conduct is under scrutiny, with contrasting narratives presented in court, not-guilty pleas entered against multiple charges, an admission of being informed about significant financial discrepancies, and allegations of committing fraud for personal gain, as reported by sources including Fortune, TechCrunch, and The Verge?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Who is the individual whose legal and financial conduct is under scrutiny, with contrasting narratives presented in court, not-guilty pleas entered against multiple charges, an admission of being informed about significant financial discrepancies, and allegations of committing fraud for personal gain, as reported by sources including Fortune, TechCrunch, and The Verge?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Ahsoka, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: first contact event, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: joshua, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: wilder, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: opetaia, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Considering the character development discussed in the Variety article and the plot twists mentioned in the Hollywood Reporter's coverage, which character from the series "Ahsoka" is central to both narratives and is expected to have a significant impact on the Star Wars universe?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Considering the character development discussed in the Variety article and the plot twists mentioned in the Hollywood Reporter's coverage, which character from the series "Ahsoka" is central to both narratives and is expected to have a significant impact on the Star Wars universe?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: alleged individual, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Alameda, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: FTX, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: fraud, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: personal gain, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Who is the individual under 30, previously associated with Alameda and FTX, who is alleged to have committed fraud for personal gain and also told a trader that withdrawing funds was acceptable as long as it didn't surpass the company's total trading revenue, as reported by The Verge, Fortune, and TechCrunch?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Who is the individual under 30, previously associated with Alameda and FTX, who is alleged to have committed fraud for personal gain and also told a trader that withdrawing funds was acceptable as long as it didn't surpass the company's total trading revenue, as reported by The Verge, Fortune, and TechCrunch?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Kiyoshi Kurosawa, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Paul Mitchell, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Ralf Rangnick, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: joshua, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: parker, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Does the Polygon article suggest that Kiyoshi Kurosawa's film "Pulse" reflects on themes of loneliness in a connected world, while the TalkSport article discusses the nature of Paul Mitchell and Ralf Rangnick's relationship, indicating whether their friendship has been maintained since their time at Leipzig?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Does the Polygon article suggest that Kiyoshi Kurosawa's film "Pulse" reflects on themes of loneliness in a connected world, while the TalkSport article discusses the nature of Paul Mitchell and Ralf Rangnick's relationship, indicating whether their friendship has been maintained since their time at Leipzig?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: TechCrunch, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: The Verge, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: anticompetitive practices, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: market scope, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: App distribution and monetization, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Which company, currently engaged in a legal dispute covered by both TechCrunch and The Verge, is accused of anticompetitive practices that could affect its position in the market depending on the court's definition of the market scope, and has also provided extensive documentation to counter allegations regarding its practices in app distribution and monetization?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Which company, currently engaged in a legal dispute covered by both TechCrunch and The Verge, is accused of anticompetitive practices that could affect its position in the market depending on the court's definition of the market scope, and has also provided extensive documentation to counter allegations regarding its practices in app distribution and monetization?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: credit rating, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: major credit rating agency, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Independence Pet Holdings, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: financial performance, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: strategic partnerships, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Considering the financial performance outlined in the Bloomberg article and the strategic partnerships mentioned in the Wall Street Journal regarding Independence Pet Holdings, which single letter grade represents the company's current credit rating as evaluated by a major credit rating agency?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Considering the financial performance outlined in the Bloomberg article and the strategic partnerships mentioned in the Wall Street Journal regarding Independence Pet Holdings, which single letter grade represents the company's current credit rating as evaluated by a major credit rating agency?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Google antitrust case, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: TechCrunch report, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: class action antitrust suit against Google, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: October 31, 2023, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: December 15, 2023, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Was there inconsistency in the portrayal of Google's competitive practices after the TechCrunch report on Google's antitrust case published on October 31, 2023, or the TechCrunch report on the class action antitrust suit against Google published on December 15, 2023?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Was there inconsistency in the portrayal of Google's competitive practices after the TechCrunch report on Google's antitrust case published on October 31, 2023, or the TechCrunch report on the class action antitrust suit against Google published on December 15, 2023?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: report from Fortune, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Caroline Ellison, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: role and actions as CEO of Alameda Research, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: narrative change, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: boxing matches, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Between the report from Fortune published on October 4, 2023, which discussed Mark Cohen's claims about Caroline Ellison, and the subsequent reports from The Verge regarding statements made by Caroline Ellison, was there a change in the narrative concerning her role and actions as the CEO of Alameda Research?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Between the report from Fortune published on October 4, 2023, which discussed Mark Cohen's claims about Caroline Ellison, and the subsequent reports from The Verge regarding statements made by Caroline Ellison, was there a change in the narrative concerning her role and actions as the CEO of Alameda Research?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: NFL player, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: 2020 and 2023 Super Bowl victories, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Christmas Day game, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: The Age, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Yardbarker, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Who is the NFL player that contributed to his team's Super Bowl victories in 2020 and 2023 and is expected to have a productive game against the Raiders on Christmas Day, as reported by sources 'The Age' and 'Yardbarker'?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Who is the NFL player that contributed to his team's Super Bowl victories in 2020 and 2023 and is expected to have a productive game against the Raiders on Christmas Day, as reported by sources 'The Age' and 'Yardbarker'?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Google's anticompetitive behavior, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: news publishers' revenue, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: impact of foul play by Google, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: TechnCrunch article, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: The Age article, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Does the TechCrunch article claim that Google's anticompetitive behavior benefits news publishers' revenue, while The Age article suggests a general acceptance of foul play by Google without specifying the impact on revenue?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Does the TechCrunch article claim that Google's anticompetitive behavior benefits news publishers' revenue, while The Age article suggests a general acceptance of foul play by Google without specifying the impact on revenue?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Polygon report, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Steam Deck hardware updates, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Engadget review, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Valve's improvements, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Steam Deck OLED, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Between the Polygon report on the updates to the Steam Deck hardware published before November 16, 2023, and the Engadget review of the Steam Deck OLED, was the reporting on Valve's improvements to the Steam Deck hardware consistent?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Between the Polygon report on the updates to the Steam Deck hardware published before November 16, 2023, and the Engadget review of the Steam Deck OLED, was the reporting on Valve's improvements to the Steam Deck hardware consistent?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Jonathan Kuminga, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Moses Moody, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Yardbarker, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Sporting News, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: betting, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Which basketball team, recently commended by Yardbarker for their draft choices of Jonathan Kuminga and Moses Moody, would also lead to a successful point spread bet as per Sporting News if they were to win by 10 or more points?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Which basketball team, recently commended by Yardbarker for their draft choices of Jonathan Kuminga and Moses Moody, would also lead to a successful point spread bet as per Sporting News if they were to win by 10 or more points?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: tied game in fourth quarter, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: New Orleans game, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: The Raiders game, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Joshua, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Parker, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Did the 'Sporting News' article on the 'New Orleans' game and the 'Sporting News' article on 'The Raiders' game both describe a scenario where the teams tied the game in the fourth quarter?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Did the 'Sporting News' article on the 'New Orleans' game and the 'Sporting News' article on 'The Raiders' game both describe a scenario where the teams tied the game in the fourth quarter?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Taylor Swift, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Travis Kelce, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: The Age, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: The Independent - Life and Style, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: relationship status, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Between the report from 'The Age' on September 26, 2023, regarding Taylor Swift's interaction with Travis Kelce and the report from 'The Independent - Life and Style' on December 6, 2023, was there no change in the reporting of their relationship status?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Between the report from 'The Age' on September 26, 2023, regarding Taylor Swift's interaction with Travis Kelce and the report from 'The Independent - Life and Style' on December 6, 2023, was there no change in the reporting of their relationship status?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Norway's football team, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Manchester United, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Chelsea, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Joshua, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Parker, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Before The New York Times reported on Norway's football team's lack of competitiveness in major football tournaments on November 17, 2023, did the Sporting News describe Manchester United's historical performance against Chelsea as better with seven wins and only one defeat in their first 12 encounters from 1905 to 1913?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Before The New York Times reported on Norway's football team's lack of competitiveness in major football tournaments on November 17, 2023, did the Sporting News describe Manchester United's historical performance against Chelsea as better with seven wins and only one defeat in their first 12 encounters from 1905 to 1913?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Sporting News, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Michigan sign-stealing scandal, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: The New York Times, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: college football coaches, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: alleged espionage, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Did the 'Sporting News' report on the Michigan sign-stealing scandal involving the Wolverines indicate a consistent or inconsistent portrayal of the situation compared to the earlier report by 'The New York Times' on the reactions of college football coaches to the alleged espionage?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Did the 'Sporting News' report on the Michigan sign-stealing scandal involving the Wolverines indicate a consistent or inconsistent portrayal of the situation compared to the earlier report by 'The New York Times' on the reactions of college football coaches to the alleged espionage?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Valve, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: November 16th, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: new product launch, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: business strategy, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: games store, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Does the Engadget article suggest that Valve is launching a new product on November 16th, while The Verge article indicates that Valve has shifted its business strategy to focus exclusively on games for their store?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Does the Engadget article suggest that Valve is launching a new product on November 16th, while The Verge article indicates that Valve has shifted its business strategy to focus exclusively on games for their store?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Shai Hope, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: West Indies v England fifth T20 international, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: legspin bowling, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: first T20 international, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Does 'The Guardian' describe Shai Hope's role in the West Indies v England fifth T20 international as an anchor role, while also characterizing his performance as exemplary, and does the same source depict his struggle against legspin bowling in the first T20 international?, top_k: 240, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Does 'The Guardian' describe Shai Hope's role in the West Indies v England fifth T20 international as an anchor role, while also characterizing his performance as exemplary, and does the same source depict his struggle against legspin bowling in the first T20 international?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: S&P 500 companies, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: profit growth, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Cleveland-Cliffs, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: October 12, 2023, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: October 22, 2023, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Considering the excerpts from 'The Age' published on October 12, 2023, stating a potential return to profit growth for S&P 500 companies after three straight quarters of declines, and the report from 'Seeking Alpha' on October 22, 2023, predicting a more than 50% profit increase for Cleveland-Cliffs, is the financial outlook for Cleveland-Cliffs consistent with the broader trend anticipated for S&P 500 companies as reported by 'The Age' after the earlier date? (consistent/inconsistent), top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Considering the excerpts from 'The Age' published on October 12, 2023, stating a potential return to profit growth for S&P 500 companies after three straight quarters of declines, and the report from 'Seeking Alpha' on October 22, 2023, predicting a more than 50% profit increase for Cleveland-Cliffs, is the financial outlook for Cleveland-Cliffs consistent with the broader trend anticipated for S&P 500 companies as reported by 'The Age' after the earlier date? (consistent/inconsistent), top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Sporting News, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: NBA Rookie of the Year, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: line shopping, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: sports betting, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: betting odds, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Between the Sporting News report on NBA Rookie of the Year odds published on October 4, 2023, and the Sporting News report on line shopping in sports betting published on November 6, 2023, was there a change in how Sportsbooks adjust and tighten betting lines based on gathered information?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Between the Sporting News report on NBA Rookie of the Year odds published on October 4, 2023, and the Sporting News report on line shopping in sports betting published on November 6, 2023, was there a change in how Sportsbooks adjust and tighten betting lines based on gathered information?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: fighter, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: fraud, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: opetaia, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: parker, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: fury, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Who is the individual facing a jury's assessment of contrasting legal narratives in Fortune, is reported by the same source to have recruited a former Jane Street trader to his ventures, and is accused by the prosecution of committing fraud for personal gain according to TechCrunch?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Who is the individual facing a jury's assessment of contrasting legal narratives in Fortune, is reported by the same source to have recruited a former Jane Street trader to his ventures, and is accused by the prosecution of committing fraud for personal gain according to TechCrunch?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Sam Bankman-Fried, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: withdrawal permissions, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: FTX, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: fraud, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: criminal trial, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Does the article from The Verge suggest that Sam Bankman-Fried set withdrawal permissions based on FTX's total trading revenue, while the TechCrunch articles allege that Sam Bankman-Fried committed fraud for personal gain and is facing a criminal trial for fraud and conspiracy, indicating different aspects of the legal issues he is involved in?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Does the article from The Verge suggest that Sam Bankman-Fried set withdrawal permissions based on FTX's total trading revenue, while the TechCrunch articles allege that Sam Bankman-Fried committed fraud for personal gain and is facing a criminal trial for fraud and conspiracy, indicating different aspects of the legal issues he is involved in?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Ruby Franke's daughter, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: abuse justification, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Catherine Tan, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: sexual harassment and coercion, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: The Verge, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Does the article from Fortune discussing Ruby Franke's daughter describe the justification for abuse as a form of necessary discipline, in contrast to the article from The Verge which exonerates Catherine Tan of any accusations of sexual harassment and coercion?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Does the article from Fortune discussing Ruby Franke's daughter describe the justification for abuse as a form of necessary discipline, in contrast to the article from The Verge which exonerates Catherine Tan of any accusations of sexual harassment and coercion?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Microsoft, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: executive, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Planner feature development, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Considering the updates on Microsoft Planner discussed in an article from The Verge and the new feature integration mentioned by a report on ZDNet, which letter represents the first initial of the Microsoft executive who was responsible for overseeing the development of the feature that both articles claim has significantly improved user task management experience?, top_k: 180, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Considering the updates on Microsoft Planner discussed in an article from The Verge and the new feature integration mentioned by a report on ZDNet, which letter represents the first initial of the Microsoft executive who was responsible for overseeing the development of the feature that both articles claim has significantly improved user task management experience?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: individual facing trial, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: prominent investor, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: cryptocurrency exchange, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: TechCrunch, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: The Verge, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Who is the individual facing a criminal trial on fraud charges, previously likened to a prominent investor, and is accused of misusing customer funds from a cryptocurrency exchange, as reported by TechCrunch and The Verge?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Who is the individual facing a criminal trial on fraud charges, previously likened to a prominent investor, and is accused of misusing customer funds from a cryptocurrency exchange, as reported by TechCrunch and The Verge?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: TechCrunch, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Google, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: default search engine position, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: bettors, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: fight date, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Did TechCrunch fail to maintain consistency in its portrayal of Google's market behavior after reporting on October 31, 2023, that Google paid billions to secure its default search engine position, or after reporting again on December 15, 2023, citing AI's benefits to news publishers' bottom lines?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Did TechCrunch fail to maintain consistency in its portrayal of Google's market behavior after reporting on October 31, 2023, that Google paid billions to secure its default search engine position, or after reporting again on December 15, 2023, citing AI's benefits to news publishers' bottom lines?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Silicon Valley prodigy, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: board of company, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: teen's AI startup, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Fortune, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: TechCrunch, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Who is the Silicon Valley prodigy recognized since his early twenties, who has recently been accused of not being fully truthful with the board of a company he was associated with, and is also known for backing a teen's AI startup, as reported by both Fortune and TechCrunch?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Who is the Silicon Valley prodigy recognized since his early twenties, who has recently been accused of not being fully truthful with the board of a company he was associated with, and is also known for backing a teen's AI startup, as reported by both Fortune and TechCrunch?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Duke University, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: visiting scholar, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: newly appointed dean, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Considering the information from an article in The New York Times and another from The Washington Post about recent events at Duke University, which single character is common to both the name of a visiting scholar discussed in The New York Times piece and the newly appointed dean featured in The Washington Post article?, top_k: 180, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Considering the information from an article in The New York Times and another from The Washington Post about recent events at Duke University, which single character is common to both the name of a visiting scholar discussed in The New York Times piece and the newly appointed dean featured in The Washington Post article?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: The Age, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: TechCrunch, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Google Search fairness, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: class action antitrust suit against Google, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: 2023, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Between the report by The Age on the fairness of Google Search published on October 22, 2023, and the TechCrunch article discussing the class action antitrust suit against Google published later, was there a change in the portrayal of Google's competitive practices according to these news sources?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Between the report by The Age on the fairness of Google Search published on October 22, 2023, and the TechCrunch article discussing the class action antitrust suit against Google published later, was there a change in the portrayal of Google's competitive practices according to these news sources?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Vandita Pant, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: first contact event, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: What is the position held by Vandita Pant at her place of employment, as reported in the first news article, and which major project was she involved in, as mentioned in the second news article?, top_k: 120, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: What is the position held by Vandita Pant at her place of employment, as reported in the first news article, and which major project was she involved in, as mentioned in the second news article?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: World's richest under 30, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Fraud and conspiracy charges, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Joshua, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Parker, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: opetaia, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Who is the individual under 30, previously reported by TechCrunch as the world's richest in that age group, who is now facing a criminal trial on fraud and conspiracy charges and is accused of instructing a colleague to misuse $14 billion of customer funds, all while the prosecution claims the motive was to amass wealth, power, and influence?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Who is the individual under 30, previously reported by TechCrunch as the world's richest in that age group, who is now facing a criminal trial on fraud and conspiracy charges and is accused of instructing a colleague to misuse $14 billion of customer funds, all while the prosecution claims the motive was to amass wealth, power, and influence?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Epic Games, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Google, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: antitrust battle, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: class action suit, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: TechnCrunch, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Between the TechCrunch report on Epic Games' antitrust battle with Google published on November 6, 2023, and the TechCrunch report on the class action antitrust suit against Google published on December 15, 2023, was there inconsistency in reporting Google's engagement in anticompetitive behavior?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Between the TechCrunch report on Epic Games' antitrust battle with Google published on November 6, 2023, and the TechCrunch report on the class action antitrust suit against Google published on December 15, 2023, was there inconsistency in reporting Google's engagement in anticompetitive behavior?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Valve, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Games in store, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Steam Deck, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Steam Deck updates, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Polygon, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Does 'The Verge' article suggest that Valve is narrowing its focus to games in its store, while 'Polygon' and 'Engadget' articles indicate that Valve is continuing to develop and launch new hardware, as seen with the updates to the Steam Deck and the release of the Steam Deck OLED?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Does 'The Verge' article suggest that Valve is narrowing its focus to games in its store, while 'Polygon' and 'Engadget' articles indicate that Valve is continuing to develop and launch new hardware, as seen with the updates to the Steam Deck and the release of the Steam Deck OLED?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Owen Teale, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: The Sydney Morning Herald, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Tate McRae, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Saturday Night Live, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: The Age, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Was Owen Teale's career impact not discussed in The Sydney Morning Herald before Tate McRae's breakthrough performance on Saturday Night Live was reported by The Age?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Was Owen Teale's career impact not discussed in The Sydney Morning Herald before Tate McRae's breakthrough performance on Saturday Night Live was reported by The Age?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Meta moderation bias, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: teen app downloads, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Palestinian voices, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: parental oversight, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: boxing event, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Does the TechCrunch article discussing Meta's moderation bias problem suggest a different impact on users compared to the TechCrunch article on Meta's proposed legislation for teen app downloads, with the former affecting Palestinian voices and the latter concerning parental oversight of teen social media usage?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Does the TechCrunch article discussing Meta's moderation bias problem suggest a different impact on users compared to the TechCrunch article on Meta's proposed legislation for teen app downloads, with the former affecting Palestinian voices and the latter concerning parental oversight of teen social media usage?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Sam Bankman-Fried, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Fortune article, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: TechCrunch article, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: The Verge article, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: misusing customer funds, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Does the 'Fortune' article claim that Sam Bankman-Fried used Caroline Ellison as a front for misusing customer funds at Alameda Research align with the 'TechCrunch' article's allegation that he committed fraud for personal gain, and do both of these claims contrast with 'The Verge' article's portrayal of Sam Bankman-Fried as a trustworthy figure in the cryptocurrency industry?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Does the 'Fortune' article claim that Sam Bankman-Fried used Caroline Ellison as a front for misusing customer funds at Alameda Research align with the 'TechCrunch' article's allegation that he committed fraud for personal gain, and do both of these claims contrast with 'The Verge' article's portrayal of Sam Bankman-Fried as a trustworthy figure in the cryptocurrency industry?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: individual admitting to financial discrepancy, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: judge intervention, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: managing two companies, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: alleged fraud, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: wealth, power, influence, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Who is the individual that admitted to being informed about a financial discrepancy after a judge's intervention, claimed an inability to manage two companies due to significant growth, and is alleged by the prosecution to have committed fraud for wealth, power, and influence, as reported by The Verge and TechCrunch?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Who is the individual that admitted to being informed about a financial discrepancy after a judge's intervention, claimed an inability to manage two companies due to significant growth, and is alleged by the prosecution to have committed fraud for wealth, power, and influence, as reported by The Verge and TechCrunch?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: wide receiver, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: WR1, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Joshua, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Miami Dolphins, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Sporting News, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Which wide receiver, currently leading the league and ranked as WR1 by Sporting News for Week 14, would need to average almost 153 yards over his final three games, as suggested by CBSSports.com, to reach a season goal of 2,000 receiving yards, despite facing strong pass defenses in his remaining games according to Sporting News, and also scored two touchdowns with 157 receiving yards for the Miami Dolphins as reported by The Guardian?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Which wide receiver, currently leading the league and ranked as WR1 by Sporting News for Week 14, would need to average almost 153 yards over his final three games, as suggested by CBSSports.com, to reach a season goal of 2,000 receiving yards, despite facing strong pass defenses in his remaining games according to Sporting News, and also scored two touchdowns with 157 receiving yards for the Miami Dolphins as reported by The Guardian?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Polygon article, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: September 28, 2023, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Hellraiser (film), top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: October 30, 2023, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: The Exorcist (book and movie), top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Was there inconsistency in the reporting of the adaptation sequence of the original works into films between the Polygon article published on September 28, 2023, discussing "Hellraiser (film)" and the FOX News - Lifestyle article published on October 30, 2023, mentioning "The Exorcist (book and movie)"?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Was there inconsistency in the reporting of the adaptation sequence of the original works into films between the Polygon article published on September 28, 2023, discussing "Hellraiser (film)" and the FOX News - Lifestyle article published on October 30, 2023, mentioning "The Exorcist (book and movie)"?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: TechCrunch, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: 38% decrease in sexual assault rate, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: inadequate background checks, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: $394 million in operating income, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: $219 million in net income, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: What company, covered by TechCrunch, has reported a 38% decrease in the rate of sexual assault on its app between its first and second safety reports, while also facing criticism for inadequate background checks designed for quick driver sign-up, and despite being aware of sexual assaults by its drivers since 2014, has still managed to generate substantial profitability with $394 million in operating income and $219 million in net income in the third quarter?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: What company, covered by TechCrunch, has reported a 38% decrease in the rate of sexual assault on its app between its first and second safety reports, while also facing criticism for inadequate background checks designed for quick driver sign-up, and despite being aware of sexual assaults by its drivers since 2014, has still managed to generate substantial profitability with $394 million in operating income and $219 million in net income in the third quarter?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: regulatory measures, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: TechCrunch, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Music Business Worldwide, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Biden's AI Executive Order, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: National Music Publishers Association, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: After TechCrunch reported on Biden's AI Executive Order as broad but lacking depth without corresponding legislation on October 31, 2023, and Music Business Worldwide shared concerns from the National Music Publishers Association about generative AI being a significant risk to the human creative class on November 30, 2023, is the stance of these two news sources on the need for regulatory measures for AI consistent or inconsistent?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: After TechCrunch reported on Biden's AI Executive Order as broad but lacking depth without corresponding legislation on October 31, 2023, and Music Business Worldwide shared concerns from the National Music Publishers Association about generative AI being a significant risk to the human creative class on November 30, 2023, is the stance of these two news sources on the need for regulatory measures for AI consistent or inconsistent?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: individual accused, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: cryptocurrency exchange growth management, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: unauthorized access to customer funds, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: fraud for personal gain, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: The Verge, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Who is the individual that, according to reports from The Verge, Fortune, and TechCrunch, faced challenges in managing the growth of his cryptocurrency exchange, was accused of using a colleague as a cover for unauthorized access to customer funds, and is alleged by prosecutors to have committed fraud for personal gain?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Who is the individual that, according to reports from The Verge, Fortune, and TechCrunch, faced challenges in managing the growth of his cryptocurrency exchange, was accused of using a colleague as a cover for unauthorized access to customer funds, and is alleged by prosecutors to have committed fraud for personal gain?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Thursday Night Football, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Lauren James, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: scoring opportunity, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Sporting News, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: The Guardian, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Does the Sporting News article suggest a change in the scoring trend for "Thursday Night Football" compared to previous games, while The Guardian article describes a specific instance where Lauren James created a scoring opportunity, without implying a general trend change in scoring for the game?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Does the Sporting News article suggest a change in the scoring trend for "Thursday Night Football" compared to previous games, while The Guardian article describes a specific instance where Lauren James created a scoring opportunity, without implying a general trend change in scoring for the game?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Meta's moderation policies, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Palestinians, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: daily lives, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: protest abilities, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: The Guardian article, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Does the TechCrunch article suggest that Meta's moderation policies are a source of frustration for Palestinians in a similar way that The Guardian article implies surveillance cameras are affecting their daily lives and protest abilities?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Does the TechCrunch article suggest that Meta's moderation policies are a source of frustration for Palestinians in a similar way that The Guardian article implies surveillance cameras are affecting their daily lives and protest abilities?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Rogers Communications Inc., top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Ed Ternan, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: lawsuit, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: share price, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Snapchat, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Does the article from Fortune suggest that the lawsuit had a negative impact on Rogers Communications Inc.'s share price, while the article from The Guardian indicates that Ed Ternan believes suing Snapchat is counterproductive?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Does the article from Fortune suggest that the lawsuit had a negative impact on Rogers Communications Inc.'s share price, while the article from The Guardian indicates that Ed Ternan believes suing Snapchat is counterproductive?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: DY Patil Sports Academy, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: blue jersey team, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: 2011 ICC championship, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Joshua, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Parker, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Considering the information from an ESPN article detailing the performance of a cricket team at the DY Patil Sports Academy and a Cricbuzz report on the same team's historical achievements, which team, known for its blue jersey, won a significant match at the DY Patil Sports Academy and also secured a championship title in an ICC event held in 2011?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Considering the information from an ESPN article detailing the performance of a cricket team at the DY Patil Sports Academy and a Cricbuzz report on the same team's historical achievements, which team, known for its blue jersey, won a significant match at the DY Patil Sports Academy and also secured a championship title in an ICC event held in 2011?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Will Smith and Jada Pinkett Smith's marriage, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Garth Brooks' statement about his past marriage, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: FOX News - Entertainment, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: The Independent - Life and Style, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: financial stakes and betting interest, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Does the article from 'The Independent - Life and Style' about Will Smith and Jada Pinkett Smith's marriage fail to describe a similar acknowledgment of marital challenges as 'FOX News - Entertainment' reports on Garth Brooks' statement about his past marriage?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Does the article from 'The Independent - Life and Style' about Will Smith and Jada Pinkett Smith's marriage fail to describe a similar acknowledgment of marital challenges as 'FOX News - Entertainment' reports on Garth Brooks' statement about his past marriage?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Min Kao, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Philanthropic efforts, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Business strategies, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: University with engineering program, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Boxing market expansion tactics, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Considering the information from an article by Forbes about Min Kao's philanthropic efforts and another by Bloomberg discussing his business strategies, which university, known for its engineering program and having received significant donations from Min Kao, is also the institution where a business school case study was developed based on his company's market expansion tactics?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Considering the information from an article by Forbes about Min Kao's philanthropic efforts and another by Bloomberg discussing his business strategies, which university, known for its engineering program and having received significant donations from Min Kao, is also the institution where a business school case study was developed based on his company's market expansion tactics?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Scott McTominay, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: lending company, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Manchester United, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Kevin Durant, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: critique, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Does 'The Guardian' article suggest that Scott McTominay is the tactical leader for Manchester United, while 'Essentially Sports' claims that Kevin Durant has been criticized for his lack of leadership, indicating a difference in their respective leadership roles?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Does 'The Guardian' article suggest that Scott McTominay is the tactical leader for Manchester United, while 'Essentially Sports' claims that Kevin Durant has been criticized for his lack of leadership, indicating a difference in their respective leadership roles?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: TechCrunch, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: class action antitrust suit, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: company involved, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Which company, recently portrayed as an antagonist in a trial covered by The Verge, is the same that was reported by TechCrunch to have both showcased new hardware developments at an annual event and been involved in a class action antitrust suit filed by news publishers?, top_k: 180, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Which company, recently portrayed as an antagonist in a trial covered by The Verge, is the same that was reported by TechCrunch to have both showcased new hardware developments at an annual event and been involved in a class action antitrust suit filed by news publishers?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: allegations of dishonesty, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Anthropic, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: OpenAI, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Joshua, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Parker, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Who is the individual associated with the planning of a new venture after his tenure at OpenAI, which was marked by allegations of dishonesty with the board and without any removal attempt by the co-founders of Anthropic, as reported by both TechCrunch and The Age?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Who is the individual associated with the planning of a new venture after his tenure at OpenAI, which was marked by allegations of dishonesty with the board and without any removal attempt by the co-founders of Anthropic, as reported by both TechCrunch and The Age?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: NFL team, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Sporting News, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: CBSSports.com, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Monday Night Football, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: passing game strategy, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Which NFL team, featured in articles from both 'Sporting News' and 'CBSSports.com', faced the potential of being closely followed in the wild card race by three other teams, might have opted for a field goal in a 'Monday Night Football' game, recently changed their passing game strategy, and has seen comparable offensive production from Josh Dobbs and Kirk Cousins?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Which NFL team, featured in articles from both 'Sporting News' and 'CBSSports.com', faced the potential of being closely followed in the wild card race by three other teams, might have opted for a field goal in a 'Monday Night Football' game, recently changed their passing game strategy, and has seen comparable offensive production from Josh Dobbs and Kirk Cousins?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: the criterion collection, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Vandita Pant, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Considering the information from a BBC News article and a Financial Times report on Vandita Pant, what is the first letter of the company where she was appointed to a significant leadership role, as mentioned in the BBC News article, and also involved in a major financial deal covered by the Financial Times?, top_k: 120, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Considering the information from a BBC News article and a Financial Times report on Vandita Pant, what is the first letter of the company where she was appointed to a significant leadership role, as mentioned in the BBC News article, and also involved in a major financial deal covered by the Financial Times?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Britney Spears' memoir 'The Woman in Me', top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Joshua, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Parker, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: boxing events, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: first contact between joshua and wilder, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Does 'The Independent - Life and Style' article suggest that Britney Spears' memoir "The Woman in Me" will cover different aspects of her life compared to the control over her career discussed in relation to her parents in 'The Guardian' article?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Does 'The Independent - Life and Style' article suggest that Britney Spears' memoir "The Woman in Me" will cover different aspects of her life compared to the control over her career discussed in relation to her parents in 'The Guardian' article?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Revyuh Media, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Cancer Couch Foundation, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Bella Scalera, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Luca Scalera, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Daam1, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Does the 'Revyuh Media' article claim that the discovery of Daam1's role is an insignificant advancement in cancer research, while the 'FOX News - Lifestyle' article focuses on the involvement of Bella Scalera and Luca Scalera with the Cancer Couch Foundation from its inception, without attributing such a discovery to their activities?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Does the 'Revyuh Media' article claim that the discovery of Daam1's role is an insignificant advancement in cancer research, while the 'FOX News - Lifestyle' article focuses on the involvement of Bella Scalera and Luca Scalera with the Cancer Couch Foundation from its inception, without attributing such a discovery to their activities?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: wealthiest individual under 30, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: accused of fraud, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: colleague used as front, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: customer funds unauthorized access, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: told withdrawals were permissible, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Who is the individual under 30, previously considered the wealthiest in that age group, who is accused of using a colleague as a front for unauthorized access to customer funds and told a trader that withdrawals were permissible within certain limits, and is now facing allegations of committing fraud for personal gain, as reported by The Verge, Fortune, and TechCrunch?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Who is the individual under 30, previously considered the wealthiest in that age group, who is accused of using a colleague as a front for unauthorized access to customer funds and told a trader that withdrawals were permissible within certain limits, and is now facing allegations of committing fraud for personal gain, as reported by The Verge, Fortune, and TechCrunch?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: blockade, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Philadelphia-sized region, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Saudi Arabia, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: intelligence oversight, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Fortune, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Which country, recently reported by both 'Fortune' and 'Business Today | Latest Stock Market And Economy News India', has implemented a blockade that halted the delivery of essential supplies to a region compared in size to Philadelphia and has also been the target of a major attack that indicated a significant intelligence oversight?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Which country, recently reported by both 'Fortune' and 'Business Today | Latest Stock Market And Economy News India', has implemented a blockade that halted the delivery of essential supplies to a region compared in size to Philadelphia and has also been the target of a major attack that indicated a significant intelligence oversight?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: betting, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Sporting News, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: CBSSports.com, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Red Sox, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Spread betting, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Does the Sporting News article suggest that bettors earn a fixed profit when betting on the Red Sox, while the CBSSports.com article indicates that Spread betting involves wagering on the margin of victory rather than a fixed outcome?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Does the Sporting News article suggest that bettors earn a fixed profit when betting on the Red Sox, while the CBSSports.com article indicates that Spread betting involves wagering on the margin of victory rather than a fixed outcome?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: individual associated with generative AI technology, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Fortune, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: TechCrunch, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: OpenAI, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: AI startup, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Who is the individual associated with generative AI technology that was reportedly removed from OpenAI's board, is known for supporting a teen's AI startup, and is suspected of not being fully truthful with the board, as discussed in articles by both Fortune and TechCrunch?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Who is the individual associated with generative AI technology that was reportedly removed from OpenAI's board, is known for supporting a teen's AI startup, and is suspected of not being fully truthful with the board, as discussed in articles by both Fortune and TechCrunch?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: U.S.-headquartered venture capitalists, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Chinese companies, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Japan, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Financial Times, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: TechCrunch, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Are the U.S.-headquartered venture capitalists mentioned in the TechCrunch article investing less in Chinese companies compared to the previous year, and are Investors, as reported by the Financial Times, showing an increased interest in Japan for similar reasons?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Are the U.S.-headquartered venture capitalists mentioned in the TechCrunch article investing less in Chinese companies compared to the previous year, and are Investors, as reported by the Financial Times, showing an increased interest in Japan for similar reasons?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Sam Bankman-Fried, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: TechCrunch report, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: FTX trial, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: The Verge report, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: portrayal change, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Was there no change in the portrayal of Sam Bankman-Fried's actions from the perspective of the prosecution between the TechCrunch report on Sam Bankman-Fried's trial published on October 1, 2023, and The Verge report on the outcome of the FTX trial published on October 26, 2023?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Was there no change in the portrayal of Sam Bankman-Fried's actions from the perspective of the prosecution between the TechCrunch report on Sam Bankman-Fried's trial published on October 1, 2023, and The Verge report on the outcome of the FTX trial published on October 26, 2023?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: TechCrunch articles, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Google Maps AI technology, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: LinkedIn AI features, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: boxing matches, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: betting odds, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Does the TechCrunch article discussing the expansion of Google Maps with AI technology disagree with the TechCrunch article on LinkedIn's introduction of new AI features in terms of both companies enhancing their products with artificial intelligence?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Does the TechCrunch article discussing the expansion of Google Maps with AI technology disagree with the TechCrunch article on LinkedIn's introduction of new AI features in terms of both companies enhancing their products with artificial intelligence?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Rep. Patrick McHenry, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Speaker position, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Kevin McCarthy, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Fortune, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: The Age, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Does the 'Fortune' article suggest that Rep. Patrick McHenry is avoiding a permanent speaker role, while 'The Age' article indicates that Kevin McCarthy has been removed from the speaker position?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Does the 'Fortune' article suggest that Rep. Patrick McHenry is avoiding a permanent speaker role, while 'The Age' article indicates that Kevin McCarthy has been removed from the speaker position?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: company involved in potential foul play, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: class action lawsuit, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: harming news publishers' revenue, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: anticompetitive practices, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: OpenAI's GPT-3.5, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Which company, recently compared for its Gemini Pro performance to OpenAI's GPT-3.5 by TechCrunch, is also suggested by The Age to be involved in potential foul play, and has been reported by TechCrunch to have spent billions to maintain its default search engine status and been accused in a class action lawsuit of harming news publishers' revenue through anticompetitive practices?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Which company, recently compared for its Gemini Pro performance to OpenAI's GPT-3.5 by TechCrunch, is also suggested by The Age to be involved in potential foul play, and has been reported by TechCrunch to have spent billions to maintain its default search engine status and been accused in a class action lawsuit of harming news publishers' revenue through anticompetitive practices?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: The All Blacks, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Argentina, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Rugby World Cup, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: boxing, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: fight, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Do the articles from The Roar | Sports Writers Blog discussing The All Blacks' actions in the Rugby World Cup final and their previous encounters with Argentina both present The All Blacks as having faced challenges in their gameplay, or do they portray different situations regarding The All Blacks' performance?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Do the articles from The Roar | Sports Writers Blog discussing The All Blacks' actions in the Rugby World Cup final and their previous encounters with Argentina both present The All Blacks as having faced challenges in their gameplay, or do they portray different situations regarding The All Blacks' performance?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Trustworthy figure in cryptocurrency, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Fraud allegations, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Permissible withdrawals, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Financial discrepancy, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: The Verge, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Who is the individual that presented themselves as a trustworthy figure in the cryptocurrency industry, as reported by The Verge, but is also alleged by the prosecution in a TechCrunch article to have committed fraud, and according to The Verge, informed another trader about permissible withdrawals from an account tied to a now-collapsed company and also admitted to being aware of a financial discrepancy after a judge's intervention?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Who is the individual that presented themselves as a trustworthy figure in the cryptocurrency industry, as reported by The Verge, but is also alleged by the prosecution in a TechCrunch article to have committed fraud, and according to The Verge, informed another trader about permissible withdrawals from an account tied to a now-collapsed company and also admitted to being aware of a financial discrepancy after a judge's intervention?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: New York Times, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Gary Burrell, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Forbes, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Criterion Collection, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: engineering program, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Considering the information from a New York Times article detailing Gary Burrell's contributions to GPS technology and a Forbes piece discussing his philanthropic efforts, which university, known for its engineering program and receiving significant donations from Burrell, also has a single-letter abbreviation that is shared with a chemical element on the periodic table?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Considering the information from a New York Times article detailing Gary Burrell's contributions to GPS technology and a Forbes piece discussing his philanthropic efforts, which university, known for its engineering program and receiving significant donations from Burrell, also has a single-letter abbreviation that is shared with a chemical element on the periodic table?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Taylor Swift, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: relationship with Travis Kelce, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Eras Tour schedule, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: The Independent - Life and Style, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: FOX News - Lifestyle, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Does 'The Independent - Life and Style' article suggest that Taylor Swift is open about her relationship with Travis Kelce, while the 'FOX News - Lifestyle' article indicates that she engaged with a viral TikTok video, and does the other 'The Independent - Life and Style' article claim that she has a firm commitment to her Eras Tour schedule?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Does 'The Independent - Life and Style' article suggest that Taylor Swift is open about her relationship with Travis Kelce, while the 'FOX News - Lifestyle' article indicates that she engaged with a viral TikTok video, and does the other 'The Independent - Life and Style' article claim that she has a firm commitment to her Eras Tour schedule?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: TechCrunch, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Gemini Pro, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: OpenAI's GPT-3.5, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: $26.3 billion, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: default search engine, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Which company, as reported by TechCrunch, not only compared the performance of its Gemini Pro product to OpenAI's GPT-3.5 but also spent $26.3 billion in 2021 to maintain its status as the default search engine on various devices and platforms, and has been accused of anticompetitively impacting news publishers' content, readership, and advertising revenue?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Which company, as reported by TechCrunch, not only compared the performance of its Gemini Pro product to OpenAI's GPT-3.5 but also spent $26.3 billion in 2021 to maintain its status as the default search engine on various devices and platforms, and has been accused of anticompetitively impacting news publishers' content, readership, and advertising revenue?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: AI risks and abuses, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: President Biden, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Congress, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: AI legislation, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Does the TechCrunch article suggest that there is a legislative remedy for AI risks and abuses, while the Engadget article indicates that President Biden and Congress are actively working on drafting legislation related to AI?, top_k: 240, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Does the TechCrunch article suggest that there is a legislative remedy for AI risks and abuses, while the Engadget article indicates that President Biden and Congress are actively working on drafting legislation related to AI?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Sony Music artists, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: YouTube's 'Dream Track' project, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Universal Music Group, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Warner Music Group, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: November 23, 2023, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Is the involvement of Sony Music artists in YouTube's 'Dream Track' project consistent according to reports from Music Business Worldwide between November 23, 2023, and November 30, 2023, considering the participation of Universal Music Group and Warner Music Group artists?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Is the involvement of Sony Music artists in YouTube's 'Dream Track' project consistent according to reports from Music Business Worldwide between November 23, 2023, and November 30, 2023, considering the participation of Universal Music Group and Warner Music Group artists?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Automakers, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: technology companies, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: digital platforms, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: software, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: robotics, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Do both TechCrunch articles suggest that 'Automakers and technology companies' as well as 'Car companies' are moving in the same direction regarding the integration of advanced digital platforms and technologies like software, robotics, and artificial intelligence into vehicles?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Do both TechCrunch articles suggest that 'Automakers and technology companies' as well as 'Car companies' are moving in the same direction regarding the integration of advanced digital platforms and technologies like software, robotics, and artificial intelligence into vehicles?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Sam Bankman-Fried, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: FTX, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Alameda Research, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: TechCrunch, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Fortune article, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Did the 'Fortune' article imply that Sam Bankman-Fried's handling of FTX and customer funds at Alameda Research was entirely transparent and proper, unlike the allegations of fraud for personal gain mentioned in the 'TechCrunch' article?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Did the 'Fortune' article imply that Sam Bankman-Fried's handling of FTX and customer funds at Alameda Research was entirely transparent and proper, unlike the allegations of fraud for personal gain mentioned in the 'TechCrunch' article?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: TechCrunch, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: app store for AI, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: ChatGPT, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: GPT-4, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: GPT-4 Turbo API, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: What is the name of the organization mentioned in four TechCrunch articles that is promoting an "app store for AI" as a primary platform, is facing financial stability questions despite the success of ChatGPT, prioritizes ChatGPT as a development platform, and is planning to launch GPT-4 with vision alongside GPT-4 Turbo API?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: What is the name of the organization mentioned in four TechCrunch articles that is promoting an "app store for AI" as a primary platform, is facing financial stability questions despite the success of ChatGPT, prioritizes ChatGPT as a development platform, and is planning to launch GPT-4 with vision alongside GPT-4 Turbo API?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: The Verge, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: TechCrunch, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: major tech companies, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Android app distribution, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: payment processing, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Which company, according to allegations discussed in articles from The Verge and TechCrunch, is involved in anticompetitive practices by making default search engine deals with major tech companies, influencing app distribution and payment processing on Android, and impacting news publishers' content and revenue?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Which company, according to allegations discussed in articles from The Verge and TechCrunch, is involved in anticompetitive practices by making default search engine deals with major tech companies, influencing app distribution and payment processing on Android, and impacting news publishers' content and revenue?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Sam Bankman-Fried, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Caroline Ellison, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Alameda Research, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: TechCrunch, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Customer funds misuse, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Does the Fortune article claim that Sam Bankman-Fried used Caroline Ellison as a front for secret access to customer funds at Alameda Research, while the TechCrunch article alleges that Caroline Ellison took $14 billion from customers to repay debts under Sam Bankman-Fried's instruction, or do both articles assert the same involvement of Sam Bankman-Fried in the misuse of customer funds?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Does the Fortune article claim that Sam Bankman-Fried used Caroline Ellison as a front for secret access to customer funds at Alameda Research, while the TechCrunch article alleges that Caroline Ellison took $14 billion from customers to repay debts under Sam Bankman-Fried's instruction, or do both articles assert the same involvement of Sam Bankman-Fried in the misuse of customer funds?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Silicon Valley figure, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Anthropic co-founders, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Generosity, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Impact, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Transparency issues, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Who is the Silicon Valley figure associated with the rise of artificial intelligence, mentioned in articles by 'The Age', 'Fortune', and 'TechCrunch', who faced no removal efforts by Anthropic co-founders, has been described as generous and impactful, yet is also theorized to have had transparency issues with the board?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Who is the Silicon Valley figure associated with the rise of artificial intelligence, mentioned in articles by 'The Age', 'Fortune', and 'TechCrunch', who faced no removal efforts by Anthropic co-founders, has been described as generous and impactful, yet is also theorized to have had transparency issues with the board?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Epic Games, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: anticompetitive practices, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Android app distribution, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: payment processing, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Apple court defense, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Which company is at the center of allegations involving anticompetitive practices in app distribution and payment processing on Android, as argued by Epic Games according to TechCrunch, and is also accused by news publishers of harming their bottom line through anticompetitive means as reported by TechCrunch, while simultaneously being defended by Apple in court for being the indispensable search engine service provider as stated by The Verge?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Which company is at the center of allegations involving anticompetitive practices in app distribution and payment processing on Android, as argued by Epic Games according to TechCrunch, and is also accused by news publishers of harming their bottom line through anticompetitive means as reported by TechCrunch, while simultaneously being defended by Apple in court for being the indispensable search engine service provider as stated by The Verge?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Snapchat, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Gaza, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: State actions, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: social media documentation, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: TechnCrunch article, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Does the TechCrunch article suggest that Snapchat is being used to document events in Gaza, while the Globes English | Israel Business Arena article discusses the actions of the state during crises, without mentioning the use of social media platforms for documentation?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Does the TechCrunch article suggest that Snapchat is being used to document events in Gaza, while the Globes English | Israel Business Arena article discusses the actions of the state during crises, without mentioning the use of social media platforms for documentation?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Michael Lewis, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Sam Bankman-Fried, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Ross Chastain, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: 2023, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: boxing, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Does the TechCrunch article mention Michael Lewis being present during an event related to Sam Bankman-Fried, while the Essentially Sports article discusses Ross Chastain's presence in both on-track and off-track events in 2023?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Does the TechCrunch article mention Michael Lewis being present during an event related to Sam Bankman-Fried, while the Essentially Sports article discusses Ross Chastain's presence in both on-track and off-track events in 2023?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Uber measures, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Uber financial performance, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: 2023, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: October 13, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: 2023-11-07, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Between the TechCrunch report on Uber's measures to prevent sexual assaults published on October 13, 2023, and the TechCrunch report on Uber's financial performance in Q3 published on November 7, 2023, was there a change in the type of issues being reported about Uber?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Between the TechCrunch report on Uber's measures to prevent sexual assaults published on October 13, 2023, and the TechCrunch report on Uber's financial performance in Q3 published on November 7, 2023, was there a change in the type of issues being reported about Uber?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Sam Bankman-Fried, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: FTX collapse, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: TechCrunch report, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: October 1, 2023, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: October 7, 2023, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Between the TechCrunch report on Sam Bankman-Fried's trial published on October 1, 2023, and the TechCrunch report on the allegations against Sam Bankman-Fried published on October 7, 2023, was there consistency in the portrayal of Sam Bankman-Fried's involvement in the FTX collapse?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Between the TechCrunch report on Sam Bankman-Fried's trial published on October 1, 2023, and the TechCrunch report on the allegations against Sam Bankman-Fried published on October 7, 2023, was there consistency in the portrayal of Sam Bankman-Fried's involvement in the FTX collapse?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Shai Hope, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Chase Young, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Sporting News, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: The Guardian, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: division unification, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Does 'The Guardian' article attribute Shai Hope's success in the run-chase to his ability to hit a massive six, while the 'Sporting News' discusses the San Francisco 49ers' assessment of Chase Young's market value without mentioning his on-field actions?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Does 'The Guardian' article attribute Shai Hope's success in the run-chase to his ability to hit a massive six, while the 'Sporting News' discusses the San Francisco 49ers' assessment of Chase Young's market value without mentioning his on-field actions?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Starz hiring, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: video game industry layoffs, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: TechCrunch article, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Engadget article, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: boxing matches, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Does the TechCrunch article report on new hiring at Starz, while the Engadget article discusses layoffs within the entire video game industry?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Does the TechCrunch article report on new hiring at Starz, while the Engadget article discusses layoffs within the entire video game industry?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: athlete contributing to team's Super Bowl victories, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Taylor Swift's concert, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Christmas Day game, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: The Age, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: The Independent - Life and Style, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Who is the athlete that contributed to his team's Super Bowl victories in both 2020 and 2023, was present at one of Taylor Swift's concerts in Buenos Aires in November, and was anticipated to end his four-game scoring drought in a Christmas Day game against the Raiders according to articles from 'The Age,' 'The Independent - Life and Style,' and 'Yardbarker'?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Who is the athlete that contributed to his team's Super Bowl victories in both 2020 and 2023, was present at one of Taylor Swift's concerts in Buenos Aires in November, and was anticipated to end his four-game scoring drought in a Christmas Day game against the Raiders according to articles from 'The Age,' 'The Independent - Life and Style,' and 'Yardbarker'?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: NFL controversies, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: NASCAR driver Denny Hamlin, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: boxing controversies, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: first contact event, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: joshua, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Does the article from Essentially Sports discussing NFL controversies mention a broader range of issues compared to the Essentially Sports article on Denny Hamlin, which focuses on the controversies and criticism surrounding a single NASCAR driver?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Does the article from Essentially Sports discussing NFL controversies mention a broader range of issues compared to the Essentially Sports article on Denny Hamlin, which focuses on the controversies and criticism surrounding a single NASCAR driver?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Chicago Bears' defense, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Yardbarker, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Joshua Dobbs, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Sunday NFL 'Monday Night Football' game, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Sporting News, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Was the performance of the Chicago Bears' defense reported as worsened by Yardbarker after Sporting News highlighted a sack by the Bears' defense on Joshua Dobbs during the NFL 'Monday Night Football' game?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Was the performance of the Chicago Bears' defense reported as worsened by Yardbarker after Sporting News highlighted a sack by the Bears' defense on Joshua Dobbs during the NFL 'Monday Night Football' game?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: individual accused, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: cryptocurrency exchange, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: falsehoods, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: fraud, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: personal gain, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Who is the individual accused of building a prosperous cryptocurrency exchange on falsehoods, as reported by Fortune, and also alleged by TechCrunch to have intentionally committed fraud for personal gain, while The Verge claims he advised a trader on the limits of fund withdrawals correlating with the exchange's revenue?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Who is the individual accused of building a prosperous cryptocurrency exchange on falsehoods, as reported by Fortune, and also alleged by TechCrunch to have intentionally committed fraud for personal gain, while The Verge claims he advised a trader on the limits of fund withdrawals correlating with the exchange's revenue?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Sam Bankman-Fried, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: TechCrunch report, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: October 2, 2023, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: October 7, 2023, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: praiseworthy intentions, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Between the TechCrunch report on Sam Bankman-Fried's intentions with his wealth published on October 2, 2023, and the TechCrunch report on the allegations against Sam Bankman-Fried published on October 7, 2023, was there no change in the portrayal of Sam Bankman-Fried's actions and intentions?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Between the TechCrunch report on Sam Bankman-Fried's intentions with his wealth published on October 2, 2023, and the TechCrunch report on the allegations against Sam Bankman-Fried published on October 7, 2023, was there no change in the portrayal of Sam Bankman-Fried's actions and intentions?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: TechCrunch, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: non-compliance with GDPR, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: advertising subscription model, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: teen social media usage, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: moderation bias, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Which company, recently reported by TechCrunch, is not only facing scrutiny for potential non-compliance with GDPR due to its advertising subscription model but is also attempting to shift the oversight of teen social media usage to third parties, and has been accused of having a moderation bias that particularly affects Palestinian users?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Which company, recently reported by TechCrunch, is not only facing scrutiny for potential non-compliance with GDPR due to its advertising subscription model but is also attempting to shift the oversight of teen social media usage to third parties, and has been accused of having a moderation bias that particularly affects Palestinian users?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Goliath Game Studios, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: anticompetitive practices, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: GPT-3.5, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: The Age, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Which company is at the center of concerns from news publishers for anticompetitive practices, has been compared to OpenAI's GPT-3.5 in terms of product performance, and is also suspected by the public of potential foul play according to a report by 'The Age'?, top_k: 240, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Which company is at the center of concerns from news publishers for anticompetitive practices, has been compared to OpenAI's GPT-3.5 in terms of product performance, and is also suspected by the public of potential foul play according to a report by 'The Age'?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: TechCrunch, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Spotify, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: $26.3 billion, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: AI, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: GPT-4, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Which company, covered by multiple TechCrunch articles, is not only criticized for its purportedly anticompetitive spending of $26.3 billion to maintain default search engine status but also for the alleged harms its AI, claimed to surpass competitors like GPT-4 in architecture, has inflicted on news publishers' content and revenue?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Which company, covered by multiple TechCrunch articles, is not only criticized for its purportedly anticompetitive spending of $26.3 billion to maintain default search engine status but also for the alleged harms its AI, claimed to surpass competitors like GPT-4 in architecture, has inflicted on news publishers' content and revenue?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Dallas Cowboys, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: The Wildcats, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: offensive effectiveness, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: betting odds, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: sports betting, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Did the Sporting News article suggest that the Dallas Cowboys' offensive effectiveness improved too late in the game, while the Rivals article indicated that The Wildcats' offense lost its effectiveness after a certain point in the game?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Did the Sporting News article suggest that the Dallas Cowboys' offensive effectiveness improved too late in the game, while the Rivals article indicated that The Wildcats' offense lost its effectiveness after a certain point in the game?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: TechCrunch, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: class action antitrust suit, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Google, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Joshua, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Parker, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Did TechCrunch's subsequent report on a class action antitrust suit against Google on December 1, 2023, indicate a consistent portrayal of Google's business practices by the news source?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Did TechCrunch's subsequent report on a class action antitrust suit against Google on December 1, 2023, indicate a consistent portrayal of Google's business practices by the news source?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Sam Bankman-Fried, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: financial incentive, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: political decisions, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: TechnologyCrunch article, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: The Verge article, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Did the TechCrunch article imply that Sam Bankman-Fried offered a financial incentive to influence political decisions, while The Verge article concentrates on his lack of awareness of financial discrepancies, and does the second TechCrunch article assert that his actions were not motivated by personal gain?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Did the TechCrunch article imply that Sam Bankman-Fried offered a financial incentive to influence political decisions, while The Verge article concentrates on his lack of awareness of financial discrepancies, and does the second TechCrunch article assert that his actions were not motivated by personal gain?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: company name, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: antitrust agreement, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: legal issues, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Masimo patent, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: uniform terms enforcement, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Which company, known for its increased responsiveness to consumer feedback as reported by TechCrunch, is also involved in legal disputes as per The Verge, including an antitrust agreement that prevents switching to competitors during product setup and a patent issue with Masimo, while also enforcing uniform terms on developers, OEMs, and carriers through its store and payment system?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Which company, known for its increased responsiveness to consumer feedback as reported by TechCrunch, is also involved in legal disputes as per The Verge, including an antitrust agreement that prevents switching to competitors during product setup and a patent issue with Masimo, while also enforcing uniform terms on developers, OEMs, and carriers through its store and payment system?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: ChatGPT capabilities, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Boxing matches, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Technology in sports betting, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Global impact of boxing, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Championship outcomes, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Does the TechCrunch article describing ChatGPT's multifunctional capabilities, such as cooking, composing music, and writing poetry, align with the description of ChatGPT as a general-purpose chatbot in another TechCrunch article, or do they portray ChatGPT as lacking in functionality in terms of its functionality?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Does the TechCrunch article describing ChatGPT's multifunctional capabilities, such as cooking, composing music, and writing poetry, align with the description of ChatGPT as a general-purpose chatbot in another TechCrunch article, or do they portray ChatGPT as lacking in functionality in terms of its functionality?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: TechCrunch, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: September 28, 2023, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: OpenAI, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: GPT-4, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: vision, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Did TechCrunch, after reporting on September 28, 2023, that OpenAI would not make GPT-4 with vision available alongside the launch of GPT-4 Turbo API, maintain consistency in its view of OpenAI's strategy when reporting on December 19, 2023, about OpenAI pushing an "app store for AI" as the primary platform for obtaining AI tools and toys?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Did TechCrunch, after reporting on September 28, 2023, that OpenAI would not make GPT-4 with vision available alongside the launch of GPT-4 Turbo API, maintain consistency in its view of OpenAI's strategy when reporting on December 19, 2023, about OpenAI pushing an "app store for AI" as the primary platform for obtaining AI tools and toys?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Sam Bankman-Fried, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: TechCrunch, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: October 1, 2023, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: October 15, 2023, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Trial, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Between the TechCrunch report on Sam Bankman-Fried's trial published on October 1, 2023, and the TechCrunch report on the allegations against Sam Bankman-Fried published on October 15, 2023, was the portrayal of Sam Bankman-Fried's legal situation consistent?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Between the TechCrunch report on Sam Bankman-Fried's trial published on October 1, 2023, and the TechCrunch report on the allegations against Sam Bankman-Fried published on October 15, 2023, was the portrayal of Sam Bankman-Fried's legal situation consistent?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Trustworthy figure in cryptocurrency, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Fraud, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Joshua, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Parker, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Fighter, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Who is the individual that presented himself as a trustworthy figure in the cryptocurrency industry according to The Verge, was informed about a significant financial discrepancy after a judge's intervention, and is alleged by the prosecution in a TechCrunch article to have committed fraud for personal gains?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Who is the individual that presented himself as a trustworthy figure in the cryptocurrency industry according to The Verge, was informed about a significant financial discrepancy after a judge's intervention, and is alleged by the prosecution in a TechCrunch article to have committed fraud for personal gains?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: moderation bias, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Palestinians, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Meta, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: tracking ads, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Norway, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Does the TechCrunch article on Meta's moderation bias suggest a different kind of issue affecting Palestinians than the TechCrunch article on Norway's push to extend the ban on Meta's tracking ads, with the former discussing suppression of voices and the latter addressing unlawful user tracking?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Does the TechCrunch article on Meta's moderation bias suggest a different kind of issue affecting Palestinians than the TechCrunch article on Norway's push to extend the ban on Meta's tracking ads, with the former discussing suppression of voices and the latter addressing unlawful user tracking?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Google's Gemini Pro, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: OpenAI's GPT-3.5, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: TechCrunch, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: The Verge, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: News Publishers, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Does the TechCrunch article suggest that Google's Gemini Pro is being compared to OpenAI's GPT-3.5 in terms of performance, while the other TechCrunch article accuses Google of anticompetitive behavior towards news publishers, and does The Verge article discuss different criteria used by Google for local search rankings?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Does the TechCrunch article suggest that Google's Gemini Pro is being compared to OpenAI's GPT-3.5 in terms of performance, while the other TechCrunch article accuses Google of anticompetitive behavior towards news publishers, and does The Verge article discuss different criteria used by Google for local search rankings?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: God in 'Fox News - Lifestyle' article, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Value of God in 'Polygon' article, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: America's future, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Faith in God, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Boxing promotion, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Does the 'FOX News - Lifestyle' article featuring Pastor Jesse Bradley suggest that faith in God holds a different value for America's future compared to the value of God depicted in the 'Polygon' article discussing 'Preacher (comic book and TV adaptation)'?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Does the 'FOX News - Lifestyle' article featuring Pastor Jesse Bradley suggest that faith in God holds a different value for America's future compared to the value of God depicted in the 'Polygon' article discussing 'Preacher (comic book and TV adaptation)'?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Google, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: anticompetitive practices, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: TechCrunch report, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: October 31, 2023, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: December 15, 2023, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Was there a discrepancy in the reporting of Google's anticompetitive practices between the TechCrunch report on the Google antitrust case published on October 31, 2023, and the TechCrunch report on the class action antitrust suit against Google published on December 15, 2023?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Was there a discrepancy in the reporting of Google's anticompetitive practices between the TechCrunch report on the Google antitrust case published on October 31, 2023, and the TechCrunch report on the class action antitrust suit against Google published on December 15, 2023?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: MLB offseason activities, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Ryan Blaney, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: offseason testing, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Sporting News, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: CBSSports.com, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Does the Sporting News article suggest that the MLB offseason activities will intensify during a specific period, while the CBSSports.com article indicates that Ryan Blaney and other drivers participated in offseason testing, thus showing a difference in the type of offseason activities reported by each source?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Does the Sporting News article suggest that the MLB offseason activities will intensify during a specific period, while the CBSSports.com article indicates that Ryan Blaney and other drivers participated in offseason testing, thus showing a difference in the type of offseason activities reported by each source?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: NBA Rookie of the Year, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: NFL Monday Night Football, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: FanDuel 'Prop Stars' picks, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: betting odds, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: division unification, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Do the articles from Sporting News discussing NBA Rookie of the Year odds, NFL Monday Night Football bonuses, and FanDuel 'Prop Stars' picks all suggest that bettors have specific conditions or opportunities to consider when placing bets, or do they present different considerations for bettors?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Do the articles from Sporting News discussing NBA Rookie of the Year odds, NFL Monday Night Football bonuses, and FanDuel 'Prop Stars' picks all suggest that bettors have specific conditions or opportunities to consider when placing bets, or do they present different considerations for bettors?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: TechCrunch, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: antitrust battle, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: annual hardware event, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Gemini Pro, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: OpenAI's GPT-3.5, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: What company, recently covered by TechCrunch, is involved in an antitrust battle where it provided extensive evidence to the court, held an annual hardware event to showcase new developments, compared the performance of its project Gemini Pro to OpenAI's GPT-3.5, and is accused of harming news publishers' revenues through anticompetitive practices?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: What company, recently covered by TechCrunch, is involved in an antitrust battle where it provided extensive evidence to the court, held an annual hardware event to showcase new developments, compared the performance of its project Gemini Pro to OpenAI's GPT-3.5, and is accused of harming news publishers' revenues through anticompetitive practices?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: prop bets, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: team golf events, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Sporting News, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: fantasy football strategy, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: betting options, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Do both articles from Sporting News suggest that bettors have a variety of betting options, with one discussing prop bets for a specific NFL game and the other detailing betting options in team golf events?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Do both articles from Sporting News suggest that bettors have a variety of betting options, with one discussing prop bets for a specific NFL game and the other detailing betting options in team golf events?, top_k: 30, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: FTX, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Binance, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: allegation, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: fraud, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: person gain, top_k: 60, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Who is the individual associated with using FTX customer funds to purchase a stake in Binance and is also facing allegations of fraud for personal gain, as reported by The Verge and TechCrunch?, top_k: 300, cosine_better_than_threshold: 0.2
+INFO:minirag:Query: Who is the individual associated with using FTX customer funds to purchase a stake in Binance and is also facing allegations of fraud for personal gain, as reported by The Verge and TechCrunch?, top_k: 30, cosine_better_than_threshold: 0.2

@@ -1,0 +1,20 @@
+MultiHopRAG: C0 vs +ST
+Qwen2.5-3B | Judge: gemini-3.5-flash-lite
+2,156 questions; 3 generation seeds; 3 judge passes per answer.
+ACC/ERR/Neither below use majority labels; +/- is SD between generation seeds.
+
+| Configuration | ACC mean +/- SD | ERR | Neither | No majority |
+|---|---:|---:|---:|---:|
+| C0 | 57.90 +/- 0.26 | 29.70 | 12.29 | 0.11 |
+| ST | 58.91 +/- 0.64 | 29.50 | 11.49 | 0.11 |
+
+| Seed | Delta ACC (pp) | Wrong -> correct | Correct -> wrong | Exact McNemar p |
+|---|---:|---:|---:|---:|
+| 101 | +1.30 | 83 | 55 | 0.0211995 |
+| 202 | +0.56 | 65 | 53 | 0.311231 |
+| 303 | +1.16 | 69 | 44 | 0.023534 |
+
+Improvement is not confirmed under the registered three-seed rule.
+
+Judge variation per seed and subgroup results: RESULTS.json.
+Frozen index checksums verified unchanged.

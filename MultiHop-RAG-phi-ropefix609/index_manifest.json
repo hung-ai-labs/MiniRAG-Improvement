@@ -1,0 +1,54 @@
+{
+  "dataset": "MultiHop-RAG",
+  "subset": "full",
+  "docs_jsonl_sha256": "5816d2d43cb0bbd825f61414c1648c38e57b495c211b7d046936da0c32fd8077",
+  "selected_doc_ids_sha256": "d833be32d20893a55324ff799db8ab337f811dd2d0a2df6838bfe436db42cc42",
+  "settings": {
+    "chunk_token_size": 1200,
+    "chunk_overlap_token_size": 100,
+    "tiktoken_model_name": "gpt-4o-mini",
+    "entity_extract_max_gleaning": 1,
+    "model": "minirag-slm",
+    "embedmodel": "local",
+    "max_tokens": "4096",
+    "llm_model_max_token_size": 200,
+    "pilot_seed": 13,
+    "pilot_size": null
+  },
+  "source_sha256": "f1e04ebde92ba12e90ba51616678423d436ee9c115d3bd6771dcbb55fb206434",
+  "endpoint_sha256": "54e3c61668a5907322039b798271ebb583af328df3333ddef7dd5f4b04b4c653",
+  "expected": {
+    "docs": 609,
+    "chunks": 1656,
+    "llm_calls_before_retries": 3312
+  },
+  "status": "completed",
+  "updated_at": "2026-11-18T20:47:34.989456+00:00",
+  "verification": {
+    "all_docs_processed": true,
+    "chunks_match_expected": true,
+    "chunks_point_to_their_doc": true,
+    "chunk_vectors_match_chunks": true,
+    "every_chunk_extracted": true,
+    "graph_sources_exist": true
+  },
+  "counts": {
+    "docs": 609,
+    "chunks": 1656,
+    "nodes": 22841,
+    "edges": 13727,
+    "chunks_without_graph_source": 3
+  },
+  "file_sha256": {
+    "extracted_chunks.json": "280f019deb098a5d9edf7a01465eee84a32d73a36aab41167e68d121ab6db613",
+    "graph_chunk_entity_relation.graphml": "1267fd1502016252c5d38e1385636da2f748bdb4fdd30811da1b19d7fb3ca020",
+    "kv_store_doc_status.json": "3b60226a16d9ecbd8082d3b32419eb503a546d0279e86c96f5eab56cedf217f3",
+    "kv_store_full_docs.json": "dd00900e787f28e61c7dd3d2dc4e55a8701913e8a59014730432381ce4a600af",
+    "kv_store_llm_response_cache.json": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+    "kv_store_text_chunks.json": "ab70fda7870d9a18ca2f8075c1ca7c99c69ab79cfc97fc07d94786bb3cde32b7",
+    "vdb_chunks.json": "c33bd92b6faf8b62df4d4d915574936a3237fd59a3f8071b9901cce1cdfe151a",
+    "vdb_entities.json": "009dc97fc2d899625bac287e3ea7f08687de4451da705fe8f36989e8a48f1231",
+    "vdb_entities_name.json": "298c6a55616f5469e99fc02e02b7e35f6eeed1328e32c4d067a857f445be8b5c",
+    "vdb_relationships.json": "208c5755b76ef7b828dd1e3b07ac2862870aeb87efd4377976de8a9b5f2df718"
+  }
+}

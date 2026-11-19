@@ -1,0 +1,31 @@
+MultiHopRAG: C0 vs +ST vs +F vs +CE
+Qwen2.5-3B | Judge: gemini-3.5-flash-lite
+2,156 questions; 3 generation seeds; 3 judge passes per answer.
+ACC/ERR/Neither use majority labels; +/- is sample SD between generation seeds.
+
+| Configuration | ACC mean +/- SD | ERR | Neither | No majority | Evidence recall (micro) | Full evidence |
+|---|---:|---:|---:|---:|---:|---:|
+| C0 | 57.90 +/- 0.26 | 29.70 | 12.29 | 0.11 | 0.168 | 3.3% |
+| C0+ST | 58.91 +/- 0.64 | 29.50 | 11.49 | 0.11 | 0.221 | 6.0% |
+| C0+ST+F | 63.81 +/- 1.03 | 28.11 | 7.93 | 0.15 | 0.319 | 9.6% |
+| C0+ST+F+CE | 64.70 +/- 0.60 | 27.61 | 7.58 | 0.11 | 0.336 | 11.1% |
+
+CE vs F (primary)
+| Seed | Delta ACC (pp) | Wrong -> correct | Correct -> wrong | Exact McNemar p |
+|---|---:|---:|---:|---:|
+| 101 | +0.88 | 193 | 174 | 0.34744 |
+| 202 | +0.32 | 180 | 173 | 0.749514 |
+| 303 | +1.48 | 189 | 157 | 0.0954578 |
+
+CE vs C0
+| Seed | Delta ACC (pp) | Wrong -> correct | Correct -> wrong | Exact McNemar p |
+|---|---:|---:|---:|---:|
+| 101 | +7.33 | 398 | 240 | 4.1859e-10 |
+| 202 | +7.10 | 367 | 214 | 2.26827e-10 |
+| 303 | +5.98 | 368 | 239 | 1.84609e-07 |
+
+CE over F: improvement is not confirmed under the registered three-seed rule.
+
+By-type CE vs F is exploratory, without multiplicity correction; see RESULTS.json.
+Subgroups, ERR/Neither, verdict origins and judge variation: RESULTS.json.
+Frozen index checksums verified unchanged.

@@ -1,0 +1,24 @@
+{
+  "model": "microsoft/Phi-3.5-mini-instruct",
+  "model_revision": "2fe192450127e6a83f7441aef6e3ca586c338b77",
+  "served_model_names": ["microsoft/Phi-3.5-mini-instruct", "minirag-slm"],
+  "vllm_version": "0.11.0",
+  "gpu": "A100-80GB",
+  "dtype": "auto",
+  "max_model_len": 32768,
+  "longrope_fix": {
+    "source": "reproduce/modal_slm_phi.py (ROPE_FIX = True)",
+    "implementation": "--hf-overrides sets rope_scaling.short_factor equal to rope_scaling.long_factor",
+    "reason": "vLLM 0.11.0 selects the LongRoPE factors for the whole forward call when any position exceeds 4096. Using long factors for every position prevents a sequence's KV cache from mixing encodings as the batch changes."
+  },
+  "sampling": {
+    "source": "vLLM defaults. This Phi revision's generation_config.json sets no sampling values.",
+    "temperature": 1.0,
+    "top_p": 1.0,
+    "max_tokens": 1024,
+    "seed": "MINIRAG_SLM_SEED per request (dev 101, test 101/202/303)"
+  },
+  "provenance": {
+    "revision": "Registered Hugging Face main revision as of 2026-11-18. The Modal app does not pass --revision. The public serving check verifies both names and the vLLM version and records the revision only if the endpoint exposes it."
+  }
+}

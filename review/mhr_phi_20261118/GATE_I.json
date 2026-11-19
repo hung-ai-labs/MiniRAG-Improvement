@@ -1,0 +1,9 @@
+{"gate": "I (full index)", "checked_at": "2026-11-19T03:52+07:00", "passed": true,
+ "index": "MultiHop-RAG-phi-ropefix609 (moved from review/mhr_phi_20261118/index_source/indexes/multihop_rag-phi-full609)",
+ "counts": {"docs": 609, "chunks": 1656, "nodes": 22841, "edges": 13727, "chunks_without_graph_source": 3},
+ "verification": "all six checks true",
+ "index_health": {"zero_entity_chunks": "3/1656 (0.2%)", "by_length": {"0-300": "0/239", "300-800": "1/281", ">=800": "2/1136"}, "threshold": "<= 5%"},
+ "qwen_reference": {"zero_entity_chunks": "5/1656 (0.3%)", "nodes": 18561, "edges": 14849},
+ "requests": {"total": 3312, "response_model": "microsoft/Phi-3.5-mini-instruct (all)", "finish_length": "95 (glean 91, extract 4)"},
+ "pilot": "30 articles, 0/69 zero-entity, passed 2026-11-18 22:17",
+ "modal_cost_month_after_index_usd": 19.81, "workspace": "nguyenhuuanhtai426"}

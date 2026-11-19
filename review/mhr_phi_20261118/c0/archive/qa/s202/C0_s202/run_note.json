@@ -1,0 +1,23 @@
+{
+  "split": "test",
+  "seed": 202,
+  "index": "E:\\Project\\MiniRAG research\\MiniRAG-Improvement\\MultiHop-RAG-phi-ropefix609",
+  "index_manifest_sha256": "820070748747c044e7778e16e3b5c7be66f5fba5cd331cd2f21ed49857de3beb",
+  "questions_sha256": "e37a4599e8485b5b76f6b60157648b60564f51ee7eceaeb6798f7dbd523d069d",
+  "frozen_source_sha256": "7d975c4c81b612f3268508b23a7e5149925f6f986164df80abe3a0f360bef4b0",
+  "serving_spec_sha256": "7b234dbfa523aa32617facdb9274fc4c7f184f0653bc776ad3163dd12dce6ef8",
+  "model": "microsoft/Phi-3.5-mini-instruct",
+  "mode": "mini",
+  "environment": {
+    "MINIRAG_ANSWER_TYPE_FIX": "1",
+    "MINIRAG_PATH2CHUNK_FIX": "0",
+    "MINIRAG_CHUNK_CUT": "",
+    "MINIRAG_TRUNCATE_SOURCES": "1",
+    "MINIRAG_MAX_TOKENS": "1024",
+    "MINIRAG_CHUNK_FUSION": ""
+  },
+  "python_hash_seed": 13,
+  "workers": 3,
+  "llm_max_async": 32,
+  "questions": 2156
+}

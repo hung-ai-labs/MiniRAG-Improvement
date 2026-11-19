@@ -1,0 +1,16 @@
+entity-answer questions (gold not yes/no, type not null): 771 of 2156; yes/no 1131 (judge-only)
+
+seed 101: rule F 82.62  CE 83.27  delta +0.65 pp  CE vs F +34/-29 p=0.615
+          judge on same subset: F 77.95  CE 78.47  +50/-46 p=0.76
+          Fleiss kappa CE verdicts: all 0.907 (N=2156, unanimous 2007); newly judged only 0.910 (N=1584, unanimous 1480)
+          verdict origins: {'F_identical_answer': 566, 'judged_CE': 1584, 'ST_identical_answer': 3, 'C0_identical_answer': 3}
+
+seed 202: rule F 82.62  CE 84.18  delta +1.56 pp  CE vs F +33/-21 p=0.134
+          judge on same subset: F 79.51  CE 79.90  +45/-42 p=0.83
+          Fleiss kappa CE verdicts: all 0.925 (N=2156, unanimous 2037); newly judged only 0.927 (N=1565, unanimous 1481)
+          verdict origins: {'F_identical_answer': 582, 'judged_CE': 1565, 'ST_identical_answer': 4, 'C0_identical_answer': 5}
+
+seed 303: rule F 82.88  CE 83.01  delta +0.13 pp  CE vs F +33/-32 p=1
+          judge on same subset: F 80.16  CE 80.03  +46/-47 p=1
+          Fleiss kappa CE verdicts: all 0.916 (N=2156, unanimous 2021); newly judged only 0.914 (N=1595, unanimous 1494)
+          verdict origins: {'F_identical_answer': 549, 'judged_CE': 1595, 'C0_identical_answer': 4, 'ST_identical_answer': 8}

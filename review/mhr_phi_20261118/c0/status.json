@@ -1,0 +1,18 @@
+{
+  "state": "failed",
+  "at": "2026-11-19T07:56:58.131052+00:00",
+  "phase": "answers",
+  "split": "test",
+  "seed": 202,
+  "completed_cohorts": [
+    {
+      "split": "dev",
+      "seed": 101
+    },
+    {
+      "split": "test",
+      "seed": 101
+    }
+  ],
+  "error_type": "CalledProcessError"
+}

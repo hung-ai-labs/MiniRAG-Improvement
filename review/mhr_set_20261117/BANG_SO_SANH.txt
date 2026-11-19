@@ -1,0 +1,40 @@
+MultiHopRAG: C0 vs +ST vs +F vs +CE vs +set
+Qwen2.5-3B | Judge: gemini-3.5-flash-lite
+2,156 questions; 3 generation seeds; 3 judge passes per answer.
+ACC/ERR/Neither use majority labels; +/- is sample SD between generation seeds.
+
+| Configuration | ACC mean +/- SD | ERR | Neither | No majority | Evidence recall (micro) | Full evidence | Mean Sources tokens |
+|---|---:|---:|---:|---:|---:|---:|---:|
+| C0 | 57.90 +/- 0.26 | 29.70 | 12.29 | 0.11 | 0.168 | 3.3% | 3476.8 |
+| C0+ST | 58.91 +/- 0.64 | 29.50 | 11.49 | 0.11 | 0.221 | 6.0% | 3480.7 |
+| C0+ST+F | 63.81 +/- 1.03 | 28.11 | 7.93 | 0.15 | 0.319 | 9.6% | 3441.8 |
+| C0+ST+F+CE | 64.70 +/- 0.60 | 27.61 | 7.58 | 0.11 | 0.336 | 11.1% | 3442.7 |
+| C0+ST+F+CE+set | 64.97 +/- 0.51 | 26.90 | 7.95 | 0.15 | 0.336 | 10.5% | 3215.1 |
+
+SET vs CE (primary, registered)
+| Seed | Delta ACC (pp) | Wrong -> correct | Correct -> wrong | Exact McNemar p |
+|---|---:|---:|---:|---:|
+| 101 | +0.19 | 215 | 211 | 0.884456 |
+| 202 | -0.23 | 206 | 211 | 0.844733 |
+| 303 | +0.83 | 204 | 186 | 0.389359 |
+
+SET vs F (secondary)
+| Seed | Delta ACC (pp) | Wrong -> correct | Correct -> wrong | Exact McNemar p |
+|---|---:|---:|---:|---:|
+| 101 | +1.07 | 277 | 254 | 0.339727 |
+| 202 | +0.09 | 236 | 234 | 0.963216 |
+| 303 | +2.32 | 257 | 207 | 0.0228173 |
+
+SET vs C0
+| Seed | Delta ACC (pp) | Wrong -> correct | Correct -> wrong | Exact McNemar p |
+|---|---:|---:|---:|---:|
+| 101 | +7.51 | 398 | 236 | 1.28908e-10 |
+| 202 | +6.86 | 383 | 235 | 2.83531e-09 |
+| 303 | +6.82 | 374 | 227 | 2.16987e-09 |
+
+SET over CE: improvement is not confirmed under the registered three-seed rule.
+SET vs F is secondary because CE was not confirmed over F.
+By-type SET vs CE is exploratory without multiplicity correction.
+Entity-answer substring metric, CE judge drift, Fleiss kappa, ERR/Neither and origins: RESULTS.json.
+Yes/no answers are scored only by the LLM judge.
+Frozen index checksums verified unchanged.

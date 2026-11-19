@@ -1,0 +1,6 @@
+Seed-101 judge validity checks (2026-11-15, offline, 0 API). Reproduce: run check.py from review/.
+1. Blinding: judge prompt = Step_2_evaluate.JUDGE_PROMPT with only question/gold/pred; no system label.
+2. Self-consistency over 3 passes: Fleiss kappa C0 .912 / ST .916 / F .902; unanimous ~93%.
+3. Independent rule metric (normalized gold substring of answer):
+   - entity-answer questions (771): rule F vs ST +97/-51 p=1.9e-4 (76.65 -> 82.62); judge 69.91 -> 77.95; judge-rule agreement 88%. Confirms F gain without an LLM.
+   - yes/no questions (1131): rule unusable (SLM answers rarely state yes/no; rule ACC ~13% vs judge ~52-58%). Judge must infer implied yes/no; judge F vs ST +209/-161 p=.014. Needs human or second-judge validation.
