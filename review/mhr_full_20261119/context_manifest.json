@@ -1,0 +1,37 @@
+{
+  "generation_seed": 101,
+  "n": 2556,
+  "existing_test": 2156,
+  "new_dev": 400,
+  "dev_st_replays": 400,
+  "set_nested_params": {
+    "0": [
+      0.0,
+      0.05
+    ],
+    "1": [
+      0.5,
+      0.1
+    ],
+    "2": [
+      0.25,
+      0.1
+    ],
+    "3": [
+      0.0,
+      0.05
+    ],
+    "4": [
+      0.0,
+      0.05
+    ]
+  },
+  "contexts_sha256": "bf1210038b63a2ba15eb78abc287d7bc93faadfbd0aaa7e7802c6a99dc6d1333",
+  "test_verdicts_sha256": {
+    "C0": "525d100aaa5bb46871ac3e3925fdb659678dc4f5b2617356f99bb8fd3a6b4aa3",
+    "ST": "4a5ea63276912fdf513b76e3ea79c3e0f2379fac422739964318d43e035eff27",
+    "F": "b2a5b837b3137184afca94ed5367ab16608498f2e916a5fc1d6f4ee4c4fbbe78",
+    "CE": "fa9008fbed13b75cab5bd000002f2a4d238fe220538376d418b3260dab963639",
+    "SET": "7d6b9a67f6aafddf164760edf9cd1589b808439e4c64ca62bdabbf0b682decbe"
+  }
+}

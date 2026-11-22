@@ -1,0 +1,105 @@
+\input{generated/mhr_full_status}
+\begin{abstract}
+Khi nhiều đoạn văn cùng đề cập đến một sự kiện, đoạn phù hợp nhất với câu hỏi chưa chắc là đoạn đáng thêm nhất vào ngữ cảnh. Giá trị của đoạn tiếp theo còn phụ thuộc vào những dữ kiện mà mô hình đã được cung cấp. Chúng tôi khảo sát hai quyết định này trong MiniRAG: xếp hạng các đoạn theo mức độ liên quan và chọn các đoạn bổ sung cho nhau trong giới hạn ngữ cảnh của mô hình ngôn ngữ nhỏ. Chúng tôi đánh giá Qwen2.5-3B-Instruct trên hai nguồn có đặc điểm khác nhau: hội thoại cá nhân trong LiHua-World và tin tức trong MultiHop-RAG. Trên LiHua-World, độ chính xác trung bình cao nhất khi từng đoạn được chấm cùng câu hỏi bằng cross-encoder. Trên MultiHop-RAG, mức tăng độ chính xác lớn nhất xuất hiện khi mở rộng tập ứng viên và xếp hạng lại các đoạn. Bước chọn đoạn theo lượng thông tin dự kiến bổ sung trên mỗi token giúp rút ngắn ngữ cảnh trên MultiHop-RAG, trong khi mức thay đổi độ chính xác so với cross-encoder nhỏ trên cả hai bộ dữ liệu. Kết quả cho thấy bước xếp hạng đem lại phần lớn mức tăng độ chính xác quan sát được, còn lợi ích rõ nhất của bước chọn tập là giảm lượng văn bản mô hình phải đọc trên MultiHop-RAG.
+\end{abstract}
+
+\section{Introduction}
+MiniRAG được thiết kế để mô hình ngôn ngữ nhỏ có thể khai thác một kho tài liệu bên ngoài khi trả lời câu hỏi~\cite{fan2025minirag}. Fan và cộng sự biểu diễn các thực thể và các đoạn văn trong cùng một đồ thị. Khi nhận câu hỏi, hệ thống kết hợp độ tương đồng ngữ nghĩa với các đường đi trên đồ thị để tìm về văn bản nguồn. Nhờ các liên kết này, một thực thể được nhắc đến trong câu hỏi có thể dẫn mô hình tới đoạn chứa dữ kiện về một thực thể liên quan.
+
+Một hạn chế của MiniRAG xuất hiện ở bước chuyển từ danh sách truy xuất sang ngữ cảnh: một đoạn chứa dữ kiện cần thiết có thể đã được tìm thấy nhưng xếp quá thấp để lọt vào phần nguồn mà mô hình nhỏ được đọc. Chẳng hạn, khi câu hỏi yêu cầu so sánh hai sự kiện, nhiều đoạn về sự kiện thứ nhất đều có lý do để đứng hạng cao. Nếu chúng chiếm hết ngân sách ngữ cảnh, mô hình chỉ có căn cứ cho một vế của phép so sánh. Khi ấy, đưa đoạn về sự kiện thứ hai lên trước có giá trị hơn việc bổ sung một mô tả nữa về sự kiện thứ nhất.
+
+Nghiên cứu này giữ lại chỉ mục đồ thị của MiniRAG và tập trung vào hai quyết định ở bước chọn nguồn. Trước hết, đoạn nào nên được ưu tiên? Chúng tôi kết hợp tín hiệu từ quá trình truy xuất với thông tin thời gian và mức độ phù hợp giữa câu hỏi và nội dung đoạn. Tiếp theo, khi đã chọn một số đoạn, đoạn nào còn đáng thêm? Chúng tôi xét phần thông tin mà mỗi đoạn có thể bổ sung cùng với số token cần để đưa đoạn đó vào ngữ cảnh. Qua hai quyết định này, chúng tôi khảo sát cách lựa chọn bằng chứng ảnh hưởng đến lượng văn bản mô hình nhỏ phải đọc và chất lượng câu trả lời của nó.
+
+\section{Related Work}
+
+\subsection{Từ truy xuất ứng viên đến xếp hạng bằng chứng}
+Trong kiến trúc RAG của Lewis và cộng sự, bộ truy xuất tìm các đoạn từ kho tài liệu để mô hình sinh khai thác khi trả lời~\cite{lewis2020rag}. MiniRAG bổ sung một con đường tìm bằng chứng qua các liên kết giữa thực thể và đoạn văn, phù hợp với mục tiêu sử dụng mô hình ngôn ngữ nhỏ~\cite{fan2025minirag}. Với cả hai cách tiếp cận, một đoạn chỉ có thể ảnh hưởng đến câu trả lời qua phần nguồn nếu nó vừa được tìm thấy vừa được chọn vào đầu vào của mô hình. Phân biệt hai điều kiện này đặc biệt quan trọng khi nhiều đoạn ứng viên cùng đề cập đến một người hoặc sự kiện.
+
+Nogueira và Cho đưa BERT vào giai đoạn xếp hạng lại: mô hình đọc chung truy vấn và từng đoạn ứng viên để ước lượng mức liên quan~\cite{nogueira2019passage}. Cách chấm theo cặp cho phép một từ trong câu hỏi được diễn giải dựa trên nội dung cụ thể của đoạn. Trong MiniRAG, quan hệ trên đồ thị và thời điểm của nguồn còn cung cấp những dấu hiệu khác. Chúng tôi dùng điểm của cross-encoder như một đặc trưng bổ sung rồi so với bộ xếp hạng đã có các dấu hiệu truy xuất và thời gian. Hai cấu hình này xét cùng danh sách ứng viên, nhờ đó phép so đánh giá được phần đóng góp bổ sung của việc đọc chung câu hỏi và đoạn.
+
+\subsection{Chọn các đoạn bổ trợ nhau trong ngân sách nguồn}
+Xếp hạng riêng từng đoạn để ngỏ một tình huống: hai đoạn cùng đạt điểm cao vì cùng nhắc lại một dữ kiện. Trong tóm tắt trích xuất, Lin và Bilmes mô hình hóa độ phủ và tính đa dạng bằng các hàm dưới môđun: lợi ích của một câu có thể giảm khi bản tóm tắt đã chứa những câu có nội dung tương tự~\cite{lin2011submodular}. Với hỏi đáp, nội dung cần bao phủ phụ thuộc vào câu hỏi. Bộ chọn của chúng tôi ước lượng phần bổ sung từ tài liệu nguồn, từ khóa và mốc thời gian. Hai đoạn trong cùng tài liệu vẫn có thể chứa hai dữ kiện khác nhau, vì vậy tác động của quy tắc này cần được kiểm tra bằng nhãn bằng chứng.
+
+RECOMP học cách rút gọn tài liệu truy xuất bằng cách chọn câu hoặc sinh bản tóm tắt trước khi đưa văn bản vào mô hình ngôn ngữ~\cite{xu2024recomp}. Gần với bài toán chọn nguồn hơn, BEAR phân bổ ngân sách bằng chứng trên một cấu trúc tài liệu phân cấp cho các tác vụ cần suy luận qua nhiều tài liệu~\cite{sun2026bear}. Hai công trình đặt ra những lựa chọn khác nhau về đơn vị xử lý: một hệ thống có thể viết lại văn bản, trích câu hoặc chọn phần nào của kho tài liệu để đọc tiếp. Trong thiết lập của chúng tôi, đơn vị lựa chọn là nguyên đoạn do MiniRAG truy xuất. Quyết định cần học là đoạn nào đáng đưa vào phần nguồn của Qwen2.5-3B và khi nào có thể dừng. Vì vậy, chúng tôi theo dõi cả bằng chứng còn lại sau bước chọn, số token nguồn và câu trả lời cuối trên LiHua-World và MultiHop-RAG.
+
+\input{sections/selection_method}
+
+\section{Thiết lập thực nghiệm}
+\subsection{Dữ liệu, cấu hình và ngân sách nguồn}
+Đơn vị đánh giá là một câu hỏi trong MultiHop-RAG. Toàn bộ 2.556 câu, gồm các nhóm suy luận, so sánh, thời gian và thiếu thông tin, được đưa vào thiết kế đánh giá của cả năm cấu hình. Dòng MiniRAG tái lập là C0. Các cột +ST, +F, +CE và +SET thể hiện các cấu hình cộng dồn theo thứ tự. Qwen2.5-3B-Instruct sinh một câu trả lời cho mỗi câu hỏi và cấu hình với cùng seed cố định và ngân sách 4.000 token cho phần nguồn.
+
+ST thay đổi thứ tự nguồn khi tìm thấy mốc thời gian trong câu hỏi. F xếp lại toàn bộ ứng viên từ truy xuất gốc trước khi đóng gói đoạn. Cấu hình ST chỉ đóng gói từ phần đầu danh sách, nên hiệu ứng F bao gồm tác động của việc tiếp cận thêm ứng viên. CE và SET dùng cùng tập ứng viên với F. CE bổ sung logit từ cặp câu hỏi--đoạn, với giới hạn 512 đơn vị WordPiece cho bộ chấm ngữ nghĩa. Khối văn bản gửi tới mô hình sinh dùng nguyên đoạn được chọn trong giới hạn nguồn.
+
+\subsection{Sử dụng toàn tập và kiểm soát việc học từ nhãn}
+Hai phần của tập câu hỏi được xử lý theo lịch sử phát triển của nghiên cứu. Với 2.156 câu ngoài giai đoạn phát triển, F và CE dùng các bộ chấm đã khớp trên 400 câu phát triển. SET dùng tham số đã khóa từ cùng giai đoạn. Các phán quyết lưu trữ cho lượt sinh cố định được dùng trực tiếp.
+
+Với 400 câu còn lại, F và CE dùng điểm dự đoán ngoài fold. Việc chia fold nhóm các câu có tài liệu bằng chứng chung trong phần này. Khi đánh giá một fold, bộ chấm học từ các fold còn lại. SET chọn tham số bằng các dự đoán kiểm định chéo bên trong phần huấn luyện của fold ngoài. Cả dữ liệu khớp bộ chấm bên trong lẫn các câu dùng để tính tiêu chí chọn tham số đều loại fold đang đánh giá. Sau bước này, mỗi câu thuộc 400 câu phát triển có đúng một ngữ cảnh đánh giá cho mỗi cấu hình. Các kết quả được cộng với 2.156 câu còn lại theo số câu, tạo thành một bảng duy nhất cho toàn tập.
+
+Tiêu chí chọn SET giữ các cấu hình nằm trong dung sai một phần trăm số câu có nhãn so với cấu hình thu hồi đủ bằng chứng cho nhiều câu nhất. Trong số đó, bộ chọn ưu tiên độ dài nguồn trung bình thấp nhất. Nhãn bằng chứng chỉ phục vụ khớp bộ chấm và chọn tham số trên phần huấn luyện của mỗi phép đánh giá. Việc thiết kế phương pháp ban đầu vẫn dựa một phần trên 400 câu phát triển và được xem là một giới hạn của điểm toàn tập.
+
+\subsection{Chấm câu trả lời}
+Gemini 3.5 Flash Lite chấm mỗi câu trả lời ba lần theo cùng rubric. Nhãn đa số quy định kết quả ở cấp câu hỏi. ACC là số câu có nhãn \emph{accurate} chia cho tổng số câu. ERR là tỷ lệ câu mang nhãn \emph{error}. Câu nhận nhãn \emph{neither} hoặc không có đa số vẫn thuộc mẫu số. Với các cấu hình có cùng ngữ cảnh cho một câu, quy trình tạo một đầu ra rồi tái sử dụng. Các văn bản trả lời giống nhau của cùng một câu dùng chung kết quả chấm. Cách trình bày ACC và ERR theo cặp dựa trên Bảng~1 của MiniRAG~\cite{fan2025minirag}.
+
+\ifFullResults
+\section{Kết quả toàn tập}
+\begin{table}[htbp]\centering
+\caption{Kết quả trên toàn bộ MultiHop-RAG (2.556 câu). Mỗi cấu hình có một cặp ACC và ERR tính theo phần trăm.}
+\label{tab:mhr-full}
+\resizebox{\linewidth}{!}{\input{generated/mhr_full_main}}
+\end{table}
+
+Bảng~\ref{tab:mhr-full} tổng hợp phán quyết đã hoàn tất trên toàn bộ 2.556 câu cho cả năm cấu hình. Các phép đối chiếu từng bước dùng cùng mẫu câu hỏi và mẫu số.
+\fi
+
+\section{Kết quả trên LiHua-World và MultiHop-RAG}
+Trên LiHua-World, chúng tôi dùng 200 câu phát triển và đánh giá trên 435 câu hội thoại còn lại, gồm 347 câu Single, 43 câu Multi và 45 câu Null. Mô hình sinh và ngân sách nguồn giống thí nghiệm MultiHop-RAG. Bảng~\ref{tab:both-datasets} tổng hợp ba lượt sinh cho mỗi cấu hình. Trên LiHua-World, ACC và ERR là tỷ lệ trung bình qua các lượt sinh và chấm của DeepSeek. Trên 2.156 câu ngoài tập phát triển của MultiHop-RAG, mỗi lượt sinh dùng nhãn đa số của Gemini trước khi lấy trung bình qua ba lượt. Vì hai giao thức chấm khác nhau, chúng tôi so sánh các cấu hình trong từng bộ dữ liệu.
+\begin{table}[htbp]\centering
+\caption{ACC và ERR của năm cấu hình trên hai bộ dữ liệu, tính theo phần trăm. Chữ đậm đánh dấu kết quả tốt nhất trong mỗi cột.}
+\label{tab:both-datasets}
+\input{generated/selection_results}
+\end{table}
+
+Trên LiHua-World, cấu hình CE đạt ACC cao nhất (59,05\%). Khi thêm SET, ACC giảm nhẹ xuống 58,93\%. Trên MultiHop-RAG, mức tăng ACC lớn nhất giữa hai cấu hình liên tiếp xuất hiện từ ST đến F.
+
+\subsection{Kết quả trên 2.156 câu ngoài tập phát triển của MultiHop-RAG}
+Bảng~\ref{tab:mhr-current} dùng seed 101. C0 trả lời đúng 1.250 câu và trả lời sai 624 câu. Khi ưu tiên thời gian, số câu đúng tăng lên 1.278. Thay đổi lớn nhất xuất hiện ở bước F, khi ACC tăng thêm 5,15 điểm phần trăm so với ST (tính trước khi làm tròn). Bước này đồng thời cho phép chọn từ danh sách dài hơn và học thứ tự ưu tiên.
+\begin{table}[htbp]\centering
+\caption{ACC và ERR trên cùng 2.156 câu, tính theo phần trăm.}
+\label{tab:mhr-current}
+\resizebox{\linewidth}{!}{\input{generated/mhr_full_interim}}
+\end{table}
+
+CE đạt tỷ lệ trả lời sai thấp nhất (26,11\%). Với SET, ACC tăng lên 65,49\% nhưng ERR cũng tăng lên 26,58\%. Hai tỷ lệ có thể tăng đồng thời vì một câu còn có thể nhận nhãn trung gian hoặc thiếu phán quyết đa số.
+
+\subsection{Độ nhạy theo lượt sinh}
+Với mỗi cặp cấu hình, chúng tôi đối chiếu nhãn đúng trên từng câu. Nếu $u$ câu chuyển sang đúng và $d$ câu mất nhãn đúng, hiệu ACC bằng $100(u-d)/2156$ điểm phần trăm. Bảng~\ref{tab:sensitivity} dùng kiểm định McNemar chính xác trên các cặp đổi nhãn. Ba cột tương ứng với ba lần sinh trên cùng tập câu hỏi.
+\begin{table}[htbp]\centering\small
+\caption{Hiệu ACC theo điểm phần trăm trên 2.156 câu. Trong ngoặc là giá trị $p$ của phép so ghép cặp ở từng seed.}
+\label{tab:sensitivity}
+\input{generated/selection_pairs}
+\end{table}
+
+F cải thiện ACC ở cả ba seed, với biên độ từ 3,34 đến 6,22 điểm phần trăm. Ở bước SET, chiều thay đổi phụ thuộc vào seed. Riêng seed 101 có 215 câu chuyển sang đúng và 211 câu mất nhãn đúng. Chênh lệch ròng bốn câu che khuất việc 426 câu đổi trạng thái. Các so sánh này chưa xác lập một biên sai số trong đó CE và SET có thể coi là tương đương.
+
+\subsection{Bằng chứng trong phần nguồn}
+Trên các câu có nhãn bằng chứng, recall đo phần bằng chứng tham chiếu thu hồi được, còn tỷ lệ đủ bằng chứng đếm những câu thu hồi được toàn bộ tập tham chiếu. Từ ST sang F, recall tăng từ 22,1\% lên 31,9\% và tỷ lệ đủ tăng từ 6,0\% lên 9,6\%. Đây cũng là bước có mức tăng ACC lớn nhất. Hai quan sát ở cấp tập câu hỏi chưa cho biết dữ kiện nào quyết định một câu trả lời cụ thể.
+
+Từ CE sang SET, recall sau làm tròn đều bằng 33,6\%, trong khi tỷ lệ đủ bằng chứng giảm từ 11,1\% xuống 10,5\%. Độ dài nguồn trung bình trên cả 2.156 câu giảm từ 3.442,7 xuống 3.215,1 token, tương ứng khoảng 6,6\%. Để quy đổi phần tiết kiệm này thành độ trễ đầu cuối cần đo thêm thời gian chấm ứng viên và thời gian sinh đáp án.
+
+\subsection{Hai trường hợp đổi phán quyết}
+Chúng tôi chọn ví dụ bằng một quy tắc xác định sau khi có kết quả. Trong thứ tự gốc của seed 101, với các câu ngoài nhóm Null, lấy câu đầu tiên mà SET đạt nhãn đúng còn CE chưa đạt và câu đầu tiên có chiều ngược lại. Nhãn là phán quyết đa số của Gemini. Hai trường hợp minh họa cách câu trả lời thay đổi. Tần suất thay đổi được đo trên toàn bộ tập bằng kiểm định ghép cặp.
+
+\paragraph{Câu \texttt{mhr-0011}, so sánh hai nguồn tin thể thao.}
+Câu hỏi yêu cầu xác nhận đồng thời mục tiêu cải thiện thành tích của đội Davis Cup Australia và kết quả của đội rugby Nam Phi. Đáp án tham chiếu là \emph{Yes}. CE dành phần lớn câu trả lời bàn về đội rugby Australia rồi kết luận thiếu thông tin. SET đề cập cả phát biểu của đội trưởng quần vợt Australia lẫn việc Nam Phi vào bán kết. Giám khảo đổi nhãn từ \emph{error} sang \emph{accurate}. SET vẫn diễn giải gián tiếp mục tiêu của đội Australia. Phán quyết này ghi nhận sự phù hợp với đáp án có/không, còn độ chính xác của từng chi tiết thể thao cần được kiểm tra riêng.
+
+\paragraph{Câu \texttt{mhr-0016}, nhận diện doanh nghiệp.}
+Câu hỏi kết hợp dấu hiệu về máy đọc sách, khuyến mãi theo thư mời và vụ kiện chống độc quyền để xác định một công ty. Đáp án là Amazon. CE nêu Amazon ngay câu đầu. SET bàn về PayPal, sau đó nhắc tới Amazon như một khả năng và kết thúc trong trạng thái chưa xác định được công ty. Nhãn đổi từ \emph{accurate} sang \emph{neither}. Nếu chỉ dò sự xuất hiện của từ Amazon, cả hai câu trả lời đều đạt. Phép dò chuỗi và phán quyết về toàn bộ câu trả lời vì thế có thể khác nhau ngay cả với đáp án ngắn.
+
+\section{Phạm vi diễn giải}
+Các phép so cộng dồn cho biết hiệu quả của một bước trong điều kiện các bước trước đã có mặt. Động tác mở rộng tập ứng viên đi cùng F trên MultiHop-RAG, vì vậy đối chứng giữ nguyên tập ứng viên giữa ST và F sẽ cần thiết để định lượng riêng giá trị của bộ chấm. Với SET, ACC và ERR phải được đọc cùng chi phí token nguồn và độ đầy đủ của bằng chứng khi phân tích cơ chế. Phép đo chất lượng dùng giám khảo mô hình và một lượt sinh cố định. Kết quả toàn tập mô tả quy trình huấn luyện và đánh giá đã nêu trên đúng bộ câu hỏi này.
+
+\section{Kết luận}
+Trên 2.156 câu ngoài tập phát triển, mức tăng ACC lớn nhất qua cả ba seed xuất hiện khi mở rộng danh sách ứng viên và xếp hạng lại ở bước F. Sau khi bổ sung cross-encoder, chính sách chọn tập tiếp tục rút ngắn phần nguồn, nhưng hiệu ACC so với CE nhỏ và đổi chiều giữa các seed.
+\ifFullResults\else
+Điểm toàn tập sẽ chỉ xác định được khi có đủ phán quyết cho 400 câu đánh giá ngoài fold còn lại.
+\fi

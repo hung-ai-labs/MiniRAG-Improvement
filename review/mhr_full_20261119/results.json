@@ -1,0 +1,65 @@
+{
+  "generation_seed": 101,
+  "judge": "gemini-3.5-flash-lite",
+  "n_full": 2556,
+  "n_existing": 2156,
+  "n_pending": 0,
+  "arms": {
+    "C0": {
+      "n": 2556,
+      "counts": {
+        "accurate": 1475,
+        "error": 732,
+        "neither": 345,
+        "no_majority": 4
+      },
+      "acc": 57.70735524256651,
+      "err": 28.63849765258216
+    },
+    "ST": {
+      "n": 2556,
+      "counts": {
+        "accurate": 1504,
+        "error": 724,
+        "neither": 326,
+        "no_majority": 2
+      },
+      "acc": 58.841940532081374,
+      "err": 28.32550860719875
+    },
+    "F": {
+      "n": 2556,
+      "counts": {
+        "accurate": 1649,
+        "error": 688,
+        "neither": 217,
+        "no_majority": 2
+      },
+      "acc": 64.51486697965571,
+      "err": 26.917057902973397
+    },
+    "CE": {
+      "n": 2556,
+      "counts": {
+        "accurate": 1662,
+        "error": 676,
+        "neither": 215,
+        "no_majority": 3
+      },
+      "acc": 65.02347417840376,
+      "err": 26.447574334898277
+    },
+    "SET": {
+      "n": 2556,
+      "counts": {
+        "accurate": 1667,
+        "neither": 203,
+        "error": 683,
+        "no_majority": 2,
+        "unparsed": 1
+      },
+      "acc": 65.2190923317684,
+      "err": 26.721439749608763
+    }
+  }
+}
