@@ -1,0 +1,19 @@
+{
+  "judge_model": "gemini-3.5-flash-lite",
+  "composed_at": "2026-11-17T23:59:52.879907+00:00",
+  "verdict_origin": {
+    "C0_identical_answer": 0,
+    "ST_identical_answer": 0,
+    "F_identical_answer": 75,
+    "CE_identical_answer": 207,
+    "judged_SET": 1874
+  },
+  "set_answers_sha256": "551f8281be12ae4f84e496b1da1d2d5c59282cfaa9ca13be165a06dfce8bdb37",
+  "journals_sha256": {
+    "C0": "64c6621320e3bb2b441eb5ee266a7e1b71e202bdd66811b74db41303d68974cc",
+    "ST": "80341a140d7d9ed8d25ac50f011cd99761900d0131ffa6c85dc0f10e31237b14",
+    "F": "8a4b7b5255b76319111f52169930edb91c0c6313a96a1995f5d837a75578b346",
+    "CE": "c69bd49d08c1ea519b56c004368dd28ca244b3647c6241e0f74f87ce913e9353",
+    "SET": "15ccc01ceed6422fef1251126703b3d17bed5788a6f87db31f949f57b33c4713"
+  }
+}

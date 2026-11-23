@@ -1,0 +1,489 @@
+{
+  "judge_passes": [
+    1,
+    2,
+    3
+  ],
+  "counting_unit": "One row per question per configuration and generation run. Shared verdicts count in every configuration and run that uses them.",
+  "denominator": "n_total includes all table answers; n excludes rows with any unparsed pass.",
+  "pooling": "Combine answer rows across generation runs before computing each metric.",
+  "datasets": {
+    "LiHua-World": {
+      "judge_model": "deepseek-flash",
+      "seed_unit": "generation round (request seed 13 + question id + 100000 * (round - 1), if generated)",
+      "source_sha256": {
+        "review/evidence_set_20261111/qa_nondev435/ladder/answers.jsonl": "b383bc482189ddbe122183c6fcf8d37bb96d473741e00f7df71c4793b4a31cb8",
+        "review/evidence_set_20261111/qa_nondev435/ladder/contexts.jsonl": "afaa67a8dc98e14f70588a8208f76d65c166204210b0bba581b11e2d80cbfcd1",
+        "review/evidence_set_20261111/qa_nondev435/ladder/judgments_deepseek.jsonl": "77a720866e5295a1994c01dbeef7ace0e89d3aa23c6f71740e48937cc0927e4d",
+        "review/evidence_set_20261111/qa_nondev435/ladder/results.json": "4a50a0923991ec4b0918f002e3b7abf7e5097f7d3a314b51d67bcb111321c092"
+      },
+      "configs": {
+        "C0": {
+          "by_seed": {
+            "1": {
+              "n_total": 435,
+              "n": 435,
+              "excluded_unparsed_rows": 0,
+              "unanimous": 389,
+              "unanimous_pct": 89.42528735632185,
+              "observed_agreement": 0.9287356321839075,
+              "chance_agreement": 0.36632521542549284,
+              "fleiss_kappa": 0.8875379460397115
+            },
+            "2": {
+              "n_total": 435,
+              "n": 435,
+              "excluded_unparsed_rows": 0,
+              "unanimous": 395,
+              "unanimous_pct": 90.80459770114942,
+              "observed_agreement": 0.9379310344827577,
+              "chance_agreement": 0.3582501724871919,
+              "fleiss_kappa": 0.9032816794703329
+            },
+            "3": {
+              "n_total": 435,
+              "n": 435,
+              "excluded_unparsed_rows": 0,
+              "unanimous": 398,
+              "unanimous_pct": 91.49425287356321,
+              "observed_agreement": 0.9432950191570875,
+              "chance_agreement": 0.3625507552737041,
+              "fleiss_kappa": 0.9110439281055855
+            }
+          },
+          "pooled": {
+            "n_total": 1305,
+            "n": 1305,
+            "excluded_unparsed_rows": 0,
+            "unanimous": 1182,
+            "unanimous_pct": 90.57471264367815,
+            "observed_agreement": 0.9366538952745845,
+            "chance_agreement": 0.3622736013857694,
+            "fleiss_kappa": 0.9006688371955976
+          }
+        },
+        "ST": {
+          "by_seed": {
+            "1": {
+              "n_total": 435,
+              "n": 435,
+              "excluded_unparsed_rows": 0,
+              "unanimous": 391,
+              "unanimous_pct": 89.88505747126437,
+              "observed_agreement": 0.9318007662835244,
+              "chance_agreement": 0.3973500095418447,
+              "fleiss_kappa": 0.8868344233032706
+            },
+            "2": {
+              "n_total": 435,
+              "n": 435,
+              "excluded_unparsed_rows": 0,
+              "unanimous": 393,
+              "unanimous_pct": 90.34482758620689,
+              "observed_agreement": 0.9348659003831409,
+              "chance_agreement": 0.3854840651194199,
+              "fleiss_kappa": 0.8940074684482889
+            },
+            "3": {
+              "n_total": 435,
+              "n": 435,
+              "excluded_unparsed_rows": 0,
+              "unanimous": 396,
+              "unanimous_pct": 91.03448275862068,
+              "observed_agreement": 0.9402298850574705,
+              "chance_agreement": 0.3931809574140133,
+              "fleiss_kappa": 0.9015025720224327
+            }
+          },
+          "pooled": {
+            "n_total": 1305,
+            "n": 1305,
+            "excluded_unparsed_rows": 0,
+            "unanimous": 1180,
+            "unanimous_pct": 90.42145593869732,
+            "observed_agreement": 0.9356321839080456,
+            "chance_agreement": 0.39186017038309284,
+            "fleiss_kappa": 0.8941562236887158
+          }
+        },
+        "F": {
+          "by_seed": {
+            "1": {
+              "n_total": 435,
+              "n": 435,
+              "excluded_unparsed_rows": 0,
+              "unanimous": 381,
+              "unanimous_pct": 87.58620689655173,
+              "observed_agreement": 0.9172413793103439,
+              "chance_agreement": 0.4107438234905536,
+              "fleiss_kappa": 0.8595540887158959
+            },
+            "2": {
+              "n_total": 435,
+              "n": 435,
+              "excluded_unparsed_rows": 0,
+              "unanimous": 400,
+              "unanimous_pct": 91.95402298850574,
+              "observed_agreement": 0.9432950191570878,
+              "chance_agreement": 0.40924413910541535,
+              "fleiss_kappa": 0.9040128340715172
+            },
+            "3": {
+              "n_total": 435,
+              "n": 435,
+              "excluded_unparsed_rows": 0,
+              "unanimous": 398,
+              "unanimous_pct": 91.49425287356321,
+              "observed_agreement": 0.940996168582375,
+              "chance_agreement": 0.4179110700077803,
+              "fleiss_kappa": 0.8986343351033775
+            }
+          },
+          "pooled": {
+            "n_total": 1305,
+            "n": 1305,
+            "excluded_unparsed_rows": 0,
+            "unanimous": 1179,
+            "unanimous_pct": 90.34482758620689,
+            "observed_agreement": 0.9338441890166027,
+            "chance_agreement": 0.4124783840519076,
+            "fleiss_kappa": 0.8873985072419154
+          }
+        },
+        "CE": {
+          "by_seed": {
+            "1": {
+              "n_total": 435,
+              "n": 435,
+              "excluded_unparsed_rows": 0,
+              "unanimous": 405,
+              "unanimous_pct": 93.10344827586206,
+              "observed_agreement": 0.9540229885057467,
+              "chance_agreement": 0.43321795041176736,
+              "fleiss_kappa": 0.9188806146425146
+            },
+            "2": {
+              "n_total": 435,
+              "n": 435,
+              "excluded_unparsed_rows": 0,
+              "unanimous": 388,
+              "unanimous_pct": 89.19540229885058,
+              "observed_agreement": 0.9256704980842906,
+              "chance_agreement": 0.44661763626488166,
+              "fleiss_kappa": 0.8656814767026296
+            },
+            "3": {
+              "n_total": 435,
+              "n": 435,
+              "excluded_unparsed_rows": 0,
+              "unanimous": 396,
+              "unanimous_pct": 91.03448275862068,
+              "observed_agreement": 0.9379310344827578,
+              "chance_agreement": 0.4392331292846552,
+              "fleiss_kappa": 0.889314136125653
+            }
+          },
+          "pooled": {
+            "n_total": 1305,
+            "n": 1305,
+            "excluded_unparsed_rows": 0,
+            "unanimous": 1189,
+            "unanimous_pct": 91.11111111111111,
+            "observed_agreement": 0.939208173690932,
+            "chance_agreement": 0.4395663924813526,
+            "fleiss_kappa": 0.8915271577337639
+          }
+        },
+        "SET": {
+          "by_seed": {
+            "1": {
+              "n_total": 435,
+              "n": 435,
+              "excluded_unparsed_rows": 0,
+              "unanimous": 401,
+              "unanimous_pct": 92.183908045977,
+              "observed_agreement": 0.9455938697317999,
+              "chance_agreement": 0.43992953714713534,
+              "fleiss_kappa": 0.9028584189370239
+            },
+            "2": {
+              "n_total": 435,
+              "n": 435,
+              "excluded_unparsed_rows": 0,
+              "unanimous": 388,
+              "unanimous_pct": 89.19540229885058,
+              "observed_agreement": 0.927969348659003,
+              "chance_agreement": 0.4385566858971536,
+              "fleiss_kappa": 0.8717044988662876
+            },
+            "3": {
+              "n_total": 435,
+              "n": 435,
+              "excluded_unparsed_rows": 0,
+              "unanimous": 392,
+              "unanimous_pct": 90.11494252873563,
+              "observed_agreement": 0.9310344827586199,
+              "chance_agreement": 0.43573817178256335,
+              "fleiss_kappa": 0.8777774540247574
+            }
+          },
+          "pooled": {
+            "n_total": 1305,
+            "n": 1305,
+            "excluded_unparsed_rows": 0,
+            "unanimous": 1181,
+            "unanimous_pct": 90.49808429118774,
+            "observed_agreement": 0.9348659003831415,
+            "chance_agreement": 0.43790581791550665,
+            "fleiss_kappa": 0.884122444791525
+          }
+        }
+      }
+    },
+    "MultiHop-RAG": {
+      "judge_model": "gemini-3.5-flash-lite",
+      "seed_unit": "generation seed",
+      "source_sha256": {
+        "review/mhr_ce_20261116/test/CE_s101/judge_gemini35/per_question.csv": "fa9008fbed13b75cab5bd000002f2a4d238fe220538376d418b3260dab963639",
+        "review/mhr_ce_20261116/test/CE_s202/judge_gemini35/per_question.csv": "ade9b5f073986d86f50a93c38804dd7ef2f778d72aa3fcd439945317ba06f3ba",
+        "review/mhr_ce_20261116/test/CE_s303/judge_gemini35/per_question.csv": "27ac6666b773a151ac769f62b86f608947a5f9b20b48779d0828ecb1e38cb418",
+        "review/mhr_f_20261114/test/F_s101/judge_gemini35/per_question.csv": "b2a5b837b3137184afca94ed5367ab16608498f2e916a5fc1d6f4ee4c4fbbe78",
+        "review/mhr_f_20261114/test/F_s202/judge_gemini35/per_question.csv": "793149a79ad22ecb6fc437ccc82db37d82907e5da8e2983abb432872e9db0469",
+        "review/mhr_f_20261114/test/F_s303/judge_gemini35/per_question.csv": "6472278e033eb8fbcdfd20e6a6405950bf7e32a21f52ceb96e0ca848b107483a",
+        "review/mhr_set_20261117/RESULTS.json": "a0287d1006e6241f2c00047a7eab3565a303af97992366560333ce4302473c33",
+        "review/mhr_set_20261117/test/SET_s101/judge_gemini35/per_question.csv": "7d6b9a67f6aafddf164760edf9cd1589b808439e4c64ca62bdabbf0b682decbe",
+        "review/mhr_set_20261117/test/SET_s202/judge_gemini35/per_question.csv": "62f6f5236554bd813eaeb7299effce4f2f5691584a6905c8f83ad080f7009198",
+        "review/mhr_set_20261117/test/SET_s303/judge_gemini35/per_question.csv": "dd1209f6f6b5584dacb12478789e549c6b0228df7ea113e5169ca475f617c5fb",
+        "review/mhr_st_20261112/inputs/test.csv": "e37a4599e8485b5b76f6b60157648b60564f51ee7eceaeb6798f7dbd523d069d",
+        "review/mhr_st_20261112/test/C0_s101/judge_gemini35/per_question.csv": "525d100aaa5bb46871ac3e3925fdb659678dc4f5b2617356f99bb8fd3a6b4aa3",
+        "review/mhr_st_20261112/test/C0_s202/judge_gemini35/per_question.csv": "303fd36d92b2cd160346748b14733dc242dd3f38bc9f5b4d1c8a3e936a2cbb29",
+        "review/mhr_st_20261112/test/C0_s303/judge_gemini35/per_question.csv": "cd1968f48cee03ce0de55d49ed48248297d3c50a19dea13f4ff7082d1db1632e",
+        "review/mhr_st_20261112/test/ST_s101/judge_gemini35/per_question.csv": "4a5ea63276912fdf513b76e3ea79c3e0f2379fac422739964318d43e035eff27",
+        "review/mhr_st_20261112/test/ST_s202/judge_gemini35/per_question.csv": "10608f72a216b2a3127eabeeeb3fc60ec8957e6de91dd56c6352b91dbf8bccf1",
+        "review/mhr_st_20261112/test/ST_s303/judge_gemini35/per_question.csv": "7df08616d6409d53e67944c076b02e590f31f6eafffada039f4740c0de1560b2"
+      },
+      "configs": {
+        "C0": {
+          "by_seed": {
+            "101": {
+              "n_total": 2156,
+              "n": 2156,
+              "excluded_unparsed_rows": 0,
+              "unanimous": 1998,
+              "unanimous_pct": 92.67161410018552,
+              "observed_agreement": 0.9505256648113769,
+              "chance_agreement": 0.43724382708612763,
+              "fleiss_kappa": 0.9120856641474905
+            },
+            "202": {
+              "n_total": 2156,
+              "n": 2156,
+              "excluded_unparsed_rows": 0,
+              "unanimous": 2009,
+              "unanimous_pct": 93.18181818181819,
+              "observed_agreement": 0.9540816326530596,
+              "chance_agreement": 0.44324167233655704,
+              "fleiss_kappa": 0.9175254952366017
+            },
+            "303": {
+              "n_total": 2156,
+              "n": 2156,
+              "excluded_unparsed_rows": 0,
+              "unanimous": 2008,
+              "unanimous_pct": 93.13543599257885,
+              "observed_agreement": 0.9542362399505239,
+              "chance_agreement": 0.44085716312724,
+              "fleiss_kappa": 0.9181537220338383
+            }
+          },
+          "pooled": {
+            "n_total": 6468,
+            "n": 6468,
+            "excluded_unparsed_rows": 0,
+            "unanimous": 6015,
+            "unanimous_pct": 92.99628942486085,
+            "observed_agreement": 0.9529478458049843,
+            "chance_agreement": 0.44036045013384,
+            "fleiss_kappa": 0.9159241797577236
+          }
+        },
+        "ST": {
+          "by_seed": {
+            "101": {
+              "n_total": 2156,
+              "n": 2156,
+              "excluded_unparsed_rows": 0,
+              "unanimous": 2007,
+              "unanimous_pct": 93.08905380333952,
+              "observed_agreement": 0.9536178107606658,
+              "chance_agreement": 0.44759276342234194,
+              "fleiss_kappa": 0.9160362389046769
+            },
+            "202": {
+              "n_total": 2156,
+              "n": 2156,
+              "excluded_unparsed_rows": 0,
+              "unanimous": 2004,
+              "unanimous_pct": 92.94990723562152,
+              "observed_agreement": 0.9523809523809501,
+              "chance_agreement": 0.4490176460756901,
+              "fleiss_kappa": 0.9135742782325267
+            },
+            "303": {
+              "n_total": 2156,
+              "n": 2156,
+              "excluded_unparsed_rows": 0,
+              "unanimous": 2017,
+              "unanimous_pct": 93.55287569573284,
+              "observed_agreement": 0.9568645640074197,
+              "chance_agreement": 0.45007938802664493,
+              "fleiss_kappa": 0.9215606124713319
+            }
+          },
+          "pooled": {
+            "n_total": 6468,
+            "n": 6468,
+            "excluded_unparsed_rows": 0,
+            "unanimous": 6028,
+            "unanimous_pct": 93.19727891156462,
+            "observed_agreement": 0.9542877757163433,
+            "chance_agreement": 0.44876575187335854,
+            "fleiss_kappa": 0.9170729604718705
+          }
+        },
+        "F": {
+          "by_seed": {
+            "101": {
+              "n_total": 2156,
+              "n": 2156,
+              "excluded_unparsed_rows": 0,
+              "unanimous": 1996,
+              "unanimous_pct": 92.57884972170686,
+              "observed_agreement": 0.9502164502164478,
+              "chance_agreement": 0.49224960406381024,
+              "fleiss_kappa": 0.9019527110525216
+            },
+            "202": {
+              "n_total": 2156,
+              "n": 2156,
+              "excluded_unparsed_rows": 0,
+              "unanimous": 2023,
+              "unanimous_pct": 93.83116883116882,
+              "observed_agreement": 0.9582560296845999,
+              "chance_agreement": 0.5010845936170611,
+              "fleiss_kappa": 0.916330564698257
+            },
+            "303": {
+              "n_total": 2156,
+              "n": 2156,
+              "excluded_unparsed_rows": 0,
+              "unanimous": 2017,
+              "unanimous_pct": 93.55287569573284,
+              "observed_agreement": 0.9564007421150259,
+              "chance_agreement": 0.48239446450419143,
+              "fleiss_kappa": 0.915767404142595
+            }
+          },
+          "pooled": {
+            "n_total": 6468,
+            "n": 6468,
+            "excluded_unparsed_rows": 0,
+            "unanimous": 6036,
+            "unanimous_pct": 93.32096474953617,
+            "observed_agreement": 0.9549577406720222,
+            "chance_agreement": 0.4917310964664971,
+            "fleiss_kappa": 0.911381044532053
+          }
+        },
+        "CE": {
+          "by_seed": {
+            "101": {
+              "n_total": 2156,
+              "n": 2156,
+              "excluded_unparsed_rows": 0,
+              "unanimous": 2007,
+              "unanimous_pct": 93.08905380333952,
+              "observed_agreement": 0.9534632034632011,
+              "chance_agreement": 0.5016554072013918,
+              "fleiss_kappa": 0.9066172339194911
+            },
+            "202": {
+              "n_total": 2156,
+              "n": 2156,
+              "excluded_unparsed_rows": 0,
+              "unanimous": 2037,
+              "unanimous_pct": 94.48051948051948,
+              "observed_agreement": 0.9630488559059975,
+              "chance_agreement": 0.5060842321974047,
+              "fleiss_kappa": 0.925187356827266
+            },
+            "303": {
+              "n_total": 2156,
+              "n": 2156,
+              "excluded_unparsed_rows": 0,
+              "unanimous": 2021,
+              "unanimous_pct": 93.73840445269016,
+              "observed_agreement": 0.9577922077922054,
+              "chance_agreement": 0.49651665073742995,
+              "fleiss_kappa": 0.9161684447566846
+            }
+          },
+          "pooled": {
+            "n_total": 6468,
+            "n": 6468,
+            "excluded_unparsed_rows": 0,
+            "unanimous": 6065,
+            "unanimous_pct": 93.76932591218305,
+            "observed_agreement": 0.9581014223871324,
+            "chance_agreement": 0.501248289524639,
+            "fleiss_kappa": 0.9159931149450414
+          }
+        },
+        "SET": {
+          "by_seed": {
+            "101": {
+              "n_total": 2156,
+              "n": 2155,
+              "excluded_unparsed_rows": 1,
+              "unanimous": 2008,
+              "unanimous_pct": 93.17865429234338,
+              "observed_agreement": 0.954215003866974,
+              "chance_agreement": 0.5063480493752724,
+              "fleiss_kappa": 0.9072524760105088
+            },
+            "202": {
+              "n_total": 2156,
+              "n": 2155,
+              "excluded_unparsed_rows": 1,
+              "unanimous": 2034,
+              "unanimous_pct": 94.38515081206496,
+              "observed_agreement": 0.9621036349574617,
+              "chance_agreement": 0.5029978425085041,
+              "fleiss_kappa": 0.9237500995291217
+            },
+            "303": {
+              "n_total": 2156,
+              "n": 2155,
+              "excluded_unparsed_rows": 1,
+              "unanimous": 2012,
+              "unanimous_pct": 93.36426914153132,
+              "observed_agreement": 0.9549883990719237,
+              "chance_agreement": 0.4966426752655294,
+              "fleiss_kappa": 0.9105772406275786
+            }
+          },
+          "pooled": {
+            "n_total": 6468,
+            "n": 6465,
+            "excluded_unparsed_rows": 3,
+            "unanimous": 6054,
+            "unanimous_pct": 93.64269141531322,
+            "observed_agreement": 0.9571023459654505,
+            "chance_agreement": 0.5018804582364927,
+            "fleiss_kappa": 0.9138808048311503
+          }
+        }
+      }
+    }
+  }
+}

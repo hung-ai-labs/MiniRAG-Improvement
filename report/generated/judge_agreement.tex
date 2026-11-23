@@ -1,0 +1,11 @@
+\begin{tabular}{lrrrrrr}\toprule
+ & \multicolumn{3}{c}{\textbf{LiHua-World}} & \multicolumn{3}{c}{\textbf{MultiHop-RAG}}\\
+ & \multicolumn{3}{c}{\texttt{deepseek-flash}} & \multicolumn{3}{c}{\texttt{gemini-3.5-flash-lite}}\\
+\cmidrule(lr){2-4}\cmidrule(lr){5-7}
+Cấu hình & $n$ & Trùng nhãn (\%) & $\kappa$ & $n$ & Trùng nhãn (\%) & $\kappa$\\\midrule
+C0 & 1305 & 90,57 & 0,901 & 6468 & 93,00 & 0,916\\
++ST & 1305 & 90,42 & 0,894 & 6468 & 93,20 & 0,917\\
++F & 1305 & 90,34 & 0,887 & 6468 & 93,32 & 0,911\\
++CE & 1305 & 91,11 & 0,892 & 6468 & 93,77 & 0,916\\
++SET & 1305 & 90,50 & 0,884 & 6465 & 93,64 & 0,914\\
+\bottomrule\end{tabular}

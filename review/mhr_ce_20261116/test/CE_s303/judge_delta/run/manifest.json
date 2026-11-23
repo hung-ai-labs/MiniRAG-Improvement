@@ -1,0 +1,15 @@
+{
+  "questions_sha256": "a102d2aeb439367bd7ac3415fb06efadc6b3b41a391f370ea135451f4d686f56",
+  "answers_sha256": "d763887fecb938d8e2962762a6c5e29ae9d04c7908e75f4b6db366e12d3d465f",
+  "answer_column": "minirag",
+  "judge_model": "gemini-3.5-flash-lite",
+  "passes": 3,
+  "seed": 13,
+  "prompt_sha256": "d1e49a3517ee71886412c643e239f6f1c82bcc51f10adbeba7c0aa31c12c5057",
+  "invalid_tries": 3,
+  "label_contract": [
+    "accurate",
+    "error",
+    "neither"
+  ]
+}
