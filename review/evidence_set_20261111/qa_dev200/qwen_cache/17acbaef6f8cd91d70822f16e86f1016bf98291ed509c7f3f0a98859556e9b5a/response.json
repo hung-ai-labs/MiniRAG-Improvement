@@ -1,0 +1,17 @@
+{
+  "body_sha256": "17acbaef6f8cd91d70822f16e86f1016bf98291ed509c7f3f0a98859556e9b5a",
+  "finish_reason": "stop",
+  "latency_s": 8.5656076249943,
+  "prediction": "During Hailey's bakery's anniversary event, which took place from April 15 to 17, Li Hua expressed interest in trying sourdough bread as it's one of her favorite types. Additionally, she mentioned hoping to find some sweet pastries, indicating her desire for both savory and sweet offerings at the event. This aligns with the bakery's plans to have a variety of breads including sourdough and other new bread products available for customers to sample.",
+  "prediction_sha256": "61992050f6ed4faf2c1b2182553acf423ada2aa55a715b84feb90e37c8540d48",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200040,
+  "usage": {
+    "completion_tokens": 98,
+    "prompt_tokens": 4340,
+    "prompt_tokens_details": null,
+    "total_tokens": 4438
+  }
+}

@@ -1,0 +1,1769 @@
+{
+  "build": {
+    "api_calls": 0,
+    "arms": [
+      "C0",
+      "BASELINE",
+      "F",
+      "CE0F",
+      "CE0F_SET"
+    ],
+    "contexts_sha256": "473b501fa5b5844cbd3e6da37719035f5c83e86b23e882b8b6e37ec636e91906",
+    "full_evidence": {
+      "BASELINE": 88,
+      "C0": 72,
+      "CE0F": 110,
+      "CE0F_SET": 109,
+      "F": 103
+    },
+    "identical_to_baseline": {
+      "BASELINE": 200,
+      "C0": 173,
+      "CE0F": 2,
+      "CE0F_SET": 0,
+      "F": 2
+    },
+    "labelled": 177,
+    "no_context_fail_response": {
+      "BASELINE": 0,
+      "C0": 0,
+      "CE0F": 0,
+      "CE0F_SET": 0,
+      "F": 0
+    },
+    "pipeline_sha256": "65106466e080bf2eab1ea905dfad178219aba194d3c6e0ec01e9638976cb4fa2",
+    "pool": "native@45",
+    "questions": 200,
+    "scores": "cross-fitted (5 folds); beta/tau nested per fold",
+    "split": "dev200"
+  },
+  "generator": "Qwen/Qwen2.5-3B-Instruct",
+  "judge": "deepseek-flash",
+  "judge_passes": [
+    1,
+    2,
+    3
+  ],
+  "questions": 200,
+  "rounds": [
+    1,
+    2,
+    3
+  ],
+  "slm": "qwen",
+  "split": "dev200",
+  "table": {
+    "Multi": {
+      "BASELINE": {
+        "accurate": {
+          "mean": 22.75,
+          "per_round": [
+            17.46,
+            25.4,
+            25.4
+          ],
+          "sd_passes": 3.3,
+          "sd_rounds": 4.58
+        },
+        "error": {
+          "mean": 61.9,
+          "per_round": [
+            65.08,
+            60.32,
+            60.32
+          ],
+          "sd_passes": 3.17,
+          "sd_rounds": 2.75
+        },
+        "neither": {
+          "mean": 15.34,
+          "per_round": [
+            17.46,
+            14.29,
+            14.29
+          ],
+          "sd_passes": 2.42,
+          "sd_rounds": 1.83
+        },
+        "vs_C0": [
+          {
+            "accurate": {
+              "became": 0,
+              "ceased": 1,
+              "p_exact": 1.0
+            },
+            "error": {
+              "became": 1,
+              "ceased": 0,
+              "p_exact": 1.0
+            }
+          },
+          {
+            "accurate": {
+              "became": 0,
+              "ceased": 0,
+              "p_exact": 1.0
+            },
+            "error": {
+              "became": 0,
+              "ceased": 0,
+              "p_exact": 1.0
+            }
+          },
+          {
+            "accurate": {
+              "became": 0,
+              "ceased": 0,
+              "p_exact": 1.0
+            },
+            "error": {
+              "became": 0,
+              "ceased": 0,
+              "p_exact": 1.0
+            }
+          }
+        ]
+      },
+      "C0": {
+        "accurate": {
+          "mean": 24.34,
+          "per_round": [
+            22.22,
+            25.4,
+            25.4
+          ],
+          "sd_passes": 3.3,
+          "sd_rounds": 1.83
+        },
+        "error": {
+          "mean": 60.32,
+          "per_round": [
+            60.32,
+            60.32,
+            60.32
+          ],
+          "sd_passes": 2.75,
+          "sd_rounds": 0.0
+        },
+        "neither": {
+          "mean": 15.34,
+          "per_round": [
+            17.46,
+            14.29,
+            14.29
+          ],
+          "sd_passes": 0.92,
+          "sd_rounds": 1.83
+        },
+        "vs_BASELINE": [
+          {
+            "accurate": {
+              "became": 1,
+              "ceased": 0,
+              "p_exact": 1.0
+            },
+            "error": {
+              "became": 0,
+              "ceased": 1,
+              "p_exact": 1.0
+            }
+          },
+          {
+            "accurate": {
+              "became": 0,
+              "ceased": 0,
+              "p_exact": 1.0
+            },
+            "error": {
+              "became": 0,
+              "ceased": 0,
+              "p_exact": 1.0
+            }
+          },
+          {
+            "accurate": {
+              "became": 0,
+              "ceased": 0,
+              "p_exact": 1.0
+            },
+            "error": {
+              "became": 0,
+              "ceased": 0,
+              "p_exact": 1.0
+            }
+          }
+        ]
+      },
+      "CE0F": {
+        "accurate": {
+          "mean": 43.92,
+          "per_round": [
+            39.68,
+            44.44,
+            47.62
+          ],
+          "sd_passes": 1.83,
+          "sd_rounds": 3.99
+        },
+        "error": {
+          "mean": 52.91,
+          "per_round": [
+            58.73,
+            52.38,
+            47.62
+          ],
+          "sd_passes": 2.42,
+          "sd_rounds": 5.57
+        },
+        "neither": {
+          "mean": 3.17,
+          "per_round": [
+            1.59,
+            3.17,
+            4.76
+          ],
+          "sd_passes": 1.59,
+          "sd_rounds": 1.59
+        },
+        "vs_BASELINE": [
+          {
+            "accurate": {
+              "became": 6,
+              "ceased": 2,
+              "p_exact": 0.2890625
+            },
+            "error": {
+              "became": 4,
+              "ceased": 5,
+              "p_exact": 1.0
+            }
+          },
+          {
+            "accurate": {
+              "became": 4,
+              "ceased": 0,
+              "p_exact": 0.125
+            },
+            "error": {
+              "became": 3,
+              "ceased": 5,
+              "p_exact": 0.7265625
+            }
+          },
+          {
+            "accurate": {
+              "became": 6,
+              "ceased": 1,
+              "p_exact": 0.125
+            },
+            "error": {
+              "became": 2,
+              "ceased": 4,
+              "p_exact": 0.6875
+            }
+          }
+        ],
+        "vs_F": [
+          {
+            "accurate": {
+              "became": 4,
+              "ceased": 1,
+              "p_exact": 0.375
+            },
+            "error": {
+              "became": 4,
+              "ceased": 4,
+              "p_exact": 1.0
+            }
+          },
+          {
+            "accurate": {
+              "became": 3,
+              "ceased": 0,
+              "p_exact": 0.25
+            },
+            "error": {
+              "became": 1,
+              "ceased": 4,
+              "p_exact": 0.375
+            }
+          },
+          {
+            "accurate": {
+              "became": 2,
+              "ceased": 2,
+              "p_exact": 1.0
+            },
+            "error": {
+              "became": 3,
+              "ceased": 2,
+              "p_exact": 1.0
+            }
+          }
+        ]
+      },
+      "CE0F_SET": {
+        "accurate": {
+          "mean": 48.15,
+          "per_round": [
+            47.62,
+            44.44,
+            52.38
+          ],
+          "sd_passes": 0.92,
+          "sd_rounds": 3.99
+        },
+        "error": {
+          "mean": 46.56,
+          "per_round": [
+            47.62,
+            50.79,
+            41.27
+          ],
+          "sd_passes": 0.92,
+          "sd_rounds": 4.85
+        },
+        "neither": {
+          "mean": 5.29,
+          "per_round": [
+            4.76,
+            4.76,
+            6.35
+          ],
+          "sd_passes": 0.92,
+          "sd_rounds": 0.92
+        },
+        "vs_BASELINE": [
+          {
+            "accurate": {
+              "became": 7,
+              "ceased": 1,
+              "p_exact": 0.0703125
+            },
+            "error": {
+              "became": 2,
+              "ceased": 6,
+              "p_exact": 0.2890625
+            }
+          },
+          {
+            "accurate": {
+              "became": 4,
+              "ceased": 0,
+              "p_exact": 0.125
+            },
+            "error": {
+              "became": 2,
+              "ceased": 4,
+              "p_exact": 0.6875
+            }
+          },
+          {
+            "accurate": {
+              "became": 7,
+              "ceased": 1,
+              "p_exact": 0.0703125
+            },
+            "error": {
+              "became": 2,
+              "ceased": 5,
+              "p_exact": 0.453125
+            }
+          }
+        ],
+        "vs_CE0F": [
+          {
+            "accurate": {
+              "became": 3,
+              "ceased": 1,
+              "p_exact": 0.625
+            },
+            "error": {
+              "became": 1,
+              "ceased": 4,
+              "p_exact": 0.375
+            }
+          },
+          {
+            "accurate": {
+              "became": 2,
+              "ceased": 2,
+              "p_exact": 1.0
+            },
+            "error": {
+              "became": 2,
+              "ceased": 2,
+              "p_exact": 1.0
+            }
+          },
+          {
+            "accurate": {
+              "became": 1,
+              "ceased": 0,
+              "p_exact": 1.0
+            },
+            "error": {
+              "became": 1,
+              "ceased": 2,
+              "p_exact": 1.0
+            }
+          }
+        ]
+      },
+      "F": {
+        "accurate": {
+          "mean": 33.86,
+          "per_round": [
+            23.81,
+            30.16,
+            47.62
+          ],
+          "sd_passes": 0.92,
+          "sd_rounds": 12.33
+        },
+        "error": {
+          "mean": 56.61,
+          "per_round": [
+            61.9,
+            65.08,
+            42.86
+          ],
+          "sd_passes": 1.83,
+          "sd_rounds": 12.02
+        },
+        "neither": {
+          "mean": 9.52,
+          "per_round": [
+            14.29,
+            4.76,
+            9.52
+          ],
+          "sd_passes": 1.59,
+          "sd_rounds": 4.76
+        },
+        "vs_BASELINE": [
+          {
+            "accurate": {
+              "became": 2,
+              "ceased": 1,
+              "p_exact": 1.0
+            },
+            "error": {
+              "became": 1,
+              "ceased": 2,
+              "p_exact": 1.0
+            }
+          },
+          {
+            "accurate": {
+              "became": 1,
+              "ceased": 0,
+              "p_exact": 1.0
+            },
+            "error": {
+              "became": 2,
+              "ceased": 1,
+              "p_exact": 1.0
+            }
+          },
+          {
+            "accurate": {
+              "became": 5,
+              "ceased": 0,
+              "p_exact": 0.0625
+            },
+            "error": {
+              "became": 2,
+              "ceased": 5,
+              "p_exact": 0.453125
+            }
+          }
+        ]
+      }
+    },
+    "Null": {
+      "BASELINE": {
+        "accurate": {
+          "mean": 68.89,
+          "per_round": [
+            68.33,
+            68.33,
+            70.0
+          ],
+          "sd_passes": 4.81,
+          "sd_rounds": 0.96
+        },
+        "error": {
+          "mean": 21.11,
+          "per_round": [
+            20.0,
+            18.33,
+            25.0
+          ],
+          "sd_passes": 2.55,
+          "sd_rounds": 3.47
+        },
+        "neither": {
+          "mean": 10.0,
+          "per_round": [
+            11.67,
+            13.33,
+            5.0
+          ],
+          "sd_passes": 5.0,
+          "sd_rounds": 4.41
+        },
+        "vs_C0": [
+          {
+            "accurate": {
+              "became": 1,
+              "ceased": 0,
+              "p_exact": 1.0
+            },
+            "error": {
+              "became": 0,
+              "ceased": 1,
+              "p_exact": 1.0
+            }
+          },
+          {
+            "accurate": {
+              "became": 0,
+              "ceased": 0,
+              "p_exact": 1.0
+            },
+            "error": {
+              "became": 0,
+              "ceased": 0,
+              "p_exact": 1.0
+            }
+          },
+          {
+            "accurate": {
+              "became": 0,
+              "ceased": 0,
+              "p_exact": 1.0
+            },
+            "error": {
+              "became": 0,
+              "ceased": 0,
+              "p_exact": 1.0
+            }
+          }
+        ]
+      },
+      "C0": {
+        "accurate": {
+          "mean": 67.78,
+          "per_round": [
+            65.0,
+            68.33,
+            70.0
+          ],
+          "sd_passes": 3.85,
+          "sd_rounds": 2.55
+        },
+        "error": {
+          "mean": 22.22,
+          "per_round": [
+            23.33,
+            18.33,
+            25.0
+          ],
+          "sd_passes": 2.55,
+          "sd_rounds": 3.47
+        },
+        "neither": {
+          "mean": 10.0,
+          "per_round": [
+            11.67,
+            13.33,
+            5.0
+          ],
+          "sd_passes": 5.0,
+          "sd_rounds": 4.41
+        },
+        "vs_BASELINE": [
+          {
+            "accurate": {
+              "became": 0,
+              "ceased": 1,
+              "p_exact": 1.0
+            },
+            "error": {
+              "became": 1,
+              "ceased": 0,
+              "p_exact": 1.0
+            }
+          },
+          {
+            "accurate": {
+              "became": 0,
+              "ceased": 0,
+              "p_exact": 1.0
+            },
+            "error": {
+              "became": 0,
+              "ceased": 0,
+              "p_exact": 1.0
+            }
+          },
+          {
+            "accurate": {
+              "became": 0,
+              "ceased": 0,
+              "p_exact": 1.0
+            },
+            "error": {
+              "became": 0,
+              "ceased": 0,
+              "p_exact": 1.0
+            }
+          }
+        ]
+      },
+      "CE0F": {
+        "accurate": {
+          "mean": 64.44,
+          "per_round": [
+            68.33,
+            65.0,
+            60.0
+          ],
+          "sd_passes": 0.96,
+          "sd_rounds": 4.19
+        },
+        "error": {
+          "mean": 31.11,
+          "per_round": [
+            30.0,
+            33.33,
+            30.0
+          ],
+          "sd_passes": 0.96,
+          "sd_rounds": 1.92
+        },
+        "neither": {
+          "mean": 4.44,
+          "per_round": [
+            1.67,
+            1.67,
+            10.0
+          ],
+          "sd_passes": 0.96,
+          "sd_rounds": 4.81
+        },
+        "vs_BASELINE": [
+          {
+            "accurate": {
+              "became": 0,
+              "ceased": 1,
+              "p_exact": 1.0
+            },
+            "error": {
+              "became": 2,
+              "ceased": 0,
+              "p_exact": 0.5
+            }
+          },
+          {
+            "accurate": {
+              "became": 1,
+              "ceased": 2,
+              "p_exact": 1.0
+            },
+            "error": {
+              "became": 3,
+              "ceased": 0,
+              "p_exact": 0.25
+            }
+          },
+          {
+            "accurate": {
+              "became": 0,
+              "ceased": 2,
+              "p_exact": 0.5
+            },
+            "error": {
+              "became": 1,
+              "ceased": 0,
+              "p_exact": 1.0
+            }
+          }
+        ],
+        "vs_F": [
+          {
+            "accurate": {
+              "became": 1,
+              "ceased": 1,
+              "p_exact": 1.0
+            },
+            "error": {
+              "became": 1,
+              "ceased": 0,
+              "p_exact": 1.0
+            }
+          },
+          {
+            "accurate": {
+              "became": 2,
+              "ceased": 3,
+              "p_exact": 1.0
+            },
+            "error": {
+              "became": 3,
+              "ceased": 0,
+              "p_exact": 0.25
+            }
+          },
+          {
+            "accurate": {
+              "became": 0,
+              "ceased": 1,
+              "p_exact": 1.0
+            },
+            "error": {
+              "became": 1,
+              "ceased": 0,
+              "p_exact": 1.0
+            }
+          }
+        ]
+      },
+      "CE0F_SET": {
+        "accurate": {
+          "mean": 61.67,
+          "per_round": [
+            63.33,
+            65.0,
+            56.67
+          ],
+          "sd_passes": 4.41,
+          "sd_rounds": 4.41
+        },
+        "error": {
+          "mean": 27.22,
+          "per_round": [
+            21.67,
+            25.0,
+            35.0
+          ],
+          "sd_passes": 0.96,
+          "sd_rounds": 6.94
+        },
+        "neither": {
+          "mean": 11.11,
+          "per_round": [
+            15.0,
+            10.0,
+            8.33
+          ],
+          "sd_passes": 4.81,
+          "sd_rounds": 3.47
+        },
+        "vs_BASELINE": [
+          {
+            "accurate": {
+              "became": 1,
+              "ceased": 3,
+              "p_exact": 0.625
+            },
+            "error": {
+              "became": 2,
+              "ceased": 1,
+              "p_exact": 1.0
+            }
+          },
+          {
+            "accurate": {
+              "became": 2,
+              "ceased": 3,
+              "p_exact": 1.0
+            },
+            "error": {
+              "became": 1,
+              "ceased": 0,
+              "p_exact": 1.0
+            }
+          },
+          {
+            "accurate": {
+              "became": 0,
+              "ceased": 2,
+              "p_exact": 0.5
+            },
+            "error": {
+              "became": 2,
+              "ceased": 0,
+              "p_exact": 0.5
+            }
+          }
+        ],
+        "vs_CE0F": [
+          {
+            "accurate": {
+              "became": 2,
+              "ceased": 3,
+              "p_exact": 1.0
+            },
+            "error": {
+              "became": 1,
+              "ceased": 2,
+              "p_exact": 1.0
+            }
+          },
+          {
+            "accurate": {
+              "became": 2,
+              "ceased": 2,
+              "p_exact": 1.0
+            },
+            "error": {
+              "became": 0,
+              "ceased": 2,
+              "p_exact": 0.5
+            }
+          },
+          {
+            "accurate": {
+              "became": 0,
+              "ceased": 0,
+              "p_exact": 1.0
+            },
+            "error": {
+              "became": 1,
+              "ceased": 0,
+              "p_exact": 1.0
+            }
+          }
+        ]
+      },
+      "F": {
+        "accurate": {
+          "mean": 66.67,
+          "per_round": [
+            68.33,
+            68.33,
+            63.33
+          ],
+          "sd_passes": 0.0,
+          "sd_rounds": 2.89
+        },
+        "error": {
+          "mean": 23.33,
+          "per_round": [
+            23.33,
+            21.67,
+            25.0
+          ],
+          "sd_passes": 1.67,
+          "sd_rounds": 1.67
+        },
+        "neither": {
+          "mean": 10.0,
+          "per_round": [
+            8.33,
+            10.0,
+            11.67
+          ],
+          "sd_passes": 1.67,
+          "sd_rounds": 1.67
+        },
+        "vs_BASELINE": [
+          {
+            "accurate": {
+              "became": 0,
+              "ceased": 1,
+              "p_exact": 1.0
+            },
+            "error": {
+              "became": 1,
+              "ceased": 0,
+              "p_exact": 1.0
+            }
+          },
+          {
+            "accurate": {
+              "became": 2,
+              "ceased": 2,
+              "p_exact": 1.0
+            },
+            "error": {
+              "became": 0,
+              "ceased": 0,
+              "p_exact": 1.0
+            }
+          },
+          {
+            "accurate": {
+              "became": 0,
+              "ceased": 1,
+              "p_exact": 1.0
+            },
+            "error": {
+              "became": 0,
+              "ceased": 0,
+              "p_exact": 1.0
+            }
+          }
+        ]
+      }
+    },
+    "Single": {
+      "BASELINE": {
+        "accurate": {
+          "mean": 54.58,
+          "per_round": [
+            55.35,
+            52.83,
+            55.56
+          ],
+          "sd_passes": 0.32,
+          "sd_rounds": 1.52
+        },
+        "error": {
+          "mean": 23.9,
+          "per_round": [
+            23.9,
+            24.11,
+            23.69
+          ],
+          "sd_passes": 0.73,
+          "sd_rounds": 0.21
+        },
+        "neither": {
+          "mean": 21.52,
+          "per_round": [
+            20.75,
+            23.06,
+            20.75
+          ],
+          "sd_passes": 0.44,
+          "sd_rounds": 1.33
+        },
+        "vs_C0": [
+          {
+            "accurate": {
+              "became": 13,
+              "ceased": 0,
+              "p_exact": 0.000244140625
+            },
+            "error": {
+              "became": 0,
+              "ceased": 6,
+              "p_exact": 0.03125
+            }
+          },
+          {
+            "accurate": {
+              "became": 13,
+              "ceased": 0,
+              "p_exact": 0.000244140625
+            },
+            "error": {
+              "became": 0,
+              "ceased": 7,
+              "p_exact": 0.015625
+            }
+          },
+          {
+            "accurate": {
+              "became": 14,
+              "ceased": 0,
+              "p_exact": 0.0001220703125
+            },
+            "error": {
+              "became": 0,
+              "ceased": 7,
+              "p_exact": 0.015625
+            }
+          }
+        ]
+      },
+      "C0": {
+        "accurate": {
+          "mean": 46.19,
+          "per_round": [
+            47.17,
+            44.65,
+            46.75
+          ],
+          "sd_passes": 0.32,
+          "sd_rounds": 1.35
+        },
+        "error": {
+          "mean": 27.88,
+          "per_round": [
+            27.67,
+            28.51,
+            27.46
+          ],
+          "sd_passes": 0.96,
+          "sd_rounds": 0.55
+        },
+        "neither": {
+          "mean": 25.93,
+          "per_round": [
+            25.16,
+            26.83,
+            25.79
+          ],
+          "sd_passes": 0.64,
+          "sd_rounds": 0.85
+        },
+        "vs_BASELINE": [
+          {
+            "accurate": {
+              "became": 0,
+              "ceased": 13,
+              "p_exact": 0.000244140625
+            },
+            "error": {
+              "became": 6,
+              "ceased": 0,
+              "p_exact": 0.03125
+            }
+          },
+          {
+            "accurate": {
+              "became": 0,
+              "ceased": 13,
+              "p_exact": 0.000244140625
+            },
+            "error": {
+              "became": 7,
+              "ceased": 0,
+              "p_exact": 0.015625
+            }
+          },
+          {
+            "accurate": {
+              "became": 0,
+              "ceased": 14,
+              "p_exact": 0.0001220703125
+            },
+            "error": {
+              "became": 7,
+              "ceased": 0,
+              "p_exact": 0.015625
+            }
+          }
+        ]
+      },
+      "CE0F": {
+        "accurate": {
+          "mean": 61.5,
+          "per_round": [
+            60.17,
+            62.47,
+            61.84
+          ],
+          "sd_passes": 0.61,
+          "sd_rounds": 1.19
+        },
+        "error": {
+          "mean": 23.97,
+          "per_round": [
+            25.58,
+            23.27,
+            23.06
+          ],
+          "sd_passes": 0.99,
+          "sd_rounds": 1.4
+        },
+        "neither": {
+          "mean": 14.54,
+          "per_round": [
+            14.26,
+            14.26,
+            15.09
+          ],
+          "sd_passes": 0.74,
+          "sd_rounds": 0.48
+        },
+        "vs_BASELINE": [
+          {
+            "accurate": {
+              "became": 29,
+              "ceased": 21,
+              "p_exact": 0.3222363203575469
+            },
+            "error": {
+              "became": 26,
+              "ceased": 21,
+              "p_exact": 0.5600646295802107
+            }
+          },
+          {
+            "accurate": {
+              "became": 27,
+              "ceased": 11,
+              "p_exact": 0.013852965261321515
+            },
+            "error": {
+              "became": 14,
+              "ceased": 17,
+              "p_exact": 0.720100131817162
+            }
+          },
+          {
+            "accurate": {
+              "became": 29,
+              "ceased": 17,
+              "p_exact": 0.10380535550410741
+            },
+            "error": {
+              "became": 22,
+              "ceased": 23,
+              "p_exact": 1.0
+            }
+          }
+        ],
+        "vs_F": [
+          {
+            "accurate": {
+              "became": 16,
+              "ceased": 10,
+              "p_exact": 0.32693958282470703
+            },
+            "error": {
+              "became": 15,
+              "ceased": 14,
+              "p_exact": 1.0
+            }
+          },
+          {
+            "accurate": {
+              "became": 13,
+              "ceased": 6,
+              "p_exact": 0.1670684814453125
+            },
+            "error": {
+              "became": 10,
+              "ceased": 13,
+              "p_exact": 0.6776394844055176
+            }
+          },
+          {
+            "accurate": {
+              "became": 16,
+              "ceased": 9,
+              "p_exact": 0.2295229434967041
+            },
+            "error": {
+              "became": 13,
+              "ceased": 15,
+              "p_exact": 0.8505540192127228
+            }
+          }
+        ]
+      },
+      "CE0F_SET": {
+        "accurate": {
+          "mean": 62.61,
+          "per_round": [
+            64.15,
+            60.17,
+            63.52
+          ],
+          "sd_passes": 0.74,
+          "sd_rounds": 2.14
+        },
+        "error": {
+          "mean": 23.76,
+          "per_round": [
+            20.96,
+            26.83,
+            23.48
+          ],
+          "sd_passes": 0.12,
+          "sd_rounds": 2.94
+        },
+        "neither": {
+          "mean": 13.63,
+          "per_round": [
+            14.88,
+            13.0,
+            13.0
+          ],
+          "sd_passes": 0.84,
+          "sd_rounds": 1.09
+        },
+        "vs_BASELINE": [
+          {
+            "accurate": {
+              "became": 30,
+              "ceased": 16,
+              "p_exact": 0.054076031858869555
+            },
+            "error": {
+              "became": 22,
+              "ceased": 25,
+              "p_exact": 0.7708669945730264
+            }
+          },
+          {
+            "accurate": {
+              "became": 30,
+              "ceased": 17,
+              "p_exact": 0.07894069368148848
+            },
+            "error": {
+              "became": 20,
+              "ceased": 17,
+              "p_exact": 0.7428293587290682
+            }
+          },
+          {
+            "accurate": {
+              "became": 29,
+              "ceased": 15,
+              "p_exact": 0.048766765904474596
+            },
+            "error": {
+              "became": 20,
+              "ceased": 20,
+              "p_exact": 1.0
+            }
+          }
+        ],
+        "vs_CE0F": [
+          {
+            "accurate": {
+              "became": 16,
+              "ceased": 10,
+              "p_exact": 0.32693958282470703
+            },
+            "error": {
+              "became": 10,
+              "ceased": 18,
+              "p_exact": 0.1849333420395851
+            }
+          },
+          {
+            "accurate": {
+              "became": 10,
+              "ceased": 13,
+              "p_exact": 0.6776394844055176
+            },
+            "error": {
+              "became": 14,
+              "ceased": 8,
+              "p_exact": 0.28627872467041016
+            }
+          },
+          {
+            "accurate": {
+              "became": 11,
+              "ceased": 9,
+              "p_exact": 0.8238029479980469
+            },
+            "error": {
+              "became": 15,
+              "ceased": 14,
+              "p_exact": 1.0
+            }
+          }
+        ]
+      },
+      "F": {
+        "accurate": {
+          "mean": 57.86,
+          "per_round": [
+            56.81,
+            58.28,
+            58.49
+          ],
+          "sd_passes": 0.0,
+          "sd_rounds": 0.91
+        },
+        "error": {
+          "mean": 24.81,
+          "per_round": [
+            24.53,
+            25.16,
+            24.74
+          ],
+          "sd_passes": 0.32,
+          "sd_rounds": 0.32
+        },
+        "neither": {
+          "mean": 17.33,
+          "per_round": [
+            18.66,
+            16.56,
+            16.77
+          ],
+          "sd_passes": 0.32,
+          "sd_rounds": 1.15
+        },
+        "vs_BASELINE": [
+          {
+            "accurate": {
+              "became": 22,
+              "ceased": 20,
+              "p_exact": 0.8776143287523155
+            },
+            "error": {
+              "became": 18,
+              "ceased": 14,
+              "p_exact": 0.5966148958541453
+            }
+          },
+          {
+            "accurate": {
+              "became": 22,
+              "ceased": 13,
+              "p_exact": 0.17546524899080396
+            },
+            "error": {
+              "became": 14,
+              "ceased": 14,
+              "p_exact": 1.0
+            }
+          },
+          {
+            "accurate": {
+              "became": 23,
+              "ceased": 18,
+              "p_exact": 0.5327092552361137
+            },
+            "error": {
+              "became": 19,
+              "ceased": 18,
+              "p_exact": 1.0
+            }
+          }
+        ]
+      }
+    },
+    "all": {
+      "BASELINE": {
+        "accurate": {
+          "mean": 52.67,
+          "per_round": [
+            52.67,
+            51.5,
+            53.83
+          ],
+          "sd_passes": 0.17,
+          "sd_rounds": 1.17
+        },
+        "error": {
+          "mean": 27.61,
+          "per_round": [
+            27.83,
+            27.33,
+            27.67
+          ],
+          "sd_passes": 0.54,
+          "sd_rounds": 0.25
+        },
+        "neither": {
+          "mean": 19.72,
+          "per_round": [
+            19.5,
+            21.17,
+            18.5
+          ],
+          "sd_passes": 0.54,
+          "sd_rounds": 1.35
+        },
+        "vs_C0": [
+          {
+            "accurate": {
+              "became": 14,
+              "ceased": 1,
+              "p_exact": 0.0009765625
+            },
+            "error": {
+              "became": 1,
+              "ceased": 7,
+              "p_exact": 0.0703125
+            }
+          },
+          {
+            "accurate": {
+              "became": 13,
+              "ceased": 0,
+              "p_exact": 0.000244140625
+            },
+            "error": {
+              "became": 0,
+              "ceased": 7,
+              "p_exact": 0.015625
+            }
+          },
+          {
+            "accurate": {
+              "became": 14,
+              "ceased": 0,
+              "p_exact": 0.0001220703125
+            },
+            "error": {
+              "became": 0,
+              "ceased": 7,
+              "p_exact": 0.015625
+            }
+          }
+        ]
+      },
+      "C0": {
+        "accurate": {
+          "mean": 46.06,
+          "per_round": [
+            46.33,
+            45.0,
+            46.83
+          ],
+          "sd_passes": 0.19,
+          "sd_rounds": 0.95
+        },
+        "error": {
+          "mean": 30.72,
+          "per_round": [
+            30.67,
+            30.83,
+            30.67
+          ],
+          "sd_passes": 0.95,
+          "sd_rounds": 0.1
+        },
+        "neither": {
+          "mean": 23.22,
+          "per_round": [
+            23.0,
+            24.17,
+            22.5
+          ],
+          "sd_passes": 0.92,
+          "sd_rounds": 0.86
+        },
+        "vs_BASELINE": [
+          {
+            "accurate": {
+              "became": 1,
+              "ceased": 14,
+              "p_exact": 0.0009765625
+            },
+            "error": {
+              "became": 7,
+              "ceased": 1,
+              "p_exact": 0.0703125
+            }
+          },
+          {
+            "accurate": {
+              "became": 0,
+              "ceased": 13,
+              "p_exact": 0.000244140625
+            },
+            "error": {
+              "became": 7,
+              "ceased": 0,
+              "p_exact": 0.015625
+            }
+          },
+          {
+            "accurate": {
+              "became": 0,
+              "ceased": 14,
+              "p_exact": 0.0001220703125
+            },
+            "error": {
+              "became": 7,
+              "ceased": 0,
+              "p_exact": 0.015625
+            }
+          }
+        ]
+      },
+      "CE0F": {
+        "accurate": {
+          "mean": 59.94,
+          "per_round": [
+            58.83,
+            60.83,
+            60.17
+          ],
+          "sd_passes": 0.38,
+          "sd_rounds": 1.02
+        },
+        "error": {
+          "mean": 27.72,
+          "per_round": [
+            29.5,
+            27.33,
+            26.33
+          ],
+          "sd_passes": 0.63,
+          "sd_rounds": 1.62
+        },
+        "neither": {
+          "mean": 12.33,
+          "per_round": [
+            11.67,
+            11.83,
+            13.5
+          ],
+          "sd_passes": 0.5,
+          "sd_rounds": 1.01
+        },
+        "vs_BASELINE": [
+          {
+            "accurate": {
+              "became": 35,
+              "ceased": 24,
+              "p_exact": 0.19252645776146274
+            },
+            "error": {
+              "became": 32,
+              "ceased": 26,
+              "p_exact": 0.5118423084381689
+            }
+          },
+          {
+            "accurate": {
+              "became": 32,
+              "ceased": 13,
+              "p_exact": 0.00660882284228137
+            },
+            "error": {
+              "became": 20,
+              "ceased": 22,
+              "p_exact": 0.8776143287523155
+            }
+          },
+          {
+            "accurate": {
+              "became": 35,
+              "ceased": 20,
+              "p_exact": 0.058064146792409066
+            },
+            "error": {
+              "became": 25,
+              "ceased": 27,
+              "p_exact": 0.8898839652765371
+            }
+          }
+        ],
+        "vs_F": [
+          {
+            "accurate": {
+              "became": 21,
+              "ceased": 12,
+              "p_exact": 0.16275565745308995
+            },
+            "error": {
+              "became": 20,
+              "ceased": 18,
+              "p_exact": 0.8714146793645341
+            }
+          },
+          {
+            "accurate": {
+              "became": 18,
+              "ceased": 9,
+              "p_exact": 0.12207812070846558
+            },
+            "error": {
+              "became": 14,
+              "ceased": 17,
+              "p_exact": 0.720100131817162
+            }
+          },
+          {
+            "accurate": {
+              "became": 18,
+              "ceased": 12,
+              "p_exact": 0.361594608053565
+            },
+            "error": {
+              "became": 17,
+              "ceased": 17,
+              "p_exact": 1.0
+            }
+          }
+        ]
+      },
+      "CE0F_SET": {
+        "accurate": {
+          "mean": 61.0,
+          "per_round": [
+            62.33,
+            59.0,
+            61.67
+          ],
+          "sd_passes": 0.93,
+          "sd_rounds": 1.76
+        },
+        "error": {
+          "mean": 26.5,
+          "per_round": [
+            23.83,
+            29.17,
+            26.5
+          ],
+          "sd_passes": 0.17,
+          "sd_rounds": 2.67
+        },
+        "neither": {
+          "mean": 12.5,
+          "per_round": [
+            13.83,
+            11.83,
+            11.83
+          ],
+          "sd_passes": 1.04,
+          "sd_rounds": 1.15
+        },
+        "vs_BASELINE": [
+          {
+            "accurate": {
+              "became": 38,
+              "ceased": 20,
+              "p_exact": 0.024746035842440797
+            },
+            "error": {
+              "became": 26,
+              "ceased": 32,
+              "p_exact": 0.5118423084381689
+            }
+          },
+          {
+            "accurate": {
+              "became": 36,
+              "ceased": 20,
+              "p_exact": 0.04404654610215078
+            },
+            "error": {
+              "became": 23,
+              "ceased": 21,
+              "p_exact": 0.880395821280672
+            }
+          },
+          {
+            "accurate": {
+              "became": 36,
+              "ceased": 18,
+              "p_exact": 0.019834326728068286
+            },
+            "error": {
+              "became": 24,
+              "ceased": 25,
+              "p_exact": 1.0
+            }
+          }
+        ],
+        "vs_CE0F": [
+          {
+            "accurate": {
+              "became": 21,
+              "ceased": 14,
+              "p_exact": 0.31050465907901525
+            },
+            "error": {
+              "became": 12,
+              "ceased": 24,
+              "p_exact": 0.06524533522315323
+            }
+          },
+          {
+            "accurate": {
+              "became": 14,
+              "ceased": 17,
+              "p_exact": 0.720100131817162
+            },
+            "error": {
+              "became": 16,
+              "ceased": 12,
+              "p_exact": 0.5715881884098053
+            }
+          },
+          {
+            "accurate": {
+              "became": 12,
+              "ceased": 9,
+              "p_exact": 0.6636238098144531
+            },
+            "error": {
+              "became": 17,
+              "ceased": 16,
+              "p_exact": 1.0
+            }
+          }
+        ]
+      },
+      "F": {
+        "accurate": {
+          "mean": 56.22,
+          "per_round": [
+            54.5,
+            56.33,
+            57.83
+          ],
+          "sd_passes": 0.1,
+          "sd_rounds": 1.67
+        },
+        "error": {
+          "mean": 28.0,
+          "per_round": [
+            28.33,
+            29.0,
+            26.67
+          ],
+          "sd_passes": 0.33,
+          "sd_rounds": 1.2
+        },
+        "neither": {
+          "mean": 15.78,
+          "per_round": [
+            17.17,
+            14.67,
+            15.5
+          ],
+          "sd_passes": 0.25,
+          "sd_rounds": 1.27
+        },
+        "vs_BASELINE": [
+          {
+            "accurate": {
+              "became": 24,
+              "ceased": 22,
+              "p_exact": 0.8829959121223965
+            },
+            "error": {
+              "became": 20,
+              "ceased": 16,
+              "p_exact": 0.617719317029696
+            }
+          },
+          {
+            "accurate": {
+              "became": 25,
+              "ceased": 15,
+              "p_exact": 0.1538599441628321
+            },
+            "error": {
+              "became": 16,
+              "ceased": 15,
+              "p_exact": 1.0
+            }
+          },
+          {
+            "accurate": {
+              "became": 28,
+              "ceased": 19,
+              "p_exact": 0.24296021728332562
+            },
+            "error": {
+              "became": 21,
+              "ceased": 23,
+              "p_exact": 0.880395821280672
+            }
+          }
+        ]
+      }
+    }
+  }
+}

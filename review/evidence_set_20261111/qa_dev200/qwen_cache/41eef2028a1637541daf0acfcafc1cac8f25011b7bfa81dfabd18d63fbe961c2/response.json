@@ -1,0 +1,17 @@
+{
+  "body_sha256": "41eef2028a1637541daf0acfcafc1cac8f25011b7bfa81dfabd18d63fbe961c2",
+  "finish_reason": "stop",
+  "latency_s": 6.605945416995382,
+  "prediction": "In the conversation recorded on October 15th (Time: 20261015_15:00), WolfgangSchulz suggests a new pizza place downtown as an option for dinner. He expresses his excitement about the place, stating he has heard \"some amazing toppings\" from it. This new pizza spot appears to be a recommendation from WolfgangSchulz for LiHua to try.",
+  "prediction_sha256": "80dd65644e24a64040f72aa28886e496f8c3ce371ee264ee589bcf7ec3a86035",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100175,
+  "usage": {
+    "completion_tokens": 87,
+    "prompt_tokens": 4398,
+    "prompt_tokens_details": null,
+    "total_tokens": 4485
+  }
+}

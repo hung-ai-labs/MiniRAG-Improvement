@@ -1,0 +1,17 @@
+{
+  "body_sha256": "0ef0928c94f8991b39a6ba396f4fe8c5187ced43542dade8c9b7f89b964de710",
+  "finish_reason": "stop",
+  "latency_s": 12.696511417001602,
+  "prediction": "In one of the conversations, WolfgangSchulz suggests grabbing some pizza for dinner after work. LiHua responds positively to this suggestion, indicating her enthusiasm by saying, \"That sounds awesome! I'm totally in!\" WolfgangSchulz then asks LiHua about her favorite place for pizza. LiHua replies, \"I've been wanting to try that place! Let's go there then.\" From this exchange, we learn that LiHua has been interested in trying a particular pizza place but has not yet visited it. However, she agrees to WolfgangSchulz's suggestion to try this place for their dinner outing. No other specific suggestions or preferences regarding pizza places are mentioned in the given data.",
+  "prediction_sha256": "5ae8b2a111d88688b4841f031ba507d942c4517c892934604d6564e98a9369ef",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100038,
+  "usage": {
+    "completion_tokens": 144,
+    "prompt_tokens": 4027,
+    "prompt_tokens_details": null,
+    "total_tokens": 4171
+  }
+}

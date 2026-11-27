@@ -1,0 +1,17 @@
+{
+  "body_sha256": "f45eb76ab3030b4710d03c12ba6e587495ff29e3dbce89b606c33e1c3f5de673",
+  "finish_reason": "stop",
+  "latency_s": 8.010233666995191,
+  "prediction": " The provided data tables and conversation texts do not contain specific information regarding the equipment Wolfgang Schulz uses when he works out at the gym. The closest reference is a mention of Li Hua looking for fitness equipment such as dumbbells and a yoga mat, as discussed in the conversation between Li Hua and Jennifer Moore. There is no direct mention or implication of Wolfgang Schulz's gym routine or the equipment he might use. Therefore, based on the available information, it is not possible to determine the type of gym equipment Wolfgang Schulz uses.",
+  "prediction_sha256": "8c61fc15bcf7ea5d87593bd392a417583c1e4e17e3b3942af389bce6921bc7fe",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 200092,
+  "usage": {
+    "completion_tokens": 119,
+    "prompt_tokens": 5678,
+    "prompt_tokens_details": null,
+    "total_tokens": 5797
+  }
+}

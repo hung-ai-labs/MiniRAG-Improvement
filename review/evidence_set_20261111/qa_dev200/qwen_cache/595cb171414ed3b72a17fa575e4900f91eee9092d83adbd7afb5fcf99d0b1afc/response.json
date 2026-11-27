@@ -1,0 +1,17 @@
+{
+  "body_sha256": "595cb171414ed3b72a17fa575e4900f91eee9092d83adbd7afb5fcf99d0b1afc",
+  "finish_reason": "stop",
+  "latency_s": 9.039365708998957,
+  "prediction": "No specific feedback from Li Hua regarding his new meal plan was mentioned before he asked Jennifer Moore for advice on a healthy meal plan. In the conversation, Li Hua expresses interest in adjusting his meal plan and seeking specific meal ideas and recipes from Jennifer, which indicates that he had already implemented some changes to his diet without providing detailed feedback to her first.",
+  "prediction_sha256": "28ef1677cf047d5011c66f6e832d507335706b465927421474d791f49044d094",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 84,
+  "usage": {
+    "completion_tokens": 72,
+    "prompt_tokens": 4321,
+    "prompt_tokens_details": null,
+    "total_tokens": 4393
+  }
+}

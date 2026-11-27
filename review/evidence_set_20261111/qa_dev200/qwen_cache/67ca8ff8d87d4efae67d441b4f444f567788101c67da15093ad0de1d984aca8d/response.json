@@ -1,0 +1,17 @@
+{
+  "body_sha256": "67ca8ff8d87d4efae67d441b4f444f567788101c67da15093ad0de1d984aca8d",
+  "finish_reason": "stop",
+  "latency_s": 11.235297792001802,
+  "prediction": "From the conversation, Wolfgang's preference for a burger patty's doneness leans towards \"well-done.\" This preference is evident in his statement where he says, \"I think well-done is just safer and more flavorful. Plus, I like a little char on my burger!\" However, it's important to note that Wolfgang also appreciates the juicy texture of a medium-rare patty, as he mentions, \"But I just love the juicy texture of a medium rare patty.\" This indicates a balance between safety and taste, suggesting that he is open to both options depending on the context.",
+  "prediction_sha256": "4abafa028c0105bc19bde3e9b617209b968e507dae36b5c02dd819e61eb6a93b",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200021,
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 4452,
+    "prompt_tokens_details": null,
+    "total_tokens": 4572
+  }
+}

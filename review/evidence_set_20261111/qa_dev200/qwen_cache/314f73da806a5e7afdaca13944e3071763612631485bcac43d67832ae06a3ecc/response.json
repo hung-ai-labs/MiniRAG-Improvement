@@ -1,0 +1,17 @@
+{
+  "body_sha256": "314f73da806a5e7afdaca13944e3071763612631485bcac43d67832ae06a3ecc",
+  "finish_reason": "stop",
+  "latency_s": 9.630821917002322,
+  "prediction": "During the discussion regarding the community sports day, several potential activities were suggested. These included team sports such as soccer or basketball, which were noted as ways to get everyone involved and create a sense of community bonding. Additionally, the conversation touched upon the possibility of incorporating fun games specifically for children, aiming to make the event appealing and inclusive for all age groups. The community members also considered the addition of refreshments and decorations to enhance the festive atmosphere and keep participants energized throughout the day.",
+  "prediction_sha256": "9f1d4983e581635c75e82406d79d3963782d496ef76685c4798646bf47730366",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200144,
+  "usage": {
+    "completion_tokens": 98,
+    "prompt_tokens": 5089,
+    "prompt_tokens_details": null,
+    "total_tokens": 5187
+  }
+}

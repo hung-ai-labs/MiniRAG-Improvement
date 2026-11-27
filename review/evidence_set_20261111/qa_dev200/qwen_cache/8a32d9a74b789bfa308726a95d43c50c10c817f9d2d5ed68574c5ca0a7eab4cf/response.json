@@ -1,0 +1,17 @@
+{
+  "body_sha256": "8a32d9a74b789bfa308726a95d43c50c10c817f9d2d5ed68574c5ca0a7eab4cf",
+  "finish_reason": "stop",
+  "latency_s": 9.257743917005428,
+  "prediction": "On June 4, 2026, as mentioned by Turalyon, the benches were installed but the paint was not yet dry. Consequently, people were advised not to sit on the benches until the paint had fully dried. This precautionary measure ensures that the benches are safe and durable for the community to use.",
+  "prediction_sha256": "0cfd4104d576e5e80a0bffa69f154b39da1128183a26609704dd48b2de0e5009",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100114,
+  "usage": {
+    "completion_tokens": 67,
+    "prompt_tokens": 3689,
+    "prompt_tokens_details": null,
+    "total_tokens": 3756
+  }
+}

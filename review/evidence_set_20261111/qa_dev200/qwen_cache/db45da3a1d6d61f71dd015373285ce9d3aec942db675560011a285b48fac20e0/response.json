@@ -1,0 +1,17 @@
+{
+  "body_sha256": "db45da3a1d6d61f71dd015373285ce9d3aec942db675560011a285b48fac20e0",
+  "finish_reason": "stop",
+  "latency_s": 20.791890916996635,
+  "prediction": "The first instance of Li Hua and Wolfgang having dinner this year occurred on January 22nd, 2026, as indicated by the entry:\n\n```\nTime: 20260122_17:00\nWolfgangSchulz: Hey! Just a reminder about our movie night later. Dinner is at that new burger place near the cinema at 7. Can't wait! 🍔🎬\nLiHua: Sounds perfect! I'm looking forward to those burgers! What time do you want to meet?\nWolfgangSchulz: Let’s meet around 6:30? That way, we’ll have enough time to grab a bite before the show. 😄\nLiHua: 6:30 it is! I’ll be ready and hungry by then! 🍔😋\nGot any favorite burger toppings you're craving?\nWolfgangSchulz: I'm all about classic cheeseburger vibes! Just keep it simple with lettuce, tomato, and some pickles. What about you?\nLiHua: I'm thinking of trying something adventurous! Maybe a spicy jalapeño burger or something with BBQ sauce! 🥵🔥\nCan't wait to dig in!\nWolfgangSchulz: That sounds awesome! A little spice never hurt anyone. We'll have to share a bite to compare! See you soon! 😄\n```\n\nThis entry marks the beginning of their dining interactions for the year. Prior entries in the dataset describe various events and activities involving Wolfgang and Li Hua, but no earlier dinners are noted.",
+  "prediction_sha256": "b2f72661581373735ee2801776e31e8757b966ff69a361a9a647702bac929da9",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100076,
+  "usage": {
+    "completion_tokens": 334,
+    "prompt_tokens": 3756,
+    "prompt_tokens_details": null,
+    "total_tokens": 4090
+  }
+}

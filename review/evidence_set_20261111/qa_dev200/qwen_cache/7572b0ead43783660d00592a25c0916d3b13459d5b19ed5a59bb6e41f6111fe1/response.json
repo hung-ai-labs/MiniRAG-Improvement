@@ -1,0 +1,17 @@
+{
+  "body_sha256": "7572b0ead43783660d00592a25c0916d3b13459d5b19ed5a59bb6e41f6111fe1",
+  "finish_reason": "stop",
+  "latency_s": 9.876261208999495,
+  "prediction": "Wolfgang Schulz recommends a new place downtown for Li Hua to try, which he claims has been receiving positive feedback. While the exact name of this establishment is not provided in the dialogue, it can be inferred that it is a new pizza place located downtown. Given the context, Wolfgang Schulz likely suggested this new pizza spot downtown as a recommendation for a potential meal outing with Li Hua.",
+  "prediction_sha256": "9f773094026c3fae6d515b02c6bc6b0aad2b59d677468bbf2867527f0a2f26d2",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 98,
+  "usage": {
+    "completion_tokens": 82,
+    "prompt_tokens": 4421,
+    "prompt_tokens_details": null,
+    "total_tokens": 4503
+  }
+}

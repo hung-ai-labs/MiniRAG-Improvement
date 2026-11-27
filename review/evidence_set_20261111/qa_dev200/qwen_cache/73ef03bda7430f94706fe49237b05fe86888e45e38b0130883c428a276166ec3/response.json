@@ -1,0 +1,17 @@
+{
+  "body_sha256": "73ef03bda7430f94706fe49237b05fe86888e45e38b0130883c428a276166ec3",
+  "finish_reason": "stop",
+  "latency_s": 7.003006749997439,
+  "prediction": "Based on the conversation, Li Hua expresses a preference for a medium rare burger patty. She mentions, \"I just love the juicy texture of a medium rare patty. That's where all the flavor is for me!\" This indicates that her preferred doneness for a burger patty is medium rare.",
+  "prediction_sha256": "228db6189dfb28b20f4027d7f307fe48a70b1a9a59e5805a709bb9dff0a03d47",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100048,
+  "usage": {
+    "completion_tokens": 63,
+    "prompt_tokens": 4336,
+    "prompt_tokens_details": null,
+    "total_tokens": 4399
+  }
+}

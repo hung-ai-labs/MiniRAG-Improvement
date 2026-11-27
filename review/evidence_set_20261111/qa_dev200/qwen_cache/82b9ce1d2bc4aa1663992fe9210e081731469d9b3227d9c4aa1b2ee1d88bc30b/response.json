@@ -1,0 +1,17 @@
+{
+  "body_sha256": "82b9ce1d2bc4aa1663992fe9210e081731469d9b3227d9c4aa1b2ee1d88bc30b",
+  "finish_reason": "stop",
+  "latency_s": 6.527661874999467,
+  "prediction": "During the last community meeting held on March 3rd at 9:30 AM, Li Hua confirmed their availability for the meeting scheduled on March 6th at 2:00 PM to discuss the homepage updates. There were no specific suggestions provided by Li Hua regarding the construction schedule; the focus was on confirming the meeting time and looking forward to discussing the homepage updates. The community meeting was primarily centered around planning and finalizing plans for the garden, rather than focusing on the construction schedule or timeline.",
+  "prediction_sha256": "4ea88a6d6a1bcc49052c1bb2897136f382d7eb319dfb41c0a1c1d774f95e9ba8",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 154,
+  "usage": {
+    "completion_tokens": 106,
+    "prompt_tokens": 3756,
+    "prompt_tokens_details": null,
+    "total_tokens": 3862
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "13535960332284b59dcc89008f8f8f8d715c63a356dc80e00d9f8c0acc72fc6a",
+  "finish_reason": "stop",
+  "latency_s": 8.152836583998578,
+  "prediction": "According to the information provided, construction of the garden is set to begin on Wednesday. This is indicated in a message sent by Turalyon, who mentions, \"Construction starts this Wednesday, so we should have everything ready before then!\" Therefore, the garden renovation is scheduled to commence on a Wednesday, though no specific date was given in the provided data.",
+  "prediction_sha256": "ac06a7062696e32e853106cd06fc6533f99c6d13536f202a505122742b681db6",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100034,
+  "usage": {
+    "completion_tokens": 72,
+    "prompt_tokens": 4728,
+    "prompt_tokens_details": null,
+    "total_tokens": 4800
+  }
+}

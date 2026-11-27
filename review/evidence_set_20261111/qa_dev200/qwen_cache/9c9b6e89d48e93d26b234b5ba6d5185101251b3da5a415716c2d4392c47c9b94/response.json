@@ -1,0 +1,17 @@
+{
+  "body_sha256": "9c9b6e89d48e93d26b234b5ba6d5185101251b3da5a415716c2d4392c47c9b94",
+  "finish_reason": "stop",
+  "latency_s": 8.464735583002039,
+  "prediction": "In one of the conversations shared in the data, Yuriko mentions finding an online tutorial on advanced drum techniques. Specifically, she says, \"Hey guys! 😊 I found this online tutorial on advanced drum techniques that I thought might help out with practice. Check it out! 🎶 [link]\" This indicates that the topic of the online tutorial is advanced drum techniques.",
+  "prediction_sha256": "4e95a9cae1c3869ecae665bc83542071547ac9504fbdec84479722697a25d84b",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100045,
+  "usage": {
+    "completion_tokens": 77,
+    "prompt_tokens": 4392,
+    "prompt_tokens_details": null,
+    "total_tokens": 4469
+  }
+}

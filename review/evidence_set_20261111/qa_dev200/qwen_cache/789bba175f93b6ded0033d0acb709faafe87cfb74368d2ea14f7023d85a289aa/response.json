@@ -1,0 +1,17 @@
+{
+  "body_sha256": "789bba175f93b6ded0033d0acb709faafe87cfb74368d2ea14f7023d85a289aa",
+  "finish_reason": "stop",
+  "latency_s": 8.404396584002825,
+  "prediction": "In the conversation, Li Hua mentions that she plays guitar and has jam sessions with Wolfgang and Yuriko every Sunday. This indicates that Li Hua primarily plays the guitar in the basement.",
+  "prediction_sha256": "3b4c90a318465f3663ac2b638090ddd3cc7ad62ed8e55d98b3a6be3846f76b8e",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100117,
+  "usage": {
+    "completion_tokens": 40,
+    "prompt_tokens": 3887,
+    "prompt_tokens_details": null,
+    "total_tokens": 3927
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "4c51751e504ab3137dff61a63ebc9f2735f158a365075aa6242b7b728d044083",
+  "finish_reason": "stop",
+  "latency_s": 8.535955332998128,
+  "prediction": " According to the provided data, Li Hua and WolfgangSchulz plan to watch \"Overwatch 3\" at the new burger place near the cinema. They decide to meet for this movie event at 7 PM, as suggested by WolfgangSchulz in the content with ID 4:\n\n```\nWolfgangSchulz: How about we aim for around 7ish? Give us some time to unwind after work. \nLiHua: Perfect! See you at 7! 🍕\n```\n\nThus, Li Hua is scheduled to watch the movie \"Overwatch 3\" at 7 PM on the designated evening.",
+  "prediction_sha256": "bd1a6a242cb91c81ab6510293d408b3cc2ae8e7d140c0815d09b4ba2bfa04d37",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 200136,
+  "usage": {
+    "completion_tokens": 144,
+    "prompt_tokens": 5074,
+    "prompt_tokens_details": null,
+    "total_tokens": 5218
+  }
+}

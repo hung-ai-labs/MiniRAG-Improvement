@@ -1,0 +1,17 @@
+{
+  "body_sha256": "cf51855dcba169791eaeda20558c68a5cf01c9424c8c4a23419c40bfb111f6e7",
+  "finish_reason": "stop",
+  "latency_s": 10.989500458999828,
+  "prediction": "No, there is no mention of Hailey Johnson announcing the new line of high-protein breads before inviting Li Hua to the special bakery event. The first interaction regarding the new high-protein breads occurred in Source 1, which takes place on June 2nd, 2026. However, the invitation to the event mentioned in Source 5 takes place on April 13th, 2026. Therefore, the announcement of the new high-protein breads came after the invitation for the event had already been extended to Li Hua.",
+  "prediction_sha256": "be62f033d5c3c4af81115a16833de7fe8710b6650aef700a35096b90cc107a9c",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 172,
+  "usage": {
+    "completion_tokens": 119,
+    "prompt_tokens": 4541,
+    "prompt_tokens_details": null,
+    "total_tokens": 4660
+  }
+}

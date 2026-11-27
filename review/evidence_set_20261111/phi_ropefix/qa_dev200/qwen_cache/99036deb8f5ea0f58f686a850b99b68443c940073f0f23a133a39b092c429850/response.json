@@ -1,0 +1,17 @@
+{
+  "body_sha256": "99036deb8f5ea0f58f686a850b99b68443c940073f0f23a133a39b092c429850",
+  "finish_reason": "stop",
+  "latency_s": 16.967106541997055,
+  "prediction": " Li Hua expressed the most enjoyment for the pasta dish at the restaurant Wolfgang and he visited on May 14, 2026. He described it as \"rich and flavorful,\" indicating that the taste and quality of the pasta stood out to him as the highlight of his dining experience on that date. This specific detail is extracted from the conversation where Li Hua said, \"I couldn't get enough of that pasta dish! It was so rich and flavorful.\" Wolfgang's appreciation for the meal, particularly the steak, is also mentioned, but Li Hua's focus on the pasta implies that it was the dish he enjoyed the most.\n\n```markdown\n- **Most Enjoyed Dish at Restaurant on May 14, 2026:**\n  - **Pasta**: Li Hua repeatedly emphasized how much he enjoyed the pasta, describing it as \"rich and flavorful.\" This suggests a strong preference for the pasta dish and suggests that it was the culinary highlight of their restaurant experience.\n```",
+  "prediction_sha256": "825ecf0c00a8ee31e4495525e86bb20f15e5c030dff11706e3ba4da5e53f4e81",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 200020,
+  "usage": {
+    "completion_tokens": 241,
+    "prompt_tokens": 5370,
+    "prompt_tokens_details": null,
+    "total_tokens": 5611
+  }
+}

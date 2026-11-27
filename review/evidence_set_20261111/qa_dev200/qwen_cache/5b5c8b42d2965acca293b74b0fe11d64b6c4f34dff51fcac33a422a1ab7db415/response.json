@@ -1,0 +1,17 @@
+{
+  "body_sha256": "5b5c8b42d2965acca293b74b0fe11d64b6c4f34dff51fcac33a422a1ab7db415",
+  "finish_reason": "stop",
+  "latency_s": 9.424399874998926,
+  "prediction": "In one of the conversations, Wolfgang Schulz expresses an interest in sharing something he recently discovered that he believes LiHua might appreciate. Specifically, during a conversation about music soundtracks, Wolfgang mentions that he had an idea that some game soundtracks could be equally impressive, and he suggests checking out a few specific games' soundtracks together. He specifically recommends games like Hollow Knight, Undertale, Stardew Valley, and Spiritfarer, among others. This indicates that Wolfgang finds these game soundtracks to be quite cool and worthy of exploration, suggesting that he intends to share his discovery with LiHua.",
+  "prediction_sha256": "258dca3efa7bfd7fad6f0725352ad3604c869b3f42357e0ebe47c39890f1d1a0",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 102,
+  "usage": {
+    "completion_tokens": 123,
+    "prompt_tokens": 4210,
+    "prompt_tokens_details": null,
+    "total_tokens": 4333
+  }
+}

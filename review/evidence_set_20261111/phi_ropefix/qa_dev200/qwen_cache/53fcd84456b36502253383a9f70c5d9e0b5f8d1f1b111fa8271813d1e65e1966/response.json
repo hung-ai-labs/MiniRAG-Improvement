@@ -1,0 +1,17 @@
+{
+  "body_sha256": "53fcd84456b36502253383a9f70c5d9e0b5f8d1f1b111fa8271813d1e65e1966",
+  "finish_reason": "stop",
+  "latency_s": 8.016840250005771,
+  "prediction": " Helios is currently playing \"Red Dead Redemption 2,\" which he finds to have stunning world design and immersive gameplay mechanics. He is particularly impressed with the game's attention to detail and the realistic atmosphere it creates. The environment descriptions, such as riding through snow-covered areas like Grizzlies East, contribute to the breathtaking visual experience. The gameplay mechanics are not only enjoyable but also encourage exploration, with various missions that highlight the beauty and complexity of the game's pseudo-realistic setting. Helios appreciates how the game seamlessly integrates both the physical and narrative aspects of its world, enhancing his overall engagement with the game's environment and choices.",
+  "prediction_sha256": "f5aa7317f49df8e7ae82ef7716e788b1a5258c02b041b7ae412c21c0762aa72d",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 200100,
+  "usage": {
+    "completion_tokens": 163,
+    "prompt_tokens": 4533,
+    "prompt_tokens_details": null,
+    "total_tokens": 4696
+  }
+}

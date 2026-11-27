@@ -1,0 +1,17 @@
+{
+  "body_sha256": "15c737a30749691879114910c36be6dc020fa18e669d4c4ab73259b92273570d",
+  "finish_reason": "stop",
+  "latency_s": 7.327984083996853,
+  "prediction": "Based on the information provided in the data, there is no mention of a café where Li Hua and YurikoYamamoto first met to discuss Yuriko's website. The meetings described in the sources take place either at the studio or remotely, such as via phone calls or video chats. Therefore, no specific café is mentioned in relation to these discussions.",
+  "prediction_sha256": "8212215ae96b7c01a42d65fdadc963f43ddb26bf725608d51980aacc2409c7e2",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 158,
+  "usage": {
+    "completion_tokens": 75,
+    "prompt_tokens": 4714,
+    "prompt_tokens_details": null,
+    "total_tokens": 4789
+  }
+}

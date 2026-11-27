@@ -1,0 +1,17 @@
+{
+  "body_sha256": "a4fec98f109abf3af18ae7fd7afd45c290a6be25435ae6427f5ebb40a61bfd90",
+  "finish_reason": "stop",
+  "latency_s": 3.3343779999995604,
+  "prediction": "There is no information provided in the given data about Emily ordering food for the group's discussion about Game of Thrones characters. The conversations mentioned focus on discussing various aspects of the show and its characters, but there is no mention of food orders related to these discussions.",
+  "prediction_sha256": "63dfc8b95a7a4f23dd7511037d61b7431ba690b88a46ad99297847a68cf23d24",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100126,
+  "usage": {
+    "completion_tokens": 53,
+    "prompt_tokens": 4536,
+    "prompt_tokens_details": null,
+    "total_tokens": 4589
+  }
+}

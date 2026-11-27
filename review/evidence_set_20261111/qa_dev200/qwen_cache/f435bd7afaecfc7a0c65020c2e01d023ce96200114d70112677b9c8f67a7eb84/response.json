@@ -1,0 +1,17 @@
+{
+  "body_sha256": "f435bd7afaecfc7a0c65020c2e01d023ce96200114d70112677b9c8f67a7eb84",
+  "finish_reason": "stop",
+  "latency_s": 6.626768624999386,
+  "prediction": "In the conversation, Li Hua mentions that he plays guitar and organizes weekly jam sessions with Wolfgang Schulz and Yuriko Yamamoto. Specifically, he states, \"I play guitar and have jam sessions with Wolfgang and Yuriko every Sunday!\" Therefore, Li Hua plays the guitar in the basement.",
+  "prediction_sha256": "7e1c3374578d6db29b338954df8e477d3927f92a0eef884912de70b494adf29d",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100117,
+  "usage": {
+    "completion_tokens": 64,
+    "prompt_tokens": 4309,
+    "prompt_tokens_details": null,
+    "total_tokens": 4373
+  }
+}

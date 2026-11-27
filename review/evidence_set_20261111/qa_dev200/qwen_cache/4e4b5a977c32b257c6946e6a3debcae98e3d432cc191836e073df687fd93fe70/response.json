@@ -1,0 +1,17 @@
+{
+  "body_sha256": "4e4b5a977c32b257c6946e6a3debcae98e3d432cc191836e073df687fd93fe70",
+  "finish_reason": "stop",
+  "latency_s": 8.096022833000461,
+  "prediction": "Wolfgang and LiHua plan to visit the local music store for a music-related activity. According to the data, Wolfgang initiated the idea by suggesting they \"check out some new gear and get inspired for their next jam session.\" This indicates that they plan to purchase musical instruments or accessories and possibly explore new music-related content, likely aiming to enhance their performances and musical experience.",
+  "prediction_sha256": "c73184068ac794b6ac2ca9da48947ae06e135d1c2cd78b25db4d90ff6f8db251",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100081,
+  "usage": {
+    "completion_tokens": 77,
+    "prompt_tokens": 4219,
+    "prompt_tokens_details": null,
+    "total_tokens": 4296
+  }
+}

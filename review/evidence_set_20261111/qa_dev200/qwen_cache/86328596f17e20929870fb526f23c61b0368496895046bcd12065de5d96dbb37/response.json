@@ -1,0 +1,17 @@
+{
+  "body_sha256": "86328596f17e20929870fb526f23c61b0368496895046bcd12065de5d96dbb37",
+  "finish_reason": "stop",
+  "latency_s": 13.325082166997163,
+  "prediction": "Briar expresses strong confidence in Real Madrid's prospects for the remainder of the season. Specifically, Briar believes that with the team's depth in the squad and the integration of new talent, they have a solid chance to challenge for various titles. Briar credits Ancelotti's coaching expertise in unlocking the best performance from his players, even in critical moments. He sees the team's winning mentality as deeply ingrained in their culture, which includes a strong bond with their passionate fanbase. Overall, Briar predicts that Real Madrid will maintain their high energy and drive throughout the season, suggesting they have the potential to contend for victories in La Liga and the Champions League.",
+  "prediction_sha256": "314f4621fe7b96a51869d3603d431e22a62d5331d53121db1b7549519878f63c",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 106,
+  "usage": {
+    "completion_tokens": 136,
+    "prompt_tokens": 4540,
+    "prompt_tokens_details": null,
+    "total_tokens": 4676
+  }
+}

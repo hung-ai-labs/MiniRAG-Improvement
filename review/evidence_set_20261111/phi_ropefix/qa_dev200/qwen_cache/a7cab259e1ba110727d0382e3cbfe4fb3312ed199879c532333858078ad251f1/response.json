@@ -1,0 +1,17 @@
+{
+  "body_sha256": "a7cab259e1ba110727d0382e3cbfe4fb3312ed199879c532333858078ad251f1",
+  "finish_reason": "stop",
+  "latency_s": 4.729659874996287,
+  "prediction": " The provided data tables and information do not include details about any suggestions Li Hua made during a community meeting concerning the construction schedule. Without specific evidence or additional context in the given data, it is not possible to provide an answer to this question. If you have more information or a different query related to the data provided, I would be happy to assist you.",
+  "prediction_sha256": "2659a499876183c4851e4948b599f1e3d36a764fa910a3590557f75217608280",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 100154,
+  "usage": {
+    "completion_tokens": 73,
+    "prompt_tokens": 3966,
+    "prompt_tokens_details": null,
+    "total_tokens": 4039
+  }
+}

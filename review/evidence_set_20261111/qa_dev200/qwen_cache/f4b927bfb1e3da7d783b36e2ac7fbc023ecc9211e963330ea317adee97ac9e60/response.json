@@ -1,0 +1,17 @@
+{
+  "body_sha256": "f4b927bfb1e3da7d783b36e2ac7fbc023ecc9211e963330ea317adee97ac9e60",
+  "finish_reason": "stop",
+  "latency_s": 10.267239624998183,
+  "prediction": "In the community meeting scheduled on August 12, 2026 at 11:00 AM, the topic discussed was the upcoming installation of the AC in the basement. During this meeting, Yuriko Yamamoto asked about the specific schedule for the AC installation, and Adam Smith provided the current status. No specific suggestions or additional information regarding the construction schedule were mentioned by Li Hua in this particular meeting. Li Hua's participation in the meeting was focused on discussing the maintenance and recycling policies of the building, as evidenced in previous entries.",
+  "prediction_sha256": "26bb21297eff64c87cb7e936c2db1ffb82d7ccf7785c17f616750ff64c725207",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 154,
+  "usage": {
+    "completion_tokens": 115,
+    "prompt_tokens": 3866,
+    "prompt_tokens_details": null,
+    "total_tokens": 3981
+  }
+}

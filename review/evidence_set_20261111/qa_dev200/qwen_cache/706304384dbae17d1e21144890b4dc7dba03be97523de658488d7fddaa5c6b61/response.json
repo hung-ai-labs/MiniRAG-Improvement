@@ -1,0 +1,17 @@
+{
+  "body_sha256": "706304384dbae17d1e21144890b4dc7dba03be97523de658488d7fddaa5c6b61",
+  "finish_reason": "stop",
+  "latency_s": 10.223628125000687,
+  "prediction": "JakeWatson recalls a particularly memorable comeback for Real Madrid, which occurred in the Champions League against Manchester City in 2022. In this match, Real Madrid was trailing by two goals, but they managed to score two goals in quick succession in stoppage time, turning the game around and securing a historic victory. This comeback demonstrates the team's resilience and determination under pressure, showcasing their ability to turn things around when it seemed impossible.",
+  "prediction_sha256": "cc6c1c54c52de0b9fedd325194281943b6eff2b28e33a9080918b787639094a7",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 150,
+  "usage": {
+    "completion_tokens": 90,
+    "prompt_tokens": 3902,
+    "prompt_tokens_details": null,
+    "total_tokens": 3992
+  }
+}

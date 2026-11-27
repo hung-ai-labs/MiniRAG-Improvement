@@ -1,0 +1,17 @@
+{
+  "body_sha256": "fce2827d99ce2485800cc8d76d50d1a1b271f1b709b3db5f58422420b82ef483",
+  "finish_reason": "stop",
+  "latency_s": 10.403119791997597,
+  "prediction": "According to the discussion recorded on 20260507_16:00, a community meeting for the garden project was planned to take place. Specifically, the conversation mentions setting up some times for community meetings to brainstorm and finalize the plans. The discussion suggests that a meeting could be held on a weekend, with the potential to choose a date around 10 am. However, the exact date and time for the meeting were not finalized at that point.",
+  "prediction_sha256": "fb4c63d17251d3d12e3deda3008c51040efcbd9cee49b5f41af128ccbfbdd56f",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100070,
+  "usage": {
+    "completion_tokens": 98,
+    "prompt_tokens": 5516,
+    "prompt_tokens_details": null,
+    "total_tokens": 5614
+  }
+}

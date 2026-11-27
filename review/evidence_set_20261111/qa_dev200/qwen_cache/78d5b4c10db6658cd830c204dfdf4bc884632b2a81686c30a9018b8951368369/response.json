@@ -1,0 +1,17 @@
+{
+  "body_sha256": "78d5b4c10db6658cd830c204dfdf4bc884632b2a81686c30a9018b8951368369",
+  "finish_reason": "stop",
+  "latency_s": 7.475490167002135,
+  "prediction": "In the conversation, WolfgangSchulz suggests taking a break from jamming this week. He expresses the need to recharge and mentions, \"Could use some time to recharge!\" This proposal is made in a message dated Time: 20260416_21:00.",
+  "prediction_sha256": "fc06515159f90592efa7030073be480116d284aebbf19c4a7c658a80ce94800c",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100205,
+  "usage": {
+    "completion_tokens": 62,
+    "prompt_tokens": 4570,
+    "prompt_tokens_details": null,
+    "total_tokens": 4632
+  }
+}

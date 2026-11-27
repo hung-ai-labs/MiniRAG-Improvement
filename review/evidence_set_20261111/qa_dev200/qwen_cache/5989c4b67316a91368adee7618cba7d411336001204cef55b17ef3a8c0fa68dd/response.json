@@ -1,0 +1,17 @@
+{
+  "body_sha256": "5989c4b67316a91368adee7618cba7d411336001204cef55b17ef3a8c0fa68dd",
+  "finish_reason": "stop",
+  "latency_s": 11.539334374996542,
+  "prediction": "In the discussion, Ileana expresses enthusiasm for a particular game's world and storytelling. Specifically, she states, \"I’m kinda obsessed with the graphics and storytelling in 'God of War.' It’s just so immersive!\" This indicates that Ileana mentions 'God of War' for its unique world and storytelling.",
+  "prediction_sha256": "ab452f6b8b1ba1afe86be666808613a41e66ad70e337f72f192996f3f93bce9b",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 15,
+  "usage": {
+    "completion_tokens": 65,
+    "prompt_tokens": 3206,
+    "prompt_tokens_details": null,
+    "total_tokens": 3271
+  }
+}

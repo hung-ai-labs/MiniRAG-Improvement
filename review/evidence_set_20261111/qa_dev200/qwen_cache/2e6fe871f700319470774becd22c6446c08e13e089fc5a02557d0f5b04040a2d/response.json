@@ -1,0 +1,17 @@
+{
+  "body_sha256": "2e6fe871f700319470774becd22c6446c08e13e089fc5a02557d0f5b04040a2d",
+  "finish_reason": "stop",
+  "latency_s": 11.225478708998708,
+  "prediction": "In the discussion regarding a weekend picnic, Turalyon expressed enthusiasm for the idea, asking everyone to share their thoughts and ideas on the event. Specifically, he encouraged participants to share their thoughts on games and activities that could be included, as well as any specific dishes or drinks they wished to bring. Additionally, Turalyon mentioned the possibility of having background music for the picnic, emphasizing that it should not be too loud to avoid disturbing anyone nearby. He also suggested bringing blankets or chairs for seating, as the picnic may become quite crowded. Overall, Turalyon wants to hear from the community members about how they can make the picnic a memorable and enjoyable experience.",
+  "prediction_sha256": "43c0b7a132c7e3febf3a24c21ff0aae4d407ec11a370f8a76402216e694289a2",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 96,
+  "usage": {
+    "completion_tokens": 134,
+    "prompt_tokens": 3836,
+    "prompt_tokens_details": null,
+    "total_tokens": 3970
+  }
+}

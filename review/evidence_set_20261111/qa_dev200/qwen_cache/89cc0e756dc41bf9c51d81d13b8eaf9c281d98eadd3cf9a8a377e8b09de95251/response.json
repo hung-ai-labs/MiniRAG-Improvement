@@ -1,0 +1,17 @@
+{
+  "body_sha256": "89cc0e756dc41bf9c51d81d13b8eaf9c281d98eadd3cf9a8a377e8b09de95251",
+  "finish_reason": "stop",
+  "latency_s": 8.941945833001228,
+  "prediction": "No, Wolfgang did not ask Li Hua about watching \"Star Wars: A New Hope\" after inquiring about \"Overwatch 3\". According to the conversation, Wolfgang mentioned \"Overwatch 3\" in a context unrelated to watching movies. Specifically, Wolfgang asked Li Hua if they wanted to watch \"Star Wars: A New Hope\" at his place after work. This conversation took place in a separate entry from the one involving \"Overwatch 3\".",
+  "prediction_sha256": "b550080ed9504fce6a95c03e301e0ce4a0c81a643059760c50609911b662260b",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200043,
+  "usage": {
+    "completion_tokens": 95,
+    "prompt_tokens": 4608,
+    "prompt_tokens_details": null,
+    "total_tokens": 4703
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "9c3a2a3c83e46add80c87f9e0271d591161b2a860b13f5a5d57645fec374515e",
+  "finish_reason": "stop",
+  "latency_s": 10.47037145899958,
+  "prediction": "In one of the conversations, AdamSmith offers LiHua the opportunity to add some sound-insulating pads to the basement, provided that they are reversible and do not damage anything. AdamSmith states, \"That sounds like a great idea. As long as it’s reversible and doesn’t damage anything, I’m okay with it. Let me know if you need any help!\" LiHua expresses her willingness to comply with these conditions, saying, \"Awesome, thanks for that! I promise to keep it reversible and neat. I’ll let you know if I need anything!\"",
+  "prediction_sha256": "c6e5854ee34c45d11c2c11f6b8d27186a860d169a6150b342015849cce5a87ad",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 177,
+  "usage": {
+    "completion_tokens": 116,
+    "prompt_tokens": 3322,
+    "prompt_tokens_details": null,
+    "total_tokens": 3438
+  }
+}

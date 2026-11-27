@@ -1,0 +1,17 @@
+{
+  "body_sha256": "cb6eb893597e4495081f6d438ac6a02d59317fbe3886ef630f35bd67f69466e3",
+  "finish_reason": "stop",
+  "latency_s": 16.921231542000896,
+  "prediction": "Li Hua informed Adam Smith multiple times that the rent had been transferred. According to the records, she transferred the rent on several occasions including:\n\n- On June 2nd at 10:00 AM (Source ID 2)\n- On March 1st at 10:00 AM (Source ID 3)\n- On January 7th at 3:00 PM (Source ID 10)\n- On September 24th at 8:00 PM (Source ID 15)\n\nIn each instance, Li Hua provided the update and thanked Adam Smith for the reminders regarding the rent payments. These updates suggest that Li Hua consistently kept Adam informed about her financial status, ensuring that the rent was paid on time.",
+  "prediction_sha256": "17f173f115f003054a0529020be845b344fe35aaf7955ea71f376594401e46bf",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200018,
+  "usage": {
+    "completion_tokens": 158,
+    "prompt_tokens": 4371,
+    "prompt_tokens_details": null,
+    "total_tokens": 4529
+  }
+}

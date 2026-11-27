@@ -1,0 +1,17 @@
+{
+  "body_sha256": "b1fb66ef7787cbd9501fcad8fe83992c95c2fc2fa0346664386f5e9b55e5d1bc",
+  "finish_reason": "stop",
+  "latency_s": 10.030398707996937,
+  "prediction": "In the conversation, Jennifer does not specify a particular brand of protein supplement for Li Hua's fitness goals. Instead, she recommends whey protein as a good choice for muscle recovery and lean mass building. She also suggests plant-based options like pea or rice protein, but she emphasizes checking the ingredients for added sugars or fillers. Therefore, no specific brand is mentioned for Li Hua's weight loss journey.",
+  "prediction_sha256": "6f391e12077d85a266627641ce83d568d3e09a3fbe84f723488e3aa95dac88f9",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200079,
+  "usage": {
+    "completion_tokens": 83,
+    "prompt_tokens": 3682,
+    "prompt_tokens_details": null,
+    "total_tokens": 3765
+  }
+}

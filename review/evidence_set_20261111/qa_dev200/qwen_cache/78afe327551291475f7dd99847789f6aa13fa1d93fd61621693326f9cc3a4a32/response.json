@@ -1,0 +1,17 @@
+{
+  "body_sha256": "78afe327551291475f7dd99847789f6aa13fa1d93fd61621693326f9cc3a4a32",
+  "finish_reason": "stop",
+  "latency_s": 10.79794537500129,
+  "prediction": "In the discussion, multiple individuals emphasize the importance of hydration for optimal performance, particularly during matches. JenniferMoore advises her group to keep track of their water intake during workouts and mentions taking small sips during her breaks in between sets to recover faster and maintain energy levels. Breach also stresses the importance of staying hydrated, suggesting he fills up a big jug in the morning to keep hydrated throughout the day. Additionally, LiHua talks about the necessity of hydration for recovery after workouts and suggests using electrolyte drinks for recovery. Therefore, several individuals remind others to stay hydrated both before and during the match.",
+  "prediction_sha256": "7fa334a2259f3399ea0ca307c141f72d665405ae97d28e93ee28bc7e56ee765e",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100121,
+  "usage": {
+    "completion_tokens": 122,
+    "prompt_tokens": 5188,
+    "prompt_tokens_details": null,
+    "total_tokens": 5310
+  }
+}

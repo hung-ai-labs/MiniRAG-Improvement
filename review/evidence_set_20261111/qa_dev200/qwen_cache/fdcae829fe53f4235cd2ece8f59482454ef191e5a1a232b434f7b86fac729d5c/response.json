@@ -1,0 +1,17 @@
+{
+  "body_sha256": "fdcae829fe53f4235cd2ece8f59482454ef191e5a1a232b434f7b86fac729d5c",
+  "finish_reason": "stop",
+  "latency_s": 7.298878041001444,
+  "prediction": "In one conversation, WolfgangSchulz mentioned a new pizza place downtown that he enjoys, suggesting it has \"amazing toppings.\" LiHua responded positively to this suggestion, indicating that she's \"been wanting to try that place.\" This suggests that LiHua agrees with WolfgangSchulz's recommendation and plans to visit the new pizza place downtown with him.",
+  "prediction_sha256": "73767ee7e4578f18489dc73763006899b0873ff9d3ec2ba2625128e53c1779f5",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 38,
+  "usage": {
+    "completion_tokens": 74,
+    "prompt_tokens": 4479,
+    "prompt_tokens_details": null,
+    "total_tokens": 4553
+  }
+}

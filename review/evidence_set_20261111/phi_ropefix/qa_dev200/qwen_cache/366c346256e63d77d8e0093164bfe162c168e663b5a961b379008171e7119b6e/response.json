@@ -1,0 +1,17 @@
+{
+  "body_sha256": "366c346256e63d77d8e0093164bfe162c168e663b5a961b379008171e7119b6e",
+  "finish_reason": "stop",
+  "latency_s": 7.04852004100394,
+  "prediction": " Dyllan recommends the game **\"Octopath Traveler\"** for its combination of turn-based combat and appealing art style. The conversation highlights that Dyllan appreciates the game's pixel art and the charm of being able to choose different characters, each with their own stories. This aspect of character choice adds an enjoyable layer to planning battles and strategizing during gameplay. Thus, Octopath Traveler is suggested as a game that offers both strategic depth through its turn-based system and a visually pleasing experience due to its distinctive art style.",
+  "prediction_sha256": "e116f71b447640d5624c3d5ea1b53443a0a813d943e5534bb90554da280b73bd",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 100083,
+  "usage": {
+    "completion_tokens": 126,
+    "prompt_tokens": 3681,
+    "prompt_tokens_details": null,
+    "total_tokens": 3807
+  }
+}

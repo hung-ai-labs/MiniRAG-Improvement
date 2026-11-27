@@ -1,0 +1,17 @@
+{
+  "body_sha256": "7979b7add8496145c646dcb8e76fa85a94df9fac5c4911481043859a34fd7627",
+  "finish_reason": "stop",
+  "latency_s": 16.21568758400099,
+  "prediction": "Li Hua informed Adam Smith that the rent was transferred on multiple occasions. Specifically, the transfers occurred on March 29 (time: 20260331_17:00), February 19 (time: 20260219_20:00), and January 27 (time: 20260127_20:30). In one instance, the rent was confirmed to be transferred via bank transfer by Li Hua on April 29 (time: 20260429_18:00). Therefore, there were several dates when Li Hua informed Adam Smith about the rent being transferred.",
+  "prediction_sha256": "1f01b6e179a72a343e0dbf207fc8928e226711e237b760235d93bab2226c202c",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 18,
+  "usage": {
+    "completion_tokens": 153,
+    "prompt_tokens": 3607,
+    "prompt_tokens_details": null,
+    "total_tokens": 3760
+  }
+}

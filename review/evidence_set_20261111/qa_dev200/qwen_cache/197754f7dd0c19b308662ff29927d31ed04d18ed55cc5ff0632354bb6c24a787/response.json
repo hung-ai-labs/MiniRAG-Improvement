@@ -1,0 +1,17 @@
+{
+  "body_sha256": "197754f7dd0c19b308662ff29927d31ed04d18ed55cc5ff0632354bb6c24a787",
+  "finish_reason": "stop",
+  "latency_s": 10.518418249997922,
+  "prediction": "The community is organizing several events, but the most prominent one mentioned in the provided data is the picnic that is being planned for next Saturday. This event aims to bring the community together, allowing them to relax and enjoy each other's company in the newly renovated garden. Other events such as the Community Garden Cleanup Event, the Community Sports Day, and the Community Bake Sale are also planned, but the picnic stands out as the main event being organized by the community.",
+  "prediction_sha256": "b695b539f4f0eeb6482a708a7d8f8ff50c93507c35e1d04d914b9072f0a18847",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 159,
+  "usage": {
+    "completion_tokens": 93,
+    "prompt_tokens": 4782,
+    "prompt_tokens_details": null,
+    "total_tokens": 4875
+  }
+}

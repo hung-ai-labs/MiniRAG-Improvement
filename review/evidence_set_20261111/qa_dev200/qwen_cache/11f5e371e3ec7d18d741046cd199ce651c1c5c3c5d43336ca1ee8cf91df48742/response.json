@@ -1,0 +1,17 @@
+{
+  "body_sha256": "11f5e371e3ec7d18d741046cd199ce651c1c5c3c5d43336ca1ee8cf91df48742",
+  "finish_reason": "stop",
+  "latency_s": 10.67204933299945,
+  "prediction": "There is no information provided in the given data about Li Hua purchasing groceries from a store on April 15, 2026. The records only mention Li Hua receiving bread deliveries from Hailey's Bakery on multiple occasions, including April 15, 2026. Payments related to these deliveries are typically handled directly between the bakery and the customer, rather than through grocery store transactions. Therefore, based on the data provided, it is not possible to determine the payment method used for groceries on April 15, 2026.",
+  "prediction_sha256": "0a5549d5d97fe87add075eae378deb1d2c39352d4cafd63178b40d764ef879e4",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 115,
+  "usage": {
+    "completion_tokens": 117,
+    "prompt_tokens": 4433,
+    "prompt_tokens_details": null,
+    "total_tokens": 4550
+  }
+}

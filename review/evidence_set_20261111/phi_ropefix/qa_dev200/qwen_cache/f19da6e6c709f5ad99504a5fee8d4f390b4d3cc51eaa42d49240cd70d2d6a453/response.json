@@ -1,0 +1,17 @@
+{
+  "body_sha256": "f19da6e6c709f5ad99504a5fee8d4f390b4d3cc51eaa42d49240cd70d2d6a453",
+  "finish_reason": "stop",
+  "latency_s": 5.067498416996386,
+  "prediction": " Helios suggests the game **Fire Emblem** for tactical fun, offering both a strategic gameplay experience and strong character development. This game combines RPG elements with social simulation, making each battle feel strategic due to the varied elemental weaknesses among characters. Additionally, **Fire Emblem** is celebrated for its compelling story and unique art style, which contributes to the game's depth and engagement.",
+  "prediction_sha256": "9b0a5ef2e403f0d314c4856a871919bf44ec971f0d5351cb6c9098154cc39d41",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 100046,
+  "usage": {
+    "completion_tokens": 90,
+    "prompt_tokens": 4980,
+    "prompt_tokens_details": null,
+    "total_tokens": 5070
+  }
+}

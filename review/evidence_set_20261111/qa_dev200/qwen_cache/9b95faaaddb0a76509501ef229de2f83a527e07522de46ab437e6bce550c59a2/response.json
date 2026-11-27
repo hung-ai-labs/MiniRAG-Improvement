@@ -1,0 +1,17 @@
+{
+  "body_sha256": "9b95faaaddb0a76509501ef229de2f83a527e07522de46ab437e6bce550c59a2",
+  "finish_reason": "stop",
+  "latency_s": 12.863463292000233,
+  "prediction": "No, Hailey did not mention the new line of high-protein breads before inviting Li Hua to the special bakery event. According to the records, Hailey Johnson announced the launch of a new line of gluten-free bread options on April 2nd, which is separate from the announcement of the new high-protein breads. The invitation to the special event was sent on May 27th, and it was specifically about a new line of healthy bread options, not high-protein ones. Therefore, there is no direct connection between the new high-protein breads and the invitation to the event.",
+  "prediction_sha256": "546471520147966d6ad72ce9f1862f29bf3a37a555746ec285885b921e455cf3",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100172,
+  "usage": {
+    "completion_tokens": 125,
+    "prompt_tokens": 4400,
+    "prompt_tokens_details": null,
+    "total_tokens": 4525
+  }
+}

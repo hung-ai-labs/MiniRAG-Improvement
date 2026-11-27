@@ -1,0 +1,17 @@
+{
+  "body_sha256": "56ea2f16df840ea2ecbfdf99cb9102a542a32c306762c3aed801a878f774b698",
+  "finish_reason": "stop",
+  "latency_s": 17.762874083004135,
+  "prediction": " The anniversary event of Hailey Johnson's bakery shop is scheduled to occur from April 15 to April 17, 2026. This information can be pieced together from two entries in the provided data tables. The first entry, identified as id 0, has a content timestamp of \"20260413_21:00\" where HaileyJohnson extends a greeting and announces the upcoming event, noting that there will be discounts and new bread products available for the celebration. LiHua responds enthusiastically, showing interest in attending the anniversary event and enjoying the new offerings, particularly the sourdough bread she favors.\n\nThe second entry, identified as id 1, occurs the following month with a timestamp of \"20260816_20:00\", but it does not contain information about the anniversary event. This confirms the dates mentioned earlier as the specific timeframe for the bakery's anniversary celebration. Attendees, like LiHua, are expressed to anticipate the event with excitement and the desire to try new goods, as evidenced by the interactions in the preceding data.\n\nIn summary, the bakery's anniversary celebration is a two-day event running from April 15 to April 17, promising both discounts and a selection of new bread and pastries, which includes HaileyJohnson's special treats, courtesy of certain customer interactions.\n\n```markdown\n## Bakery Shop Anniversary Event Date\n\n- **Start Date:** April 15, 2026\n- **End Date:** April 17, 2026\n\nThe event is highlighted by a variety of promotional activities such as discounts and the introduction of new bread products. The bakery anticipates not only regular customers but also likens the celebration to an occasion where attendees can revel in a wide array of baked goods. Customer sentiment is captured by reactions such as LiHua's eagerness to attend and the promise of enjoyable specialty items, emphasizing the festive nature of the event.\n```",
+  "prediction_sha256": "d615a9a79a1ed159dc9283298f41384097a16d9a54b9b2afa5e90405fd6c8b01",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 100054,
+  "usage": {
+    "completion_tokens": 491,
+    "prompt_tokens": 5098,
+    "prompt_tokens_details": null,
+    "total_tokens": 5589
+  }
+}

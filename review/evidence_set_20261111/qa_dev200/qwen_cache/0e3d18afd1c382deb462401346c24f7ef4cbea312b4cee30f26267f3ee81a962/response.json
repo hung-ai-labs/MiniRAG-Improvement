@@ -1,0 +1,17 @@
+{
+  "body_sha256": "0e3d18afd1c382deb462401346c24f7ef4cbea312b4cee30f26267f3ee81a962",
+  "finish_reason": "stop",
+  "latency_s": 7.554872624998097,
+  "prediction": "For the upcoming match, Henley was identified as someone who will bring cones to set up drills. Henley suggested focusing on improving the team's weak spots from their previous matches, which included working on their defense. Therefore, Henley will be responsible for bringing the cones to facilitate the practice sessions.",
+  "prediction_sha256": "2211e041d171bc338c8d5f5aad56b972e83d403bfaea27e449fe51f3167b4400",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100080,
+  "usage": {
+    "completion_tokens": 61,
+    "prompt_tokens": 4338,
+    "prompt_tokens_details": null,
+    "total_tokens": 4399
+  }
+}

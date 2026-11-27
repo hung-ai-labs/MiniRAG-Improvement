@@ -1,0 +1,17 @@
+{
+  "body_sha256": "6bd3dd3bb22f35a6a7ddc200abf2a870a48ff9944a9619f6513bd35aabd5fdcb",
+  "finish_reason": "stop",
+  "latency_s": 9.093969083001866,
+  "prediction": "In the conversation recorded under timestamp 20261002_13:00, WolfgangSchulz informs LiHua that the new software he has been working on is almost done. He expresses excitement about LiHua being among the first to use it and mentions that he has focused on making the software user-friendly.",
+  "prediction_sha256": "19377651fb2d4d69ba1780c0509221bf4e7f462cc4635154c04914ef7a5e2edc",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 32,
+  "usage": {
+    "completion_tokens": 71,
+    "prompt_tokens": 4441,
+    "prompt_tokens_details": null,
+    "total_tokens": 4512
+  }
+}

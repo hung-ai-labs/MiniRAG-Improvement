@@ -1,0 +1,17 @@
+{
+  "body_sha256": "dad96a44e8387855c618d872a60c156f3807b876fed68af079e95b2a0a9d92f0",
+  "finish_reason": "stop",
+  "latency_s": 6.768546334002167,
+  "prediction": " WolfgangSchulz is the one who proposes that the band takes a break from jamming this week. He expresses this desire in the chat log, stating, \"Hey guys, how about we take a break from jamming this week? Could use some time to recharge!\" He further suggests a rescheduled jam session for the following Sunday, showing enthusiasm about planning new sessions and brainstorming new songs. The rest of the group members, YurikoYamamoto and LiHua, respond positively to the idea, agreeing and discussing their own preparations for the upcoming break and the next session.",
+  "prediction_sha256": "1098d54259f06baf40b86780d24396e575fb084f949672fbc9c421f7c510cb4a",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 100205,
+  "usage": {
+    "completion_tokens": 135,
+    "prompt_tokens": 857,
+    "prompt_tokens_details": null,
+    "total_tokens": 992
+  }
+}

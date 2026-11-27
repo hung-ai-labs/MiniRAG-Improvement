@@ -1,0 +1,17 @@
+{
+  "body_sha256": "b26d23605aa6085f4f3e712021dbaabfea2a96ab0b7ef5411cba10ee26b39897",
+  "finish_reason": "stop",
+  "latency_s": 5.572773874999257,
+  "prediction": " The provided data tables and source content do not specify the exact date and time when Cersei Lannister first met Jaime Lannister in the Game of Thrones series. To find this information, one would need to refer directly to the television series episodes or official episode guides, as it is a detail typically not included in general discussions or summaries of the show's themes, character development, or fan opinions.",
+  "prediction_sha256": "dc1b9d659f29af6f6860906e12a257379f5fdc253a1f3e57799c52611aedc6e0",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 200123,
+  "usage": {
+    "completion_tokens": 91,
+    "prompt_tokens": 5624,
+    "prompt_tokens_details": null,
+    "total_tokens": 5715
+  }
+}

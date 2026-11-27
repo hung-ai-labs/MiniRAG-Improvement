@@ -1,0 +1,17 @@
+{
+  "body_sha256": "5b220b090ab8471464710bab3a4825e00d38a645ea1d6ee163437aa72588ef77",
+  "finish_reason": "stop",
+  "latency_s": 8.021452458000567,
+  "prediction": "Helios is currently playing \"Horizon Forbidden West,\" a game that finds the world and gameplay mechanics stunning. This game has a remarkable world filled with diverse environments that present various challenges, which is described by Helios as bringing a different challenge compared to the standard gameplay. Additionally, the gameplay mechanics are praised for being top-notch, showcasing an engaging and exciting experience.",
+  "prediction_sha256": "78b61f2b95585466a641b81987b9cd620acc9762396ddb95381c9d908e7ff397",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100100,
+  "usage": {
+    "completion_tokens": 74,
+    "prompt_tokens": 4873,
+    "prompt_tokens_details": null,
+    "total_tokens": 4947
+  }
+}

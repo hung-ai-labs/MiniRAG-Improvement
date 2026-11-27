@@ -1,0 +1,17 @@
+{
+  "body_sha256": "ee18e2869ea39ca299b0067b3d4e3944faf557b2d8f93ac7f055e66f6cc65903",
+  "finish_reason": "stop",
+  "latency_s": 9.772713792001014,
+  "prediction": "The first recorded instance of Li Hua and Wolfgang having dinner together this year appears in the log entry dated 20260430_17:00, where they discuss plans to meet for dinner at Venedia Grancaffe to celebrate Wolfgang's recent promotion. This marks the beginning of their dining traditions in the context of the data provided.",
+  "prediction_sha256": "d142f04513a90544c0970d436cde7377d1eca356ae22539bd605e4d60dbf4e63",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200013,
+  "usage": {
+    "completion_tokens": 74,
+    "prompt_tokens": 4498,
+    "prompt_tokens_details": null,
+    "total_tokens": 4572
+  }
+}

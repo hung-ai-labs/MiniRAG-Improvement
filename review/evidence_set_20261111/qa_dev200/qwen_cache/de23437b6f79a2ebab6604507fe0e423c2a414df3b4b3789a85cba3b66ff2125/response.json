@@ -1,0 +1,17 @@
+{
+  "body_sha256": "de23437b6f79a2ebab6604507fe0e423c2a414df3b4b3789a85cba3b66ff2125",
+  "finish_reason": "stop",
+  "latency_s": 8.07912700000088,
+  "prediction": "In the conversation, Jennifer Moore provides advice on protein supplements suitable for Li Hua's fitness goals without specifying a particular brand. She recommends whey protein, pea protein, and rice protein as options. She suggests checking the ingredients for added sugars or fillers and advises taking the protein supplement after workouts for optimal absorption. However, she does not mention any specific brands.",
+  "prediction_sha256": "d6343e008383a0da8876a71e9a69dad92987858782077a0904021e603a27f8df",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 79,
+  "usage": {
+    "completion_tokens": 74,
+    "prompt_tokens": 3682,
+    "prompt_tokens_details": null,
+    "total_tokens": 3756
+  }
+}

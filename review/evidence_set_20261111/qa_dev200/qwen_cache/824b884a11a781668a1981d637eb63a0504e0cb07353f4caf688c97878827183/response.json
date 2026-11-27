@@ -1,0 +1,17 @@
+{
+  "body_sha256": "824b884a11a781668a1981d637eb63a0504e0cb07353f4caf688c97878827183",
+  "finish_reason": "stop",
+  "latency_s": 11.92185537500336,
+  "prediction": "In the conversation recorded on 20260714, LiHua expresses interest in trying a new pastry that Hailey Johnson has introduced. During this exchange, LiHua mentions a specific flavor that he really loved, which Hailey acknowledges as a \"crowd favorite.\" Specifically, LiHua states, \"I really loved the chocolate hazelnut one! It had the perfect balance of sweetness.\" This indicates that the new pastry flavor that Hailey Johnson has introduced, which LiHua particularly enjoyed, is the chocolate hazelnut flavor.",
+  "prediction_sha256": "dc073bd524e3c5648fcfe15e8ebf1959a73e23cb1375f742f0bfdcea6c4243e1",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100016,
+  "usage": {
+    "completion_tokens": 115,
+    "prompt_tokens": 4353,
+    "prompt_tokens_details": null,
+    "total_tokens": 4468
+  }
+}

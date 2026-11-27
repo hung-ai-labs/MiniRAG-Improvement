@@ -1,0 +1,17 @@
+{
+  "body_sha256": "ea7c340c7ba2f313efba80fb9f926a50d3eaa7efa990627c1b437477b40ebfdb",
+  "finish_reason": "stop",
+  "latency_s": 12.691821959000663,
+  "prediction": "No, Hailey did not mention the new line of high-protein breads prior to inviting Li Hua to the special bakery event. The initial announcement regarding the new line of gluten-free bread options was made on April 2nd (Time: 20260402_08:30). Following this announcement, the invitation to the special event was extended on June 22nd (Time: 20260622_13:30). Therefore, the new high-protein breads were not part of the original conversation leading up to the event.",
+  "prediction_sha256": "20fdcd4a45bead40c30f84dfd7dc5f2fa68dc06d0d6263edf7847fd69e201e1d",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100172,
+  "usage": {
+    "completion_tokens": 126,
+    "prompt_tokens": 4567,
+    "prompt_tokens_details": null,
+    "total_tokens": 4693
+  }
+}

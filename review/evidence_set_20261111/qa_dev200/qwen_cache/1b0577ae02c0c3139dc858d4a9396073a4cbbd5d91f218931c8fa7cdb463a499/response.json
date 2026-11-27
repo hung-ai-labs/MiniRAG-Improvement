@@ -1,0 +1,17 @@
+{
+  "body_sha256": "1b0577ae02c0c3139dc858d4a9396073a4cbbd5d91f218931c8fa7cdb463a499",
+  "finish_reason": "stop",
+  "latency_s": 7.814653542001906,
+  "prediction": "Based on the information provided in the conversations, Wolfgang Schulz engages in various types of exercises at the gym. However, there is no specific mention of the equipment he uses during his workouts. The interactions focus more on discussions about music, jam sessions, and personal preferences rather than detailing the gym equipment he utilizes. Therefore, while we know Wolfgang enjoys working out and plans to continue doing so, the exact types of gym equipment he employs remain unspecified based on the available data.",
+  "prediction_sha256": "95dbd3d2d3657c87a9dc7c449b38da714c53a934c6725117fa1350c5768f6e25",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100092,
+  "usage": {
+    "completion_tokens": 95,
+    "prompt_tokens": 3888,
+    "prompt_tokens_details": null,
+    "total_tokens": 3983
+  }
+}

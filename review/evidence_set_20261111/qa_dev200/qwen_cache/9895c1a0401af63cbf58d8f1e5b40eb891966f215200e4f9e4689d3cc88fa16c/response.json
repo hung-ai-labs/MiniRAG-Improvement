@@ -1,0 +1,17 @@
+{
+  "body_sha256": "9895c1a0401af63cbf58d8f1e5b40eb891966f215200e4f9e4689d3cc88fa16c",
+  "finish_reason": "stop",
+  "latency_s": 7.915250499998365,
+  "prediction": "In the conversation, Yuriko and Wolfgang discussed the tutorial she had watched on advanced drum techniques. After viewing it, Wolfgang suggested performing \"Here Comes the Sun\" by The Beatles during their upcoming jam session. This song was chosen because Wolfgang believed it would be a great addition to their repertoire and it is a feel-good tune suitable for playing together.",
+  "prediction_sha256": "cb688e2e1cdbdfb9a6c8143bb885ceb248ed7db53f12a2398b421d2050c0d341",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 168,
+  "usage": {
+    "completion_tokens": 71,
+    "prompt_tokens": 4661,
+    "prompt_tokens_details": null,
+    "total_tokens": 4732
+  }
+}

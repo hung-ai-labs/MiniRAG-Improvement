@@ -1,0 +1,17 @@
+{
+  "body_sha256": "f409f1a45bf6e79b9d157891529f87aa609f6c299362f5e08fa7b075ac8f1d4f",
+  "finish_reason": "stop",
+  "latency_s": 5.410446292000415,
+  "prediction": " LiHua suggests going out for hot pot. This is evident from the conversation entry on \"Time: 20260930_16:00\" where LiHua initiates the idea by saying, \"Hey man! Wanna go have hot pot for dinner tonight? Let me know!\". WolfgangSchulz responds positively, showing his interest in the plan.",
+  "prediction_sha256": "9b9d66d1fb41804fdaf1b4625389123ca12bde855f18c399e392c2d74fc05315",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 200118,
+  "usage": {
+    "completion_tokens": 86,
+    "prompt_tokens": 3970,
+    "prompt_tokens_details": null,
+    "total_tokens": 4056
+  }
+}

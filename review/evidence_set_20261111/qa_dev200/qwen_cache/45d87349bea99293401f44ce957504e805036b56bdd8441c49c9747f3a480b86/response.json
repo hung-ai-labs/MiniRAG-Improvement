@@ -1,0 +1,17 @@
+{
+  "body_sha256": "45d87349bea99293401f44ce957504e805036b56bdd8441c49c9747f3a480b86",
+  "finish_reason": "stop",
+  "latency_s": 8.200268624997989,
+  "prediction": "In the conversation regarding the drum tutorial, Yuriko shared the link to the tutorial with Wolfgang, expressing interest in hearing his thoughts on it. Wolfgang responded positively, indicating he would share any interesting findings from the tutorial. However, there is no explicit mention of a specific song that Yuriko and Wolfgang decided to perform together after watching the tutorial. The tutorial appears to be a standalone topic unrelated to their planned performances.",
+  "prediction_sha256": "2bacd33eb0dd5cc5b37beb192cbd0ce87b0705ae54071bf5132f484eb4072962",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200168,
+  "usage": {
+    "completion_tokens": 85,
+    "prompt_tokens": 4713,
+    "prompt_tokens_details": null,
+    "total_tokens": 4798
+  }
+}

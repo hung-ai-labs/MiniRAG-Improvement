@@ -1,0 +1,17 @@
+{
+  "body_sha256": "98321ee0f0f610b08156934132a721e5ada6f5797317efc1fcf67b1c178a969d",
+  "finish_reason": "stop",
+  "latency_s": 10.925295209000979,
+  "prediction": "Based on the conversations, LiHua expresses a preference for several types of pizza. Initially, she mentions enjoying \"some delicious food\" and planning to travel during the Lunar New Year celebrations. Later, when Wolfgang Schulz asks about his favorite pizza place, LiHua responds positively to the suggestion and says, \"I've been wanting to try that place! Let's go there then.\" This indicates that she is enthusiastic about trying the new pizza place downtown that Wolfgang recommends. However, the specific type of pizza she likes isn't explicitly named. Therefore, while we know she enjoys the new pizza place, the exact kind of pizza she prefers remains unclear from the given information.",
+  "prediction_sha256": "9b4a356f3aebb48f63226bb625838fe144c760752333a3d2bc6a96773c2ee686",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 198,
+  "usage": {
+    "completion_tokens": 136,
+    "prompt_tokens": 4460,
+    "prompt_tokens_details": null,
+    "total_tokens": 4596
+  }
+}

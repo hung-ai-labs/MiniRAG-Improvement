@@ -1,0 +1,17 @@
+{
+  "body_sha256": "cd0c087050483a637a103b6905b88adb5c1b66de3325c58428da71041d3e263a",
+  "finish_reason": "stop",
+  "latency_s": 9.481293625001854,
+  "prediction": "No, Wolfgang did not inquire about Li Hua's preference regarding what to eat for dinner after work. Initially, Wolfgang asked Li Hua if she wanted to grab some pizza for dinner after work (eventually settling on 7 PM), but he did not mention Sichuan hot pot during this conversation. Instead, the Sichuan hot pot dinner plans were discussed separately, involving a different context and timing.",
+  "prediction_sha256": "5f9c06161d5c509bca34c4e26adc694d16d195b40759381db8572f51d07b563b",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200030,
+  "usage": {
+    "completion_tokens": 84,
+    "prompt_tokens": 4881,
+    "prompt_tokens_details": null,
+    "total_tokens": 4965
+  }
+}

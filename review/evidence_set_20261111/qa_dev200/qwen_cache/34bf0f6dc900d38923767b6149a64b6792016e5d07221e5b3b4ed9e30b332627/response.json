@@ -1,0 +1,17 @@
+{
+  "body_sha256": "34bf0f6dc900d38923767b6149a64b6792016e5d07221e5b3b4ed9e30b332627",
+  "finish_reason": "stop",
+  "latency_s": 8.264553792003426,
+  "prediction": "No, Wolfgang's promotion announcement did not occur before he invited Li Hua for dinner on 20260430. The promotion announcement took place on 20260430 at 17:00, and the dinner invitation followed at the same event. Therefore, the dinner invitation came after the promotion announcement.",
+  "prediction_sha256": "e96def741165b83a4636d2f6e2e5c24e17bb28b39e883a90c469137665841914",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200183,
+  "usage": {
+    "completion_tokens": 73,
+    "prompt_tokens": 4541,
+    "prompt_tokens_details": null,
+    "total_tokens": 4614
+  }
+}

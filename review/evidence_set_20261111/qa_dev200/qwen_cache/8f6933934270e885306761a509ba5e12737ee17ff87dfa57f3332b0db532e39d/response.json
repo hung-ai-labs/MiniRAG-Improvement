@@ -1,0 +1,17 @@
+{
+  "body_sha256": "8f6933934270e885306761a509ba5e12737ee17ff87dfa57f3332b0db532e39d",
+  "finish_reason": "stop",
+  "latency_s": 8.334453999996185,
+  "prediction": "In the conversation recorded on 20261002_13:00, WolfgangSchulz informs LiHua that the new software he has been working on is almost complete. He expresses his excitement about LiHua being one of the first to try it out. This indicates that WolfgangSchulz is the person responsible for informing LiHua about the completion of the software project.",
+  "prediction_sha256": "9d3a2b042a839f3506829f87c05c0983235bd3aa86a0027e0da1af8e6d08b684",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100032,
+  "usage": {
+    "completion_tokens": 85,
+    "prompt_tokens": 3371,
+    "prompt_tokens_details": null,
+    "total_tokens": 3456
+  }
+}

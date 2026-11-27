@@ -1,0 +1,17 @@
+{
+  "body_sha256": "9933a284192a6adfcc5c566a054345eca47e2f1b0079931796407be069eb409b",
+  "finish_reason": "stop",
+  "latency_s": 10.399813209005515,
+  "prediction": "In the conversation recorded on Time: 20261016_16:00, HaileyJohnson expresses her intention to share a new bread recipe with LiHua. Specifically, HaileyJohnson invites LiHua to come by the bakery at 3 PM to taste the new bread that she has freshly baked. This demonstrates HaileyJohnson's eagerness to get feedback on her latest creation and her appreciation for LiHua's patronage.",
+  "prediction_sha256": "c900c01912c6217b70ae76569fb09068b25de43abba44be64ae8278a46f3537a",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200067,
+  "usage": {
+    "completion_tokens": 96,
+    "prompt_tokens": 4483,
+    "prompt_tokens_details": null,
+    "total_tokens": 4579
+  }
+}

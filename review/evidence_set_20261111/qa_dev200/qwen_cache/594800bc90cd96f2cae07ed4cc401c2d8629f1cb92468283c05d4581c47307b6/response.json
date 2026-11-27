@@ -1,0 +1,17 @@
+{
+  "body_sha256": "594800bc90cd96f2cae07ed4cc401c2d8629f1cb92468283c05d4581c47307b6",
+  "finish_reason": "stop",
+  "latency_s": 6.388215332997788,
+  "prediction": "The anniversary event for Hailey Johnson's bakery shop is scheduled from April 15 to April 17. This information is derived directly from the first entry in the timeline provided, which mentions, \"Our bakery's anniversary event is coming up from April 15 to 17!\" This event includes various promotions and new bread product launches.",
+  "prediction_sha256": "a856af4fedafcc56893f8d0549ab0e5663ea46e6e7681847a3269b2fae3e6966",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 54,
+  "usage": {
+    "completion_tokens": 71,
+    "prompt_tokens": 4590,
+    "prompt_tokens_details": null,
+    "total_tokens": 4661
+  }
+}

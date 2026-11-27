@@ -1,0 +1,17 @@
+{
+  "body_sha256": "23e95b44daf60a69242dd75e0941f78d3bf908ecf8c2ba0621577e58977ab3a8",
+  "finish_reason": "stop",
+  "latency_s": 10.13779649999924,
+  "prediction": "Aisling expresses a strong emotional connection to the game's ending, describing it as an \"emotional rollercoaster.\" She highlights the bittersweet nature of the moment, noting that it leaves a lasting impression due to the music playing during Arthur's final ride. Specifically, Aisling mentions that she was heartbroken when Arthur realizes his fate and tries to make things right with John and his family. This poignant moment underscores Arthur's character arc and the sacrifices he has made throughout the game.",
+  "prediction_sha256": "704d0a19e13fb1b352bf2432729bf24a2ba5eb142af44b7a839a7dae527992fa",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100128,
+  "usage": {
+    "completion_tokens": 101,
+    "prompt_tokens": 4167,
+    "prompt_tokens_details": null,
+    "total_tokens": 4268
+  }
+}

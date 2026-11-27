@@ -1,0 +1,17 @@
+{
+  "body_sha256": "b9f38fc8eb9634f7c65310ba89a4fe2ec1ee959d4ef41a620acc0b53ea2b706e",
+  "finish_reason": "stop",
+  "latency_s": 9.46543258300153,
+  "prediction": "The time interval between Adam asking LiHua about the size of the fridge and Adam informing LiHua that the fridge will be delivered at 4pm the next day is exactly one day, not more than seven days. Specifically, the interaction regarding the fridge size occurred on November 16th at 16:00, and the delivery time was mentioned on November 23rd at 23:00. Thus, the time interval between these two events is precisely one day.",
+  "prediction_sha256": "fba6bc277b08c90bd42776c36db2bef0f90a35e768dd3a9f833d4222dc9deac9",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 64,
+  "usage": {
+    "completion_tokens": 103,
+    "prompt_tokens": 4339,
+    "prompt_tokens_details": null,
+    "total_tokens": 4442
+  }
+}

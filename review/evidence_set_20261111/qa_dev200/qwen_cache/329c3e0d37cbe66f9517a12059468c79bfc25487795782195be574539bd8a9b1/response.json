@@ -1,0 +1,17 @@
+{
+  "body_sha256": "329c3e0d37cbe66f9517a12059468c79bfc25487795782195be574539bd8a9b1",
+  "finish_reason": "stop",
+  "latency_s": 11.823933542000304,
+  "prediction": "For soccer practice, the details vary based on the conversations provided. In one instance, Farrah suggests meeting at 3 PM on Saturday to work on passing drills for the first hour and then mix in shooting practice after that. Another instance mentions a practice session happening on Saturday at 10 AM, though it doesn't specify the location. Given these details, it seems that the group meets at various times depending on individual schedules, but typically on Saturdays around 3 PM or 10 AM. The exact location isn't specified in the provided data.",
+  "prediction_sha256": "736a87d951ea36695759e0e611d754cce90f3f9027877fc9757ca31f1941a5f0",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 97,
+  "usage": {
+    "completion_tokens": 112,
+    "prompt_tokens": 5207,
+    "prompt_tokens_details": null,
+    "total_tokens": 5319
+  }
+}

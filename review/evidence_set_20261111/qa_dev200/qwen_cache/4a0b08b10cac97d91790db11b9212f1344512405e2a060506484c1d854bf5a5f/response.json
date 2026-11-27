@@ -1,0 +1,17 @@
+{
+  "body_sha256": "4a0b08b10cac97d91790db11b9212f1344512405e2a060506484c1d854bf5a5f",
+  "finish_reason": "stop",
+  "latency_s": 5.231871167001373,
+  "prediction": "Based on the information provided in the conversations, there is no mention of a movie titled \"Overwatch 3\". The entity \"Overwatch 3\" appears to be related to an upcoming video game event or release, which is discussed in the context of WolfgangSchulz inviting LiHua to check it out the following day. No specific time for the movie \"Overwatch 3\" is mentioned in the given data.",
+  "prediction_sha256": "ab9b0863b8a891100dea2d7a5cc783b795cc07fd7e4bf71eea210da6edf834d2",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 136,
+  "usage": {
+    "completion_tokens": 87,
+    "prompt_tokens": 4381,
+    "prompt_tokens_details": null,
+    "total_tokens": 4468
+  }
+}

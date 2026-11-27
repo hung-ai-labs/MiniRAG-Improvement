@@ -1,0 +1,17 @@
+{
+  "body_sha256": "d11c58af4475d1d6de3fc6eb38d36bc17b2edf30f95788c6dd7726bedf8363cf",
+  "finish_reason": "stop",
+  "latency_s": 10.14520008299587,
+  "prediction": "In one of the conversations, WolfgangSchulz suggests grabbing drinks on the way to their hot pot dinner. LiHua responds positively, indicating that she likes to have cold beer alongside the hot pot meal. Specifically, LiHua says, \"How about some cold beer to go with the hot pot? Sounds like a good combo!\" Thus, based on their discussion, LiHua suggests having cold beer to complement their hot pot dinner.",
+  "prediction_sha256": "1e9d5dc293733c0dbef8ca74c07a4ed3322b5d2fb09f6c0f9b750edd2f67354d",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100113,
+  "usage": {
+    "completion_tokens": 90,
+    "prompt_tokens": 4450,
+    "prompt_tokens_details": null,
+    "total_tokens": 4540
+  }
+}

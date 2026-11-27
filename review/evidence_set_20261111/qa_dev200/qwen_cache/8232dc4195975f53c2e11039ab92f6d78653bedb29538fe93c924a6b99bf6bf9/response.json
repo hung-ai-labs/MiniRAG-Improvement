@@ -1,0 +1,17 @@
+{
+  "body_sha256": "8232dc4195975f53c2e11039ab92f6d78653bedb29538fe93c924a6b99bf6bf9",
+  "finish_reason": "stop",
+  "latency_s": 10.596711874997709,
+  "prediction": "In one of the conversations, WolfgangSchulz expresses enthusiasm for the \"spicy goodness\" of the hot pot, which suggests he enjoys dishes that are flavorful and often comes with alcohol. Later in the conversation, LiHua specifically mentions suggesting a combination of beer to complement the hot pot meal. Therefore, the type of drink LiHua suggests to have with hot pot is beer.",
+  "prediction_sha256": "7e15adee7f0f97632abca93664c5bff5736a670dc3d316e0bc1b301b9bab0f27",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100113,
+  "usage": {
+    "completion_tokens": 79,
+    "prompt_tokens": 4391,
+    "prompt_tokens_details": null,
+    "total_tokens": 4470
+  }
+}

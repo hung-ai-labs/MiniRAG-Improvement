@@ -1,0 +1,17 @@
+{
+  "body_sha256": "4831290f3c96b7a72ebebc2513731eb8ef490d87789a024916e6f1130e462537",
+  "finish_reason": "stop",
+  "latency_s": 9.080730416000733,
+  "prediction": "In the conversation, Jennifer Moore provides recommendations for protein supplements based on Li Hua's fitness goals. She suggests whey protein as the best option for muscle recovery and lean mass building. Additionally, she mentions that for a plant-based alternative, pea or rice protein can be good options. However, Jennifer advises checking the ingredients for added sugars or fillers. There is no specific mention of a particular brand name for any of these protein supplements.",
+  "prediction_sha256": "f03d79cb426d2b37a6baf806a48373032912a05a9282ec4cc763580c1105d5cc",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 79,
+  "usage": {
+    "completion_tokens": 89,
+    "prompt_tokens": 4370,
+    "prompt_tokens_details": null,
+    "total_tokens": 4459
+  }
+}

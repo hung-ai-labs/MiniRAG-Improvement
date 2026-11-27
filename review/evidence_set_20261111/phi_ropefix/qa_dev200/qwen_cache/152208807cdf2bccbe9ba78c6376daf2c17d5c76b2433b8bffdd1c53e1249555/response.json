@@ -1,0 +1,17 @@
+{
+  "body_sha256": "152208807cdf2bccbe9ba78c6376daf2c17d5c76b2433b8bffdd1c53e1249555",
+  "finish_reason": "stop",
+  "latency_s": 5.545391040999675,
+  "prediction": " Hailey Johnson is offering a **15% off** discount on all pastries and special cakes for Mother's Day. This promotion is designed to provide a sweet treat or surprise for the celebration, as mentioned in the bakery's communication with a customer named Li Hua on May 8, 2026, at 08:00. The discount applies to purchases made during the specified period leading up to Mother's Day, encouraging customers like Li Hua to take advantage of the festive offer.",
+  "prediction_sha256": "85ed4bde9a12d6a991b660e810265699e9148ec0e6d54227b9ce2cb0d57c5530",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 100072,
+  "usage": {
+    "completion_tokens": 117,
+    "prompt_tokens": 4884,
+    "prompt_tokens_details": null,
+    "total_tokens": 5001
+  }
+}

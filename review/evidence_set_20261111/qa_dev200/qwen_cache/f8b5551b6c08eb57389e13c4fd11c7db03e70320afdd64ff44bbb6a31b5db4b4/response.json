@@ -1,0 +1,17 @@
+{
+  "body_sha256": "f8b5551b6c08eb57389e13c4fd11c7db03e70320afdd64ff44bbb6a31b5db4b4",
+  "finish_reason": "stop",
+  "latency_s": 11.412921541999822,
+  "prediction": "The suggestion to go to the grocery store after work is made by WolfgangSchulz. This is evident from the source text dated \"Time: 20260923_16:00\" where WolfgangSchulz says, \"Hey! Wanna hit the grocery store after work today? We can grab some snacks for our next jam! 🥳\". LiHua then agrees to the idea, suggesting they meet around 5:30 PM to avoid crowds.",
+  "prediction_sha256": "456079d1d80763687cfd146b501d5c898580cb63a9e3cf4913afbbf3d8b549e1",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 142,
+  "usage": {
+    "completion_tokens": 102,
+    "prompt_tokens": 5290,
+    "prompt_tokens_details": null,
+    "total_tokens": 5392
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "5e3194088ce67867b9fb719b34eca62b9a77a9668b77d3813907bb3e6a667298",
+  "finish_reason": "stop",
+  "latency_s": 12.43990124999982,
+  "prediction": "Li Hua expressed interest in attending Hailey's Bakery's anniversary event and specifically mentioned that she would love to try the new breads, particularly sourdough, which she loves. Additionally, she hinted at possibly bringing her friend Wolfgang, who also enjoys good food. However, the primary focus of her intention seems to be to try the new breads and pastries that Hailey Johnson plans to prepare for the occasion. This aligns with the broader context provided, which suggests that the bakery is offering various discounts, new bread products, and new pastries during the anniversary celebration.",
+  "prediction_sha256": "76e0e6575b81935d6a908c7af256120a78b1e87aae1698b46559b318b416ab00",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 40,
+  "usage": {
+    "completion_tokens": 118,
+    "prompt_tokens": 4847,
+    "prompt_tokens_details": null,
+    "total_tokens": 4965
+  }
+}

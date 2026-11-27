@@ -1,0 +1,17 @@
+{
+  "body_sha256": "4078be7c3b1cc94a854f6cb06ba72fe34bbc4ef86b85610ba9747cfcd871ea2d",
+  "finish_reason": "stop",
+  "latency_s": 15.46506995800155,
+  "prediction": " Wolfgang's preference for a burger patty's doneness is indicated in the conversation on August 19th, 2026, at 10:00 AM. Throughout the dialogue between Li Hua and WolfgangSchulz, they discuss their plans to meet for dinner at a new burger place near the cinema. When Li Hua asks Wolfgang about his favorite burger toppings, Wolfgang shares his preference:\n\n```\nWolfgangSchulz: I'm all about classic cheeseburger vibes! Just keep it simple with lettuce, tomato, and some pickles. What about you?\n```\n\nFrom Wolfgang's response, it is clear that he prefers a simple, classic burger with a medium level of doneness, characterized by the presence of lettuce, tomato, and pickles, which suggests he enjoys a more traditional and perhaps slightly less cooked patty. His preference is not for a burger that is overdone or well-done, but rather for a patty that maintains a classic texture and juiciness, associated with a medium level of doneness. This preference is inferred from the simplicity of the toppings mentioned and the absence of any indication of a preference for a burger that would require sauces or dressings that might compensate for a lack of seasoning, which could suggest a different doneness preference.",
+  "prediction_sha256": "3ac03fe6d3448bc66e4f1c22a0692a493eaabc1a4384b2bfbd912f3f509f6c02",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 100021,
+  "usage": {
+    "completion_tokens": 301,
+    "prompt_tokens": 5971,
+    "prompt_tokens_details": null,
+    "total_tokens": 6272
+  }
+}

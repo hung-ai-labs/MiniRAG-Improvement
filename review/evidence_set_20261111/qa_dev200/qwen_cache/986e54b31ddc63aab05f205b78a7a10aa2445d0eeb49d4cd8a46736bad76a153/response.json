@@ -1,0 +1,17 @@
+{
+  "body_sha256": "986e54b31ddc63aab05f205b78a7a10aa2445d0eeb49d4cd8a46736bad76a153",
+  "finish_reason": "stop",
+  "latency_s": 6.74612179199903,
+  "prediction": "On the conversation recorded at 20260920_16:00, LiHua mentions that he has been playing \"Call of Duty: Warzone\" recently, referring to it as a \"first-person shooter game\" that offers \"super fun\" battle royale mode.",
+  "prediction_sha256": "cf52f77640ff926c40f72b49b304a1106b93fb2497bd5d11c3de405cf01de44d",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200194,
+  "usage": {
+    "completion_tokens": 63,
+    "prompt_tokens": 5145,
+    "prompt_tokens_details": null,
+    "total_tokens": 5208
+  }
+}

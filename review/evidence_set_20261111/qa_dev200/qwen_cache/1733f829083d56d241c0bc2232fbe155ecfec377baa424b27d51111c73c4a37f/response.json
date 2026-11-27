@@ -1,0 +1,17 @@
+{
+  "body_sha256": "1733f829083d56d241c0bc2232fbe155ecfec377baa424b27d51111c73c4a37f",
+  "finish_reason": "stop",
+  "latency_s": 11.09034170799714,
+  "prediction": "According to the conversation records, Yuriko did indeed mention booking a seat at \"Central Perk\" café for their meeting on February 25th, 2026 at 3 PM. Li Hua responded positively and confirmed their plans to meet there for their discussion about Yuriko's studio homepage. This indicates that Yuriko informed Li Hua about the seating reservation at \"Central Perk\" prior to Li Hua sending her a confirmation message.",
+  "prediction_sha256": "22b17bec88df5fb819c2bbc31656312a07535acee6e996da2a7ef2c40126cc4c",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200157,
+  "usage": {
+    "completion_tokens": 97,
+    "prompt_tokens": 4565,
+    "prompt_tokens_details": null,
+    "total_tokens": 4662
+  }
+}

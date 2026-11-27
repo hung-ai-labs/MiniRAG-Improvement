@@ -1,0 +1,17 @@
+{
+  "body_sha256": "a617862d1d823cfb0024b64afaed6cc028b536b0be29eccceb7f514208541dac",
+  "finish_reason": "stop",
+  "latency_s": 3.021990540997649,
+  "prediction": "In the conversation, WolfgangSchulz suggests taking a break from jamming this week. He expresses the need to recharge and plans to organize a jam session next Sunday instead, hoping his colleagues will enjoy the break.",
+  "prediction_sha256": "255ddf04d78222929906efd79220a705c818044bbdf72a68c3949b28a6f2a180",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100205,
+  "usage": {
+    "completion_tokens": 44,
+    "prompt_tokens": 4515,
+    "prompt_tokens_details": null,
+    "total_tokens": 4559
+  }
+}

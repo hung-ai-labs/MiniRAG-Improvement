@@ -1,0 +1,17 @@
+{
+  "body_sha256": "d9d90bcf79af2c426c9fe369c06a92c4881ae4681e0ca5ec58f3047e34c5a650",
+  "finish_reason": "stop",
+  "latency_s": 9.9209838329989,
+  "prediction": "The community is organizing multiple events, but the primary focus seems to be on the Community Garden Renovation project. From the provided information, the Community Garden Cleanup Event is a planned volunteer activity involving community members, and the Community Sports Day is an annual event where the community gathers to participate in various sports activities. Additionally, a picnic is also being organized to bring the community together, likely taking place next Saturday. However, the most detailed and ongoing discussion revolves around the Community Garden Renovation project, which includes planning meetings and discussions about improvements to the garden.",
+  "prediction_sha256": "6175c23585a08040fa6bff8b9304464fe4761a14a12b912c5218a3c82687547e",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200159,
+  "usage": {
+    "completion_tokens": 111,
+    "prompt_tokens": 4782,
+    "prompt_tokens_details": null,
+    "total_tokens": 4893
+  }
+}

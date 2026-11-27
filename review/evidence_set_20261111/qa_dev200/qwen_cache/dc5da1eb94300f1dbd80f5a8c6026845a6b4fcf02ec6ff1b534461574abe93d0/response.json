@@ -1,0 +1,17 @@
+{
+  "body_sha256": "dc5da1eb94300f1dbd80f5a8c6026845a6b4fcf02ec6ff1b534461574abe93d0",
+  "finish_reason": "stop",
+  "latency_s": 5.448084625000774,
+  "prediction": "There is no information provided in the given conversation about who will bring the tools for the curtain installation. The dialogue focuses on coordinating the timing and logistics of the installation rather than specifying the responsibilities regarding tool provision.",
+  "prediction_sha256": "75fed5a649fd179c1cfe05f9e47b2458e2263411ef8f59e8c0224a0eda126668",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 201,
+  "usage": {
+    "completion_tokens": 42,
+    "prompt_tokens": 4189,
+    "prompt_tokens_details": null,
+    "total_tokens": 4231
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "676d36b8a387b648c07999e3619c6c85fe5e8c6f44f7af24303a903a4aa2669d",
+  "finish_reason": "stop",
+  "latency_s": 9.789769542003341,
+  "prediction": "The first instance of Li Hua having dinner with Wolfgang this year is detailed in entry number 1, which took place on 20260123_17:00. This interaction began with Wolfgang inviting Li Hua to grab dinner together, suggesting that this date marked the beginning of their dining companionship for the year.",
+  "prediction_sha256": "7903d70592f6de46c906e0cd966a97f83a47b8f544d7d62d6b473d8503bfe62b",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100013,
+  "usage": {
+    "completion_tokens": 72,
+    "prompt_tokens": 4653,
+    "prompt_tokens_details": null,
+    "total_tokens": 4725
+  }
+}

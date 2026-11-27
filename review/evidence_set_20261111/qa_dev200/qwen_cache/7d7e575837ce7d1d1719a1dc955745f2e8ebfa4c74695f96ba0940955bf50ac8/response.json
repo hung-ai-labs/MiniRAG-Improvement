@@ -1,0 +1,17 @@
+{
+  "body_sha256": "7d7e575837ce7d1d1719a1dc955745f2e8ebfa4c74695f96ba0940955bf50ac8",
+  "finish_reason": "stop",
+  "latency_s": 5.648317457998928,
+  "prediction": "In the conversation about the dinner plans for a hot pot night, LiHua suggests having cold beer to complement the hot pot meal. This preference aligns with WolfgangSchulz's agreement, indicating that they plan to pair their spicy meal with cold beer.",
+  "prediction_sha256": "c997cbf10685777c2ffb2606fe16cb5345f6b72771a687bb084faddac95301b1",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 113,
+  "usage": {
+    "completion_tokens": 53,
+    "prompt_tokens": 4457,
+    "prompt_tokens_details": null,
+    "total_tokens": 4510
+  }
+}

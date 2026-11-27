@@ -1,0 +1,17 @@
+{
+  "body_sha256": "161c03b23f8c6d981176ab5190ed3278194b5f86ea22cc7b6a2415b5779c7114",
+  "finish_reason": "stop",
+  "latency_s": 6.600384790996031,
+  "prediction": "For the upcoming soccer practice scheduled for Saturday afternoon at the local park, Henley mentioned that she would bring cones to set up drills and practice. Additionally, Dacey expressed interest in joining the practice session and mentioned she would bring a ball and cones too. Therefore, it seems that Henley and Dacey will be responsible for bringing the cones for the drills.",
+  "prediction_sha256": "d7ed9faf1857442651db52bfd212dbae6a30daf23b4416962a792e377c5a0b03",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100080,
+  "usage": {
+    "completion_tokens": 73,
+    "prompt_tokens": 4787,
+    "prompt_tokens_details": null,
+    "total_tokens": 4860
+  }
+}

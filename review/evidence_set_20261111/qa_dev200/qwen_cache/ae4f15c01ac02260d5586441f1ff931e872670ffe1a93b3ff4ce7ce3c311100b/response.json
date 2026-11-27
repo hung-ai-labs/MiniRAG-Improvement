@@ -1,0 +1,17 @@
+{
+  "body_sha256": "ae4f15c01ac02260d5586441f1ff931e872670ffe1a93b3ff4ce7ce3c311100b",
+  "finish_reason": "stop",
+  "latency_s": 13.776145083000301,
+  "prediction": "Based on the information provided, there are two separate dinner plans involving Wolfgang and Li Hua. Initially, Wolfgang asked Li Hua if she wanted to have hot pot for dinner tonight after mentioning that Sichuan is his favorite region for cuisine (Entity: \"SICHUAN\"). Later, Wolfgang inquired about having pizza for dinner after work, asking Li Hua her preference between a new downtown pizza place and picking up drinks. This indicates that Wolfgang did not ask Li Hua if she wanted to have pizza for dinner after work before suggesting hot pot for tonight. The two dinner plans appear to be independent of each other.",
+  "prediction_sha256": "59d58d3cd96e3244adf6e6a1720f852d7dc048d0c7513200cd16df1e4614ca06",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 30,
+  "usage": {
+    "completion_tokens": 127,
+    "prompt_tokens": 4739,
+    "prompt_tokens_details": null,
+    "total_tokens": 4866
+  }
+}

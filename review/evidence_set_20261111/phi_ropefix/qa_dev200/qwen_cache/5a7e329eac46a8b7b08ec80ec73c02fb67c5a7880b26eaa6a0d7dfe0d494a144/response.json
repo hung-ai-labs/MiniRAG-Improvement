@@ -1,0 +1,17 @@
+{
+  "body_sha256": "5a7e329eac46a8b7b08ec80ec73c02fb67c5a7880b26eaa6a0d7dfe0d494a144",
+  "finish_reason": "stop",
+  "latency_s": 13.315219083000557,
+  "prediction": " HaileyJohnson invites LiHua to taste a new bread recipe. This interaction is captured in the data table with the following details:\n\n**Entity**: HaileyJohnson, LiHua\n**Timestamp**: 20261016_16:00\n**Content**:\nHaileyJohnson: Hey! I’ve been trying out a new bread recipe and would love for you to taste it. Are you free to come by the bakery? 🥖💛\nLiHua: Sounds awesome! I’d love to help out. What time is good for you? 😊\nHaileyJohnson: How about 3 PM? It’ll be fresh out of the oven! Let me know if that works for you. 🕒✨\nLiHua: That works perfectly! Can't wait to taste what you've made. See you at 3! 🍞😋\nHaileyJohnson: Yay! Looking forward to it! I have a feeling you’re going to love it. See you soon! 🥳\n\nIn this conversation, HaileyJohnson expresses enthusiasm about her baking experiment and invites LiHua to come and experience the fresh bread at the agreed time and date. LiHua confirms her attendance, demonstrating interest in trying HaileyJohnson's latest baking creation.",
+  "prediction_sha256": "358c8e2b4b2ef478c3ed18835bdb596091e213f2e05116b36a32502d4e770d4b",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 200178,
+  "usage": {
+    "completion_tokens": 323,
+    "prompt_tokens": 5114,
+    "prompt_tokens_details": null,
+    "total_tokens": 5437
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "b0e14723fdf7fb147bad363fb285eb1e0bde36d703d011e60ea92ccdd186164b",
+  "finish_reason": "stop",
+  "latency_s": 8.520800499994948,
+  "prediction": "From the conversation, we see that WolfgangSchulz mentions he likes the new pizza place downtown, which he has heard has amazing toppings. However, LiHua hasn't specified a particular type of pizza that she enjoys. In one instance, LiHua expresses interest in trying the new pizza place downtown, indicating she has not yet tried a specific pizza there. There is no other explicit mention of a particular pizza preference from LiHua.",
+  "prediction_sha256": "3484e0c1047db67a8b6698ef83422676193a1bd0c9d31d10a06877191bf7b6e6",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100198,
+  "usage": {
+    "completion_tokens": 90,
+    "prompt_tokens": 4540,
+    "prompt_tokens_details": null,
+    "total_tokens": 4630
+  }
+}

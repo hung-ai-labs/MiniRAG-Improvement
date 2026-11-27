@@ -1,0 +1,17 @@
+{
+  "body_sha256": "15fa5ff56b63539635c0d08922c49cae5dd1614ded446fbdcb423e1cecd9a590",
+  "finish_reason": "stop",
+  "latency_s": 8.571377708001819,
+  "prediction": "From the conversation, we can gather that LiHua likes the pizza place downtown that WolfgangSchulz mentioned. Specifically, WolfgangSchulz described it as having \"amazing toppings\" and suggested it as their preferred spot for pizza. LiHua responded positively to this recommendation, indicating that she's \"been wanting to try that place.\" However, there isn't any explicit mention of a specific type of pizza that LiHua particularly likes from this particular restaurant. Therefore, based on the available information, we can conclude that LiHua prefers the pizza place downtown, but her specific preferences within that place remain unclear.",
+  "prediction_sha256": "f9e3065839dfec5350de3802ce10afcef3f8f9acacc5d88fea145fa19e4263a8",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100198,
+  "usage": {
+    "completion_tokens": 126,
+    "prompt_tokens": 4297,
+    "prompt_tokens_details": null,
+    "total_tokens": 4423
+  }
+}

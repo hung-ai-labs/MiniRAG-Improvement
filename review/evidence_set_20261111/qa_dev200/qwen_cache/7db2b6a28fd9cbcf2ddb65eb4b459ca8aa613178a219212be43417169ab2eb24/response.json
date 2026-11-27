@@ -1,0 +1,17 @@
+{
+  "body_sha256": "7db2b6a28fd9cbcf2ddb65eb4b459ca8aa613178a219212be43417169ab2eb24",
+  "finish_reason": "stop",
+  "latency_s": 10.603634499995678,
+  "prediction": "During a conversation in the game Red Dead Redemption 2, Fionnuala shared an amusing glitch she encountered. Specifically, she mentioned having a humorous glitch where she accidentally jumped off a high cliff while trying to chase a deer. Instead of falling to her death, Arthur managed to perform an epic roll and stand up, much to Fionnuala's surprise and amusement. This glitch led to an unexpected and comedic situation that added to the excitement and unpredictability of the gameplay.",
+  "prediction_sha256": "eeaa11f7bc1ad21a5f316b80b6ec843ef79c072c6eb08b42b867d84e09fcd181",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100087,
+  "usage": {
+    "completion_tokens": 97,
+    "prompt_tokens": 4310,
+    "prompt_tokens_details": null,
+    "total_tokens": 4407
+  }
+}

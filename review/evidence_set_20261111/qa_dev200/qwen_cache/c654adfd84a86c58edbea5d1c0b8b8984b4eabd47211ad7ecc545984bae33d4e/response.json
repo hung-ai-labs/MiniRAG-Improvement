@@ -1,0 +1,17 @@
+{
+  "body_sha256": "c654adfd84a86c58edbea5d1c0b8b8984b4eabd47211ad7ecc545984bae33d4e",
+  "finish_reason": "stop",
+  "latency_s": 24.82165962500585,
+  "prediction": "Based on the conversations, there are multiple instances where groups of individuals are planning to meet for soccer practice. Specifically:\n\n- In the message dated 20261230_15:00, LiHua mentions that she was thinking of having a soccer practice on a Practice Day, which she planned for a weekend. She suggests meeting around 3 PM on a Saturday for passing drills. \n\n- In the message dated 20261014_20:00, Dacey proposes to practice some soccer on Saturday afternoon to work on passing drills. Farrah agrees and suggests meeting at the local park around 3 PM for passing drills and shooting practice. Ivor confirms that 3 PM at the local park is perfect for them.\n\n- In the message dated 20260914_10:00, LiHua inquires about strategies for avoiding injuries, and Jake mentions that they usually work on shooting drills and game tactics. They discuss organizing a practice session together sometime soon. Jake specifically suggests meeting at the park on Saturday at 10 AM for practice.\n\nTherefore, the locations where soccer practice is being planned include the local park and the park near the usual spot (which is not specified). The times vary but are generally set for Saturdays around 3 PM or 10 AM.",
+  "prediction_sha256": "b725fe2d331cb5eba5165d0e73a200829b087012437c00889e85f4179bad7bcc",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100097,
+  "usage": {
+    "completion_tokens": 278,
+    "prompt_tokens": 4830,
+    "prompt_tokens_details": null,
+    "total_tokens": 5108
+  }
+}

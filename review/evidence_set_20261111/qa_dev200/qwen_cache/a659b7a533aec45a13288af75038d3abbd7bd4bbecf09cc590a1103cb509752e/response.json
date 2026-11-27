@@ -1,0 +1,17 @@
+{
+  "body_sha256": "a659b7a533aec45a13288af75038d3abbd7bd4bbecf09cc590a1103cb509752e",
+  "finish_reason": "stop",
+  "latency_s": 5.604976375005208,
+  "prediction": "Based on the conversation, WolfgangSchulz suggests that they should catch the 7 PM show for \"Overwatch 3\". Li Hua agrees to this time and mentions they should grab some food before the movie, indicating that 7 PM is the scheduled time for the film.",
+  "prediction_sha256": "2321ab1f09b92e0a9422c1eacd70cecbb23b015b2059d54afcf1ca5ff85f811b",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200136,
+  "usage": {
+    "completion_tokens": 58,
+    "prompt_tokens": 4381,
+    "prompt_tokens_details": null,
+    "total_tokens": 4439
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "2a7a244a78efe0773eae336e057ea56efb64e71996b8ffa7c8fb11137f7a5548",
+  "finish_reason": "stop",
+  "latency_s": 10.679167958000107,
+  "prediction": "Yes, Yuriko informed Li Hua about her reservation at the \"Central Perk\" café prior to Li Hua sending her a confirmation message regarding their meeting on March 6th. Specifically, Yuriko reminded Li Hua about their scheduled meeting at 2:00 PM on that date on March 6th, indicating she had already made arrangements for the venue. Li Hua responded positively, expressing excitement to meet and discuss the homepage updates.",
+  "prediction_sha256": "59a1ba2c0b9efefd260c309df5648af713d01cdbe5c9a4ec133ec5007e0a9901",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 157,
+  "usage": {
+    "completion_tokens": 95,
+    "prompt_tokens": 4563,
+    "prompt_tokens_details": null,
+    "total_tokens": 4658
+  }
+}

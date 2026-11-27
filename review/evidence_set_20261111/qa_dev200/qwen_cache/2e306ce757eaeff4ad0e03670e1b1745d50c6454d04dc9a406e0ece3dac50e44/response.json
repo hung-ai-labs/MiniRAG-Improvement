@@ -1,0 +1,17 @@
+{
+  "body_sha256": "2e306ce757eaeff4ad0e03670e1b1745d50c6454d04dc9a406e0ece3dac50e44",
+  "finish_reason": "stop",
+  "latency_s": 8.009160833000351,
+  "prediction": "Turalyon initiates conversations about multiple topics throughout the recorded discussions. In one instance, he asks for feedback on the new benches that have been installed, specifically inquiring about how they are working out for the residents and whether there are any ideas to improve them. Additionally, in another discussion, Turalyon mentions wanting to hear everyone's thoughts on the types of plants that they would like to see in the garden. He notes that the community votes are crucial for deciding which plants to include, emphasizing the importance of everyone's input.",
+  "prediction_sha256": "8c505129d481d5512ec62fd260e9c66bb372051742b0df4809af514b397644aa",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 96,
+  "usage": {
+    "completion_tokens": 108,
+    "prompt_tokens": 3772,
+    "prompt_tokens_details": null,
+    "total_tokens": 3880
+  }
+}

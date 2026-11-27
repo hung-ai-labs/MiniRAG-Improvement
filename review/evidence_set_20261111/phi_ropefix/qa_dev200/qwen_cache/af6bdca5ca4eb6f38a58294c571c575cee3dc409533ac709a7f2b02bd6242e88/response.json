@@ -1,0 +1,17 @@
+{
+  "body_sha256": "af6bdca5ca4eb6f38a58294c571c575cee3dc409533ac709a7f2b02bd6242e88",
+  "finish_reason": "stop",
+  "latency_s": 9.949820499998168,
+  "prediction": " Wolfgang Schulz's promotion celebration dinner is scheduled for the evening of **20260430_17:00** at **Venedia Grancaffe**. This event is mentioned in the conversation where Wolfgang expresses excitement about his promotion and plans to celebrate with Li Hua. They discuss enjoying a meal together as a way to mark the occasion.\n\nHere is a relevant excerpt from the conversation in markdown format:\n\n```markdown\n- **Event:** Promotion Celebration Dinner\n  - **Date and Time:** 20260430_17:00\n  - **Location:** Venedia Grancaffe\n  - **Participants:** Wolfgang Schulz and Li Hua\n  - **Context:** Wolfgang is looking forward to celebrating his professional achievement by having a meal with Li Hua, whom he refers to as \"man,\" indicating a close relationship or friendship.\n```\n\nThis summary encapsulates the critical details about Wolfgang Schulz's promotion celebration dinner as per the provided data table.",
+  "prediction_sha256": "a44537c0d8967c75796b936d9427bdf575ca4c3112e98150fc5251e55c89592f",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 200139,
+  "usage": {
+    "completion_tokens": 244,
+    "prompt_tokens": 6340,
+    "prompt_tokens_details": null,
+    "total_tokens": 6584
+  }
+}

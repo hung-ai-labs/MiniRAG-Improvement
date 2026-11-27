@@ -1,0 +1,17 @@
+{
+  "body_sha256": "b3adac11c95126046561cae4bae0d3cd006f4651e9a270cb6ba82be1046f6793",
+  "finish_reason": "stop",
+  "latency_s": 10.090861791999487,
+  "prediction": "In July, Hailey Johnson plans to host a bread-tasting event at her bakery, Hailey's Bakery. She reaches out to Li Hua, asking for her assistance in gathering feedback from the bakery's customers. Specifically, Hailey requests that Li Hua assist in collecting customers' opinions on the various bread varieties being offered. Additionally, she suggests that Li Hua take notes on customer preferences, possibly recording some of their favorite bread types. This feedback is crucial for Hailey to understand customer satisfaction and preferences, which can help guide future baking decisions and product development.",
+  "prediction_sha256": "d9de10b042b0d721f4d16d497af0acfbc7f8442cad2aa5306c3e0a4a73593d49",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 181,
+  "usage": {
+    "completion_tokens": 116,
+    "prompt_tokens": 4501,
+    "prompt_tokens_details": null,
+    "total_tokens": 4617
+  }
+}

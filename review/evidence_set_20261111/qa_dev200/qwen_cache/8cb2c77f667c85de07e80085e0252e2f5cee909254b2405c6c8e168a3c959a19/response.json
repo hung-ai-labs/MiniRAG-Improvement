@@ -1,0 +1,17 @@
+{
+  "body_sha256": "8cb2c77f667c85de07e80085e0252e2f5cee909254b2405c6c8e168a3c959a19",
+  "finish_reason": "stop",
+  "latency_s": 11.26629408399458,
+  "prediction": "For soccer practice, the details of the meeting place were not explicitly stated in the conversations provided. However, from one of the messages, it was mentioned that Jasper was interested in meeting up for practice on Saturday afternoon to work on his shooting skills. Another participant, Caspian, responded positively to this idea and mentioned that they would bring \"cones and have fun while working on our shots.\" While the exact location was not specified, it is likely that they chose a local park as suggested by Aurora. Therefore, based on the context and the previous discussion, they probably plan to meet at a local park around 3 PM on Saturday for their practice session.",
+  "prediction_sha256": "c963b18761d6a107484e83c8561c2cfe1475e256616d639528f7a6497aba07cf",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 97,
+  "usage": {
+    "completion_tokens": 133,
+    "prompt_tokens": 4648,
+    "prompt_tokens_details": null,
+    "total_tokens": 4781
+  }
+}

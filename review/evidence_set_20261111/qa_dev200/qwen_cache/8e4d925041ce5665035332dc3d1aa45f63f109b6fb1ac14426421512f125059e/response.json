@@ -1,0 +1,17 @@
+{
+  "body_sha256": "8e4d925041ce5665035332dc3d1aa45f63f109b6fb1ac14426421512f125059e",
+  "finish_reason": "stop",
+  "latency_s": 9.76222791699547,
+  "prediction": "In the context of the garage sale, AdamSmith offered to help set things up. Specifically, during a conversation about the upcoming garage sale, AdamSmith suggested, \"Let me know if you need any help setting things up. 😊\" This indicates that he was prepared to assist with preparations for the event.",
+  "prediction_sha256": "d3146d998914bbebf168ad954f6e9cf0a0ead3e8b6d550a1fc56c5f2ae8029a4",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200024,
+  "usage": {
+    "completion_tokens": 63,
+    "prompt_tokens": 5249,
+    "prompt_tokens_details": null,
+    "total_tokens": 5312
+  }
+}

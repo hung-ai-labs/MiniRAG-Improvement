@@ -1,0 +1,17 @@
+{
+  "body_sha256": "43b3ca9bec0d761eff09aa3eb6f885a31b5819d142ba603b989461e13547525a",
+  "finish_reason": "stop",
+  "latency_s": 6.762703125001281,
+  "prediction": "In the community medical knowledge lecture scheduled for 7 PM tonight, ChaeSong-hwa will be presenting on basic health tips and common medical myths. This event aims to provide attendees with valuable insights into maintaining good health and debunking prevalent misconceptions. LiHua has expressed interest in attending and looks forward to gaining knowledge about these topics.",
+  "prediction_sha256": "bfd1362c16b2af1e06e981a7ea14d8ed9542f6b479214744f04b6f0ecf0ba7ee",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100173,
+  "usage": {
+    "completion_tokens": 69,
+    "prompt_tokens": 4756,
+    "prompt_tokens_details": null,
+    "total_tokens": 4825
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "f0fe621258472736ff1cde8ccbd66d3aa40b2bf3d187beb0c4c8689225ddce8d",
+  "finish_reason": "stop",
+  "latency_s": 8.309106749999046,
+  "prediction": "Jennifer Moore suggests a breathing technique for running that involves inhaling for three steps and exhaling for two steps. She explains that this helps with stamina during long runs, attributing it as a \"game-changer\" for runners.",
+  "prediction_sha256": "295869d5f87598814e66d9d2d29ff8dbc01019dfb0dea917ded56b2df937b413",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 138,
+  "usage": {
+    "completion_tokens": 47,
+    "prompt_tokens": 4259,
+    "prompt_tokens_details": null,
+    "total_tokens": 4306
+  }
+}

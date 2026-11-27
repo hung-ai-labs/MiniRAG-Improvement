@@ -1,0 +1,17 @@
+{
+  "body_sha256": "b1c964e0fd2d241fd70452169339a34a58753a7865ff249deb64a824057d8b7a",
+  "finish_reason": "stop",
+  "latency_s": 6.505025624999689,
+  "prediction": "According to the conversation recorded under the timestamp 20260622_13:30, HaileyJohnson invites LiHua to a special event at the bakery on Saturday. Specifically, Hailey informs LiHua that the event will begin at 10 AM on Saturday. This information comes directly from the dialogue shared in the dataset, providing clear details about the timing of the event.",
+  "prediction_sha256": "380d80eb347289ac6535f5d5cd613bf2b6430734199ab7c6712ffd6481b3b8c1",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 191,
+  "usage": {
+    "completion_tokens": 85,
+    "prompt_tokens": 4262,
+    "prompt_tokens_details": null,
+    "total_tokens": 4347
+  }
+}

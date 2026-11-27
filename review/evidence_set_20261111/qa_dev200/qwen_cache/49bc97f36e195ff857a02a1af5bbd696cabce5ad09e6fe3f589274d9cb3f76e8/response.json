@@ -1,0 +1,17 @@
+{
+  "body_sha256": "49bc97f36e195ff857a02a1af5bbd696cabce5ad09e6fe3f589274d9cb3f76e8",
+  "finish_reason": "stop",
+  "latency_s": 9.772490916002425,
+  "prediction": "According to the discussion on 20260507, a community meeting is planned for Saturday at 10:00 AM. This is indicated in the exchange where Thrall proposes setting up a couple of meetings to bounce around ideas, specifically mentioning \"Saturday\" and suggesting it could be around 10 AM.",
+  "prediction_sha256": "97673fdad68ec6390a1faa8cac9a154245ed3c600e12cd8944be14159f869323",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100070,
+  "usage": {
+    "completion_tokens": 69,
+    "prompt_tokens": 5473,
+    "prompt_tokens_details": null,
+    "total_tokens": 5542
+  }
+}

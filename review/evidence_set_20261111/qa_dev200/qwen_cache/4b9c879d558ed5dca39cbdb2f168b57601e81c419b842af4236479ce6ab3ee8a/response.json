@@ -1,0 +1,17 @@
+{
+  "body_sha256": "4b9c879d558ed5dca39cbdb2f168b57601e81c419b842af4236479ce6ab3ee8a",
+  "finish_reason": "stop",
+  "latency_s": 11.402501374999702,
+  "prediction": "On May 14, 2026, Li Hua and Wolfgang visited a restaurant for dinner. According to their conversation, Li Hua particularly enjoyed the pasta dish they had, describing it as \"so rich and flavorful.\" Wolfgang also had a positive experience, appreciating the steak he had. While Wolfgang mentioned that he also enjoyed the dessert, Li Hua's most notable enjoyment seemed to be centered around the pasta.",
+  "prediction_sha256": "52fcb4a6690c49911ffe9c683fde18295a79ad5fc1e70b7628bb373e5b4f5f00",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200020,
+  "usage": {
+    "completion_tokens": 88,
+    "prompt_tokens": 4629,
+    "prompt_tokens_details": null,
+    "total_tokens": 4717
+  }
+}

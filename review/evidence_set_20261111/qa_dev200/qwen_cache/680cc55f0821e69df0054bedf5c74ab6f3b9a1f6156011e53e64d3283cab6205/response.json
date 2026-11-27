@@ -1,0 +1,17 @@
+{
+  "body_sha256": "680cc55f0821e69df0054bedf5c74ab6f3b9a1f6156011e53e64d3283cab6205",
+  "finish_reason": "stop",
+  "latency_s": 7.2936924589994305,
+  "prediction": "Jake's first tip for avoiding soccer injuries is to ensure proper warm-up and stretching routines before any game. He emphasizes that these practices are crucial for preparing the muscles and enhancing flexibility, which can significantly reduce the risk of injuries. Additionally, staying hydrated and wearing the correct footwear are also important factors in maintaining good health and preventing accidents during gameplay.",
+  "prediction_sha256": "7dd108579a0cb950f2e2d5dce944dbc67a0e752638a5ea6bb9dd4bc46d973d9c",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 73,
+  "usage": {
+    "completion_tokens": 69,
+    "prompt_tokens": 4429,
+    "prompt_tokens_details": null,
+    "total_tokens": 4498
+  }
+}

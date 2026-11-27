@@ -1,0 +1,17 @@
+{
+  "body_sha256": "26780301c54c7f4d360326dc39e2269ccc51f1a864e3a314c3fc578f2c5cb83b",
+  "finish_reason": "stop",
+  "latency_s": 11.378155165999488,
+  "prediction": "Wolfgang Schulz recommends the cozy downtown café to Li Hua for their lunch meeting. This café is described as \"the planned location for WolfgangSchulz and LiHua's lunch meeting.\" Additionally, Wolfgang Schulz also mentions a different café called \"The Lighthouse Cafe\" in conversations, describing it as a \"chill place with nice jazz music, described as perfect for working and relaxing.\" However, no specific café is mentioned as Wolfgang Schulz's personal recommendation for Li Hua.",
+  "prediction_sha256": "670b92d6315cea889b65ecc3aad660d41034131a91dd14994abcc2f775559493",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 98,
+  "usage": {
+    "completion_tokens": 102,
+    "prompt_tokens": 4879,
+    "prompt_tokens_details": null,
+    "total_tokens": 4981
+  }
+}

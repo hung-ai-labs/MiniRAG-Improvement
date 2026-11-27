@@ -1,0 +1,17 @@
+{
+  "body_sha256": "6e8d05cff78854eef8c145deafbd92602be69ee4b98d594bd8a356dea59c5390",
+  "finish_reason": "stop",
+  "latency_s": 6.970533125000657,
+  "prediction": "Based on the information provided in the data, Briar suggests adding quick one-twos to the practice session to keep stamina up. No other specific types of passes are mentioned in the given text.",
+  "prediction_sha256": "d0ecd21ba988df466043e56c91a21a8f8e23a99fb0df11ace9352100177b824a",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100152,
+  "usage": {
+    "completion_tokens": 40,
+    "prompt_tokens": 4554,
+    "prompt_tokens_details": null,
+    "total_tokens": 4594
+  }
+}

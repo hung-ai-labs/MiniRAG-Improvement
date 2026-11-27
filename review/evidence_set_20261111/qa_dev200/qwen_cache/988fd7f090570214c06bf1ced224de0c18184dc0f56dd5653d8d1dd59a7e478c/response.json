@@ -1,0 +1,17 @@
+{
+  "body_sha256": "988fd7f090570214c06bf1ced224de0c18184dc0f56dd5653d8d1dd59a7e478c",
+  "finish_reason": "stop",
+  "latency_s": 4.461574249999103,
+  "prediction": "On September 23, 2026, WolfgangSchulz proposes that LiHua join him at the grocery store around 5:30 in the afternoon. This suggestion comes after LiHua expresses interest in picking up some snacks for the upcoming weekend.",
+  "prediction_sha256": "32c9fde401fd548b837fe2a97ffc2f7cb308455aaba5dafbe19fdf0e6e482e7e",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 116,
+  "usage": {
+    "completion_tokens": 57,
+    "prompt_tokens": 3428,
+    "prompt_tokens_details": null,
+    "total_tokens": 3485
+  }
+}

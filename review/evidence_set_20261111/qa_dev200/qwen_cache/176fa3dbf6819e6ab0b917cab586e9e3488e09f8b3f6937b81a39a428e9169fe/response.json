@@ -1,0 +1,17 @@
+{
+  "body_sha256": "176fa3dbf6819e6ab0b917cab586e9e3488e09f8b3f6937b81a39a428e9169fe",
+  "finish_reason": "stop",
+  "latency_s": 7.339749458998995,
+  "prediction": "In the conversation recorded on October 9th at 17:00, WolfgangSchulz mentions his preferences for drinks during the movie night. He states, \"Just some soda and juice will be perfect.\" Therefore, based on the information provided in the conversation, WolfgangSchulz wants to have soda and juice while watching the movie.",
+  "prediction_sha256": "982d13827983e06af747379d2f687d61bbd38c6289d699ea922b613da13f480d",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 170,
+  "usage": {
+    "completion_tokens": 71,
+    "prompt_tokens": 3500,
+    "prompt_tokens_details": null,
+    "total_tokens": 3571
+  }
+}

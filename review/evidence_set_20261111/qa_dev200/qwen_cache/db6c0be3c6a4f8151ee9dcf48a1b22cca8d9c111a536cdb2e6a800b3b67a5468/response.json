@@ -1,0 +1,17 @@
+{
+  "body_sha256": "db6c0be3c6a4f8151ee9dcf48a1b22cca8d9c111a536cdb2e6a800b3b67a5468",
+  "finish_reason": "stop",
+  "latency_s": 7.473221665999517,
+  "prediction": "In the context provided, Briar suggests adding \"quick one-twos\" to the practice session to keep stamina up. While this is not explicitly stated as a specific pass type, it implies the inclusion of short passing plays designed to maintain the flow of the game and avoid long periods of standing still, which can be beneficial for maintaining player fitness during practice sessions.",
+  "prediction_sha256": "f4263de5ab6eb0466ead46021c69b07e636e38799d9a8e5b5a98aa669d634108",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 152,
+  "usage": {
+    "completion_tokens": 73,
+    "prompt_tokens": 4554,
+    "prompt_tokens_details": null,
+    "total_tokens": 4627
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "17b54287e81e189cdf10690d4f2578ff4378826a923ab7bd736b503eb81d5ab4",
+  "finish_reason": "stop",
+  "latency_s": 9.97641387499607,
+  "prediction": "There is no entry in the provided data for a proposed time for WolfgangSchulz to go grocery shopping on 20260923. The conversation snippets available do not mention any plans related to grocery shopping. Therefore, based on the information given, it is not possible to determine a proposed time for this activity.",
+  "prediction_sha256": "ffcd7a59cd162b19e6dfddb1835921c712c602be632e75b09d3f19913b8c8dd1",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100116,
+  "usage": {
+    "completion_tokens": 68,
+    "prompt_tokens": 4465,
+    "prompt_tokens_details": null,
+    "total_tokens": 4533
+  }
+}

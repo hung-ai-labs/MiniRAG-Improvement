@@ -1,0 +1,17 @@
+{
+  "body_sha256": "16622e4cdebfe5b778d69fde2e3e3a56e64cfd1d527d28aaf6768ad379e593c2",
+  "finish_reason": "stop",
+  "latency_s": 4.8707141669947305,
+  "prediction": "According to the conversation, Wolfgang Schulz will be celebrating his promotion at a dinner at Venedia Grancaffe with his colleague Li Hua. The event is scheduled for 20260430 at 6 PM. This can be inferred from the message Wolfgang Schulz sent on 20260427 at 15:00, which mentions a \"reminder about dinner tonight at 6 PM at Venedia Grancaffe.\"",
+  "prediction_sha256": "51cc6947e6e7ca10c1e2f45030518cd06ca137ebb272dc04b03ea2e9c1cded41",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100139,
+  "usage": {
+    "completion_tokens": 95,
+    "prompt_tokens": 4605,
+    "prompt_tokens_details": null,
+    "total_tokens": 4700
+  }
+}

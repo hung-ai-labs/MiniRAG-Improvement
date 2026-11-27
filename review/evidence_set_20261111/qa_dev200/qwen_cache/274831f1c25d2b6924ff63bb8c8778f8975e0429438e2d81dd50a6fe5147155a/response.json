@@ -1,0 +1,17 @@
+{
+  "body_sha256": "274831f1c25d2b6924ff63bb8c8778f8975e0429438e2d81dd50a6fe5147155a",
+  "finish_reason": "stop",
+  "latency_s": 11.216244666997227,
+  "prediction": "There is no mention of a café where Li Hua and Yuriko Yamamoto first met to discuss Yuriko's website in the provided data. The interactions between them primarily took place via emails and calls, without any reference to a meeting at a café. The conversations revolved around various aspects of Yuriko's studio, such as website design, community outreach, and upcoming events like a music festival.",
+  "prediction_sha256": "877b911c192f0b8ef14e34e908269d926bdef066c7feb65dcc9bfc1de2bd599a",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100158,
+  "usage": {
+    "completion_tokens": 84,
+    "prompt_tokens": 4705,
+    "prompt_tokens_details": null,
+    "total_tokens": 4789
+  }
+}

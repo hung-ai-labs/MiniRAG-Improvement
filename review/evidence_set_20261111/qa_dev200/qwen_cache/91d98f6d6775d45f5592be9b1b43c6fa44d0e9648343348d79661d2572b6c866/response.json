@@ -1,0 +1,17 @@
+{
+  "body_sha256": "91d98f6d6775d45f5592be9b1b43c6fa44d0e9648343348d79661d2572b6c866",
+  "finish_reason": "stop",
+  "latency_s": 9.871797667001374,
+  "prediction": "The promotion announcement made by Wolfgang Schulz took place on 20260430 at 17:00, which occurred before he invited Li Hua for dinner at the same venue at 18:00 on the same day. Therefore, Wolfgang's promotion announcement did indeed happen before his dinner invitation with Li Hua.",
+  "prediction_sha256": "1b91d0e38afeb704845eb4027e685565f31492bf3c3029f982ac1e194bd18e58",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100183,
+  "usage": {
+    "completion_tokens": 73,
+    "prompt_tokens": 4541,
+    "prompt_tokens_details": null,
+    "total_tokens": 4614
+  }
+}

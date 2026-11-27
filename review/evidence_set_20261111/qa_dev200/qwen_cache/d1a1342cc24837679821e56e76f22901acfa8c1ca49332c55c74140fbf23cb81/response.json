@@ -1,0 +1,17 @@
+{
+  "body_sha256": "d1a1342cc24837679821e56e76f22901acfa8c1ca49332c55c74140fbf23cb81",
+  "finish_reason": "stop",
+  "latency_s": 6.984688166005071,
+  "prediction": "In the discussion about preparing for the upcoming match, Henley offered to bring cones to organize passing and shooting drills. Henley mentioned, \"I'll bring some cones so we can set up drills and practice! Let’s make sure we work on the weak spots from our last matches.\" Therefore, Henley will be responsible for bringing the cones needed for the drills.",
+  "prediction_sha256": "5342b580c1caa2631a10495380eb44d5d18f9fb36c09691b0217a41942d81cea",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200080,
+  "usage": {
+    "completion_tokens": 74,
+    "prompt_tokens": 4338,
+    "prompt_tokens_details": null,
+    "total_tokens": 4412
+  }
+}

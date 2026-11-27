@@ -1,0 +1,17 @@
+{
+  "body_sha256": "8fab9feaf0d9f5e857bf3607e4b22358e67b6e8d9f03ef424dd81a9863452ac7",
+  "finish_reason": "stop",
+  "latency_s": 9.036854416997812,
+  "prediction": "In the conversation recorded on 20260531, Li Hua expresses his interest in trying a new pastry that Hailey Johnson has showcased. This new pastry was specifically highlighted because Li Hua states, \"I tried that new pastry you have! It was delicious. I'll definitely be coming back for more.\" This indicates that Li Hua is keen on tasting and possibly purchasing this particular new pastry.",
+  "prediction_sha256": "9c8cdb400fe6d4efb19cd767ae540204e7441120f743ff47aec9c8fbcc358ee5",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 195,
+  "usage": {
+    "completion_tokens": 86,
+    "prompt_tokens": 4580,
+    "prompt_tokens_details": null,
+    "total_tokens": 4666
+  }
+}

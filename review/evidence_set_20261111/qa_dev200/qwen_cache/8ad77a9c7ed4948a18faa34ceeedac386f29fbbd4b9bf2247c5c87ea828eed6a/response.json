@@ -1,0 +1,17 @@
+{
+  "body_sha256": "8ad77a9c7ed4948a18faa34ceeedac386f29fbbd4b9bf2247c5c87ea828eed6a",
+  "finish_reason": "stop",
+  "latency_s": 7.392311875002633,
+  "prediction": "For soccer practice, the details vary based on the conversations provided. In one instance, Farrah suggests meeting at the local park around 3 PM on Saturday for passing drills and shooting practice. In another scenario, Jake and Li Hua plan to meet at the park on Saturday at 10 AM for their practice session. There doesn't seem to be a definitive location specified, but based on the conversations, it appears they might meet at the local park on Saturdays for practice sessions.",
+  "prediction_sha256": "781d931ed7e3d5826ce7e2c9087df4386bf3c38fbb61a836514f30b995ee8479",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 97,
+  "usage": {
+    "completion_tokens": 98,
+    "prompt_tokens": 4830,
+    "prompt_tokens_details": null,
+    "total_tokens": 4928
+  }
+}

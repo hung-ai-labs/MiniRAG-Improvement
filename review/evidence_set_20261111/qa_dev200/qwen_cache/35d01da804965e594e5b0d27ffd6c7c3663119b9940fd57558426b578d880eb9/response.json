@@ -1,0 +1,17 @@
+{
+  "body_sha256": "35d01da804965e594e5b0d27ffd6c7c3663119b9940fd57558426b578d880eb9",
+  "finish_reason": "stop",
+  "latency_s": 8.697878167004092,
+  "prediction": "During the discussion regarding the picnic, RexxarRemar suggested having water and drinks available to keep everyone hydrated, especially considering the possibility of the weather being warm. He pointed out that staying hydrated is key, especially when spending time outdoors. Additionally, he proposed setting up a small drink station with water and some refreshments to ensure that everyone can stay hydrated comfortably.",
+  "prediction_sha256": "7c0fa6ba31a413752944b32ff5df3244fc2cc6dd70a3ff69aeeeb0a26cd40dcb",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100109,
+  "usage": {
+    "completion_tokens": 74,
+    "prompt_tokens": 4360,
+    "prompt_tokens_details": null,
+    "total_tokens": 4434
+  }
+}

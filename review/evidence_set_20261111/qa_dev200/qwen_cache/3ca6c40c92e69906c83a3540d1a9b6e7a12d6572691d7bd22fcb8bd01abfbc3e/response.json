@@ -1,0 +1,17 @@
+{
+  "body_sha256": "3ca6c40c92e69906c83a3540d1a9b6e7a12d6572691d7bd22fcb8bd01abfbc3e",
+  "finish_reason": "stop",
+  "latency_s": 6.577311459004704,
+  "prediction": "In the dialogue provided, HaileyJohnson invites LiHua to taste a new bread recipe. This invitation takes place on October 16, 2026, at 3 PM. HaileyJohnson suggests LiHua come by the bakery to taste the new bread he has prepared, indicating a personal interest in getting feedback on his creations.",
+  "prediction_sha256": "9f19ffa2c74695cecb3e76c6ca9bd6cc7797d34c198e52f7278a4b8a16cfc049",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200178,
+  "usage": {
+    "completion_tokens": 72,
+    "prompt_tokens": 4269,
+    "prompt_tokens_details": null,
+    "total_tokens": 4341
+  }
+}

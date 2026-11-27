@@ -1,0 +1,17 @@
+{
+  "body_sha256": "af79da9b0eb182925ba28ff683961e4756fc73bf68dca180d5827ec6bd5b7be6",
+  "finish_reason": "stop",
+  "latency_s": 5.583741666996502,
+  "prediction": "On August 7, 2026, Yuriko is seeking assistance from LiHua because she has ten logo designs for her speech therapy studio and needs opinions on which one stands out the most. LiHua offers to review them and provide feedback, indicating that Yuriko is asking for her expertise and guidance in selecting the best design for her studio.",
+  "prediction_sha256": "87422a802748ff1cb4313d234e76ccba8fb22e0680115c1d70ddf80c186cf1f2",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100200,
+  "usage": {
+    "completion_tokens": 76,
+    "prompt_tokens": 3333,
+    "prompt_tokens_details": null,
+    "total_tokens": 3409
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "6dd1903a00a04376744a5da05f84059f6ff7ebb8bae3d3ed0c0e932d7603b86d",
+  "finish_reason": "stop",
+  "latency_s": 10.498998541999754,
+  "prediction": "In the discussion provided, AdamSmith mentions offering assistance with setting up for the garage sale. This interaction occurs during a conversation about the upcoming community garage sale, indicating that AdamSmith has volunteered to help prepare for the event.",
+  "prediction_sha256": "b5e268719da28ec5d524c37eec951c61227b6f969ee3df787f8b43dfad278581",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 24,
+  "usage": {
+    "completion_tokens": 45,
+    "prompt_tokens": 4557,
+    "prompt_tokens_details": null,
+    "total_tokens": 4602
+  }
+}

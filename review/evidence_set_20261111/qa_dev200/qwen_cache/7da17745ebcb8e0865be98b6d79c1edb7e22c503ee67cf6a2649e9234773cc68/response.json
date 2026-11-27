@@ -1,0 +1,17 @@
+{
+  "body_sha256": "7da17745ebcb8e0865be98b6d79c1edb7e22c503ee67cf6a2649e9234773cc68",
+  "finish_reason": "stop",
+  "latency_s": 7.699604790999729,
+  "prediction": "The promotion announcement made by WolfgangSchulz occurred on Time: 20260430_17:00, which indicates his celebration dinner invitation for the same day at Venedia Grancaffe. Therefore, Wolfgang's promotion announcement did indeed occur before he invited Li Hua for dinner on 20260430.",
+  "prediction_sha256": "cda07e796a9d4dbff23e757f4c8d33538b0d635a53bd9fa6a921067f7734b136",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 183,
+  "usage": {
+    "completion_tokens": 74,
+    "prompt_tokens": 4541,
+    "prompt_tokens_details": null,
+    "total_tokens": 4615
+  }
+}

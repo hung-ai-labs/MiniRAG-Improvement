@@ -1,0 +1,17 @@
+{
+  "body_sha256": "5bb90fa48457b4441a17df03cee00cca8ba230ee19421b85183a68bfe794386e",
+  "finish_reason": "stop",
+  "latency_s": 6.078011166999204,
+  "prediction": "Li Hua asks Jennifer Moore about adjusting the protein in her meal plan during one of their conversations on November 13th, 2026, specifically in the third interaction noted in the timeline. This discussion occurs when Li Hua mentions feeling like he needs more protein for his workouts and wants to adjust the meal plan accordingly.",
+  "prediction_sha256": "2470f2155f6875e372cb6791e670b4d6f3ba92a459a7abb4b5f675dc8b2a1ea9",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 189,
+  "usage": {
+    "completion_tokens": 69,
+    "prompt_tokens": 3549,
+    "prompt_tokens_details": null,
+    "total_tokens": 3618
+  }
+}

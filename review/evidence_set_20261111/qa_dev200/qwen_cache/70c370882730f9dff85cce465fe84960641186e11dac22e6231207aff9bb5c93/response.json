@@ -1,0 +1,17 @@
+{
+  "body_sha256": "70c370882730f9dff85cce465fe84960641186e11dac22e6231207aff9bb5c93",
+  "finish_reason": "stop",
+  "latency_s": 7.837373582995497,
+  "prediction": "According to the discussion on 20260507_16:00, the community meeting for the garden project is scheduled for Saturday, around 10 am. This decision was made to gather everyone's thoughts and ensure that everyone is on the same page regarding the garden project.",
+  "prediction_sha256": "464e67cf886bd3ed5af7866cabe4e019aa9f439cec01796fa6e6a18dc874395a",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100070,
+  "usage": {
+    "completion_tokens": 63,
+    "prompt_tokens": 5401,
+    "prompt_tokens_details": null,
+    "total_tokens": 5464
+  }
+}

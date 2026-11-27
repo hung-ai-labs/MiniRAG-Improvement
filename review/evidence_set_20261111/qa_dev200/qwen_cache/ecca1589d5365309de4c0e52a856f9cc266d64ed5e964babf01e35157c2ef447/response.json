@@ -1,0 +1,17 @@
+{
+  "body_sha256": "ecca1589d5365309de4c0e52a856f9cc266d64ed5e964babf01e35157c2ef447",
+  "finish_reason": "stop",
+  "latency_s": 10.066040750003594,
+  "prediction": "In the upcoming community medical knowledge lecture scheduled for tonight at 7 PM, the main topics that will be discussed are basic health tips and common medical myths. The lecture aims to be a casual discussion where attendees can gain valuable insights into maintaining good health and understanding prevalent misconceptions about medical conditions. ChaeSong-hwa, who is attending the event, anticipates that the talk will be informative and enlightening.",
+  "prediction_sha256": "7c4da8c5db0334672be658e545c174c3c467ae1f3db9351962c0cdb8eeed7ecd",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100173,
+  "usage": {
+    "completion_tokens": 83,
+    "prompt_tokens": 4909,
+    "prompt_tokens_details": null,
+    "total_tokens": 4992
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "3dcbad5a9a4c75e68d14d6d759ae9773b36ff39c3c4e5cfdf57e067f2fbb5c14",
+  "finish_reason": "stop",
+  "latency_s": 15.033397125000192,
+  "prediction": "Based on the information provided, Wolfgang did not inquire about having pizza for dinner after work today before asking about the Sichuan hot pot dinner. In the sequence of events, Wolfgang first mentions the Sichuan hot pot dinner for tonight, stating, \"Hey man! Wanna grab some hot pot for dinner tonight? 🍲\" Following this, he then asks, \"Just wondering if you want to watch the classic movie Star Wars: A New Hope at my place after work today?\" This indicates that the conversation about the Sichuan hot pot dinner preceded the inquiry about the movie night. There is no mention of Wolfgang mentioning pizza before or after discussing the Sichuan hot pot.",
+  "prediction_sha256": "2488a6207a960001c4684aa8f228fc28a7d3622c241184ee9f9ebdf836257fee",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 30,
+  "usage": {
+    "completion_tokens": 139,
+    "prompt_tokens": 4846,
+    "prompt_tokens_details": null,
+    "total_tokens": 4985
+  }
+}

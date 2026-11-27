@@ -1,0 +1,17 @@
+{
+  "body_sha256": "238dd6cfe51af8d73cc0fedb3d1017b0e2c69b171831664cf015aa452383eeb7",
+  "finish_reason": "stop",
+  "latency_s": 7.3510444999992615,
+  "prediction": "Based on the information provided in the data, Giselle reminds everyone to bring a ball and their water bottles to the practice session. This detail is noted in the conversation where Ivor reminds everyone to prepare by bringing a ball and water bottles for the practice on Sunday.",
+  "prediction_sha256": "ae56bac8a2cacbf57458a629715c32b4a17e18120536303fa263f3030a91fc71",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 174,
+  "usage": {
+    "completion_tokens": 55,
+    "prompt_tokens": 4419,
+    "prompt_tokens_details": null,
+    "total_tokens": 4474
+  }
+}

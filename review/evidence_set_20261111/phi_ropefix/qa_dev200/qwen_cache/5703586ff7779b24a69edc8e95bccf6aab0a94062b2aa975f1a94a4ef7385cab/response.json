@@ -1,0 +1,17 @@
+{
+  "body_sha256": "5703586ff7779b24a69edc8e95bccf6aab0a94062b2aa975f1a94a4ef7385cab",
+  "finish_reason": "stop",
+  "latency_s": 6.827225166998687,
+  "prediction": " Li Hua and Yuriko Yamamoto first met to discuss Yuriko's website at Central Perk café.\n\n* **Location**: Central Perk café\n* **Context**: This meeting was pivotal for discussing the website's final version and for Li Hua to showcase the completed project to Yuriko. The friendly and collaborative atmosphere of Central Perk is suggested to have contributed positively to their productive interaction and the planning of future gatherings, including jam sessions.\n\n*General Note*: The specific café serves as a communal space for Li Hua and Yuriko, emblematic of a relaxed and creative setting, conducive to their musical and professional endeavors. It was the initial context for both the successful project presentation and the planning of social musical activities.\n\n```",
+  "prediction_sha256": "7183366455486d544b91730faa0dac3c9c7838283f76ed9f5baa6bc7b2d775b0",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 200158,
+  "usage": {
+    "completion_tokens": 182,
+    "prompt_tokens": 4857,
+    "prompt_tokens_details": null,
+    "total_tokens": 5039
+  }
+}

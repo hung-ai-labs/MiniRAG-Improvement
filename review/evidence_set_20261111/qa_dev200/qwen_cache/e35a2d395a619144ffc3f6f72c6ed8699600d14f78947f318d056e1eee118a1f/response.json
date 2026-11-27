@@ -1,0 +1,17 @@
+{
+  "body_sha256": "e35a2d395a619144ffc3f6f72c6ed8699600d14f78947f318d056e1eee118a1f",
+  "finish_reason": "stop",
+  "latency_s": 9.692885332995502,
+  "prediction": "Yes, Li Hua had previously asked Jennifer for advice on how to prevent and deal with muscle soreness after their intense workout sessions. Specifically, during one conversation, Li Hua mentioned feeling soreness in his arm muscles after the workout this week, which prompted him to inquire for tips again. This indicates that Jennifer had already shared advice on preventing and alleviating muscle soreness earlier, and Li Hua was seeking that advice once more.",
+  "prediction_sha256": "c2305afbdcba7836dc5b6f5405fd303069d802bc8c99280c30d56dd33dfb07d2",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100166,
+  "usage": {
+    "completion_tokens": 89,
+    "prompt_tokens": 4475,
+    "prompt_tokens_details": null,
+    "total_tokens": 4564
+  }
+}

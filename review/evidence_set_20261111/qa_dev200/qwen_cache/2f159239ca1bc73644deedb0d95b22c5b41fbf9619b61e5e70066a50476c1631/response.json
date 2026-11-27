@@ -1,0 +1,17 @@
+{
+  "body_sha256": "2f159239ca1bc73644deedb0d95b22c5b41fbf9619b61e5e70066a50476c1631",
+  "finish_reason": "stop",
+  "latency_s": 4.87396233400068,
+  "prediction": "There is no information provided regarding who will bring the tools for the curtain installation. The dialogue only mentions AdamSmith and LiHua planning to set a time for the installation together, but does not specify who will bring the necessary tools.",
+  "prediction_sha256": "7a36e4267e85a6ea09da1e6af1a43d41670d1f72ba84ccb4bdebbc8265751757",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100201,
+  "usage": {
+    "completion_tokens": 48,
+    "prompt_tokens": 4876,
+    "prompt_tokens_details": null,
+    "total_tokens": 4924
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "f40b2c9a7346004a87e8eef3f0cc9fe2689c0c351c1aa05522d448e62750a738",
+  "finish_reason": "stop",
+  "latency_s": 8.736941208000644,
+  "prediction": "Based on the conversations, WolfgangSchulz expresses a preference for classic margherita pizza. This is evident from his statement, \"I’m all about that classic margherita. Simple but so good!\" Additionally, he mentions enjoying a little extra cheese, which aligns with the traditional toppings of margherita pizza—tomato sauce, mozzarella cheese, and fresh basil. However, the exact type of pizza he prefers is the classic margherita.",
+  "prediction_sha256": "a919682257449b7e7ddb26cac55d7c3b85cd301a0245a19f2b2dce0f7373de40",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200148,
+  "usage": {
+    "completion_tokens": 94,
+    "prompt_tokens": 4423,
+    "prompt_tokens_details": null,
+    "total_tokens": 4517
+  }
+}

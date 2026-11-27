@@ -1,0 +1,17 @@
+{
+  "body_sha256": "ec1e203d6dcf7cb49d5d7cd5582f782ca45f4067b0068d7bf8eee008702433e2",
+  "finish_reason": "stop",
+  "latency_s": 8.78450229200098,
+  "prediction": "There is no information provided in the given data tables about any negotiations between Jake Watson and Li Hua concerning player transfers from FC Barcelona to FC Bayern Munich. The conversations detailed in the tables revolve around various aspects of soccer, including the best managers, defenders, and classic matches between Barca and Bayern, but do not mention any specific discussions about player transfers.",
+  "prediction_sha256": "0cba0b238207df93f33a71b294ec50fd0af032da27f439da274b935d5b30d7db",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200058,
+  "usage": {
+    "completion_tokens": 73,
+    "prompt_tokens": 4315,
+    "prompt_tokens_details": null,
+    "total_tokens": 4388
+  }
+}

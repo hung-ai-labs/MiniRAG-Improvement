@@ -1,0 +1,17 @@
+{
+  "body_sha256": "2d5f47e7eff1adccfdac561452ab7d3e16a0353b1f8a0326a9e97849d8f3d3e3",
+  "finish_reason": "stop",
+  "latency_s": 10.280111166001006,
+  "prediction": "On September 20, 2026, at 16:00, LiHua and Thane Chambers discussed their favorite first-person shooter games. According to the conversation, LiHua mentioned he was particularly into \"Call of Duty: Warzone,\" which is a popular battle royale-style multiplayer video game. LiHua highlighted the strategic elements of the game, like planning an approach and working with teammates, as well as the adrenaline rush experienced during final rounds.",
+  "prediction_sha256": "98b73fd3aa078c8ac2ba16dbf3f9a2abea30443879e58eaf53f8f3828e337f86",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 194,
+  "usage": {
+    "completion_tokens": 100,
+    "prompt_tokens": 5145,
+    "prompt_tokens_details": null,
+    "total_tokens": 5245
+  }
+}

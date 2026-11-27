@@ -1,0 +1,17 @@
+{
+  "body_sha256": "9125068485d61642b196d0aafc29f74008b5c876939cec24055173bb723a95be",
+  "finish_reason": "stop",
+  "latency_s": 16.110069916998327,
+  "prediction": "In the conversation recorded on Time: 20261012_10:00, LiHua mentions that she needs help with installing curtains. Specifically, Adam Smith is the one who offers to assist LiHua with the curtain installation. LiHua asks Adam Smith if they can set a time this week to install the curtains together. Adam Smith agrees and suggests that he is free most evenings, allowing LiHua to choose a convenient time. LiHua proposes Wednesday at 5 pm, which Adam Smith finds perfect. Thus, it is Adam Smith who LiHua asks for help with installing the curtains.",
+  "prediction_sha256": "6e8335684af84743b4a00544f98e39639b179e316884151a372522d11962640f",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100149,
+  "usage": {
+    "completion_tokens": 131,
+    "prompt_tokens": 4255,
+    "prompt_tokens_details": null,
+    "total_tokens": 4386
+  }
+}

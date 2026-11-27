@@ -1,0 +1,17 @@
+{
+  "body_sha256": "31d22aa8a832aa2b4c109ead601652f6a8f0bcdda754a23c4dfb8ef1042b0edc",
+  "finish_reason": "stop",
+  "latency_s": 16.372671332996106,
+  "prediction": "In one of the conversations, WolfgangSchulz mentions a new pizza place downtown that he's heard good things about. He suggests that LiHua and he should check it out sometime. Specifically, this conversation took place on October 15th at 15:00. \n\nHere's the relevant part of the conversation:\n```\nWolfgangSchulz: I'm a fan of that new pizza place downtown. Heard they have some amazing toppings! What do you think?\nLiHua: I've been wanting to try that place! Let's go there then. What time do you want to meet?\nWolfgangSchulz: How about we aim for around 7ish? Give us some time to unwind after work.\n```\n\nSo, the new pizza place WolfgangSchulz recommends is the one located downtown.",
+  "prediction_sha256": "5ffc36dffb4be5d985eb74735156f1eaa8a740f72bad031b5f2c079b0b0ed5a9",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200175,
+  "usage": {
+    "completion_tokens": 173,
+    "prompt_tokens": 4451,
+    "prompt_tokens_details": null,
+    "total_tokens": 4624
+  }
+}

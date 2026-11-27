@@ -1,0 +1,17 @@
+{
+  "body_sha256": "50850aea7b777fdf615dc0296a68217a7034735e114187daa5a7cd8446f567d5",
+  "finish_reason": "stop",
+  "latency_s": 14.57991483299702,
+  "prediction": " According to the messages provided in the data tables, LiHua invited WolfgangSchulz to join him at a photography exhibition in August. The conversation between LiHua and WolfgangSchulz reveals their plans to attend the exhibition together, with LiHua suggesting to go on a Friday evening when it would be less crowded. WolfgangSchulz agrees to the plan and expresses his excitement for the event, showing enthusiasm for the shared experience of exploring the exhibits.\n\nHere is a summary formatted in markdown:\n\n```markdown\n### Event Invitation Summary\n\n**Event:** Photography Exhibition\n**Month:** August\n**Invitee:** WolfgangSchulz\n**Details:**\n\n- LiHua extended an invitation to WolfgangSchulz to visit a photography exhibition happening next Friday evening.\n- The proposed benefit of attending on Friday evening is the expectation of a less crowded atmosphere.\n- WolfgangSchulz readily accepts the invitation, showing eagerness for the event and looking forward to the experience.\n- LiHua commits to purchasing tickets in advance and highlights the anticipation of examining the exhibits together.\n- WolfgangSchulz and LiHua express mutual excitement, with WolfgangSchulz adding plans to have a pre-event meal at a nearby burger place known for its excellent fries.\n\n```\n\nThis markdown summary neatly encapsulates the relevant details from the conversation, underscoring the friendly photography-related interaction between LiHua and WolfgangSchulz in August, prior to the event.",
+  "prediction_sha256": "b03e07ccdbc32315de439f8f11acd74d7a896c1258db27b83e06429634cdf372",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 100093,
+  "usage": {
+    "completion_tokens": 353,
+    "prompt_tokens": 5096,
+    "prompt_tokens_details": null,
+    "total_tokens": 5449
+  }
+}

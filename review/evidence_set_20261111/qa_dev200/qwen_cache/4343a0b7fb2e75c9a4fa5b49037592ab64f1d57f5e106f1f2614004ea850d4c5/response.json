@@ -1,0 +1,17 @@
+{
+  "body_sha256": "4343a0b7fb2e75c9a4fa5b49037592ab64f1d57f5e106f1f2614004ea850d4c5",
+  "finish_reason": "stop",
+  "latency_s": 8.588043334002577,
+  "prediction": "In one of the interactions shared, Wolfgang finds a new Italian restaurant in Hong Kong that he has been hearing good things about. He suggests they check it out together for a pizza night. This stands out as a cool new discovery that Wolfgang wants to share with LiHua. However, there is no mention of Wolfgang finding a cool thing to share specifically with LiHua in the given data.",
+  "prediction_sha256": "d1af4e518a85f64ad9b56332b8166bdfadf4b1707131a95071655f3fe5e4d7fa",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 102,
+  "usage": {
+    "completion_tokens": 80,
+    "prompt_tokens": 4225,
+    "prompt_tokens_details": null,
+    "total_tokens": 4305
+  }
+}

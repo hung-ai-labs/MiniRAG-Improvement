@@ -1,0 +1,17 @@
+{
+  "body_sha256": "5d0d1a405048b650c4433465fb5128874d1441819aeba791ebd2b810d9fb6c88",
+  "finish_reason": "stop",
+  "latency_s": 9.496093792000465,
+  "prediction": "According to the conversation recorded under the timestamp 20260622_13:30, Hailey Johnson invites Li Hua to a special event at the bakery on Saturday. Specifically, Hailey mentions, \"The event starts at 10 AM this Saturday.\" This indicates that the special event at Hailey's bakery begins at 10:00 AM on Saturday.",
+  "prediction_sha256": "421f67f35f10e5d060b1f747c49dd8c9dc95991df41f3197ebf35ca5998ad998",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 191,
+  "usage": {
+    "completion_tokens": 83,
+    "prompt_tokens": 5462,
+    "prompt_tokens_details": null,
+    "total_tokens": 5545
+  }
+}

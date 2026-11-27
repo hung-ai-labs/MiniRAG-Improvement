@@ -1,0 +1,17 @@
+{
+  "body_sha256": "28924f80ad35940ff6f6081597bb0fc03a1a5d00f88874310dee536b3d6cf0f1",
+  "finish_reason": "stop",
+  "latency_s": 5.947199834001367,
+  "prediction": "In the discussions surrounding the garden renovation, the idea of adding shade was proposed to make the space more comfortable on hot days. Specifically, the conversation mentions the possibility of including a pergola or some umbrellas around the seating area. Additionally, the inclusion of plants around the seating area was suggested to create a more natural and secluded atmosphere, which would also serve to enhance the garden's aesthetic and attract wildlife. The use of shade structures, such as pergolas or umbrellas, would not only provide physical shelter from the sun but also contribute to the overall beauty and functionality of the garden.",
+  "prediction_sha256": "cefc4b6fbb1d4dcb472324aba85693291fae73420195670dcbf0818270dcdd3f",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 208,
+  "usage": {
+    "completion_tokens": 118,
+    "prompt_tokens": 4639,
+    "prompt_tokens_details": null,
+    "total_tokens": 4757
+  }
+}

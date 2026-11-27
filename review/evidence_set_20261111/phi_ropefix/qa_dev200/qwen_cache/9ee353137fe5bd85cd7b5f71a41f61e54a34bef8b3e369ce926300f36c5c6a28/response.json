@@ -1,0 +1,17 @@
+{
+  "body_sha256": "9ee353137fe5bd85cd7b5f71a41f61e54a34bef8b3e369ce926300f36c5c6a28",
+  "finish_reason": "stop",
+  "latency_s": 4.929476292003528,
+  "prediction": " Dyllan recommends the game \"Octopath Traveler\" for its turn-based combat mechanics and appealing art style. The game is known for its charming pixel art and the ability for players to choose different characters, each with their unique stories. This combination of art style and gameplay mechanics creates an engaging and visually appealing experience for players who enjoy strategic, turn-based battles.",
+  "prediction_sha256": "e60286ac740a88338b5ac44770ec02b2dee2da986d4a3e1519d2a85c00f1a099",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 200083,
+  "usage": {
+    "completion_tokens": 89,
+    "prompt_tokens": 3681,
+    "prompt_tokens_details": null,
+    "total_tokens": 3770
+  }
+}

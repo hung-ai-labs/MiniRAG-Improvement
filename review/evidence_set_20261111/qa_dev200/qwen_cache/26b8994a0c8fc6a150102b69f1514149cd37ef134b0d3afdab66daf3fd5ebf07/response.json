@@ -1,0 +1,17 @@
+{
+  "body_sha256": "26b8994a0c8fc6a150102b69f1514149cd37ef134b0d3afdab66daf3fd5ebf07",
+  "finish_reason": "stop",
+  "latency_s": 7.761013666999133,
+  "prediction": "Based on the conversation, WolfgangSchulz mentioned that he didn't get a chance to try much when he was in Prague, but he did recall that the goulash was \"really hearty and tasty.\" Additionally, he noted that the pastries with powdered sugar were \"yum!\" However, the specific local dish he tried is not explicitly stated.",
+  "prediction_sha256": "97dd14d9beb1b179d6b07a80b423f33b66cc116e54959271cc017255909d892c",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 60,
+  "usage": {
+    "completion_tokens": 71,
+    "prompt_tokens": 5229,
+    "prompt_tokens_details": null,
+    "total_tokens": 5300
+  }
+}

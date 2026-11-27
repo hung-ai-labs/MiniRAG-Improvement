@@ -1,0 +1,17 @@
+{
+  "body_sha256": "67717d0fe1a9cd7e8ae090a39ab0957c89b554b0f284c3b21c5a3b0b2f6ee182",
+  "finish_reason": "stop",
+  "latency_s": 7.4449187079990224,
+  "prediction": "The anniversary event for Hailey Johnson's bakery shop is scheduled from April 15 to April 17. This information is provided in a conversation between Hailey Johnson and Li Hua, where Hailey informs Li Hua that their bakery's anniversary event is coming up and mentions the dates as April 15 to April 17.",
+  "prediction_sha256": "85b7c5caa99e72b41252644f663bae6a59c59cb5ceb353173527e4405dec90e9",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 54,
+  "usage": {
+    "completion_tokens": 71,
+    "prompt_tokens": 4784,
+    "prompt_tokens_details": null,
+    "total_tokens": 4855
+  }
+}

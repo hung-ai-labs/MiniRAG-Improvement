@@ -1,0 +1,17 @@
+{
+  "body_sha256": "16130dfd8a884353a12e692be2e142684668b973876f24cbe3027fd39aa2abf3",
+  "finish_reason": "stop",
+  "latency_s": 10.249719292005466,
+  "prediction": "In the given data, there are multiple instances of soccer practice being discussed. Specifically, in the entry dated 20261014_20:00, Li Hua mentions organizing a practice session with Jake Watson, Jasper, Farrah, and Caspian. They decide to meet at the local park around 3 PM on Saturday to practice passing drills for the first hour and then mix in shooting practice after that. Thus, the group plans to meet at the local park for their soccer practice session.",
+  "prediction_sha256": "5327ace6f990b0df9e6e070ed64364cf08186499b41f4042c4523a0effe48eb1",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200097,
+  "usage": {
+    "completion_tokens": 108,
+    "prompt_tokens": 5133,
+    "prompt_tokens_details": null,
+    "total_tokens": 5241
+  }
+}

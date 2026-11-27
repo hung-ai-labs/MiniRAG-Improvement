@@ -1,0 +1,17 @@
+{
+  "body_sha256": "2bcbcc6c8a6c7956c107d633d223dfb52f354af368751b3c284b21cea09fa2f1",
+  "finish_reason": "stop",
+  "latency_s": 6.578667665999092,
+  "prediction": "On June 24, 2026, LiHua sends a video to the band group chat featuring himself playing the intro to \"Stairway to Heaven.\" This video was shared to encourage the band members to participate in a jam session, as indicated by the participants' enthusiastic responses suggesting they are ready to jam together.",
+  "prediction_sha256": "b3eccf4f29aba844ee8341b4928f9f55e1114174ee7f145b19a8f398ae2f572a",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 65,
+  "usage": {
+    "completion_tokens": 69,
+    "prompt_tokens": 4900,
+    "prompt_tokens_details": null,
+    "total_tokens": 4969
+  }
+}

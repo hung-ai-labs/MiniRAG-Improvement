@@ -1,0 +1,17 @@
+{
+  "body_sha256": "38c90617e9bdfc6bc01cd38e1ff1ce6d644039be1978bbeaf5978472be7b9e4c",
+  "finish_reason": "stop",
+  "latency_s": 4.883152166999935,
+  "prediction": "According to the discussion on 20260507, the community meeting is scheduled for Saturday, as Thrall proposed setting it for the morning, specifically around 10 am. This aligns with LiHua's confirmation of her willingness to attend on that date.",
+  "prediction_sha256": "758c36d33b9dab3e80f3175b041f04de4708b2cc06942311fab2bd24bb04218f",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 70,
+  "usage": {
+    "completion_tokens": 59,
+    "prompt_tokens": 5401,
+    "prompt_tokens_details": null,
+    "total_tokens": 5460
+  }
+}

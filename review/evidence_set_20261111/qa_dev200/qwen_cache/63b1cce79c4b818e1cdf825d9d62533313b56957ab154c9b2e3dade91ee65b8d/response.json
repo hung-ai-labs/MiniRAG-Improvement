@@ -1,0 +1,17 @@
+{
+  "body_sha256": "63b1cce79c4b818e1cdf825d9d62533313b56957ab154c9b2e3dade91ee65b8d",
+  "finish_reason": "stop",
+  "latency_s": 10.14936737500102,
+  "prediction": "The dynamic between Cersei Lannister and several characters is described as complicated. Specifically, the interactions between Cersei and Jaime Lannister are noted as being particularly intricate, showcasing a struggle between love, loyalty, and personal growth. Additionally, Cersei's relationship with Tyrion Lannister is also characterized as complicated, with Tyrion offering a different perspective on power that Cersei often struggles to accept.",
+  "prediction_sha256": "0a1ebc77d86f70083086634d4690075e40c67ceb61f8592153c126fb1a1b117a",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 186,
+  "usage": {
+    "completion_tokens": 83,
+    "prompt_tokens": 4380,
+    "prompt_tokens_details": null,
+    "total_tokens": 4463
+  }
+}

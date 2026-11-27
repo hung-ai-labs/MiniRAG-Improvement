@@ -1,0 +1,17 @@
+{
+  "body_sha256": "63dc7df7cca427fefb90a420aa6e68fc76b4a33e80c24bcf221815a641ff3be7",
+  "finish_reason": "stop",
+  "latency_s": 11.73002062500018,
+  "prediction": "In the conversation, Li Hua expressed interest in trying the rosemary focaccia recommended by HaileyJohnson. Specifically, Li Hua mentioned, \"Rosemary focaccia sounds amazing! I’ll definitely think about it. Maybe I’ll give it a shot next week! Do you recommend any good toppings for it?\" This indicates that Li Hua is open to trying the rosemary focaccia and considering possible toppings. However, Li Hua did not provide specific recommendations for toppings at that moment.",
+  "prediction_sha256": "10a1f4ec48540c6536de1d7f8e7e5629110dcb9378ae1cd21ff0d092ac1a4b40",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100044,
+  "usage": {
+    "completion_tokens": 103,
+    "prompt_tokens": 4315,
+    "prompt_tokens_details": null,
+    "total_tokens": 4418
+  }
+}

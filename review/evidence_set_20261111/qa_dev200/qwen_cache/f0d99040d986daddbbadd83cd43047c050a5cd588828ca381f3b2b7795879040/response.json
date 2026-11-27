@@ -1,0 +1,17 @@
+{
+  "body_sha256": "f0d99040d986daddbbadd83cd43047c050a5cd588828ca381f3b2b7795879040",
+  "finish_reason": "stop",
+  "latency_s": 8.071302165997622,
+  "prediction": "The conversation regarding the practice session between JakeWatson and LiHua took place on 20260903, not 20260925 as specified in the question. On 20260903, JakeWatson suggested meeting at the park at 17:00 (5:00 PM) for a practice session. LiHua agreed to this time and location, indicating that this is the proposed meeting point for the practice session.",
+  "prediction_sha256": "46cd449062c24e0140770f985d35698a6de1bc46d16575bf410f72c40ff6f644",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200188,
+  "usage": {
+    "completion_tokens": 105,
+    "prompt_tokens": 4045,
+    "prompt_tokens_details": null,
+    "total_tokens": 4150
+  }
+}

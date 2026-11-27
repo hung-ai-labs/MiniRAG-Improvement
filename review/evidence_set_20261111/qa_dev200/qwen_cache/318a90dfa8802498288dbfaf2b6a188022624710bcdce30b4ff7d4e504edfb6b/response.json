@@ -1,0 +1,17 @@
+{
+  "body_sha256": "318a90dfa8802498288dbfaf2b6a188022624710bcdce30b4ff7d4e504edfb6b",
+  "finish_reason": "stop",
+  "latency_s": 5.325816875003511,
+  "prediction": "According to the conversation recorded on 20260930_16:00, LiHua suggests having dinner at WolfgangSchulz's place at 7 PM. WolfgangSchulz agrees and mentions that they should pick up some drinks on the way, indicating that their plans for dinner are set for 7 PM.",
+  "prediction_sha256": "9adcbff3eee6eba321acff17d1ff76e5b82092324ff4a477a063874f8852758f",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100053,
+  "usage": {
+    "completion_tokens": 72,
+    "prompt_tokens": 5586,
+    "prompt_tokens_details": null,
+    "total_tokens": 5658
+  }
+}

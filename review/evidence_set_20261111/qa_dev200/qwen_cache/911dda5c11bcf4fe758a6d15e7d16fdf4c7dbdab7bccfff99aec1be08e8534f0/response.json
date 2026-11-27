@@ -1,0 +1,17 @@
+{
+  "body_sha256": "911dda5c11bcf4fe758a6d15e7d16fdf4c7dbdab7bccfff99aec1be08e8534f0",
+  "finish_reason": "stop",
+  "latency_s": 12.281621125002857,
+  "prediction": "In the conversation between ChaeSong-hwa and LiHua regarding the karaoke playlist, LiHua suggests several songs for the upcoming karaoke night. Initially, he proposes classics like \"I Will Survive\" or \"Sweet Caroline.\" Later, in a more enthusiastic tone, LiHua recommends \"Dancing Queen,\" emphasizing its fun and energetic nature. \n\nAdditionally, they discuss including other popular songs in the mix. LiHua specifically mentions \"Sweet Home Alabama\" and \"Blackbird\" as potential additions to the playlist. These songs, along with \"Dancing Queen,\" are intended to provide a balanced selection of both classic and contemporary hits, ensuring the karaoke night will be enjoyable and engaging for all participants.",
+  "prediction_sha256": "cdb2ca88325c485ec1a8d18008ee6b779479cea4031d155630198ab73177f409",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 74,
+  "usage": {
+    "completion_tokens": 147,
+    "prompt_tokens": 3746,
+    "prompt_tokens_details": null,
+    "total_tokens": 3893
+  }
+}

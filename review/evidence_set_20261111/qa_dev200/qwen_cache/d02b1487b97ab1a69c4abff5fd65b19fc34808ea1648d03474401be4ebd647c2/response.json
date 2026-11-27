@@ -1,0 +1,17 @@
+{
+  "body_sha256": "d02b1487b97ab1a69c4abff5fd65b19fc34808ea1648d03474401be4ebd647c2",
+  "finish_reason": "stop",
+  "latency_s": 11.447708583000349,
+  "prediction": "No, Wolfgang did not inquire about having pizza for dinner after work before asking about Sichuan hot pot for dinner tonight. In the provided data, it is noted that Wolfgang suggested having pizza for dinner after work on October 15th, where he specifically asked Li Hua about her preferred place for pizza. However, for the dinner scheduled on September 30th, Wolfgang asked Li Hua about having Sichuan hot pot for dinner that evening. Thus, Wolfgang did not mention pizza before asking about Sichuan hot pot.",
+  "prediction_sha256": "24bbeb3cb11fc84afbe59ff49eba57b1deef945e72a8e600d5da6dab41645cd8",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100030,
+  "usage": {
+    "completion_tokens": 110,
+    "prompt_tokens": 4846,
+    "prompt_tokens_details": null,
+    "total_tokens": 4956
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "485a16210bbd7acd98d01b435193ee2495139593c88d9d7456ec900c2217e84e",
+  "finish_reason": "stop",
+  "latency_s": 5.99997904200427,
+  "prediction": "In one of the conversations, WolfgangSchulz expresses enthusiasm for drinking beer while enjoying hot pot, stating, \"Beer it is! 🍻 Perfect match for hot pot.\" Based on this statement, it is clear that LiHua suggests having beer alongside their hot pot dinner.",
+  "prediction_sha256": "b034b3539134259b6bc7539845129b0b8d36950874359784dc8fb1f2d1be6751",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100113,
+  "usage": {
+    "completion_tokens": 58,
+    "prompt_tokens": 4457,
+    "prompt_tokens_details": null,
+    "total_tokens": 4515
+  }
+}

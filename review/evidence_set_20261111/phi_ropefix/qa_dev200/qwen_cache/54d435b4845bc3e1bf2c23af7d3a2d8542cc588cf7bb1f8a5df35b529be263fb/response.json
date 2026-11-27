@@ -1,0 +1,17 @@
+{
+  "body_sha256": "54d435b4845bc3e1bf2c23af7d3a2d8542cc588cf7bb1f8a5df35b529be263fb",
+  "finish_reason": "stop",
+  "latency_s": 9.47976058399945,
+  "prediction": " Helios suggests the game **Fire Emblem** for players who enjoy tactical fun combined with a great story and character development. The game is known for its deep strategic gameplay and rich narrative, offering a satisfying balance of combat decisions and character progression.\n\nIn markdown format, the response would look like this:\n\n```markdown\nHelios recommends the following game with an emphasis on tactical elements and narrative depth:\n\n- **Fire Emblem**\n\nThis game stands out for its turn-based combat system, where strategic planning and character relationship dynamics play a crucial role. Each character has their own backstory and growth, adding significant depth to the overall experience. The rich storytelling combined with strategic gameplay makes Fire Emblem a compelling choice for those looking for a game that offers both emotional and intellectual engagement.\n```",
+  "prediction_sha256": "24fabcde87603b25ed8e5e6d70163151488e7ef462e8ae28d8509fae60967c8e",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 200046,
+  "usage": {
+    "completion_tokens": 187,
+    "prompt_tokens": 4980,
+    "prompt_tokens_details": null,
+    "total_tokens": 5167
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "58bbad3e80a3167d92bb9541b68e6b82dea095a671872b94e9553916dba490f6",
+  "finish_reason": "stop",
+  "latency_s": 9.621040999998513,
+  "prediction": "In one of the conversations, AdamSmith extends a request to LiHua to add some sound-insulating pads to the basement. Specifically, AdamSmith states, \"Hey Li Hua! That sounds like a great idea. As long as it’s reversible and doesn’t damage anything, I’m okay with it. Let me know if you need any help!\" This indicates that AdamSmith is open to LiHua making some modifications to the basement, provided that the changes are reversible and won't cause any damage.",
+  "prediction_sha256": "d2aa901a5b83c18d9b2cdaa292f9af530101ae1e2289bd3e41809a4c3965711f",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200177,
+  "usage": {
+    "completion_tokens": 104,
+    "prompt_tokens": 3322,
+    "prompt_tokens_details": null,
+    "total_tokens": 3426
+  }
+}

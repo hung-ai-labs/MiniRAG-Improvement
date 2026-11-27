@@ -1,0 +1,17 @@
+{
+  "body_sha256": "6233577bf4b5ebc222fe16622bba796343530a3a0f8faa5d82c9ab71fbc60fc4",
+  "finish_reason": "stop",
+  "latency_s": 7.489410792004492,
+  "prediction": " Hailey Johnson is offering a 15% discount on all pastries and special cakes for Mother's Day. This promotion is highlighted in two separate entries from the data tables. In the first entry, dated May 8, 2026, at 8:00 AM, Hailey Johnson reminds Li Hua of the Mother's Day promotion, mentioning the discount, and in the second entry, dated August 16, 2026, at 8:00 PM, the reminder of the early bird discount is reiterated. The specific percentage mentioned in both instances is 15%.",
+  "prediction_sha256": "087f9aff962c0980b6e2caad2d4e54bcc12bc5da317810ffe26718ad3b95870a",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 200072,
+  "usage": {
+    "completion_tokens": 139,
+    "prompt_tokens": 5602,
+    "prompt_tokens_details": null,
+    "total_tokens": 5741
+  }
+}

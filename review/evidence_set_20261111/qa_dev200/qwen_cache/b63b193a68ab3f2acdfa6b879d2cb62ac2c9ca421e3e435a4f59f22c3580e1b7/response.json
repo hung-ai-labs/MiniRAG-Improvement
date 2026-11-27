@@ -1,0 +1,17 @@
+{
+  "body_sha256": "b63b193a68ab3f2acdfa6b879d2cb62ac2c9ca421e3e435a4f59f22c3580e1b7",
+  "finish_reason": "stop",
+  "latency_s": 9.146445917001984,
+  "prediction": "Based on the conversations, WolfgangSchulz expresses a preference for classic margherita pizza. This is evident from his statement, \"Bro, I’m all about that classic margherita. Simple but so good!\" He further elaborates that he enjoys a classic margherita pizza, indicating it is his preferred type of pizza among those available.",
+  "prediction_sha256": "0cc7d85992262a875ca42ba3d68cea47b04c9a9928ae227ac14354a2c4c76732",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 148,
+  "usage": {
+    "completion_tokens": 71,
+    "prompt_tokens": 4423,
+    "prompt_tokens_details": null,
+    "total_tokens": 4494
+  }
+}

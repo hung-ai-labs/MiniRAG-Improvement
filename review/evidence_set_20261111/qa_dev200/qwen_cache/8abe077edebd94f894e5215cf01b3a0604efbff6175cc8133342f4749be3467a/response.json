@@ -1,0 +1,17 @@
+{
+  "body_sha256": "8abe077edebd94f894e5215cf01b3a0604efbff6175cc8133342f4749be3467a",
+  "finish_reason": "stop",
+  "latency_s": 5.522362791998603,
+  "prediction": "At Hailey's Bakery's anniversary event, which is scheduled to occur from April 15 to 17, Li Hua expresses interest in trying sourdough bread and sweet pastries, indicating her desire for a diverse selection of bread types. Specifically, she mentions a fondness for sourdough bread and also expresses a preference for sweet pastries, suggesting that she would appreciate a variety of both savory and sweet offerings to enjoy at the event.",
+  "prediction_sha256": "72be4c9e667787e8ea80d18dc7b69699f25ec4700fbef6d03096c07844e0eeb1",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100040,
+  "usage": {
+    "completion_tokens": 93,
+    "prompt_tokens": 4848,
+    "prompt_tokens_details": null,
+    "total_tokens": 4941
+  }
+}

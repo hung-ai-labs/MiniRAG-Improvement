@@ -1,0 +1,17 @@
+{
+  "body_sha256": "78f11dae4450b7cfec3d70e185b1b070de51179651fe5a17ede00ec560efcea8",
+  "finish_reason": "stop",
+  "latency_s": 10.061224500001117,
+  "prediction": "In one of the conversations, WolfgangSchulz suggests a new pizza place downtown that he heard has \"amazing toppings.\" LiHua responds positively, expressing her interest in trying that place. However, there is no specific mention of a particular pizza place that LiHua recommends directly. Therefore, based on the information provided, LiHua's suggestion is to try the new pizza place downtown that WolfgangSchulz mentioned, rather than recommending a specific restaurant.",
+  "prediction_sha256": "992a76adabb5b714cbdfba52ae729cc03f55f0fda2e40f7452c90b37c92b8d46",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100038,
+  "usage": {
+    "completion_tokens": 94,
+    "prompt_tokens": 4479,
+    "prompt_tokens_details": null,
+    "total_tokens": 4573
+  }
+}

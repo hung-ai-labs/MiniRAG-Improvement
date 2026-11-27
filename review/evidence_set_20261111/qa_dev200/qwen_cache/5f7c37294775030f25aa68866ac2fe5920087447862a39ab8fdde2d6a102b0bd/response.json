@@ -1,0 +1,17 @@
+{
+  "body_sha256": "5f7c37294775030f25aa68866ac2fe5920087447862a39ab8fdde2d6a102b0bd",
+  "finish_reason": "stop",
+  "latency_s": 10.280693458000314,
+  "prediction": "There is no information provided in the given data sources about Li Hua purchasing groceries from a store on April 15, 2026. The records primarily consist of communication related to rent payments, a delivery of bread from Hailey's bakery, conversations about promotions, updates on a yoga class launch, and discussions about fitness routines and preferences. Therefore, no specific payment method for grocery purchases can be determined from the provided data.",
+  "prediction_sha256": "03abdbc82b7d8bf92c8d9f7097525f190ab3a0fe8fb0dcdc57031bd4395d3739",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100115,
+  "usage": {
+    "completion_tokens": 89,
+    "prompt_tokens": 4339,
+    "prompt_tokens_details": null,
+    "total_tokens": 4428
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "09975807764d4ffffaf28ad0f515e8a63bfbef36aaa238bf1846fbc8477978d5",
+  "finish_reason": "stop",
+  "latency_s": 7.830038209000122,
+  "prediction": "In one of the conversations, WolfgangSchulz mentions his preference for a cold drink to pair with his meal, suggesting that he typically goes for a soda or even craft beer if he's feeling adventurous. However, specific drinks he wants to have while watching the movie are not mentioned directly in the provided data. Therefore, based on WolfgangSchulz's typical preferences, he might opt for a cold soda or perhaps a craft beer to complement the movie-watching experience.",
+  "prediction_sha256": "4909712508d904bc0d15f6bfdbdd0ad4c561404e44f8903c74e5a953510b6c56",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 170,
+  "usage": {
+    "completion_tokens": 95,
+    "prompt_tokens": 4058,
+    "prompt_tokens_details": null,
+    "total_tokens": 4153
+  }
+}

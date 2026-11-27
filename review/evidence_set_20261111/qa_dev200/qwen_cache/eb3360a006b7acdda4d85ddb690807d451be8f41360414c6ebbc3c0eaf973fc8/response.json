@@ -1,0 +1,17 @@
+{
+  "body_sha256": "eb3360a006b7acdda4d85ddb690807d451be8f41360414c6ebbc3c0eaf973fc8",
+  "finish_reason": "stop",
+  "latency_s": 12.282713291002437,
+  "prediction": "In the conversations between HaileyJohnson and LiHua, HaileyJohnson mentions several times that she has new recipes or baked goods that she would like LiHua to taste. Specifically, in the interactions listed from source 5, HaileyJohnson invites LiHua to come to the bakery and try a new bread recipe that she has developed. In another interaction (source 7), HaileyJohnson suggests that LiHua taste a new pastries including sprinkled cake donuts and red velvet New York cheesecake. Thus, HaileyJohnson wants LiHua to taste these new items she has created.",
+  "prediction_sha256": "7a4f3d044daa5af8aa416afa067a1104ece7583a0b1a106c96b93ea1e29120b5",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 67,
+  "usage": {
+    "completion_tokens": 124,
+    "prompt_tokens": 4334,
+    "prompt_tokens_details": null,
+    "total_tokens": 4458
+  }
+}

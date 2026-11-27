@@ -1,0 +1,17 @@
+{
+  "body_sha256": "5a51e7c73a3ecab7eb1f4eff81594a1d8d075801352e0afcfb116d6e6f772501",
+  "finish_reason": "stop",
+  "latency_s": 8.175105667000025,
+  "prediction": "In one of the messages, AdamSmith extends a payment option offer to LiHua. Specifically, AdamSmith mentions, \"Hey Li Hua, just a friendly reminder that the rent is due soon. If you need to discuss any payment options or have any questions, feel free to reach out!\" This suggests that AdamSmith offers various payment options to LiHua if she needs them. No specific details are given about the exact payment options, only that LiHua is invited to discuss them if necessary.",
+  "prediction_sha256": "e1ee0aef381c41713082ff4de99f1f3a67596643ec8f1b050916218fb4f136a1",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 177,
+  "usage": {
+    "completion_tokens": 103,
+    "prompt_tokens": 3700,
+    "prompt_tokens_details": null,
+    "total_tokens": 3803
+  }
+}

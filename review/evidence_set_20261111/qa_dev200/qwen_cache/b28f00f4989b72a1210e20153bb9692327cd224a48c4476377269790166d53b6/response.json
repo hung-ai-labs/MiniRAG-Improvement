@@ -1,0 +1,17 @@
+{
+  "body_sha256": "b28f00f4989b72a1210e20153bb9692327cd224a48c4476377269790166d53b6",
+  "finish_reason": "stop",
+  "latency_s": 10.50199070799863,
+  "prediction": "Based on the conversations provided, Li Hua expresses a preference for a medium rare burger patty. This is evident from a previous discussion where Li Hua says, \"But I just love the juicy texture of a medium rare patty. That's where all the flavor is for me! 🍔\" Despite Wolfgang Schulz suggesting that he prefers a well-done patty due to its safety and flavor, Li Hua maintains his preference for a medium rare patty.",
+  "prediction_sha256": "a11714666f885a633c107b29df131b627798cb648167e1d8fea5caa7ce4a5082",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100048,
+  "usage": {
+    "completion_tokens": 96,
+    "prompt_tokens": 3439,
+    "prompt_tokens_details": null,
+    "total_tokens": 3535
+  }
+}

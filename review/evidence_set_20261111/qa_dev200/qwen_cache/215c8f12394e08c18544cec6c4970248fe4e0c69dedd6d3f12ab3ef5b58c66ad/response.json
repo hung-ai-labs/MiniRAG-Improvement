@@ -1,0 +1,17 @@
+{
+  "body_sha256": "215c8f12394e08c18544cec6c4970248fe4e0c69dedd6d3f12ab3ef5b58c66ad",
+  "finish_reason": "stop",
+  "latency_s": 8.25193229100114,
+  "prediction": "In one of the conversations recorded, WolfgangSchulz mentions a new pizza place downtown that he has been hearing good things about. Specifically, this conversation took place on October 15th at 3 PM (Time: 20261015_15:00). He suggests that LiHua try this new place for their dinner after work. This new pizza place appears to be a recommendation for a potentially exciting dining option.",
+  "prediction_sha256": "652c45e66283746a95a4a331e2484a4e9583904d60bf9f0f98d26d307457043c",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 175,
+  "usage": {
+    "completion_tokens": 94,
+    "prompt_tokens": 4398,
+    "prompt_tokens_details": null,
+    "total_tokens": 4492
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "2917d1ebaf8af276e241971fc194a3b5c1f3d64b8744c7bcc884da18e1614a15",
+  "finish_reason": "stop",
+  "latency_s": 9.480002083000727,
+  "prediction": "Based on the conversation, LiHua is interested in WolfgangSchulz's pizza preferences specifically regarding what type of pizza he enjoys. During their interaction, WolfgangSchulz mentions his fondness for classic margherita pizza, describing it as \"Simple but so good!\" LiHua, on the other hand, expresses a preference for pepperoni pizza, stating that she \"can't resist that spiciness!\" and appreciates having extra cheese on her slices. This indicates that WolfgangSchulz's pizza preference revolves around classic margherita, whereas LiHua favors pepperoni pizza.",
+  "prediction_sha256": "3c91dcb142ca20dfb3c623eeed42d9770ae82de2e3660d23c8679239c8e19b8f",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100047,
+  "usage": {
+    "completion_tokens": 121,
+    "prompt_tokens": 4400,
+    "prompt_tokens_details": null,
+    "total_tokens": 4521
+  }
+}

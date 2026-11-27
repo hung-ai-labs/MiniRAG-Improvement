@@ -1,0 +1,17 @@
+{
+  "body_sha256": "536e3b4a17a03a16540ecc027a058cff74c4d335d082bdba38f8724d2edf047d",
+  "finish_reason": "stop",
+  "latency_s": 8.090927958000975,
+  "prediction": "In one of the recorded interactions, Yuriko shared an online tutorial focused on advanced drum techniques. This tutorial aimed to assist the group in enhancing their musical abilities, specifically for practicing drumming skills. The tutorial was intended to be useful for the group members, including WolfgangSchulz and LiHua, who expressed interest in checking it out and discussing any interesting findings from the tutorial.",
+  "prediction_sha256": "6f090fa1dbcb07f2a5301812c8cd18c89a1872af4f19edbc3be69b513e542a4b",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100045,
+  "usage": {
+    "completion_tokens": 79,
+    "prompt_tokens": 4021,
+    "prompt_tokens_details": null,
+    "total_tokens": 4100
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "a261ab7037599d0d915722c2bad76b468ae4940f842de379546414b9baf0620d",
+  "finish_reason": "stop",
+  "latency_s": 10.839650959002029,
+  "prediction": "On May 14, 2026, Li Hua and Wolfgang visited a restaurant for dinner. In their conversation, Li Hua expressed that he particularly enjoyed the pasta dish they had, stating, \"I couldn't get enough of that pasta dish! It was so rich and flavorful.\" Wolfgang also mentioned liking the steak he had, describing it as \"juicy and cooked perfectly.\" While Wolfgang highlighted the steak, Li Hua's enthusiasm for the pasta indicates that this was the dish he found most appealing during their dining experience at the restaurant.",
+  "prediction_sha256": "b1fb9eb2a412e56e9b863f57a9b60f16969149e40741709dc1bdd7df267cf314",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200020,
+  "usage": {
+    "completion_tokens": 113,
+    "prompt_tokens": 3941,
+    "prompt_tokens_details": null,
+    "total_tokens": 4054
+  }
+}

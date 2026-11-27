@@ -1,0 +1,17 @@
+{
+  "body_sha256": "e2f4fb41531c2df482e1b074a8dafd16380c8a4b5c4419b2489b5d7d16a3e058",
+  "finish_reason": "stop",
+  "latency_s": 5.058288666004955,
+  "prediction": "Chae Song-hwa is unable to join the rehearsal because he has to attend a medical lecture on Sunday evening. He informs the group that he will not be able to participate in the planned rehearsal and offers to make up for the missed practice by suggesting a \"quick jam\" at another time. The group agrees to regroup and plan their next sessions, expressing their excitement for trying something new.",
+  "prediction_sha256": "e24ce11decce5aa169e35979b7a275617c375d3fc8510044250ba6b554d7334c",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100171,
+  "usage": {
+    "completion_tokens": 80,
+    "prompt_tokens": 4103,
+    "prompt_tokens_details": null,
+    "total_tokens": 4183
+  }
+}

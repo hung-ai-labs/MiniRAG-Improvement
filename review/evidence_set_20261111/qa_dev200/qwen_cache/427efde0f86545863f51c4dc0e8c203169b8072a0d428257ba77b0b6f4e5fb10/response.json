@@ -1,0 +1,17 @@
+{
+  "body_sha256": "427efde0f86545863f51c4dc0e8c203169b8072a0d428257ba77b0b6f4e5fb10",
+  "finish_reason": "stop",
+  "latency_s": 10.682788458005234,
+  "prediction": "ThaneChambers speaks highly of several aspects of Sekiro: Shadows Die Twice. He emphasizes the game's unique combat system which offers a challenging yet rewarding experience, praising the strategic elements and the intricate world design. Additionally, ThaneChambers appreciates the game's storytelling, describing it as rich and possessing a great atmosphere that will hook players quickly. He also mentions the game's immersive exploration aspect, noting that it provides opportunities to discover new areas and secrets, contributing to the overall engaging gameplay experience.",
+  "prediction_sha256": "e534f84086736eec5d63e95aa71eee7cdf88f0420f14aa6896c4c4bb6749772f",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200086,
+  "usage": {
+    "completion_tokens": 104,
+    "prompt_tokens": 4819,
+    "prompt_tokens_details": null,
+    "total_tokens": 4923
+  }
+}

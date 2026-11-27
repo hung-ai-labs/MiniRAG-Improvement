@@ -1,0 +1,17 @@
+{
+  "body_sha256": "8d0f48ecd2131d9c354cd2ac0c80d7040207b2b22fc4b5d2f9f40c966aa51e08",
+  "finish_reason": "stop",
+  "latency_s": 5.592156582999451,
+  "prediction": "In the conversation, Ileana mentions the Control Center as a feature that makes switching between games and apps much smoother. Specifically, she highlights its convenience when transitioning between different applications or games. This Control Center feature allows users to quickly switch between various apps without having to pause the current game, thereby improving the overall gaming experience.",
+  "prediction_sha256": "90c32a8e0ab22afe465a7f2f6048587c33d143fd6e579f4d4a5572d2453cfc45",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 110,
+  "usage": {
+    "completion_tokens": 66,
+    "prompt_tokens": 4089,
+    "prompt_tokens_details": null,
+    "total_tokens": 4155
+  }
+}

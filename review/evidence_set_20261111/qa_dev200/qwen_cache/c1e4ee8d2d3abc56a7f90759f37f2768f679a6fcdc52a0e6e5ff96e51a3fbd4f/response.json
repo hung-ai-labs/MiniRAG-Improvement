@@ -1,0 +1,17 @@
+{
+  "body_sha256": "c1e4ee8d2d3abc56a7f90759f37f2768f679a6fcdc52a0e6e5ff96e51a3fbd4f",
+  "finish_reason": "stop",
+  "latency_s": 9.93445341700135,
+  "prediction": "According to the information provided, construction on the garden renovation project is set to begin on Wednesday, starting from the time mentioned in the messages. Specifically, a message from Turalyon on May 18th, 2026, at 10:00 AM states, \"Just a reminder that construction starts this Wednesday, so we should have everything ready before then!\" This indicates that the garden renovation is planned to commence on that Wednesday.",
+  "prediction_sha256": "e3dc9c0ffa303495849e40be60d7f0e5024f8fc72e2827f4d4ca32f4e126410d",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 34,
+  "usage": {
+    "completion_tokens": 93,
+    "prompt_tokens": 5062,
+    "prompt_tokens_details": null,
+    "total_tokens": 5155
+  }
+}

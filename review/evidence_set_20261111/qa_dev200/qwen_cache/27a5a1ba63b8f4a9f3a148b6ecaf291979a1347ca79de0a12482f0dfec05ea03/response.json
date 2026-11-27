@@ -1,0 +1,17 @@
+{
+  "body_sha256": "27a5a1ba63b8f4a9f3a148b6ecaf291979a1347ca79de0a12482f0dfec05ea03",
+  "finish_reason": "stop",
+  "latency_s": 10.738663000000088,
+  "prediction": "In their conversation on July 14, 2026 (Time: 20260714_12:00), LiHua expresses interest in a new flavor and suggests adding a matcha flavor to the lineup. Specifically, LiHua states, \"Maybe a matcha flavor next time? That could be fun! 🍵✨\" This indicates that matcha is the new flavor LiHua is seeking to introduce.",
+  "prediction_sha256": "9a16ab61d1e0179940b850abaaa2efbd08ea19bd139d0ef2c9ddd64acd44352b",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 16,
+  "usage": {
+    "completion_tokens": 97,
+    "prompt_tokens": 4353,
+    "prompt_tokens_details": null,
+    "total_tokens": 4450
+  }
+}

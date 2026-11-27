@@ -1,0 +1,17 @@
+{
+  "body_sha256": "c7fe76015acb661d9ffb17d48ef502c9bd91ab7ce70ecd03c9035c768d3f01af",
+  "finish_reason": "stop",
+  "latency_s": 7.840140499996778,
+  "prediction": "LiHua is planning a photography exhibition that is taking place in August. During one of their conversations, WolfgangSchulz expresses interest in joining LiHua for the photography exhibition. Specifically, LiHua suggests meeting on Friday evening, which WolfgangSchulz agrees to. Therefore, during the photography exhibition in August, LiHua intends to invite WolfgangSchulz to accompany him.",
+  "prediction_sha256": "8d3ae379643f3744ec9a6a242ff4ecacc31987450c06d7291dc6aa0a2577c397",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100093,
+  "usage": {
+    "completion_tokens": 80,
+    "prompt_tokens": 4394,
+    "prompt_tokens_details": null,
+    "total_tokens": 4474
+  }
+}

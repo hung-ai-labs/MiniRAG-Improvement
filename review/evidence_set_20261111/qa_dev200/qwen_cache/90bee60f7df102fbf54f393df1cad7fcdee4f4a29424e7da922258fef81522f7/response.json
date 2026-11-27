@@ -1,0 +1,17 @@
+{
+  "body_sha256": "90bee60f7df102fbf54f393df1cad7fcdee4f4a29424e7da922258fef81522f7",
+  "finish_reason": "stop",
+  "latency_s": 10.414468291004596,
+  "prediction": "In the conversation, Ileana expresses her enthusiasm for the game \"God of War.\" She mentions how immersive the graphics and storytelling in \"God of War\" are, describing it as \"just so immersive!\" This indicates that \"God of War\" stands out for its unique world and storytelling, according to Ileana.",
+  "prediction_sha256": "a193fb4f75e67717242428b2124a64419e06bae23a5234814ee2c8628de6938f",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100015,
+  "usage": {
+    "completion_tokens": 66,
+    "prompt_tokens": 3853,
+    "prompt_tokens_details": null,
+    "total_tokens": 3919
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "ac234fee2eafdcee9bb8c5a4ac522cc4d8905fe2a9e0d30fca4f50120d87284b",
+  "finish_reason": "stop",
+  "latency_s": 10.354070916997443,
+  "prediction": "JakeWatson recalls a memorable comeback for Real Madrid, specifically mentioning a match against Paris Saint-Germain (PSG) during the Champions League. In this match, Real Madrid managed to turn the game around, showcasing their resilience and ability to fight back. This particular comeback is highlighted as one of the more thrilling moments in the history of football, demonstrating the intensity and unpredictability of El Clásico matches.",
+  "prediction_sha256": "eb64c320202b256e8fff0b02dad44a6ae95f078cdc22ca91c42e60cccd6f0e3d",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100150,
+  "usage": {
+    "completion_tokens": 84,
+    "prompt_tokens": 3417,
+    "prompt_tokens_details": null,
+    "total_tokens": 3501
+  }
+}

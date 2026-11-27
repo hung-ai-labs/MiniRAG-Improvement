@@ -1,0 +1,17 @@
+{
+  "body_sha256": "82545a1598f1810f519bd97b426701216100a614722b87b830eb6333fa939ad2",
+  "finish_reason": "stop",
+  "latency_s": 5.022968041997956,
+  "prediction": "In the context provided, Giselle reminds everyone to bring their enthusiasm and good vibes to the practice session. This encouragement comes during a reminder for everyone to prepare for an upcoming practice session where they will work on dribbling skills. Giselle emphasizes that the practice should be filled with energy and positivity to make the session productive and enjoyable.",
+  "prediction_sha256": "db07cee7fbbed95cbd6b02e7bb2fdac867459d0ccda69f1ce6977cda5d5c42e9",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 174,
+  "usage": {
+    "completion_tokens": 69,
+    "prompt_tokens": 4891,
+    "prompt_tokens_details": null,
+    "total_tokens": 4960
+  }
+}

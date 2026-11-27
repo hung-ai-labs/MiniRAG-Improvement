@@ -1,0 +1,17 @@
+{
+  "body_sha256": "59d07ccff331b2ae733399af789718fff7bf046db8224f96833562cc20952104",
+  "finish_reason": "stop",
+  "latency_s": 9.660184833002859,
+  "prediction": "According to the conversation between AdamSmith and LiHua, the community bake sale is scheduled to take place on Sunday at 3 PM. This information is derived directly from the message shared by AdamSmith, which states, \"There's a community bake sale this Sunday at 3 PM to support a local charity.\"",
+  "prediction_sha256": "661ff2bf116a3e757cba6b2c26d3ff3268379404726f1f90dba1cfcaa5e2bfeb",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 90,
+  "usage": {
+    "completion_tokens": 64,
+    "prompt_tokens": 4823,
+    "prompt_tokens_details": null,
+    "total_tokens": 4887
+  }
+}

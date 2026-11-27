@@ -1,0 +1,17 @@
+{
+  "body_sha256": "1931c1f93596ee872aa3ff7e3e7dc76f69b3a59fa3d85977a83f9ff49b8da98d",
+  "finish_reason": "stop",
+  "latency_s": 13.499181541003054,
+  "prediction": "JakeWatson remembers a particular comeback match for Real Madrid that occurred during a Champions League game against Manchester City in 2022. In this match, Real Madrid was down by two goals, but they managed to score two goals in quick succession in stoppage time, turning the game around. JakeWatson describes this as \"epic\" and notes that the match felt like a \"nightmare come true.\" This match stands out due to the dramatic turnaround, showcasing Real Madrid's resilience and ability to fight back from difficult situations.",
+  "prediction_sha256": "4ab1a10ff38d394e6954c2599f92b70fe16ee452b30fc7341efdd5be9c2d7a74",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100150,
+  "usage": {
+    "completion_tokens": 109,
+    "prompt_tokens": 4287,
+    "prompt_tokens_details": null,
+    "total_tokens": 4396
+  }
+}

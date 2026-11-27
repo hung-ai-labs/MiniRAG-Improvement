@@ -1,0 +1,17 @@
+{
+  "body_sha256": "0357b4c63437b307b5f85f3722b190efdc78d5a2d42fb60a36d41b4da76da475",
+  "finish_reason": "stop",
+  "latency_s": 8.353656958999636,
+  "prediction": "The construction of the garden is scheduled to begin according to the information provided. A specific meeting date and time was set for the first community meeting, which was mentioned as taking place on Saturday at 10 am. This meeting was intended to discuss and finalize plans for the garden renovation. No explicit start date for the construction itself was given; however, the community meetings and subsequent discussions suggest that the actual construction is planned to commence after the initial planning phase.",
+  "prediction_sha256": "9a5551bf40bb6acea654ecb6c78be84693594c37b6c9cc16475f290a355284ca",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100034,
+  "usage": {
+    "completion_tokens": 92,
+    "prompt_tokens": 5021,
+    "prompt_tokens_details": null,
+    "total_tokens": 5113
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "0109833611a5ab311f17c268285781a9679cabb1e2b34b7d7d1dae9d51dc719c",
+  "finish_reason": "stop",
+  "latency_s": 10.860074625001289,
+  "prediction": "The community is organizing multiple events, as indicated by the provided data. Two significant events stand out:\n\n1. **Community Garden Renovation**: This event involves discussions and planning for improvements to a community garden, suggesting it's part of a broader renovation project aimed at enhancing the garden's appearance and functionality.\n\n2. **Community Sports Day**: This annual event is mentioned in a conversation where community members discuss the upcoming sports day. It is described as a chance for the community to get involved, meet neighbors, and have fun. The event includes potential activities such as team sports like soccer or basketball, as well as fun games for children.\n\nIn addition to these, other community-related events such as a picnic, bake sale, and garden cleanup are also being planned. These events reflect the community's efforts to foster interaction and improve the local environment.",
+  "prediction_sha256": "1873a7e9b98c87a552cf57527d7456a41da26bdb4d61488f5f2e9805fe148979",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100159,
+  "usage": {
+    "completion_tokens": 168,
+    "prompt_tokens": 4782,
+    "prompt_tokens_details": null,
+    "total_tokens": 4950
+  }
+}

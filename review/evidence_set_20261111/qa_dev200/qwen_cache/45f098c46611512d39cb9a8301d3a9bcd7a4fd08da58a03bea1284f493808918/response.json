@@ -1,0 +1,17 @@
+{
+  "body_sha256": "45f098c46611512d39cb9a8301d3a9bcd7a4fd08da58a03bea1284f493808918",
+  "finish_reason": "stop",
+  "latency_s": 13.090301042000647,
+  "prediction": "In the conversations regarding the karaoke activities, LiHua suggests several songs for the playlist. Initially, he proposes \"Sweet Caroline\" and \"Dancing Queen,\" which are upbeat and crowd-pleasing choices. Later, in a subsequent conversation, LiHua recommends including \"Sweet Home Alabama\" and \"Blackbird.\" He further suggests a medley that includes \"Hotel California,\" \"Sweet Home Alabama,\" and \"Blackbird,\" noting that these songs complement each other well. These suggestions align with the preferences expressed by ChaeSong-hwa, who enjoys ballads and soft pop music, and LiHua, who has a mix of tastes including classic rock, folk, and pop.",
+  "prediction_sha256": "cdb6cb2648f328e61fbd125951fbfdfec20b6858c464ecf76dd0e8a36f34c23a",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100074,
+  "usage": {
+    "completion_tokens": 140,
+    "prompt_tokens": 3746,
+    "prompt_tokens_details": null,
+    "total_tokens": 3886
+  }
+}

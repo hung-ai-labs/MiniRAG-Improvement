@@ -1,0 +1,17 @@
+{
+  "body_sha256": "63a7eb37c51a969c9d58474a1205817fd2fb97b22c2e5ce7741358c152933ca2",
+  "finish_reason": "stop",
+  "latency_s": 5.4271934579956,
+  "prediction": "On July 6th, 2026, Yuriko recommended the song \"Rolling in the Deep\" by Adele to the band. This recommendation was made during a discussion about potential songs for their upcoming Sunday jam session.",
+  "prediction_sha256": "b6f2739b61342fe5dadcb6f768796117de28c940564fa6d65b4d8405efc8ddac",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200160,
+  "usage": {
+    "completion_tokens": 50,
+    "prompt_tokens": 4249,
+    "prompt_tokens_details": null,
+    "total_tokens": 4299
+  }
+}

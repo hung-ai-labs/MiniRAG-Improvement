@@ -1,0 +1,17 @@
+{
+  "body_sha256": "2f531caf324a1f520db19e7dab035a1115abbf53a848a378a2608b866649ab68",
+  "finish_reason": "stop",
+  "latency_s": 5.479230375000043,
+  "prediction": "In the context provided, Giselle reminds everyone to bring their enthusiasm and good vibes to the field on Sunday. Additionally, she suggests bringing a ball and water bottles to ensure they are prepared for the practice session. This preparation is crucial for making the most out of the practice and staying injury-free.",
+  "prediction_sha256": "c62a9051dc82a16d3fb95eda08f75ab622736855b6e7cd1c7bc786a2638abb7c",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 174,
+  "usage": {
+    "completion_tokens": 61,
+    "prompt_tokens": 4788,
+    "prompt_tokens_details": null,
+    "total_tokens": 4849
+  }
+}

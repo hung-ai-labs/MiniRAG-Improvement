@@ -1,0 +1,17 @@
+{
+  "body_sha256": "127a23f168e66337f07a04712101f44d6896f6b3df88a1f79bf36dcb963bb91e",
+  "finish_reason": "stop",
+  "latency_s": 18.179469167000207,
+  "prediction": "During their meeting at Central Perk on Thursday morning, Yuriko provided feedback on the demo website that Li Hua had showcased. Specifically, Yuriko expressed her appreciation for the color scheme, which reflected the gentle vibe of her studio. She suggested adding a section for community outreach programs, believing it would effectively highlight her work and impact. Additionally, Yuriko recommended incorporating details about the programs she offers and including testimonials from past participants along with photos from their events. Li Hua responded positively to these suggestions, agreeing that a community outreach section would indeed showcase her work and impact. He appreciated the personal touch that testimonials would add and found the inclusion of photos engaging. Li Hua expressed enthusiasm for working on these additions to further enhance the demo website.",
+  "prediction_sha256": "aa4d3cec2d06dd99fb6b26eed7b978c9b0850ced021d77242fde276f93bf9510",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 101,
+  "usage": {
+    "completion_tokens": 153,
+    "prompt_tokens": 4864,
+    "prompt_tokens_details": null,
+    "total_tokens": 5017
+  }
+}

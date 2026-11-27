@@ -1,0 +1,17 @@
+{
+  "body_sha256": "c153f882871edef3030cbbcf103720b2fbdda3501937570760ec337192674e02",
+  "finish_reason": "stop",
+  "latency_s": 7.02215495800192,
+  "prediction": "JakeWatson specifically remembers a famous Champions League comeback against Manchester City in 2022, where Real Madrid found themselves down by two goals but managed to score two goals in quick succession in stoppage time. This match left a lasting impression on Jake, showcasing their \"never-say-die\" attitude and the ability to turn things around under pressure.",
+  "prediction_sha256": "9032c1a2171fc985cd9ec95a23032581dfb94c147e9a941edebce42c0dd99e97",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 150,
+  "usage": {
+    "completion_tokens": 73,
+    "prompt_tokens": 4287,
+    "prompt_tokens_details": null,
+    "total_tokens": 4360
+  }
+}

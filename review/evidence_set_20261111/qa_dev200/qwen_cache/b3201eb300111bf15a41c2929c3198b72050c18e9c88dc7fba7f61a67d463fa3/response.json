@@ -1,0 +1,17 @@
+{
+  "body_sha256": "b3201eb300111bf15a41c2929c3198b72050c18e9c88dc7fba7f61a67d463fa3",
+  "finish_reason": "stop",
+  "latency_s": 10.861045958998147,
+  "prediction": "The community is organizing several events, but the primary focus seems to be on the Community Garden Renovation project. From the discussions, it appears that AdamSmith and LiHua are discussing improvements to the community garden, indicating that they are planning for a community garden renovation event. Additionally, there are mentions of other community events such as the Community Bake Sale, Community Sports Day, and possibly a Community Garden Cleanup Event, but the garden renovation stands out as the central focus.",
+  "prediction_sha256": "c433e296dfef3d1b33018b61efa423e0611939c61af83561bc240a43cb8ff21b",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100159,
+  "usage": {
+    "completion_tokens": 95,
+    "prompt_tokens": 5069,
+    "prompt_tokens_details": null,
+    "total_tokens": 5164
+  }
+}

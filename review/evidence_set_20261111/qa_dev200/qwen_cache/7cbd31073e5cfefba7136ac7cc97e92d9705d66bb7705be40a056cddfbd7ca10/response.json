@@ -1,0 +1,17 @@
+{
+  "body_sha256": "7cbd31073e5cfefba7136ac7cc97e92d9705d66bb7705be40a056cddfbd7ca10",
+  "finish_reason": "stop",
+  "latency_s": 8.712745999997423,
+  "prediction": "Based on the conversation shared, JakeWatson suggests trying a combination of a banana with peanut butter for a snack, and he emphasizes the importance of hydration, specifically recommending water or an electrolyte drink. However, he doesn't mention a particular drink brand or type.",
+  "prediction_sha256": "107963770f5f6af952c5d0613777cbee67cc4480118702623fc0c79980a2d84d",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100122,
+  "usage": {
+    "completion_tokens": 54,
+    "prompt_tokens": 4362,
+    "prompt_tokens_details": null,
+    "total_tokens": 4416
+  }
+}

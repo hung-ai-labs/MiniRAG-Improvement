@@ -1,0 +1,17 @@
+{
+  "body_sha256": "620a349e46492492464446ae5529ef04ccd0cedc1fe0b4ff65641ec56968e718",
+  "finish_reason": "stop",
+  "latency_s": 8.21458566700312,
+  "prediction": "On the conversation dated 20260920_16:00, LiHua mentions that she has been playing \"Call of Duty: Warzone\". Specifically, LiHua states, \"I'm really into Call of Duty: Warzone lately! The battle royale mode is super fun!\" LiHua also engages in a discussion about the game's strategy and the excitement of winning in the final circle.",
+  "prediction_sha256": "9c05ee71a96ec0731891ae5809fad26159039f21d4c45f129b0626af1c12a8ca",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100194,
+  "usage": {
+    "completion_tokens": 90,
+    "prompt_tokens": 5145,
+    "prompt_tokens_details": null,
+    "total_tokens": 5235
+  }
+}

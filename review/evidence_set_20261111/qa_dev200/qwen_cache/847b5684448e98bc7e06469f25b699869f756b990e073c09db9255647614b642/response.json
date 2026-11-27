@@ -1,0 +1,17 @@
+{
+  "body_sha256": "847b5684448e98bc7e06469f25b699869f756b990e073c09db9255647614b642",
+  "finish_reason": "stop",
+  "latency_s": 9.339438999995764,
+  "prediction": "In the discussion about the upcoming garage sale, AdamSmith mentions that he and LiHua are planning to attend and support the event. However, the specific mention of helping with setting things up is not directly addressed in the provided data. There is no information indicating that either LiHua or AdamSmith offered to help with setting up for the garage sale.",
+  "prediction_sha256": "b6962eac316cfb213203b98ced129c9e2c88ae3e69e2fe3d0a16ee1fdd1d8525",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100024,
+  "usage": {
+    "completion_tokens": 72,
+    "prompt_tokens": 4557,
+    "prompt_tokens_details": null,
+    "total_tokens": 4629
+  }
+}

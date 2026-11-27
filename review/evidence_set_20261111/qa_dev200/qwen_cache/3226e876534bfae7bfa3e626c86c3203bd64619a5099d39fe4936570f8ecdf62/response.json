@@ -1,0 +1,17 @@
+{
+  "body_sha256": "3226e876534bfae7bfa3e626c86c3203bd64619a5099d39fe4936570f8ecdf62",
+  "finish_reason": "stop",
+  "latency_s": 14.261766709001677,
+  "prediction": "Based on the conversations between Wolfgang Schulz and Li Hua, Wolfgang Schulz recommends a couple of cafés. Initially, Wolfgang mentions that they can go to the \"cozy café downtown\" for lunch, which is planned for Wolfgang Schulz and Li Hua. Additionally, Wolfgang Schulz also recommends a \"chill place with nice jazz music\" known as \"The Lighthouse Cafe.\" However, it's worth noting that Wolfgang Schulz prefers to work at \"The Lighthouse Cafe\" during the day due to its nice jazz music, making it a suitable place for him to unwind while he works. \n\nIn summary, Wolfgang Schulz recommends two cafés: the \"cozy café downtown\" for their lunch and \"The Lighthouse Cafe\" for his work-related activities.",
+  "prediction_sha256": "c36200c6994e36d121e5fec7b3fa4a34fffa317298179794b9aa1bcc7139da76",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200098,
+  "usage": {
+    "completion_tokens": 158,
+    "prompt_tokens": 4879,
+    "prompt_tokens_details": null,
+    "total_tokens": 5037
+  }
+}

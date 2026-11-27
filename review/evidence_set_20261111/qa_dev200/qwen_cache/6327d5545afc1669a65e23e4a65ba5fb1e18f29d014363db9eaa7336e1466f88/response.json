@@ -1,0 +1,17 @@
+{
+  "body_sha256": "6327d5545afc1669a65e23e4a65ba5fb1e18f29d014363db9eaa7336e1466f88",
+  "finish_reason": "stop",
+  "latency_s": 6.160192292001739,
+  "prediction": "In the conversation provided, WolfgangSchulz suggests meeting for pizza after work, and LiHua agrees to meet him at around 7 PM. The exact time they settle on is 7 PM, which is mentioned in the interaction where WolfgangSchulz proposes the time and LiHua confirms it.",
+  "prediction_sha256": "69d9a3858abc762493d7acc747bce8978ac1d81f99e25bb5ae5c090e698c03b9",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100153,
+  "usage": {
+    "completion_tokens": 63,
+    "prompt_tokens": 4404,
+    "prompt_tokens_details": null,
+    "total_tokens": 4467
+  }
+}

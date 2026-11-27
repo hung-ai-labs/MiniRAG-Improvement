@@ -1,0 +1,17 @@
+{
+  "body_sha256": "46840346bcf31238d7776681ef1d6067def4f6956fee9776395dac1341b1eb7b",
+  "finish_reason": "stop",
+  "latency_s": 9.58843891700235,
+  "prediction": "On the conversation dated 20260920_16:00, LiHua mentions that they are involved in a discussion about the game \"Call of Duty: Warzone.\" This game is known for its battle royale mode, where players compete in a survival-style game against each other until only one remains. LiHua expresses his enthusiasm for the game, highlighting the strategic aspects, the adrenaline rush during the final circle, and his own memorable victories.",
+  "prediction_sha256": "2c2863a02edcfa013fa323431e1c9a623dc37a04f93bbb2fc2f11a0d518e81b0",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100194,
+  "usage": {
+    "completion_tokens": 99,
+    "prompt_tokens": 4739,
+    "prompt_tokens_details": null,
+    "total_tokens": 4838
+  }
+}

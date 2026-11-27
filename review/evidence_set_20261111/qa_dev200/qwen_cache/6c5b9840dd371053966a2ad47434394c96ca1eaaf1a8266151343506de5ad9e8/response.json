@@ -1,0 +1,17 @@
+{
+  "body_sha256": "6c5b9840dd371053966a2ad47434394c96ca1eaaf1a8266151343506de5ad9e8",
+  "finish_reason": "stop",
+  "latency_s": 5.032627874999889,
+  "prediction": "In one of the discussions, Thrall mentions a garden project that aims to support local businesses. Specifically, he suggests a garden renovation project that will not only beautify the area but also enhance support for local vendors. This aligns with the idea of combining garden enhancement with initiatives to boost local economic activities, thereby fostering a sense of community and sustainability.",
+  "prediction_sha256": "79dcb03661b13ff8e25cd005456f4023f76700d9836609be386b2cd8957a4948",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200211,
+  "usage": {
+    "completion_tokens": 71,
+    "prompt_tokens": 4363,
+    "prompt_tokens_details": null,
+    "total_tokens": 4434
+  }
+}

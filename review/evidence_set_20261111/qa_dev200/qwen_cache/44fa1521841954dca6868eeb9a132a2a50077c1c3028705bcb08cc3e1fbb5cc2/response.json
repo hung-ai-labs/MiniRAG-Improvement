@@ -1,0 +1,17 @@
+{
+  "body_sha256": "44fa1521841954dca6868eeb9a132a2a50077c1c3028705bcb08cc3e1fbb5cc2",
+  "finish_reason": "stop",
+  "latency_s": 9.80868499999633,
+  "prediction": "No reminders were sent regarding the rent due date prior to Li Hua's message on March 1st, 2026. Li Hua informed Adam Smith on March 1st that she had already transferred the rent via bank transfer, indicating that this was her first communication about the rent status. Adam Smith responded positively, expressing gratitude and willingness to provide assistance if needed, without mentioning a previous reminder.",
+  "prediction_sha256": "b79f39555d8cfa177c6f8f5d1618e881780b9905f8770a372fe1f02acd18f894",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100014,
+  "usage": {
+    "completion_tokens": 84,
+    "prompt_tokens": 4447,
+    "prompt_tokens_details": null,
+    "total_tokens": 4531
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "e1366b2d5365accc981df8de0d676ed0303e6c70088eb9bcfd71193a7e6df135",
+  "finish_reason": "stop",
+  "latency_s": 8.155034707997402,
+  "prediction": "For the upcoming soccer practice scheduled for Saturday afternoon at the local park, it is mentioned that Henley will bring cones. This will be utilized to set up drills and practice, specifically focusing on improving defensive skills, which Henley plans to do along with Farrah. Thus, Henley will be the one bringing the cones for the drills.",
+  "prediction_sha256": "0890624bbe41a3992fdee19d2a04c1cf06846f23273a09bd331f8541fd093937",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100080,
+  "usage": {
+    "completion_tokens": 69,
+    "prompt_tokens": 5245,
+    "prompt_tokens_details": null,
+    "total_tokens": 5314
+  }
+}

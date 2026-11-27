@@ -1,0 +1,17 @@
+{
+  "body_sha256": "e97cd7c19f349e67f79ab369c713c5fa213a8f444e835878191cedd2c6de9434",
+  "finish_reason": "stop",
+  "latency_s": 6.716050000002724,
+  "prediction": "No specific announcement regarding a new line of high-protein breads was made before Hailey invited Li Hua to the special bakery event. The invitation was sent to Li Hua with details about a new line of healthy bread options, which included descriptions of various bread types such as \"new healthy bread options\" and \"new gluten-free bread options.\" These announcements were separate from the information about the upcoming bakery anniversary event.",
+  "prediction_sha256": "c91f76f5865c01fab4b5ca910f56aaebd279bc7db18fabe8b6eeef54f2c65801",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200172,
+  "usage": {
+    "completion_tokens": 85,
+    "prompt_tokens": 4541,
+    "prompt_tokens_details": null,
+    "total_tokens": 4626
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "6f974109b0fc5ef6d9a413f3b2d9b5e3fad26316cc2631b45b50a7188467b7ee",
+  "finish_reason": "stop",
+  "latency_s": 12.528416207998816,
+  "prediction": "In the conversation, JakeWatson expresses admiration for the comebacks between FC Barcelona and Bayern Munich, particularly highlighting a match where Barca lost 4-0 in 2013 but then won in 2015. He mentions these dramatic reversals as one of the reasons why he loves soccer. Specifically, JakeWatson points out the 2015 match between Barca and Bayern Munich, where Barca came back from a 4-0 deficit to win, showcasing remarkable teamwork and skills.",
+  "prediction_sha256": "db87294c3173b235ea6032b6317e9305c10dfb42ffd17007d777a376c4188028",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100135,
+  "usage": {
+    "completion_tokens": 107,
+    "prompt_tokens": 4168,
+    "prompt_tokens_details": null,
+    "total_tokens": 4275
+  }
+}

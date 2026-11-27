@@ -1,0 +1,17 @@
+{
+  "body_sha256": "4ec64413912b018633d4940c9ce8688c77d210ff285f4013c9040fb0e9634bd3",
+  "finish_reason": "stop",
+  "latency_s": 9.320216041000094,
+  "prediction": "During the last community meeting held on a date unspecified in the provided records, Li Hua suggested organizing community meetings to brainstorm and finalize the plans for the garden. She emphasized the importance of involving everyone and gathering their thoughts and ideas. This aligns with the entity \"COMMUNITY MEETINGS,\" which describes these events as planned gatherings where community members can brainstorm and finalize plans for the garden. However, no specific construction schedule suggestions were mentioned in the records provided.",
+  "prediction_sha256": "d446995ba16d62dfe92ef95190a07b96adb032f27b11a5f534bd8803a8b220ca",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 154,
+  "usage": {
+    "completion_tokens": 93,
+    "prompt_tokens": 4258,
+    "prompt_tokens_details": null,
+    "total_tokens": 4351
+  }
+}

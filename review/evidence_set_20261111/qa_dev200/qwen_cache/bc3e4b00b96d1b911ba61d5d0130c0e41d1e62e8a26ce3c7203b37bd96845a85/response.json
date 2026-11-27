@@ -1,0 +1,17 @@
+{
+  "body_sha256": "bc3e4b00b96d1b911ba61d5d0130c0e41d1e62e8a26ce3c7203b37bd96845a85",
+  "finish_reason": "stop",
+  "latency_s": 7.985730250002234,
+  "prediction": "WolfgangSchulz and LiHua plan to visit the local music store for a music-related activity. According to the description provided in the first entry, \"The local music store is the place where WolfgangSchulz and LiHua plan to go for a music-related activity.\" Wolfgang suggests this outing as an opportunity to check out new gear and get inspired for their next jam session, which indicates their interest in purchasing instruments, equipment, or accessories related to music.",
+  "prediction_sha256": "7f2ce5fa2cf5d4292a90a41d1df5d7b4a7b4b404fb91f3bd8baf5014489b236c",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 81,
+  "usage": {
+    "completion_tokens": 97,
+    "prompt_tokens": 3394,
+    "prompt_tokens_details": null,
+    "total_tokens": 3491
+  }
+}

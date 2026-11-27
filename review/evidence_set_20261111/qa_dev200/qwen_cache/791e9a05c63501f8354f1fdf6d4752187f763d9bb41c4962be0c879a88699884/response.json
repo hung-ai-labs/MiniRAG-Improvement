@@ -1,0 +1,17 @@
+{
+  "body_sha256": "791e9a05c63501f8354f1fdf6d4752187f763d9bb41c4962be0c879a88699884",
+  "finish_reason": "stop",
+  "latency_s": 5.205794333000085,
+  "prediction": "According to the conversation shared, the community bake sale is scheduled to take place on Sunday at 3 PM.",
+  "prediction_sha256": "15f11b49634d01b32dbfaca143ceea2c0a8040f2c31b053fccaa6f455b6a7501",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100090,
+  "usage": {
+    "completion_tokens": 23,
+    "prompt_tokens": 4951,
+    "prompt_tokens_details": null,
+    "total_tokens": 4974
+  }
+}

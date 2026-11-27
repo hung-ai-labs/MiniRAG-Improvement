@@ -1,0 +1,17 @@
+{
+  "body_sha256": "3c7dee03bccc61b2815587cb4a0563b66e832478592171d5738635b7c381a6cb",
+  "finish_reason": "stop",
+  "latency_s": 10.60533462499734,
+  "prediction": "During the community garden renovation progress reports, Li Hua suggested adding specific types of flowers to enhance the garden. Specifically, she mentioned lavender and coneflowers. These flowers were chosen because they are both visually appealing and beneficial for attracting pollinators such as butterflies and bees. Additionally, the lavender and coneflowers do not require excessive maintenance, making them ideal for the community garden. There is no mention of any other new species of flowers being specifically added to the garden according to Li Hua's feedback.",
+  "prediction_sha256": "23778a13ae75cc3ef6dfdd60c59aad015301121a3f684d20bf4672652a4f7a24",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 185,
+  "usage": {
+    "completion_tokens": 105,
+    "prompt_tokens": 4450,
+    "prompt_tokens_details": null,
+    "total_tokens": 4555
+  }
+}

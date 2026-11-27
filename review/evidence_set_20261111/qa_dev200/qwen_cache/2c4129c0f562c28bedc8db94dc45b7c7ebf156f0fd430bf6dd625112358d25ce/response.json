@@ -1,0 +1,17 @@
+{
+  "body_sha256": "2c4129c0f562c28bedc8db94dc45b7c7ebf156f0fd430bf6dd625112358d25ce",
+  "finish_reason": "stop",
+  "latency_s": 9.218400624995411,
+  "prediction": "Based on the conversation between Jennifer Moore and Li Hua, Jennifer does not specifically mention a brand of protein supplement. She recommends whey protein as a general recommendation for Li Hua's fitness goals, suggesting it is great for muscle recovery and building lean mass. Additionally, she mentions plant-based options such as pea or rice protein as alternatives for those who prefer not to consume animal products. There is no indication that Jennifer recommends a particular brand among these options.",
+  "prediction_sha256": "7d43b0d053a3e1ceaa256df2f449f15f2e186fea7185514e34fe8ad1696dfb68",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100079,
+  "usage": {
+    "completion_tokens": 92,
+    "prompt_tokens": 4370,
+    "prompt_tokens_details": null,
+    "total_tokens": 4462
+  }
+}

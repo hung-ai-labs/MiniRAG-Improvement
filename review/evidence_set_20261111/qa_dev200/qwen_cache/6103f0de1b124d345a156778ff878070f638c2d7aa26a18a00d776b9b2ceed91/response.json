@@ -1,0 +1,17 @@
+{
+  "body_sha256": "6103f0de1b124d345a156778ff878070f638c2d7aa26a18a00d776b9b2ceed91",
+  "finish_reason": "stop",
+  "latency_s": 8.878868707999573,
+  "prediction": "JakeWatson mentions a specific comeback in a match against PSG in the Champions League, highlighting the leadership and solid performance of Carles Puyol and Gerard Piqué. This match stands out for JakeWatson as it showcases the defensive prowess of these legendary defenders for FC Barcelona. The comeback against PSG in the Champions League final is a notable instance where Puyol's leadership and Piqué's defensive skills were pivotal in turning the match around.",
+  "prediction_sha256": "c63e14db6461c5d0c4fd67df9fd54d1032219cc148ae01a26172656943370298",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 150,
+  "usage": {
+    "completion_tokens": 90,
+    "prompt_tokens": 3417,
+    "prompt_tokens_details": null,
+    "total_tokens": 3507
+  }
+}

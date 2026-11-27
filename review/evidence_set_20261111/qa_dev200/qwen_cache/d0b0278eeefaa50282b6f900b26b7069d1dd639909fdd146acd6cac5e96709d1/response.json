@@ -1,0 +1,17 @@
+{
+  "body_sha256": "d0b0278eeefaa50282b6f900b26b7069d1dd639909fdd146acd6cac5e96709d1",
+  "finish_reason": "stop",
+  "latency_s": 17.46717054200053,
+  "prediction": "The time interval between Adam asking LiHua about the size of the fridge and Adam informing LiHua that the fridge will be delivered at 4pm the next day spans less than a week. Specifically, there were two interactions:\n\n1. In Source 2 (20261116_16:00), AdamSmith asks LiHua about the size of the fridge she is considering for the basement, specifically inquiring whether she is looking for a standard size, perhaps around 18-20 cubic feet, and the timing of her availability to visit an electronics store together.\n   \n2. In Source 0 (20261123_23:00), AdamSmith informs LiHua that the fridge will be delivered the following day at 4pm.\n\nGiven these two sources, the time interval between AdamSmith's inquiry about the size of the fridge and his announcement about the delivery date is approximately one day. Therefore, the time interval is not more than seven days.",
+  "prediction_sha256": "cb0acfd1c686a498e6aa4ee0b03d028a645f13aee82843b4f1291bdc524264fd",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 64,
+  "usage": {
+    "completion_tokens": 211,
+    "prompt_tokens": 4622,
+    "prompt_tokens_details": null,
+    "total_tokens": 4833
+  }
+}

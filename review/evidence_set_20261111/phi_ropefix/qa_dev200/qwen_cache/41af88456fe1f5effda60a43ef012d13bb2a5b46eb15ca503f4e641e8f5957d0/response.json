@@ -1,0 +1,17 @@
+{
+  "body_sha256": "41af88456fe1f5effda60a43ef012d13bb2a5b46eb15ca503f4e641e8f5957d0",
+  "finish_reason": "stop",
+  "latency_s": 6.163552250000066,
+  "prediction": " Ileana praises the Control Center on the PS5 for making the process of switching between games and applications smoother. According to Fionnuala, one of the key advantages of the Control Center is the ability to adjust audio settings without interrupting the gameplay, which contributes to a more convenient gaming experience. This feature is particularly appreciated when trying to manage different aspects of the gaming environment on the fly, allowing gamers to fine-tune their experience without pausing their game. The Control Center, thus, enhances both the functionality and user-friendliness of the console, providing a centralized hub for various settings and shortcuts.",
+  "prediction_sha256": "22c1b9a398c6105cd9ceebc7c51905955e01ac650f4d05ff1bc7da42f6f179fa",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 200110,
+  "usage": {
+    "completion_tokens": 139,
+    "prompt_tokens": 1762,
+    "prompt_tokens_details": null,
+    "total_tokens": 1901
+  }
+}

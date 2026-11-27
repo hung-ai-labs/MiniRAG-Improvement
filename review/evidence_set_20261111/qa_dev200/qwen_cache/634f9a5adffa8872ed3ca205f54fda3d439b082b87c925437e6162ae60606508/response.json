@@ -1,0 +1,17 @@
+{
+  "body_sha256": "634f9a5adffa8872ed3ca205f54fda3d439b082b87c925437e6162ae60606508",
+  "finish_reason": "stop",
+  "latency_s": 14.352182290997007,
+  "prediction": "The conversation shows that AdamSmith first asked LiHua about the size of the fridge on November 16th at 16:00, and then on November 23rd at 23:00, Adam informed LiHua that the fridge will be delivered at 4pm the following day. Therefore, the time interval between these two conversations is less than 7 days. Specifically, the time gap is 7 days and 7 hours. Hence, the time interval between Adam asking LiHua about the size of the fridge and Adam informing LiHua that the fridge will be delivered at 4pm next day is not more than 7 days.",
+  "prediction_sha256": "1aa1c7bb47e3606a2682d5d113cf4a81aba2e594c17725378ccdddf05909b67b",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200064,
+  "usage": {
+    "completion_tokens": 140,
+    "prompt_tokens": 4622,
+    "prompt_tokens_details": null,
+    "total_tokens": 4762
+  }
+}

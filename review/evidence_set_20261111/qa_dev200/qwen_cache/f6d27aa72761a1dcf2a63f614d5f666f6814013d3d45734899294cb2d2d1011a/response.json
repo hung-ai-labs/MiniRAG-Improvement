@@ -1,0 +1,17 @@
+{
+  "body_sha256": "f6d27aa72761a1dcf2a63f614d5f666f6814013d3d45734899294cb2d2d1011a",
+  "finish_reason": "stop",
+  "latency_s": 10.758915040998545,
+  "prediction": "Based on the conversations provided in the sources, the first recorded dinner between Li Hua and Wolfgang occurred on 20260430_17:00, where they discussed plans to celebrate Wolfgang's promotion at Venedia Grancaffe. This indicates that this was likely the first dinner of the year between the two individuals.",
+  "prediction_sha256": "e0cd19a5dcedf3cce3d27c3fb50cfc6715def4f80802a4590737ea9ea6c42812",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100013,
+  "usage": {
+    "completion_tokens": 70,
+    "prompt_tokens": 4498,
+    "prompt_tokens_details": null,
+    "total_tokens": 4568
+  }
+}

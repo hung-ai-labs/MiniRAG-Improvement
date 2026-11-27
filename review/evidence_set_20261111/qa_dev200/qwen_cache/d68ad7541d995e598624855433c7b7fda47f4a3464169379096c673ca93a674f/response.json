@@ -1,0 +1,17 @@
+{
+  "body_sha256": "d68ad7541d995e598624855433c7b7fda47f4a3464169379096c673ca93a674f",
+  "finish_reason": "stop",
+  "latency_s": 6.618161833997874,
+  "prediction": "In the discussion, Henley mentioned that she would bring cones to set up drills and practice. Henley proposed this idea to improve their defensive drills, focusing on working on their weak spots from their previous matches. Therefore, Henley is responsible for bringing the cones for the drills at the match.",
+  "prediction_sha256": "0588bad7f738fd6e9e6e6fa7ebb927b99248208dce988dc17f54c85f7f5ac898",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200080,
+  "usage": {
+    "completion_tokens": 60,
+    "prompt_tokens": 4787,
+    "prompt_tokens_details": null,
+    "total_tokens": 4847
+  }
+}

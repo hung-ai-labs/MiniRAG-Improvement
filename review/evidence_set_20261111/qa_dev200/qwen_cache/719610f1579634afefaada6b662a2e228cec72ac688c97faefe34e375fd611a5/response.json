@@ -1,0 +1,17 @@
+{
+  "body_sha256": "719610f1579634afefaada6b662a2e228cec72ac688c97faefe34e375fd611a5",
+  "finish_reason": "stop",
+  "latency_s": 4.729655750001257,
+  "prediction": "According to the discussion on 20260507, a community meeting is planned for Saturday at 10:00 AM. This meeting was suggested by Thrall and LiHua, who emphasized the importance of involving everyone in the community to ensure that the garden project progresses smoothly and effectively.",
+  "prediction_sha256": "3d397f60d82efffdaa8afa3f245e0feeb13fcac7d3ee0e3b8dc2bbdc711ec422",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100070,
+  "usage": {
+    "completion_tokens": 65,
+    "prompt_tokens": 5408,
+    "prompt_tokens_details": null,
+    "total_tokens": 5473
+  }
+}

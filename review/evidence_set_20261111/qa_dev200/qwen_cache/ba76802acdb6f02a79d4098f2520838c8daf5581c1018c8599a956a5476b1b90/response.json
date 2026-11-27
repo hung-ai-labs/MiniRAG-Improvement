@@ -1,0 +1,17 @@
+{
+  "body_sha256": "ba76802acdb6f02a79d4098f2520838c8daf5581c1018c8599a956a5476b1b90",
+  "finish_reason": "stop",
+  "latency_s": 6.475431958002446,
+  "prediction": "According to the conversation between Hailey and Li Hua dated 20260622_13:30, the special event at Hailey's bakery starts at 10 AM on Saturday. Li Hua confirms her attendance at the event, and Hailey reminds her to bring her friend Wolfgang. The event includes a tasting session and a workshop.",
+  "prediction_sha256": "7904bc40ee753e90d5fc1ce7b1de65775f69187025d3a9c652a5b9e18f67a19a",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100191,
+  "usage": {
+    "completion_tokens": 77,
+    "prompt_tokens": 4467,
+    "prompt_tokens_details": null,
+    "total_tokens": 4544
+  }
+}

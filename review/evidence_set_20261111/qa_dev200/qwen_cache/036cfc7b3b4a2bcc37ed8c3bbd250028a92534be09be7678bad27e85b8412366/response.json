@@ -1,0 +1,17 @@
+{
+  "body_sha256": "036cfc7b3b4a2bcc37ed8c3bbd250028a92534be09be7678bad27e85b8412366",
+  "finish_reason": "stop",
+  "latency_s": 11.016010042003472,
+  "prediction": "Based on the conversation, Li Hua primarily uses the basement for her guitar practice. This is evident from the dialogue where Adam Smith mentions that Li Hua \"really enjoys playing there!\" and also suggests using the basement for any activities related to the apartment, indicating its suitability for musical purposes. Specifically, Li Hua mentions that the basement has been \"perfect for my guitar practice.\" Thus, the instrument Li Hua plays in the basement is a guitar.",
+  "prediction_sha256": "c2279e46e01897e49d27a590934b7eb607d4627706296f3dcb06e446a4f29ee9",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200117,
+  "usage": {
+    "completion_tokens": 92,
+    "prompt_tokens": 4076,
+    "prompt_tokens_details": null,
+    "total_tokens": 4168
+  }
+}

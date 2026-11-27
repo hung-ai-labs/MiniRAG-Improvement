@@ -1,0 +1,17 @@
+{
+  "body_sha256": "4851372657b3c9d4bcc6b357807696d31a685919c8cb64c2899829d0aa02f51b",
+  "finish_reason": "stop",
+  "latency_s": 10.577342958997178,
+  "prediction": "The first recorded instance of Li Hua and Wolfgang having dinner together this year appears in the conversation dated 20260430_17:00. In this interaction, Wolfgang mentions celebrating his promotion at Venedia Grancaffe and invites Li Hua to join him. This indicates that this was their first dinner together this year.",
+  "prediction_sha256": "a8ec3b0f15e532a10cc573af114aa582b14a91869a28255e6ddd88afa4904cac",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200013,
+  "usage": {
+    "completion_tokens": 72,
+    "prompt_tokens": 4512,
+    "prompt_tokens_details": null,
+    "total_tokens": 4584
+  }
+}

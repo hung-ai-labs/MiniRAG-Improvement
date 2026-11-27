@@ -1,0 +1,17 @@
+{
+  "body_sha256": "18f45ed5a6b2ee0add5fbb08feed90d8c4fe4d1f57ea3577a6a6e155361e9720",
+  "finish_reason": "stop",
+  "latency_s": 10.110966292006196,
+  "prediction": " The café where Li Hua and Yuriko Yamamoto first met to discuss Yuriko's website is named **Central Perk Cafe**.\n\nHere is the relevant information extracted and summarized from the data tables:\n\n```markdown\n### Meeting Point for Website Discussion\n- **Café Name:** Central Perk Cafe\n- **Summary:** Li Hua and Yuriko Yamamoto scheduled their meeting to discuss updates for Yuriko's website at Central Perk Cafe. Their discussion took place over multiple interactions, with Li Hua expressing excitement about showing Yuriko the final website and Yuriko expressing anticipation for her feedback and collaboration on the homepage improvements.\n\n```\n\nThe details regarding the meeting are captured in conversations 0, 1, and 2 of the `Sources` CSV data, showing their initial agreement on the café as a suitable location for the website discussion.",
+  "prediction_sha256": "50f7899dc03fd70a290c8e7acb3046ae5e322f273296158716535724fad2cf3f",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 200158,
+  "usage": {
+    "completion_tokens": 209,
+    "prompt_tokens": 5259,
+    "prompt_tokens_details": null,
+    "total_tokens": 5468
+  }
+}

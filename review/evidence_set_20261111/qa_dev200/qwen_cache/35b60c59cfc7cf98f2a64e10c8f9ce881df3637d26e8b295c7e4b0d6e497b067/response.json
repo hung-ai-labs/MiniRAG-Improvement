@@ -1,0 +1,17 @@
+{
+  "body_sha256": "35b60c59cfc7cf98f2a64e10c8f9ce881df3637d26e8b295c7e4b0d6e497b067",
+  "finish_reason": "stop",
+  "latency_s": 7.018527959000494,
+  "prediction": "Chae Song-hwa is unable to join the rehearsal because he has to attend a medical lecture this Sunday evening. He apologizes for missing the session and mentions that he hopes everyone else has fun despite his absence. In the subsequent discussion, it is noted that Chae Song-hwa is open to trying something new for their next session, which indicates that he looks forward to contributing again in the future.",
+  "prediction_sha256": "a5482e5193c784278384db20caa1f381a62a52705f6b0f5a594d6fd3360c2807",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100171,
+  "usage": {
+    "completion_tokens": 82,
+    "prompt_tokens": 4082,
+    "prompt_tokens_details": null,
+    "total_tokens": 4164
+  }
+}

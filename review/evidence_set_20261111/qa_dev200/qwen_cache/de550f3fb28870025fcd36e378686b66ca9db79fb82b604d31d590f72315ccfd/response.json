@@ -1,0 +1,17 @@
+{
+  "body_sha256": "de550f3fb28870025fcd36e378686b66ca9db79fb82b604d31d590f72315ccfd",
+  "finish_reason": "stop",
+  "latency_s": 15.968141500001366,
+  "prediction": "At Hailey's Bakery's anniversary event, which takes place from April 15 to 17, Li Hua expresses a desire to try sourdough bread and possibly some sweet pastries. This aligns with the description of the event in the sources, which mentions \"lots of discounts and new bread products\" and Li Hua's mention of hoping to see \"some special treats ready just for the occasion.\" Additionally, Li Hua anticipates that Hailey Johnson will have something special made just for her during the event. Therefore, on Hailey's Bakery's anniversary event, Li Hua intends to sample the freshly baked sourdough bread and perhaps some pastries, reflecting the offerings and the personal touches that Hailey Johnson plans to provide.",
+  "prediction_sha256": "7288d40600b4003787b16ba9f3b86b14cb57245cda03c5ca0b3b43af5126f7d3",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100040,
+  "usage": {
+    "completion_tokens": 154,
+    "prompt_tokens": 4847,
+    "prompt_tokens_details": null,
+    "total_tokens": 5001
+  }
+}

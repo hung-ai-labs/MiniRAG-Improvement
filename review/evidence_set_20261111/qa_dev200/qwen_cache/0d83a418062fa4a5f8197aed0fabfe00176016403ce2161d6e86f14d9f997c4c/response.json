@@ -1,0 +1,17 @@
+{
+  "body_sha256": "0d83a418062fa4a5f8197aed0fabfe00176016403ce2161d6e86f14d9f997c4c",
+  "finish_reason": "stop",
+  "latency_s": 12.549314000003505,
+  "prediction": "In one of the interactions, HaileyJohnson invites LiHua to taste a new bread recipe. This invitation occurs in the message dated 20261016_16:00, where HaileyJohnson suggests, \"Hey! I’ve been trying out a new bread recipe and would love for you to taste it. Are you free to come by the bakery? 🥖💛\". LiHua expresses enthusiasm, replying, \"Sounds awesome! I’d love to help out. What time is good for you? 😊\", indicating her willingness to attend.",
+  "prediction_sha256": "51e5cb720dfd528bd78fc8b3e3b1497a7d7ab051f401790d5f559557f95a7741",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100178,
+  "usage": {
+    "completion_tokens": 121,
+    "prompt_tokens": 4541,
+    "prompt_tokens_details": null,
+    "total_tokens": 4662
+  }
+}

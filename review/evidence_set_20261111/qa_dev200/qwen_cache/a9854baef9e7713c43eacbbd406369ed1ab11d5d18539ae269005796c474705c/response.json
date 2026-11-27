@@ -1,0 +1,17 @@
+{
+  "body_sha256": "a9854baef9e7713c43eacbbd406369ed1ab11d5d18539ae269005796c474705c",
+  "finish_reason": "stop",
+  "latency_s": 8.947368499997538,
+  "prediction": "On April Fool's Day, Wolfgang makes a joke about buying a set of expensive drums. This is described in detail in the conversation where LiHua and Wolfgang discuss Wolfgang's recent purchase. LiHua is surprised and amused when Wolfgang reveals it was an April Fool's joke, as she and Yuriko initially believed Wolfgang had actually purchased the drums.",
+  "prediction_sha256": "bc617f4580b20f94a5a82e7172febd00161dcef78b8f329477f6446beb6ea60d",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200039,
+  "usage": {
+    "completion_tokens": 72,
+    "prompt_tokens": 4649,
+    "prompt_tokens_details": null,
+    "total_tokens": 4721
+  }
+}

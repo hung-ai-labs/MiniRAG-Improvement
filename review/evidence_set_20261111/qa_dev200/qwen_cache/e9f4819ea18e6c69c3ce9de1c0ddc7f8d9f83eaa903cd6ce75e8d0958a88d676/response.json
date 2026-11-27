@@ -1,0 +1,17 @@
+{
+  "body_sha256": "e9f4819ea18e6c69c3ce9de1c0ddc7f8d9f83eaa903cd6ce75e8d0958a88d676",
+  "finish_reason": "stop",
+  "latency_s": 10.746566791000078,
+  "prediction": "No, there is no time interval of more than three days between LiHua initially asking Adam if she could purchase a small fridge for the basement and Adam inquiring about the size of the fridge. The conversation about the fridge appears to happen within a relatively short span, as indicated by the timestamps provided. Specifically, the initial query was on November 10th at 11:00 AM, and the follow-up regarding the fridge's size occurred on November 23rd at 11:00 PM. This places the second interaction only about two weeks after the first, which is well within the timeframe of less than three days.",
+  "prediction_sha256": "c0fef746b2b7339560d06e3c60e69f88fc8fe684c296a2f089bd85288988c5fb",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200057,
+  "usage": {
+    "completion_tokens": 133,
+    "prompt_tokens": 4036,
+    "prompt_tokens_details": null,
+    "total_tokens": 4169
+  }
+}

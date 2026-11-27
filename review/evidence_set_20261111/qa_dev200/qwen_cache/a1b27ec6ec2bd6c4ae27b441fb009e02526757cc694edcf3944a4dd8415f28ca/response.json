@@ -1,0 +1,17 @@
+{
+  "body_sha256": "a1b27ec6ec2bd6c4ae27b441fb009e02526757cc694edcf3944a4dd8415f28ca",
+  "finish_reason": "stop",
+  "latency_s": 7.408554374997038,
+  "prediction": "There is no mention of a café or any other location where Li Hua and YurikoYamamoto met to discuss Yuriko's website. The interactions described primarily take place at the studio, with meetings occurring during office hours and planned activities taking place at the basement. No details about a meeting at a café are provided in the given data.",
+  "prediction_sha256": "2e6f49197e79a4ffc0b69dad8dbd5cdd41e31f8255ce3ad3b3d401d544de578f",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100158,
+  "usage": {
+    "completion_tokens": 72,
+    "prompt_tokens": 3907,
+    "prompt_tokens_details": null,
+    "total_tokens": 3979
+  }
+}

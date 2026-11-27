@@ -1,0 +1,17 @@
+{
+  "body_sha256": "75538dff0561ef5f7216c6df2bd564b2aa2b912c530b5e2c77ae3df8bb708fb4",
+  "finish_reason": "stop",
+  "latency_s": 12.364854166000441,
+  "prediction": "During Hailey's bakery's anniversary event, which took place from April 15 to 17, Li Hua expressed a preference for sourdough bread. This aligns with the statement provided in the context where it mentions, \"I love sourdough! Hope you have that!\" Additionally, Li Hua suggested that there might be sweet pastries available as well, indicating a desire for both savory and sweet offerings. Therefore, it seems that Li Hua intends to sample the sourdough bread and potentially some sweet pastries during Hailey's bakery's anniversary celebration.",
+  "prediction_sha256": "71129e930f00033497e9b75e41b6743a54c720e81e965801ea91fb5d794ec3c2",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200040,
+  "usage": {
+    "completion_tokens": 119,
+    "prompt_tokens": 4847,
+    "prompt_tokens_details": null,
+    "total_tokens": 4966
+  }
+}

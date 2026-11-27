@@ -1,0 +1,17 @@
+{
+  "body_sha256": "6d86a67650baf105dea8d5ff2a227817e7456281e003e6c1f029a4b60c632781",
+  "finish_reason": "stop",
+  "latency_s": 9.00173229199936,
+  "prediction": "In the conversation recorded under ID 0, WolfgangSchulz informs LiHua that the new software he has been working on is almost complete. He expresses enthusiasm about LiHua being one of the first people to use it and highlights its user-friendly features. WolfgangSchulz assures LiHua that they will notify her once it is fully ready.",
+  "prediction_sha256": "2615924b3464ba0e3e752535fd7c395b73d201521b766a0ff630b56ad9987091",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 32,
+  "usage": {
+    "completion_tokens": 73,
+    "prompt_tokens": 4312,
+    "prompt_tokens_details": null,
+    "total_tokens": 4385
+  }
+}

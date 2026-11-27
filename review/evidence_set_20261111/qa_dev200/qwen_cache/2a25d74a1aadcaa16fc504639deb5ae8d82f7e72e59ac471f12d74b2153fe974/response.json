@@ -1,0 +1,17 @@
+{
+  "body_sha256": "2a25d74a1aadcaa16fc504639deb5ae8d82f7e72e59ac471f12d74b2153fe974",
+  "finish_reason": "stop",
+  "latency_s": 7.48742179099645,
+  "prediction": "There is no information provided about Li Hua deciding on a specific color for the walls of the basement after its renovation. The data table only contains communications between Li Hua and Adam Smith regarding various aspects of living in the apartment, including maintenance, rent payments, and the installation of decorations and curtains. None of these interactions mention anything about wall painting or the color chosen for the basement.",
+  "prediction_sha256": "000662dbfed8eb80fe24c7ae064d58f850d3bef29187bc5db421c45466d79246",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100041,
+  "usage": {
+    "completion_tokens": 78,
+    "prompt_tokens": 4416,
+    "prompt_tokens_details": null,
+    "total_tokens": 4494
+  }
+}

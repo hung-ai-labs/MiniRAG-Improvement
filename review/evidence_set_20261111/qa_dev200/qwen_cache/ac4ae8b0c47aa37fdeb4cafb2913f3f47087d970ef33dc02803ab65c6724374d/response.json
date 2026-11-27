@@ -1,0 +1,17 @@
+{
+  "body_sha256": "ac4ae8b0c47aa37fdeb4cafb2913f3f47087d970ef33dc02803ab65c6724374d",
+  "finish_reason": "stop",
+  "latency_s": 8.497050500001933,
+  "prediction": "Based on the conversation between Adam Smith and Li Hua, Li Hua plays guitar in the basement. Specifically, Li Hua mentions, \"The basement has been perfect for my guitar practice. I really enjoy playing there!\" This indicates that Li Hua uses the basement space primarily for practicing his guitar.",
+  "prediction_sha256": "3132f93308aa524155101155c35acda03b0a123cf19d308617cce931703e6508",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100117,
+  "usage": {
+    "completion_tokens": 62,
+    "prompt_tokens": 4076,
+    "prompt_tokens_details": null,
+    "total_tokens": 4138
+  }
+}

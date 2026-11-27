@@ -1,0 +1,17 @@
+{
+  "body_sha256": "3af455809137f838df12af755814af1887cf5833245d9daf4ead3a195aacd33a",
+  "finish_reason": "stop",
+  "latency_s": 9.194310874998337,
+  "prediction": "From the conversation, we see that WolfgangSchulz suggests a new pizza place downtown, which he claims has \"amazing toppings.\" However, LiHua hasn't expressed a preference for this specific pizza place. Instead, LiHua indicates a desire to try a different pizza place that WolfgangSchulz recommends. Therefore, based on the information provided, we cannot definitively state what type of pizza LiHua prefers. LiHua seems interested in trying another pizza place, but she hasn't specified her preferred pizza type.",
+  "prediction_sha256": "a567a9f92f48ce34f58ba1fd5c3c20ebc26b7e6f0928ac33b688be4368c6a796",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100198,
+  "usage": {
+    "completion_tokens": 108,
+    "prompt_tokens": 3507,
+    "prompt_tokens_details": null,
+    "total_tokens": 3615
+  }
+}

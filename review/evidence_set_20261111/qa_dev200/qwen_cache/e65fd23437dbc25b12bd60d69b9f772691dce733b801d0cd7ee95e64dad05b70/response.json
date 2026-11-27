@@ -1,0 +1,17 @@
+{
+  "body_sha256": "e65fd23437dbc25b12bd60d69b9f772691dce733b801d0cd7ee95e64dad05b70",
+  "finish_reason": "stop",
+  "latency_s": 9.788108250002551,
+  "prediction": "According to the conversation, WolfgangSchulz informs LiHua that the new software he has been working on is almost finished. He expresses excitement about LiHua getting to try out the new features and encourages her to provide feedback.",
+  "prediction_sha256": "ce3ea6eb1f1380a5f6b2671eaf3138e4ce96628191ce9890c190e452b60d9b23",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 32,
+  "usage": {
+    "completion_tokens": 48,
+    "prompt_tokens": 3919,
+    "prompt_tokens_details": null,
+    "total_tokens": 3967
+  }
+}

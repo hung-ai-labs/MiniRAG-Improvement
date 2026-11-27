@@ -1,0 +1,17 @@
+{
+  "body_sha256": "b8885bfd79c1b8d723981411fe7f7ca4ec301f74b4def60425b8c109280bdd5f",
+  "finish_reason": "stop",
+  "latency_s": 9.672217332998116,
+  "prediction": "Based on the interactions shared, Wolfgang prefers his meat patty cooked to medium rare. This is evident from a conversation where Wolfgang shares his opinion, stating, \"I get the point of medium rare, but I think well-done is just safer and more flavorful.\" Despite acknowledging the safety and flavor benefits of well-done meat, Wolfgang leans towards medium rare as his preferred doneness for his meat patties.",
+  "prediction_sha256": "93cd980c3bfea9c7e37bc2568b900bc1b4c75a1ecfcf37587a5b7ee28e68d570",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100021,
+  "usage": {
+    "completion_tokens": 81,
+    "prompt_tokens": 4861,
+    "prompt_tokens_details": null,
+    "total_tokens": 4942
+  }
+}

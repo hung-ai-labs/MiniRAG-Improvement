@@ -1,0 +1,17 @@
+{
+  "body_sha256": "a0b0f1b60d8fb54149969c0f806a3d6032e03bb55519246eacbe7c6cd5ea53ff",
+  "finish_reason": "stop",
+  "latency_s": 9.37424120799551,
+  "prediction": " Li Hua's preference for a burger patty's doneness isn't explicitly stated in the provided data tables and conversations. The discussions that mention burger patties focus instead on other aspects, such as WolfgangSchulz's enthusiasm for trying the new burger joint downtown and its amazing shakes, or HaileyJohnson's chocolate shake flavor preference. No direct mention of Li Hua's preference regarding how well-done she likes her burger patties is present in the conversation logs. Therefore, based on the given information, we do not have evidence to specify Li Hua's preferred level of doneness for a burger patty.",
+  "prediction_sha256": "cecd86e77f11f4b12cd5530774e6cdcb960925491eee5fe80dae5714850cc9cf",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 200048,
+  "usage": {
+    "completion_tokens": 154,
+    "prompt_tokens": 5116,
+    "prompt_tokens_details": null,
+    "total_tokens": 5270
+  }
+}

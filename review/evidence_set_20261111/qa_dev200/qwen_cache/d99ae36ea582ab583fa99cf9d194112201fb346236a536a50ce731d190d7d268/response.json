@@ -1,0 +1,17 @@
+{
+  "body_sha256": "d99ae36ea582ab583fa99cf9d194112201fb346236a536a50ce731d190d7d268",
+  "finish_reason": "stop",
+  "latency_s": 13.173718790996645,
+  "prediction": "During Hailey's bakery's anniversary event from April 15 to 17, Li Hua expressed interest in checking out the new bread products that the bakery had prepared. Specifically, Li Hua mentioned a desire to try sourdough bread, which is a type of bread that requires a long fermentation process, typically known for its distinctive tangy flavor and chewy texture. Additionally, Li Hua hinted at wanting to sample some sweet pastries, indicating that the bakery had also planned special pastries alongside the bread offerings to enhance the celebratory atmosphere. These details highlight the bakery's efforts to provide a diverse range of products to cater to various tastes and preferences, aiming to create a memorable experience for its customers.",
+  "prediction_sha256": "0da7157358532fffd3149cf9b47db3da970a4c760d5d229a2c18a5b43105e016",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200040,
+  "usage": {
+    "completion_tokens": 146,
+    "prompt_tokens": 4556,
+    "prompt_tokens_details": null,
+    "total_tokens": 4702
+  }
+}

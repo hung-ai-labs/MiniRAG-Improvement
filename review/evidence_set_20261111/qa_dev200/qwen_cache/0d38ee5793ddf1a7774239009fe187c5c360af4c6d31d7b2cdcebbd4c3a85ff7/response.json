@@ -1,0 +1,17 @@
+{
+  "body_sha256": "0d38ee5793ddf1a7774239009fe187c5c360af4c6d31d7b2cdcebbd4c3a85ff7",
+  "finish_reason": "stop",
+  "latency_s": 14.840132333996735,
+  "prediction": "From the conversation, we can gather that Li Hua initially had a training plan which involved working out twice a week. This plan was adjusted multiple times. In the conversation dated 20260112_15:00, Jennifer Moore mentions that Li Hua had been looking forward to discussing her training goals and coming up with a plan that fits her needs. During this discussion, Li Hua expressed interest in training twice a week and suggested Tuesdays and Thursdays as the best days for her. Jennifer Moore agreed to this arrangement, indicating that Li Hua has been training twice a week since then. Therefore, based on the data provided, Li Hua trains twice per week.",
+  "prediction_sha256": "0c6d671fc950922fb4ade12540161d0c9ed6e37851ba2b7c54a088d5849aa1eb",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 49,
+  "usage": {
+    "completion_tokens": 144,
+    "prompt_tokens": 4440,
+    "prompt_tokens_details": null,
+    "total_tokens": 4584
+  }
+}

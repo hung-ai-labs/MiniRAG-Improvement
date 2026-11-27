@@ -1,0 +1,17 @@
+{
+  "body_sha256": "c74673bb32eb1c5295cc70bdc7193d53ae395db7f81244ca086d75f8659fdff0",
+  "finish_reason": "stop",
+  "latency_s": 4.706782875000499,
+  "prediction": "According to the conversation between Hailey Johnson and Li Hua on June 22, 2026, the special event at Hailey's bakery starts at 10 AM. This information is explicitly stated in the dialogue, where Hailey informs Li Hua, \"The event starts at 10 AM this Saturday.\"",
+  "prediction_sha256": "02f5f9d950544f22eefe80c948516b7b7995549481e9b88c34f3ebbdaf0d5894",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100191,
+  "usage": {
+    "completion_tokens": 69,
+    "prompt_tokens": 4258,
+    "prompt_tokens_details": null,
+    "total_tokens": 4327
+  }
+}

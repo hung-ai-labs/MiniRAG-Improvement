@@ -1,0 +1,17 @@
+{
+  "body_sha256": "381920364eaba8636f44ecac8d5e60478b18c1d6452220b088fecfe782f77374",
+  "finish_reason": "stop",
+  "latency_s": 10.148426082996593,
+  "prediction": "In the conversations provided, JenniferMoore frequently emphasizes the importance of staying hydrated both during workouts and before and during matches. She encourages participants to keep track of their water intake and suggests that proper hydration is crucial for performance and recovery. Additionally, LiHua mentions the importance of hydration and recommends using electrolyte drinks after workouts, highlighting the need for adequate fluid intake before and during activities. Therefore, both JenniferMoore and LiHua remind everyone to drink water before and during the match.",
+  "prediction_sha256": "b1ff124cc1325b5274df2fa4931cea15fc648cc242da3bf6939842809e5cae4e",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200121,
+  "usage": {
+    "completion_tokens": 99,
+    "prompt_tokens": 3987,
+    "prompt_tokens_details": null,
+    "total_tokens": 4086
+  }
+}

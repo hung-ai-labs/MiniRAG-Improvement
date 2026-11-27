@@ -1,0 +1,17 @@
+{
+  "body_sha256": "33d7b7c22f5c97453a20a384e6fbd6647138061ffb3d9432e12706819fc39fbe",
+  "finish_reason": "stop",
+  "latency_s": 11.22021500000119,
+  "prediction": "In July, Hailey Johnson requested feedback from Li Hua regarding the bread-tasting event she was organizing. Specifically, Hailey expressed her desire to gather customer feedback on the different bread varieties. She invited Li Hua to chat with customers and collect their thoughts on the breads, potentially jotting down some favorites. Hailey was keen on using the feedback to further improve the bread offerings. Li Hua agreed to assist and expressed enthusiasm for the event, indicating that she would bring her notepad to document the conversations.",
+  "prediction_sha256": "f646f4562b8fe37dac1c0a0180739504a0f642ea45113c807ba9cbeb9181b519",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 181,
+  "usage": {
+    "completion_tokens": 106,
+    "prompt_tokens": 4697,
+    "prompt_tokens_details": null,
+    "total_tokens": 4803
+  }
+}

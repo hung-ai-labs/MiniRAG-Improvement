@@ -1,0 +1,17 @@
+{
+  "body_sha256": "10110eb7a03f61c2ba8989c61916a6ccb33227ccecb1a2ff3303d46a816e3624",
+  "finish_reason": "stop",
+  "latency_s": 9.519325000001118,
+  "prediction": "In a discussion about experimenting with binaural tones, ChaeSong-hwa suggests that these tones could enhance their sound and create a unique listening experience for their audience. Specifically, he indicates that incorporating binaural tones could \"really enhance our sound\" and potentially \"create a unique listening experience for our audience.\" He invites his colleagues to consider testing out binaural tones in their next jam session, suggesting it could add a new dimension to their music.",
+  "prediction_sha256": "306313f2b3c57622848d3000bf4b5a059c867ce0fc0b6b4206dff8b98cc88420",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 29,
+  "usage": {
+    "completion_tokens": 93,
+    "prompt_tokens": 4350,
+    "prompt_tokens_details": null,
+    "total_tokens": 4443
+  }
+}

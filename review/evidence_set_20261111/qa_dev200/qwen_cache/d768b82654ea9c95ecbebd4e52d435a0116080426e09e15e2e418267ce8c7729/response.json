@@ -1,0 +1,17 @@
+{
+  "body_sha256": "d768b82654ea9c95ecbebd4e52d435a0116080426e09e15e2e418267ce8c7729",
+  "finish_reason": "stop",
+  "latency_s": 3.439286250002624,
+  "prediction": "There is no information provided about the color Li Hua decided to paint the walls of the basement after the renovation. The conversation focuses primarily on Li Hua asking for permission to add sound-insulating pads and Adam Smith's approval, but does not mention the final paint color chosen.",
+  "prediction_sha256": "8a849273f526f46b52f7776db62a5ae9601032856edb62ab92b91aea836a2340",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100041,
+  "usage": {
+    "completion_tokens": 57,
+    "prompt_tokens": 3822,
+    "prompt_tokens_details": null,
+    "total_tokens": 3879
+  }
+}

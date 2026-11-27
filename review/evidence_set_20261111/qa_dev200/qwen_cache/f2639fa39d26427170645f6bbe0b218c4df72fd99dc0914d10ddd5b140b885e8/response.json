@@ -1,0 +1,17 @@
+{
+  "body_sha256": "f2639fa39d26427170645f6bbe0b218c4df72fd99dc0914d10ddd5b140b885e8",
+  "finish_reason": "stop",
+  "latency_s": 17.637981792002392,
+  "prediction": "Based on the information provided in the data, Pep Guardiola's playing style, particularly with his tenure at FC Barcelona, emphasized a highly tactical and innovative approach. This included a focus on possession-based football, where the team aimed to maintain control of the ball and dictate the pace of the game. Guardiola's system also featured a strong emphasis on pressing the opposition, using it as a tool to disrupt their play and gain the upper hand. Additionally, his teams were known for their counter-attacking abilities, exploiting mistakes made by the opposing team. The success of this style is evidenced by the numerous victories Guardiola achieved with Barcelona, including notable matches against Real Madrid and other top European teams.",
+  "prediction_sha256": "5023cda3dbca6bc13e638e5f11e13cea1fc553f59752b4caaf27ec35a777dd28",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200169,
+  "usage": {
+    "completion_tokens": 140,
+    "prompt_tokens": 4927,
+    "prompt_tokens_details": null,
+    "total_tokens": 5067
+  }
+}

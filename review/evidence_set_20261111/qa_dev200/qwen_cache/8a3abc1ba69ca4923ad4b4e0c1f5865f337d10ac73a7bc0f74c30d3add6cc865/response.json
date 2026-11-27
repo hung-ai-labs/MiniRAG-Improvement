@@ -1,0 +1,17 @@
+{
+  "body_sha256": "8a3abc1ba69ca4923ad4b4e0c1f5865f337d10ac73a7bc0f74c30d3add6cc865",
+  "finish_reason": "stop",
+  "latency_s": 10.70670791700104,
+  "prediction": "Based on the timeline provided in the conversation, Wolfgang's promotion announcement occurred on the message dated \"Time: 20260430_17:00\". This message reads: \"Hey! Just a reminder about dinner tonight at 6 PM at Venedia Grancaffe. Can’t wait to celebrate my promotion! 🎉🍝\". Following this, Wolfgang invites Li Hua to dinner that same evening at 6 PM. Therefore, Wolfgang's promotion announcement did indeed happen before he invited Li Hua for dinner on April 30th.",
+  "prediction_sha256": "105c5008180a78fa4ec7b4a1cf8e5b02014afbbc1172e526310ad83d20b9df26",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100183,
+  "usage": {
+    "completion_tokens": 116,
+    "prompt_tokens": 3420,
+    "prompt_tokens_details": null,
+    "total_tokens": 3536
+  }
+}

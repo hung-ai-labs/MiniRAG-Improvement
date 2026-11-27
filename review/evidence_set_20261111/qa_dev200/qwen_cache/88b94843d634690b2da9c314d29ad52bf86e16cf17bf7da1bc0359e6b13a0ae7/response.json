@@ -1,0 +1,17 @@
+{
+  "body_sha256": "88b94843d634690b2da9c314d29ad52bf86e16cf17bf7da1bc0359e6b13a0ae7",
+  "finish_reason": "stop",
+  "latency_s": 10.34262562499498,
+  "prediction": "In the conversation, Ileana expresses her enthusiasm for a game with a unique world and compelling storytelling. Specifically, she mentions \"God of War.\" She describes it as being \"just so immersive\" and praises the graphics and storytelling within the game. While other games like \"Horizon Forbidden West\" and \"Skyrim\" are also discussed, Ileana's particular interest seems to center around \"God of War.\"",
+  "prediction_sha256": "c63c220893c874915da556ff5704482805d80dc967eadb317d828fea18162019",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200015,
+  "usage": {
+    "completion_tokens": 85,
+    "prompt_tokens": 3853,
+    "prompt_tokens_details": null,
+    "total_tokens": 3938
+  }
+}

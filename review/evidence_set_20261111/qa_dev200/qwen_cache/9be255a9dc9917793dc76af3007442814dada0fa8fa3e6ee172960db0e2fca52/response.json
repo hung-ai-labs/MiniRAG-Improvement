@@ -1,0 +1,17 @@
+{
+  "body_sha256": "9be255a9dc9917793dc76af3007442814dada0fa8fa3e6ee172960db0e2fca52",
+  "finish_reason": "stop",
+  "latency_s": 9.912702250003349,
+  "prediction": "Based on the conversations provided, WolfgangSchulz recommends a new pizza place downtown as his favorite spot for pizza. LiHua expresses interest in trying that place, stating, \"I've been wanting to try that place!\" However, there is no specific mention of what type of pizza LiHua likes. Therefore, we can only infer that she prefers the pizza from the new downtown location recommended by WolfgangSchulz.",
+  "prediction_sha256": "7e9afffa138cdaf7380405a2b02c936880683d2d18734f906349c21f6486f135",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 198,
+  "usage": {
+    "completion_tokens": 86,
+    "prompt_tokens": 3507,
+    "prompt_tokens_details": null,
+    "total_tokens": 3593
+  }
+}

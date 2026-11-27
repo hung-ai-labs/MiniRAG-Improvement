@@ -1,0 +1,17 @@
+{
+  "body_sha256": "748d7d199941940b40747b3bce6462db402daae464651d91c834d3e8a18798b6",
+  "finish_reason": "stop",
+  "latency_s": 7.468307749993983,
+  "prediction": "According to the conversation, Li Hua received the curtains \"yesterday.\" Specifically, the dialogue states, \"LiHua: Yep, I have received it yesterday! Thanks so much, Adam!\" This indicates that the curtains were delivered to Li Hua the day before the conversation took place.",
+  "prediction_sha256": "6f7c11505bd1c62e497849c54bd93999bbb6e9acda80f234de2b534ca0e64577",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200042,
+  "usage": {
+    "completion_tokens": 60,
+    "prompt_tokens": 4038,
+    "prompt_tokens_details": null,
+    "total_tokens": 4098
+  }
+}

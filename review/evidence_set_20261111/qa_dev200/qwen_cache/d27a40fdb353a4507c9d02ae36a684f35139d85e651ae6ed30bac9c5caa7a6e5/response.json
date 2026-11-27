@@ -1,0 +1,17 @@
+{
+  "body_sha256": "d27a40fdb353a4507c9d02ae36a684f35139d85e651ae6ed30bac9c5caa7a6e5",
+  "finish_reason": "stop",
+  "latency_s": 6.365090499999496,
+  "prediction": "During the picnic planning discussion, RexxarRemar suggested having water and drinks available to keep everyone hydrated, especially considering the possibility of warm weather outdoors. He highlighted the importance of hydration, particularly during outdoor events like picnics, to ensure participants remain energized and comfortable.",
+  "prediction_sha256": "9ba775ea45f2cf8f71ded8afabe5aef8ab7b2d0a2f7da6583df2493e2ce99fa3",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 109,
+  "usage": {
+    "completion_tokens": 57,
+    "prompt_tokens": 4360,
+    "prompt_tokens_details": null,
+    "total_tokens": 4417
+  }
+}

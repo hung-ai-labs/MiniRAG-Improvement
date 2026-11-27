@@ -1,0 +1,17 @@
+{
+  "body_sha256": "46a7a19d16b9182fe4a1b2507a7b162a9e9061b57ee8d3c304cb91854616e004",
+  "finish_reason": "stop",
+  "latency_s": 9.917109875001188,
+  "prediction": "In the conversation, AdamSmith offers to help LiHua with the installation of the curtains. This is evident from the dialogue where AdamSmith expresses willingness to assist LiHua with the curtain installation and even suggests setting a suitable time for it, saying, \"Sure, I’m free most evenings. Let me know what works for you!\" LiHua then agrees, saying, \"Great! See you then!\" This indicates that AdamSmith is offering his assistance with the installation.",
+  "prediction_sha256": "0caf79413c29fb9fc4462d318653641fedf4bfada3ab28d78f207c86cf5fbbee",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 162,
+  "usage": {
+    "completion_tokens": 97,
+    "prompt_tokens": 4866,
+    "prompt_tokens_details": null,
+    "total_tokens": 4963
+  }
+}

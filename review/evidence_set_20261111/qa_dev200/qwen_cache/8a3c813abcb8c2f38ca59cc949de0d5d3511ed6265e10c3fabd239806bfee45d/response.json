@@ -1,0 +1,17 @@
+{
+  "body_sha256": "8a3c813abcb8c2f38ca59cc949de0d5d3511ed6265e10c3fabd239806bfee45d",
+  "finish_reason": "stop",
+  "latency_s": 10.077932583997608,
+  "prediction": "In the conversation, AdamSmith extends a friendly reminder to LiHua about the rent being due soon. He suggests that if LiHua needs any payment options or has any questions, she should feel free to reach out to him. This offer is made during the exchange about upcoming payments and potential assistance needed.",
+  "prediction_sha256": "96e4fa26af1b29fb2c5f45997dacda7693cec40d1b8b05e70ffa954c4f548472",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100177,
+  "usage": {
+    "completion_tokens": 63,
+    "prompt_tokens": 4111,
+    "prompt_tokens_details": null,
+    "total_tokens": 4174
+  }
+}

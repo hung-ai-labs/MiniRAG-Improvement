@@ -1,0 +1,17 @@
+{
+  "body_sha256": "7000e60981d45d0b0b4712072d79300cd93440551450402a0f1a99bedaa25d8f",
+  "finish_reason": "stop",
+  "latency_s": 63.26603174999764,
+  "prediction": "Based on the conversation recorded in source 9, LiHua proposes having dinner at 7 PM on 20260930. Specifically, LiHua says, \"How about 7 pm? That should give us enough time to get ready!\" and WolfgangSchulz replies, \"7 pm works for me! Can’t wait for all that spicy goodness!\" Thus, the proposed dinner time is 7:00 PM on September 30, 2026.",
+  "prediction_sha256": "4e1b197f586911359e5ace70570fd2aa604cdd80afb3fcde0977301ed4dd0d6a",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 53,
+  "usage": {
+    "completion_tokens": 104,
+    "prompt_tokens": 5119,
+    "prompt_tokens_details": null,
+    "total_tokens": 5223
+  }
+}

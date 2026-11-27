@@ -1,0 +1,17 @@
+{
+  "body_sha256": "6fbeb9bc411f21f9fd325e31684c775af9c6c2f5317fd02918513a40a4632360",
+  "finish_reason": "stop",
+  "latency_s": 10.139089875001446,
+  "prediction": "Based on the conversation, Li Hua prefers a medium rare burger patty. In one instance, Li Hua expresses her enjoyment of the \"juicy texture\" of a medium rare patty, indicating that she values this specific level of doneness. This preference contrasts with Wolfgang Schulz's inclination towards a well-done patty, which he believes is safer and more flavorful. However, it is worth noting that Li Hua acknowledges Wolfgang's perspective and even suggests a \"little experiment\" once in a while, showing that she respects his opinion.",
+  "prediction_sha256": "cfcf53a8870da92096956ec06f40df5fcc5da96e1581bda4d9a603ece3124dc5",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 48,
+  "usage": {
+    "completion_tokens": 111,
+    "prompt_tokens": 3439,
+    "prompt_tokens_details": null,
+    "total_tokens": 3550
+  }
+}

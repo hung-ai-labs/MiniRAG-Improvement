@@ -1,0 +1,17 @@
+{
+  "body_sha256": "f7f2b9d3fcb20aecab6c0f9a22ccf4940306ebe02683caab400fc48eb9163fe3",
+  "finish_reason": "stop",
+  "latency_s": 10.516864833,
+  "prediction": "According to the conversation, WolfgangSchulz prefers classic margherita pizza. He specifically states, \"I'm all about that classic margherita. Simple but so good!\" Additionally, he mentions enjoying a nice cold drink with his pizza, which suggests he doesn't have a particular preference for a type of beverage to accompany his meal.",
+  "prediction_sha256": "85ab7dc179e4964a89278482af182b8e7611bf5ecd1f4ea2f4cd6a3ab1402bd3",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100148,
+  "usage": {
+    "completion_tokens": 69,
+    "prompt_tokens": 4424,
+    "prompt_tokens_details": null,
+    "total_tokens": 4493
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "5b390c1840284692349d821174fba6996ea018a55c20350e7158247971ac6fdf",
+  "finish_reason": "stop",
+  "latency_s": 9.636118624999654,
+  "prediction": "In one of the conversations shared, Wolfgang expressed interest in visiting a new pizza place downtown. He mentioned that he had been hearing good things about it and suggested that LiHua and he should check it out sometime. This indicates that Wolfgang found a new dining option he believes LiHua might also enjoy, showcasing his enthusiasm for discovering new experiences.",
+  "prediction_sha256": "b39920bde38d061540c0ac6a5b64799fd7d800a90c38d78a9bbcc974250361e8",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 102,
+  "usage": {
+    "completion_tokens": 70,
+    "prompt_tokens": 4481,
+    "prompt_tokens_details": null,
+    "total_tokens": 4551
+  }
+}

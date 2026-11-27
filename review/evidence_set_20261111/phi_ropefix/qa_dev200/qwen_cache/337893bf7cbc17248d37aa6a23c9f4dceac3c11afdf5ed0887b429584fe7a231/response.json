@@ -1,0 +1,17 @@
+{
+  "body_sha256": "337893bf7cbc17248d37aa6a23c9f4dceac3c11afdf5ed0887b429584fe7a231",
+  "finish_reason": "stop",
+  "latency_s": 9.401823749998584,
+  "prediction": " Ileana praises the **Control Center** feature on the PS5 for making the switching between games smoother. She highlights its convenience, especially when it comes to adjusting audio settings on the fly without the need to pause the game. This feature enhances the overall gaming experience by providing easy access to various controls and settings, which becomes particularly beneficial during intense gameplay.",
+  "prediction_sha256": "154756b9dc69b48eced54f9dab771df278529db3917d3edfded0393ca18f443a",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 200110,
+  "usage": {
+    "completion_tokens": 82,
+    "prompt_tokens": 5040,
+    "prompt_tokens_details": null,
+    "total_tokens": 5122
+  }
+}

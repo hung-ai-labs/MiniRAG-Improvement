@@ -1,0 +1,17 @@
+{
+  "body_sha256": "14f2229f734281fa61bb4d64bfc44eb737188cded2c572f1e624dc8d9cee241a",
+  "finish_reason": "stop",
+  "latency_s": 7.1095497499991325,
+  "prediction": "There is no specific mention of a breathing technique for running in the provided data. The discussions revolve around yoga and its effects on flexibility, recovery, and stress relief, as well as general hydration and nutrition advice. No particular breathing technique related to running is addressed.",
+  "prediction_sha256": "34d7d2051308f6b2132ddede1d640b3c9647ce98b9eb9c7b019f6bd9debde3b4",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 138,
+  "usage": {
+    "completion_tokens": 54,
+    "prompt_tokens": 3479,
+    "prompt_tokens_details": null,
+    "total_tokens": 3533
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "b44d71a7d78359429a3a6ccd3fe7a4626081adc7eb3a32dc6f291cbdac9969bf",
+  "finish_reason": "stop",
+  "latency_s": 6.4316055829986,
+  "prediction": "In the provided data, Giselle is mentioned as reminding and advising for the upcoming practice session. Specifically, she reminds participants to bring balls and water bottles for their practice. This advice suggests that Giselle is proactive in ensuring the practice runs smoothly by preparing for the necessary equipment.",
+  "prediction_sha256": "fac24aa1cbe92141cfbd6baf565b8aa3e3ef61193d0b6a5c9208e1b6136c7031",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100174,
+  "usage": {
+    "completion_tokens": 58,
+    "prompt_tokens": 4419,
+    "prompt_tokens_details": null,
+    "total_tokens": 4477
+  }
+}

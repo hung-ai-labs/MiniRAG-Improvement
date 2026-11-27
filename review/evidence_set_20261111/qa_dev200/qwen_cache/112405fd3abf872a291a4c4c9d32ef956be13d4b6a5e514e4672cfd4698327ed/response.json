@@ -1,0 +1,17 @@
+{
+  "body_sha256": "112405fd3abf872a291a4c4c9d32ef956be13d4b6a5e514e4672cfd4698327ed",
+  "finish_reason": "stop",
+  "latency_s": 10.240823874999478,
+  "prediction": "In the conversation, Ileana expresses enthusiasm for a game that focuses on deep storytelling and immersive worlds, specifically mentioning \"The Last of Us.\" She praises the game for its compelling character growth, moral dilemmas, and the emotional roller coaster it creates through the relationships between Joel and Ellie. This game exemplifies how a rich narrative and complex character dynamics can significantly enhance the player's experience, making it a standout title for its storytelling prowess.",
+  "prediction_sha256": "60c38cebc7c01991acd783ed546b5975cd37381c7a218ab7ffad5717e85a0926",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200015,
+  "usage": {
+    "completion_tokens": 89,
+    "prompt_tokens": 3848,
+    "prompt_tokens_details": null,
+    "total_tokens": 3937
+  }
+}

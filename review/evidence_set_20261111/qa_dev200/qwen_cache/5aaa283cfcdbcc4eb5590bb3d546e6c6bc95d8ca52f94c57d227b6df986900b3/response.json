@@ -1,0 +1,17 @@
+{
+  "body_sha256": "5aaa283cfcdbcc4eb5590bb3d546e6c6bc95d8ca52f94c57d227b6df986900b3",
+  "finish_reason": "stop",
+  "latency_s": 11.335403541997948,
+  "prediction": "In July, Hailey Johnson reached out to Li Hua regarding her new artisanal donuts. Specifically, Hailey asked Li Hua to try the new donuts and provide feedback on which flavor she enjoyed the most. Li Hua expressed that she particularly liked the chocolate hazelnut donut, indicating that it had a perfect balance of sweetness. Hailey appreciated this feedback and was considering adding more flavors to the lineup, with Li Hua suggesting a seasonal fruit flavor like raspberry or lemon. This interaction highlights Hailey's commitment to receiving customer input to continuously improve her bakery offerings.",
+  "prediction_sha256": "53b7c42baf164c561230731d1c6c93270b669cfbbdcf70f4121eb2f6722e3aef",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 181,
+  "usage": {
+    "completion_tokens": 119,
+    "prompt_tokens": 4586,
+    "prompt_tokens_details": null,
+    "total_tokens": 4705
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "090abf86c449ad1f1d77bae18181a1911b3c54615038a06f4b6f175426e7eeee",
+  "finish_reason": "stop",
+  "latency_s": 5.312115791006363,
+  "prediction": " JakeWatson considers both Carles Puyol and Gerard Piqué as some of the best defenders in the history of FC Barcelona. He acknowledges that choosing between them is tough due to their remarkable contributions to the team. Puyol is appreciated for his leadership, fighting spirit, and commitment, while Piqué is recognized for his game intelligence, skill, and ability to score crucial goals. Both players have left a significant impact on the club and inspired subsequent generations of players with their exemplary careers.",
+  "prediction_sha256": "51123eaee32b88a03346b9fd986ca8479d4ac6c5e5463ce457b3b6fefa404209",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 100210,
+  "usage": {
+    "completion_tokens": 112,
+    "prompt_tokens": 3768,
+    "prompt_tokens_details": null,
+    "total_tokens": 3880
+  }
+}

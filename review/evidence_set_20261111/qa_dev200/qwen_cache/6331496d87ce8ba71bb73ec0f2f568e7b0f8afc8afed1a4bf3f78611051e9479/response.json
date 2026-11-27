@@ -1,0 +1,17 @@
+{
+  "body_sha256": "6331496d87ce8ba71bb73ec0f2f568e7b0f8afc8afed1a4bf3f78611051e9479",
+  "finish_reason": "stop",
+  "latency_s": 7.390896666000117,
+  "prediction": "In the conversation between JakeWatson and Li Hua, JakeWatson mentions a recommendation for hydration after a match or intense game. Specifically, JakeWatson advises, \"Water or an electrolyte drink will help.\" Therefore, based on the context provided, JakeWatson recommends using water or an electrolyte drink for hydration after a match.",
+  "prediction_sha256": "3713f7f4ccfa85ec18d55215c0ecb2bf535473af2234f943eda7d808ac44394c",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 122,
+  "usage": {
+    "completion_tokens": 70,
+    "prompt_tokens": 4362,
+    "prompt_tokens_details": null,
+    "total_tokens": 4432
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "80e3a264d1c92b3745a5f374a3421e4b95dd4bf09b205d0ad57db631d933bacd",
+  "finish_reason": "stop",
+  "latency_s": 6.016655124993122,
+  "prediction": "There is no information provided in the given data about anyone suggesting to go to the grocery store after work on 20260923. The events listed do not include any mentions of grocery shopping or similar activities.",
+  "prediction_sha256": "0444908e4cb41216307feac3520fba26f261978a0fa94cd64d9e0a110b7314f7",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100142,
+  "usage": {
+    "completion_tokens": 47,
+    "prompt_tokens": 5475,
+    "prompt_tokens_details": null,
+    "total_tokens": 5522
+  }
+}

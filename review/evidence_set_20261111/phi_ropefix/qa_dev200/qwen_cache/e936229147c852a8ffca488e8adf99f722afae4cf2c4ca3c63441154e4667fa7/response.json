@@ -1,0 +1,17 @@
+{
+  "body_sha256": "e936229147c852a8ffca488e8adf99f722afae4cf2c4ca3c63441154e4667fa7",
+  "finish_reason": "stop",
+  "latency_s": 7.5366337500017835,
+  "prediction": " WolfgangSchulz suggests a new pizza place located downtown, which he has heard good things about and appreciates for its amazing toppings. The specific name of the pizza place is not mentioned in the conversation transcript provided. However, it is clear from the exchange that both WolfgangSchulz and LiHua are interested in dining there together, as they plan to meet around 7 PM to enjoy some good pizza.\n\nIn summary, WolfgangSchulz recommends the downtown pizza place to LiHua, and they agree to try it together, showing their mutual enthusiasm for the venue and its offerings.",
+  "prediction_sha256": "a16a6b8747bb7bf195ff20c43ac4fea655d5dc84ae6667561dd744c8c2f74f64",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 100175,
+  "usage": {
+    "completion_tokens": 140,
+    "prompt_tokens": 4873,
+    "prompt_tokens_details": null,
+    "total_tokens": 5013
+  }
+}

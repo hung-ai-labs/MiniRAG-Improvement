@@ -1,0 +1,17 @@
+{
+  "body_sha256": "a907be2e2e45b0f356a03bcedfe4ff0e0f9b75d02fcc7f7bd75df65137adc147",
+  "finish_reason": "stop",
+  "latency_s": 16.481467541998427,
+  "prediction": "Based on the information provided, Wolfgang did not inquire about Li Hua's preferences for dinner options on different occasions. Specifically, the interactions described in the data do not mention Wolfgang asking Li Hua whether she would prefer pizza or Sichuan hot pot for dinner. The data indicates that Wolfgang and Li Hua discussed having hot pot for dinner once (in Source 1) and pizza for dinner another time (in Sources 2 and 4), but no such query regarding Sichuan hot pot was mentioned. Therefore, there is no evidence to conclude that Wolfgang asked Li Hua if she wants to have Sichuan hot pot for dinner tonight before wondering if she wants to have pizza for dinner after work.",
+  "prediction_sha256": "d446f064914589078115d79364ae8227875493731bd5f80c9841b6e543bfc35a",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 30,
+  "usage": {
+    "completion_tokens": 144,
+    "prompt_tokens": 4881,
+    "prompt_tokens_details": null,
+    "total_tokens": 5025
+  }
+}

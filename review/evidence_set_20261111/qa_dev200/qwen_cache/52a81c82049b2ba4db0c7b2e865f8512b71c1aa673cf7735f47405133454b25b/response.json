@@ -1,0 +1,17 @@
+{
+  "body_sha256": "52a81c82049b2ba4db0c7b2e865f8512b71c1aa673cf7735f47405133454b25b",
+  "finish_reason": "stop",
+  "latency_s": 3.4418284999992466,
+  "prediction": "Jennifer Moore suggests a breathing technique called \"inhaling for 3 steps and exhaling for 2 steps.\" This technique aims to enhance stamina during running workouts. She emphasizes the importance of focusing on controlled breaths, noting that it can be particularly beneficial during long runs.",
+  "prediction_sha256": "903bcd6c69b43caebfedbe01be162756697ecfceceef4e66f933b174791adf44",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100138,
+  "usage": {
+    "completion_tokens": 55,
+    "prompt_tokens": 4112,
+    "prompt_tokens_details": null,
+    "total_tokens": 4167
+  }
+}

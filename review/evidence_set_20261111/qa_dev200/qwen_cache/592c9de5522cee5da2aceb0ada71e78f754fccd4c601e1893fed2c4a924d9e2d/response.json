@@ -1,0 +1,17 @@
+{
+  "body_sha256": "592c9de5522cee5da2aceb0ada71e78f754fccd4c601e1893fed2c4a924d9e2d",
+  "finish_reason": "stop",
+  "latency_s": 9.497308084000906,
+  "prediction": "In the discussion regarding noise control during construction, Turalyon mentions wanting everyone's thoughts on whether temporary barriers should be put up or if quieter tools should be used during the early afternoon hours, specifically from 2-3 pm. Additionally, Turalyon expresses a desire for notifications to residents about any particularly loud work ahead of time. He encourages everyone to share their ideas on how to manage noise effectively to ensure that the renovation process is respectful and enjoyable for all residents.",
+  "prediction_sha256": "17d68265f8d4bea26859db82266c4452c5bdcb0f7dc3e2b784b9ba1bae68d412",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 96,
+  "usage": {
+    "completion_tokens": 95,
+    "prompt_tokens": 3765,
+    "prompt_tokens_details": null,
+    "total_tokens": 3860
+  }
+}

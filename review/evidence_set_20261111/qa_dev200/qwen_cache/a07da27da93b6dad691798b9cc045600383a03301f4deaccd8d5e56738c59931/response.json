@@ -1,0 +1,17 @@
+{
+  "body_sha256": "a07da27da93b6dad691798b9cc045600383a03301f4deaccd8d5e56738c59931",
+  "finish_reason": "stop",
+  "latency_s": 10.652189874999749,
+  "prediction": "No, Wolfgang did not inquire about Li Hua's preference for either pizza or Sichuan hot pot for dinner. Initially, Wolfgang suggested having Sichuan hot pot for dinner tonight, stating, \"Hey! How about grabbing some dinner tonight? I know a nice place we could check out!\" However, shortly after, Wolfgang proposed having pizza instead, saying, \"Hey man! Wanna grab some pizza for dinner after work?\" There is no indication that Wolfgang asked Li Hua which meal she preferred before making these suggestions.",
+  "prediction_sha256": "2e5a7f9ed50b08e1f492aaa1b615e5ae8cdef4987172bfaf4612a99be1ec2cd6",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200030,
+  "usage": {
+    "completion_tokens": 106,
+    "prompt_tokens": 4712,
+    "prompt_tokens_details": null,
+    "total_tokens": 4818
+  }
+}

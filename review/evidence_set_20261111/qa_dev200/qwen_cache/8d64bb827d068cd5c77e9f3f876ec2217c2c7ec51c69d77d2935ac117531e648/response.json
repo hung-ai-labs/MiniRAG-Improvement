@@ -1,0 +1,17 @@
+{
+  "body_sha256": "8d64bb827d068cd5c77e9f3f876ec2217c2c7ec51c69d77d2935ac117531e648",
+  "finish_reason": "stop",
+  "latency_s": 12.555334374999802,
+  "prediction": "Li Hua informed Adam Smith that the rent was transferred on three occasions. The first instance occurred on 20260127 at 20:30, the second on 20260602 at 10:00, and the third on 20260331 at 17:00. In each case, Li Hua updates Adam Smith about the rent payment and often discusses other matters related to their living arrangement, such as the status of the basement or any upcoming plans.",
+  "prediction_sha256": "56f5471a7ffeda396f955ee738c811bdf2629f69be40a36e87cbaff663d55564",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 18,
+  "usage": {
+    "completion_tokens": 116,
+    "prompt_tokens": 4009,
+    "prompt_tokens_details": null,
+    "total_tokens": 4125
+  }
+}

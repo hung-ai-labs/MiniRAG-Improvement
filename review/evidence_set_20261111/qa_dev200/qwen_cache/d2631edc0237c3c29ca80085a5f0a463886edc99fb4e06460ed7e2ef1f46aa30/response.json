@@ -1,0 +1,17 @@
+{
+  "body_sha256": "d2631edc0237c3c29ca80085a5f0a463886edc99fb4e06460ed7e2ef1f46aa30",
+  "finish_reason": "stop",
+  "latency_s": 9.906473208000534,
+  "prediction": "No reminders were sent regarding the rent due date prior to Li Hua's message on March 1st confirming she had already transferred the rent. On February 19th, Adam Smith did send a brief reminder to Li Hua about picking up the key for the basement at 9 AM, but this was unrelated to the rent payment. There is no indication of any previous communication from Adam Smith specifically about the rent due date.",
+  "prediction_sha256": "f165fc4c907ca0426c1b2810da6fb181b4047f72f6ce74087cf7eb2ebb1971d6",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100014,
+  "usage": {
+    "completion_tokens": 88,
+    "prompt_tokens": 4421,
+    "prompt_tokens_details": null,
+    "total_tokens": 4509
+  }
+}

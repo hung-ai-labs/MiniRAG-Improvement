@@ -1,0 +1,17 @@
+{
+  "body_sha256": "b3db6a93c9e287352b5a0fdead3f086f320861bf42bbc059dcd1566d8f084bf6",
+  "finish_reason": "stop",
+  "latency_s": 11.426434458000585,
+  "prediction": "During August, LiHua organized a photography exhibition which he invited WolfgangSchulz to attend. The invitation came from LiHua in a message dated 20260801_19:00, where he suggested going on a Friday evening for the event, as it would be less crowded. WolfgangSchulz agreed enthusiastically, and they planned to meet on Friday at 19:00 for the exhibition. Thus, WolfgangSchulz is the person LiHua invited to attend the photography exhibition in August.",
+  "prediction_sha256": "b917c084d499774ea7b06a2745323d369a5257f79bf39da4db1e9bae4aeb9761",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200093,
+  "usage": {
+    "completion_tokens": 113,
+    "prompt_tokens": 3927,
+    "prompt_tokens_details": null,
+    "total_tokens": 4040
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "282f86f97304ff25867cd5634d9bd2938f7a4d720197d8371ad1d811e0ad7576",
+  "finish_reason": "stop",
+  "latency_s": 6.065108249997138,
+  "prediction": "In the discussion recorded on July 2nd, Turalyon expresses his interest in hearing everyone's thoughts on the schedule for the community sports day. He mentions that it’s a \"great chance to get involved, meet neighbors, and have some fun!\" He asks, \"Who’s excited?\" and encourages others to share their enthusiasm, indicating that he wants to gather opinions on whether the community sports day will be a success and how it can be made enjoyable for everyone.",
+  "prediction_sha256": "4841513566c7c3262f3e0c62c25c8b790ce9f97702690503728ee165809d9e18",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100096,
+  "usage": {
+    "completion_tokens": 95,
+    "prompt_tokens": 3765,
+    "prompt_tokens_details": null,
+    "total_tokens": 3860
+  }
+}

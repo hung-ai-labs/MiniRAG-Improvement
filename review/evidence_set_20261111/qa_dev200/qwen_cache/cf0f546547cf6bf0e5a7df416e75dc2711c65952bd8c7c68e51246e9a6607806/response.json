@@ -1,0 +1,17 @@
+{
+  "body_sha256": "cf0f546547cf6bf0e5a7df416e75dc2711c65952bd8c7c68e51246e9a6607806",
+  "finish_reason": "stop",
+  "latency_s": 9.312151999998605,
+  "prediction": "In the conversation recorded on 20260514, Li Hua mentions that he tried a new pastry from Hailey's bakery and found it delicious. Specifically, Li Hua states, \"I tried that new pastry you have! It was delicious. I'll definitely be coming back for more.\" This indicates that the new pastry Li Hua expresses interest in trying is indeed the new pastry introduced by Hailey on that occasion. Given that it was a new pastry that Li Hua tried and enjoyed, it likely fits within the description of \"NEW PASTRY\" mentioned in the entities table.",
+  "prediction_sha256": "3c8b50b678f6a1f964838cc89462b6b99e101111f822c9638d3af14b959ffc60",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 195,
+  "usage": {
+    "completion_tokens": 125,
+    "prompt_tokens": 4452,
+    "prompt_tokens_details": null,
+    "total_tokens": 4577
+  }
+}

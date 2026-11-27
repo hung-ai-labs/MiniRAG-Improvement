@@ -1,0 +1,17 @@
+{
+  "body_sha256": "de43ef00d1f2d543e8ad745d5a6ba411936056227258370d5dfc276173c5e41f",
+  "finish_reason": "stop",
+  "latency_s": 8.357907207995595,
+  "prediction": "LiHua is planning a photography exhibition that is taking place in August. During one of their conversations, WolfgangSchulz expresses interest in joining LiHua for the exhibition. Specifically, LiHua suggests they meet on Friday evening, which he thinks would be less crowded than other days. WolfgangSchulz agrees and mentions he’s looking forward to the time they spend together viewing the exhibits. Thus, WolfgangSchulz is the person LiHua wants to invite to the photography exhibition during August.",
+  "prediction_sha256": "5934ffcd9f546a53bad55c5b8456c87fde9e963799e25dd3dd19ee6d7e8a70bf",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100093,
+  "usage": {
+    "completion_tokens": 103,
+    "prompt_tokens": 4541,
+    "prompt_tokens_details": null,
+    "total_tokens": 4644
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "83625d8ca712806019b31a30397581069d7f0277f3668c55a3ac69e738e6005e",
+  "finish_reason": "stop",
+  "latency_s": 62.108078833000036,
+  "prediction": "There is no information provided in the given data about a video LiHua sending to a band group chat on 20260624. The data only contains timestamps and descriptions of events or communications, but does not mention any videos sent within group chats.",
+  "prediction_sha256": "2de99ea4f96a2ced9a858345e9d4b93e79da262b4f8e6d9f10fa053f73c110d2",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 65,
+  "usage": {
+    "completion_tokens": 56,
+    "prompt_tokens": 4771,
+    "prompt_tokens_details": null,
+    "total_tokens": 4827
+  }
+}

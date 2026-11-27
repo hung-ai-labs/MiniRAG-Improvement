@@ -1,0 +1,17 @@
+{
+  "body_sha256": "6a53f92c5c2d312a15defc8c492edd5e737a02af649a8b8a62934beb0e182692",
+  "finish_reason": "stop",
+  "latency_s": 62.998405500002264,
+  "prediction": "There are no entries in the provided data for a grocery store visit on 20260923. The conversations involve plans for various activities including concerts, dinners, movie nights, and a photography exhibition. WolfgangSchulz is mentioned in a couple of these conversations, but there is no mention of a grocery store trip. Therefore, based on the information provided, there is no proposed time for WolfgangSchulz to go to the grocery store on 20260923.",
+  "prediction_sha256": "b84378b833858efb6668a6b785b274c42592dd68556b42aacf1bf599e9750c9a",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 116,
+  "usage": {
+    "completion_tokens": 104,
+    "prompt_tokens": 4465,
+    "prompt_tokens_details": null,
+    "total_tokens": 4569
+  }
+}

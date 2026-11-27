@@ -1,0 +1,17 @@
+{
+  "body_sha256": "a99f387b599a4ddb4dc83aef21dd0231ad2f060011073af3281e421f1d5072c3",
+  "finish_reason": "stop",
+  "latency_s": 8.813464041006227,
+  "prediction": " According to the data provided in the tables, WolfgangSchulz informs LiHua that the new software he has been working on is almost done. This information is shared during a time stamped conversation, specifically on the date \"20261002_13:00,\" as documented in the content source with the id \"0\". WolfgangSchulz expresses his excitement and anticipation for LiHua to try the software, affirming that LiHua will be among the first users and emphasizing the effort put into making the software user-friendly.",
+  "prediction_sha256": "c2f7b751eb12083423925c4c946a08aed856c0d75d598c39581c04c6f60b46bb",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 200032,
+  "usage": {
+    "completion_tokens": 123,
+    "prompt_tokens": 4650,
+    "prompt_tokens_details": null,
+    "total_tokens": 4773
+  }
+}

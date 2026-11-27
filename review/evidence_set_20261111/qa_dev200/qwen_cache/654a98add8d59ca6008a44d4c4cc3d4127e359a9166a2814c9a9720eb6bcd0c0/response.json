@@ -1,0 +1,17 @@
+{
+  "body_sha256": "654a98add8d59ca6008a44d4c4cc3d4127e359a9166a2814c9a9720eb6bcd0c0",
+  "finish_reason": "stop",
+  "latency_s": 7.746091750006599,
+  "prediction": "According to the conversation shared, there is a community bake sale scheduled to take place on a Sunday at 3 PM. This event aims to support a local charity and encourages community members to gather and support each other through the sale of baked goods.",
+  "prediction_sha256": "fc012661da1142c8eae2d4eac2d0f46eb448f7951bfafa886477310fc3a374bb",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100090,
+  "usage": {
+    "completion_tokens": 50,
+    "prompt_tokens": 4017,
+    "prompt_tokens_details": null,
+    "total_tokens": 4067
+  }
+}

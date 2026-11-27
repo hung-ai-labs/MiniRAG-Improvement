@@ -1,0 +1,17 @@
+{
+  "body_sha256": "266eea73fefb0c096ca9ddb168e5fc1427720c5bb756c49da2541c9a2f65a2df",
+  "finish_reason": "stop",
+  "latency_s": 7.858655750000253,
+  "prediction": "On 20260920_16:00, LiHua and Thane Chambers discussed various topics including a first-person shooter game. While LiHua didn't specify the exact game, Thane Chambers mentioned that LiHua was currently playing \"Call of Duty: Warzone,\" a popular battle royale game. LiHua expressed his enjoyment of the strategy involved in the game and highlighted the excitement of the adrenaline rush during the final rounds.",
+  "prediction_sha256": "8fb188199f2d23cafad22bc5c4945af322c4739c5bf5804a41d20ea71b137328",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 194,
+  "usage": {
+    "completion_tokens": 98,
+    "prompt_tokens": 5157,
+    "prompt_tokens_details": null,
+    "total_tokens": 5255
+  }
+}

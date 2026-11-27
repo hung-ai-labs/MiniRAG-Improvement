@@ -1,0 +1,17 @@
+{
+  "body_sha256": "3e898d98e69da651947aec576de1e3b6ced4727af67d8b6a8d51e5c632ec613b",
+  "finish_reason": "stop",
+  "latency_s": 7.968819917005021,
+  "prediction": "On the conversation dated 20260920_16:00, LiHua and Thane Chambers discussed various topics including gaming preferences. Specifically, LiHua mentioned that he had been playing \"Call of Duty: Warzone\" recently, describing it as a fun battle royale mode. No other games are explicitly mentioned in this particular conversation.",
+  "prediction_sha256": "1adec57180ddebf0985fb2f6d8213a4d7e6ccaff7c8c4d710831c58a23af4a36",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200194,
+  "usage": {
+    "completion_tokens": 77,
+    "prompt_tokens": 4739,
+    "prompt_tokens_details": null,
+    "total_tokens": 4816
+  }
+}

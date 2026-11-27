@@ -1,0 +1,17 @@
+{
+  "body_sha256": "fc38426655dc7480c7ea28aea6eb0a90d5ed85fa37672df05f3c627ff5cf3fc3",
+  "finish_reason": "stop",
+  "latency_s": 13.450369624995801,
+  "prediction": "In the given data, there are multiple instances of soccer practice being planned. Specifically, Farrah mentions that they plan to meet around 3 PM for a practice session, which includes focusing on passing drills for the first hour and then mixing in shooting practice after that. This suggests that the group plans to meet at a location that can accommodate both passing drills and shooting practice, likely a field or a designated sports area. Additionally, Dacey proposes this time and date for a soccer practice session, indicating that this is a common and agreed-upon time for the group to meet for soccer practice.",
+  "prediction_sha256": "8cf79bf3f6363d330abd5560c1358d17df2e4a04cd009ffe5de77c754b750092",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200097,
+  "usage": {
+    "completion_tokens": 119,
+    "prompt_tokens": 5207,
+    "prompt_tokens_details": null,
+    "total_tokens": 5326
+  }
+}

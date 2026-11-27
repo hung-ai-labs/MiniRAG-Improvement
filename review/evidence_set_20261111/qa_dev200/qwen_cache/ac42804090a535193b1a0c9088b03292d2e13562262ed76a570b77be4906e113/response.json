@@ -1,0 +1,17 @@
+{
+  "body_sha256": "ac42804090a535193b1a0c9088b03292d2e13562262ed76a570b77be4906e113",
+  "finish_reason": "stop",
+  "latency_s": 8.942953750003653,
+  "prediction": "In the conversation recorded on 20260329_10:00, Yuriko introduces an online tutorial she has found on advanced drum techniques. She invites her peers to check it out and share any tips they might have learned from it. Specifically, the topic of the online tutorial is advanced drum techniques, which Yuriko hopes will aid her in her practice.",
+  "prediction_sha256": "99d0bd2856295f5b90c12c8c02662e7fb0fa7cbaaddff4307ed8e5f459ff72b6",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200045,
+  "usage": {
+    "completion_tokens": 81,
+    "prompt_tokens": 4021,
+    "prompt_tokens_details": null,
+    "total_tokens": 4102
+  }
+}

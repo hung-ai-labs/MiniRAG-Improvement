@@ -1,0 +1,17 @@
+{
+  "body_sha256": "ed5d1999dd7652a0f7323ab9bac732cfba50077193afc4a3d396e52eac8b9aeb",
+  "finish_reason": "stop",
+  "latency_s": 8.193745583001146,
+  "prediction": "Wolfgang and LiHua plan to visit the local music store for a music-related activity. This intention is clearly stated in the description of the entity \"LOCAL MUSIC STORE,\" which indicates that they intend to go there for a music-related purpose. Specifically, they discuss checking out new gear and getting inspired for their next jam session, suggesting their visit is planned to enhance their musical capabilities and enjoyment.",
+  "prediction_sha256": "4820c84257fbea2711cd3d1e3e743538aac8ca825facf9bf5f4c69aaa36afd45",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 81,
+  "usage": {
+    "completion_tokens": 81,
+    "prompt_tokens": 4448,
+    "prompt_tokens_details": null,
+    "total_tokens": 4529
+  }
+}

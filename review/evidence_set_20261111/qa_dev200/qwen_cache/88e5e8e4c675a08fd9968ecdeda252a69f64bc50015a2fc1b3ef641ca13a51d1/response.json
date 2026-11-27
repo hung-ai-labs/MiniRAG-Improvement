@@ -1,0 +1,17 @@
+{
+  "body_sha256": "88e5e8e4c675a08fd9968ecdeda252a69f64bc50015a2fc1b3ef641ca13a51d1",
+  "finish_reason": "stop",
+  "latency_s": 11.431444166999427,
+  "prediction": "In the conversation regarding the karaoke playlist, LiHua and Chae discuss several song ideas. Initially, LiHua suggests including some classics like \"I Will Survive\" or \"Sweet Caroline,\" which he describes as crowd-pleasers. Later, they decide to include \"Sweet Home Alabama\" and \"Dancing Queen\" based on Wolfgang's preference for upbeat songs. Additionally, LiHua mentions a medley idea, suggesting \"Sweet Home Alabama\" and \"Blackbird.\" These songs are proposed as a mix of classic rock and other genres to create a diverse and enjoyable playlist for their karaoke session.",
+  "prediction_sha256": "7be5d159c635daabd0afd8084e5772341bf355fb21bf48e34e33f6f47f38ae38",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200074,
+  "usage": {
+    "completion_tokens": 125,
+    "prompt_tokens": 3746,
+    "prompt_tokens_details": null,
+    "total_tokens": 3871
+  }
+}

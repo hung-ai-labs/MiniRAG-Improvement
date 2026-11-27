@@ -1,0 +1,17 @@
+{
+  "body_sha256": "85222b29461b66b8bfc329b42f63beaa508360ac2c5d62ec49ff3b2846351b28",
+  "finish_reason": "stop",
+  "latency_s": 10.419332749996101,
+  "prediction": "Based on the conversation between Jennifer Moore and Li Hua, Jennifer recommends whey protein as the best type of protein supplement for Li Hua's fitness goals. She suggests that whey protein is great for muscle recovery and building lean mass. Additionally, she mentions that if Li Hua is interested in plant-based options, pea or rice protein can also be good choices. However, Jennifer advises checking the ingredients for added sugars or fillers. There is no mention of a specific brand of protein supplement in the provided conversation.",
+  "prediction_sha256": "5fd8216971fcff2f60d2f1f5a4da98363480056aa69809a30204888a80f4f079",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100079,
+  "usage": {
+    "completion_tokens": 105,
+    "prompt_tokens": 4304,
+    "prompt_tokens_details": null,
+    "total_tokens": 4409
+  }
+}

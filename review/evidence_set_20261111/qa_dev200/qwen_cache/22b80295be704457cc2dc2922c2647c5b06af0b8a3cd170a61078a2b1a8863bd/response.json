@@ -1,0 +1,17 @@
+{
+  "body_sha256": "22b80295be704457cc2dc2922c2647c5b06af0b8a3cd170a61078a2b1a8863bd",
+  "finish_reason": "stop",
+  "latency_s": 8.831876791999093,
+  "prediction": "From the conversation between Adam Smith and LiHua, we learn that LiHua likes pizza, but her specific preferences regarding types of pizza are not detailed. LiHua expresses interest in trying a new pizza place downtown that Wolfgang Schulz recommends, indicating that she enjoys pizza but has not specified a particular type she prefers.",
+  "prediction_sha256": "6fbeca2df08453abe295faef974683d4b5220d1387415647840649967495a17c",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200198,
+  "usage": {
+    "completion_tokens": 66,
+    "prompt_tokens": 4460,
+    "prompt_tokens_details": null,
+    "total_tokens": 4526
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "8198f36af10d953d74b8e3cf377c0f434f80ccc78c5b69a8022a6866e9b176c7",
+  "finish_reason": "stop",
+  "latency_s": 9.307904624998628,
+  "prediction": "The construction of the garden is scheduled to start on Wednesday, as indicated by the conversation snippet dated \"20260518_10:00\" where Turalyon reminds everyone that construction begins on that day.",
+  "prediction_sha256": "388bfecbea854ea3cab01b161ef9574e0d2910356de518acf1991a5119bf8755",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100034,
+  "usage": {
+    "completion_tokens": 49,
+    "prompt_tokens": 5014,
+    "prompt_tokens_details": null,
+    "total_tokens": 5063
+  }
+}

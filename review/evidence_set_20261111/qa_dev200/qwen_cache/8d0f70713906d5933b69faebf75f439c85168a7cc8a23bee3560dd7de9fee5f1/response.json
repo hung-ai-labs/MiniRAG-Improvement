@@ -1,0 +1,17 @@
+{
+  "body_sha256": "8d0f70713906d5933b69faebf75f439c85168a7cc8a23bee3560dd7de9fee5f1",
+  "finish_reason": "stop",
+  "latency_s": 12.375837750005303,
+  "prediction": "Helios is currently playing \"Horizon Forbidden West,\" which he finds to have a stunning world and top-notch gameplay mechanics. He particularly enjoys the wild new machines in the game and praises the world's diversity and the challenges they bring.",
+  "prediction_sha256": "8fa95dbc080ebe34b8ba92aa268e1233e83af26b59e877c409a781d0c73559ef",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100100,
+  "usage": {
+    "completion_tokens": 48,
+    "prompt_tokens": 4191,
+    "prompt_tokens_details": null,
+    "total_tokens": 4239
+  }
+}

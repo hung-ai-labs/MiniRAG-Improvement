@@ -1,0 +1,17 @@
+{
+  "body_sha256": "2b9871ee73fe21f07297de29d91a0d0140acbd3f0915fd7953cd27e8ac64e121",
+  "finish_reason": "stop",
+  "latency_s": 9.8395668330013,
+  "prediction": "In the conversation between ChaeSong-hwa and LiHua regarding the karaoke activity, LiHua suggests adding two songs to the playlist. Initially, he proposes \"I Will Survive\" or a similar upbeat song like \"Sweet Caroline.\" Later in the conversation, LiHua expresses a preference for \"Sweet Caroline,\" describing it as a \"crowd-pleaser,\" and then suggests \"Dancing Queen,\" which he describes as a \"fun song to belt out.\" LiHua also recommends \"Shallow\" and \"Shake It Off\" as part of the mix of classic favorites and popular songs.",
+  "prediction_sha256": "cb3af9e739df54bb873298e6cd0db94e7768a39350f9835e3af914cab939ba48",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 74,
+  "usage": {
+    "completion_tokens": 126,
+    "prompt_tokens": 4394,
+    "prompt_tokens_details": null,
+    "total_tokens": 4520
+  }
+}

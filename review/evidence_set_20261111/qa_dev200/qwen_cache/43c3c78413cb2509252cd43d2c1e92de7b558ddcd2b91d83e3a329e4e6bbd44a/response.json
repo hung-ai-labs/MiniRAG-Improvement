@@ -1,0 +1,17 @@
+{
+  "body_sha256": "43c3c78413cb2509252cd43d2c1e92de7b558ddcd2b91d83e3a329e4e6bbd44a",
+  "finish_reason": "stop",
+  "latency_s": 10.3417952910022,
+  "prediction": "In the discussions surrounding the Game of Thrones series, Emily Burnett expresses admiration for several characters. Specifically, she singles out Tyrion Lannister as a standout character, highlighting his wit and intelligence, which she finds particularly compelling. Additionally, she praises Arya Stark, noting her significant character development and the engaging nature of her journey. Emily also appreciates the dynamic between the main characters in the House of Cards, finding the humor and support they provide one another during challenging times to be both amusing and touching.",
+  "prediction_sha256": "1835f268edf25fcd4f0b5f2a0410a284f778adbd9497505dd140684846161bb6",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100127,
+  "usage": {
+    "completion_tokens": 102,
+    "prompt_tokens": 4425,
+    "prompt_tokens_details": null,
+    "total_tokens": 4527
+  }
+}

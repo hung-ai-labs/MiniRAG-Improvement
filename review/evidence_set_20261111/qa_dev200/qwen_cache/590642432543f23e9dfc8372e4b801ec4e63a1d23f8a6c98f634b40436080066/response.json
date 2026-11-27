@@ -1,0 +1,17 @@
+{
+  "body_sha256": "590642432543f23e9dfc8372e4b801ec4e63a1d23f8a6c98f634b40436080066",
+  "finish_reason": "stop",
+  "latency_s": 11.238287000000128,
+  "prediction": "During the community garden renovation progress reports, Li Hua suggested adding more flower beds with native plants to attract more butterflies and bees. While the exact types of flowers were not specified, it was mentioned that she recommended lavender and coneflowers, which are both beautiful and beneficial for pollinators. Therefore, based on the feedback provided, lavender and coneflowers are likely to be among the new species of flowers that will be featured in the community garden renovation. Additionally, other types of flowers such as bluebells, camellias, and tulips, which were mentioned in earlier progress reports, will also be included in the garden.",
+  "prediction_sha256": "d1e657ca5a4ffdc36b32509a3eba89ffba5ab1692cd46c886cde18392d7cf013",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200185,
+  "usage": {
+    "completion_tokens": 131,
+    "prompt_tokens": 4450,
+    "prompt_tokens_details": null,
+    "total_tokens": 4581
+  }
+}

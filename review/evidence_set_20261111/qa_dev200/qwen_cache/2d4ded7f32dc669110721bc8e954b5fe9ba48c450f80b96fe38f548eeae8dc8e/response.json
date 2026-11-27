@@ -1,0 +1,17 @@
+{
+  "body_sha256": "2d4ded7f32dc669110721bc8e954b5fe9ba48c450f80b96fe38f548eeae8dc8e",
+  "finish_reason": "stop",
+  "latency_s": 3.706642000001011,
+  "prediction": "In the conversation, Li Hua mentions using the basement for her guitar practice. Specifically, she states, \"The basement has been perfect for my guitar practice. I really enjoy playing there!\" Therefore, based on this information, Li Hua plays the guitar in the basement.",
+  "prediction_sha256": "9bb497aefa322f83f87f1d957e6b04caccbf14f60a3f18deed057a0ed133e262",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 117,
+  "usage": {
+    "completion_tokens": 56,
+    "prompt_tokens": 4076,
+    "prompt_tokens_details": null,
+    "total_tokens": 4132
+  }
+}

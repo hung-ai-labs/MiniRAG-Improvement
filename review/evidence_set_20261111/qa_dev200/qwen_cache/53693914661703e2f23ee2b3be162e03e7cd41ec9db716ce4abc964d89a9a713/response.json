@@ -1,0 +1,17 @@
+{
+  "body_sha256": "53693914661703e2f23ee2b3be162e03e7cd41ec9db716ce4abc964d89a9a713",
+  "finish_reason": "stop",
+  "latency_s": 10.632350083003985,
+  "prediction": "From the conversation, we can gather that LiHua has preferences for different types of pizzas. Initially, LiHua mentions her interest in a specific pizza place downtown, which is noted to serve \"amazing toppings.\" Later in the conversation, LiHua expresses a preference for a particular type of pizza—she enjoys spicy chicken sandwiches, which she considers a \"go-to order.\" This indicates that LiHua enjoys the spicy chicken sandwich, which could be considered a form of pizza due to its preparation method and topping. However, based on the explicit mention of a specific pizza place downtown with \"amazing toppings,\" it appears that LiHua particularly likes the pizza served at the downtown location downtown.",
+  "prediction_sha256": "9aa1a2d17bda570884b09b9b15f211606c9db99d2901f2ae9163a0cd0797ef5d",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100198,
+  "usage": {
+    "completion_tokens": 142,
+    "prompt_tokens": 4460,
+    "prompt_tokens_details": null,
+    "total_tokens": 4602
+  }
+}

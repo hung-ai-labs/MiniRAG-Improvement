@@ -1,0 +1,17 @@
+{
+  "body_sha256": "74b94b32f33725c1f507f6726681f1f9a30ff8d46cbed3c4c840d0457e5a80e3",
+  "finish_reason": "stop",
+  "latency_s": 12.58695854099642,
+  "prediction": "In one of the practice sessions mentioned, Giselle specifically reminded the participants to bring their enthusiasm and good vibes to the field. This indicates that she encourages everyone to approach the practice session with a positive attitude and high energy levels.",
+  "prediction_sha256": "ee64bab9bd402c92f79e6ce39107df06610dd7a1557b5f7a66ccdebdc5470d9c",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100174,
+  "usage": {
+    "completion_tokens": 47,
+    "prompt_tokens": 4891,
+    "prompt_tokens_details": null,
+    "total_tokens": 4938
+  }
+}

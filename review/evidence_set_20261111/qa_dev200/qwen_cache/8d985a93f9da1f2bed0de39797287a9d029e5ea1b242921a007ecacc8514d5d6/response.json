@@ -1,0 +1,17 @@
+{
+  "body_sha256": "8d985a93f9da1f2bed0de39797287a9d029e5ea1b242921a007ecacc8514d5d6",
+  "finish_reason": "stop",
+  "latency_s": 8.49681245800457,
+  "prediction": "According to the discussion on 20260507_16:00, the community meeting for the garden project is planned for Saturday at 10 am. This decision was made during a conversation where participants expressed enthusiasm about setting up a weekend meeting to gather everyone's thoughts and ensure alignment on the plans. The choice of a Saturday morning was deemed suitable as it would be easier for most people to join, allowing the group to have a fresh start to the day.",
+  "prediction_sha256": "8c1dcb2fe7fe7f48287f709c03c1c28dc8ed5819bd20c4fbcb440ed72cc7a843",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100070,
+  "usage": {
+    "completion_tokens": 100,
+    "prompt_tokens": 4332,
+    "prompt_tokens_details": null,
+    "total_tokens": 4432
+  }
+}

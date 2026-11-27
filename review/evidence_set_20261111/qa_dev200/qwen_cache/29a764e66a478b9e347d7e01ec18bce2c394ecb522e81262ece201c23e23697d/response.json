@@ -1,0 +1,17 @@
+{
+  "body_sha256": "29a764e66a478b9e347d7e01ec18bce2c394ecb522e81262ece201c23e23697d",
+  "finish_reason": "stop",
+  "latency_s": 5.330638041996281,
+  "prediction": "No, Hailey did not mention the new line of high-protein breads prior to inviting Li Hua to the special bakery event. The invitation was extended first, followed by the announcement about the new healthy bread options at a later date. Specifically, Li Hua was invited to a special tasting session for new healthy bread options on June 22nd, whereas the introduction of the new line of high-protein breads occurred on April 2nd, as seen in the timeline provided.",
+  "prediction_sha256": "6a12b6fa9e5311eb3c05e37e73639cb5e07e8eeb580d81c9ffe0878279d02fe1",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100172,
+  "usage": {
+    "completion_tokens": 101,
+    "prompt_tokens": 4541,
+    "prompt_tokens_details": null,
+    "total_tokens": 4642
+  }
+}

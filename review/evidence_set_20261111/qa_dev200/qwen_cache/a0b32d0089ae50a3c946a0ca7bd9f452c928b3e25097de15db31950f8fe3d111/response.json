@@ -1,0 +1,17 @@
+{
+  "body_sha256": "a0b32d0089ae50a3c946a0ca7bd9f452c928b3e25097de15db31950f8fe3d111",
+  "finish_reason": "stop",
+  "latency_s": 11.385076541999297,
+  "prediction": "In the conversation recorded on 20260714, LiHua expresses interest in trying seasonal fruit flavors, suggesting raspberry or lemon as options. LiHua specifically asks Hailey if she should add any other flavors to the lineup, and proposes a seasonal fruit flavor as a suggestion. Hailey agrees to experiment with seasonal fruit flavors, indicating that LiHua is looking for a seasonal fruit flavor to be added to the lineup.",
+  "prediction_sha256": "e226581f517d11558bde06d9e26ced3257fb07758996d07ac30d6f5f74eee361",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100016,
+  "usage": {
+    "completion_tokens": 91,
+    "prompt_tokens": 4074,
+    "prompt_tokens_details": null,
+    "total_tokens": 4165
+  }
+}

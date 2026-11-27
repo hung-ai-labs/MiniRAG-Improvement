@@ -1,0 +1,17 @@
+{
+  "body_sha256": "75bc2df4d4a4b4fda257fb9cd706f1b587e04c809938549064658db153e3326a",
+  "finish_reason": "stop",
+  "latency_s": 11.372062833999735,
+  "prediction": "In the conversations, LiHua and Thane Chambers discuss their preferences for playing games. LiHua mentions enjoying both solo and cooperative modes, stating, \"I mostly play solo to soak in the story, but I love teaming up with friends too! It’s super fun sharing those moments and strategies together.\" Additionally, LiHua expresses interest in playing co-op with a group, saying, \"Let me know if you want to join! We can have a blast together!\" Therefore, it is clear that LiHua enjoys playing games both solo and with friends.",
+  "prediction_sha256": "21eb1d914c6f2c096c023e2da0ce0e5cfe143013fd9a61c7d95ffa54daeb4b09",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 151,
+  "usage": {
+    "completion_tokens": 116,
+    "prompt_tokens": 4096,
+    "prompt_tokens_details": null,
+    "total_tokens": 4212
+  }
+}

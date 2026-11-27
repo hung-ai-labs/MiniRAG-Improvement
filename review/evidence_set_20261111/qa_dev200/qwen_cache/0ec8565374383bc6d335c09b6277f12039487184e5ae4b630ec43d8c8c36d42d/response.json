@@ -1,0 +1,17 @@
+{
+  "body_sha256": "0ec8565374383bc6d335c09b6277f12039487184e5ae4b630ec43d8c8c36d42d",
+  "finish_reason": "stop",
+  "latency_s": 10.703269666999404,
+  "prediction": "In the conversation recorded under timestamp \"20261002_13:00\", WolfgangSchulz informs LiHua that the new software he has been working on is almost complete. He expresses excitement about LiHua being one of the first to use it and highlights its user-friendly features. This indicates that WolfgangSchulz is confident in the progress of the software and wants LiHua to be aware of its near completion.",
+  "prediction_sha256": "cc82a84ec2afcccef50da61b670d92b523d0c1c1bc990e8595e50fefcedf4de2",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200032,
+  "usage": {
+    "completion_tokens": 94,
+    "prompt_tokens": 4312,
+    "prompt_tokens_details": null,
+    "total_tokens": 4406
+  }
+}

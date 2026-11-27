@@ -1,0 +1,17 @@
+{
+  "body_sha256": "521d0e3f85e5e653d0d5380f5c3df174a75edb5ec7ef58db9eefec879486112f",
+  "finish_reason": "stop",
+  "latency_s": 7.602942334000545,
+  "prediction": "Li Hua reaches out to Jennifer Moore about adjusting her meal plan and increasing the protein content when she expresses that she feels like she needs a bit more protein for her workouts. This discussion takes place during one of the interactions noted in the timeline, specifically in the interaction dated 20260122_15:00. In this conversation, Li Hua asks for advice on boosting her protein intake, mentioning that she has been following a meal plan that focuses on lean proteins and vegetables but feels like she needs additional protein to support her fitness goals.",
+  "prediction_sha256": "3ce42b8e9e16addf7b52afd1f9d2ba9f4888cabd4cbfe49534312273a0187e27",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200189,
+  "usage": {
+    "completion_tokens": 116,
+    "prompt_tokens": 4484,
+    "prompt_tokens_details": null,
+    "total_tokens": 4600
+  }
+}

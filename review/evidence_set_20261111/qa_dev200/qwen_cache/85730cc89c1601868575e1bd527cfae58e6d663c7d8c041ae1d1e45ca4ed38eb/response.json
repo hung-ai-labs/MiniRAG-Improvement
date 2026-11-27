@@ -1,0 +1,17 @@
+{
+  "body_sha256": "85730cc89c1601868575e1bd527cfae58e6d663c7d8c041ae1d1e45ca4ed38eb",
+  "finish_reason": "stop",
+  "latency_s": 14.76164033299574,
+  "prediction": "In one of the messages shared, Sova mentioned they were having trouble maintaining their endurance during cardio sessions and expressed frustration about hitting a wall. In response to this concern, Viper suggested incorporating interval training into their cardio routine. Interval training involves alternating short bursts of intense activity with periods of lower-intensity recovery. This method can help gradually improve endurance without overstressing the body. Additionally, Viper noted that interval training keeps things interesting and can help maintain motivation. \n\nSova responded positively to the suggestion, stating that interval training might indeed help her improve her endurance. She agreed that mixing up the routine with different types of cardio, such as cycling, running, or swimming, could also contribute to keeping the sessions engaging. Overall, Sova seems open to trying interval training and other forms of cardio to maintain interest and progress in her fitness journey.",
+  "prediction_sha256": "55e8cae43ac3bfaa0c92a3089246fa9e2852b41d76cfecd4566febb7060c8525",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200031,
+  "usage": {
+    "completion_tokens": 170,
+    "prompt_tokens": 3872,
+    "prompt_tokens_details": null,
+    "total_tokens": 4042
+  }
+}

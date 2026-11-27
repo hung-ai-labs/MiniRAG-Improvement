@@ -1,0 +1,17 @@
+{
+  "body_sha256": "1a82c596ca41a00af3f66bd7e4e319cdbd3cb640ef7a1a2dc81ba97b0c0bf369",
+  "finish_reason": "stop",
+  "latency_s": 5.227558375001536,
+  "prediction": "According to the conversation, Li Hua received the curtains \"yesterday\". This statement was made by Adam Smith during a conversation on Time: 20261012_10:00, where Adam informs Li Hua that she had already received the curtains.",
+  "prediction_sha256": "7509e8ead4eef071f1d2010d90c83d6204b800b1ff49fbdc61673c2d87f26fab",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200042,
+  "usage": {
+    "completion_tokens": 59,
+    "prompt_tokens": 4315,
+    "prompt_tokens_details": null,
+    "total_tokens": 4374
+  }
+}

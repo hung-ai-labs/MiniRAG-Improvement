@@ -1,0 +1,17 @@
+{
+  "body_sha256": "9941d3789df748ceefeb129c4c3fbba248be3746511db83f19b73c3c0f78c1cf",
+  "finish_reason": "stop",
+  "latency_s": 7.300778333003109,
+  "prediction": "According to the conversation between Hailey and LiHua dated 20260622_13:30, the special event at Hailey's bakery starts at 10 AM on Saturday. LiHua confirms her attendance at 10 AM and expresses enthusiasm for the event, which includes a tasting session and a workshop.",
+  "prediction_sha256": "7deeba9bef30b2d0e0e02adc2d23ef0608fdc0cc76f8965349a272bf5f8bf15a",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100191,
+  "usage": {
+    "completion_tokens": 73,
+    "prompt_tokens": 5462,
+    "prompt_tokens_details": null,
+    "total_tokens": 5535
+  }
+}

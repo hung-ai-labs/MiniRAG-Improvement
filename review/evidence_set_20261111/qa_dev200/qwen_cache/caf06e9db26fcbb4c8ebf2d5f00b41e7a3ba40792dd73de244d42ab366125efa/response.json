@@ -1,0 +1,17 @@
+{
+  "body_sha256": "caf06e9db26fcbb4c8ebf2d5f00b41e7a3ba40792dd73de244d42ab366125efa",
+  "finish_reason": "stop",
+  "latency_s": 10.696715582998877,
+  "prediction": "JakeWatson recalls a particularly memorable comeback for Real Madrid, which occurred during a Champions League match against Manchester City in 2022. Specifically, Jake mentions that in a game where Real Madrid were down by two goals, they managed to score two goals in quick succession in stoppage time, resulting in a dramatic victory. This match is described by Jake as \"pure drama\" and exemplifies Real Madrid's never-say-die attitude, showcasing their ability to turn things around even in dire situations.",
+  "prediction_sha256": "63aa804e45166812ffa36d80b4b9d3f7d49952e37c17647bf1afa756ab9b7bd5",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200150,
+  "usage": {
+    "completion_tokens": 103,
+    "prompt_tokens": 4176,
+    "prompt_tokens_details": null,
+    "total_tokens": 4279
+  }
+}

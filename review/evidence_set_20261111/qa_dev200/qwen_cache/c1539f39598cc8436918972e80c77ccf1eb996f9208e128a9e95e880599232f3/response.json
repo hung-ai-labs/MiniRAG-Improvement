@@ -1,0 +1,17 @@
+{
+  "body_sha256": "c1539f39598cc8436918972e80c77ccf1eb996f9208e128a9e95e880599232f3",
+  "finish_reason": "stop",
+  "latency_s": 7.881594375001441,
+  "prediction": "Jake Watson's first tip for avoiding soccer injuries is to ensure proper warm-up and stretching before any game. This helps to get the muscles ready and improves flexibility, which are crucial elements in preventing muscle strains and other injuries. Additionally, staying hydrated is another essential aspect of injury prevention, further emphasizing the importance of a comprehensive pre-game preparation routine.",
+  "prediction_sha256": "66337c15255fa60db7eb9f5df51c971fc912cf66b91c3c84fbe7e159c0d6a5e9",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100073,
+  "usage": {
+    "completion_tokens": 69,
+    "prompt_tokens": 4142,
+    "prompt_tokens_details": null,
+    "total_tokens": 4211
+  }
+}

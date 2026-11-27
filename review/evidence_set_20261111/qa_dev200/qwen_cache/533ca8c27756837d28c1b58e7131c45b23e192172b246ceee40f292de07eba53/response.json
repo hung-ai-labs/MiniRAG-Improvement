@@ -1,0 +1,17 @@
+{
+  "body_sha256": "533ca8c27756837d28c1b58e7131c45b23e192172b246ceee40f292de07eba53",
+  "finish_reason": "stop",
+  "latency_s": 10.703800583003613,
+  "prediction": "There is no mention of a café where Li Hua and Yuriko Yamamoto met to discuss Yuriko's website. The meetings described in the conversations are taking place at various locations including her studio, Wolfgang's basement, and online platforms. Specifically, the initial meeting appears to have taken place in Wolfgang Schulz's basement, where they planned their first jam session. There is no indication of a café involved in these discussions.",
+  "prediction_sha256": "be0740bbd94d54e5a016e46ab7216b5c6e9583ead28c3f49c3e18d67b035e7bc",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200158,
+  "usage": {
+    "completion_tokens": 88,
+    "prompt_tokens": 4716,
+    "prompt_tokens_details": null,
+    "total_tokens": 4804
+  }
+}

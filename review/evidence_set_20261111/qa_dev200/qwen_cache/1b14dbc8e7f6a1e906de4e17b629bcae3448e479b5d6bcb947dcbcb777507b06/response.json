@@ -1,0 +1,17 @@
+{
+  "body_sha256": "1b14dbc8e7f6a1e906de4e17b629bcae3448e479b5d6bcb947dcbcb777507b06",
+  "finish_reason": "stop",
+  "latency_s": 35.872691459000634,
+  "prediction": "The anniversary event of Hailey Johnson's bakery shop is scheduled to occur from April 15 to 17. This is evident from the first source, which mentions that \"our bakery's anniversary event is coming up from April 15 to 17!\" This event includes discounts and the introduction of new bread products, and Alice, presumably representing the bakery, invites Li Hua to attend and celebrate with them.",
+  "prediction_sha256": "62f1e81cdf04e0070d051bd9f3d834f29435b5721607c7501efe03194b44295a",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100054,
+  "usage": {
+    "completion_tokens": 86,
+    "prompt_tokens": 4784,
+    "prompt_tokens_details": null,
+    "total_tokens": 4870
+  }
+}

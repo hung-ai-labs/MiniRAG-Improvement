@@ -1,0 +1,17 @@
+{
+  "body_sha256": "7b36e181f65a1c895f092414fdea1ac7fae21906eb681c4b957d711be76e08c9",
+  "finish_reason": "stop",
+  "latency_s": 4.3190563329990255,
+  "prediction": "AdamSmith offers to help with the installation of the curtains. He mentions, \"Just let me know when you're ready, and I’ll help you with the installation.\" This indicates that he is willing to assist LiHua with setting up the newly delivered curtains.",
+  "prediction_sha256": "bf5173690837b82c83fa3b690f1daa928dc5ae70421f031743757cd65d14ba99",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100162,
+  "usage": {
+    "completion_tokens": 54,
+    "prompt_tokens": 5158,
+    "prompt_tokens_details": null,
+    "total_tokens": 5212
+  }
+}

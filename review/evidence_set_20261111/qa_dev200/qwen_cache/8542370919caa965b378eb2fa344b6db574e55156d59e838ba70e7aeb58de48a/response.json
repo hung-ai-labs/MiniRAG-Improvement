@@ -1,0 +1,17 @@
+{
+  "body_sha256": "8542370919caa965b378eb2fa344b6db574e55156d59e838ba70e7aeb58de48a",
+  "finish_reason": "stop",
+  "latency_s": 13.454091334002442,
+  "prediction": "There is no mention of a café where Li Hua and Yuriko Yamamoto first met to discuss Yuriko's website in the provided data. The interactions between them primarily took place during office hours, via phone calls, emails, and meetings scheduled at various locations, including Wolfgang Schulz's company and the basement where they planned their jam sessions. \n\nThe initial meetings focused on discussing and refining aspects of Yuriko's speech therapy studio website, such as its homepage, contact forms, community outreach sections, and logo designs. They did not discuss plans for a meeting at a café.",
+  "prediction_sha256": "01d737b247b18c5f2ee0164d82498f9a4fcff3fed07588128586145199019dae",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100158,
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 4716,
+    "prompt_tokens_details": null,
+    "total_tokens": 4836
+  }
+}

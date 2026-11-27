@@ -1,0 +1,17 @@
+{
+  "body_sha256": "ba935f24c75ddd9845e72989106ec397c9e1a03726e935c8c7caf10a7b94822d",
+  "finish_reason": "stop",
+  "latency_s": 5.685228875001485,
+  "prediction": "In the conversation, Jareth expresses enthusiasm for \"The Witcher 3\" and praises its storytelling, particularly in side quests. Specifically, he mentions enjoying the quests and side stories, noting that they are \"just rich and engaging.\" He also highlights the Gwent mini-game as adding an extra layer of fun, suggesting that Jareth appreciates the game's ability to provide diverse and engaging content beyond the main storyline. Thus, \"The Witcher 3\" is the game that Jareth praises for its storytelling in side quests.",
+  "prediction_sha256": "ea4277330a2e3d5ee5eac27500a5cd2665ec4f3051fb501cdf532e415b60f339",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 91,
+  "usage": {
+    "completion_tokens": 108,
+    "prompt_tokens": 3581,
+    "prompt_tokens_details": null,
+    "total_tokens": 3689
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "2b414aa21c684216dfb8f30aa4a047fb48934af35829f667219914bf13999e6c",
+  "finish_reason": "stop",
+  "latency_s": 10.868760999997903,
+  "prediction": "Yes, based on the conversation recorded in Source 1, Li Hua did request to change his class from Thursday to Friday due to an unexpected work meeting scheduled for the following day. He expressed his preference for the same time, 10:00 am, and Jennifer Moore confirmed that they could switch the class to Friday at that time. Therefore, it is clear that Li Hua sent a message to Jennifer Moore asking if he could reschedule his class from Thursday to Friday.",
+  "prediction_sha256": "3be89bbce0a79788dee435a66f65af5ea0c5f75c036bcbd426b7ff2daf0eeb01",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200145,
+  "usage": {
+    "completion_tokens": 99,
+    "prompt_tokens": 4633,
+    "prompt_tokens_details": null,
+    "total_tokens": 4732
+  }
+}

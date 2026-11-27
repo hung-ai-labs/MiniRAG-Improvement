@@ -1,0 +1,17 @@
+{
+  "body_sha256": "a545aa47dad47b6539db7d11e58f2c87bb160cbef458335732560100afa8a094",
+  "finish_reason": "stop",
+  "latency_s": 12.059228999998595,
+  "prediction": " WolfgangSchulz is the individual who informs LiHua that the new software he has been working on is almost complete. This is evident from the conversation in the data table with the content id \"0,\" where WolfgangSchulz expresses his excitement about the nearing completion of the software and mentions that LiHua will be one of the first to try it out. LiHua responds positively, indicating her eagerness to see and try the new software.",
+  "prediction_sha256": "f86ba0ade1dffc00ff4bb2d74d7da50c8fda72b4f5511f6dd4909a2aba035ffe",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 100032,
+  "usage": {
+    "completion_tokens": 100,
+    "prompt_tokens": 4184,
+    "prompt_tokens_details": null,
+    "total_tokens": 4284
+  }
+}

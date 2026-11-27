@@ -1,0 +1,17 @@
+{
+  "body_sha256": "541ce19fc449be138b1dfffc75812d324b30c5d6a2bdbf23b35c99b7f19cbc9c",
+  "finish_reason": "stop",
+  "latency_s": 6.582567375000508,
+  "prediction": "The first recorded instance of Li Hua and Wolfgang having dinner together in the provided data occurred on January 8th, 2026. This dinner was scheduled for 12:00 PM at a cozy café downtown. From the conversation, it's clear they were looking forward to catching up over a meal together.",
+  "prediction_sha256": "ed481f06a1fab347fe50469bbb246b886433018b4054093279863913787e1687",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200076,
+  "usage": {
+    "completion_tokens": 68,
+    "prompt_tokens": 4479,
+    "prompt_tokens_details": null,
+    "total_tokens": 4547
+  }
+}

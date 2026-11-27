@@ -1,0 +1,17 @@
+{
+  "body_sha256": "b69267447aaaa1a614202425077a4e85c39b746e8de21b2c7109f9a2ccb45dd1",
+  "finish_reason": "stop",
+  "latency_s": 10.617607000000135,
+  "prediction": "In the conversation provided, there is no mention of anyone offering to help with setting up for a garage sale. The details of a garage sale are discussed, but no one volunteers to assist with preparations. This indicates that there is no information given about who offered to help with the setup of the garage sale in the context provided.",
+  "prediction_sha256": "86157aec0a448660abc74561d12dac056045a52043f99d43392735cd84406b45",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100024,
+  "usage": {
+    "completion_tokens": 66,
+    "prompt_tokens": 5163,
+    "prompt_tokens_details": null,
+    "total_tokens": 5229
+  }
+}

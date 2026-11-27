@@ -1,0 +1,17 @@
+{
+  "body_sha256": "6ca6309a3252d350739336bcff58e13bd0a430739ba5876da40efcd63e668c5b",
+  "finish_reason": "stop",
+  "latency_s": 3.986084000000119,
+  "prediction": "According to the conversations recorded, Li Hua received the curtains \"yesterday\" after the interaction with Adam Smith on the specified date, which is 20261012.",
+  "prediction_sha256": "e887b7dbf95c6013568ddce06205d025127b381bdf1a34870ddcacffad35d182",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 42,
+  "usage": {
+    "completion_tokens": 40,
+    "prompt_tokens": 4038,
+    "prompt_tokens_details": null,
+    "total_tokens": 4078
+  }
+}

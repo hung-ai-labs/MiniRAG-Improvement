@@ -1,0 +1,17 @@
+{
+  "body_sha256": "76368dc0946901bdb3ef252764e3ca30dfd9386872a1d023492be6179debbc59",
+  "finish_reason": "stop",
+  "latency_s": 9.70955454200157,
+  "prediction": "In the conversation about having a hot pot dinner, WolfgangSchulz mentions that he has a preference for beer, stating \"Beer it is! 🍻 Perfect match for hot pot.\" LiHua agrees, expressing enthusiasm about the combination, saying \"Yeah, me too! Should we pick up some drinks on the way?\" and \"Beer it is! 🍻 Perfect match for hot pot.\" Thus, LiHua suggests having beer with the hot pot.",
+  "prediction_sha256": "834c67596f839a40ef0f52dbcf764d6a310f7ca3e6e629b170f14f8c8bb72899",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 113,
+  "usage": {
+    "completion_tokens": 95,
+    "prompt_tokens": 4391,
+    "prompt_tokens_details": null,
+    "total_tokens": 4486
+  }
+}

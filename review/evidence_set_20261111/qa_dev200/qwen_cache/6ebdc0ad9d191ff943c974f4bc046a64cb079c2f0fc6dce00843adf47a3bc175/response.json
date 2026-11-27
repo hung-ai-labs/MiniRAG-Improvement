@@ -1,0 +1,17 @@
+{
+  "body_sha256": "6ebdc0ad9d191ff943c974f4bc046a64cb079c2f0fc6dce00843adf47a3bc175",
+  "finish_reason": "stop",
+  "latency_s": 13.830304292001529,
+  "prediction": "LiHua mentions a photography exhibition in town that he wants to check out with WolfgangSchulz. According to the conversations recorded, WolfgangSchulz expresses interest in joining LiHua for the event. Specifically, in the conversation from January 10th at 14:00, LiHua suggests meeting around 3 PM to go on a photography walk, and WolfgangSchulz agrees. Later, on August 1st at 19:00, LiHua invites WolfgangSchulz to attend a photography exhibition next week, suggesting that WolfgangSchulz should join him for this event. Therefore, LiHua intends to invite WolfgangSchulz to the photo exhibition, and WolfgangSchulz accepts the invitation. They plan to go on Friday evening, which is described as a less crowded time.",
+  "prediction_sha256": "c8827d2f0611c65e58f2fab8b9cda8204ac30e33424fe6285d2101134a39c589",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 93,
+  "usage": {
+    "completion_tokens": 172,
+    "prompt_tokens": 4319,
+    "prompt_tokens_details": null,
+    "total_tokens": 4491
+  }
+}

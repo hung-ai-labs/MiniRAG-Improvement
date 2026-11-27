@@ -1,0 +1,17 @@
+{
+  "body_sha256": "7845aa7bd9dc50f65c066897fb4c3fff63c96b081fb35f9b93c70a56ab19d0fc",
+  "finish_reason": "stop",
+  "latency_s": 8.960923583996191,
+  "prediction": " According to the conversation provided, Jake and LiHua plan to meet at a park for their soccer practice. The meeting is scheduled for Saturday at 3 PM, as confirmed in the exchange:\n\n```plaintext\nJakeWatson: Awesome! Let’s meet at the park on Saturday at 3 PM. It’ll be great to work on some shots together! Bring your A-game! 🙌⚽️\nLiHua: Got it! I'll be there at 3 PM. Looking forward to it! Let’s score some goals! ⚽️👍\n```\n\nThe park serves as the suitable and agreed-upon location for them to work on soccer drills, specifically focusing on shooting skills, as mentioned by Jake. No further details on an indoor location such as a basement are provided for the soccer practice; they only reference a basement in a separate conversation about a guitar jam session.",
+  "prediction_sha256": "f740c1709886fb81770788dfab262b1e195d3902c203624b037b08439090d1e0",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 200097,
+  "usage": {
+    "completion_tokens": 215,
+    "prompt_tokens": 5158,
+    "prompt_tokens_details": null,
+    "total_tokens": 5373
+  }
+}

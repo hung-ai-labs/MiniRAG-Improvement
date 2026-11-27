@@ -1,0 +1,17 @@
+{
+  "body_sha256": "6e77cccaf73131f15b8a79e623fb045e234b65efe4526aa9f995bfe64e0a0cd0",
+  "finish_reason": "stop",
+  "latency_s": 10.826171166998392,
+  "prediction": "In the conversation provided, LiHua asks WolfgangSchulz about his favorite type of pizza. Specifically, LiHua inquires, \"I've been wanting to try that place! What do you like to pair with it?\" WolfgangSchulz responds, \"I usually go for a nice cold drink, maybe a soda or even some craft beer if I'm in the mood. Perfect combo! What’s your drink of choice?\" This indicates that LiHua wants to know WolfgangSchulz's preferred drink to pair with the pizza he likes to eat.",
+  "prediction_sha256": "614672577b34b177ea04ba91a43f5f23f4519ba80a9672b380e8b5358a7bac10",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100047,
+  "usage": {
+    "completion_tokens": 115,
+    "prompt_tokens": 4492,
+    "prompt_tokens_details": null,
+    "total_tokens": 4607
+  }
+}

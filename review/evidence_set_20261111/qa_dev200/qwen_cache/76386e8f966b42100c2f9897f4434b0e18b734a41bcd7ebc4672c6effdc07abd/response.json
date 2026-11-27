@@ -1,0 +1,17 @@
+{
+  "body_sha256": "76386e8f966b42100c2f9897f4434b0e18b734a41bcd7ebc4672c6effdc07abd",
+  "finish_reason": "stop",
+  "latency_s": 9.91697962499893,
+  "prediction": "From the conversations provided, it appears that Li Hua is training twice a week. Initially, there was a discussion about changing a training plan to help balance work and fitness better. Jennifer Moore suggested training twice a week, focusing on efficiency and intensity. Li Hua agreed and specified that they would train on Tuesdays and Thursdays. Therefore, the current frequency of Li Hua's training is two sessions per week.",
+  "prediction_sha256": "643247b3e4807cc647d96423b8883cdf161d0801153068aeed1902d28c587023",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100049,
+  "usage": {
+    "completion_tokens": 85,
+    "prompt_tokens": 4087,
+    "prompt_tokens_details": null,
+    "total_tokens": 4172
+  }
+}

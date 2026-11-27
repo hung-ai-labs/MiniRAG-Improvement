@@ -1,0 +1,17 @@
+{
+  "body_sha256": "f3f19978c679ef00bbd31b8a97066e623e9053ce05e6f0c5fbcd4192e8a9f19c",
+  "finish_reason": "stop",
+  "latency_s": 9.908080917004554,
+  "prediction": "In the conversation recorded under timestamp 20261016_16:00, HaileyJohnson expresses her interest in getting feedback on a new bread recipe. Specifically, she invites LiHua to come by the bakery at 3 PM to taste a new bread she has baked. Hailey mentions that she has baked this fresh out of the oven and is eager for LiHua's approval.",
+  "prediction_sha256": "7dfa21fe63e9a1c93ef089cd7af9629b91bd868865e1977ccc74227748eda4a8",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100067,
+  "usage": {
+    "completion_tokens": 86,
+    "prompt_tokens": 4483,
+    "prompt_tokens_details": null,
+    "total_tokens": 4569
+  }
+}

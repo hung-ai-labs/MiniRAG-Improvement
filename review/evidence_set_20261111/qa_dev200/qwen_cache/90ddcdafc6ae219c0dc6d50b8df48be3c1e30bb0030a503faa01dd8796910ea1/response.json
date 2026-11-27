@@ -1,0 +1,17 @@
+{
+  "body_sha256": "90ddcdafc6ae219c0dc6d50b8df48be3c1e30bb0030a503faa01dd8796910ea1",
+  "finish_reason": "stop",
+  "latency_s": 6.6250992080003925,
+  "prediction": "According to the information provided, Pep Guardiola's playing style with FC Barcelona was characterized by an innovative and possession-based approach. This style emphasized fluid play, where the team focused on maintaining possession and creating opportunities rather than relying on fast counter-attacks. This strategy aimed to control the tempo of the game and outmaneuver opponents through intricate passing and movement.",
+  "prediction_sha256": "518e2536e8bc8b12ce5d5b16211da7863745dfef783f7fa775eeee4368a85e0e",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 169,
+  "usage": {
+    "completion_tokens": 73,
+    "prompt_tokens": 4656,
+    "prompt_tokens_details": null,
+    "total_tokens": 4729
+  }
+}

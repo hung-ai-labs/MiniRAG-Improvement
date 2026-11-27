@@ -1,0 +1,17 @@
+{
+  "body_sha256": "2c8afeaac9cde0e4cf493c2ec0ceecaa5cb906bee5717cc82f329ac0e5ef5c31",
+  "finish_reason": "stop",
+  "latency_s": 9.180290832999162,
+  "prediction": "Based on the conversation, Li Hua expresses a preference for a medium-rare burger patty. This preference is evident in a discussion about the ideal degree of cooking for a classic American cheeseburger patty. Li Hua states, \"I just love the juicy texture of a medium rare patty. That's where all the flavor is for me!\" Therefore, Li Hua prefers a burger patty cooked to medium rare.",
+  "prediction_sha256": "1709a1e0487221b605d146132ecf8a668a1bff58130504a5c53c9f9a8192e2c5",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 48,
+  "usage": {
+    "completion_tokens": 87,
+    "prompt_tokens": 4169,
+    "prompt_tokens_details": null,
+    "total_tokens": 4256
+  }
+}

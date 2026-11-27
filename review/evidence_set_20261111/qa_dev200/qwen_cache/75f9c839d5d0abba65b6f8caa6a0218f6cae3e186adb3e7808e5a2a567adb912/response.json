@@ -1,0 +1,17 @@
+{
+  "body_sha256": "75f9c839d5d0abba65b6f8caa6a0218f6cae3e186adb3e7808e5a2a567adb912",
+  "finish_reason": "stop",
+  "latency_s": 9.92389141699823,
+  "prediction": "In one of the recorded conversations, Wolfgang expresses excitement about a new place downtown that he has heard good things about, suggesting they check it out for a meal. This seems to be a new dining establishment that Wolfgang believes might be worth trying. He invites LiHua to join him for dinner at a place known for their carbonara, indicating that Wolfgang finds it interesting enough to share with his friend. This suggests that Wolfgang finds the new restaurant to be a noteworthy discovery, potentially offering a unique culinary experience.",
+  "prediction_sha256": "fd435d3360037b31f1a9586a8db99813b65cfa93542f8b75aba9ad4fd67245e7",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200102,
+  "usage": {
+    "completion_tokens": 102,
+    "prompt_tokens": 4225,
+    "prompt_tokens_details": null,
+    "total_tokens": 4327
+  }
+}

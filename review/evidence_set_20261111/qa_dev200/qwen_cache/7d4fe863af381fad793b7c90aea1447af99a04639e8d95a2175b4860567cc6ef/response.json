@@ -1,0 +1,17 @@
+{
+  "body_sha256": "7d4fe863af381fad793b7c90aea1447af99a04639e8d95a2175b4860567cc6ef",
+  "finish_reason": "stop",
+  "latency_s": 15.405692833002831,
+  "prediction": "According to the conversation, LiHua suggests having dinner at WolfgangSchulz's house for hot pot on 20260930 at 7 PM. WolfgangSchulz agrees to the time, indicating they will meet at 7 PM for the hot pot dinner.",
+  "prediction_sha256": "6d8c48d3f52765eb4b0af8c787047ee424f1e8f66c3de4cffb1a1f401a6e879c",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100053,
+  "usage": {
+    "completion_tokens": 60,
+    "prompt_tokens": 5724,
+    "prompt_tokens_details": null,
+    "total_tokens": 5784
+  }
+}

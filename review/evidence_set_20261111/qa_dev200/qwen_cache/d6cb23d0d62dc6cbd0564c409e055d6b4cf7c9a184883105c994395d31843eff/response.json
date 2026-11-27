@@ -1,0 +1,17 @@
+{
+  "body_sha256": "d6cb23d0d62dc6cbd0564c409e055d6b4cf7c9a184883105c994395d31843eff",
+  "finish_reason": "stop",
+  "latency_s": 12.495384166999429,
+  "prediction": "The exact date and time when Cersei Lannister first met Jaime Lannister are not specified in the data provided. The entities mention several aspects related to Cersei and Jaime's relationship, such as their transformations, Cersei's loyalty to Jaime, and their interactions during the series, but the specific moment of their first meeting is not detailed. Therefore, based on the information available, we cannot determine the exact date and time of their initial encounter.",
+  "prediction_sha256": "36f3836af49e66b7d413ff493767ab18402f4a2b39ce42b786243df50142f9f4",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 123,
+  "usage": {
+    "completion_tokens": 92,
+    "prompt_tokens": 4464,
+    "prompt_tokens_details": null,
+    "total_tokens": 4556
+  }
+}

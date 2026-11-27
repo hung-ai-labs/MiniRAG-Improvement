@@ -1,0 +1,17 @@
+{
+  "body_sha256": "04cdd2f198ee9b5f3961f5ec58bf56ac33320f4b24da53e8aec2515c2e845e7e",
+  "finish_reason": "stop",
+  "latency_s": 11.095525625001756,
+  "prediction": "The community is organizing several events, but the primary focus seems to be on the Community Garden Renovation project. Discussions and planning for this event are taking place, and there are plans for community meetings to finalize the plans. Additionally, the community is looking forward to a Community Sports Day, which is an annual event where the community gathers to participate in various sports activities. Furthermore, a Community Bake Sale is planned to support a local charity, and a Community Garden Cleanup Event is being organized as a volunteer activity involving community members.",
+  "prediction_sha256": "01297d07179d143885efdc620b8a773bd221728016174d3ec3ea10b6d4f840a9",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200159,
+  "usage": {
+    "completion_tokens": 105,
+    "prompt_tokens": 5069,
+    "prompt_tokens_details": null,
+    "total_tokens": 5174
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "fda349655ec5d1c0a683e9167ff3305e10a81ac66f6ae007a5526533ae32aa94",
+  "finish_reason": "stop",
+  "latency_s": 8.760677332997147,
+  "prediction": "There is no information provided in the given data about a curtain that Li Hua has chosen for his living room. The conversations mentioned involve Adam Smith informing Li Hua about receiving curtains, but there is no mention of the color of these curtains. Therefore, based on the available data, we cannot determine the color of the curtains.",
+  "prediction_sha256": "a12739d62e6799f688cb1e0ee753e4f2e206b40f487b3fefc4f492274cffe886",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100155,
+  "usage": {
+    "completion_tokens": 67,
+    "prompt_tokens": 4321,
+    "prompt_tokens_details": null,
+    "total_tokens": 4388
+  }
+}

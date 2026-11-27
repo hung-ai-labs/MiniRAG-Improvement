@@ -1,0 +1,17 @@
+{
+  "body_sha256": "c58ae57b2428d788987e1ec9d5efe58922407b66f26d8ee9431dc42372524afa",
+  "finish_reason": "stop",
+  "latency_s": 12.84050600000046,
+  "prediction": "Based on the conversations shared, JakeWatson does not explicitly recommend a specific drink for hydration after a match. However, he does mention that hydration is crucial, especially after intense physical activity. In one conversation, JakeWatson suggests drinking water or an electrolyte drink for hydration purposes. Additionally, he recommends trying coconut water as a recovery drink due to its refreshing quality and ability to replenish electrolytes. While he doesn't specify coconut water, he does acknowledge its benefits as a recovery drink. Therefore, coconut water seems to be a drink that JakeWatson endorses for post-match hydration.",
+  "prediction_sha256": "103fb8933b5b0a82bf2985aae4e3d5af4dd59b1481aba8e5fd6d1ad9db2fe9fe",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 122,
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 4431,
+    "prompt_tokens_details": null,
+    "total_tokens": 4551
+  }
+}

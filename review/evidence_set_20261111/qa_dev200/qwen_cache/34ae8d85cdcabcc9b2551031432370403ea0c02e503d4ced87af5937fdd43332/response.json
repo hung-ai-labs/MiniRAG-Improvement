@@ -1,0 +1,17 @@
+{
+  "body_sha256": "34ae8d85cdcabcc9b2551031432370403ea0c02e503d4ced87af5937fdd43332",
+  "finish_reason": "stop",
+  "latency_s": 11.849389750001137,
+  "prediction": "Based on the information provided, Wolfgang Schulz recommends the \"cozy café downtown\" for Li Hua's lunch meeting. This recommendation is indicated in the data where it states, \"The cozy café downtown is the planned location for WolfgangSchulz and LiHua's lunch meeting.\" Additionally, Wolfgang Schulz mentions, \"Hey! Just wanted to remind you about our lunch at the cozy café downtown at 12:00. Can't wait to catch up! 😊\" This further confirms his recommendation of the cozy downtown café for their lunch.",
+  "prediction_sha256": "cbe831aa770ad4382ab39d8648248d9a2ab0ca3dc3590ab0c75aa71980d0a05f",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100098,
+  "usage": {
+    "completion_tokens": 114,
+    "prompt_tokens": 4708,
+    "prompt_tokens_details": null,
+    "total_tokens": 4822
+  }
+}

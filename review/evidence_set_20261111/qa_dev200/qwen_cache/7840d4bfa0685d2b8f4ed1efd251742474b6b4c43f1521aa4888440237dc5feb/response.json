@@ -1,0 +1,17 @@
+{
+  "body_sha256": "7840d4bfa0685d2b8f4ed1efd251742474b6b4c43f1521aa4888440237dc5feb",
+  "finish_reason": "stop",
+  "latency_s": 12.049452833001851,
+  "prediction": "In the conversations recorded, WolfgangSchulz mentions that he remembers trying goulash when he was in Prague. Specifically, he states, \"I didn't get a chance to try much when I was there, but I remember the goulash being really hearty and tasty!\" Thus, the local dish that WolfgangSchulz tried in Prague was goulash.",
+  "prediction_sha256": "297060386cdee5df8006c374f580aa0af3ba7b3e963cddb81038495241d33b06",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100060,
+  "usage": {
+    "completion_tokens": 75,
+    "prompt_tokens": 5281,
+    "prompt_tokens_details": null,
+    "total_tokens": 5356
+  }
+}

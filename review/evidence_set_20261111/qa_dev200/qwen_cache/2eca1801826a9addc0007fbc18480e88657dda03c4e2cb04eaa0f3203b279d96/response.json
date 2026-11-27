@@ -1,0 +1,17 @@
+{
+  "body_sha256": "2eca1801826a9addc0007fbc18480e88657dda03c4e2cb04eaa0f3203b279d96",
+  "finish_reason": "stop",
+  "latency_s": 16.27487425000436,
+  "prediction": "In one of the conversations, Sova mentioned that they struggle with maintaining their endurance during cardio sessions and that they feel like they hit a wall quickly. During another conversation, Sova shared that she has been thinking about switching up her routine a bit. She specifically mentioned that during maintenance days, she might use this time to focus on flexibility or engage in outdoor activities that keep her motivated. Additionally, Sova suggested trying bodyweight exercises at home to maintain strength and stay engaged. Regarding cardio, Sova expressed interest in incorporating HIIT (High-Intensity Interval Training) workouts, which she believes can be intense yet effective and fun, helping to keep her heart rate up and providing a refreshing change of pace. However, Sova noted that she's unsure if she can keep up with the pace initially and recommended starting with shorter intervals and focusing on form and rest periods.",
+  "prediction_sha256": "5cdedb87079c609af4059408676f67ba8c4645f7e3be2a50cf92634bac520b45",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 31,
+  "usage": {
+    "completion_tokens": 174,
+    "prompt_tokens": 3872,
+    "prompt_tokens_details": null,
+    "total_tokens": 4046
+  }
+}

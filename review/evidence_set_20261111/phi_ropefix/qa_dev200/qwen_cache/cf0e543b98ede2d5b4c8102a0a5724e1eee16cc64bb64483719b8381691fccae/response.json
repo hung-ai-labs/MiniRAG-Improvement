@@ -1,0 +1,17 @@
+{
+  "body_sha256": "cf0e543b98ede2d5b4c8102a0a5724e1eee16cc64bb64483719b8381691fccae",
+  "finish_reason": "stop",
+  "latency_s": 7.128185166999174,
+  "prediction": " Guardiola's tenure at Barcelona is synonymous with the 'Total Football' style, which emphasizes constant movement, versatile playmakers, and positional interchangeability among attacking players. This approach led to the club's success, enabling players like Lionel Messi, Xavi Hernandez, and Andres Iniesta to thrive. The team's tactics often involved high pressing and an emphasis on maintaining possession, with quick passes and movement to create scoring opportunities. This fluid style of play became a hallmark of Barcelona under Guardiola's management and was a significant factor contributing to their dominance during that period.",
+  "prediction_sha256": "7adb80949bd2c758fbe27344dc84282a922d643465d5d125b512d614ad5c4e22",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 200169,
+  "usage": {
+    "completion_tokens": 142,
+    "prompt_tokens": 5489,
+    "prompt_tokens_details": null,
+    "total_tokens": 5631
+  }
+}

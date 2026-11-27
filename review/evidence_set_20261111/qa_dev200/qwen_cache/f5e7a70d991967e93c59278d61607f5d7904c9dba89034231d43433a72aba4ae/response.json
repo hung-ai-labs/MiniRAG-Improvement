@@ -1,0 +1,17 @@
+{
+  "body_sha256": "f5e7a70d991967e93c59278d61607f5d7904c9dba89034231d43433a72aba4ae",
+  "finish_reason": "stop",
+  "latency_s": 11.173800624994328,
+  "prediction": "In the given data, there are multiple instances of soccer practice being planned. Specifically, in the interaction between Li Hua and Jasper dated 20261014_20:00, they mention meeting at the local park around 3 PM on Saturday to practice some passing drills and shooting drills. Additionally, in a later interaction on 20260914_10:00, Jake Watson suggests hitting the field at least twice a week with friends for shooting drills and game tactics. This indicates that they typically meet at various locations, but the local park is specified as a meeting point for a particular practice session.",
+  "prediction_sha256": "6a924ed61bbec7b0185912be68464f0d43753b8369ec4032d08a00ac8c514bc9",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200097,
+  "usage": {
+    "completion_tokens": 135,
+    "prompt_tokens": 4830,
+    "prompt_tokens_details": null,
+    "total_tokens": 4965
+  }
+}

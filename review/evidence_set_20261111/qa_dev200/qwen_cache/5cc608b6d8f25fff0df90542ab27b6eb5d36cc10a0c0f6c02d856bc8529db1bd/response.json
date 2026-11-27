@@ -1,0 +1,17 @@
+{
+  "body_sha256": "5cc608b6d8f25fff0df90542ab27b6eb5d36cc10a0c0f6c02d856bc8529db1bd",
+  "finish_reason": "stop",
+  "latency_s": 8.579835625001579,
+  "prediction": "Based on the information provided, Briar suggests adding \"quick one-twos\" to the practice session. These refer to short, rapid passing combinations designed to keep stamina up and encourage quick decision-making among the players.",
+  "prediction_sha256": "df7b8b44deef66465661fdc9ee19405977ec4712875056466873dcfa3f2c3464",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100152,
+  "usage": {
+    "completion_tokens": 44,
+    "prompt_tokens": 4803,
+    "prompt_tokens_details": null,
+    "total_tokens": 4847
+  }
+}

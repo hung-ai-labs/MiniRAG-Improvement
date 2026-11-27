@@ -1,0 +1,17 @@
+{
+  "body_sha256": "186bcd7e8e79d3c23760023558245f26667c56dc8d7a3a1325f00fe23688e3cf",
+  "finish_reason": "stop",
+  "latency_s": 9.8435607920037,
+  "prediction": "In the conversation regarding the new software project, WolfgangSchulz informs LiHua that the software he has been working on is almost complete. This is evident from the following exchange:\n\n```plaintext\nWolfgangSchulz: Hey! Just wanted to let you know that the new software I’ve been working on is almost done. Can’t wait for you to try it out! 🎉\n```\n\nTherefore, WolfgangSchulz is the one who informs LiHua that the new software is almost ready.",
+  "prediction_sha256": "77c50a83720d2c1128ffbdfa05e5d9087ba7d67309ce8d01e8f2736d59b44eaf",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200032,
+  "usage": {
+    "completion_tokens": 107,
+    "prompt_tokens": 3919,
+    "prompt_tokens_details": null,
+    "total_tokens": 4026
+  }
+}

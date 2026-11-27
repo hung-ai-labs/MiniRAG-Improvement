@@ -1,0 +1,17 @@
+{
+  "body_sha256": "7e9b2eb4819da203c73ac9dfb6633f191c30f0cb8f0fe84d1bc20c7200110138",
+  "finish_reason": "stop",
+  "latency_s": 6.49135895800282,
+  "prediction": "According to the conversations, WolfgangSchulz prefers a classic margherita pizza. He mentions, \"I’m all about that classic margherita. Simple but so good!\" Additionally, he expresses his preference for a nice cold drink, such as a soda or craft beer, to pair with his pizza. This indicates that his preferred style of pizza is a classic margherita, which typically includes tomato sauce, mozzarella cheese, and fresh basil, without additional toppings.",
+  "prediction_sha256": "3e78c34c906ef38467b2e774b4b7cf432e906fa13c7d35041b172c0c55618ea7",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100148,
+  "usage": {
+    "completion_tokens": 96,
+    "prompt_tokens": 4423,
+    "prompt_tokens_details": null,
+    "total_tokens": 4519
+  }
+}

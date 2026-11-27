@@ -1,0 +1,17 @@
+{
+  "body_sha256": "b9fe45d496f036d1bd14d116cbe5ec7727c61678a8d6712aed8b21eab209a53e",
+  "finish_reason": "stop",
+  "latency_s": 7.757729625001957,
+  "prediction": "On September 23, 2026, WolfgangSchulz proposes meeting at around 5:30 PM to go grocery shopping. This time is suggested to avoid crowds and ensure they can complete their shopping efficiently.",
+  "prediction_sha256": "d5d355da758966396f9d985ada5679d9153844d277dd289bd00e4017119d737f",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100116,
+  "usage": {
+    "completion_tokens": 48,
+    "prompt_tokens": 4534,
+    "prompt_tokens_details": null,
+    "total_tokens": 4582
+  }
+}

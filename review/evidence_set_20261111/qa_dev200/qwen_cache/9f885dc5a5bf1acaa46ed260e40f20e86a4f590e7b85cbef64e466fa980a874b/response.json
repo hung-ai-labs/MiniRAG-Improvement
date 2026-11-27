@@ -1,0 +1,17 @@
+{
+  "body_sha256": "9f885dc5a5bf1acaa46ed260e40f20e86a4f590e7b85cbef64e466fa980a874b",
+  "finish_reason": "stop",
+  "latency_s": 8.319680125001469,
+  "prediction": "Gavriel has been particularly interested in the game \"Persona 5 Royal\" recently. This game stands out for its unique blend of RPG elements and social simulation, offering a strategic combat system that includes elemental weaknesses in battles. Additionally, the art style in \"Persona 5 Royal\" is praised for its gorgeous visuals.",
+  "prediction_sha256": "7b87c69e47177382ef0f0d95704a72757a779fb237773176ecddfbd6fcce5db2",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100197,
+  "usage": {
+    "completion_tokens": 65,
+    "prompt_tokens": 4271,
+    "prompt_tokens_details": null,
+    "total_tokens": 4336
+  }
+}

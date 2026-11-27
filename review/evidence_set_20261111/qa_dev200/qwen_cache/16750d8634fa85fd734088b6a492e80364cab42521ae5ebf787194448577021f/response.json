@@ -1,0 +1,17 @@
+{
+  "body_sha256": "16750d8634fa85fd734088b6a492e80364cab42521ae5ebf787194448577021f",
+  "finish_reason": "stop",
+  "latency_s": 12.338686458002485,
+  "prediction": "Based on the conversations, there are a couple of instances where the group mentions plans to meet for soccer practice. Initially, Dacey suggests meeting up for soccer practice on Saturday afternoon to work on passing drills. However, later in the discussion, Farrah proposes meeting at the local park around 3 PM on Saturday to practice shooting and passing drills. \n\nSpecifically, the conversation states:\n\n- **Dacey**: \"Hey everyone! Since we're on the topic of practice and teamwork, anyone up for some soccer practice this weekend? I was thinking Saturday afternoon to work on some passing drills. Let me know if you're in!\"\n\n- **Farrah**: \"How about we meet around 3 PM? We can focus on passing drills for the first hour and then mix in shooting practice after that. Let me know if that works for everyone!\"\n\nTherefore, the group plans to meet at the local park around 3 PM on Saturday for their soccer practice.",
+  "prediction_sha256": "4a1efffee67cce913b8e44b73a398b52afe1772e1332bb5defecce8978529d4e",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100097,
+  "usage": {
+    "completion_tokens": 192,
+    "prompt_tokens": 5133,
+    "prompt_tokens_details": null,
+    "total_tokens": 5325
+  }
+}

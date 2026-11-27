@@ -1,0 +1,17 @@
+{
+  "body_sha256": "d9dd915468daaf3d57205dffadda26555cf86608f6dbe6c68eec7bdca78dd814",
+  "finish_reason": "stop",
+  "latency_s": 7.805884458000946,
+  "prediction": "According to the conversation, construction for the garden renovation is scheduled to begin on Wednesday. Specifically, a reminder was given stating, \"Construction starts this Wednesday, so we should have everything ready before then!\" This indicates that the construction period begins on the Wednesday mentioned in the conversation.",
+  "prediction_sha256": "3da77121691f0b890748cdfa65b2d24469bd016587f5df805510c779ab425191",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200034,
+  "usage": {
+    "completion_tokens": 56,
+    "prompt_tokens": 5062,
+    "prompt_tokens_details": null,
+    "total_tokens": 5118
+  }
+}

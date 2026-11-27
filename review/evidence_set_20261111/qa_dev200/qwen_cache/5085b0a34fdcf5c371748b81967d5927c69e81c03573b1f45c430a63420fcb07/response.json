@@ -1,0 +1,17 @@
+{
+  "body_sha256": "5085b0a34fdcf5c371748b81967d5927c69e81c03573b1f45c430a63420fcb07",
+  "finish_reason": "stop",
+  "latency_s": 9.666225957997085,
+  "prediction": "In the conversation provided, WolfgangSchulz suggests a meeting time for dinner after work, and LiHua agrees to it. WolfgangSchulz proposes a meeting time around 7 PM, which he mentions gives them some time to unwind after work. LiHua confirms this time, agreeing to meet at 7 PM for dinner. However, no specific time is mentioned for the pizza meetup. Therefore, based on the given information, there is no agreed-upon time specified for the pizza meeting.",
+  "prediction_sha256": "82fe5f191ee325f8fcb086263be17aa3b63fa4cc77a623ae754813b5f76f10da",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 153,
+  "usage": {
+    "completion_tokens": 102,
+    "prompt_tokens": 4860,
+    "prompt_tokens_details": null,
+    "total_tokens": 4962
+  }
+}

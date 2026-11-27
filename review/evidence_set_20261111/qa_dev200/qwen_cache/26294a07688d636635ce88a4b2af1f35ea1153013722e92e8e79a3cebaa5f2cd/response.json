@@ -1,0 +1,17 @@
+{
+  "body_sha256": "26294a07688d636635ce88a4b2af1f35ea1153013722e92e8e79a3cebaa5f2cd",
+  "finish_reason": "stop",
+  "latency_s": 8.58143866699902,
+  "prediction": "There is a time interval of 7 days or more between Adam Smith asking Li Hua about the size of the fridge and Adam Smith informing Li Hua that the fridge will be delivered at 4pm the next day. Specifically, the interaction regarding the fridge size occurred on November 16, 2026 (at 16:00), and the delivery information was shared on November 23, 2026 (at 23:00). This indicates that the fridge delivery information was communicated 7 days after the inquiry about the fridge size.",
+  "prediction_sha256": "6ac1aed8ece8b86472aa291d74deb16fd458e60a78b62ca367c86d09fc9a5f04",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 64,
+  "usage": {
+    "completion_tokens": 121,
+    "prompt_tokens": 3425,
+    "prompt_tokens_details": null,
+    "total_tokens": 3546
+  }
+}

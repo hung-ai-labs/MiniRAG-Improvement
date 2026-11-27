@@ -1,0 +1,17 @@
+{
+  "body_sha256": "81f65858d63a0a5530556e37c268935af08895926eec593321f3e094fcfbe451",
+  "finish_reason": "stop",
+  "latency_s": 14.161233540999092,
+  "prediction": "On August 6, 2026, in the community garden project announcement by Turalyon, several new components are being considered for incorporation. These include the introduction of sustainable practices such as recycling and composting, which aims to make the garden eco-friendly and beneficial for the community. Additionally, Turalyon mentions plans to educate the community on the benefits of these practices by including information on composting and recycling on signs. Furthermore, a workshop is proposed to teach people how to compost effectively. This initiative seeks to engage the community and encourage active participation in maintaining the garden sustainably.",
+  "prediction_sha256": "92378fcebec4d0c38a57173fd79853c6e37518db1f07548b177f900d562606c3",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 33,
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 4344,
+    "prompt_tokens_details": null,
+    "total_tokens": 4464
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "d13f7d0417ad2403e177194b06b882a4919516d072cb04211fcd334e9e8d805c",
+  "finish_reason": "stop",
+  "latency_s": 10.532975542002532,
+  "prediction": "The community is organizing several events, as indicated by the provided data. One significant event is the Community Garden Renovation, which involves AdamSmith and LiHua discussing improvements to a community garden. Additionally, there is a Community Sports Day scheduled for an unspecified date, and a Community Bake Sale is planned for the upcoming Sunday at 3 PM. These events highlight the community's efforts to engage in various activities that foster interaction and support within the group.",
+  "prediction_sha256": "702c362ad18bc5cfac156f4737fa9d593104e5ce9513e151fe03ddede60cd070",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100159,
+  "usage": {
+    "completion_tokens": 91,
+    "prompt_tokens": 4276,
+    "prompt_tokens_details": null,
+    "total_tokens": 4367
+  }
+}

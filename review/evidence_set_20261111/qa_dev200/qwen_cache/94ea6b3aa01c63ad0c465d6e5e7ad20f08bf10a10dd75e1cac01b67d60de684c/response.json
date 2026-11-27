@@ -1,0 +1,17 @@
+{
+  "body_sha256": "94ea6b3aa01c63ad0c465d6e5e7ad20f08bf10a10dd75e1cac01b67d60de684c",
+  "finish_reason": "stop",
+  "latency_s": 10.60893458299688,
+  "prediction": "Based on the conversation snippets, Wolfgang has a preference for a medium-rare patty, stating that he \"get[s] the point of medium rare, but I think well-done is just safer and more flavorful.\" However, he also mentions enjoying a little char on his burger, suggesting a preference for a medium-rare patty but an openness to slight overcooking. This indicates that Wolfgang appreciates a juicy, slightly undercooked patty but is open to adjustments for safety and personal taste.",
+  "prediction_sha256": "e65d1c56e5375993a89f0bffcf464319b26bc8eaf2b8d7f32d706398a171502b",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 21,
+  "usage": {
+    "completion_tokens": 101,
+    "prompt_tokens": 3898,
+    "prompt_tokens_details": null,
+    "total_tokens": 3999
+  }
+}

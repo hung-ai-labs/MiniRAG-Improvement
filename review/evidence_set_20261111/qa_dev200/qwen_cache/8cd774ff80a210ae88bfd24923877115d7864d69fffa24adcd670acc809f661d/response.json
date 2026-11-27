@@ -1,0 +1,17 @@
+{
+  "body_sha256": "8cd774ff80a210ae88bfd24923877115d7864d69fffa24adcd670acc809f661d",
+  "finish_reason": "stop",
+  "latency_s": 8.323849332999089,
+  "prediction": "Ileana mentions the Control Center as a feature that makes switching between games and apps much smoother. Specifically, she highlights its ability to facilitate this transition by allowing users to adjust audio settings on the fly without pausing the game. This suggests that the Control Center provides a convenient and efficient way to manage various aspects of gaming, enhancing the overall experience.",
+  "prediction_sha256": "a1ea453bda4e673bb1323e8dfa4bc475d913b0f9ca2ad605135cbf2d4a68d05b",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100110,
+  "usage": {
+    "completion_tokens": 71,
+    "prompt_tokens": 4335,
+    "prompt_tokens_details": null,
+    "total_tokens": 4406
+  }
+}

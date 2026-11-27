@@ -1,0 +1,17 @@
+{
+  "body_sha256": "6e096e47e8bb95bcc8c2da0a09c6cf6dde5da78f9a87677103222b4f6eb54f58",
+  "finish_reason": "stop",
+  "latency_s": 6.496103083001799,
+  "prediction": " Gavriel has recently become engrossed in playing \"Persona 5 Royal.\" He has expressed his appreciation for this title because it incorporates a mix of role-playing game (RPG) elements with social simulation, which he finds both enjoyable and engaging. The game's battle system utilizes elemental weaknesses, adding an additional strategic layer during combat. Furthermore, the art style is described as gorgeous, contributing to the overall aesthetic experience. Gavriel seems to be enjoying the character development and narrative depth that accompanies the strategic gameplay.",
+  "prediction_sha256": "54293128ce69d68f0efe85590eec0c6cb21ee7586b0ffc37665687e937a87f5f",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 200197,
+  "usage": {
+    "completion_tokens": 129,
+    "prompt_tokens": 4769,
+    "prompt_tokens_details": null,
+    "total_tokens": 4898
+  }
+}

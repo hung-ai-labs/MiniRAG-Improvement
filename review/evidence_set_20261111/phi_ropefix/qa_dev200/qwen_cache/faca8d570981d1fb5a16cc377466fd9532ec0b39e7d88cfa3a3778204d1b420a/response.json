@@ -1,0 +1,17 @@
+{
+  "body_sha256": "faca8d570981d1fb5a16cc377466fd9532ec0b39e7d88cfa3a3778204d1b420a",
+  "finish_reason": "stop",
+  "latency_s": 10.742264624997915,
+  "prediction": " Ileana mentions the game \"Death Stranding\" for its unique world and storytelling. She particularly highlights how the visual design of the environments, from serene to desolate, as well as the weather effects and shifting lighting due to different weather conditions, contribute to an immersive and meditative gaming experience. She notes that each step feels like part of a larger unfolding story, which emphasizes the game's emotional journey alongside its breathtaking visuals. Ileana expresses enjoyment in exploring the vast open world, taking time to appreciate the details and the serenity it brings, despite the inherent challenges of the game.",
+  "prediction_sha256": "37f5e492d97c5aacccf5e7d46379e676059237f56806eef77a187b1c64f76f8c",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 200015,
+  "usage": {
+    "completion_tokens": 145,
+    "prompt_tokens": 4566,
+    "prompt_tokens_details": null,
+    "total_tokens": 4711
+  }
+}

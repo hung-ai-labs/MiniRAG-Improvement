@@ -1,0 +1,17 @@
+{
+  "body_sha256": "3dd0ca172e521207cc96b1205cf59b173841ae92d5a24e9cd9f531ce4aa0dd52",
+  "finish_reason": "stop",
+  "latency_s": 12.135024959003204,
+  "prediction": "For the upcoming community sports day, several activities and details have been discussed. According to the information provided, the event is expected to feature team sports like soccer or basketball, which are meant to bring the community together and get everyone involved in physical activities. Additionally, the event is anticipated to include fun games specifically designed for children, suggesting that the sports day will cater to both adults and children alike. There's also mention of refreshments, including snacks and drinks, to keep participants energized during the day's activities. Overall, the community sports day aims to be a fun and inclusive event that brings people together and enhances the community spirit through physical activities and social interaction.",
+  "prediction_sha256": "87b6df868cfe233e8451db8705c0d15cf42d8e11fffffd138cd27ba66251b104",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200144,
+  "usage": {
+    "completion_tokens": 134,
+    "prompt_tokens": 4778,
+    "prompt_tokens_details": null,
+    "total_tokens": 4912
+  }
+}

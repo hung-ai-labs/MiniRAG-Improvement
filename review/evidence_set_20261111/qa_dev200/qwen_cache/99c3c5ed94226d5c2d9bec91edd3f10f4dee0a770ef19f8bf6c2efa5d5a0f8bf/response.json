@@ -1,0 +1,17 @@
+{
+  "body_sha256": "99c3c5ed94226d5c2d9bec91edd3f10f4dee0a770ef19f8bf6c2efa5d5a0f8bf",
+  "finish_reason": "stop",
+  "latency_s": 7.067636166997545,
+  "prediction": "Gavriel has been particularly interested in the game \"Persona 5 Royal,\" which combines RPG elements with social simulation. This game offers a unique and compelling storyline, featuring a blend of strategic battles and character development. The game's blend of RPG and social simulation elements is praised for offering a rich and engaging gameplay experience.",
+  "prediction_sha256": "4e03404477c60fd9637440b385c48cf227492963a725a2d130c6412eeb77ef76",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100197,
+  "usage": {
+    "completion_tokens": 65,
+    "prompt_tokens": 4271,
+    "prompt_tokens_details": null,
+    "total_tokens": 4336
+  }
+}

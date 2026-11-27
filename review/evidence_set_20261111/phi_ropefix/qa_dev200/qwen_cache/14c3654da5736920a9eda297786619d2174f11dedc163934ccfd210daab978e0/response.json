@@ -1,0 +1,17 @@
+{
+  "body_sha256": "14c3654da5736920a9eda297786619d2174f11dedc163934ccfd210daab978e0",
+  "finish_reason": "stop",
+  "latency_s": 4.735142457997426,
+  "prediction": " LiHua suggests going out for hot pot, as indicated in the conversation timestamped \"Time: 20260930_16:00\". She initiates the idea by asking WolfgangSchulz if he wants to join her for dinner, specifically mentioning hot pot as the meal of choice. WolfgangSchulz responds positively, showing interest and excitement for the meal.",
+  "prediction_sha256": "5e3c46b5f21b6ebd76ee36788f9f655f76775cb2c762cbc13c2529ded38c36c0",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 100118,
+  "usage": {
+    "completion_tokens": 87,
+    "prompt_tokens": 5218,
+    "prompt_tokens_details": null,
+    "total_tokens": 5305
+  }
+}

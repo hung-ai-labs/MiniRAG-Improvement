@@ -1,0 +1,17 @@
+{
+  "body_sha256": "6fceb58d8558e0d6692e937f65fc1eda36398c025fd32ea1857b5e261884d44f",
+  "finish_reason": "stop",
+  "latency_s": 8.283815042001152,
+  "prediction": "In the provided conversations, no mention is made of bringing cones specifically for drills at the match. The only instance related to drills is during the soccer practice sessions mentioned, where participants like Farrah suggest bringing cones for passing drills. Therefore, it is uncertain who will bring the cones for the match drills.",
+  "prediction_sha256": "2e1c0e59217a6dd270c2dbca4f2ce38c39ac4ffdde191c9ab2a2eecc50c03678",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 80,
+  "usage": {
+    "completion_tokens": 61,
+    "prompt_tokens": 4923,
+    "prompt_tokens_details": null,
+    "total_tokens": 4984
+  }
+}

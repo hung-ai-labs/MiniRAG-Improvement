@@ -1,0 +1,17 @@
+{
+  "body_sha256": "71c2d645a771a34da49cdadfdf871f2dca544e102be07052dffb3eb62aec15f9",
+  "finish_reason": "stop",
+  "latency_s": 7.29182845899777,
+  "prediction": "According to the conversations recorded, Helios is currently immersed in the game \"Horizon Forbidden West.\" He expresses enthusiasm about the stunning world design and top-notch gameplay mechanics, describing the game's world as \"stunning\" and praising the \"top-notch gameplay mechanics.\"",
+  "prediction_sha256": "a0db8af41f313e89a9e9b372d78e0569365d951143afb3d7d948dc14c9de1163",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100,
+  "usage": {
+    "completion_tokens": 54,
+    "prompt_tokens": 4873,
+    "prompt_tokens_details": null,
+    "total_tokens": 4927
+  }
+}

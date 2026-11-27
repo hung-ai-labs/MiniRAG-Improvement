@@ -1,0 +1,17 @@
+{
+  "body_sha256": "5b71f1b187b0e2915db20996dd72108b0a2c7bb06e8225b9896a573ff21546e6",
+  "finish_reason": "stop",
+  "latency_s": 5.38379816700035,
+  "prediction": "In the conversation, Fionnuala shared a humorous glitch she experienced in Red Dead Redemption 2. She mentioned that one time, she was on a mission, and Arthur (her character) ended up floating in mid-air after a cutscene. Instead of dying, Arthur just hung there for a solid minute before dropping down like nothing happened. This glitch resulted in Fionnuala cracking up, as it broke the tension of the moment in a comical way.",
+  "prediction_sha256": "571b1b69f6c599241bf5ecc094c3bc9947f6a352149963142234c7d58dda4e12",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200087,
+  "usage": {
+    "completion_tokens": 95,
+    "prompt_tokens": 3860,
+    "prompt_tokens_details": null,
+    "total_tokens": 3955
+  }
+}

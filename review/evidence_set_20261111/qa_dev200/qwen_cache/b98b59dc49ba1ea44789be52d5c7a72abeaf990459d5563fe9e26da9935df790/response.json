@@ -1,0 +1,17 @@
+{
+  "body_sha256": "b98b59dc49ba1ea44789be52d5c7a72abeaf990459d5563fe9e26da9935df790",
+  "finish_reason": "stop",
+  "latency_s": 8.324113624999882,
+  "prediction": "There is no information provided in the given data about Li Hua purchasing groceries from a store on April 15, 2026. The only transaction mentioned for that date is Alice delivering bread to Li Hua from Hailey's bakery, and she is instructed to pick it up immediately. No details regarding payment methods are included in the provided records.",
+  "prediction_sha256": "f688cb4415abe95f6e03017a317a2883b34d7c2e7c5226532743d33fc432aa5f",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 115,
+  "usage": {
+    "completion_tokens": 74,
+    "prompt_tokens": 4423,
+    "prompt_tokens_details": null,
+    "total_tokens": 4497
+  }
+}

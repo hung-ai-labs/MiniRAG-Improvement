@@ -1,0 +1,17 @@
+{
+  "body_sha256": "b11023edab42f5e5d031d466dc3d15f0620f2f10de21632611ea1d01bed39284",
+  "finish_reason": "stop",
+  "latency_s": 9.429838041003677,
+  "prediction": "In the conversation provided, WolfgangSchulz informs LiHua that the new software he has been working on is almost complete. This communication occurs in the context of WolfgangSchulz discussing his ongoing software project, which is described as \"The New Software Project\" in the entity table, indicating that this project is the setting in which WolfgangSchulz feels pressured and needs support. WolfgangSchulz expresses excitement about LiHua being one of the first to try out the software and shares that it will be ready for testing soon.",
+  "prediction_sha256": "42777fb5df55ff87d2b4c27a00cd8f223d64a0073f8a5aad8173e16f6317af81",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100032,
+  "usage": {
+    "completion_tokens": 109,
+    "prompt_tokens": 3919,
+    "prompt_tokens_details": null,
+    "total_tokens": 4028
+  }
+}

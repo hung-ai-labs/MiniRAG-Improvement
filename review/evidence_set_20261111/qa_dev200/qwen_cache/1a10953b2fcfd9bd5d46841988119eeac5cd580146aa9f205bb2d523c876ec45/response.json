@@ -1,0 +1,17 @@
+{
+  "body_sha256": "1a10953b2fcfd9bd5d46841988119eeac5cd580146aa9f205bb2d523c876ec45",
+  "finish_reason": "stop",
+  "latency_s": 7.075386542004708,
+  "prediction": "According to JakeWatson, Carles Puyol and Gerard Piqué are two of the best defenders in the history of FC Barcelona. Jake acknowledges that choosing just one is difficult but believes Puyol's leadership and dedication were unparalleled, while Piqué is praised for his combination of skill and intelligence in defense.",
+  "prediction_sha256": "1a03e99d158a8f358284d89392710e14f91c98e90540b063b6878c8faf3f97f5",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100210,
+  "usage": {
+    "completion_tokens": 64,
+    "prompt_tokens": 4348,
+    "prompt_tokens_details": null,
+    "total_tokens": 4412
+  }
+}

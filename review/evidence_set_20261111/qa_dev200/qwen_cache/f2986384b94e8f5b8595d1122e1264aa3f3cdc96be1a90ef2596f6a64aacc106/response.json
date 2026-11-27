@@ -1,0 +1,17 @@
+{
+  "body_sha256": "f2986384b94e8f5b8595d1122e1264aa3f3cdc96be1a90ef2596f6a64aacc106",
+  "finish_reason": "stop",
+  "latency_s": 6.328446416999213,
+  "prediction": "In the conversation recorded on 20260329_10:00, Yuriko mentions that she found a tutorial on advanced drum techniques which she thought might help with practice. Wolfgang expresses interest in the tutorial and suggests that he and Yuriko might decide to perform a particular song together after watching it. However, no specific song is named as the duo's chosen performance. Thus, based on the available information, we cannot determine the exact song Yuriko and Wolfgang decided to perform together after watching the drum tutorial.",
+  "prediction_sha256": "90c4530b882477d289bb7df46b5b5687def8b721b05392bfe356bb89d056d717",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 168,
+  "usage": {
+    "completion_tokens": 112,
+    "prompt_tokens": 4713,
+    "prompt_tokens_details": null,
+    "total_tokens": 4825
+  }
+}

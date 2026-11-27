@@ -1,0 +1,17 @@
+{
+  "body_sha256": "3e1f3b9cbf88deb9b2debc950be019befcb018cd358792b2cad0bc4af9a49afb",
+  "finish_reason": "stop",
+  "latency_s": 9.905399082999793,
+  "prediction": "According to the conversation recorded on 20260622_11:00, Hailey Johnson reminds Li Hua about a special event at the bakery that will start on Saturday from 10 AM to 2 PM. Specifically, Hailey reminds Li Hua to come by during that time. There is no mention of a specific starting time for the event itself, only the duration and timing of the event.",
+  "prediction_sha256": "d4fb73e22e906341d3a03c1e40a9b643b24053084b9630e2c182adbf2b5f56f0",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 191,
+  "usage": {
+    "completion_tokens": 90,
+    "prompt_tokens": 4467,
+    "prompt_tokens_details": null,
+    "total_tokens": 4557
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "0e14610cec99cd8b6dbd04c45aa550de7c07f39d43da94f1a8f92a27ba95c9e7",
+  "finish_reason": "stop",
+  "latency_s": 7.619505750000826,
+  "prediction": "No, Hailey did not mention the new line of high-protein breads when she invited Li Hua to the special bakery event. Instead, she announced a new line of healthy bread options for the event. This healthy line included various bread types designed to be nutritious, which contrasts with the protein-focused line that would likely be different in composition and purpose.",
+  "prediction_sha256": "02c019737ccddd4e04f05cc113861f762e71fcc49c4be936f60dce8d3330c85d",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200172,
+  "usage": {
+    "completion_tokens": 73,
+    "prompt_tokens": 4567,
+    "prompt_tokens_details": null,
+    "total_tokens": 4640
+  }
+}

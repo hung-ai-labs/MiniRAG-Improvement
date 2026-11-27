@@ -1,0 +1,17 @@
+{
+  "body_sha256": "6642ddd11b344ec8b3a4b3f0b3ca454b4ab0cab4128ee331614c6a629cdffb92",
+  "finish_reason": "stop",
+  "latency_s": 11.559321250000721,
+  "prediction": "Based on the conversation provided, Wolfgang's preference for the doneness of a meat patty in a burger is medium rare. This preference is discussed in a previous interaction where Wolfgang expresses his preference for a medium-rare patty and mentions that he thinks well-done is \"just safer and more flavorful.\" He also clarifies his stance by stating that he likes a little char on his burger, indicating that he appreciates a medium-rare patty with a touch of grill marks.",
+  "prediction_sha256": "e8a16aab17b142037056962eb07037d32dab3e0839302f1214937f3416624121",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 21,
+  "usage": {
+    "completion_tokens": 97,
+    "prompt_tokens": 4861,
+    "prompt_tokens_details": null,
+    "total_tokens": 4958
+  }
+}

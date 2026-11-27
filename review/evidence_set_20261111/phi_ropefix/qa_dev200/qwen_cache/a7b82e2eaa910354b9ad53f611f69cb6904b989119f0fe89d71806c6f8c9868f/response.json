@@ -1,0 +1,17 @@
+{
+  "body_sha256": "a7b82e2eaa910354b9ad53f611f69cb6904b989119f0fe89d71806c6f8c9868f",
+  "finish_reason": "stop",
+  "latency_s": 11.175388916002703,
+  "prediction": " The first recorded dinner event between Li Hua and Wolfgang this year took place on May 23, 2026, at an Italian restaurant known for its pasta dishes, as indicated by the conversation id 0 in the provided data tables. The two discussed meeting around 7 PM to enjoy their favorite pasta and engage in some casual conversation prior to their meal. This encounter marked the beginning of their dining out experiences for the year, as per the available data.\n\n---\n\n*The information is sourced from the table labeled \"Sources\" with the id \"0\" which includes the detailed conversation related to their first dinner plans.",
+  "prediction_sha256": "b1d6023d004cf5ce07e330157293baac2b4a4accc50d83ecc1a6679c02dbe66a",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 200013,
+  "usage": {
+    "completion_tokens": 142,
+    "prompt_tokens": 5336,
+    "prompt_tokens_details": null,
+    "total_tokens": 5478
+  }
+}

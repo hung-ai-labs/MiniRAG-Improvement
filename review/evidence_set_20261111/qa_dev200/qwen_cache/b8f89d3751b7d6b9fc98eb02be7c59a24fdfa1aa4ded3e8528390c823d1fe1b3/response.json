@@ -1,0 +1,17 @@
+{
+  "body_sha256": "b8f89d3751b7d6b9fc98eb02be7c59a24fdfa1aa4ded3e8528390c823d1fe1b3",
+  "finish_reason": "stop",
+  "latency_s": 8.069680249998783,
+  "prediction": "According to the information provided, Pep Guardiola, who managed FC Barcelona, implemented an innovative playing style that emphasized possession-based football and high pressing. This approach allowed the team to control the game and dictate the tempo, which was particularly effective against their rivals, Real Madrid. The focus on fluid movement and quick transitions became hallmarks of Guardiola's tactical philosophy during his tenure at FC Barcelona.",
+  "prediction_sha256": "78e1e7b39c5e771d4e1e560e60691754d566f4aee416348b3713017024858324",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 169,
+  "usage": {
+    "completion_tokens": 79,
+    "prompt_tokens": 5038,
+    "prompt_tokens_details": null,
+    "total_tokens": 5117
+  }
+}

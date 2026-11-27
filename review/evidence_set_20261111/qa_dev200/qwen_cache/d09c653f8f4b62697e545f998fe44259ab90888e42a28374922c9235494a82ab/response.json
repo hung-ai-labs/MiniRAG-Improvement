@@ -1,0 +1,17 @@
+{
+  "body_sha256": "d09c653f8f4b62697e545f998fe44259ab90888e42a28374922c9235494a82ab",
+  "finish_reason": "stop",
+  "latency_s": 11.126769334005076,
+  "prediction": "The first instance of Li Hua and Wolfgang having dinner together this year is documented in a conversation from April 30, 2026, at 17:00. This interaction took place at Venedia Grancaffe, where Wolfgang celebrated his promotion. Prior to this date, there is no explicit mention of a dinner meeting between Li Hua and Wolfgang.",
+  "prediction_sha256": "8d36e6e44b223dd851ca20c83e1eb00475bee9d22d04c23b3748b9d433956d5c",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100013,
+  "usage": {
+    "completion_tokens": 77,
+    "prompt_tokens": 4512,
+    "prompt_tokens_details": null,
+    "total_tokens": 4589
+  }
+}

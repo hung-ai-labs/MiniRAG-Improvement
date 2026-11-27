@@ -1,0 +1,17 @@
+{
+  "body_sha256": "e5f585006cbf45eb66aa0aa797c5763841fa8ecf435c165d06281a621809217b",
+  "finish_reason": "stop",
+  "latency_s": 8.813977917001466,
+  "prediction": " LiHua suggests going out for hot pot. This is evident from the conversation snippet provided:\n\n```\nWolfgangSchulz: Hey man! Wanna go have hot pot for dinner tonight?\nLiHua: Hot pot sounds perfect! Sichuan is my fave. What time are we thinking?\nWolfgangSchulz: How about 7 pm? That should give us enough time to get ready!\nLiHua: 7 pm works for me! Can’t wait for all that spicy goodness!\n```\n\nIn this interaction, LiHua enthusiastically agrees to WolfgangSchulz's suggestion, indicating her interest in having a meal together at his preferred hot pot spot.",
+  "prediction_sha256": "bd302f63a7e951ba0191a0b8d42b2a8e0b2b6b4504a2319f9a1cac3e6f4473b4",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 200118,
+  "usage": {
+    "completion_tokens": 158,
+    "prompt_tokens": 5070,
+    "prompt_tokens_details": null,
+    "total_tokens": 5228
+  }
+}

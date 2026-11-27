@@ -1,0 +1,17 @@
+{
+  "body_sha256": "29ec3b7f97e1a6a18f29d59a4a19d16185dd312270f8c8d3580a4b7eb5c046b1",
+  "finish_reason": "stop",
+  "latency_s": 7.910155457997462,
+  "prediction": "In the conversation about the hot pot dinner, LiHua mentions that she prefers having cold beer to accompany the hot pot. Specifically, she states, \"How about some cold beer to go with the hot pot? Sounds like a good combo!\" Therefore, the type of drink LiHua suggests to have with hot pot is cold beer.",
+  "prediction_sha256": "e548fa6dfd062d33e2950d9691bbfdb43a13fe791a04c0a5d192c6fb1554a926",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200113,
+  "usage": {
+    "completion_tokens": 69,
+    "prompt_tokens": 4457,
+    "prompt_tokens_details": null,
+    "total_tokens": 4526
+  }
+}

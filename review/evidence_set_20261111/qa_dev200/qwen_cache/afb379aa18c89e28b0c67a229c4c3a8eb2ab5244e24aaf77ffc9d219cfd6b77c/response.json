@@ -1,0 +1,17 @@
+{
+  "body_sha256": "afb379aa18c89e28b0c67a229c4c3a8eb2ab5244e24aaf77ffc9d219cfd6b77c",
+  "finish_reason": "stop",
+  "latency_s": 10.902732916001696,
+  "prediction": "On May 14th, 2026, Li Hua and WolfgangSchulz dined at a restaurant that Li Hua found to be very enjoyable. According to their conversation, Li Hua particularly enjoyed the pasta dish served there. WolfgangSchulz, on the other hand, appreciated the steak he had. While both participants highlighted different aspects of the meal, the pasta dish seems to have been the standout item for Li Hua during their dining experience.",
+  "prediction_sha256": "bd9534a0b4e387aff49b633c570608d8e623b09054f05a133160663e9c507803",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200020,
+  "usage": {
+    "completion_tokens": 98,
+    "prompt_tokens": 4578,
+    "prompt_tokens_details": null,
+    "total_tokens": 4676
+  }
+}

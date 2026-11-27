@@ -1,0 +1,17 @@
+{
+  "body_sha256": "83d19cef1dff92e87d5359f8ee9ce076d7e23495bef1f45dbce71ab3dcafd1a7",
+  "finish_reason": "stop",
+  "latency_s": 9.136783665999246,
+  "prediction": "Based on the conversations provided, WolfgangSchulz expresses a preference for classic margherita pizza, describing it as \"simple but so good.\" He also mentions he usually goes for a nice cold drink to pair with his pizza, indicating a preference for a low-key dining experience. However, the exact type of pizza he prefers may vary based on the occasion and his mood, as he is open to trying different places and enjoying a variety of pizzas.",
+  "prediction_sha256": "98b3ecd311f1bc40d684807dace7085f874b54e1fe34161c5a822f26bb6a0b2a",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 148,
+  "usage": {
+    "completion_tokens": 91,
+    "prompt_tokens": 4424,
+    "prompt_tokens_details": null,
+    "total_tokens": 4515
+  }
+}

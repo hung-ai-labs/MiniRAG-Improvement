@@ -1,0 +1,17 @@
+{
+  "body_sha256": "3d4d59ae011bab2056c22e08e0c5959722c01de5a532cb092d1752ee06ee6b8b",
+  "finish_reason": "stop",
+  "latency_s": 7.438901916000759,
+  "prediction": "In the conversation about the upcoming hot pot dinner, WolfgangSchulz mentions that they should \"grab some drinks.\" LiHua suggests having cold beer to pair with the hot pot. Specifically, WolfgangSchulz states, \"Beer it is! 🍻 Perfect match for hot pot.\" Therefore, LiHua recommends having cold beer to complement the hot pot meal.",
+  "prediction_sha256": "43fc3482c657c507a63fb36cc7ec7c80887c6a4db1a4256a6ddcce9bf3db647f",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 113,
+  "usage": {
+    "completion_tokens": 76,
+    "prompt_tokens": 4122,
+    "prompt_tokens_details": null,
+    "total_tokens": 4198
+  }
+}

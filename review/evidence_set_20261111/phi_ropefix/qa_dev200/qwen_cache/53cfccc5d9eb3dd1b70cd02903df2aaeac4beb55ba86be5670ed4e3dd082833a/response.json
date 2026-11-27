@@ -1,0 +1,17 @@
+{
+  "body_sha256": "53cfccc5d9eb3dd1b70cd02903df2aaeac4beb55ba86be5670ed4e3dd082833a",
+  "finish_reason": "stop",
+  "latency_s": 13.270314374996815,
+  "prediction": " Before practice, Giselle reminds everyone to stretch. This is considered important to prevent injuries and maintain agility while engaging in physical activities during the drills. Giselle emphasizes the importance of incorporating stretching into their routine, highlighting that it contributes to a safe and effective training session.\n\nHere's the reminder in markdown format for clarity:\n\n```markdown\n- **Stretching Before Practice:**\n  Giselle emphasizes the importance of stretching before participating in practice sessions. Proper stretching can help maintain flexibility and reduce the risk of injury, ensuring that athletes are prepared both physically and mentally for the drills ahead. It's recommended to allocate a few minutes for a thorough warm-up to prepare the body for the physical demands of practice.\n```",
+  "prediction_sha256": "4eb68c616fca629cfeee366199988f9c3a7a913c9de4be012539dafe65385ed2",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 100174,
+  "usage": {
+    "completion_tokens": 181,
+    "prompt_tokens": 5193,
+    "prompt_tokens_details": null,
+    "total_tokens": 5374
+  }
+}

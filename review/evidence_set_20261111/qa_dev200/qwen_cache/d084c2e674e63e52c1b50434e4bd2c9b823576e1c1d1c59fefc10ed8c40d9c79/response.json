@@ -1,0 +1,17 @@
+{
+  "body_sha256": "d084c2e674e63e52c1b50434e4bd2c9b823576e1c1d1c59fefc10ed8c40d9c79",
+  "finish_reason": "stop",
+  "latency_s": 14.153730500001984,
+  "prediction": "During the discussion regarding the community sports day, several potential activities were suggested and debated. According to TirionFordring, the event is anticipated to feature fun sports activities that can bring the community together, such as soccer or basketball. Additionally, the conversation highlighted the importance of including fun games for children, which could involve team sports and friendly competitions. There was also consideration given to adding family-oriented activities, such as a tug-of-war or sack race, to accommodate different age groups. The organizers were keen on ensuring that the event would be inclusive and enjoyable for everyone, with the aim of creating a memorable day filled with both energetic and relaxed moments.",
+  "prediction_sha256": "5ed9abc6273558e0b4e0a6139d435bbdba0dd9b57ef6819e49a1304df0367312",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200144,
+  "usage": {
+    "completion_tokens": 130,
+    "prompt_tokens": 5127,
+    "prompt_tokens_details": null,
+    "total_tokens": 5257
+  }
+}

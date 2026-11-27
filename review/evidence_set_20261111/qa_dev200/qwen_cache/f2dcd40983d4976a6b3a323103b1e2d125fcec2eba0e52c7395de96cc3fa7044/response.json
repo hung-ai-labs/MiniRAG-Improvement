@@ -1,0 +1,17 @@
+{
+  "body_sha256": "f2dcd40983d4976a6b3a323103b1e2d125fcec2eba0e52c7395de96cc3fa7044",
+  "finish_reason": "stop",
+  "latency_s": 10.962890041999344,
+  "prediction": "In one of the discussions, Ileana expresses enthusiasm for a game she hasn't tried yet but mentions that she loves games with good storylines intertwined with strategy. She asks if anyone has played \"Fire Emblem,\" which is known for its rich storytelling and strategic gameplay. Given that she is looking for a game with a compelling narrative and strategic depth, \"Fire Emblem\" fits her description well. However, she hasn't played it herself yet, as evidenced by the conversation.",
+  "prediction_sha256": "125c79f5bc365c88f5c0759b4e47d43b5c450ad34fe33a4a779a56d5b0aa32b1",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200015,
+  "usage": {
+    "completion_tokens": 96,
+    "prompt_tokens": 4118,
+    "prompt_tokens_details": null,
+    "total_tokens": 4214
+  }
+}

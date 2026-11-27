@@ -1,0 +1,17 @@
+{
+  "body_sha256": "44f14d911e2a5fb4ef3a6b59cfb9f285cea60ce8649cb4304a9528403ab783e3",
+  "finish_reason": "stop",
+  "latency_s": 16.1565678750012,
+  "prediction": "Based on the conversation in the provided data, Li Hua initially expressed interest in changing their training plan to balance work and fitness better. Later, Jennifer Moore suggests that Li Hua should train twice a week. This is indicated in the following exchange:\n\n**Time: 20260112_15:00**\n> JenniferMoore: Absolutely, I can adjust the schedule for you! How about training twice a week instead? We can focus on efficiency and intensity to make the most of our sessions. Let me know if that works for you!\n>\n> **LiHua:** That sounds great! I'm all in for twice a week. Just let me know what days work best for you, and I’ll lock it in my calendar. Thanks a lot for being flexible!\n\nSo, currently, Li Hua trains twice a week.",
+  "prediction_sha256": "25a92276976f21c7b20dce2001fc03cc326b32da9a1e56599ff6f3ce7c9a7ffb",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 49,
+  "usage": {
+    "completion_tokens": 176,
+    "prompt_tokens": 4087,
+    "prompt_tokens_details": null,
+    "total_tokens": 4263
+  }
+}

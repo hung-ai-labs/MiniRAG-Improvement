@@ -1,0 +1,17 @@
+{
+  "body_sha256": "efceec2d7612e4d883399e1fd1140d4de457cc126a11eab63991f4efbcde2f7a",
+  "finish_reason": "stop",
+  "latency_s": 7.8963369999983115,
+  "prediction": "In the conversation captured on October 15th, 2026 at 15:00, WolfgangSchulz mentioned a new pizza place downtown that he heard has some amazing toppings. LiHua responded positively to this suggestion, saying \"I've been wanting to try that place! Let's go there then.\" However, the exact name of the pizza place is not specified in the given text.",
+  "prediction_sha256": "ac5a06d9a9163affbbadc0099127176f648851f6872422b46be31f9493ab2e57",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100038,
+  "usage": {
+    "completion_tokens": 86,
+    "prompt_tokens": 4348,
+    "prompt_tokens_details": null,
+    "total_tokens": 4434
+  }
+}

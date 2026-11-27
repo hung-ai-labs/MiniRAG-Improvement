@@ -1,0 +1,17 @@
+{
+  "body_sha256": "1a2a5659b9e594cddfb6a8880c4fd8d9d6d72d399e97f7177d85c3fce82364fc",
+  "finish_reason": "stop",
+  "latency_s": 8.220326167000167,
+  "prediction": "In one of the conversations, WolfgangSchulz expresses his preference for drinks when he mentions wanting \"a nice cold drink,\" which he describes as \"perfect combo!\" along with the food. Specifically, he indicates that he wants \"some soda and juice will be perfect.\" Therefore, based on the dialogue provided, WolfgangSchulz desires soda and juice to accompany his viewing of the movie.",
+  "prediction_sha256": "2dd224667475326bc0954ffbc24c988f8122b7fb62adab6a447bd8e7f5b43f15",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 170,
+  "usage": {
+    "completion_tokens": 79,
+    "prompt_tokens": 4042,
+    "prompt_tokens_details": null,
+    "total_tokens": 4121
+  }
+}

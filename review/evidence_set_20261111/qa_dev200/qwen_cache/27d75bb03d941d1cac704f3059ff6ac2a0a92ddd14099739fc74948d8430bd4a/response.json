@@ -1,0 +1,17 @@
+{
+  "body_sha256": "27d75bb03d941d1cac704f3059ff6ac2a0a92ddd14099739fc74948d8430bd4a",
+  "finish_reason": "stop",
+  "latency_s": 10.707414625001547,
+  "prediction": "In one of the conversations, Wolfgang expresses excitement about his recent trip to Hong Kong. He mentions that the city is incredibly vibrant and full of life, and he can't wait to explore. This indicates that Wolfgang finds the vibrancy and energy of the city to be a cool and interesting thing to share with LiHua. Additionally, Wolfgang highlights the stunning views of Hong Kong, particularly at night, which further showcases his enthusiasm for sharing this unique aspect of the city.",
+  "prediction_sha256": "ad057d4d08176ec0569be83877d6fd9e62d7b380751e3f4bb6b563cd36019d5a",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100102,
+  "usage": {
+    "completion_tokens": 95,
+    "prompt_tokens": 4225,
+    "prompt_tokens_details": null,
+    "total_tokens": 4320
+  }
+}

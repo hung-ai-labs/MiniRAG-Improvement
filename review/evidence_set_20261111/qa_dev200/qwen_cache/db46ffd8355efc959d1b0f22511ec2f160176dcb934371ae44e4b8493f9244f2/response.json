@@ -1,0 +1,17 @@
+{
+  "body_sha256": "db46ffd8355efc959d1b0f22511ec2f160176dcb934371ae44e4b8493f9244f2",
+  "finish_reason": "stop",
+  "latency_s": 7.372480792000715,
+  "prediction": "In one of the conversations, Wolfgang expresses his excitement about visiting a new place downtown that he has been hearing good things about. He suggests that LiHua and he should check it out sometime to try new flavors together. This indicates that Wolfgang has found a new place he finds interesting and wants to share with LiHua.",
+  "prediction_sha256": "d6449077f929183fb4ebd4e1c10ff020a5ccddd6f557db8e682fa3a4442e176a",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100102,
+  "usage": {
+    "completion_tokens": 66,
+    "prompt_tokens": 4481,
+    "prompt_tokens_details": null,
+    "total_tokens": 4547
+  }
+}

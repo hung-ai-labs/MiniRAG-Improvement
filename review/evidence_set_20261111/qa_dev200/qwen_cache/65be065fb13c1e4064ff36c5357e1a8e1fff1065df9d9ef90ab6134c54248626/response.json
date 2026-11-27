@@ -1,0 +1,17 @@
+{
+  "body_sha256": "65be065fb13c1e4064ff36c5357e1a8e1fff1065df9d9ef90ab6134c54248626",
+  "finish_reason": "stop",
+  "latency_s": 10.326779041002737,
+  "prediction": "Sova mentioned that she has been thinking about trying out high-intensity interval training (HIIT) to keep her workouts engaging and challenging. She noted that HIIT workouts are intense but also very effective and fun, as they keep her heart rate up and provide a sense of energy and accomplishment. However, Sova admitted that she has not yet tried HIIT and expressed curiosity about how to handle the increased intensity. She also inquired about tips for beginners to ensure she can safely and effectively integrate HIIT into her routine.",
+  "prediction_sha256": "dbecafdfe49e787c059c7636ed691b687d49a4b58e97a54c8ee5afe19f03420f",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 31,
+  "usage": {
+    "completion_tokens": 106,
+    "prompt_tokens": 4342,
+    "prompt_tokens_details": null,
+    "total_tokens": 4448
+  }
+}

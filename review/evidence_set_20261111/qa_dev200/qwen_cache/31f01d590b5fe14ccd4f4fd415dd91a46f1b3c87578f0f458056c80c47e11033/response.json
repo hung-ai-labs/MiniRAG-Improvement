@@ -1,0 +1,17 @@
+{
+  "body_sha256": "31f01d590b5fe14ccd4f4fd415dd91a46f1b3c87578f0f458056c80c47e11033",
+  "finish_reason": "stop",
+  "latency_s": 12.18415366699628,
+  "prediction": "No, Wolfgang did not ask Li Hua about watching \"Star Wars: A New Hope\" after inquiring about \"Overwatch 3\". According to the conversation, Wolfgang first suggested checking out \"Overwatch 3\" at a specific time and location, and then asked about a movie night for \"Star Wars: A New Hope\". Specifically, Wolfgang said, \"Hey! Sounds great! Want to grab some snacks too for the movie?\" This indicates that Wolfgang's interest in \"Star Wars: A New Hope\" came after discussing \"Overwatch 3\" and their plans for dinner and a movie night.",
+  "prediction_sha256": "88539dbd638325094f5174e5f5f3bce406195df2b34c0c4936c153f9babc3c88",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200043,
+  "usage": {
+    "completion_tokens": 124,
+    "prompt_tokens": 4651,
+    "prompt_tokens_details": null,
+    "total_tokens": 4775
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "d5a8af07b5a553bd7abe90223c4414f7a58b06fa8ae2274700114b4a11f70bd3",
+  "finish_reason": "stop",
+  "latency_s": 15.016095624996524,
+  "prediction": "In July, Hailey Johnson reaches out to Li Hua to gather feedback on her bread-tasting event. Specifically, she mentions that the event will take place on Saturday from 10 am to 2 pm, and she needs Li Hua to chat with customers and collect their thoughts on the different breads. Additionally, she suggests that Li Hua should jot down some favorite breads. Li Hua agrees to help and looks forward to the event, indicating that she will bring her notepad to document the feedback.",
+  "prediction_sha256": "d3058df903ebca55617d4153fd0ef3eba97ed71b86252cdf87f24c0467297a14",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100181,
+  "usage": {
+    "completion_tokens": 107,
+    "prompt_tokens": 3768,
+    "prompt_tokens_details": null,
+    "total_tokens": 3875
+  }
+}

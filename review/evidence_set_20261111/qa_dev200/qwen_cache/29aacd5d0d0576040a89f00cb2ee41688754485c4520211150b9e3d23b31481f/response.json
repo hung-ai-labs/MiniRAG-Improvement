@@ -1,0 +1,17 @@
+{
+  "body_sha256": "29aacd5d0d0576040a89f00cb2ee41688754485c4520211150b9e3d23b31481f",
+  "finish_reason": "stop",
+  "latency_s": 7.7228241250049905,
+  "prediction": "Chae Song-hwa is unable to join the rehearsal due to attending a medical lecture on Sunday evening. In a conversation between LiHua and Chae Song-hwa, Chae informs LiHua that he has to attend a medical lecture this Sunday evening and cannot be present for the rehearsal. LiHua and the other members express understanding and offer to plan a quick jam session at another time instead.",
+  "prediction_sha256": "7c514ac1f80519cd41b5f085ae2fa744e0ce54fa264e5e32d23f08f80d22fb2f",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200171,
+  "usage": {
+    "completion_tokens": 83,
+    "prompt_tokens": 4602,
+    "prompt_tokens_details": null,
+    "total_tokens": 4685
+  }
+}

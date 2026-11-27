@@ -1,0 +1,17 @@
+{
+  "body_sha256": "b7d9f4c800c07e1d0889f28a77a0bea1a2a611cca2aab412aeac99591bb1c42f",
+  "finish_reason": "stop",
+  "latency_s": 10.279209792002803,
+  "prediction": "Based on the conversation, Li Hua expresses a preference for a medium-rare burger patty. This preference is evident in a previous exchange where Li Hua states, \"I get that! But I just love the juicy texture of a medium rare patty. That's where all the flavor is for me!\" This indicates that Li Hua appreciates the juiciness and flavor associated with a medium-rare patty.",
+  "prediction_sha256": "3f70db65e9eb69edfd51f0d6613418c86e0f496a9ad18f942e646eacba764872",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 48,
+  "usage": {
+    "completion_tokens": 87,
+    "prompt_tokens": 4336,
+    "prompt_tokens_details": null,
+    "total_tokens": 4423
+  }
+}

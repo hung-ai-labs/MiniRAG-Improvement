@@ -1,0 +1,17 @@
+{
+  "body_sha256": "903d777135b5803208f8a7ce401843cfd8872cb32e26232ccea1119fed6daff4",
+  "finish_reason": "stop",
+  "latency_s": 9.824344833003124,
+  "prediction": "JakeWatson remembers a particularly memorable comeback for Real Madrid, which occurred in a Champions League match against Manchester City in 2022. The match featured a stoppage-time goal by Rodrygo, leading Real Madrid to score two goals in quick succession and ultimately secure a victory. This dramatic comeback showcases the team's resilience and determination under pressure, a trait that JakeWatson finds impressive.",
+  "prediction_sha256": "9e1be9a7603668025993a3af3986ee500f4db4e270157c0e28e1bffed3990726",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200150,
+  "usage": {
+    "completion_tokens": 81,
+    "prompt_tokens": 4287,
+    "prompt_tokens_details": null,
+    "total_tokens": 4368
+  }
+}

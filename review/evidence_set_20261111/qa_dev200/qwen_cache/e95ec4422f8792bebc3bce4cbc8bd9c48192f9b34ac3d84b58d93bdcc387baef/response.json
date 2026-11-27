@@ -1,0 +1,17 @@
+{
+  "body_sha256": "e95ec4422f8792bebc3bce4cbc8bd9c48192f9b34ac3d84b58d93bdcc387baef",
+  "finish_reason": "stop",
+  "latency_s": 10.301174458996684,
+  "prediction": "In the conversation dated 20260531, Li Hua expresses his interest in trying a new pastry that Hailey has introduced. Specifically, Hailey showcases a new banana durian cheesecake during a delivery event, and Li Hua indicates he wants to give it a try when it is delivered on Monday. This pastry is described as a \"new pastry\" that Li Hua has tried and enjoyed. From the context, it appears that \"NEW PASTRY\" from the entities table aligns with this description. Therefore, the type of pastry Li Hua expressed interest in trying is \"NEW PASTRY\".",
+  "prediction_sha256": "2a7129a6223b3ba6bae0e688df13bb44d8488f6d2b34936c3372399428765c46",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100195,
+  "usage": {
+    "completion_tokens": 130,
+    "prompt_tokens": 3897,
+    "prompt_tokens_details": null,
+    "total_tokens": 4027
+  }
+}

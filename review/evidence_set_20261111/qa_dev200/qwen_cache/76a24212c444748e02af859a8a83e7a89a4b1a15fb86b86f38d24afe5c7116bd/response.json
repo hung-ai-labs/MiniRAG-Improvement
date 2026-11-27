@@ -1,0 +1,17 @@
+{
+  "body_sha256": "76a24212c444748e02af859a8a83e7a89a4b1a15fb86b86f38d24afe5c7116bd",
+  "finish_reason": "stop",
+  "latency_s": 10.132703875002335,
+  "prediction": "Based on the conversations detailed in the provided data, WolfgangSchulz expressed a desire to revisit several destinations within Europe. Specifically, he mentioned a strong interest in visiting Prague, praising its enchanting old town square and the magical architecture. Additionally, WolfgangSchulz highlighted Cinque Terre as a destination he particularly wants to explore, noting the beauty of the colorful villages along the coast and the hiking trails that offer stunning views. Furthermore, WolfgangSchulz indicated a desire to return to Italy, mentioning that he has not revisited some of the coastal towns yet, suggesting a potential itinerary that includes revisiting these picturesque coastal areas.",
+  "prediction_sha256": "5a72a4fc8575358a596ef7bf291500757b86464d7eb1800f34eb463dce9a4ddd",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100156,
+  "usage": {
+    "completion_tokens": 128,
+    "prompt_tokens": 3750,
+    "prompt_tokens_details": null,
+    "total_tokens": 3878
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "68c30aa0eb0ea09fae12756ecee6da3bedfb475668abf8294049da69195f3aa5",
+  "finish_reason": "stop",
+  "latency_s": 10.810727666001185,
+  "prediction": "In the conversation dated \"Time: 20260923_16:00\", WolfgangSchulz initiates the suggestion to go to the grocery store after work. He says, \"Hey! Wanna hit the grocery store after work today? We can grab some snacks for our next jam!\" Therefore, WolfgangSchulz proposes the idea of heading to the grocery store after work.",
+  "prediction_sha256": "c545517fe004fa017de3c8afaf2836895d4b9d5511d6743930dbae6a66da002f",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 142,
+  "usage": {
+    "completion_tokens": 84,
+    "prompt_tokens": 5380,
+    "prompt_tokens_details": null,
+    "total_tokens": 5464
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "a44abf7d7b80131228133eaeb4b716764acbaf8632ac0033f59f7776c3be7798",
+  "finish_reason": "stop",
+  "latency_s": 10.456377500000599,
+  "prediction": "In the conversation between Li Hua and Hailey dated 20260531, Li Hua expressed interest in trying a new pastry that Hailey had introduced. Specifically, Hailey mentioned that they were planning to \"whip up some fruity ice cream flavors and maybe a mango-coconut pastry!\" Li Hua responded positively, saying, \"Wow, that sounds amazing! I'm definitely looking forward to trying those fruity options you mentioned.\" Therefore, based on the exchange, Li Hua's interest lies in trying the mango-coconut pastry.",
+  "prediction_sha256": "ad72a5de6028ac42d030abaca9a02df2a6fb9d6274eb19e717501ffcc07c163c",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 195,
+  "usage": {
+    "completion_tokens": 114,
+    "prompt_tokens": 4451,
+    "prompt_tokens_details": null,
+    "total_tokens": 4565
+  }
+}

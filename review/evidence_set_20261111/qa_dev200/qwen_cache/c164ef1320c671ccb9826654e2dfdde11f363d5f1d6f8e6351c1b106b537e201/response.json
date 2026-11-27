@@ -1,0 +1,17 @@
+{
+  "body_sha256": "c164ef1320c671ccb9826654e2dfdde11f363d5f1d6f8e6351c1b106b537e201",
+  "finish_reason": "stop",
+  "latency_s": 12.402045333001297,
+  "prediction": "In the conversation recorded on March 12, 2026 at 12:30, AdamSmith mentions that he would be happy to help set up for the community bake sale, which is happening on Sunday at 3 PM to support a local charity. LiHua agrees to help and express interest in attending the event to meet some neighbors. Therefore, AdamSmith offers to help with setting up for the community bake sale.",
+  "prediction_sha256": "8ed76610f143be43714ccc30d75d25f459f14dde4e299289aa3e53f67a2f8485",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 24,
+  "usage": {
+    "completion_tokens": 91,
+    "prompt_tokens": 5156,
+    "prompt_tokens_details": null,
+    "total_tokens": 5247
+  }
+}

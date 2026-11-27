@@ -1,0 +1,17 @@
+{
+  "body_sha256": "3ccc8b8338a9ecf68da0fb51494fff2227624a0962180b736012d8f76423eb3c",
+  "finish_reason": "stop",
+  "latency_s": 9.234558249998372,
+  "prediction": "From the provided data, we find that Farrah expresses admiration for Rodri's performance and acknowledges his importance to City's success. This indicates that Farrah appreciates Rodri's standout contributions to the team, specifically noting his significant impact on the team's momentum and strategy.",
+  "prediction_sha256": "450905f6ce6892f3560eba71815aa3af8ea34ca2b61ef3fc986d9c6808ef46a3",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100019,
+  "usage": {
+    "completion_tokens": 56,
+    "prompt_tokens": 3636,
+    "prompt_tokens_details": null,
+    "total_tokens": 3692
+  }
+}

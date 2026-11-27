@@ -1,0 +1,17 @@
+{
+  "body_sha256": "df9277b4392f29b68ee06aa5403d94074085677edf79188a7648063878eb60bb",
+  "finish_reason": "stop",
+  "latency_s": 8.576242791001278,
+  "prediction": "Based on the information provided in the table, Wolfgang Schulz primarily engages in physical activities involving his own bodyweight, suggesting that he uses no specialized equipment during his workouts at the gym. The entries describe him as someone who discusses plans with Li Hua and suggests playing \"Hey Jude\" at a jam session, indicating that his primary focus is on unaided exercises such as bodyweight movements. There is no mention of him using any specific gym equipment during these activities.",
+  "prediction_sha256": "f9ef4e174627c655b366285fcfdf40188d1769c92ee11b11cabaadbcef1760d4",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100092,
+  "usage": {
+    "completion_tokens": 95,
+    "prompt_tokens": 3719,
+    "prompt_tokens_details": null,
+    "total_tokens": 3814
+  }
+}

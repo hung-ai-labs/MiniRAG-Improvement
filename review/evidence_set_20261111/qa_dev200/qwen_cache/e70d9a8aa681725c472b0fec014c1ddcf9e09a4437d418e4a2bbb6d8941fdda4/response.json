@@ -1,0 +1,17 @@
+{
+  "body_sha256": "e70d9a8aa681725c472b0fec014c1ddcf9e09a4437d418e4a2bbb6d8941fdda4",
+  "finish_reason": "stop",
+  "latency_s": 8.87666783399618,
+  "prediction": "In the conversation, Jake Watson expresses interest in playing as the goalkeeper for LiHua's soccer training session, stating, \"That sounds awesome! I’d love to have you in goal. It'll be a good experience for you! What time are you thinking? 🥉⚽️\". Therefore, Jake does agree to play as the goalkeeper for the training session that LiHua proposes.",
+  "prediction_sha256": "ba34a21efe61f37e073e96517b0401bd39424c2a48d351ad1502da91a69b12f5",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100089,
+  "usage": {
+    "completion_tokens": 80,
+    "prompt_tokens": 3629,
+    "prompt_tokens_details": null,
+    "total_tokens": 3709
+  }
+}

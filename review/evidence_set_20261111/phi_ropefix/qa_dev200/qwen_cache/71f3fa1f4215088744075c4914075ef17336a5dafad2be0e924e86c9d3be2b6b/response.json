@@ -1,0 +1,17 @@
+{
+  "body_sha256": "71f3fa1f4215088744075c4914075ef17336a5dafad2be0e924e86c9d3be2b6b",
+  "finish_reason": "stop",
+  "latency_s": 9.999264416997903,
+  "prediction": " Li Hua mentions in their conversation with Wolfgang Schulz on July 30, 2026, at 17:30, that they use the gym near them, named FitZone, as a way to clear their head. Wolfgang Schulz recommends FitZone, noting that it has a relaxing vibe and helpful staff. Furthermore, Li Hua expresses interest in joining Wolfgang for a workout session, indicating they view physical activity at the gym as a means to alleviate stress and clear their mind. They see fitness as not only a way to stay active but also as an opportunity to socialize and engage in activities that promote mental well-being.",
+  "prediction_sha256": "49f1af9da0a3e62073fda5c1327d3822f87aac14ed244f10a2f1ef66b5d0f960",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 100124,
+  "usage": {
+    "completion_tokens": 149,
+    "prompt_tokens": 5048,
+    "prompt_tokens_details": null,
+    "total_tokens": 5197
+  }
+}

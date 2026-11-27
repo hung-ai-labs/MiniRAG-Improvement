@@ -1,0 +1,17 @@
+{
+  "body_sha256": "35a2f041be1ef68762d6634878682cf980974622499edfb414a03b3c2a9b8c0d",
+  "finish_reason": "stop",
+  "latency_s": 9.992443875002209,
+  "prediction": "During the community garden renovation progress reports, there is no mention of specific new species of flowers being added to the garden. The conversations primarily revolve around ideas such as adding more seating areas, flower beds with native plants, and a small herb section. Li Hua suggested adding lavender and coneflowers to the flower beds, which are both beautiful and beneficial for pollinators, but no new flower species were specifically discussed.",
+  "prediction_sha256": "e61d4a10e1ea16d767e3928f71aed1e5e6fd662c65cb2bdcfc268b3db021de6d",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 185,
+  "usage": {
+    "completion_tokens": 87,
+    "prompt_tokens": 4467,
+    "prompt_tokens_details": null,
+    "total_tokens": 4554
+  }
+}

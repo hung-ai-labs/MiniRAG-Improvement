@@ -1,0 +1,17 @@
+{
+  "body_sha256": "a8043bb4457a06387db57a0cc656ebd139c1bf07c6471264bb5d1f17e9aceaa3",
+  "finish_reason": "stop",
+  "latency_s": 5.619885416002944,
+  "prediction": "Chae Song-hwa is unable to join the rehearsal due to an obligation to attend a medical lecture scheduled for that Sunday evening. This indicates that his participation in the rehearsal has been temporarily disrupted by a professional commitment.",
+  "prediction_sha256": "2998a960f5b309bd09e1f0801fce0e399460b60186361b08db2fb8b9480abe0b",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200171,
+  "usage": {
+    "completion_tokens": 44,
+    "prompt_tokens": 4082,
+    "prompt_tokens_details": null,
+    "total_tokens": 4126
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "5c5e1b4142927937987b01d03bf5f283155ede588d1ea7576153d63c88e0f5d4",
+  "finish_reason": "stop",
+  "latency_s": 8.632667458001379,
+  "prediction": "In one of the conversations, LiHua expresses admiration for Galadriel, describing her as an inspiring figure. LiHua mentions, \"I'm totally into Galadriel! Her strength and determination are really inspiring. It's interesting to see her as a warrior rather than just a wise leader.\" Therefore, based on the dialogue provided, LiHua's favorite character and the one they find particularly inspiring is Galadriel.",
+  "prediction_sha256": "79a844b739b74e66d2a482fbea4fbcce922cc73b272b1058bba3202392360ed2",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 37,
+  "usage": {
+    "completion_tokens": 88,
+    "prompt_tokens": 4312,
+    "prompt_tokens_details": null,
+    "total_tokens": 4400
+  }
+}

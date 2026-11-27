@@ -1,0 +1,17 @@
+{
+  "body_sha256": "00fe526555de82e2a9c64c53c31e6e8ea63c36ffb8f922773faa181a90368dce",
+  "finish_reason": "stop",
+  "latency_s": 9.688768375002837,
+  "prediction": "No, there is no time interval of more than three days between LiHua initially asking Adam if she could get a small fridge for the basement and Adam inquiring about the size of the fridge. The conversation about the fridge appears to happen within a relatively short span, with Adam Smith mentioning the fridge's delivery scheduled for the next day after LiHua expressed interest in obtaining one.",
+  "prediction_sha256": "18307682d0d766ec2cf980009bc4a93fda6cb49715fb2fdeb6eb5d1071b691ce",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200057,
+  "usage": {
+    "completion_tokens": 78,
+    "prompt_tokens": 3401,
+    "prompt_tokens_details": null,
+    "total_tokens": 3479
+  }
+}

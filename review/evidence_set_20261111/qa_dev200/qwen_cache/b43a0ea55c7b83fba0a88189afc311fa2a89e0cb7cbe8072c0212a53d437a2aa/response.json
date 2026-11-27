@@ -1,0 +1,17 @@
+{
+  "body_sha256": "b43a0ea55c7b83fba0a88189afc311fa2a89e0cb7cbe8072c0212a53d437a2aa",
+  "finish_reason": "stop",
+  "latency_s": 10.970906209000532,
+  "prediction": "In one of the conversations, WolfgangSchulz mentions a new pizza place downtown that he has been hearing good things about. Specifically, this conversation takes place on October 15th at 3 PM. LiHua and WolfgangSchulz discuss the possibility of going to this new pizza place for dinner. LiHua expresses interest in trying the place, and WolfgangSchulz suggests they meet around 6:30 PM to have enough time to grab a bite before heading out to the restaurant. Therefore, the new pizza place WolfgangSchulz recommends is one located downtown.",
+  "prediction_sha256": "82b99b410786183768309a1e9a9d9609289e855dd5bf639d6cdeb9b3861ed1ec",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 175,
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 3498,
+    "prompt_tokens_details": null,
+    "total_tokens": 3618
+  }
+}

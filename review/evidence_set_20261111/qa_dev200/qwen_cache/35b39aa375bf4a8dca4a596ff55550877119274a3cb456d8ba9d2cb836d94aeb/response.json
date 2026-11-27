@@ -1,0 +1,17 @@
+{
+  "body_sha256": "35b39aa375bf4a8dca4a596ff55550877119274a3cb456d8ba9d2cb836d94aeb",
+  "finish_reason": "stop",
+  "latency_s": 8.963856374997704,
+  "prediction": "In the discussion, Sova mentions experiencing a struggle with maintaining endurance during cardio sessions. To address this, Sova suggests incorporating interval training into their cardio routine. This strategy involves alternating between short bursts of intense activity and periods of lower-intensity recovery. JenniferMoore recommends starting with shorter intervals and gradually increasing the intensity and duration as one feels more comfortable. Interval training is highlighted as a great method to build endurance without overexerting oneself, and it can also keep workouts more engaging and fun.",
+  "prediction_sha256": "b8761a89e2ea34a5c8e74e082fc0d34444f329508a7d01e32656fad8a5015588",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100031,
+  "usage": {
+    "completion_tokens": 101,
+    "prompt_tokens": 3872,
+    "prompt_tokens_details": null,
+    "total_tokens": 3973
+  }
+}

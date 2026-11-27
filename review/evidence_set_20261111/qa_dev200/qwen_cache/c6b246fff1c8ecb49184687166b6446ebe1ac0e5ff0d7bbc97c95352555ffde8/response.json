@@ -1,0 +1,17 @@
+{
+  "body_sha256": "c6b246fff1c8ecb49184687166b6446ebe1ac0e5ff0d7bbc97c95352555ffde8",
+  "finish_reason": "stop",
+  "latency_s": 7.777323665999575,
+  "prediction": "There is no information provided in the given data about Jennifer recommending books to LiHua for deepening understanding of fitness nutrition. The conversations primarily revolve around discussing workouts, maintaining fitness goals, and tips related to nutrition and exercise routines. No specific book recommendations were mentioned.",
+  "prediction_sha256": "7ea32a07a7aca34e2d959aa250e0c22250cdc27efcf32a49c0b9f958305e44bf",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100132,
+  "usage": {
+    "completion_tokens": 55,
+    "prompt_tokens": 4292,
+    "prompt_tokens_details": null,
+    "total_tokens": 4347
+  }
+}

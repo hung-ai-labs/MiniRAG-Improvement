@@ -1,0 +1,17 @@
+{
+  "body_sha256": "275eff338a67c0c5b3ae29d59c6b5620c01f061246531e10a1de43dd37c678a8",
+  "finish_reason": "stop",
+  "latency_s": 10.245928500000446,
+  "prediction": "In the conversation recorded under ID 1, it is noted that HaileyJohnson invited LiHua to taste a new bread recipe. This invitation was made at 16:00 on October 16, 2026. HaileyJohnson specifically mentioned that she had been trying out a new bread recipe and wanted LiHua to be among the first to try it.",
+  "prediction_sha256": "914f5a62c4d93cf43ce97edef3f9687c708d4e5d819886683bfc7f6c3db520d8",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100178,
+  "usage": {
+    "completion_tokens": 80,
+    "prompt_tokens": 4174,
+    "prompt_tokens_details": null,
+    "total_tokens": 4254
+  }
+}

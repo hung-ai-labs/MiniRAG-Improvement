@@ -1,0 +1,17 @@
+{
+  "body_sha256": "7314c3582332e583c8b1e507003bbbded1fe965e84fa66aa9cbd8ce6d40ff8bd",
+  "finish_reason": "stop",
+  "latency_s": 9.741018374996202,
+  "prediction": "During Hailey's bakery's anniversary event, which took place from April 15 to 17, Li Hua expressed a preference for sourdough bread. This aligns with her fondness for the traditional dish, which she enjoys and finds reminds her of family gatherings and brings good luck. Additionally, Li Hua hinted at a desire to have some sweet pastries available as well, given her enthusiasm for desserts. These preferences reflect the cultural significance of bread in celebrations and the bakery's commitment to offering a variety of delicious offerings to cater to different tastes and preferences.",
+  "prediction_sha256": "a8e65c6cdaa25c9f5668a2ea74246c25f379fbe098f834271277fa4c27dc7eca",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200040,
+  "usage": {
+    "completion_tokens": 117,
+    "prompt_tokens": 4848,
+    "prompt_tokens_details": null,
+    "total_tokens": 4965
+  }
+}

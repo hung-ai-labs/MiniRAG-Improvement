@@ -1,0 +1,17 @@
+{
+  "body_sha256": "21d585a4ef45757753f615168520d48a8b209fecde12293ab35e1559831833c1",
+  "finish_reason": "stop",
+  "latency_s": 8.478178042001673,
+  "prediction": " On July 6, 2026, Yuriko Yamamoto recommended the song \"Rolling in the Deep\" by Adele to the band. This choice is mentioned in the conversation where Yuriko starts by saying, \"Hey everyone! How about we learn \"\"Rolling in the Deep\"\" by Adele? I love the emotional vibe of that song!\". The band members seem to be enthusiastic about this suggestion, indicating that it could be a great addition to their set.",
+  "prediction_sha256": "8b6907a83b064a905aa7baf1cd288298612ea159d03a18dd0be197a7f31328d1",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 200160,
+  "usage": {
+    "completion_tokens": 111,
+    "prompt_tokens": 4518,
+    "prompt_tokens_details": null,
+    "total_tokens": 4629
+  }
+}

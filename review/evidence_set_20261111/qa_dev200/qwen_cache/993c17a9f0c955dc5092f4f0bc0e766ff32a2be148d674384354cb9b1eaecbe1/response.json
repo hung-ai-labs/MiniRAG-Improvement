@@ -1,0 +1,17 @@
+{
+  "body_sha256": "993c17a9f0c955dc5092f4f0bc0e766ff32a2be148d674384354cb9b1eaecbe1",
+  "finish_reason": "stop",
+  "latency_s": 16.424777000000176,
+  "prediction": "In the conversations between WolfgangSchulz and LiHua, WolfgangSchulz expresses his preference for pizza and suggests a new place downtown as he enjoys it. Specifically, WolfgangSchulz mentions, \"I'm a fan of that new pizza place downtown. Heard they have some amazing toppings!\" This indicates that WolfgangSchulz wants to know about LiHua's thoughts on a new pizza place located downtown. LiHua responds positively, saying, \"I've been wanting to try that place! Let's go there then.\" Thus, LiHua agrees to try the new pizza place and is interested in WolfgangSchulz's opinion on it.",
+  "prediction_sha256": "1763e9a9016fad6e2f857bb71af691467ef6c9e985805406254a8e5a84607078",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200047,
+  "usage": {
+    "completion_tokens": 134,
+    "prompt_tokens": 4492,
+    "prompt_tokens_details": null,
+    "total_tokens": 4626
+  }
+}

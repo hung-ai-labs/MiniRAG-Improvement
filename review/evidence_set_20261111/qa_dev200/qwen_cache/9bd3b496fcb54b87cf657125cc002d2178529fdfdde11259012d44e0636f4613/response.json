@@ -1,0 +1,17 @@
+{
+  "body_sha256": "9bd3b496fcb54b87cf657125cc002d2178529fdfdde11259012d44e0636f4613",
+  "finish_reason": "stop",
+  "latency_s": 8.906340333996923,
+  "prediction": "In the conversation between HaileyJohnson and LiHua, HaileyJohnson mentions that she has prepared a new bread recipe and would like LiHua to taste it. This interaction occurs in the context of HaileyJohnson inviting LiHua to the bakery for a visit at 3 PM to try the new bread. This indicates that HaileyJohnson wants LiHua to taste her newly baked bread recipe.",
+  "prediction_sha256": "6f97aceb50585a3d8a2092ef129282d2636198e45acc7aa803064d3ddd649b7a",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100067,
+  "usage": {
+    "completion_tokens": 83,
+    "prompt_tokens": 4334,
+    "prompt_tokens_details": null,
+    "total_tokens": 4417
+  }
+}

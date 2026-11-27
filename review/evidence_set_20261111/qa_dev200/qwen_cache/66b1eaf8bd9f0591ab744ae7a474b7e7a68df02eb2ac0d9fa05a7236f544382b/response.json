@@ -1,0 +1,17 @@
+{
+  "body_sha256": "66b1eaf8bd9f0591ab744ae7a474b7e7a68df02eb2ac0d9fa05a7236f544382b",
+  "finish_reason": "stop",
+  "latency_s": 6.096790625000722,
+  "prediction": "In one of the conversations, WolfgangSchulz inquired about LiHua's favorite fast food items. LiHua responded that she is a big fan of spicy chicken sandwiches, which she considers her go-to order at fast food joints. No other specific favorite snacks for a game are mentioned in the provided data.",
+  "prediction_sha256": "9240ee8d237c1b70158d0f877579c8ff0fdc28aab8026fba5ebb0cdf3d0aedd9",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 199,
+  "usage": {
+    "completion_tokens": 65,
+    "prompt_tokens": 4427,
+    "prompt_tokens_details": null,
+    "total_tokens": 4492
+  }
+}

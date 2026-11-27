@@ -1,0 +1,17 @@
+{
+  "body_sha256": "3db31a9129a7bfeb4390499c300768510bc7f41e1a3fbe3bf86d8d8ec72215fb",
+  "finish_reason": "stop",
+  "latency_s": 10.324581166998541,
+  "prediction": "On September 19, 2026, Jennifer Moore recommended several types of protein supplements to Li Hua to aid in her fitness goals. Specifically, she suggested looking into whey protein, which is beneficial for muscle recovery and building lean mass. Additionally, Jennifer advised that plant-based options such as pea or rice protein could also be good, provided that the ingredients do not contain added sugars or fillers. No particular brand or type of protein supplement was mentioned for use after the workout on September 19, 2026.",
+  "prediction_sha256": "8c0c4ce11aa9fe43268df3d0fe3b2dfb7e210e7876e30ffaa10af8e2d6eed224",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 165,
+  "usage": {
+    "completion_tokens": 112,
+    "prompt_tokens": 3785,
+    "prompt_tokens_details": null,
+    "total_tokens": 3897
+  }
+}

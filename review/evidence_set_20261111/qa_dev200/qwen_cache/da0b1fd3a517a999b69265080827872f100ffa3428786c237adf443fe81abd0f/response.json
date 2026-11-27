@@ -1,0 +1,17 @@
+{
+  "body_sha256": "da0b1fd3a517a999b69265080827872f100ffa3428786c237adf443fe81abd0f",
+  "finish_reason": "stop",
+  "latency_s": 7.695377832998929,
+  "prediction": "Based on the conversations Li Hua has shared, she expresses a preference for a medium-rare burger patty, stating that she \"just love[s] the juicy texture of a medium rare patty. That's where all the flavor is for me!\" However, she acknowledges Wolfgang Schulz's viewpoint that a well-done patty might be safer and more flavorful, and she suggests that toppings can significantly enhance the burger experience.",
+  "prediction_sha256": "4409e64e93a6b58f909049b3d79d554ca3612186aa1361a1b057d20e17519954",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100048,
+  "usage": {
+    "completion_tokens": 86,
+    "prompt_tokens": 4514,
+    "prompt_tokens_details": null,
+    "total_tokens": 4600
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "b0cc52821f0cbcd0c8e0c6366f1cbcc6ce925b4fa6b03d390521ddb8e577b4c0",
+  "finish_reason": "stop",
+  "latency_s": 6.625287875001959,
+  "prediction": "Based on the conversation, Yuriko and Wolfgang decided to perform \"Here Comes the Sun\" together during their jam session. This decision was made following Wolfgang's mention of looking into playing the Beatles songs, which he noted was a feel-good addition to their jam session. The selection of \"Here Comes the Sun\" aligns with Wolfgang's interest in exploring different genres and the desire to have a fun night jamming together.",
+  "prediction_sha256": "13ff79960f7b63af902783317b348a32b4f3a03f044be9492b32af844b2a7de5",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100168,
+  "usage": {
+    "completion_tokens": 86,
+    "prompt_tokens": 4661,
+    "prompt_tokens_details": null,
+    "total_tokens": 4747
+  }
+}

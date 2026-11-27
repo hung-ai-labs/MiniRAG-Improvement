@@ -1,0 +1,17 @@
+{
+  "body_sha256": "d6191b82dde87c3c412fa974f75b72d62470303406711e26622d62321d17466b",
+  "finish_reason": "stop",
+  "latency_s": 9.233799874993565,
+  "prediction": "In the provided conversation, LiHua initiates a request for assistance from Adam Smith regarding the installation of curtains. Specifically, LiHua mentions, \"Just let me know when you're ready, and I’ll help you with the installation.\" This indicates that Adam Smith is the person LiHua asks for help with the curtain installation.",
+  "prediction_sha256": "deccffafc334859bea09e102432c6c7eac936ee9e7da27c2402669fae61f23b6",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 149,
+  "usage": {
+    "completion_tokens": 69,
+    "prompt_tokens": 3824,
+    "prompt_tokens_details": null,
+    "total_tokens": 3893
+  }
+}

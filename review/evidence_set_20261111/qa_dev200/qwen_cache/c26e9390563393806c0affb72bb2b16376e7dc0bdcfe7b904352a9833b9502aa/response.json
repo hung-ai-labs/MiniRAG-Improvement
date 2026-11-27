@@ -1,0 +1,17 @@
+{
+  "body_sha256": "c26e9390563393806c0affb72bb2b16376e7dc0bdcfe7b904352a9833b9502aa",
+  "finish_reason": "stop",
+  "latency_s": 10.07590791599796,
+  "prediction": "Yuriko shares an online tutorial titled \"advanced drum techniques.\" The group seems enthusiastic about the content, and Wolfgang is encouraged to check it out and share any cool drumming tips he finds. The session they are preparing for involves jamming, and they express excitement about the possibility of incorporating the advanced drum techniques from the tutorial into their music.",
+  "prediction_sha256": "149f2467346bbf6876f04a92ee85191de0b0b7f8ff8bdcf065a72344e7470789",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100045,
+  "usage": {
+    "completion_tokens": 70,
+    "prompt_tokens": 4283,
+    "prompt_tokens_details": null,
+    "total_tokens": 4353
+  }
+}

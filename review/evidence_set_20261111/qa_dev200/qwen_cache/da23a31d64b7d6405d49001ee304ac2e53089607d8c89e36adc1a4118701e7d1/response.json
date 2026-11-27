@@ -1,0 +1,17 @@
+{
+  "body_sha256": "da23a31d64b7d6405d49001ee304ac2e53089607d8c89e36adc1a4118701e7d1",
+  "finish_reason": "stop",
+  "latency_s": 8.452966832999664,
+  "prediction": "In the conversation recorded on 20260416_21:00, WolfgangSchulz suggests that the band takes a break from jamming this week. He mentions, \"Hey guys, how about we take a break from jamming this week? Could use some time to recharge!\" This proposal is followed by responses from YurikoYamamoto and LiHua, indicating their agreement and anticipation for a rest period.",
+  "prediction_sha256": "0d594ae31b1a033ef977a78c0cd0171cea2471884b99023e7d92bfc15ae17a5a",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 205,
+  "usage": {
+    "completion_tokens": 93,
+    "prompt_tokens": 4515,
+    "prompt_tokens_details": null,
+    "total_tokens": 4608
+  }
+}

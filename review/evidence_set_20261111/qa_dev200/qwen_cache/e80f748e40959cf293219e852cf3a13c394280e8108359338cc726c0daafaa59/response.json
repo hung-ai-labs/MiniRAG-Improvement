@@ -1,0 +1,17 @@
+{
+  "body_sha256": "e80f748e40959cf293219e852cf3a13c394280e8108359338cc726c0daafaa59",
+  "finish_reason": "stop",
+  "latency_s": 6.4944047079989105,
+  "prediction": "In the provided conversations, there is no mention of Li Hua watching the movie \"Overwatch 3\". The discussion revolves around plans to watch the classic movie \"Star Wars: A New Hope\" after work. Therefore, based on the information available, it is not possible to determine the time Li Hua watches \"Overwatch 3\".",
+  "prediction_sha256": "9a6af5b9fd1318869aee7960d6896056f8921d804e730d3a383c1b90be26c4aa",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100136,
+  "usage": {
+    "completion_tokens": 70,
+    "prompt_tokens": 3577,
+    "prompt_tokens_details": null,
+    "total_tokens": 3647
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "4fc0b88b7c677effa8cbbf9136df1c13961887c412a9587c9322a2cb15f79ec0",
+  "finish_reason": "stop",
+  "latency_s": 17.45648437499767,
+  "prediction": " Wolfgang Schulz's promotion celebration dinner is scheduled for April 30th, 2026, at 6 PM at Venedia Grancaffe. This event is described in a casual conversation between Wolfgang Schulz and LiHua, where Wolfgang expresses his excitement about his recent promotion and the anticipation of celebrating with LiHua. They discuss various options for what they might order for the occasion, indicating that it is a significant social event for Wolfgang following his professional milestone.\n\nHere's a more detailed look at the context provided by the data tables and sources:\n\n- **Date and Time:** The specific date is provided as \"20260430_17:00\" in the content.\n- **Participants:** Both Wolfgang Schulz and LiHua are mentioned as part of the conversation, planning to attend the dinner together.\n- **Context:** The dinner is framed as an opportunity for Wolfgang to celebrate his recent promotion, with LiHua showing enthusiasm and support for Wolfgang.\n\nFrom the content snippet provided:\n\n```csv\nid,content\n0,\"Time: 20260430_17:00\nWolfgangSchulz: Hey! Just a reminder about dinner tonight at 6 PM at Venedia Grancaffe. Can’t wait to celebrate my promotion! 🎉🍝\nLiHua: Sounds awesome! Can’t believe you got promoted, man! See you there! 🎊\nWolfgangSchulz: Yeah, it’s been a wild ride! Looking forward to celebrating with you! Be sure to bring your appetite! 😄🍕\"\n```\n\nThis conversation illustrates the significance of the dinner as a celebratory event, painting a picture of Wolfgang's recent success in his career and the importance of the gathering with LiHua to mark this occasion with a casual yet meaningful outing.",
+  "prediction_sha256": "787383e1f5af58c1eb206c79ffdb3bd3c39c592a6f7bc5834c6d184092b36dad",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 200139,
+  "usage": {
+    "completion_tokens": 440,
+    "prompt_tokens": 6096,
+    "prompt_tokens_details": null,
+    "total_tokens": 6536
+  }
+}

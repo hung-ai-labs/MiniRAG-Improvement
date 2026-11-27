@@ -1,0 +1,17 @@
+{
+  "body_sha256": "35474f927f88063db20f53364dfa46608bd9953e7ead0c9e50e0ac6941a7d83a",
+  "finish_reason": "stop",
+  "latency_s": 9.412709332995291,
+  "prediction": "Based on previous interactions, Adam Smith suggests using removable hooks to hang artwork on the walls without causing any damage. Specifically, during a conversation about adding decorations to the basement, Li Hua inquired about hanging sound-insulating pads, and Adam responded affirmatively, stating, \"That sounds like a great idea. As long as it’s reversible and doesn’t damage anything, I’m okay with it.\" Therefore, removable hooks are recommended by Adam Smith for safely hanging artwork.",
+  "prediction_sha256": "5270a928764f83f612aa6b159dc799b89908fdc6228f54c93ad21e1317885317",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100095,
+  "usage": {
+    "completion_tokens": 95,
+    "prompt_tokens": 4491,
+    "prompt_tokens_details": null,
+    "total_tokens": 4586
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "e97c295ab7b4bc3eba1b52a8ba6a77d7568f59354f230c3ea39d1b2fb4831cbd",
+  "finish_reason": "stop",
+  "latency_s": 7.784825457994884,
+  "prediction": "In the conversation, Li Hua mentions that she enjoys playing guitar in the basement and even organizes jam sessions there with Wolfgang Schulz and Yuriko Yamamoto. Specifically, Li Hua states, \"I play guitar and have jam sessions with Wolfgang and Yuriko every Sunday!\" Therefore, Li Hua plays the guitar in the basement.",
+  "prediction_sha256": "cf88b4cbc59f05387799c2524be93cce6f419655752a86894f95fd8eaa0e3dd0",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 117,
+  "usage": {
+    "completion_tokens": 71,
+    "prompt_tokens": 3887,
+    "prompt_tokens_details": null,
+    "total_tokens": 3958
+  }
+}

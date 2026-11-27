@@ -1,0 +1,17 @@
+{
+  "body_sha256": "4b5f2679fad82a06a7b6539d553f78d376002046f917bf3c72a634b4d680ebab",
+  "finish_reason": "stop",
+  "latency_s": 11.007361500000115,
+  "prediction": "On September 19, 2026, Jennifer Moore recommended that Li Hua focus on consuming protein after her workouts, specifically mentioning whey protein as a good option for muscle recovery and building lean mass. She also suggested plant-based protein options like pea or rice protein, depending on Li Hua's dietary preferences. However, neither Jennifer nor Li Hua mentioned any particular brand or type of protein supplement used after the workout on that date.",
+  "prediction_sha256": "35456217b11421cdbe729048043927015bf89aefdd4873b408d46eeab7e3ec25",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200165,
+  "usage": {
+    "completion_tokens": 92,
+    "prompt_tokens": 4464,
+    "prompt_tokens_details": null,
+    "total_tokens": 4556
+  }
+}

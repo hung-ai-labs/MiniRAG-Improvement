@@ -1,0 +1,17 @@
+{
+  "body_sha256": "cd5f1299025c77e66e20c1855ed8ae77a0dbdab7412de5215a012e92b4383331",
+  "finish_reason": "stop",
+  "latency_s": 10.276185374998022,
+  "prediction": "There is no mention of Yuriko seeking help from LiHua on 20260807 in the provided conversation. The data table only contains entries related to activities and discussions happening on specific dates, and none of them detail Yuriko asking for assistance from LiHua. Therefore, based on the information given, it appears that Yuriko does not ask for LiHua's help on 20260807.",
+  "prediction_sha256": "511774e643856a24084d9f401fe10e6b81f5cae2d2ffae32d2a3b65703a4fc4b",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200,
+  "usage": {
+    "completion_tokens": 96,
+    "prompt_tokens": 4420,
+    "prompt_tokens_details": null,
+    "total_tokens": 4516
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "dbaa3902ea17fdc51ebf83557474f2540eabd9a000f9dc7f119a17a1cca48a6c",
+  "finish_reason": "stop",
+  "latency_s": 15.18988433299819,
+  "prediction": "The conversation indicates a very rapid exchange regarding the fridge. Specifically, AdamSmith first checks in with LiHua about the size of the fridge on November 16th at 16:00. Following this, AdamSmith informs LiHua that the fridge will be delivered tomorrow at 4pm (November 23rd) at 23:00 on November 16th. Given that the time difference is less than 7 days, specifically 7 days and 7 hours, it appears that the delivery date was confirmed within a short timeframe following the initial inquiry about the fridge size. Therefore, the time interval between Adam asking LiHua about the size of the fridge and Adam informing LiHua that the fridge will be delivered at 4pm the next day is not more than 7 days.",
+  "prediction_sha256": "a3c5e01f6728d3d7c5b5465b535ba643244583926a56a0f4936d3e086e2f6acf",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100064,
+  "usage": {
+    "completion_tokens": 170,
+    "prompt_tokens": 4339,
+    "prompt_tokens_details": null,
+    "total_tokens": 4509
+  }
+}

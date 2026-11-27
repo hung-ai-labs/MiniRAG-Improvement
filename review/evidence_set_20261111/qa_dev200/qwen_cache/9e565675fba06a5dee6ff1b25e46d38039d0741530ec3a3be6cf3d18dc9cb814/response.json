@@ -1,0 +1,17 @@
+{
+  "body_sha256": "9e565675fba06a5dee6ff1b25e46d38039d0741530ec3a3be6cf3d18dc9cb814",
+  "finish_reason": "stop",
+  "latency_s": 7.388633292001032,
+  "prediction": "Giselle emphasizes the importance of accuracy in passing drills. In a practice session, she expressed excitement for the upcoming practice session, looking forward to improving their passing skills and having fun while doing so. She also provided reminders and advice for the upcoming practice session, showing her dedication to ensuring that the practice is beneficial and enjoyable for everyone involved.",
+  "prediction_sha256": "ff266640ecc983898a9af7deff34334c141bce3606bc3dd0f46d89611299515d",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100141,
+  "usage": {
+    "completion_tokens": 69,
+    "prompt_tokens": 4935,
+    "prompt_tokens_details": null,
+    "total_tokens": 5004
+  }
+}

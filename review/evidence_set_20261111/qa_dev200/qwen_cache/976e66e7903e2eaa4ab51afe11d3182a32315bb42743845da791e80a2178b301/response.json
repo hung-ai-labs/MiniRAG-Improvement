@@ -1,0 +1,17 @@
+{
+  "body_sha256": "976e66e7903e2eaa4ab51afe11d3182a32315bb42743845da791e80a2178b301",
+  "finish_reason": "stop",
+  "latency_s": 12.234622040996328,
+  "prediction": "Li Hua expressed interest in attending Hailey's Bakery's anniversary event which is scheduled from April 15 to 17. During their conversation, Li Hua mentioned their hope to try out the new bread products that Hailey's Bakery would be offering during the event. Specifically, Li Hua expressed a desire to try sourdough bread, which is one of Li Hua's favorite types of bread. There is no mention of Li Hua wanting to try specific pastries or desserts. Therefore, based on the available information, the primary item Li Hua wishes to have on Hailey's Bakery's anniversary event is sourdough bread.",
+  "prediction_sha256": "ba1c2916b5e57850255b8586374bea5785b8882f3709f5f33a96363938c4210a",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 40,
+  "usage": {
+    "completion_tokens": 133,
+    "prompt_tokens": 4556,
+    "prompt_tokens_details": null,
+    "total_tokens": 4689
+  }
+}

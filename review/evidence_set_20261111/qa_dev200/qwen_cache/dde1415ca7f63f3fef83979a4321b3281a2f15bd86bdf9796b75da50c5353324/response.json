@@ -1,0 +1,17 @@
+{
+  "body_sha256": "dde1415ca7f63f3fef83979a4321b3281a2f15bd86bdf9796b75da50c5353324",
+  "finish_reason": "stop",
+  "latency_s": 11.46274970900049,
+  "prediction": "In the conversation, Aisling expressed enthusiasm for the traps in \"Octopath Traveler.\" She stated, \"Traps are such a game changer! I’ve set up a few ambushes that worked out really well. I love the strategy it adds to the battles!\" This indicates that Aisling appreciates the strategic element that traps bring to battles, finding them particularly useful for setting up ambushes that can lead to successful outcomes.",
+  "prediction_sha256": "639273f54e349256960456ffee6f5296eed792a267a9587e12f32490fd348d7e",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 23,
+  "usage": {
+    "completion_tokens": 89,
+    "prompt_tokens": 3771,
+    "prompt_tokens_details": null,
+    "total_tokens": 3860
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "7a1c525b8970ef975a08d2cafdb0bd3bbf9707c115c714bf144fa8dc69e987c9",
+  "finish_reason": "stop",
+  "latency_s": 7.803776666994963,
+  "prediction": "In the conversation regarding the karaoke activity, LiHua expresses interest in adding some classics to the playlist. Specifically, he suggests \"I Will Survive\" and \"Sweet Caroline.\" He also proposes \"Dancing Queen,\" which he emphasizes as a \"fun song to belt out.\" These suggestions align with the earlier discussions where both LiHua and ChaeSong-hwa expressed enthusiasm for including popular and upbeat songs in the karaoke session.",
+  "prediction_sha256": "9a5b15c3168cfe0905fde3ca1eb15b8a5e4ccec46352c51201ede8443d9e8475",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200074,
+  "usage": {
+    "completion_tokens": 90,
+    "prompt_tokens": 4459,
+    "prompt_tokens_details": null,
+    "total_tokens": 4549
+  }
+}

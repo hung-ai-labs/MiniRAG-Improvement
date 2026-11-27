@@ -1,0 +1,17 @@
+{
+  "body_sha256": "a15fbae34cf82a2da42e9907be5261510e8620c4b2b229d3e86262cd935fc484",
+  "finish_reason": "stop",
+  "latency_s": 8.181174083001679,
+  "prediction": "In one of the conversations recorded, Jennifer Moore recommended two books to LiHua for deepening her understanding of fitness nutrition. The first recommendation was \"The New Rules of Lifting\" by Lou Schuler and Alwyn Cosgrove. This book combines diet with workout strategies, providing a comprehensive approach to fitness and nutrition. Additionally, Jennifer suggested \"Precision Nutrition,\" which offers excellent online courses tailored for those interested in further exploring the subject.",
+  "prediction_sha256": "941a5e0a84502ed72bb1f86543361d43616f3d1dbd8d2e5db819da5fe0b7a372",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200132,
+  "usage": {
+    "completion_tokens": 89,
+    "prompt_tokens": 4283,
+    "prompt_tokens_details": null,
+    "total_tokens": 4372
+  }
+}

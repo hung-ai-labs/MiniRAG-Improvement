@@ -1,0 +1,17 @@
+{
+  "body_sha256": "d9b745c5733b19cfdc35b6d2f9a1c900e402f543cf527c42c699bcef6c9a5283",
+  "finish_reason": "stop",
+  "latency_s": 6.817511459004891,
+  "prediction": "During the last community meeting, Li Hua had several specific suggestions for the construction schedule. She noted that mornings were her preferred time to avoid, and she mentioned these preferences to Adam Smith, who was responsible for scheduling the maintenance work. Unfortunately, the specific details of the construction schedule were not discussed in the conversation, only that Li Hua had communicated her preferences to Adam Smith. Therefore, the exact times and dates for the construction work were not outlined during this particular meeting.",
+  "prediction_sha256": "213853691eb73a8e18861aa78b23b12caf714970e2d1449baa38fe3a8a92b772",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100154,
+  "usage": {
+    "completion_tokens": 96,
+    "prompt_tokens": 4425,
+    "prompt_tokens_details": null,
+    "total_tokens": 4521
+  }
+}

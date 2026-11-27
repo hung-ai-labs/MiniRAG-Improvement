@@ -1,0 +1,17 @@
+{
+  "body_sha256": "66a062d380dd2311c07b30f039479ff1ac73599cb8b231385e8bf21ee51fa0a1",
+  "finish_reason": "stop",
+  "latency_s": 10.921319875000336,
+  "prediction": "In the conversation, Sova mentions trying to incorporate interval training into their cardio sessions, suggesting that mixing up the types of cardio they engage in can keep things interesting. Additionally, Sova proposes starting with shorter intervals and gradually increasing the duration and intensity of these intervals as they become more comfortable. This strategy aligns with Jennifer Moore's recommendation to mix up activities like cycling, running, or swimming, and to incorporate interval training, which can be a great way to build endurance without overstressing the body.",
+  "prediction_sha256": "63a4c978fe61b31781194be145c71b909397b484533021c0b9390804d82f1848",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100031,
+  "usage": {
+    "completion_tokens": 101,
+    "prompt_tokens": 4342,
+    "prompt_tokens_details": null,
+    "total_tokens": 4443
+  }
+}

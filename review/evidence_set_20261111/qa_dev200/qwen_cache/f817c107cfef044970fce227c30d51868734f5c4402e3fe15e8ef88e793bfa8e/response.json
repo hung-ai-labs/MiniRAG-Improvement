@@ -1,0 +1,17 @@
+{
+  "body_sha256": "f817c107cfef044970fce227c30d51868734f5c4402e3fe15e8ef88e793bfa8e",
+  "finish_reason": "stop",
+  "latency_s": 8.180309792005573,
+  "prediction": "According to the conversation, Li Hua received the curtains \"yesterday.\" This statement was made by Li Hua herself when she replied to Adam Smith, saying, \"Yep, I have received it yesterday! Thanks so much, Adam!\" Thus, the curtains were delivered to Li Hua the day before the conversation took place.",
+  "prediction_sha256": "d71661c7bcb68927601a59b4fa8543dc58b5fa7d24fbaf31b9fa30dd92df1eb6",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 42,
+  "usage": {
+    "completion_tokens": 67,
+    "prompt_tokens": 3585,
+    "prompt_tokens_details": null,
+    "total_tokens": 3652
+  }
+}

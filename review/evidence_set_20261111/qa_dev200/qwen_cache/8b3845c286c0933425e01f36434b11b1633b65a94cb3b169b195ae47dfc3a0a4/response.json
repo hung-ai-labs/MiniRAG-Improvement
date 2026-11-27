@@ -1,0 +1,17 @@
+{
+  "body_sha256": "8b3845c286c0933425e01f36434b11b1633b65a94cb3b169b195ae47dfc3a0a4",
+  "finish_reason": "stop",
+  "latency_s": 11.659041708997393,
+  "prediction": "During the discussion about the upcoming garage sale, AdamSmith offered to help with setting things up if needed. Specifically, he said, \"Let me know if you need any help setting things up. 😊\" LiHua responded positively to this offer, saying, \"Thanks for the offer! I think we’ll manage, but I’ll reach out if we need an extra hand. Appreciate it!\" This indicates that AdamSmith volunteered to assist with the setup, although LiHua suggested they might need additional help.",
+  "prediction_sha256": "dbe346d6e7157dd24a85e4fa28043b80963ec9dd66a06cb7846f3b0a444e1bc1",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100024,
+  "usage": {
+    "completion_tokens": 105,
+    "prompt_tokens": 5249,
+    "prompt_tokens_details": null,
+    "total_tokens": 5354
+  }
+}

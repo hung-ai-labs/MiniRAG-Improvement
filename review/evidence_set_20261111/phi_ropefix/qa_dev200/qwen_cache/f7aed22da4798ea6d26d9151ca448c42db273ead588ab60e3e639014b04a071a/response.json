@@ -1,0 +1,17 @@
+{
+  "body_sha256": "f7aed22da4798ea6d26d9151ca448c42db273ead588ab60e3e639014b04a071a",
+  "finish_reason": "stop",
+  "latency_s": 4.703274999999849,
+  "prediction": " Li Hua measured the dimensions of the window prior to installing the curtains. The recorded measurements were as follows:\n\n- Width: 150 centimeters\n- Height: 120 centimeters\n\nThese dimensions were necessary for Adam Smith to order the correct size of curtains for the basement window. Li Hua provided these exact figures to ensure a precise fit for the window drapes.",
+  "prediction_sha256": "15761eaa507531086dd0b7bc0c5743c4007cc9548957a916802a502544df5604",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 100059,
+  "usage": {
+    "completion_tokens": 92,
+    "prompt_tokens": 5043,
+    "prompt_tokens_details": null,
+    "total_tokens": 5135
+  }
+}

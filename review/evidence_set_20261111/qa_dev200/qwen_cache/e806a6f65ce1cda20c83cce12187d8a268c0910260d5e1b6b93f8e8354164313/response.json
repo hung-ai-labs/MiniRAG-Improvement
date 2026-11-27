@@ -1,0 +1,17 @@
+{
+  "body_sha256": "e806a6f65ce1cda20c83cce12187d8a268c0910260d5e1b6b93f8e8354164313",
+  "finish_reason": "stop",
+  "latency_s": 5.728557665999688,
+  "prediction": "On April Fool's Day, Wolfgang makes a playful joke by announcing he has purchased a set of expensive drums as a surprise. However, he reveals it was just an April Fool's joke. This prank was intended to amuse his friends and colleagues, particularly highlighting his sense of humor and ability to pull off unexpected jokes.",
+  "prediction_sha256": "e1fa1ccc31f069c0627eb6750d3ab133d727e36f7667ffd2756db2cb2abedccd",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200039,
+  "usage": {
+    "completion_tokens": 65,
+    "prompt_tokens": 4651,
+    "prompt_tokens_details": null,
+    "total_tokens": 4716
+  }
+}

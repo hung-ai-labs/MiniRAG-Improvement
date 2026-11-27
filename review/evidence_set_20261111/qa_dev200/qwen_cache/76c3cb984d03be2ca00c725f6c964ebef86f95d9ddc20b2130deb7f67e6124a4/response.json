@@ -1,0 +1,17 @@
+{
+  "body_sha256": "76c3cb984d03be2ca00c725f6c964ebef86f95d9ddc20b2130deb7f67e6124a4",
+  "finish_reason": "stop",
+  "latency_s": 10.28725254100209,
+  "prediction": "In the conversation, LiHua initiates the idea of going out for hot pot, stating \"Hey man! Wanna go have hot pot for dinner tonight? Let me know!\" WolfgangSchulz responds positively to the suggestion, agreeing that it sounds perfect, and they agree on a time of 7 pm. Therefore, LiHua is the one who suggests going out for hot pot.",
+  "prediction_sha256": "2bbe874270d20ad9ad3b06165d51da5768563ea5dce6781d546ff5f7d691c274",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 118,
+  "usage": {
+    "completion_tokens": 80,
+    "prompt_tokens": 4975,
+    "prompt_tokens_details": null,
+    "total_tokens": 5055
+  }
+}

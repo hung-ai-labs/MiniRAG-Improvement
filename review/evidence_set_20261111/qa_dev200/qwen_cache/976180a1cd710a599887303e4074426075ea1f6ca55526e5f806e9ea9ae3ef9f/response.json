@@ -1,0 +1,17 @@
+{
+  "body_sha256": "976180a1cd710a599887303e4074426075ea1f6ca55526e5f806e9ea9ae3ef9f",
+  "finish_reason": "stop",
+  "latency_s": 9.704489083000226,
+  "prediction": "The community is organizing several events, but the most prominent one is the Community Garden Renovation, which involves discussions and planning for improvements to a community garden. Additionally, they are planning a Community Sports Day, a Community Bake Sale, and regular meetings to finalize the garden project. Each of these events aims to bring the community together and enhance their shared space and activities.",
+  "prediction_sha256": "97e8f4be0a3531fb855812f9897d37c4fdc7742963d4ff0124cd11ea1c8560fd",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 159,
+  "usage": {
+    "completion_tokens": 74,
+    "prompt_tokens": 5069,
+    "prompt_tokens_details": null,
+    "total_tokens": 5143
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "36d583fea0bb3c532ce38d055b5f7588ef80d0400734a40c424887781ad4e0f1",
+  "finish_reason": "stop",
+  "latency_s": 7.314458791999641,
+  "prediction": "Chae Song-hwa is unable to join the rehearsal due to an appointment he has committed to attending. Specifically, he informs the group that he needs to attend a medical lecture this Sunday evening and cannot be present for the rehearsal. This indicates that his participation in the rehearsal is contingent upon his medical lecture, which takes precedence over his involvement in the band practice.",
+  "prediction_sha256": "88dcf0d3b7d258fc925ac6e49377a3f5810e672ba285df1edc69483dfd1bc05f",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 171,
+  "usage": {
+    "completion_tokens": 73,
+    "prompt_tokens": 4602,
+    "prompt_tokens_details": null,
+    "total_tokens": 4675
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "a24c3893055720a29b0d53edd4ea05070cf044b99c47c52f9b30b70207305de7",
+  "finish_reason": "stop",
+  "latency_s": 9.094744583999272,
+  "prediction": "According to the conversation, Li Hua received the curtains \"yesterday.\" This statement is made by Adam Smith in the first message dated \"20261012_10:00\". Li Hua specifically mentions, \"I have received it yesterday! Thanks so much, Adam!\" This indicates that the curtains were delivered the previous day.",
+  "prediction_sha256": "f6f1555374b2fa4036017fe4291a0a454befbc7b59ddcb61c71796f4d71072c9",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100042,
+  "usage": {
+    "completion_tokens": 74,
+    "prompt_tokens": 4315,
+    "prompt_tokens_details": null,
+    "total_tokens": 4389
+  }
+}

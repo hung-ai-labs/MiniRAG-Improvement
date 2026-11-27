@@ -1,0 +1,17 @@
+{
+  "body_sha256": "6ec3e2dbdd9539ec559fbddc9e468dd51997b4e9ceb62225e79454634a410efe",
+  "finish_reason": "stop",
+  "latency_s": 9.101639083004557,
+  "prediction": "In the conversations, JakeWatson expresses admiration for the comebacks between FC Barcelona and Bayern Munich, particularly highlighting a match where Barca lost 4-0 in 2013 but went on to win 7-0 in 2015. This dramatic turn of events showcases the intense rivalry and competitive spirit between these two teams.",
+  "prediction_sha256": "8d289329a9e624a95e68e9c797b0dcb8b15ceacd4d0f71a73fbeca4e8fcf450e",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100135,
+  "usage": {
+    "completion_tokens": 72,
+    "prompt_tokens": 4323,
+    "prompt_tokens_details": null,
+    "total_tokens": 4395
+  }
+}

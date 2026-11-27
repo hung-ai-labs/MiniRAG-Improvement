@@ -1,0 +1,17 @@
+{
+  "body_sha256": "d359e883f21cffc9578edae58c85304d0a8740b42640d357196718ca4bf192ff",
+  "finish_reason": "stop",
+  "latency_s": 11.842539917000977,
+  "prediction": "According to the conversation on 20260703, Yuriko proposed practicing \"Take Me Home Country Roads\" by John Denver this weekend. She mentioned that she thinks it would create a nice relaxed vibe for their community performance.",
+  "prediction_sha256": "79e29eb87255ca089cd0429ed700de9640ecb68d3cffd23ccf8da41d0734b56b",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100104,
+  "usage": {
+    "completion_tokens": 51,
+    "prompt_tokens": 4522,
+    "prompt_tokens_details": null,
+    "total_tokens": 4573
+  }
+}

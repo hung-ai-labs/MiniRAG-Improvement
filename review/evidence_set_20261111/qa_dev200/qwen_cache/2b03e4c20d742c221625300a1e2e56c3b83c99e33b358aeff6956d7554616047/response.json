@@ -1,0 +1,17 @@
+{
+  "body_sha256": "2b03e4c20d742c221625300a1e2e56c3b83c99e33b358aeff6956d7554616047",
+  "finish_reason": "stop",
+  "latency_s": 10.39941849999741,
+  "prediction": "There is no information provided in the given data about Li Hua purchasing groceries from a store on April 15, 2026. The only transactions involving payments mentioned are related to rent and deliveries from Hailey's Bakery. Payments for these items were made via bank transfer and cash on delivery (COD) for the bread orders. Therefore, based on the details available, it is not possible to determine the payment method used by Li Hua for grocery purchases on April 15, 2026.",
+  "prediction_sha256": "b7b9d6f706048d0650fac9ffbeb42af146cbc9d9b153a8b851881236bdee1d45",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100115,
+  "usage": {
+    "completion_tokens": 107,
+    "prompt_tokens": 4423,
+    "prompt_tokens_details": null,
+    "total_tokens": 4530
+  }
+}

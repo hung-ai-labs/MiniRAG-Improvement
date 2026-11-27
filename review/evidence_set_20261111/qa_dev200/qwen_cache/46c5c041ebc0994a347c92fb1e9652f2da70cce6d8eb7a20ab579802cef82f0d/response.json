@@ -1,0 +1,17 @@
+{
+  "body_sha256": "46c5c041ebc0994a347c92fb1e9652f2da70cce6d8eb7a20ab579802cef82f0d",
+  "finish_reason": "stop",
+  "latency_s": 10.162969167002302,
+  "prediction": "Based on the conversations recorded, LiHua has expressed a preference for snacks that are quick and easy to prepare, particularly when he needs to quickly refuel after intense activities. In one interaction, Jake Watson suggests that LiHua likes to grab a banana with peanut butter as a post-game recovery snack. Additionally, LiHua mentions enjoying smoothies for breakfast, which are another type of quick and easy snack. Therefore, it appears that LiHua's favorite snacks for the game are likely to be either a banana with peanut butter or a smoothie, depending on whether the game is during or before his morning routine.",
+  "prediction_sha256": "d794bf50576a7dcd59321750cbf8d3b05eb2a0307771c75c5a176b1aa88bf8be",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100199,
+  "usage": {
+    "completion_tokens": 126,
+    "prompt_tokens": 4405,
+    "prompt_tokens_details": null,
+    "total_tokens": 4531
+  }
+}

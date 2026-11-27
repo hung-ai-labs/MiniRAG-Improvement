@@ -1,0 +1,17 @@
+{
+  "body_sha256": "543c0d38cbbabb9db6eba8e5c44491bf8470a29794217445cc59b14a80289ff2",
+  "finish_reason": "stop",
+  "latency_s": 4.618856541994319,
+  "prediction": "According to the conversation, WolfgangSchulz expressed a preference for soda and juice for the movie night. Specifically, he said, \"What drinks do you want? 🥤\" and \"Just some soda and juice will be perfect.\"",
+  "prediction_sha256": "57dd7f51477a07005cddf4280925a033241a2c3c5cdd90b0cb0b344ac6c06a53",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200170,
+  "usage": {
+    "completion_tokens": 49,
+    "prompt_tokens": 4359,
+    "prompt_tokens_details": null,
+    "total_tokens": 4408
+  }
+}

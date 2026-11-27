@@ -1,0 +1,17 @@
+{
+  "body_sha256": "351225fafd4a775d0142ad4eaf1e9ad6171ebeb62474fe6733d52df98867fb15",
+  "finish_reason": "stop",
+  "latency_s": 8.408390915999917,
+  "prediction": "In the conversation dated 20261016_16:00, HaileyJohnson expresses interest in having LiHua taste a new bread recipe that Hailey has been testing. Hailey specifically asks LiHua if she is free to come by the bakery at 3 PM, indicating that she has prepared the new bread and wants feedback on its quality and taste.",
+  "prediction_sha256": "6c58ae73411e98e9264492bdba9359438ff1d89732cedc5e09c499fdb2dd8540",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 67,
+  "usage": {
+    "completion_tokens": 81,
+    "prompt_tokens": 4483,
+    "prompt_tokens_details": null,
+    "total_tokens": 4564
+  }
+}

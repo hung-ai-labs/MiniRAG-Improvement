@@ -1,0 +1,17 @@
+{
+  "body_sha256": "35b55c454b424a2936332a99d0eb48f7926a773265469268145440ef29219358",
+  "finish_reason": "stop",
+  "latency_s": 9.771213250001892,
+  "prediction": "Based on the conversations provided, LiHua inquires specifically about WolfgangSchulz's favorite type of pizza. In one of their interactions, WolfgangSchulz states, \"I’m all about that classic margherita. Simple but so good!\" This indicates that WolfgangSchulz's favorite type of pizza is classic margherita. LiHua, on the other hand, expresses her own preferences, mentioning she is a big fan of pepperoni and loves adding extra cheese. However, the query LiHua has for WolfgangSchulz pertains directly to his pizza preference.",
+  "prediction_sha256": "13a3122522f7f8a6723421d88c6ccc723cc74a19adec9fd6a165dc2aa54bbb43",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 47,
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 4400,
+    "prompt_tokens_details": null,
+    "total_tokens": 4520
+  }
+}

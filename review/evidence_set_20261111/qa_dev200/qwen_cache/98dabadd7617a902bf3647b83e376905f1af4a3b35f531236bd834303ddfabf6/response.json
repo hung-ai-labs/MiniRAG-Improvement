@@ -1,0 +1,17 @@
+{
+  "body_sha256": "98dabadd7617a902bf3647b83e376905f1af4a3b35f531236bd834303ddfabf6",
+  "finish_reason": "stop",
+  "latency_s": 9.812458166998113,
+  "prediction": "There is no mention of Emily ordering any specific food for the group's discussion about Game of Thrones characters. The conversations focus primarily on discussing the characters, their journeys, and the various events from the show. There is no reference to food orders or preferences during these discussions.",
+  "prediction_sha256": "5a0a79b7d1e3bc1cc35dd1982eb892ac810c0477ed020718a05c85cbd85e4a9a",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 126,
+  "usage": {
+    "completion_tokens": 55,
+    "prompt_tokens": 4536,
+    "prompt_tokens_details": null,
+    "total_tokens": 4591
+  }
+}

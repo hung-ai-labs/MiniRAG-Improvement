@@ -1,0 +1,17 @@
+{
+  "body_sha256": "8442bada086468af50d5160d44f125f544884992e8dab672c6a97a6ec046fa91",
+  "finish_reason": "stop",
+  "latency_s": 6.5607202499995765,
+  "prediction": "In one of the conversations, Fionnuala mentioned that the Control Center on the PS5 makes switching between games and apps so much smoother. This Control Center feature likely includes functionalities such as app switching, home screen customization, and quick access to frequently used applications, enhancing user convenience and efficiency when managing multiple games or applications.",
+  "prediction_sha256": "7fa2553a5ee2bc771d8f1605e3224006a32a81c4ff4bcfe037c12eb300908df9",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 110,
+  "usage": {
+    "completion_tokens": 66,
+    "prompt_tokens": 4335,
+    "prompt_tokens_details": null,
+    "total_tokens": 4401
+  }
+}

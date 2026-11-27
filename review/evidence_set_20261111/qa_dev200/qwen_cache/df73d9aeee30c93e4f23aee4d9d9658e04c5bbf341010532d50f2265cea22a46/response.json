@@ -1,0 +1,17 @@
+{
+  "body_sha256": "df73d9aeee30c93e4f23aee4d9d9658e04c5bbf341010532d50f2265cea22a46",
+  "finish_reason": "stop",
+  "latency_s": 9.895291790999181,
+  "prediction": "On September 19, 2026, at 10:00 AM, Jennifer Moore reminded Li Hua to ensure she was getting enough protein after their workouts. She emphasized the importance of protein for maintaining a healthy body and offered to provide tips on protein sources if needed. Additionally, Jennifer expressed her appreciation for Li Hua's progress and encouraged her to continue her efforts. Li Hua thanked Jennifer for the reminder and indicated that she would focus on protein intake, especially after their sessions.",
+  "prediction_sha256": "99ffc582b8bb3e635ddb635365a7424adb33bf52f9750fc067fd0d017ab72c20",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100137,
+  "usage": {
+    "completion_tokens": 104,
+    "prompt_tokens": 3264,
+    "prompt_tokens_details": null,
+    "total_tokens": 3368
+  }
+}

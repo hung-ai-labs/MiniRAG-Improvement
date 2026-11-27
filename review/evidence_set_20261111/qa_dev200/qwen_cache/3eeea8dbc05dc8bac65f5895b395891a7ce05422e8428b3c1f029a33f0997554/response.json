@@ -1,0 +1,17 @@
+{
+  "body_sha256": "3eeea8dbc05dc8bac65f5895b395891a7ce05422e8428b3c1f029a33f0997554",
+  "finish_reason": "stop",
+  "latency_s": 10.183386500000779,
+  "prediction": "On May 14, 2026, Li Hua and Wolfgang Schulz discussed their dining experience at a restaurant they visited. According to their conversation, Li Hua particularly enjoyed the pasta dish they had, describing it as \"so rich and flavorful.\" Wolfgang Schulz, on the other hand, appreciated the steak he ordered, stating that it was \"juicy and cooked perfectly.\" Therefore, the main highlight of their dinner was the pasta for Li Hua and the steak for Wolfgang Schulz.",
+  "prediction_sha256": "189afae949c290826c04e7e96ede0fef7634eafb1d8e09f9198bcce675b9074f",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100020,
+  "usage": {
+    "completion_tokens": 104,
+    "prompt_tokens": 4603,
+    "prompt_tokens_details": null,
+    "total_tokens": 4707
+  }
+}

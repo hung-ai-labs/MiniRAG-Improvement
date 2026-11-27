@@ -1,0 +1,17 @@
+{
+  "body_sha256": "91f22fb781206a16bb9acc08a971f0512e2576126773b12700d2e1e5fbbb2d24",
+  "finish_reason": "stop",
+  "latency_s": 7.48529850000341,
+  "prediction": "According to the conversation, Wolfgang Schulz's promotion celebration dinner is scheduled for January 18th, as mentioned in the message dated 20260119_09:30. In this message, Wolfgang wishes his friend Li Hua a happy Lunar New Year and mentions that they will celebrate the occasion together on January 18th.",
+  "prediction_sha256": "b6a39393183c4dcd9957c554f8b7541893afafa357f5844a5bf855a5afd6c300",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100139,
+  "usage": {
+    "completion_tokens": 76,
+    "prompt_tokens": 4549,
+    "prompt_tokens_details": null,
+    "total_tokens": 4625
+  }
+}

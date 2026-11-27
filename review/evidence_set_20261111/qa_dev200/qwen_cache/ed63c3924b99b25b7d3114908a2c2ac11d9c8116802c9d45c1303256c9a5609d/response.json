@@ -1,0 +1,17 @@
+{
+  "body_sha256": "ed63c3924b99b25b7d3114908a2c2ac11d9c8116802c9d45c1303256c9a5609d",
+  "finish_reason": "stop",
+  "latency_s": 7.503760207997402,
+  "prediction": "LiHua mentions Spider-Man as their favorite character, describing it as an \"awesome\" hero with a \"really entertaining\" story and action-packed adventures. LiHua also notes Spider-Man's \"story\" and \"all the web-slinging action,\" indicating admiration for the character's narrative and the superhero's abilities. No other character is specifically mentioned as being particularly inspiring by LiHua in these conversations.",
+  "prediction_sha256": "021a02daf51e92dd7b78609e6b712a9c54d933ac7bd3fe37c16148898f0a5000",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100037,
+  "usage": {
+    "completion_tokens": 84,
+    "prompt_tokens": 4256,
+    "prompt_tokens_details": null,
+    "total_tokens": 4340
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "67678b5e3bd96edaa23aec9e79753d927934a1d310f517e8673def456e660511",
+  "finish_reason": "stop",
+  "latency_s": 6.790142792000552,
+  "prediction": "In the conversation recorded under timestamp \"20261016_16:00\", HaileyJohnson reaches out to LiHua to invite her to taste a new bread recipe she has been developing. HaileyJohnson suggests meeting at 3 PM to try the new bread. This indicates that HaileyJohnson is the one who invites LiHua to taste the new bread recipe.",
+  "prediction_sha256": "b40b6c4fc9670f144cbc3fd4534ea35b0d2f5782c5de13c2fff446002819c8e0",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 178,
+  "usage": {
+    "completion_tokens": 82,
+    "prompt_tokens": 4269,
+    "prompt_tokens_details": null,
+    "total_tokens": 4351
+  }
+}

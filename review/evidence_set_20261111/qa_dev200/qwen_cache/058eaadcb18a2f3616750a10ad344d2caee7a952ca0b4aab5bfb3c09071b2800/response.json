@@ -1,0 +1,17 @@
+{
+  "body_sha256": "058eaadcb18a2f3616750a10ad344d2caee7a952ca0b4aab5bfb3c09071b2800",
+  "finish_reason": "stop",
+  "latency_s": 9.805828040996857,
+  "prediction": "From the conversations provided, it appears that Li Hua and Jennifer Moore discussed adjusting Li Hua's training schedule. Initially, Jennifer suggested that Li Hua should aim to train twice a week, focusing on efficiency and intensity. Li Hua agreed and specified that he would train on Tuesdays and Thursdays. Therefore, based on this discussion, Li Hua is currently training twice per week.",
+  "prediction_sha256": "c59ed6030c0aa072f5de0cfcd8ec525771de8d114b86228603e9f3deb9eefcac",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100049,
+  "usage": {
+    "completion_tokens": 80,
+    "prompt_tokens": 4018,
+    "prompt_tokens_details": null,
+    "total_tokens": 4098
+  }
+}

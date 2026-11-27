@@ -1,0 +1,17 @@
+{
+  "body_sha256": "9c21d7e3dd385e46bba7385fb44e92886ed0b6f5517f78806e18597a3baaf555",
+  "finish_reason": "stop",
+  "latency_s": 5.625636874996417,
+  "prediction": "Based on the interactions between Adam Smith and Li Hua, Adam Smith suggests using removable hooks to hang artwork on the walls without causing any damage. Specifically, during one conversation, Li Hua inquired about hanging new artwork and Adam responded, \"Just use removable hooks. Enjoy your decorating!\" This indicates that Adam Smith is recommending the use of removable hooks for hanging purposes to ensure the artwork can be safely removed if necessary.",
+  "prediction_sha256": "79aaca5bdb782eec7c13e32081cd187cd263c8055bfb2a7b244bfdd276981f6f",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100095,
+  "usage": {
+    "completion_tokens": 85,
+    "prompt_tokens": 3940,
+    "prompt_tokens_details": null,
+    "total_tokens": 4025
+  }
+}

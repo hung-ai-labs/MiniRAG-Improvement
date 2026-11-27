@@ -1,0 +1,17 @@
+{
+  "body_sha256": "8f50ce87209ac697d6c5a045243a9da14958dc12e92e639796e22d7026cbeb63",
+  "finish_reason": "stop",
+  "latency_s": 5.114456624993181,
+  "prediction": " On September 23, 2026, WolfgangSchulz proposes to go to the grocery store after work with LiHua. He suggests that they meet around 5:30 PM, as indicated by the timestamp \"Time: 20260923_16:00\" in the records. This timing is chosen to avoid the peak hours when the store might be too crowded, and they plan to arrive when the stores are less busy.",
+  "prediction_sha256": "010367963b46ad18102ce16a8d2be34af0b30d813c4438d072f9937c71b733ac",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 100116,
+  "usage": {
+    "completion_tokens": 105,
+    "prompt_tokens": 4435,
+    "prompt_tokens_details": null,
+    "total_tokens": 4540
+  }
+}

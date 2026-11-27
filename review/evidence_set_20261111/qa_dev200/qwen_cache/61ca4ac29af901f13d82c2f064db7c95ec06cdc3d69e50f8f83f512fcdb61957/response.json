@@ -1,0 +1,17 @@
+{
+  "body_sha256": "61ca4ac29af901f13d82c2f064db7c95ec06cdc3d69e50f8f83f512fcdb61957",
+  "finish_reason": "stop",
+  "latency_s": 8.881719292003254,
+  "prediction": "During the community meeting held on a date unspecified in the records, Li Hua provided several suggestions related to the construction schedule. Specifically, she recommended avoiding certain times for maintenance work, particularly mornings, to accommodate her availability. Li Hua indicated that mornings were usually best for her and requested that the maintenance schedule be adjusted to avoid these times. While the exact times and specifics of the proposed adjustments were not detailed, Li Hua's feedback aimed to ensure that the building maintenance schedule would minimize disruptions to her schedule and the overall workflow.",
+  "prediction_sha256": "227d1f55bc4b1c9aff43098a1ce7191fde092928b426d4d47aec8b1b804d69a3",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200154,
+  "usage": {
+    "completion_tokens": 107,
+    "prompt_tokens": 4425,
+    "prompt_tokens_details": null,
+    "total_tokens": 4532
+  }
+}

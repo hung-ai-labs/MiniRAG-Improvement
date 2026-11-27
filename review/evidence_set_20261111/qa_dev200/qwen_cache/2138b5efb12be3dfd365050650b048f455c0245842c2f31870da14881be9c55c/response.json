@@ -1,0 +1,17 @@
+{
+  "body_sha256": "2138b5efb12be3dfd365050650b048f455c0245842c2f31870da14881be9c55c",
+  "finish_reason": "stop",
+  "latency_s": 6.657051250000222,
+  "prediction": "During the community garden renovation discussions, Li Hua suggested adding native plants to the flower beds, with lavender and coneflowers being specific types she had in mind. Additionally, she mentioned that a small herb section would be included, which would allow people to pick fresh herbs for their cooking. While the exact species of flowers and herbs were not specified, it was clear that native plants and possibly lavender and coneflowers would be incorporated into the garden. Therefore, based on the feedback provided, the new species of flowers that will be featured in the community garden renovation are likely to include native plants, lavender, and coneflowers.",
+  "prediction_sha256": "df5b95d4a2605ab570af35c5add02d25582ff90b6a722e052bd559e856efbadf",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 185,
+  "usage": {
+    "completion_tokens": 130,
+    "prompt_tokens": 4456,
+    "prompt_tokens_details": null,
+    "total_tokens": 4586
+  }
+}

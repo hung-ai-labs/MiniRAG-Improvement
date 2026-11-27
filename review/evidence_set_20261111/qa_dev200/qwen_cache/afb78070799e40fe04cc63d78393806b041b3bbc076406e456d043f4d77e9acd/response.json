@@ -1,0 +1,17 @@
+{
+  "body_sha256": "afb78070799e40fe04cc63d78393806b041b3bbc076406e456d043f4d77e9acd",
+  "finish_reason": "stop",
+  "latency_s": 9.321708875002514,
+  "prediction": "In one of the conversations, WolfgangSchulz suggests a pizza place downtown that he heard has \"amazing toppings.\" LiHua responds positively to this suggestion, stating, \"I've been wanting to try that place!\" This indicates that LiHua agrees with WolfgangSchulz and is interested in visiting the pizza place suggested by him. However, no specific name or address of the pizza place is mentioned in the conversations provided.",
+  "prediction_sha256": "8682ebc28be13495831d56903f6bc0795602226f892767a8fc26b354c212dfbf",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 38,
+  "usage": {
+    "completion_tokens": 88,
+    "prompt_tokens": 4027,
+    "prompt_tokens_details": null,
+    "total_tokens": 4115
+  }
+}

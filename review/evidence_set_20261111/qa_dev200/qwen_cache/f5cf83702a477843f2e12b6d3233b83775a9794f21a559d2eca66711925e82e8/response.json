@@ -1,0 +1,17 @@
+{
+  "body_sha256": "f5cf83702a477843f2e12b6d3233b83775a9794f21a559d2eca66711925e82e8",
+  "finish_reason": "stop",
+  "latency_s": 9.89911454099638,
+  "prediction": "According to the conversation between Hailey and LiHua dated 20260622_13:30, the special event at Hailey's bakery begins on Saturday at 10 AM. This event is described as a \"special event at the bakery\" where they are launching a new line of healthy bread options and organizing a tasting session. LiHua expresses her enthusiasm for attending, indicating she will be there at 10 AM.",
+  "prediction_sha256": "72cede54db6c7ec95e1e2e2bbfee636da75021115d8461f6d02a69d7e05e8c77",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100191,
+  "usage": {
+    "completion_tokens": 96,
+    "prompt_tokens": 4262,
+    "prompt_tokens_details": null,
+    "total_tokens": 4358
+  }
+}

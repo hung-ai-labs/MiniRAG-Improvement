@@ -1,0 +1,17 @@
+{
+  "body_sha256": "869ce50791a698854105280e324edf763f3e8aaa8ad95c1f9ac99eb915c927e3",
+  "finish_reason": "stop",
+  "latency_s": 3.8935658329974103,
+  "prediction": "For the upcoming soccer practice where shooting and passing drills are planned, Henley mentioned that she can bring some cones. This will help structure the practice sessions and allow for better organization of drills. Therefore, Henley will be bringing the cones for the practice.",
+  "prediction_sha256": "c07c9a40280ef3c8cbe7bc1ce1492a9bd287cea24d90f3dfc895dad35fbd915a",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 80,
+  "usage": {
+    "completion_tokens": 52,
+    "prompt_tokens": 5245,
+    "prompt_tokens_details": null,
+    "total_tokens": 5297
+  }
+}

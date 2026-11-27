@@ -1,0 +1,17 @@
+{
+  "body_sha256": "db445d8addf28bf75a42a783705541cd4b778f09126a7c4bc4e4a643f943be9e",
+  "finish_reason": "stop",
+  "latency_s": 11.205109874994378,
+  "prediction": "In the conversation dated 20260714, LiHua expresses interest in adding a new flavor to the pastry lineup. Specifically, he suggests a \"matcha flavor\" as a \"fantastic twist\" to the existing offerings. Hailey Johnson, appreciating LiHua's suggestion, states that they should \"definitely put that on my list for the next batch.\" This indicates that LiHua is seeking to introduce matcha-flavored pastries into the menu, likely due to its unique and appealing taste that stands out among other flavors.",
+  "prediction_sha256": "96d2d6ef52ecc047f02cf3235d7c51c9cc4ad69ed3c3dbe98a327114016549aa",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100016,
+  "usage": {
+    "completion_tokens": 116,
+    "prompt_tokens": 4312,
+    "prompt_tokens_details": null,
+    "total_tokens": 4428
+  }
+}

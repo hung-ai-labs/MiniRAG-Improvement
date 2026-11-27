@@ -1,0 +1,17 @@
+{
+  "body_sha256": "09cb5e2aa4cf9fcbb57a9f5c4e975cc81fae2308cb35d5f4b865ffb8b8d4596f",
+  "finish_reason": "stop",
+  "latency_s": 9.878163415996823,
+  "prediction": "In the conversation, Gavriel expresses interest in a new PS5 exclusive game that is set to drop soon. Specifically, Gavriel mentions wanting to see whether the upcoming game will support crossplay, highlighting the importance of this feature for enhancing multiplayer experiences. However, no specific title is mentioned. The dialogue focuses more on discussing potential features and aspects of the new game rather than naming a particular title.",
+  "prediction_sha256": "b82a8348f5a1b69ca8bb38cf8b0e9669246f5860ac65315c477722f6107634c2",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100180,
+  "usage": {
+    "completion_tokens": 82,
+    "prompt_tokens": 4261,
+    "prompt_tokens_details": null,
+    "total_tokens": 4343
+  }
+}

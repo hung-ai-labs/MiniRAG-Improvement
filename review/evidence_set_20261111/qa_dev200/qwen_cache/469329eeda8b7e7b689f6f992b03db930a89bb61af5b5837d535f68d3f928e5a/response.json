@@ -1,0 +1,17 @@
+{
+  "body_sha256": "469329eeda8b7e7b689f6f992b03db930a89bb61af5b5837d535f68d3f928e5a",
+  "finish_reason": "stop",
+  "latency_s": 10.322935875003168,
+  "prediction": "Helios recommends \"Fire Emblem\" as a game that offers great strategy elements along with a compelling story and rich character development. He expresses a preference for turn-based combat, highlighting how it allows players to think ahead and strategize effectively. Helios mentions that \"Fire Emblem\" has a unique blend of RPG elements and social simulation, which makes the gameplay both strategic and engaging. Additionally, he notes that the game's story and character relationships add significant depth to the gameplay experience.",
+  "prediction_sha256": "c425f17e1293a8c090eea38ef72b3db8c2de1783f91afc42b351a30b8703c33e",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200046,
+  "usage": {
+    "completion_tokens": 96,
+    "prompt_tokens": 4878,
+    "prompt_tokens_details": null,
+    "total_tokens": 4974
+  }
+}

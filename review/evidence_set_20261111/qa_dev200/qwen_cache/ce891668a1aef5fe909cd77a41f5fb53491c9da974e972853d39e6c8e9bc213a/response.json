@@ -1,0 +1,17 @@
+{
+  "body_sha256": "ce891668a1aef5fe909cd77a41f5fb53491c9da974e972853d39e6c8e9bc213a",
+  "finish_reason": "stop",
+  "latency_s": 10.395234083000105,
+  "prediction": "Based on the conversation provided, Li Hua expressed that he particularly enjoyed the pasta dish they had at the restaurant they visited on 20260514. He stated, \"I couldn't get enough of that pasta dish! It was so rich and flavorful.\" This indicates that the pasta was a standout component of their dining experience at this particular restaurant.",
+  "prediction_sha256": "8c2dd4f0fedeb9580894b5f6220160d13a4851a31bf3eceb9c163afa44bcad1a",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100020,
+  "usage": {
+    "completion_tokens": 75,
+    "prompt_tokens": 3941,
+    "prompt_tokens_details": null,
+    "total_tokens": 4016
+  }
+}

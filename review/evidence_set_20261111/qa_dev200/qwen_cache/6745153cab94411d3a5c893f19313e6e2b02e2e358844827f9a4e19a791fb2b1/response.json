@@ -1,0 +1,17 @@
+{
+  "body_sha256": "6745153cab94411d3a5c893f19313e6e2b02e2e358844827f9a4e19a791fb2b1",
+  "finish_reason": "stop",
+  "latency_s": 8.701508457997988,
+  "prediction": "On 20260930, LiHua suggests having dinner at WolfgangSchulz's place at 7 PM. Specifically, the dialogue indicates:\n\nWolfgangSchulz: \"How about 7 pm? That should give us enough time to get ready!\"\nLiHua: \"Yeah, me too! I'll definitely keep an eye on my form. Can't wait for the next session! 😊\"\n\nTherefore, LiHua proposes 7 PM for dinner on 20260930.",
+  "prediction_sha256": "a7a5f4f7a3fe5170a57290093724f24f8817c1bf2efb6d48bddb2e57031d8e78",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 53,
+  "usage": {
+    "completion_tokens": 113,
+    "prompt_tokens": 5586,
+    "prompt_tokens_details": null,
+    "total_tokens": 5699
+  }
+}

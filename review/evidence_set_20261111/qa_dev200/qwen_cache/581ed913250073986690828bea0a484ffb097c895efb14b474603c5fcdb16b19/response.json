@@ -1,0 +1,17 @@
+{
+  "body_sha256": "581ed913250073986690828bea0a484ffb097c895efb14b474603c5fcdb16b19",
+  "finish_reason": "stop",
+  "latency_s": 10.340601374999096,
+  "prediction": "In the conversations provided, LiHua mentions Spider-Man as their favorite superhero and describes Spider-Man as inspiring due to his story and the web-slinging action. However, LiHua's favorite video game character is Wukong from \"Black Myth: Wukong.\" LiHua appreciates the vibrant visuals, immersive world design, and fresh gameplay mechanics of the game, highlighting that Wukong is one of their favorite characters. LiHua finds Wukong's dynamic personality and unique abilities to be particularly enjoyable, suggesting that Wukong is the character that inspires them the most in this game.",
+  "prediction_sha256": "bb1b2219fd7493bbac9a3a89c7efd0c19d55d047557eef94f01fac5d6c4c681a",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200037,
+  "usage": {
+    "completion_tokens": 125,
+    "prompt_tokens": 4256,
+    "prompt_tokens_details": null,
+    "total_tokens": 4381
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "90894d20749214721af0f7bca82e602aacb708cd9df8ab01d90eb434e92631d9",
+  "finish_reason": "stop",
+  "latency_s": 13.037314041001082,
+  "prediction": "In the conversations, WolfgangSchulz mentions trying the goulash when he visited Prague. He describes it as \"really hearty and tasty\" and notes that it's \"just not to go wrong with.\" \n\nSpecifically, the dialogue states: \"I didn't get a chance to try much when I was there, but I remember the goulash being really hearty and tasty! Can't go wrong with that. Also, those pastries with powdered sugar...yum! 🍰✨\"\n\nTherefore, the local dish WolfgangSchulz tried in Prague is goulash.",
+  "prediction_sha256": "f0713ec08acee35c08f29dbf60f3f77e840ed8060439a8b725f82cbd3ef5c0a4",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 60,
+  "usage": {
+    "completion_tokens": 118,
+    "prompt_tokens": 5281,
+    "prompt_tokens_details": null,
+    "total_tokens": 5399
+  }
+}

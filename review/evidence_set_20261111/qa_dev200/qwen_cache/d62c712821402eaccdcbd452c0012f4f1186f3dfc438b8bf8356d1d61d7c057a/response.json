@@ -1,0 +1,17 @@
+{
+  "body_sha256": "d62c712821402eaccdcbd452c0012f4f1186f3dfc438b8bf8356d1d61d7c057a",
+  "finish_reason": "stop",
+  "latency_s": 10.62317033400177,
+  "prediction": "In the conversation dated 20261015_15:00, WolfgangSchulz suggests a new pizza place downtown. He mentions that he has been hearing good things about it and proposes that LiHua and he should check it out sometime. This new pizza place appears to be a recommendation based on positive feedback from WolfgangSchulz.",
+  "prediction_sha256": "9c1a25278b6fae1da105dc75b1a9315f3d0f0adff10b5cb6621496507b8aaf69",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100175,
+  "usage": {
+    "completion_tokens": 76,
+    "prompt_tokens": 3498,
+    "prompt_tokens_details": null,
+    "total_tokens": 3574
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "962c4a06b1bcbc91f0234b88e2cc465035e996cab938443054580ac25b920f7b",
+  "finish_reason": "stop",
+  "latency_s": 19.148566083000333,
+  "prediction": " HaileyJohnson invites LiHua to taste a new bread recipe. This interaction is captured in the data table with the following details:\n\n**Entity**: HaileyJohnson\n**Score**: N/A (not specified)\n**Description**: HaileyJohnson has been trying out a new bread recipe and wants LiHua to come and taste it. The proposed meeting time is 3 PM, as indicated in the conversation.\n\nThe participation of HaileyJohnson in this invitation reflects her enthusiasm for her baking and desire to share her latest creation with LiHua. The conversation illustrates a friendly and collaborative relationship between the two, with HaileyJohnson extending an offer for LiHua to join her for the tasting session.\n\nHere is the formatted entry in markdown for clarity:\n\n```markdown\n| Entity          | Score       | Description                                                                 |\n| -------------- | ------------ | ------------------------------------------------------------------------- |\n| HaileyJohnson   | N/A          | Invites LiHua to taste a new bread recipe, proposes meeting at 3 PM.                     |\n```\n\nThis table succinctly summarizes the relevant information from the conversation where HaileyJohnson invites LiHua to sample her new bread recipe.",
+  "prediction_sha256": "b377a2c121baa9dbc4a708a92f4483bd90b7102b566a8e7cbcb0267fa81ce007",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 200178,
+  "usage": {
+    "completion_tokens": 291,
+    "prompt_tokens": 5219,
+    "prompt_tokens_details": null,
+    "total_tokens": 5510
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "f32a6841a3bf7f9db259441fff374f79943c59d53368fb17527694d7f984b75b",
+  "finish_reason": "stop",
+  "latency_s": 5.318697916001838,
+  "prediction": "According to the conversations recorded, Adam Smith suggests using removable hooks for hanging artwork on the walls. This advice is given in response to Li Hua asking for guidance on how to hang her new artwork without causing any damage to the walls.",
+  "prediction_sha256": "b0bf072f3cff726a96a54bd685f52ec11858a742c5c8c47fc09a56c1e657603b",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200095,
+  "usage": {
+    "completion_tokens": 48,
+    "prompt_tokens": 3940,
+    "prompt_tokens_details": null,
+    "total_tokens": 3988
+  }
+}

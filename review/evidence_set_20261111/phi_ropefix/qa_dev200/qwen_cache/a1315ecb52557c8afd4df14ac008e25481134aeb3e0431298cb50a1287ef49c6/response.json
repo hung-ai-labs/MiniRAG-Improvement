@@ -1,0 +1,17 @@
+{
+  "body_sha256": "a1315ecb52557c8afd4df14ac008e25481134aeb3e0431298cb50a1287ef49c6",
+  "finish_reason": "stop",
+  "latency_s": 11.17319100000168,
+  "prediction": " On September 23, 2026, WolfgangSchulz proposes to go to the grocery store around 5:30 PM. This information can be found in the content of source id 0, where it is recorded in a casual conversation format with timestamps indicating the occurrence of the event. WolfgangSchulz suggests this time to avoid the crowd and ensure a more comfortable shopping experience before heading to their next gathering for jamming. LiHua agrees with the proposed time, expressing her anticipation for the weekend snacks they plan to purchase.\n\n```markdown\n- **Date**: September 23, 2026\n- **Activity**: Grocery store visit\n- **Proposed Time**: 5:30 PM\n- **Participants**:\n  - WolfgangSchulz\n  - LiHua\n- **Agreement**: LiHua agrees to the proposed time, excited about the weekend snacks.\n```\n\nThis summary encapsulates the essential details extracted from the data table correlating to the user's question, presented in a structured markdown format.",
+  "prediction_sha256": "bc03f2a299df498e6925941f32adfb7034628da8c11557ce9aeae55a9808445b",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 100116,
+  "usage": {
+    "completion_tokens": 255,
+    "prompt_tokens": 5284,
+    "prompt_tokens_details": null,
+    "total_tokens": 5539
+  }
+}

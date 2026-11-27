@@ -1,0 +1,17 @@
+{
+  "body_sha256": "1c438d98e8aad3f0ccd18f127dfc6282d02b2ced14dcf713eba88e4dfbfc2638",
+  "finish_reason": "stop",
+  "latency_s": 5.180491500002972,
+  "prediction": "In the conversation from April 25th, Li Hua mentions that they were thinking of mixing up their playlist and considering classics as well as new songs. However, no specific song is named for the karaoke activity on that date. There isn't enough information provided to identify the exact song Li Hua will sing.",
+  "prediction_sha256": "9b4298d9767eaa584553a9a6cbbecf58abc309ea835fe1b6d1f9c3bd9a7e2f7f",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100209,
+  "usage": {
+    "completion_tokens": 66,
+    "prompt_tokens": 4517,
+    "prompt_tokens_details": null,
+    "total_tokens": 4583
+  }
+}

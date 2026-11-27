@@ -1,0 +1,17 @@
+{
+  "body_sha256": "7604373a0ed94fc645a9ed4b0d8e15fb9a3c1bd39477409bea93b5f9ad8dd1f7",
+  "finish_reason": "stop",
+  "latency_s": 8.85695433300134,
+  "prediction": "In one of the conversations, AdamSmith offers LiHua the opportunity to use the basement for any activities she might have, including her guitar practice, which she has enjoyed there. Specifically, AdamSmith mentions, \"If you ever want to use the basement for any activities, feel free to let me know!\" This offer demonstrates a willingness to support LiHua's interests within the shared living space.",
+  "prediction_sha256": "8f64fae914b60d1f4d92283b3eb340c804a4467bfd88da29272f76a6597f23bc",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100177,
+  "usage": {
+    "completion_tokens": 81,
+    "prompt_tokens": 4470,
+    "prompt_tokens_details": null,
+    "total_tokens": 4551
+  }
+}

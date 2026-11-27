@@ -1,0 +1,17 @@
+{
+  "body_sha256": "b29492554753bdf1abf111c724183bd0a15ea593d4f16f653f78c4072aeedde9",
+  "finish_reason": "stop",
+  "latency_s": 8.764655584000138,
+  "prediction": "In the context provided, Giselle reminds everyone to bring their enthusiasm and good vibes to the field on Sunday. She emphasizes the importance of having fun while improving their skills during the practice session. This is evident from several messages indicating her eagerness to participate and her commitment to making the practice session enjoyable for all.",
+  "prediction_sha256": "5eb9c5a3b9e235dc023a21a5edfd1d71dcd8fee9b334a288a2ba5c46bd8608d9",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 174,
+  "usage": {
+    "completion_tokens": 64,
+    "prompt_tokens": 4846,
+    "prompt_tokens_details": null,
+    "total_tokens": 4910
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "ea4dc56c4c8bf81127bb3cae295c89ab0ba46578fb4be50509897fa00efb67f9",
+  "finish_reason": "stop",
+  "latency_s": 10.458421416995407,
+  "prediction": "On June 24, 2026, at 14:00, LiHua sends a video to the group chat. According to the text, the content of the message is \"Just sent a video of me playing the intro to \"Stairway to Heaven.\"\" This indicates that LiHua shares a video of himself performing the opening notes of the iconic rock song \"Stairway to Heaven\" by the band Led Zeppelin.",
+  "prediction_sha256": "37252b4ab0756612f51815c054af8beb3ccf4f15a8c4f3b3f134fe5323c40fb4",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100065,
+  "usage": {
+    "completion_tokens": 95,
+    "prompt_tokens": 4900,
+    "prompt_tokens_details": null,
+    "total_tokens": 4995
+  }
+}

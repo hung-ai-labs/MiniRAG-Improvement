@@ -1,0 +1,17 @@
+{
+  "body_sha256": "420d68a2f5f4848301f2d62346ab6df5d882db8d0b339fb0a6094c346077cdc8",
+  "finish_reason": "stop",
+  "latency_s": 24.13605270900007,
+  "prediction": " Based on the provided data tables and sources, there is no direct indication that Hailey announced the new line of high-protein breads before inviting Li Hua to the special bakery event. The conversation about the high-protein breads (entry 7) occurs on June 22, 2026, where Hailey expresses excitement about the new gluten-free bread options and invites Li Hua to try it once it's available. In response to Li Hua's interest in the new bread, Hailey offers to add it to his next delivery without specifying that it's a new launch or announcing it as a special event.\n\nLater, on June 22 (entry 16), Hailey does invite Li Hua to a special bakery event where he can taste new products, including the recently showcased banana durian cheesecake. This invitation is separate from the announcement of the high-protein breads.\n\nTo summarize, while Hailey does discuss the new high-protein breads and Li Hua expresses interest in trying them, there is no sequence of dialogue suggesting that the announcement of these breads was directly linked to or occurred prior to the invitation for Li Hua to attend the special event. They are part of separate discussions on similar topics – the new high-protein breads and an event for tasting new products.",
+  "prediction_sha256": "6bc70f0dd81f1fc71bebc332c2d0280dd3ab3bfdbcb897041e9e7b88737b07d5",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 200172,
+  "usage": {
+    "completion_tokens": 311,
+    "prompt_tokens": 4885,
+    "prompt_tokens_details": null,
+    "total_tokens": 5196
+  }
+}

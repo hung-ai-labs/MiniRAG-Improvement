@@ -1,0 +1,17 @@
+{
+  "body_sha256": "82b8965c2a428f80a6f3abf195dd4e45ef72077b360d6fcc5644d320ae0ad0a9",
+  "finish_reason": "stop",
+  "latency_s": 8.366052000001218,
+  "prediction": "Aisling finds the ending of Red Dead Redemption 2 to be deeply emotional, particularly when Arthur realizes his fate and attempts to make amends with John and his family. She notes that the music playing during Arthur's final ride home is especially powerful, leaving a lasting impression on her. This moment encapsulates the choices and journey Arthur has undergone throughout the game, highlighting the bittersweet nature of his story.",
+  "prediction_sha256": "62b1b6dab1b9fada125830b268b1e95f6332c705868866909d2d230efac8eac5",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 128,
+  "usage": {
+    "completion_tokens": 84,
+    "prompt_tokens": 4167,
+    "prompt_tokens_details": null,
+    "total_tokens": 4251
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "9872b3f80116a01e4df612c226336f57421928b513c0348522e5facd428904f5",
+  "finish_reason": "stop",
+  "latency_s": 10.117126875000395,
+  "prediction": "In the conversation recorded on October 12, 2026 at 10:00 AM, LiHua reaches out to Adam Smith for help with installing curtains. Specifically, LiHua mentions, \"Hey Adam! Just wanna ask you if you have received the curtains! Adam Smith responds positively, \"Awesome! Glad to hear you like the patterns. Just let me know when you're ready, and I’ll help you with the installation.\" Therefore, Adam Smith is the person LiHua asks for help with installing the curtains.",
+  "prediction_sha256": "1ecfbb995946a5e430870ee090a987353f1778507d0719d723db49a4e5617121",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 149,
+  "usage": {
+    "completion_tokens": 113,
+    "prompt_tokens": 3786,
+    "prompt_tokens_details": null,
+    "total_tokens": 3899
+  }
+}

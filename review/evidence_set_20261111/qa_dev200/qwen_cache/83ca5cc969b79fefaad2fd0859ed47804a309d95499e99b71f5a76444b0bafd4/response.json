@@ -1,0 +1,17 @@
+{
+  "body_sha256": "83ca5cc969b79fefaad2fd0859ed47804a309d95499e99b71f5a76444b0bafd4",
+  "finish_reason": "stop",
+  "latency_s": 10.279009624999162,
+  "prediction": "For soccer practice, the details provided indicate that there are multiple potential meeting spots based on the responses given. Initially, Dacey suggested meeting at a local park for soccer practice on a Saturday afternoon around 3 PM. However, Farrah later proposed the same idea, suggesting they meet at the local park around 3 PM on Saturday to work on passing drills for the first hour and then mix in shooting practice after that. Both Li Hua and Jasper expressed interest in meeting at the local park around 3 PM on Saturday for practice. Therefore, the most concrete suggestion appears to be the local park on Saturday afternoon at 3 PM.",
+  "prediction_sha256": "d32400819a0274df7c1ec8632fb3f36f347faf739c0662b5d9e61226e8720a62",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 97,
+  "usage": {
+    "completion_tokens": 128,
+    "prompt_tokens": 5133,
+    "prompt_tokens_details": null,
+    "total_tokens": 5261
+  }
+}

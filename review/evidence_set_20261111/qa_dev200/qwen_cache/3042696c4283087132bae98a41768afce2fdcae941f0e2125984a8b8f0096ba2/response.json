@@ -1,0 +1,17 @@
+{
+  "body_sha256": "3042696c4283087132bae98a41768afce2fdcae941f0e2125984a8b8f0096ba2",
+  "finish_reason": "stop",
+  "latency_s": 7.268862790995627,
+  "prediction": "Ileana praises the Control Center on the PlayStation 5 (PS5) for making the process of switching between games and apps much smoother. Specifically, she mentions that the Control Center allows users to adjust audio settings on the fly without needing to pause the game, which is described as \"so convenient when you're in the heat of action.\" This feature enhances the gaming experience by providing flexibility and convenience, allowing players to optimize their setup without interruptions.",
+  "prediction_sha256": "9d8bcb7cecfff9d012c869b79e63dbc0f21a656f7d2e1baf2cc28093ee15a1ff",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200110,
+  "usage": {
+    "completion_tokens": 91,
+    "prompt_tokens": 4089,
+    "prompt_tokens_details": null,
+    "total_tokens": 4180
+  }
+}

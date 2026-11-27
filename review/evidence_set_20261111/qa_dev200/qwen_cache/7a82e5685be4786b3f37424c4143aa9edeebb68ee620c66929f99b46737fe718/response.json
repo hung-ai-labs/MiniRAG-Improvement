@@ -1,0 +1,17 @@
+{
+  "body_sha256": "7a82e5685be4786b3f37424c4143aa9edeebb68ee620c66929f99b46737fe718",
+  "finish_reason": "stop",
+  "latency_s": 4.4793673749954905,
+  "prediction": "For the upcoming soccer match, Henley has volunteered to bring cones for the drills. Henley suggests setting up drills to focus on improving the team's weak spots from their previous matches, particularly their defense. This indicates that Henley will be the one responsible for bringing the cones to facilitate these drills.",
+  "prediction_sha256": "bd1988a1e91e26dae8447ed4e49fba2821027e4c4bde027a7edeb84ba56aacfc",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 80,
+  "usage": {
+    "completion_tokens": 61,
+    "prompt_tokens": 4338,
+    "prompt_tokens_details": null,
+    "total_tokens": 4399
+  }
+}

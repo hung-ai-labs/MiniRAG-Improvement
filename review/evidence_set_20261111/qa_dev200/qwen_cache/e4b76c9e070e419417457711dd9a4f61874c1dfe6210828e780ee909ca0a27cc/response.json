@@ -1,0 +1,17 @@
+{
+  "body_sha256": "e4b76c9e070e419417457711dd9a4f61874c1dfe6210828e780ee909ca0a27cc",
+  "finish_reason": "stop",
+  "latency_s": 8.839483250005287,
+  "prediction": "Based on the timeline provided in the conversation, Wolfgang's promotion announcement occurred before he invited Li Hua for dinner on 20260430. Specifically, Wolfgang reminded Li Hua about dinner at Venedia Grancaffe on the same day, which indicates that his promotion announcement happened earlier. The conversation about the dinner date suggests that Wolfgang was already aware of his promotion by 20260430.",
+  "prediction_sha256": "52d8e2a67badfd0d8e95644f2df16a2369dbb8ba3a6ab84e3b04c46c47ac0df4",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100183,
+  "usage": {
+    "completion_tokens": 88,
+    "prompt_tokens": 4051,
+    "prompt_tokens_details": null,
+    "total_tokens": 4139
+  }
+}

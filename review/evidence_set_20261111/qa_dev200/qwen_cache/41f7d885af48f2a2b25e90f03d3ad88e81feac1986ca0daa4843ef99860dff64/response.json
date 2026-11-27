@@ -1,0 +1,17 @@
+{
+  "body_sha256": "41f7d885af48f2a2b25e90f03d3ad88e81feac1986ca0daa4843ef99860dff64",
+  "finish_reason": "stop",
+  "latency_s": 5.383677707999595,
+  "prediction": "Jennifer Moore suggests a breathing technique for running that involves taking three steps while inhaling and two steps while exhaling. This technique, known as the 3-2 breathing pattern, helps runners maintain their stamina and endurance by ensuring a steady flow of oxygen to the muscles. She emphasizes the importance of focusing on controlled breaths to achieve this goal.",
+  "prediction_sha256": "1783ea822670004669407f4ac4b91c4eb92eef90d3bf0a08ff5785300b13791f",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 138,
+  "usage": {
+    "completion_tokens": 70,
+    "prompt_tokens": 4112,
+    "prompt_tokens_details": null,
+    "total_tokens": 4182
+  }
+}

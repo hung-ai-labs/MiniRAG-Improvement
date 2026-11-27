@@ -1,0 +1,17 @@
+{
+  "body_sha256": "1750e23480efb01f374c4c2775b10a94b6a09c668b4a3719313efebf8005d41c",
+  "finish_reason": "stop",
+  "latency_s": 6.875484042000608,
+  "prediction": " According to the conversation between LiHua and WolfgangSchulz, LiHua suggests having cold beer with hot pot. This recommendation is made in the context of enjoying the combination of flavors, as indicated by the emojis they exchange:\n\n```plaintext\nLiHua: How about some cold beer to go with the hot pot? Sounds like a good combo!\nWolfgangSchulz: Beer it is! 🍻 Perfect match for hot pot. See you at 7!\n```\n\nThe beer emoji (🍻) is often associated with a celebratory drink or shared beverage, affirming that beer is the chosen pairing for the spicy hot pot meal.",
+  "prediction_sha256": "f3ff237b9929010d1a28b6dc1e65ef41b3141462182349ca0832a0d2d56023e3",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 200113,
+  "usage": {
+    "completion_tokens": 164,
+    "prompt_tokens": 5351,
+    "prompt_tokens_details": null,
+    "total_tokens": 5515
+  }
+}

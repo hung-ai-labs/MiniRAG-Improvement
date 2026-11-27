@@ -1,0 +1,17 @@
+{
+  "body_sha256": "52de982cb146e832935fb967ccce5e7e13428694c7da3f22b3c106cba15ccd88",
+  "finish_reason": "stop",
+  "latency_s": 10.127131749999535,
+  "prediction": "In the conversation, Jennifer suggests several types of protein supplements for Li Hua based on his fitness goals. Specifically, she recommends whey protein as the best type for muscle recovery and building lean mass. Additionally, she notes that for plant-based options, both pea and rice protein are good alternatives. However, Jennifer advises that Li Hua should carefully check the ingredients for added sugars or fillers, emphasizing the importance of clean and effective protein intake. There is no mention of a specific brand being recommended; instead, Jennifer provides different types of protein sources based on dietary preferences and health considerations.",
+  "prediction_sha256": "e76fe0577ea425b4389e0af0991fa9b6989d1c1ac439ec24b50a029341e0013c",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200079,
+  "usage": {
+    "completion_tokens": 118,
+    "prompt_tokens": 4370,
+    "prompt_tokens_details": null,
+    "total_tokens": 4488
+  }
+}

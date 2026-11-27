@@ -1,0 +1,17 @@
+{
+  "body_sha256": "bad14c950d57ce5e536987e6307a85fb0b6255507f440a315dcf6b71992b9cc4",
+  "finish_reason": "stop",
+  "latency_s": 15.441012958006468,
+  "prediction": "From the interactions recorded, Wolfgang shows a preference for a medium-rare patty. Specifically, in one conversation, Wolfgang states, \"I get the point of medium rare, but I think well-done is just safer and more flavorful. Plus, I like a little char on my burger!\" This statement indicates his inclination towards a medium-rare patty, which he perceives as juicier and more flavorful. Additionally, Wolfgang mentions enjoying the \"juicy texture\" of a medium-rare patty, suggesting this preference aligns with his taste in food. Therefore, based on these comments, it can be inferred that Wolfgang prefers a medium-rare burger patty.",
+  "prediction_sha256": "118a093b981e5c69244e8dd0d7e0de7df3f4cdf0c31709a14cf416400995983d",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200021,
+  "usage": {
+    "completion_tokens": 136,
+    "prompt_tokens": 3898,
+    "prompt_tokens_details": null,
+    "total_tokens": 4034
+  }
+}

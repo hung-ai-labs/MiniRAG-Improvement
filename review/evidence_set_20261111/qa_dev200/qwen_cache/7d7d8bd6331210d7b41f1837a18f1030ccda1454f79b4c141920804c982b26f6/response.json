@@ -1,0 +1,17 @@
+{
+  "body_sha256": "7d7d8bd6331210d7b41f1837a18f1030ccda1454f79b4c141920804c982b26f6",
+  "finish_reason": "stop",
+  "latency_s": 10.455367750000732,
+  "prediction": "Wolfgang and LiHua plan to visit the local music store as part of their music-related activities. Specifically, Wolfgang suggests this as a potential outing for their upcoming weekend, mentioning that they could \"check out some new gear and get inspired for our next jam session!\" This indicates that they intend to purchase music-related items and possibly explore new musical equipment, which they believe will help them to stay inspired and engaged in their musical endeavors.",
+  "prediction_sha256": "f400f0b85806eef2b12026445e12fca190cb2821e2682016361f247ce40e158f",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200081,
+  "usage": {
+    "completion_tokens": 89,
+    "prompt_tokens": 4411,
+    "prompt_tokens_details": null,
+    "total_tokens": 4500
+  }
+}

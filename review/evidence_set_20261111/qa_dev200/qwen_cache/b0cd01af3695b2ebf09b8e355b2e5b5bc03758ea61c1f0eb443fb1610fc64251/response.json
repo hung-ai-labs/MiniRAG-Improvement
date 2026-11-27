@@ -1,0 +1,17 @@
+{
+  "body_sha256": "b0cd01af3695b2ebf09b8e355b2e5b5bc03758ea61c1f0eb443fb1610fc64251",
+  "finish_reason": "stop",
+  "latency_s": 9.146110374997079,
+  "prediction": "According to the conversation, Li Hua received the curtains \"yesterday.\" Specifically, Adam Smith mentioned to Li Hua, \"Yep, I have received it yesterday!\" Thanks to Adam's confirmation, we know that Li Hua received the curtains on the previous day.",
+  "prediction_sha256": "2b2bf1cfd49293cee691f88afbfc6e4dab7d019c253dfc2ee7bd08a7be03ab6d",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 100042,
+  "usage": {
+    "completion_tokens": 55,
+    "prompt_tokens": 4038,
+    "prompt_tokens_details": null,
+    "total_tokens": 4093
+  }
+}

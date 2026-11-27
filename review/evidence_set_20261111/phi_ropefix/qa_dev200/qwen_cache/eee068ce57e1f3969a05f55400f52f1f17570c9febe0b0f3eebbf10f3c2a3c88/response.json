@@ -1,0 +1,17 @@
+{
+  "body_sha256": "eee068ce57e1f3969a05f55400f52f1f17570c9febe0b0f3eebbf10f3c2a3c88",
+  "finish_reason": "stop",
+  "latency_s": 14.79035749999457,
+  "prediction": " HaileyJohnson invites LiHua to taste a new bread recipe. This interaction is captured in the data table with the following details:\n\n- **Entity**: HaileyJohnson & LiHua\n- **Time**: 20261016_16:00\n- **Content**: HaileyJohnson expresses her eagerness to share her new bread recipe with LiHua, asking if she would like to come over and taste it. LiHua confirms her interest and asks for a suitable time to visit Hailey's bakery.\n\nThe conversation highlights Hailey's initiative in creating a new bread product and her desire for LiHua's input and presence during the tasting. LiHua's enthusiasm and agreement to join demonstrate their ongoing interest and support in Hailey's bakery endeavors.\n\nHere is the relevant table entry in markdown format:\n\n```markdown\n| Entity                 | Score  | Description                                                                                                  |\n|----------------------|---------|------------------------------------------------------------------------------------------------------|\n| HaileyJohnson & LiHua    | N/A     | Hailey invites LiHua to taste a new bread recipe.                                                     |\n```\n\nThe score for this entry is not present in the provided data, so it has been marked as \"N/A\" (Not Available). The description encapsulates the essence of the interaction without numerical scoring, as there was no explicit metric provided in the original data.",
+  "prediction_sha256": "7dd829f7c96182c1155be32b05bcbb95c83fe176aa33b51ccadd4dd9e81c7fb4",
+  "provider_cost_not_reported": true,
+  "requested_model": "microsoft/Phi-3.5-mini-instruct",
+  "resolved_model": "microsoft/Phi-3.5-mini-instruct",
+  "seed": 200178,
+  "usage": {
+    "completion_tokens": 347,
+    "prompt_tokens": 5383,
+    "prompt_tokens_details": null,
+    "total_tokens": 5730
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "021d5bb119a418a407773e96e25d8427d3a0e5d8534b23d612d6c2fa524ea7ba",
+  "finish_reason": "stop",
+  "latency_s": 15.711161041996093,
+  "prediction": "There is no mention of a café in the provided data where Li Hua and YurikoYamamoto first meet to discuss Yuriko's website. The initial discussions regarding Yuriko's website improvements are held at Li Hua's studio. However, it does mention that WolfgangSchulz moves his work to a café to escape the garden renovation noise, but this is unrelated to the conversation about Yuriko's website. Therefore, no specific café name is provided for this meeting.",
+  "prediction_sha256": "09016717253b5bebc547c5527739b95bb9e06e5a629ddee1e0374615ce2c3437",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200158,
+  "usage": {
+    "completion_tokens": 101,
+    "prompt_tokens": 4714,
+    "prompt_tokens_details": null,
+    "total_tokens": 4815
+  }
+}

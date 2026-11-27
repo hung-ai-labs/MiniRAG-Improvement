@@ -1,0 +1,17 @@
+{
+  "body_sha256": "bb32716b6cd1f7137dc37cbd8ffb00485ed7c47dff206f8e9aff2e2e1acdccbb",
+  "finish_reason": "stop",
+  "latency_s": 6.831050499997218,
+  "prediction": "The community is organizing the Community Garden Renovation event, which involves AdamSmith and LiHua discussing improvements to a community garden. This event aims to gather community members to plan and discuss enhancements for the garden.",
+  "prediction_sha256": "1d3d4b1156a333d08abcafdcf72e4fccb6bf2ac6f3fadf12d128fbcf4b59b301",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200159,
+  "usage": {
+    "completion_tokens": 43,
+    "prompt_tokens": 5079,
+    "prompt_tokens_details": null,
+    "total_tokens": 5122
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "body_sha256": "30edb32b983e4732ed8bdf57ec8cde2ec34da09ef5c00595749d818c0ea27c93",
+  "finish_reason": "stop",
+  "latency_s": 5.766543041994737,
+  "prediction": "Jennifer Moore suggests a breathing technique for running where runners should inhale for 3 steps and exhale for 2 steps. This technique is intended to help with stamina and is described as a \"cool breathing method.\" She emphasizes the importance of focusing on controlled breaths, which she considers a \"game-changer during those long runs.\"",
+  "prediction_sha256": "dce3f121888eb07a26bdc903ff6d1c8642b772be1115a53a6b78c8d8139906ef",
+  "provider_cost_not_reported": true,
+  "requested_model": "Qwen/Qwen2.5-3B-Instruct",
+  "resolved_model": "Qwen/Qwen2.5-3B-Instruct",
+  "seed": 200138,
+  "usage": {
+    "completion_tokens": 68,
+    "prompt_tokens": 4205,
+    "prompt_tokens_details": null,
+    "total_tokens": 4273
+  }
+}
